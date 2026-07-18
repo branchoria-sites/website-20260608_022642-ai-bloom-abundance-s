@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ai-bloom-abun-98d3a6-civilisationa/
 description: Focused pages that expand on Pandemic AI.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: AI_Bloom_Abun_98d3a6_civilisationa_30f239_pandemic_fore_542374
 parent_title: Pandemic AI
@@ -16,7 +16,7 @@ parent_permalink: /pandemic-ai/
 
 # Explore Topics in Pandemic AI
 
-The following pages expand on the main **[Pandemic AI]({{ '/pandemic-ai/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Pandemic AI]({{ '/pandemic-ai/' | relative_url }})** page and cover its key branches in.
 
 - [Black Box AI]({{ '/black-box-ai/' | relative_url }})
 - [Data Failures]({{ '/data-failures/' | relative_url }})

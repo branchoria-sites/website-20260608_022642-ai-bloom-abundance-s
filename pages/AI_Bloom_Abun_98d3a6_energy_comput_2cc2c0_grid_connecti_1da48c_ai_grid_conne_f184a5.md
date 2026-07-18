@@ -269,7 +269,7 @@ image: /assets/images/AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0_grid_connecti_1d
 
 ## Introduction
 
-For all the talk of AI’s potential to transform science, health, [energy]({{ 'energy/' | relative_url }}), and civilisation at large, one surprisingly **earthbound constraint** could slow how fast massively powerful AI systems spread: the simple act of *plugging them into electricity*. AI training and inferencing at scale consume huge amounts of [power]({{ 'power/' | relative_url }}) close to where the computing is located. Yet **the local electricity grid – not the global generation capacity – often becomes the gating factor**, leaving fully built AI campuses sitting completed but powerless for years while they wait for grid connections. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.weforum.org/stories/2026/05/electricity-data-grid-connectivity-strategic-bottleneck-ai-transformation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weforum.org">[World Economic Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weforum.org</span><span class="citation-popover-snippet">World Economic ForumIs power grid connectivity the strategic bottleneck for AI? &#124; World Economic ForumMay 18, 2026...</span><span class="citation-popover-meta">Published: May 18, 2026</span></span></span>
+For all the talk of AI’s potential to transform science, health, [energy]({{ 'energy/' | relative_url }}), and civilisation at large, one surprisingly **earthbound constraint** could slow how fast massively powerful AI systems spread: the simple act of *plugging them into electricity*. AI training and inferencing at scale consume huge amounts of [power]({{ 'power/' | relative_url }}) close to where the computing is located. Yet **the local electricity grid – not the global generation capacity – often becomes the gating factor**, leaving fully built AI campuses sitting completed but powerless for years while they wait for grid connections.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.weforum.org/stories/2026/05/electricity-data-grid-connectivity-strategic-bottleneck-ai-transformation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weforum.org">[World Economic Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weforum.org</span><span class="citation-popover-snippet">World Economic ForumIs power grid connectivity the strategic bottleneck for AI? &#124; World Economic ForumMay 18, 2026...</span><span class="citation-popover-meta">Published: May 18, 2026</span></span></span>
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0_grid_connecti_1da48c_ai_grid_conne_f184a5-Illustration-1-dark.svg" | relative_url }}" alt="Grid queues illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0_grid_connecti_1da48c_ai_grid_conne_f184a5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0_grid_connecti_1da48c_ai_grid_conne_f184a5-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This page explains **why grid connection queues have become a bottleneck for AI data‑centre build‑out**, how the mechanics of interconnection create long waits even when energy supply is abundant, and how this mismatch between AI deployment timelines and grid expansion timelines shapes the emerging infrastructure landscape.
@@ -278,46 +278,46 @@ This page explains **why grid connection queues have become a bottleneck for AI 
 
 ## How connection queues turn projects into multi‑year waits
 
-At a high level, a grid connection isn’t a simple “plug it in” operation. When an AI data centre developer requests to bring a large load onto the grid, **utilities and grid operators must conduct multiple studies and determine whether existing infrastructure – cables, transmission lines, substations and [transformers]({{ 'transformers/' | relative_url }}) – can handle the new demand without risking outages or instability**. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.datacenterenergy.com/news/why-power-interconnection-timelines-are-delaying-data-center-builds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: datacenterenergy.com">[datacenterenergy.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">datacenterenergy.com</span><span class="citation-popover-title">Why Power Interconnection Timelines Are Delaying Data Center Builds</span><span class="citation-popover-snippet">Why Power Interconnection Timelines Are Delaying Data Center Builds</span></span></span>
+At a high level, a grid connection isn’t a simple “plug it in” operation. When an AI data centre developer requests to bring a large load onto the grid, **utilities and grid operators must conduct multiple studies and determine whether existing infrastructure – cables, transmission lines, substations and [transformers]({{ 'transformers/' | relative_url }}) – can handle the new demand without risking outages or instability**.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.datacenterenergy.com/news/why-power-interconnection-timelines-are-delaying-data-center-builds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: datacenterenergy.com">[datacenterenergy.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">datacenterenergy.com</span><span class="citation-popover-title">Why Power Interconnection Timelines Are Delaying Data Center Builds</span><span class="citation-popover-snippet">Why Power Interconnection Timelines Are Delaying Data Center Builds</span></span></span>
 
 Because AI facilities often require electrical loads comparable to a small city – **tens or hundreds of megawatts and sometimes over a gigawatt** – the interconnection process is rigorous:
 
-* **Feasibility, system impact, and facilities studies** assess how the new load affects voltage, frequency and the wider network, and whether upgrades are needed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.datacenterenergy.com/news/why-power-interconnection-timelines-are-delaying-data-center-builds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: datacenterenergy.com">[datacenterenergy.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">datacenterenergy.com</span><span class="citation-popover-title">Why Power Interconnection Timelines Are Delaying Data Center Builds</span><span class="citation-popover-snippet">Why Power Interconnection Timelines Are Delaying Data Center Builds</span></span></span>
-* **Much larger infrastructure may be required** – high‑voltage transmission upgrades, new substations, bigger transformers, and updated protection equipment – all demanding design, permitting, and construction work that can take years. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.datacenterenergy.com/news/why-power-interconnection-timelines-are-delaying-data-center-builds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: datacenterenergy.com">[datacenterenergy.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">datacenterenergy.com</span><span class="citation-popover-title">Why Power Interconnection Timelines Are Delaying Data Center Builds</span><span class="citation-popover-snippet">Why Power Interconnection Timelines Are Delaying Data Center Builds</span></span></span>
-* **Interconnection queues grow as more projects compete for limited capacity**, meaning later requests often wait not just for study but for actual physical upgrades to be completed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.datacenterenergy.com/news/why-power-interconnection-timelines-are-delaying-data-center-builds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: datacenterenergy.com">[datacenterenergy.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">datacenterenergy.com</span><span class="citation-popover-title">Why Power Interconnection Timelines Are Delaying Data Center Builds</span><span class="citation-popover-snippet">Why Power Interconnection Timelines Are Delaying Data Center Builds</span></span></span>
+* **Feasibility, system impact, and facilities studies** assess how the new load affects voltage, frequency and the wider network, and whether upgrades are needed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.datacenterenergy.com/news/why-power-interconnection-timelines-are-delaying-data-center-builds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: datacenterenergy.com">[datacenterenergy.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">datacenterenergy.com</span><span class="citation-popover-title">Why Power Interconnection Timelines Are Delaying Data Center Builds</span><span class="citation-popover-snippet">Why Power Interconnection Timelines Are Delaying Data Center Builds</span></span></span>
+* **Much larger infrastructure may be required** – high‑voltage transmission upgrades, new substations, bigger transformers, and updated protection equipment – all demanding design, permitting, and construction work that can take years.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.datacenterenergy.com/news/why-power-interconnection-timelines-are-delaying-data-center-builds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: datacenterenergy.com">[datacenterenergy.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">datacenterenergy.com</span><span class="citation-popover-title">Why Power Interconnection Timelines Are Delaying Data Center Builds</span><span class="citation-popover-snippet">Why Power Interconnection Timelines Are Delaying Data Center Builds</span></span></span>
+* **Interconnection queues grow as more projects compete for limited capacity**, meaning later requests often wait not just for study but for actual physical upgrades to be completed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.datacenterenergy.com/news/why-power-interconnection-timelines-are-delaying-data-center-builds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: datacenterenergy.com">[datacenterenergy.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">datacenterenergy.com</span><span class="citation-popover-title">Why Power Interconnection Timelines Are Delaying Data Center Builds</span><span class="citation-popover-snippet">Why Power Interconnection Timelines Are Delaying Data Center Builds</span></span></span>
 
-In many markets, this queue doesn’t move quickly. Utilities and regulators prioritise **grid reliability over speed**, scrutinising requests more carefully as loads become less predictable and more demanding. The result is that **grid connection timelines can stretch to 4–10 years in some regions**, even while data‑centre construction itself takes 1–2 years. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.weforum.org/stories/2026/05/electricity-data-grid-connectivity-strategic-bottleneck-ai-transformation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weforum.org">[World Economic Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weforum.org</span><span class="citation-popover-snippet">World Economic ForumIs power grid connectivity the strategic bottleneck for AI? &#124; World Economic ForumMay 18, 2026...</span><span class="citation-popover-meta">Published: May 18, 2026</span></span></span>
+In many markets, this queue doesn’t move quickly. Utilities and regulators prioritise **grid reliability over speed**, scrutinising requests more carefully as loads become less predictable and more demanding. The result is that **grid connection timelines can stretch to 4–10 years in some regions**, even while data‑centre construction itself takes 1–2 years.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.weforum.org/stories/2026/05/electricity-data-grid-connectivity-strategic-bottleneck-ai-transformation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weforum.org">[World Economic Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weforum.org</span><span class="citation-popover-snippet">World Economic ForumIs power grid connectivity the strategic bottleneck for AI? &#124; World Economic ForumMay 18, 2026...</span><span class="citation-popover-meta">Published: May 18, 2026</span></span></span>
 
-That mismatch means a project can be fully built and ready to operate, yet unable to draw power until substations, lines, and equipment catch up – effectively “stranding” capital and compute capacity until the grid delivers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.datacenterenergy.com/news/why-power-interconnection-timelines-are-delaying-data-center-builds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: datacenterenergy.com">[datacenterenergy.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">datacenterenergy.com</span><span class="citation-popover-title">Why Power Interconnection Timelines Are Delaying Data Center Builds</span><span class="citation-popover-snippet">Why Power Interconnection Timelines Are Delaying Data Center Builds</span></span></span>
+That mismatch means a project can be fully built and ready to operate, yet unable to draw power until substations, lines, and equipment catch up – effectively “stranding” capital and compute capacity until the grid delivers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.datacenterenergy.com/news/why-power-interconnection-timelines-are-delaying-data-center-builds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: datacenterenergy.com">[datacenterenergy.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">datacenterenergy.com</span><span class="citation-popover-title">Why Power Interconnection Timelines Are Delaying Data Center Builds</span><span class="citation-popover-snippet">Why Power Interconnection Timelines Are Delaying Data Center Builds</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/FSOSKGhfS7c" title="How Data Centers Are Powered (And Why They’re Straining the Grid)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=FSOSKGhfS7c" target="_blank" rel="noopener noreferrer">How Data Centers Are Powered (And Why They’re Straining the Grid)</a></p><p class="youtube-embed-meta">Channel: Engineering World &middot; Views: 2.8K &middot; Uploaded: February 2026 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=FSOSKGhfS7c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=FSOSKGhfS7c">Open on YouTube</a></p></div></div></div>
 
 ## Why AI loads collide with renewables and batteries
 
-AI data centres are not just large loads; their power draw often rises quickly and unpredictably. Massive GPU clusters can ramp from idle to full power in seconds, creating voltage and frequency swings that grids must manage. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eaton.com/us/en-us/markets/data-centers/impact-of-ai-data-center-infrastructure/grid-connection-challenges-ai-data-centers.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eaton.com">[Eaton]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eaton.com</span><span class="citation-popover-title">Grid connection challenges for AI data centers &#124; Eaton</span><span class="citation-popover-snippet">Grid connection challenges for AI data centers &#124; Eaton...</span></span></span>
+AI data centres are not just large loads; their power draw often rises quickly and unpredictably. Massive GPU clusters can ramp from idle to full power in seconds, creating voltage and frequency swings that grids must manage.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eaton.com/us/en-us/markets/data-centers/impact-of-ai-data-center-infrastructure/grid-connection-challenges-ai-data-centers.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eaton.com">[Eaton]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eaton.com</span><span class="citation-popover-title">Grid connection challenges for AI data centers &#124; Eaton</span><span class="citation-popover-snippet">Grid connection challenges for AI data centers &#124; Eaton...</span></span></span>
 
-This dynamic matters because the modern grid, especially in advanced economies, is also integrating **variable renewable energy sources**. Solar and wind make supply patterns less predictable, prompting grid operators to adopt stricter connection requirements and reserve capacity to manage variability in both supply and demand. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eaton.com/us/en-us/markets/data-centers/impact-of-ai-data-center-infrastructure/grid-connection-challenges-ai-data-centers.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eaton.com">[Eaton]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eaton.com</span><span class="citation-popover-title">Grid connection challenges for AI data centers &#124; Eaton</span><span class="citation-popover-snippet">Grid connection challenges for AI data centers &#124; Eaton...</span></span></span>
+This dynamic matters because the modern grid, especially in advanced economies, is also integrating **variable renewable energy sources**. Solar and wind make supply patterns less predictable, prompting grid operators to adopt stricter connection requirements and reserve capacity to manage variability in both supply and demand.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eaton.com/us/en-us/markets/data-centers/impact-of-ai-data-center-infrastructure/grid-connection-challenges-ai-data-centers.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eaton.com">[Eaton]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eaton.com</span><span class="citation-popover-title">Grid connection challenges for AI data centers &#124; Eaton</span><span class="citation-popover-snippet">Grid connection challenges for AI data centers &#124; Eaton...</span></span></span>
 
 In practical terms, this means:
 
-* Grid operators tighten compliance thresholds and require stronger assurances about load behaviour, slowing approval for new connections. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eaton.com/us/en-us/markets/data-centers/impact-of-ai-data-center-infrastructure/grid-connection-challenges-ai-data-centers.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eaton.com">[Eaton]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eaton.com</span><span class="citation-popover-title">Grid connection challenges for AI data centers &#124; Eaton</span><span class="citation-popover-snippet">Grid connection challenges for AI data centers &#124; Eaton...</span></span></span>
-* Renewable‑heavy regions may lack the firm capacity that large AI loads demand, pushing developers into longer upgrade cycles or requiring on‑site storage and [control]({{ 'control/' | relative_url }}) systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/business/energy/battery-storage-firms-eye-ai-demand-face-grid-supply-hurdles-2026-05-18/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Battery storage firms eye AI demand but face grid, supply hurdles</span><span class="citation-popover-snippet">are experiencing growing interest from AI data centers due to skyrocketing power demands. These battery energy storage systems—used to ba...</span></span></span>
+* Grid operators tighten compliance thresholds and require stronger assurances about load behaviour, slowing approval for new connections.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eaton.com/us/en-us/markets/data-centers/impact-of-ai-data-center-infrastructure/grid-connection-challenges-ai-data-centers.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eaton.com">[Eaton]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eaton.com</span><span class="citation-popover-title">Grid connection challenges for AI data centers &#124; Eaton</span><span class="citation-popover-snippet">Grid connection challenges for AI data centers &#124; Eaton...</span></span></span>
+* Renewable‑heavy regions may lack the firm capacity that large AI loads demand, pushing developers into longer upgrade cycles or requiring on‑site storage and [control]({{ 'control/' | relative_url }}) systems.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/business/energy/battery-storage-firms-eye-ai-demand-face-grid-supply-hurdles-2026-05-18/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Battery storage firms eye AI demand but face grid, supply hurdles</span><span class="citation-popover-snippet">are experiencing growing interest from AI data centers due to skyrocketing power demands. These battery energy storage systems—used to ba...</span></span></span>
 * Even when overall electricity generation is increasing, delivering that power *reliably where the load actually sits* remains difficult.
 
-Without upgrades such as dynamic load management, battery storage, or microgrid integration, the grid’s ability to absorb concentrated big loads is limited. This doesn’t mean power isn’t available somewhere in the system; it means infrastructure close to the data centre isn’t yet capable of delivering it on the schedule AI builders want. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eaton.com/us/en-us/markets/data-centers/impact-of-ai-data-center-infrastructure/grid-connection-challenges-ai-data-centers.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eaton.com">[Eaton]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eaton.com</span><span class="citation-popover-title">Grid connection challenges for AI data centers &#124; Eaton</span><span class="citation-popover-snippet">Grid connection challenges for AI data centers &#124; Eaton...</span></span></span>
+Without upgrades such as dynamic load management, battery storage, or microgrid integration, the grid’s ability to absorb concentrated big loads is limited. This doesn’t mean power isn’t available somewhere in the system; it means infrastructure close to the data centre isn’t yet capable of delivering it on the schedule AI builders want.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eaton.com/us/en-us/markets/data-centers/impact-of-ai-data-center-infrastructure/grid-connection-challenges-ai-data-centers.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eaton.com">[Eaton]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eaton.com</span><span class="citation-popover-title">Grid connection challenges for AI data centers &#124; Eaton</span><span class="citation-popover-snippet">Grid connection challenges for AI data centers &#124; Eaton...</span></span></span>
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0_grid_connecti_1da48c_ai_grid_conne_f184a5-Illustration-2-dark.svg" | relative_url }}" alt="Grid queues illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0_grid_connecti_1da48c_ai_grid_conne_f184a5-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0_grid_connecti_1da48c_ai_grid_conne_f184a5-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What faster interconnection would and would not solve
 
-Faster grid interconnection would clearly accelerate AI data‑centre build‑out. If queues moved at the pace developers expect – perhaps closer to construction cycles – many projects would avoid long idle periods and capital lock‑ups. Projects could be sited with greater geographic diversity instead of clustering near existing grid capacity, broadening where AI infrastructure can flourish. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.weforum.org/stories/2026/05/electricity-data-grid-connectivity-strategic-bottleneck-ai-transformation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weforum.org">[World Economic Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weforum.org</span><span class="citation-popover-snippet">World Economic ForumIs power grid connectivity the strategic bottleneck for AI? &#124; World Economic ForumMay 18, 2026...</span><span class="citation-popover-meta">Published: May 18, 2026</span></span></span>
+Faster grid interconnection would clearly accelerate AI data‑centre build‑out. If queues moved at the pace developers expect – perhaps closer to construction cycles – many projects would avoid long idle periods and capital lock‑ups. Projects could be sited with greater geographic diversity instead of clustering near existing grid capacity, broadening where AI infrastructure can flourish.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.weforum.org/stories/2026/05/electricity-data-grid-connectivity-strategic-bottleneck-ai-transformation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weforum.org">[World Economic Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weforum.org</span><span class="citation-popover-snippet">World Economic ForumIs power grid connectivity the strategic bottleneck for AI? &#124; World Economic ForumMay 18, 2026...</span><span class="citation-popover-meta">Published: May 18, 2026</span></span></span>
 
 However, simply speeding up queue processing isn’t a full solution:
 
-* **Physical limits still remain.** Even with streamlined approvals, building new transmission lines and substations takes years due to permitting, land rights, engineering complexity, and environmental reviews. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.datacenters.com/news/why-power-availability-is-delaying-data-center-projects-nationwide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: datacenters.com">[Datacenters.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">datacenters.com</span><span class="citation-popover-title">Why Power Availability Is Delaying Data Center Projects Nationwide</span><span class="citation-popover-snippet">February 6, 2026...</span><span class="citation-popover-meta">Published: February 6, 2026</span></span></span>
-* **Regulatory caution is rational.** Utilities must protect grid stability, and rapid connection of massive loads without adequate reinforcement could cause reliability issues. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.datacenterenergy.com/news/why-power-interconnection-timelines-are-delaying-data-center-builds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: datacenterenergy.com">[datacenterenergy.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">datacenterenergy.com</span><span class="citation-popover-title">Why Power Interconnection Timelines Are Delaying Data Center Builds</span><span class="citation-popover-snippet">Why Power Interconnection Timelines Are Delaying Data Center Builds</span></span></span>
-* **Supply chains matter.** Lead times for critical equipment like high‑voltage transformers have ballooned in recent years, sometimes to multiple years, further extending timelines even after approvals are granted. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.csgtalent.com/insights/blog/data-centres-grid-challenges-ai-infrastructure/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: csgtalent.com">[CSG Talent]</a><span class="citation-popover" role="note"><span class="citation-popover-source">csgtalent.com</span><span class="citation-popover-snippet">CSG TalentData Centre Grid Challenges: Powering AI Infrastructure at Scale &#124; CSG TalentJanuary 23, 2026...</span><span class="citation-popover-meta">Published: January 23, 2026</span></span></span>
+* **Physical limits still remain.** Even with streamlined approvals, building new transmission lines and substations takes years due to permitting, land rights, engineering complexity, and environmental reviews.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.datacenters.com/news/why-power-availability-is-delaying-data-center-projects-nationwide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: datacenters.com">[Datacenters.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">datacenters.com</span><span class="citation-popover-title">Why Power Availability Is Delaying Data Center Projects Nationwide</span><span class="citation-popover-snippet">February 6, 2026...</span><span class="citation-popover-meta">Published: February 6, 2026</span></span></span>
+* **Regulatory caution is rational.** Utilities must protect grid stability, and rapid connection of massive loads without adequate reinforcement could cause reliability issues.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.datacenterenergy.com/news/why-power-interconnection-timelines-are-delaying-data-center-builds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: datacenterenergy.com">[datacenterenergy.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">datacenterenergy.com</span><span class="citation-popover-title">Why Power Interconnection Timelines Are Delaying Data Center Builds</span><span class="citation-popover-snippet">Why Power Interconnection Timelines Are Delaying Data Center Builds</span></span></span>
+* **Supply chains matter.** Lead times for critical equipment like high‑voltage transformers have ballooned in recent years, sometimes to multiple years, further extending timelines even after approvals are granted.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.csgtalent.com/insights/blog/data-centres-grid-challenges-ai-infrastructure/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: csgtalent.com">[CSG Talent]</a><span class="citation-popover" role="note"><span class="citation-popover-source">csgtalent.com</span><span class="citation-popover-snippet">CSG TalentData Centre Grid Challenges: Powering AI Infrastructure at Scale &#124; CSG TalentJanuary 23, 2026...</span><span class="citation-popover-meta">Published: January 23, 2026</span></span></span>
 
-In some regions, connection queues have become so long that **developers are reconsidering whether to build at all or to invest in alternatives**, such as on‑site generation, battery storage, or microgrids to offset peak demand while awaiting grid capacity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.techradar.com/pro/inference-requires-infrastructure-that-is-closer-to-users-and-more-energy-efficient-antimatter-debuts-global-ai-network-built-to-bypass-grid-bottleneck-with-a-400-000-gpu-roll-out-by-2030-across-1000-data-centers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techradar.com">[TechRadar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techradar.com</span><span class="citation-popover-snippet">The company is deploying a network of 1,000 modular micro data centers near existing renewable energy sources such as wind, solar, hydro...</span></span></span>
+In some regions, connection queues have become so long that **developers are reconsidering whether to build at all or to invest in alternatives**, such as on‑site generation, battery storage, or microgrids to offset peak demand while awaiting grid capacity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.techradar.com/pro/inference-requires-infrastructure-that-is-closer-to-users-and-more-energy-efficient-antimatter-debuts-global-ai-network-built-to-bypass-grid-bottleneck-with-a-400-000-gpu-roll-out-by-2030-across-1000-data-centers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techradar.com">[TechRadar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techradar.com</span><span class="citation-popover-snippet">The company is deploying a network of 1,000 modular micro data centers near existing renewable energy sources such as wind, solar, hydro...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vUBAcSTLmuc" title="Is the grid ready for the AI power surge | Energy Gang" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vUBAcSTLmuc" target="_blank" rel="noopener noreferrer">Is the grid ready for the AI power surge | Energy Gang</a></p><p class="youtube-embed-meta">Channel: Wood Mackenzie &middot; Views: 264 &middot; Uploaded: May 2026 &middot; Length: 1 hour 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vUBAcSTLmuc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vUBAcSTLmuc">Open on YouTube</a></p></div></div></div>
 
@@ -327,199 +327,199 @@ From the perspective of AI’s potential to contribute to human flourishing and 
 
 Connection queues reveal a deeper truth: **power delivery is as much about infrastructure timing as about energy quantity**. Without rational planning, investment, and regulatory adaptation, the growth of compute – and the benefits it enables – risks being slower and more geographically concentrated than demand alone would suggest.
 
-Understanding and addressing this bottleneck doesn’t require abandoning energy transition goals; it requires **aligning grid planning with the timelines of digital infrastructure expansion** and ensuring that the physical networks of energy can serve, rather than constrain, the AI era. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.weforum.org/stories/2026/05/electricity-data-grid-connectivity-strategic-bottleneck-ai-transformation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weforum.org">[World Economic Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weforum.org</span><span class="citation-popover-snippet">World Economic ForumIs power grid connectivity the strategic bottleneck for AI? &#124; World Economic ForumMay 18, 2026...</span><span class="citation-popover-meta">Published: May 18, 2026</span></span></span>
+Understanding and addressing this bottleneck doesn’t require abandoning energy transition goals; it requires **aligning grid planning with the timelines of digital infrastructure expansion** and ensuring that the physical networks of energy can serve, rather than constrain, the AI era.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.weforum.org/stories/2026/05/electricity-data-grid-connectivity-strategic-bottleneck-ai-transformation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weforum.org">[World Economic Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weforum.org</span><span class="citation-popover-snippet">World Economic ForumIs power grid connectivity the strategic bottleneck for AI? &#124; World Economic ForumMay 18, 2026...</span><span class="citation-popover-meta">Published: May 18, 2026</span></span></span>
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0_grid_connecti_1da48c_ai_grid_conne_f184a5-Illustration-3-dark.svg" | relative_url }}" alt="Grid queues illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0_grid_connecti_1da48c_ai_grid_conne_f184a5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0_grid_connecti_1da48c_ai_grid_conne_f184a5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why AI campuses get stuck waiting for power. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why AI campuses get stuck waiting for power. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Grid+by+Gretchen+Bakke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Grid on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=u5AyEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Grid" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Grid+by+Gretchen+Bakke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Grid">The Grid</a>
-        </h4>
-        <p class="fr-book-author">By Gretchen Bakke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Grid+by+Gretchen+Bakke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Grid on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=u5AyEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Grid" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Grid+by+Gretchen+Bakke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Grid">The Grid</a>
+</h4>
+<p class="fr-book-author">By Gretchen Bakke</p>
         
-        <p class="fr-book-desc">Directly explains why grid connections and infrastructure queues can delay large AI campuses.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Grid+by+Gretchen+Bakke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly explains why grid connections and infrastructure queues can delay large AI campuses.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Grid+by+Gretchen+Bakke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+the+World+Really+Works+by+Vaclav+Smil&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How the World Really Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eTotEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How the World Really Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+the+World+Really+Works+by+Vaclav+Smil&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How the World Really Works">How the World Really Works</a>
-        </h4>
-        <p class="fr-book-author">By Vaclav Smil</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+the+World+Really+Works+by+Vaclav+Smil&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How the World Really Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eTotEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How the World Really Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+the+World+Really+Works+by+Vaclav+Smil&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How the World Really Works">How the World Really Works</a>
+</h4>
+<p class="fr-book-author">By Vaclav Smil</p>
         
-        <p class="fr-book-desc">Frames AI compute as dependent on physical power systems rather than abstract software capacity.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+the+World+Really+Works+by+Vaclav+Smil&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Frames AI compute as dependent on physical power systems rather than abstract software capacity.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+the+World+Really+Works+by+Vaclav+Smil&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Material+World+by+Ed+Conway&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Material World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_olEEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Material World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Material+World+by+Ed+Conway&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Material World">Material World</a>
-        </h4>
-        <p class="fr-book-author">By Ed Conway</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Material+World+by+Ed+Conway&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Material World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_olEEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Material World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Material+World+by+Ed+Conway&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Material World">Material World</a>
+</h4>
+<p class="fr-book-author">By Ed Conway</p>
         
-        <p class="fr-book-desc">Shows why cables, transformers, metals and industrial capacity become bottlenecks for AI buildout.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Material+World+by+Ed+Conway&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows why cables, transformers, metals and industrial capacity become bottlenecks for AI buildout.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Material+World+by+Ed+Conway&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Shorting+the+Grid+by+MEREDITH.+ANGWIN&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Shorting the Grid on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Ca4FzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Shorting the Grid" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Shorting+the+Grid+by+MEREDITH.+ANGWIN&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Shorting the Grid">Shorting the Grid</a>
-        </h4>
-        <p class="fr-book-author">By MEREDITH. ANGWIN</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Shorting+the+Grid+by+MEREDITH.+ANGWIN&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Shorting the Grid on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Ca4FzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Shorting the Grid" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Shorting+the+Grid+by+MEREDITH.+ANGWIN&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Shorting the Grid">Shorting the Grid</a>
+</h4>
+<p class="fr-book-author">By MEREDITH. ANGWIN</p>
         
-        <p class="fr-book-desc">Explains electricity-market and reliability issues behind interconnection delays and planning failures.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Shorting+the+Grid+by+MEREDITH.+ANGWIN&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains electricity-market and reliability issues behind interconnection delays and planning failures.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Shorting+the+Grid+by+MEREDITH.+ANGWIN&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Grid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Grid</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+the+World+Really+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How the World Really Works</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Material+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Material World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Grid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Grid</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+the+World+Really+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How the World Really Works</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Material+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Material World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grid-queues-why-ai-campuses-get-stuck-waiting-for-power-ai-bloom-abundance-superintelligence-and-data-center-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster -book -books" data-ebay-reference="grid-queues-why-ai-campuses-get-stuck-waiting-for-power-ai-bloom-abundance-superintelligence-and-data-center-poster-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Data Center Interior Bristling With Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/2fd797a8790e5df5d251.jpg' | relative_url }}" alt="Listing image for Data Center Interior Bristling With Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grid-queues-why-ai-campuses-get-stuck-waiting-for-power-ai-bloom-abundance-superintelligence-and-data-center-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster -book -books" data-ebay-reference="grid-queues-why-ai-campuses-get-stuck-waiting-for-power-ai-bloom-abundance-superintelligence-and-data-center-poster-book" target="_blank" rel="sponsored noopener noreferrer">Data Center Interior Bristling With Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grid-queues-why-ai-campuses-get-stuck-waiting-for-power-ai-bloom-abundance-superintelligence-and-data-center-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster -book -books" data-ebay-reference="grid-queues-why-ai-campuses-get-stuck-waiting-for-power-ai-bloom-abundance-superintelligence-and-data-center-poster-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for data center poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: data center poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grid-queues-why-ai-campuses-get-stuck-waiting-for-power-ai-bloom-abundance-superintelligence-and-data-center-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster -book -books" data-ebay-reference="grid-queues-why-ai-campuses-get-stuck-waiting-for-power-ai-bloom-abundance-superintelligence-and-data-center-poster-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grid-queues-why-ai-campuses-get-stuck-waiting-for-power-ai-bloom-abundance-superintelligence-and-data-center-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster -book -books" data-ebay-reference="grid-queues-why-ai-campuses-get-stuck-waiting-for-power-ai-bloom-abundance-superintelligence-and-data-center-poster-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Data Center Interior Bristling With Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/2fd797a8790e5df5d251.jpg' | relative_url }}" alt="Listing image for Data Center Interior Bristling With Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grid-queues-why-ai-campuses-get-stuck-waiting-for-power-ai-bloom-abundance-superintelligence-and-data-center-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster -book -books" data-ebay-reference="grid-queues-why-ai-campuses-get-stuck-waiting-for-power-ai-bloom-abundance-superintelligence-and-data-center-poster-book" target="_blank" rel="sponsored noopener noreferrer">Data Center Interior Bristling With Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grid-queues-why-ai-campuses-get-stuck-waiting-for-power-ai-bloom-abundance-superintelligence-and-data-center-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster -book -books" data-ebay-reference="grid-queues-why-ai-campuses-get-stuck-waiting-for-power-ai-bloom-abundance-superintelligence-and-data-center-poster-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for data center poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: data center poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grid-queues-why-ai-campuses-get-stuck-waiting-for-power-ai-bloom-abundance-superintelligence-and-data-center-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster -book -books" data-ebay-reference="grid-queues-why-ai-campuses-get-stuck-waiting-for-power-ai-bloom-abundance-superintelligence-and-data-center-poster-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grid-queues-why-ai-campuses-get-stuck-waiting-for-power-ai-bloom-abundance-superintelligence-and-data-center-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster -book -books" data-ebay-reference="grid-queues-why-ai-campuses-get-stuck-waiting-for-power-ai-bloom-abundance-superintelligence-and-data-center-poster-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Data Center Garden Work Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/aab23fc66989cb7be41d.jpg' | relative_url }}" alt="Listing image for Data Center Garden Work Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grid-queues-why-ai-campuses-get-stuck-waiting-for-power-ai-bloom-abundance-superintelligence-and-data-center-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster -book -books" data-ebay-reference="grid-queues-why-ai-campuses-get-stuck-waiting-for-power-ai-bloom-abundance-superintelligence-and-data-center-poster-book" target="_blank" rel="sponsored noopener noreferrer">Data Center Garden Work Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grid-queues-why-ai-campuses-get-stuck-waiting-for-power-ai-bloom-abundance-superintelligence-and-data-center-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster -book -books" data-ebay-reference="grid-queues-why-ai-campuses-get-stuck-waiting-for-power-ai-bloom-abundance-superintelligence-and-data-center-poster-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for data center poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: data center poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grid-queues-why-ai-campuses-get-stuck-waiting-for-power-ai-bloom-abundance-superintelligence-and-data-center-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster -book -books" data-ebay-reference="grid-queues-why-ai-campuses-get-stuck-waiting-for-power-ai-bloom-abundance-superintelligence-and-data-center-poster-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grid-queues-why-ai-campuses-get-stuck-waiting-for-power-ai-bloom-abundance-superintelligence-and-data-center-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster -book -books" data-ebay-reference="grid-queues-why-ai-campuses-get-stuck-waiting-for-power-ai-bloom-abundance-superintelligence-and-data-center-poster-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Data Center Garden Work Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/aab23fc66989cb7be41d.jpg' | relative_url }}" alt="Listing image for Data Center Garden Work Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grid-queues-why-ai-campuses-get-stuck-waiting-for-power-ai-bloom-abundance-superintelligence-and-data-center-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster -book -books" data-ebay-reference="grid-queues-why-ai-campuses-get-stuck-waiting-for-power-ai-bloom-abundance-superintelligence-and-data-center-poster-book" target="_blank" rel="sponsored noopener noreferrer">Data Center Garden Work Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grid-queues-why-ai-campuses-get-stuck-waiting-for-power-ai-bloom-abundance-superintelligence-and-data-center-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster -book -books" data-ebay-reference="grid-queues-why-ai-campuses-get-stuck-waiting-for-power-ai-bloom-abundance-superintelligence-and-data-center-poster-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for data center poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: data center poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grid-queues-why-ai-campuses-get-stuck-waiting-for-power-ai-bloom-abundance-superintelligence-and-data-center-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster -book -books" data-ebay-reference="grid-queues-why-ai-campuses-get-stuck-waiting-for-power-ai-bloom-abundance-superintelligence-and-data-center-poster-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grid-queues-why-ai-campuses-get-stuck-waiting-for-power-ai-bloom-abundance-superintelligence-and-data-center-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster -book -books" data-ebay-reference="grid-queues-why-ai-campuses-get-stuck-waiting-for-power-ai-bloom-abundance-superintelligence-and-data-center-poster-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for An Advanced Futuristic Data Center Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/8d9c7ec50bda9f88905f.jpg' | relative_url }}" alt="Listing image for An Advanced Futuristic Data Center Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grid-queues-why-ai-campuses-get-stuck-waiting-for-power-ai-bloom-abundance-superintelligence-and-data-center-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster -book -books" data-ebay-reference="grid-queues-why-ai-campuses-get-stuck-waiting-for-power-ai-bloom-abundance-superintelligence-and-data-center-poster-book" target="_blank" rel="sponsored noopener noreferrer">An Advanced Futuristic Data Center Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grid-queues-why-ai-campuses-get-stuck-waiting-for-power-ai-bloom-abundance-superintelligence-and-data-center-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster -book -books" data-ebay-reference="grid-queues-why-ai-campuses-get-stuck-waiting-for-power-ai-bloom-abundance-superintelligence-and-data-center-poster-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for data center poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: data center poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grid-queues-why-ai-campuses-get-stuck-waiting-for-power-ai-bloom-abundance-superintelligence-and-data-center-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster -book -books" data-ebay-reference="grid-queues-why-ai-campuses-get-stuck-waiting-for-power-ai-bloom-abundance-superintelligence-and-data-center-poster-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grid-queues-why-ai-campuses-get-stuck-waiting-for-power-ai-bloom-abundance-superintelligence-and-data-center-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster -book -books" data-ebay-reference="grid-queues-why-ai-campuses-get-stuck-waiting-for-power-ai-bloom-abundance-superintelligence-and-data-center-poster-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for An Advanced Futuristic Data Center Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/8d9c7ec50bda9f88905f.jpg' | relative_url }}" alt="Listing image for An Advanced Futuristic Data Center Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grid-queues-why-ai-campuses-get-stuck-waiting-for-power-ai-bloom-abundance-superintelligence-and-data-center-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster -book -books" data-ebay-reference="grid-queues-why-ai-campuses-get-stuck-waiting-for-power-ai-bloom-abundance-superintelligence-and-data-center-poster-book" target="_blank" rel="sponsored noopener noreferrer">An Advanced Futuristic Data Center Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grid-queues-why-ai-campuses-get-stuck-waiting-for-power-ai-bloom-abundance-superintelligence-and-data-center-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster -book -books" data-ebay-reference="grid-queues-why-ai-campuses-get-stuck-waiting-for-power-ai-bloom-abundance-superintelligence-and-data-center-poster-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for data center poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: data center poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grid-queues-why-ai-campuses-get-stuck-waiting-for-power-ai-bloom-abundance-superintelligence-and-data-center-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster -book -books" data-ebay-reference="grid-queues-why-ai-campuses-get-stuck-waiting-for-power-ai-bloom-abundance-superintelligence-and-data-center-poster-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grid-queues-why-ai-campuses-get-stuck-waiting-for-power-ai-bloom-abundance-superintelligence-and-data-center-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster -book -books" data-ebay-reference="grid-queues-why-ai-campuses-get-stuck-waiting-for-power-ai-bloom-abundance-superintelligence-and-data-center-poster-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Future Proof Data Center Employing Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/3add4b3696b53655441e.jpg' | relative_url }}" alt="Listing image for Future Proof Data Center Employing Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grid-queues-why-ai-campuses-get-stuck-waiting-for-power-ai-bloom-abundance-superintelligence-and-data-center-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster -book -books" data-ebay-reference="grid-queues-why-ai-campuses-get-stuck-waiting-for-power-ai-bloom-abundance-superintelligence-and-data-center-poster-book" target="_blank" rel="sponsored noopener noreferrer">Future Proof Data Center Employing Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grid-queues-why-ai-campuses-get-stuck-waiting-for-power-ai-bloom-abundance-superintelligence-and-data-center-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster -book -books" data-ebay-reference="grid-queues-why-ai-campuses-get-stuck-waiting-for-power-ai-bloom-abundance-superintelligence-and-data-center-poster-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for data center poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: data center poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grid-queues-why-ai-campuses-get-stuck-waiting-for-power-ai-bloom-abundance-superintelligence-and-data-center-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster -book -books" data-ebay-reference="grid-queues-why-ai-campuses-get-stuck-waiting-for-power-ai-bloom-abundance-superintelligence-and-data-center-poster-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grid-queues-why-ai-campuses-get-stuck-waiting-for-power-ai-bloom-abundance-superintelligence-and-data-center-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster -book -books" data-ebay-reference="grid-queues-why-ai-campuses-get-stuck-waiting-for-power-ai-bloom-abundance-superintelligence-and-data-center-poster-book" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grid-queues-why-ai-campuses-get-stuck-waiting-for-power-ai-bloom-abundance-superintelligence-and-data-center-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster -book -books" data-ebay-reference="grid-queues-why-ai-campuses-get-stuck-waiting-for-power-ai-bloom-abundance-superintelligence-and-data-center-poster-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Future Proof Data Center Employing Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/3add4b3696b53655441e.jpg' | relative_url }}" alt="Listing image for Future Proof Data Center Employing Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grid-queues-why-ai-campuses-get-stuck-waiting-for-power-ai-bloom-abundance-superintelligence-and-data-center-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster -book -books" data-ebay-reference="grid-queues-why-ai-campuses-get-stuck-waiting-for-power-ai-bloom-abundance-superintelligence-and-data-center-poster-book" target="_blank" rel="sponsored noopener noreferrer">Future Proof Data Center Employing Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grid-queues-why-ai-campuses-get-stuck-waiting-for-power-ai-bloom-abundance-superintelligence-and-data-center-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster -book -books" data-ebay-reference="grid-queues-why-ai-campuses-get-stuck-waiting-for-power-ai-bloom-abundance-superintelligence-and-data-center-poster-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for data center poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: data center poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grid-queues-why-ai-campuses-get-stuck-waiting-for-power-ai-bloom-abundance-superintelligence-and-data-center-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster -book -books" data-ebay-reference="grid-queues-why-ai-campuses-get-stuck-waiting-for-power-ai-bloom-abundance-superintelligence-and-data-center-poster-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grid-queues-why-ai-campuses-get-stuck-waiting-for-power-ai-bloom-abundance-superintelligence-and-data-center-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster -book -books" data-ebay-reference="grid-queues-why-ai-campuses-get-stuck-waiting-for-power-ai-bloom-abundance-superintelligence-and-data-center-poster-book" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -535,7 +535,7 @@ Understanding and addressing this bottleneck doesn’t require abandoning energy
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -555,7 +555,7 @@ Understanding and addressing this bottleneck doesn’t require abandoning energy
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -587,7 +587,7 @@ Understanding and addressing this bottleneck doesn’t require abandoning energy
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -639,7 +639,7 @@ Understanding and addressing this bottleneck doesn’t require abandoning energy
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -684,7 +684,7 @@ Understanding and addressing this bottleneck doesn’t require abandoning energy
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -725,117 +725,117 @@ Understanding and addressing this bottleneck doesn’t require abandoning energy
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: datacenterenergy.com  
    Title: Why Power Interconnection Timelines Are Delaying Data Center Builds  
-   Link: <a href="https://www.datacenterenergy.com/news/why-power-interconnection-timelines-are-delaying-data-center-builds" target="_blank" rel="noopener noreferrer nofollow">https://www.datacenterenergy.com/news/why-power-interconnection-timelines-are-delaying-data-center-builds</a>  
+   Link:<a href="https://www.datacenterenergy.com/news/why-power-interconnection-timelines-are-delaying-data-center-builds" target="_blank" rel="noopener noreferrer nofollow">https://www.datacenterenergy.com/news/why-power-interconnection-timelines-are-delaying-data-center-builds</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: eaton.com  
    Title: Grid connection challenges for AI data centers | Eaton  
-   Link: <a href="https://www.eaton.com/us/en-us/markets/data-centers/impact-of-ai-data-center-infrastructure/grid-connection-challenges-ai-data-centers.html" target="_blank" rel="noopener noreferrer nofollow">https://www.eaton.com/us/en-us/markets/data-centers/impact-of-ai-data-center-infrastructure/grid-connection-challenges-ai-data-centers.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Grid connection challenges for AI data centers | Eaton...</p></details>
+   Link:<a href="https://www.eaton.com/us/en-us/markets/data-centers/impact-of-ai-data-center-infrastructure/grid-connection-challenges-ai-data-centers.html" target="_blank" rel="noopener noreferrer nofollow">https://www.eaton.com/us/en-us/markets/data-centers/impact-of-ai-data-center-infrastructure/grid-connection-challenges-ai-data-centers.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Grid connection challenges for AI data centers | Eaton...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: reuters.com  
    Title: Battery storage firms eye AI demand but face grid, supply hurdles  
-   Link: <a href="https://www.reuters.com/business/energy/battery-storage-firms-eye-ai-demand-face-grid-supply-hurdles-2026-05-18/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/energy/battery-storage-firms-eye-ai-demand-face-grid-supply-hurdles-2026-05-18/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>are experiencing growing interest from AI data centers due to skyrocketing [power demands](&amp;#123;&amp;#123; &#x27;power-demand/&#x27; | relative_url &amp;#125;&amp;#125;). These battery energy storage systems—used to ba...</p></details>
+   Link:<a href="https://www.reuters.com/business/energy/battery-storage-firms-eye-ai-demand-face-grid-supply-hurdles-2026-05-18/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/energy/battery-storage-firms-eye-ai-demand-face-grid-supply-hurdles-2026-05-18/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>are experiencing growing interest from AI data centers due to skyrocketing [power demands](&amp;#123;&amp;#123; &#x27;power-demand/&#x27; | relative_url &amp;#125;&amp;#125;). These battery energy storage systems—used to ba...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: datacenters.com  
    Title: Why Power Availability Is Delaying Data Center Projects Nationwide  
-   Link: <a href="https://www.datacenters.com/news/why-power-availability-is-delaying-data-center-projects-nationwide" target="_blank" rel="noopener noreferrer nofollow">https://www.datacenters.com/news/why-power-availability-is-delaying-data-center-projects-nationwide</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>February 6, 2026...</p></details>
+   Link:<a href="https://www.datacenters.com/news/why-power-availability-is-delaying-data-center-projects-nationwide" target="_blank" rel="noopener noreferrer nofollow">https://www.datacenters.com/news/why-power-availability-is-delaying-data-center-projects-nationwide</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>February 6, 2026...</p></details>
    Published: February 6, 2026  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: techradar.com  
-   Link: <a href="https://www.techradar.com/pro/inference-requires-infrastructure-that-is-closer-to-users-and-more-energy-efficient-antimatter-debuts-global-ai-network-built-to-bypass-grid-bottleneck-with-a-400-000-gpu-roll-out-by-2030-across-1000-data-centers" target="_blank" rel="noopener noreferrer nofollow">https://www.techradar.com/pro/inference-requires-infrastructure-that-is-closer-to-users-and-more-energy-efficient-antimatter-debuts-global-ai-network-built-to-bypass-grid-bottleneck-with-a-400-000-gpu-roll-out-by-2030-across-1000-data-centers</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The company is deploying a network of 1,000 modular micro data centers near existing renewable energy sources such as wind, solar, hydro...</p></details>
+   Link:<a href="https://www.techradar.com/pro/inference-requires-infrastructure-that-is-closer-to-users-and-more-energy-efficient-antimatter-debuts-global-ai-network-built-to-bypass-grid-bottleneck-with-a-400-000-gpu-roll-out-by-2030-across-1000-data-centers" target="_blank" rel="noopener noreferrer nofollow">https://www.techradar.com/pro/inference-requires-infrastructure-that-is-closer-to-users-and-more-energy-efficient-antimatter-debuts-global-ai-network-built-to-bypass-grid-bottleneck-with-a-400-000-gpu-roll-out-by-2030-across-1000-data-centers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The company is deploying a network of 1,000 modular micro data centers near existing renewable energy sources such as wind, solar, hydro...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: techradar.com  
-   Link: <a href="https://www.techradar.com/pro/uk-government-wants-to-prioritize-getting-data-centers-access-to-the-national-grid" target="_blank" rel="noopener noreferrer nofollow">https://www.techradar.com/pro/uk-government-wants-to-prioritize-getting-data-centers-access-to-the-national-grid</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UK government wants to prioritize getting data centers access to the national grid | TechRadarMarch 13, 2026 — UK GOVERNMENT WANTS TO PRI...</p></details>
+   Link:<a href="https://www.techradar.com/pro/uk-government-wants-to-prioritize-getting-data-centers-access-to-the-national-grid" target="_blank" rel="noopener noreferrer nofollow">https://www.techradar.com/pro/uk-government-wants-to-prioritize-getting-data-centers-access-to-the-national-grid</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK government wants to prioritize getting data centers access to the national grid | TechRadarMarch 13, 2026 — UK GOVERNMENT WANTS TO PRI...</p></details>
    Published: March 13, 2026  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: weforum.org  
-   Link: <a href="https://www.weforum.org/stories/2026/05/electricity-data-grid-connectivity-strategic-bottleneck-ai-transformation/" target="_blank" rel="noopener noreferrer nofollow">https://www.weforum.org/stories/2026/05/electricity-data-grid-connectivity-strategic-bottleneck-ai-transformation/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>World Economic ForumIs power grid connectivity the strategic bottleneck for AI? | World Economic ForumMay 18, 2026...</p></details>
+   Link:<a href="https://www.weforum.org/stories/2026/05/electricity-data-grid-connectivity-strategic-bottleneck-ai-transformation/" target="_blank" rel="noopener noreferrer nofollow">https://www.weforum.org/stories/2026/05/electricity-data-grid-connectivity-strategic-bottleneck-ai-transformation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>World Economic ForumIs power grid connectivity the strategic bottleneck for AI? | World Economic ForumMay 18, 2026...</p></details>
    Published: May 18, 2026  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: csgtalent.com  
-   Link: <a href="https://www.csgtalent.com/insights/blog/data-centres-grid-challenges-ai-infrastructure/" target="_blank" rel="noopener noreferrer nofollow">https://www.csgtalent.com/insights/blog/data-centres-grid-challenges-ai-infrastructure/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CSG TalentData Centre Grid Challenges: Powering AI Infrastructure at Scale | CSG TalentJanuary 23, 2026...</p></details>
+   Link:<a href="https://www.csgtalent.com/insights/blog/data-centres-grid-challenges-ai-infrastructure/" target="_blank" rel="noopener noreferrer nofollow">https://www.csgtalent.com/insights/blog/data-centres-grid-challenges-ai-infrastructure/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CSG TalentData Centre Grid Challenges: Powering AI Infrastructure at Scale | CSG TalentJanuary 23, 2026...</p></details>
    Published: January 23, 2026  
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: tomshardware.com  
-   Link: <a href="https://www.tomshardware.com/tech-industry/amazons-european-data-center-projects-stalled-by-grid-delays" target="_blank" rel="noopener noreferrer nofollow">https://www.tomshardware.com/tech-industry/amazons-european-data-center-projects-stalled-by-grid-delays</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>February 6, 2026 — AMAZON&#x27;S EUROPEAN DATA CENTERS CHALLENGED BY [GRID DELAYS](&amp;#123;&amp;#123; &#x27;grid-delays/&#x27; | relative_url &amp;#125;&amp;#125;) — UP TO SEVEN YEAR WAITS FOR NEW CONNECTIONS MEMBER EXCLUSIVE...</p></details>
+   Link:<a href="https://www.tomshardware.com/tech-industry/amazons-european-data-center-projects-stalled-by-grid-delays" target="_blank" rel="noopener noreferrer nofollow">https://www.tomshardware.com/tech-industry/amazons-european-data-center-projects-stalled-by-grid-delays</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>February 6, 2026 — AMAZON&#x27;S EUROPEAN DATA CENTERS CHALLENGED BY [GRID DELAYS](&amp;#123;&amp;#123; &#x27;grid-delays/&#x27; | relative_url &amp;#125;&amp;#125;) — UP TO SEVEN YEAR WAITS FOR NEW CONNECTIONS MEMBER EXCLUSIVE...</p></details>
    Published: February 6, 2026  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: useluminix.com  
-   Link: <a href="https://www.useluminix.com/reports/industry-analysis/data-centers-in-space/source/1" target="_blank" rel="noopener noreferrer nofollow">https://www.useluminix.com/reports/industry-analysis/data-centers-in-space/source/1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>February 12, 2026 — Source Report 2 February 12, 2026 ANALYZE CURRENT BOTTLENECKS IN TERRESTRIAL DATA CENTER DEPLOYMENT INCLUDING POWER G...</p></details>
+   Link:<a href="https://www.useluminix.com/reports/industry-analysis/data-centers-in-space/source/1" target="_blank" rel="noopener noreferrer nofollow">https://www.useluminix.com/reports/industry-analysis/data-centers-in-space/source/1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>February 12, 2026 — Source Report 2 February 12, 2026 ANALYZE CURRENT BOTTLENECKS IN TERRESTRIAL DATA CENTER DEPLOYMENT INCLUDING POWER G...</p></details>
    Published: February 12, 2026  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: networkworld.com  
-   Link: <a href="https://www.networkworld.com/article/4117329/google-warns-transmission-delays-are-now-the-biggest-threat-to-data-center-expansion.html" target="_blank" rel="noopener noreferrer nofollow">https://www.networkworld.com/article/4117329/google-warns-transmission-delays-are-now-the-biggest-threat-to-data-center-expansion.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>January 15, 2026 — by Gyana Swain GOOGLE WARNS GRID CONNECTION DELAYS ARE NOW THE BIGGEST THREAT TO DATA CENTER EXPANSION News Jan 15, 20...</p></details>
+   Link:<a href="https://www.networkworld.com/article/4117329/google-warns-transmission-delays-are-now-the-biggest-threat-to-data-center-expansion.html" target="_blank" rel="noopener noreferrer nofollow">https://www.networkworld.com/article/4117329/google-warns-transmission-delays-are-now-the-biggest-threat-to-data-center-expansion.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>January 15, 2026 — by Gyana Swain GOOGLE WARNS GRID CONNECTION DELAYS ARE NOW THE BIGGEST THREAT TO DATA CENTER EXPANSION News Jan 15, 20...</p></details>
    Published: January 15, 2026  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nineaiview.com  
-   Link: <a href="https://nineaiview.com/ai-power-grid-bottleneck/" target="_blank" rel="noopener noreferrer nofollow">https://nineaiview.com/ai-power-grid-bottleneck/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Power Grid Bottleneck: Why Data Centers Are Hitting a Hard Infrastructure Ceiling - AI InsightsJanuary 31, 2026 — AI POWER GRID BOTTLE...</p></details>
+   Link:<a href="https://nineaiview.com/ai-power-grid-bottleneck/" target="_blank" rel="noopener noreferrer nofollow">https://nineaiview.com/ai-power-grid-bottleneck/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI Power Grid Bottleneck: Why Data Centers Are Hitting a Hard Infrastructure Ceiling - AI InsightsJanuary 31, 2026 — AI POWER GRID BOTTLE...</p></details>
    Published: January 31, 2026  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: pulse.latellu.com  
    Title: ai power bottleneck transformers interconnection queues 2026 data center hit  
-   Link: <a href="https://pulse.latellu.com/articles/ai-power-bottleneck-transformers-interconnection-queues-2026-data-center-hit" target="_blank" rel="noopener noreferrer nofollow">https://pulse.latellu.com/articles/ai-power-bottleneck-transformers-interconnection-queues-2026-data-center-hit</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Power Bottleneck: Transformers, Interconnection Queues, and the 2026 Data Center Hit | Pulse LatelluApril 5, 2026 — AI Energy Crisis—A...</p></details>
+   Link:<a href="https://pulse.latellu.com/articles/ai-power-bottleneck-transformers-interconnection-queues-2026-data-center-hit" target="_blank" rel="noopener noreferrer nofollow">https://pulse.latellu.com/articles/ai-power-bottleneck-transformers-interconnection-queues-2026-data-center-hit</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI Power Bottleneck: Transformers, Interconnection Queues, and the 2026 Data Center Hit | Pulse LatelluApril 5, 2026 — AI Energy Crisis—A...</p></details>
    Published: April 5, 2026  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: datacenternews.org  
    Title: Data Center Substation Explained: What It Is And Why It’s A Bottleneck  
-   Link: <a href="https://datacenternews.org/data-center-substation-explained/" target="_blank" rel="noopener noreferrer nofollow">https://datacenternews.org/data-center-substation-explained/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>February 2, 2026 — DATA CENTER SUBSTATION EXPLAINED: WHAT IT IS AND WHY IT’S A BOTTLENECK Image: Data Center News by Data Center News Feb...</p></details>
+   Link:<a href="https://datacenternews.org/data-center-substation-explained/" target="_blank" rel="noopener noreferrer nofollow">https://datacenternews.org/data-center-substation-explained/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>February 2, 2026 — DATA CENTER SUBSTATION EXPLAINED: WHAT IT IS AND WHY IT’S A BOTTLENECK Image: Data Center News by Data Center News Feb...</p></details>
    Published: February 2, 2026  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: datacenterfrontier.com  
    Title: They’re short on electrons, facing a grid that can’t build fast  
-   Link: <a href="https://www.datacenterfrontier.com/energy/article/55365067/project-stalled-grid-bottlenecks-threaten-the-fifth-industrial-revolution" target="_blank" rel="noopener noreferrer nofollow">https://www.datacenterfrontier.com/energy/article/55365067/project-stalled-grid-bottlenecks-threaten-the-fifth-industrial-revolution</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Stalled: Grid Bottlenecks Threaten the Fifth Industrial Revolution | Data Center FrontierMarch 19, 2026 — PROJECT STALLED: GRID B...</p></details>
+   Link:<a href="https://www.datacenterfrontier.com/energy/article/55365067/project-stalled-grid-bottlenecks-threaten-the-fifth-industrial-revolution" target="_blank" rel="noopener noreferrer nofollow">https://www.datacenterfrontier.com/energy/article/55365067/project-stalled-grid-bottlenecks-threaten-the-fifth-industrial-revolution</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Stalled: Grid Bottlenecks Threaten the Fifth Industrial Revolution | Data Center FrontierMarch 19, 2026 — PROJECT STALLED: GRID B...</p></details>
    Published: March 19, 2026  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: datacenterknowledge.com  
    Title: Here’s why they happen – and what operators can do to mitigate  
-   Link: <a href="https://www.datacenterknowledge.com/energy-power-supply/why-data-center-grid-connections-are-slowing-down-and-how-to-fix-it" target="_blank" rel="noopener noreferrer nofollow">https://www.datacenterknowledge.com/energy-power-supply/why-data-center-grid-connections-are-slowing-down-and-how-to-fix-it</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Data Center Grid Connections Are Slowing Down – And How to Fix ItMarch 17, 2025 — WHY DATA CENTER GRID CONNECTIONS ARE SLOWING DOWN –...</p></details>
+   Link:<a href="https://www.datacenterknowledge.com/energy-power-supply/why-data-center-grid-connections-are-slowing-down-and-how-to-fix-it" target="_blank" rel="noopener noreferrer nofollow">https://www.datacenterknowledge.com/energy-power-supply/why-data-center-grid-connections-are-slowing-down-and-how-to-fix-it</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why Data Center Grid Connections Are Slowing Down – And How to Fix ItMarch 17, 2025 — WHY DATA CENTER GRID CONNECTIONS ARE SLOWING DOWN –...</p></details>
    Published: March 17, 2025  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: datum.co.uk  
    Title: Data Centre Construction Bottlenecks | Datum Datacentres  
-   Link: <a href="https://www.datum.co.uk/insights/news/construction-bottlenecks/" target="_blank" rel="noopener noreferrer nofollow">https://www.datum.co.uk/insights/news/construction-bottlenecks/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>January 22, 2026 — CONSTRUCTION - A MAJOR BOTTLENECK IN DATA CENTRE GROWTH Posted on 22 January 202622 January 2026 in News RISING DEMAND...</p></details>
+   Link:<a href="https://www.datum.co.uk/insights/news/construction-bottlenecks/" target="_blank" rel="noopener noreferrer nofollow">https://www.datum.co.uk/insights/news/construction-bottlenecks/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>January 22, 2026 — CONSTRUCTION - A MAJOR BOTTLENECK IN DATA CENTRE GROWTH Posted on 22 January 202622 January 2026 in News RISING DEMAND...</p></details>
    Published: January 22, 2026  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: energycosts.co.uk  
    Title: Will AI Data Centres Push Up UK Electricity Bills?  
-   Link: <a href="https://www.energycosts.co.uk/articles/ai-data-centres-electricity-bills/" target="_blank" rel="noopener noreferrer nofollow">https://www.energycosts.co.uk/articles/ai-data-centres-electricity-bills/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>✓ Last updated on 5 May 2026 Image AI data centres are becoming one of the biggest new sources of electricity demand in the UK. That does...</p></details>
+   Link:<a href="https://www.energycosts.co.uk/articles/ai-data-centres-electricity-bills/" target="_blank" rel="noopener noreferrer nofollow">https://www.energycosts.co.uk/articles/ai-data-centres-electricity-bills/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>✓ Last updated on 5 May 2026 Image AI data centres are becoming one of the biggest new sources of electricity demand in the UK. That does...</p></details>
    Published: May 2026

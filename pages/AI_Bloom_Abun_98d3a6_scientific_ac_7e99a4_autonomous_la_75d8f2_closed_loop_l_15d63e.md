@@ -278,24 +278,24 @@ image: /assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_autonomous_la_75
 The central promise of a closed-loop laboratory is not that robots can run experiments faster. It is that the laboratory can learn from each result and use that information to decide what to test next.
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_autonomous_la_75d8f2_closed_loop_l_15d63e-Illustration-1-dark.svg" | relative_url }}" alt="Closed loop illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_autonomous_la_75d8f2_closed_loop_l_15d63e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_autonomous_la_75d8f2_closed_loop_l_15d63e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-In a traditional research programme, scientists often spend days or weeks interpreting results, debating hypotheses, designing follow-up experiments and scheduling equipment. A closed-loop system attempts to compress that cycle. Software analyses the latest data, updates its model of the problem, chooses the most useful next experiment and sends instructions directly to laboratory equipment. The result is an adaptive [discovery]({{ 'discovery/' | relative_url }}) process in which every experiment influences the next one. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S258959741930019X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">This feedback loop is...</span></span></span>
+In a traditional research programme, scientists often spend days or weeks interpreting results, debating hypotheses, designing follow-up experiments and scheduling equipment. A closed-loop system attempts to compress that cycle. Software analyses the latest data, updates its model of the problem, chooses the most useful next experiment and sends instructions directly to laboratory equipment. The result is an adaptive [discovery]({{ 'discovery/' | relative_url }}) process in which every experiment influences the next one.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S258959741930019X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">This feedback loop is...</span></span></span>
 
-This matters because many of the scientific challenges associated with an AI-enabled future involve enormous search spaces. There may be millions of possible battery materials, catalysts, drug candidates or synthesis conditions. The bottleneck is often not generating ideas but deciding which tiny fraction of possibilities deserve real-world testing. Closed-loop laboratories are an attempt to make that choice more systematically and more quickly than human researchers can manage alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubs.acs.org/doi/10.1021/acs.chemrev.4c00055" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubs.acs.org">[ACS Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubs.acs.org</span><span class="citation-popover-snippet">One of the most common strategies today for SDL experimental planning is Bayesian optimization (BO)...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-023-06734-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">An autonomous laboratory for the accelerated synthesis of...29 Nov 2023 — Here we present the A-Lab, an autonomous laboratory that...</span></span></span>
+This matters because many of the scientific challenges associated with an AI-enabled future involve enormous search spaces. There may be millions of possible battery materials, catalysts, drug candidates or synthesis conditions. The bottleneck is often not generating ideas but deciding which tiny fraction of possibilities deserve real-world testing. Closed-loop laboratories are an attempt to make that choice more systematically and more quickly than human researchers can manage alone.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubs.acs.org/doi/10.1021/acs.chemrev.4c00055" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubs.acs.org">[ACS Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubs.acs.org</span><span class="citation-popover-snippet">One of the most common strategies today for SDL experimental planning is Bayesian optimization (BO)...Read more...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-023-06734-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">An autonomous laboratory for the accelerated synthesis of...29 Nov 2023 — Here we present the A-Lab, an autonomous laboratory that...</span></span></span>
 
 ## The discovery loop from hypothesis to result
 
 A closed-loop laboratory is often described as a self-driving lab because it repeatedly cycles through the same sequence:
 
-1. Predict promising candidates. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubs.rsc.org/en/content/articlehtml/2026/dd/d5dd00337g" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubs.rsc.org">[2. Select experiments.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubs.rsc.org</span><span class="citation-popover-snippet">Self-driving labs, or systems that select experiments...Read more...</span></span></span> 3. Run experiments with robotic equipment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/groups/1572893699951268/posts/2053869341853699/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Autonomous labs accelerate research with ai and roboticsThe automated laboratories use machine learning to design experiments, robotic sy...</span></span></span>
+1. Predict promising candidates.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubs.rsc.org/en/content/articlehtml/2026/dd/d5dd00337g" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubs.rsc.org">[2. Select experiments.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubs.rsc.org</span><span class="citation-popover-snippet">Self-driving labs, or systems that select experiments...Read more...</span></span></span> 3. Run experiments with robotic equipment.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/groups/1572893699951268/posts/2053869341853699/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Autonomous labs accelerate research with ai and roboticsThe automated laboratories use machine learning to design experiments, robotic sy...</span></span></span>
 4. Measure outcomes.
 5. Update models.
 6. Choose the next experiments.
 
-The key step is the fifth. After receiving new data, the system does not simply record the result. It updates its beliefs about the scientific landscape it is exploring. A material that performed unexpectedly well may cause the system to search nearby chemical combinations. A failed synthesis may teach it to avoid an entire region of the search space. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41467-020-19597-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">On-the-fly closed-loop materials discovery via Bayesian...by AG Kusne · 2020 · Cited by 505 — We demonstrate an autonomous materia...</span></span></span>
+The key step is the fifth. After receiving new data, the system does not simply record the result. It updates its beliefs about the scientific landscape it is exploring. A material that performed unexpectedly well may cause the system to search nearby chemical combinations. A failed synthesis may teach it to avoid an entire region of the search space.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41467-020-19597-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">On-the-fly closed-loop materials discovery via Bayesian...by AG Kusne · 2020 · Cited by 505 — We demonstrate an autonomous materia...</span></span></span>
 
-Researchers often compare this process to navigation. Imagine trying to find the highest mountain in a continent hidden by fog. Random searching wastes time. A closed-loop system instead uses each observation to estimate where the peaks might be and then decides where to look next. The goal is not only to find a good answer but to learn the shape of the landscape while searching. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubs.acs.org/doi/10.1021/acs.chemrev.4c00055" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubs.acs.org">[ACS Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubs.acs.org</span><span class="citation-popover-snippet">One of the most common strategies today for SDL experimental planning is Bayesian optimization (BO)...Read more...</span></span></span>
+Researchers often compare this process to navigation. Imagine trying to find the highest mountain in a continent hidden by fog. Random searching wastes time. A closed-loop system instead uses each observation to estimate where the peaks might be and then decides where to look next. The goal is not only to find a good answer but to learn the shape of the landscape while searching.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubs.acs.org/doi/10.1021/acs.chemrev.4c00055" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubs.acs.org">[ACS Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubs.acs.org</span><span class="citation-popover-snippet">One of the most common strategies today for SDL experimental planning is Bayesian optimization (BO)...Read more...</span></span></span>
 
-This is why many autonomous laboratories are described as active learning systems. The experiment itself becomes part of the learning algorithm. Rather than treating experiments as isolated tests, the lab treats them as information-gathering actions that improve future decisions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2006.06141" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+This is why many autonomous laboratories are described as active learning systems. The experiment itself becomes part of the learning algorithm. Rather than treating experiments as isolated tests, the lab treats them as information-gathering actions that improve future decisions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2006.06141" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 ## Active learning and experimental choice
 
@@ -309,7 +309,7 @@ One option is exploitation: perform experiments that seem most likely to succeed
 
 The other is exploration: test uncertain possibilities that could reveal something entirely new.
 
-A laboratory that only exploits may get trapped in a local optimum, repeatedly improving a mediocre result. A laboratory that only explores may waste resources wandering through unlikely possibilities. The challenge is balancing both goals. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubs.acs.org/doi/10.1021/acs.chemrev.4c00055" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubs.acs.org">[ACS Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubs.acs.org</span><span class="citation-popover-snippet">One of the most common strategies today for SDL experimental planning is Bayesian optimization (BO)...Read more...</span></span></span>
+A laboratory that only exploits may get trapped in a local optimum, repeatedly improving a mediocre result. A laboratory that only explores may waste resources wandering through unlikely possibilities. The challenge is balancing both goals.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubs.acs.org/doi/10.1021/acs.chemrev.4c00055" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubs.acs.org">[ACS Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubs.acs.org</span><span class="citation-popover-snippet">One of the most common strategies today for SDL experimental planning is Bayesian optimization (BO)...Read more...</span></span></span>
 
 This trade-off appears throughout scientific discovery. Human researchers make similar judgments intuitively. Closed-loop systems attempt to formalise the process mathematically.
 
@@ -317,7 +317,7 @@ This trade-off appears throughout scientific discovery. Human researchers make s
 
 ### Bayesian optimisation
 
-One of the most common methods is Bayesian optimisation, which has become a core technique in self-driving laboratories. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubs.acs.org/doi/10.1021/acs.chemrev.4c00055" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubs.acs.org">[ACS Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubs.acs.org</span><span class="citation-popover-snippet">One of the most common strategies today for SDL experimental planning is Bayesian optimization (BO)...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubs.rsc.org/en/content/articlelanding/2025/dd/d4dd00115j" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubs.rsc.org">[RSC Publishing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubs.rsc.org</span><span class="citation-popover-title">Publishing Atlas: a brain for self-driving laboratories</span><span class="citation-popover-snippet">RSC PublishingAtlas: a brain for self-driving laboratories - RSC Publishingby RJ Hickman · 2025 · Cited by 50 — We report Atlas, an appli...</span></span></span>
+One of the most common methods is Bayesian optimisation, which has become a core technique in self-driving laboratories.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubs.acs.org/doi/10.1021/acs.chemrev.4c00055" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubs.acs.org">[ACS Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubs.acs.org</span><span class="citation-popover-snippet">One of the most common strategies today for SDL experimental planning is Bayesian optimization (BO)...Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pubs.rsc.org/en/content/articlelanding/2025/dd/d4dd00115j" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubs.rsc.org">[RSC Publishing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubs.rsc.org</span><span class="citation-popover-title">Publishing Atlas: a brain for self-driving laboratories</span><span class="citation-popover-snippet">RSC PublishingAtlas: a brain for self-driving laboratories - RSC Publishingby RJ Hickman · 2025 · Cited by 50 — We report Atlas, an appli...</span></span></span>
 
 The basic idea is simple.
 
@@ -326,17 +326,17 @@ Instead of assuming it already knows the best experiment, the system maintains a
 * Which regions seem promising.
 * How uncertain those estimates are.
 
-An experiment can therefore be valuable for two different reasons. It might be predicted to produce excellent results, or it might reduce uncertainty in an important area. Bayesian optimisation attempts to balance these considerations automatically. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubs.acs.org/doi/10.1021/acs.chemrev.4c00055" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubs.acs.org">[ACS Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubs.acs.org</span><span class="citation-popover-snippet">One of the most common strategies today for SDL experimental planning is Bayesian optimization (BO)...Read more...</span></span></span>
+An experiment can therefore be valuable for two different reasons. It might be predicted to produce excellent results, or it might reduce uncertainty in an important area. Bayesian optimisation attempts to balance these considerations automatically.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubs.acs.org/doi/10.1021/acs.chemrev.4c00055" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubs.acs.org">[ACS Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubs.acs.org</span><span class="citation-popover-snippet">One of the most common strategies today for SDL experimental planning is Bayesian optimization (BO)...Read more...</span></span></span>
 
-In practice, this means a laboratory may deliberately choose an experiment that is not expected to be the best performer because the information gained could improve future decisions. This is one reason autonomous labs can sometimes outperform straightforward trial-and-error approaches while using fewer experiments. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s42004-026-01932-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">The ADePT framework for assessing autonomous...by P Salazar-Villacis · 2026 — Studies in robotics and chemical automation outline...</span></span></span>
+In practice, this means a laboratory may deliberately choose an experiment that is not expected to be the best performer because the information gained could improve future decisions. This is one reason autonomous labs can sometimes outperform straightforward trial-and-error approaches while using fewer experiments.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s42004-026-01932-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">The ADePT framework for assessing autonomous...by P Salazar-Villacis · 2026 — Studies in robotics and chemical automation outline...</span></span></span>
 
 ### Learning from failure
 
 An important feature of active learning systems is that negative results can be highly valuable.
 
-Human researchers often focus attention on successful experiments. Closed-loop systems instead treat every outcome as information. A failed synthesis, an unstable material or a poor-performing catalyst can narrow the search space and improve the model's understanding. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s44160-026-01053-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">A flexible and affordable self-driving laboratory for...by S Pilon · 2026 · Cited by 1 — Through this interface, users can select experi...</span></span></span>
+Human researchers often focus attention on successful experiments. Closed-loop systems instead treat every outcome as information. A failed synthesis, an unstable material or a poor-performing catalyst can narrow the search space and improve the model's understanding.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s44160-026-01053-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">A flexible and affordable self-driving laboratory for...by S Pilon · 2026 · Cited by 1 — Through this interface, users can select experi...</span></span></span>
 
-Researchers behind the CAMEO autonomous materials platform described this as helping scientists "fail smarter". The system continuously updates its model from both successes and failures, allowing it to learn faster from limited experimental budgets. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/collections/igbhhbedgi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Self-driving labs and automation software for chemistry and...7 Feb 2024 — This cross-journal collection is dedicated to the development...</span></span></span>
+Researchers behind the CAMEO autonomous materials platform described this as helping scientists "fail smarter". The system continuously updates its model from both successes and failures, allowing it to learn faster from limited experimental budgets.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/collections/igbhhbedgi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Self-driving labs and automation software for chemistry and...7 Feb 2024 — This cross-journal collection is dedicated to the development...</span></span></span>
 
 That feature matters for the broader scientific acceleration story. Many important research problems are dominated by failed experiments. If AI systems can extract more knowledge from each failure, the effective rate of scientific learning may increase even when experimental resources remain limited.
 
@@ -346,22 +346,22 @@ A useful way to understand closed-loop laboratories is to think of experiments a
 
 The immediate result matters, but the larger value may come from improving future choices.
 
-Suppose a materials laboratory has ten thousand candidate compounds. Testing one compound reveals something about that material. Testing a carefully chosen compound may reveal information about hundreds of related candidates. The second experiment has a larger informational return even if the material itself is not exceptional. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubs.acs.org/doi/10.1021/acs.chemrev.4c00055" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubs.acs.org">[ACS Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubs.acs.org</span><span class="citation-popover-snippet">One of the most common strategies today for SDL experimental planning is Bayesian optimization (BO)...Read more...</span></span></span>
+Suppose a materials laboratory has ten thousand candidate compounds. Testing one compound reveals something about that material. Testing a carefully chosen compound may reveal information about hundreds of related candidates. The second experiment has a larger informational return even if the material itself is not exceptional.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubs.acs.org/doi/10.1021/acs.chemrev.4c00055" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubs.acs.org">[ACS Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubs.acs.org</span><span class="citation-popover-snippet">One of the most common strategies today for SDL experimental planning is Bayesian optimization (BO)...Read more...</span></span></span>
 
-This is one reason autonomous labs are often evaluated by efficiency rather than raw throughput. The question is not merely how many experiments they perform. It is how much useful knowledge they gain per experiment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S258959741930019X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">This feedback loop is...</span></span></span>
+This is one reason autonomous labs are often evaluated by efficiency rather than raw throughput. The question is not merely how many experiments they perform. It is how much useful knowledge they gain per experiment.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S258959741930019X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">This feedback loop is...</span></span></span>
 
-Supporters argue that this distinction is easy to miss. A robot that runs ten thousand random experiments may produce less scientific value than a system that runs one hundred carefully chosen experiments guided by active learning. The promise of closed-loop research is therefore [intelligence]({{ 'intelligence/' | relative_url }}) applied to experimentation, not automation alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S258959741930019X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">This feedback loop is...</span></span></span>
+Supporters argue that this distinction is easy to miss. A robot that runs ten thousand random experiments may produce less scientific value than a system that runs one hundred carefully chosen experiments guided by active learning. The promise of closed-loop research is therefore [intelligence]({{ 'intelligence/' | relative_url }}) applied to experimentation, not automation alone.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S258959741930019X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">This feedback loop is...</span></span></span>
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_autonomous_la_75d8f2_closed_loop_l_15d63e-Illustration-2-dark.svg" | relative_url }}" alt="Closed loop illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_autonomous_la_75d8f2_closed_loop_l_15d63e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_autonomous_la_75d8f2_closed_loop_l_15d63e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Real examples of adaptive experiment selection
 
-Several prominent self-driving laboratory projects already use versions of this approach. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emergentmind.com/topics/self-driving-laboratories" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emergentmind.com">[emergentmind.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emergentmind.com</span><span class="citation-popover-title">self driving laboratories</span><span class="citation-popover-snippet">Self-Driving LaboratoriesNov 21, 2025 — Self-driving laboratories use autonomous robotics and Bayesian optimization to rapidly design, ex...</span></span></span>
+Several prominent self-driving laboratory projects already use versions of this approach.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emergentmind.com/topics/self-driving-laboratories" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emergentmind.com">[emergentmind.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emergentmind.com</span><span class="citation-popover-title">self driving laboratories</span><span class="citation-popover-snippet">Self-Driving LaboratoriesNov 21, 2025 — Self-driving laboratories use autonomous robotics and Bayesian optimization to rapidly design, ex...</span></span></span>
 
-The CAMEO materials-discovery platform combined real-time experiments with Bayesian active learning to identify promising phase-change materials. Rather than following a fixed experimental sequence, the system updated its search strategy after each measurement. Researchers reported that experimental cycles could occur within seconds or minutes, allowing rapid adaptation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-023-06734-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">An autonomous laboratory for the accelerated synthesis of...29 Nov 2023 — Here we present the A-Lab, an autonomous laboratory that...</span></span></span>
+The CAMEO materials-discovery platform combined real-time experiments with Bayesian active learning to identify promising phase-change materials. Rather than following a fixed experimental sequence, the system updated its search strategy after each measurement. Researchers reported that experimental cycles could occur within seconds or minutes, allowing rapid adaptation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-023-06734-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">An autonomous laboratory for the accelerated synthesis of...29 Nov 2023 — Here we present the A-Lab, an autonomous laboratory that...</span></span></span>
 
-The A-Lab materials project integrated machine learning, [robotics]({{ 'robotics/' | relative_url }}), automated characterisation and active learning to guide synthesis decisions. Its goal was not simply automated production but iterative refinement of experimental choices as new evidence accumulated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41467-020-19597-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">On-the-fly closed-loop materials discovery via Bayesian...by AG Kusne · 2020 · Cited by 505 — We demonstrate an autonomous materia...</span></span></span>
+The A-Lab materials project integrated machine learning, [robotics]({{ 'robotics/' | relative_url }}), automated characterisation and active learning to guide synthesis decisions. Its goal was not simply automated production but iterative refinement of experimental choices as new evidence accumulated.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41467-020-19597-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">On-the-fly closed-loop materials discovery via Bayesian...by AG Kusne · 2020 · Cited by 505 — We demonstrate an autonomous materia...</span></span></span>
 
-Other chemistry and materials platforms increasingly use similar methods for reaction optimisation, catalyst design and process engineering. Reviews of self-driving laboratories consistently identify Bayesian optimisation and active learning as among the most widely adopted experimental planning methods. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubs.acs.org/doi/10.1021/acs.chemrev.4c00055" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubs.acs.org">[ACS Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubs.acs.org</span><span class="citation-popover-snippet">One of the most common strategies today for SDL experimental planning is Bayesian optimization (BO)...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S258959741930019X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">This feedback loop is...</span></span></span>
+Other chemistry and materials platforms increasingly use similar methods for reaction optimisation, catalyst design and process engineering. Reviews of self-driving laboratories consistently identify Bayesian optimisation and active learning as among the most widely adopted experimental planning methods.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubs.acs.org/doi/10.1021/acs.chemrev.4c00055" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubs.acs.org">[ACS Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubs.acs.org</span><span class="citation-popover-snippet">One of the most common strategies today for SDL experimental planning is Bayesian optimization (BO)...Read more...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S258959741930019X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">This feedback loop is...</span></span></span>
 
 The broader pattern is that laboratories are becoming less like automated factories and more like adaptive decision-making systems.
 
@@ -383,14 +383,14 @@ Researchers still decide what counts as success:
 * Fastest reaction speed.
 * Safest drug candidate.
 
-These objectives shape the entire search process. An autonomous system may become extremely effective at optimisation while still pursuing a poorly chosen goal. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubs.acs.org/doi/10.1021/acs.chemrev.4c00055" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubs.acs.org">[ACS Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubs.acs.org</span><span class="citation-popover-snippet">One of the most common strategies today for SDL experimental planning is Bayesian optimization (BO)...Read more...</span></span></span>
+These objectives shape the entire search process. An autonomous system may become extremely effective at optimisation while still pursuing a poorly chosen goal.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubs.acs.org/doi/10.1021/acs.chemrev.4c00055" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubs.acs.org">[ACS Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubs.acs.org</span><span class="citation-popover-snippet">One of the most common strategies today for SDL experimental planning is Bayesian optimization (BO)...Read more...</span></span></span>
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_autonomous_la_75d8f2_closed_loop_l_15d63e-Illustration-3-dark.svg" | relative_url }}" alt="Closed loop illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_autonomous_la_75d8f2_closed_loop_l_15d63e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_autonomous_la_75d8f2_closed_loop_l_15d63e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Humans define the search space
 
 The machine usually explores within boundaries set by researchers.
 
-Scientists decide which chemicals are available, which measurements matter, which equipment can be used and which safety constraints apply. The laboratory's intelligence is therefore partly inherited from the design of the experimental space itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/engage/coe/article-details/686d106b9f3a716b54a2f8b0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentA Flexible and Affordable Self-Driving Laboratory for...by S Pilon · 2025 · Cited by 4 — RoboChem...</span></span></span>
+Scientists decide which chemicals are available, which measurements matter, which equipment can be used and which safety constraints apply. The laboratory's intelligence is therefore partly inherited from the design of the experimental space itself.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/engage/coe/article-details/686d106b9f3a716b54a2f8b0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentA Flexible and Affordable Self-Driving Laboratory for...by S Pilon · 2025 · Cited by 4 — RoboChem...</span></span></span>
 
 This matters because real science often depends on reframing problems rather than merely optimising within them. A system may become very effective at searching a defined landscape while missing entirely new directions that a human researcher might notice.
 
@@ -398,7 +398,7 @@ This matters because real science often depends on reframing problems rather tha
 
 Even when a closed-loop laboratory finds something unusual, researchers still need to understand why it happened.
 
-A surprising catalyst or material can generate new scientific theories, not just new data points. Many scientists argue that explanation remains one of the most difficult parts of the discovery process to automate. The machine may identify patterns before researchers understand them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11046582/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The automated lab of tomorrow - PMC - NIHby D Adam · 2024 · Cited by 13 — By combining automation and AI, labs could see big boosts in...</span></span></span>
+A surprising catalyst or material can generate new scientific theories, not just new data points. Many scientists argue that explanation remains one of the most difficult parts of the discovery process to automate. The machine may identify patterns before researchers understand them.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11046582/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The automated lab of tomorrow - PMC - NIHby D Adam · 2024 · Cited by 13 — By combining automation and AI, labs could see big boosts in...</span></span></span>
 
 For this reason, many current systems are better described as human-machine scientific partnerships than fully independent robot scientists.
 
@@ -408,211 +408,211 @@ For this reason, many current systems are better described as human-machine scie
 
 The next-experiment problem also reveals why scientific acceleration is difficult.
 
-Real laboratories contain noisy measurements, equipment failures, hidden variables and conflicting objectives. An algorithm can only learn from the information it receives. If measurements are unreliable or incomplete, the system may confidently move in the wrong direction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s42004-026-01932-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">The ADePT framework for assessing autonomous...by P Salazar-Villacis · 2026 — Studies in robotics and chemical automation outline...</span></span></span>
+Real laboratories contain noisy measurements, equipment failures, hidden variables and conflicting objectives. An algorithm can only learn from the information it receives. If measurements are unreliable or incomplete, the system may confidently move in the wrong direction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s42004-026-01932-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">The ADePT framework for assessing autonomous...by P Salazar-Villacis · 2026 — Studies in robotics and chemical automation outline...</span></span></span>
 
-There is also a risk of optimisation without understanding. A system may discover conditions that maximise a target metric while providing little insight into the underlying science. Critics worry that some autonomous workflows could become sophisticated search engines rather than generators of scientific explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S258959741930019X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">This feedback loop is...</span></span></span>
+There is also a risk of optimisation without understanding. A system may discover conditions that maximise a target metric while providing little insight into the underlying science. Critics worry that some autonomous workflows could become sophisticated search engines rather than generators of scientific explanation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S258959741930019X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">This feedback loop is...</span></span></span>
 
-Recent research has also highlighted practical constraints. Many real experiments involve multiple stages, intermediate observations and changing workflows that are harder to represent in standard optimisation frameworks. New approaches are attempting to incorporate richer decision-making processes, but these remain active research problems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2006.06141" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Recent research has also highlighted practical constraints. Many real experiments involve multiple stages, intermediate observations and changing workflows that are harder to represent in standard optimisation frameworks. New approaches are attempting to incorporate richer decision-making processes, but these remain active research problems.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2006.06141" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 ## Why this mechanism matters for AI bloom
 
 The significance of closed-loop experimentation is not that a robot can pipette chemicals overnight. Laboratories have used automation for decades.
 
-The deeper claim is that scientific learning itself may become partially automated. Each experiment can immediately influence the next. Models improve in real time. Search strategies adapt continuously. Knowledge accumulates faster because the cycle between observation and decision shrinks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S258959741930019X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">This feedback loop is...</span></span></span>
+The deeper claim is that scientific learning itself may become partially automated. Each experiment can immediately influence the next. Models improve in real time. Search strategies adapt continuously. Knowledge accumulates faster because the cycle between observation and decision shrinks.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S258959741930019X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">This feedback loop is...</span></span></span>
 
 If that approach scales across fields such as materials science, [energy]({{ 'energy/' | relative_url }}) storage, catalysis, biotechnology and medicine, it could help address one of the largest constraints on scientific progress: the limited rate at which humanity can test ideas against reality.
 
-That does not guarantee a future of abundance. Discovery still faces physical limits, funding constraints, safety requirements, manufacturing bottlenecks and political choices. Yet closed-loop laboratories point to a specific mechanism through which advanced AI could contribute to a larger scientific acceleration story. Their value lies less in running experiments automatically than in learning, from each result, what reality is most useful to test next. Nature <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubs.acs.org/doi/10.1021/acs.chemrev.4c00055" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubs.acs.org">[ACS Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubs.acs.org</span><span class="citation-popover-snippet">One of the most common strategies today for SDL experimental planning is Bayesian optimization (BO)...Read more...</span></span></span>
+That does not guarantee a future of abundance. Discovery still faces physical limits, funding constraints, safety requirements, manufacturing bottlenecks and political choices. Yet closed-loop laboratories point to a specific mechanism through which advanced AI could contribute to a larger scientific acceleration story. Their value lies less in running experiments automatically than in learning, from each result, what reality is most useful to test next. Nature<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubs.acs.org/doi/10.1021/acs.chemrev.4c00055" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubs.acs.org">[ACS Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubs.acs.org</span><span class="citation-popover-snippet">One of the most common strategies today for SDL experimental planning is Bayesian optimization (BO)...Read more...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How robot labs learn what to test next. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How robot labs learn what to test next. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Master+Algorithm+by+Pedro+Domingos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Master Algorithm on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=WpTSDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Master Algorithm" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Master+Algorithm+by+Pedro+Domingos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Master Algorithm">The Master Algorithm</a>
-        </h4>
-        <p class="fr-book-author">By Pedro Domingos</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Master+Algorithm+by+Pedro+Domingos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Master Algorithm on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=WpTSDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Master Algorithm" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Master+Algorithm+by+Pedro+Domingos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Master Algorithm">The Master Algorithm</a>
+</h4>
+<p class="fr-book-author">By Pedro Domingos</p>
         
-        <p class="fr-book-desc">Explains the learning systems that underpin active learning and adaptive experiment selection.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Master+Algorithm+by+Pedro+Domingos&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains the learning systems that underpin active learning and adaptive experiment selection.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Master+Algorithm+by+Pedro+Domingos&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Prediction+Machines+by+Ajay+Agrawal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Prediction Machines on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Y9LFtAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Prediction Machines" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Prediction+Machines+by+Ajay+Agrawal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Prediction Machines">Prediction Machines</a>
-        </h4>
-        <p class="fr-book-author">By Ajay Agrawal, Joshua Gans et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Prediction+Machines+by+Ajay+Agrawal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Prediction Machines on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Y9LFtAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Prediction Machines" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Prediction+Machines+by+Ajay+Agrawal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Prediction Machines">Prediction Machines</a>
+</h4>
+<p class="fr-book-author">By Ajay Agrawal, Joshua Gans et al.</p>
         
-        <p class="fr-book-desc">Frames AI as cheaper prediction, directly relevant to choosing experiments more efficiently.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Prediction+Machines+by+Ajay+Agrawal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Frames AI as cheaper prediction, directly relevant to choosing experiments more efficiently.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Prediction+Machines+by+Ajay+Agrawal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Genesis+Machine+by+Amy+Webb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Genesis Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=B1QyEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Genesis Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Genesis+Machine+by+Amy+Webb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Genesis Machine">The Genesis Machine</a>
-        </h4>
-        <p class="fr-book-author">By Amy Webb, Andrew Hessel</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Genesis+Machine+by+Amy+Webb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Genesis Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=B1QyEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Genesis Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Genesis+Machine+by+Amy+Webb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Genesis Machine">The Genesis Machine</a>
+</h4>
+<p class="fr-book-author">By Amy Webb, Andrew Hessel</p>
         
-        <p class="fr-book-desc">Discusses the changing research stack around AI, automation and biological engineering.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Genesis+Machine+by+Amy+Webb&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses the changing research stack around AI, automation and biological engineering.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Genesis+Machine+by+Amy+Webb&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Knowledge+Machine+by+Michael+Strevens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Knowledge Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=f4aQEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Knowledge Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Knowledge+Machine+by+Michael+Strevens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Knowledge Machine">The Knowledge Machine</a>
-        </h4>
-        <p class="fr-book-author">By Michael Strevens</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Knowledge+Machine+by+Michael+Strevens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Knowledge Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=f4aQEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Knowledge Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Knowledge+Machine+by+Michael+Strevens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Knowledge Machine">The Knowledge Machine</a>
+</h4>
+<p class="fr-book-author">By Michael Strevens</p>
         
-        <p class="fr-book-desc">Balances automated experiment loops with why proof and scientific norms remain necessary.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Knowledge+Machine+by+Michael+Strevens&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Balances automated experiment loops with why proof and scientific norms remain necessary.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Knowledge+Machine+by+Michael+Strevens&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Master+Algorithm&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Master Algorithm</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Prediction+Machines&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Prediction Machines</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Genesis+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Genesis Machine</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Master+Algorithm&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Master Algorithm</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Prediction+Machines&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Prediction Machines</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Genesis+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Genesis Machine</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=closed-loop-how-robot-labs-learn-what-to-test-next-ai-bloom-abundance-superintelligence-and-huma-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="closed-loop-how-robot-labs-learn-what-to-test-next-ai-bloom-abundance-superintelligence-and-huma-robotics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 5 in 1 Robot Toys for Kids Building Set, APP &amp; Remote Control Robotics Kit"><img src="{{ '/assets/images/marketplace-covers/9be77cb3cd417fc69711.jpg' | relative_url }}" alt="Listing image for 5 in 1 Robot Toys for Kids Building Set, APP &amp; Remote Control Robotics Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=closed-loop-how-robot-labs-learn-what-to-test-next-ai-bloom-abundance-superintelligence-and-huma-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="closed-loop-how-robot-labs-learn-what-to-test-next-ai-bloom-abundance-superintelligence-and-huma-robotics-kit" target="_blank" rel="sponsored noopener noreferrer">5 in 1 Robot Toys for Kids Building Set, APP &amp; Remote Control Robotics Kit</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=closed-loop-how-robot-labs-learn-what-to-test-next-ai-bloom-abundance-superintelligence-and-huma-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="closed-loop-how-robot-labs-learn-what-to-test-next-ai-bloom-abundance-superintelligence-and-huma-robotics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robotics kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: robotics kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=closed-loop-how-robot-labs-learn-what-to-test-next-ai-bloom-abundance-superintelligence-and-huma-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="closed-loop-how-robot-labs-learn-what-to-test-next-ai-bloom-abundance-superintelligence-and-huma-robotics-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=closed-loop-how-robot-labs-learn-what-to-test-next-ai-bloom-abundance-superintelligence-and-huma-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="closed-loop-how-robot-labs-learn-what-to-test-next-ai-bloom-abundance-superintelligence-and-huma-robotics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 5 in 1 Robot Toys for Kids Building Set, APP &amp; Remote Control Robotics Kit"><img src="{{ '/assets/images/marketplace-covers/9be77cb3cd417fc69711.jpg' | relative_url }}" alt="Listing image for 5 in 1 Robot Toys for Kids Building Set, APP &amp; Remote Control Robotics Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=closed-loop-how-robot-labs-learn-what-to-test-next-ai-bloom-abundance-superintelligence-and-huma-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="closed-loop-how-robot-labs-learn-what-to-test-next-ai-bloom-abundance-superintelligence-and-huma-robotics-kit" target="_blank" rel="sponsored noopener noreferrer">5 in 1 Robot Toys for Kids Building Set, APP &amp; Remote Control Robotics Kit</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=closed-loop-how-robot-labs-learn-what-to-test-next-ai-bloom-abundance-superintelligence-and-huma-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="closed-loop-how-robot-labs-learn-what-to-test-next-ai-bloom-abundance-superintelligence-and-huma-robotics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robotics kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: robotics kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=closed-loop-how-robot-labs-learn-what-to-test-next-ai-bloom-abundance-superintelligence-and-huma-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="closed-loop-how-robot-labs-learn-what-to-test-next-ai-bloom-abundance-superintelligence-and-huma-robotics-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=closed-loop-how-robot-labs-learn-what-to-test-next-ai-bloom-abundance-superintelligence-and-huma-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="closed-loop-how-robot-labs-learn-what-to-test-next-ai-bloom-abundance-superintelligence-and-huma-robotics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Makeblock mBot STEM Educational Robot Kit – Bluetooth Version Boxed"><img src="{{ '/assets/images/marketplace-covers/45456d42d140ae8a9876.jpg' | relative_url }}" alt="Listing image for Makeblock mBot STEM Educational Robot Kit – Bluetooth Version Boxed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=closed-loop-how-robot-labs-learn-what-to-test-next-ai-bloom-abundance-superintelligence-and-huma-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="closed-loop-how-robot-labs-learn-what-to-test-next-ai-bloom-abundance-superintelligence-and-huma-robotics-kit" target="_blank" rel="sponsored noopener noreferrer">Makeblock mBot STEM Educational Robot Kit – Bluetooth Version Boxed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=closed-loop-how-robot-labs-learn-what-to-test-next-ai-bloom-abundance-superintelligence-and-huma-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="closed-loop-how-robot-labs-learn-what-to-test-next-ai-bloom-abundance-superintelligence-and-huma-robotics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robotics kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: robotics kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=closed-loop-how-robot-labs-learn-what-to-test-next-ai-bloom-abundance-superintelligence-and-huma-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="closed-loop-how-robot-labs-learn-what-to-test-next-ai-bloom-abundance-superintelligence-and-huma-robotics-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=closed-loop-how-robot-labs-learn-what-to-test-next-ai-bloom-abundance-superintelligence-and-huma-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="closed-loop-how-robot-labs-learn-what-to-test-next-ai-bloom-abundance-superintelligence-and-huma-robotics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Makeblock mBot STEM Educational Robot Kit – Bluetooth Version Boxed"><img src="{{ '/assets/images/marketplace-covers/45456d42d140ae8a9876.jpg' | relative_url }}" alt="Listing image for Makeblock mBot STEM Educational Robot Kit – Bluetooth Version Boxed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=closed-loop-how-robot-labs-learn-what-to-test-next-ai-bloom-abundance-superintelligence-and-huma-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="closed-loop-how-robot-labs-learn-what-to-test-next-ai-bloom-abundance-superintelligence-and-huma-robotics-kit" target="_blank" rel="sponsored noopener noreferrer">Makeblock mBot STEM Educational Robot Kit – Bluetooth Version Boxed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=closed-loop-how-robot-labs-learn-what-to-test-next-ai-bloom-abundance-superintelligence-and-huma-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="closed-loop-how-robot-labs-learn-what-to-test-next-ai-bloom-abundance-superintelligence-and-huma-robotics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robotics kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: robotics kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=closed-loop-how-robot-labs-learn-what-to-test-next-ai-bloom-abundance-superintelligence-and-huma-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="closed-loop-how-robot-labs-learn-what-to-test-next-ai-bloom-abundance-superintelligence-and-huma-robotics-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=closed-loop-how-robot-labs-learn-what-to-test-next-ai-bloom-abundance-superintelligence-and-huma-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="closed-loop-how-robot-labs-learn-what-to-test-next-ai-bloom-abundance-superintelligence-and-huma-robotics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for STEM Spider Robot Toy Kit DIY Educational Science Project Kids Building Gift 6+"><img src="{{ '/assets/images/marketplace-covers/2d5008516bc0d9d6228c.jpg' | relative_url }}" alt="Listing image for STEM Spider Robot Toy Kit DIY Educational Science Project Kids Building Gift 6+" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=closed-loop-how-robot-labs-learn-what-to-test-next-ai-bloom-abundance-superintelligence-and-huma-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="closed-loop-how-robot-labs-learn-what-to-test-next-ai-bloom-abundance-superintelligence-and-huma-robotics-kit" target="_blank" rel="sponsored noopener noreferrer">STEM Spider Robot Toy Kit DIY Educational Science Project Kids Building Gift 6+</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=closed-loop-how-robot-labs-learn-what-to-test-next-ai-bloom-abundance-superintelligence-and-huma-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="closed-loop-how-robot-labs-learn-what-to-test-next-ai-bloom-abundance-superintelligence-and-huma-robotics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robotics kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: robotics kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=closed-loop-how-robot-labs-learn-what-to-test-next-ai-bloom-abundance-superintelligence-and-huma-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="closed-loop-how-robot-labs-learn-what-to-test-next-ai-bloom-abundance-superintelligence-and-huma-robotics-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=closed-loop-how-robot-labs-learn-what-to-test-next-ai-bloom-abundance-superintelligence-and-huma-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="closed-loop-how-robot-labs-learn-what-to-test-next-ai-bloom-abundance-superintelligence-and-huma-robotics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for STEM Spider Robot Toy Kit DIY Educational Science Project Kids Building Gift 6+"><img src="{{ '/assets/images/marketplace-covers/2d5008516bc0d9d6228c.jpg' | relative_url }}" alt="Listing image for STEM Spider Robot Toy Kit DIY Educational Science Project Kids Building Gift 6+" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=closed-loop-how-robot-labs-learn-what-to-test-next-ai-bloom-abundance-superintelligence-and-huma-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="closed-loop-how-robot-labs-learn-what-to-test-next-ai-bloom-abundance-superintelligence-and-huma-robotics-kit" target="_blank" rel="sponsored noopener noreferrer">STEM Spider Robot Toy Kit DIY Educational Science Project Kids Building Gift 6+</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=closed-loop-how-robot-labs-learn-what-to-test-next-ai-bloom-abundance-superintelligence-and-huma-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="closed-loop-how-robot-labs-learn-what-to-test-next-ai-bloom-abundance-superintelligence-and-huma-robotics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robotics kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: robotics kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=closed-loop-how-robot-labs-learn-what-to-test-next-ai-bloom-abundance-superintelligence-and-huma-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="closed-loop-how-robot-labs-learn-what-to-test-next-ai-bloom-abundance-superintelligence-and-huma-robotics-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=closed-loop-how-robot-labs-learn-what-to-test-next-ai-bloom-abundance-superintelligence-and-huma-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="closed-loop-how-robot-labs-learn-what-to-test-next-ai-bloom-abundance-superintelligence-and-huma-robotics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kits - Rotating Mechanical Robotics Set for , ,"><img src="{{ '/assets/images/marketplace-covers/87b0c9d1cfcdb6e7a752.jpg' | relative_url }}" alt="Listing image for Kits - Rotating Mechanical Robotics Set for , ," loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=closed-loop-how-robot-labs-learn-what-to-test-next-ai-bloom-abundance-superintelligence-and-huma-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="closed-loop-how-robot-labs-learn-what-to-test-next-ai-bloom-abundance-superintelligence-and-huma-robotics-kit" target="_blank" rel="sponsored noopener noreferrer">Kits - Rotating Mechanical Robotics Set for , ,</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=closed-loop-how-robot-labs-learn-what-to-test-next-ai-bloom-abundance-superintelligence-and-huma-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="closed-loop-how-robot-labs-learn-what-to-test-next-ai-bloom-abundance-superintelligence-and-huma-robotics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robotics kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: robotics kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=closed-loop-how-robot-labs-learn-what-to-test-next-ai-bloom-abundance-superintelligence-and-huma-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="closed-loop-how-robot-labs-learn-what-to-test-next-ai-bloom-abundance-superintelligence-and-huma-robotics-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=closed-loop-how-robot-labs-learn-what-to-test-next-ai-bloom-abundance-superintelligence-and-huma-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="closed-loop-how-robot-labs-learn-what-to-test-next-ai-bloom-abundance-superintelligence-and-huma-robotics-kit" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=closed-loop-how-robot-labs-learn-what-to-test-next-ai-bloom-abundance-superintelligence-and-huma-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="closed-loop-how-robot-labs-learn-what-to-test-next-ai-bloom-abundance-superintelligence-and-huma-robotics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kits - Rotating Mechanical Robotics Set for , ,"><img src="{{ '/assets/images/marketplace-covers/87b0c9d1cfcdb6e7a752.jpg' | relative_url }}" alt="Listing image for Kits - Rotating Mechanical Robotics Set for , ," loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=closed-loop-how-robot-labs-learn-what-to-test-next-ai-bloom-abundance-superintelligence-and-huma-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="closed-loop-how-robot-labs-learn-what-to-test-next-ai-bloom-abundance-superintelligence-and-huma-robotics-kit" target="_blank" rel="sponsored noopener noreferrer">Kits - Rotating Mechanical Robotics Set for , ,</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=closed-loop-how-robot-labs-learn-what-to-test-next-ai-bloom-abundance-superintelligence-and-huma-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="closed-loop-how-robot-labs-learn-what-to-test-next-ai-bloom-abundance-superintelligence-and-huma-robotics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robotics kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: robotics kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=closed-loop-how-robot-labs-learn-what-to-test-next-ai-bloom-abundance-superintelligence-and-huma-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="closed-loop-how-robot-labs-learn-what-to-test-next-ai-bloom-abundance-superintelligence-and-huma-robotics-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=closed-loop-how-robot-labs-learn-what-to-test-next-ai-bloom-abundance-superintelligence-and-huma-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="closed-loop-how-robot-labs-learn-what-to-test-next-ai-bloom-abundance-superintelligence-and-huma-robotics-kit" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -628,7 +628,7 @@ That does not guarantee a future of abundance. Discovery still faces physical li
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -648,7 +648,7 @@ That does not guarantee a future of abundance. Discovery still faces physical li
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -680,7 +680,7 @@ That does not guarantee a future of abundance. Discovery still faces physical li
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -732,7 +732,7 @@ That does not guarantee a future of abundance. Discovery still faces physical li
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -777,7 +777,7 @@ That does not guarantee a future of abundance. Discovery still faces physical li
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -818,193 +818,193 @@ That does not guarantee a future of abundance. Discovery still faces physical li
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S258959741930019X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S258959741930019X</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>This feedback loop is...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S258959741930019X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S258959741930019X</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This feedback loop is...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pubs.acs.org  
-   Link: <a href="https://pubs.acs.org/doi/10.1021/acs.chemrev.4c00055" target="_blank" rel="noopener noreferrer nofollow">https://pubs.acs.org/doi/10.1021/acs.chemrev.4c00055</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>One of the most common strategies today for SDL experimental planning is Bayesian optimization (BO)...Read more...</p></details>
+   Link:<a href="https://pubs.acs.org/doi/10.1021/acs.chemrev.4c00055" target="_blank" rel="noopener noreferrer nofollow">https://pubs.acs.org/doi/10.1021/acs.chemrev.4c00055</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>One of the most common strategies today for SDL experimental planning is Bayesian optimization (BO)...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41586-023-06734-w" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-023-06734-w</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>An autonomous laboratory for the accelerated synthesis of...29 Nov 2023 — Here we present the A-Lab, an autonomous laboratory that...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41586-023-06734-w" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-023-06734-w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An autonomous laboratory for the accelerated synthesis of...29 Nov 2023 — Here we present the A-Lab, an autonomous laboratory that...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2590238524003229" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2590238524003229</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Navigating self-driving labs in chemical and material...by O Bayley · 2024 · Cited by 82 — These SDLs have already shown si...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S2590238524003229" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2590238524003229</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Navigating self-driving labs in chemical and material...by O Bayley · 2024 · Cited by 82 — These SDLs have already shown si...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41467-020-19597-w" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41467-020-19597-w</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>On-the-fly closed-loop materials discovery via Bayesian...by AG Kusne · 2020 · Cited by 505 — We demonstrate an autonomous materia...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41467-020-19597-w" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41467-020-19597-w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>On-the-fly closed-loop materials discovery via Bayesian...by AG Kusne · 2020 · Cited by 505 — We demonstrate an autonomous materia...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2006.06141" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2006.06141</a>  
+   Link:<a href="https://arxiv.org/abs/2006.06141" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2006.06141</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pubs.rsc.org  
    Title: Publishing Atlas: a brain for self-driving laboratories  
-   Link: <a href="https://pubs.rsc.org/en/content/articlelanding/2025/dd/d4dd00115j" target="_blank" rel="noopener noreferrer nofollow">https://pubs.rsc.org/en/content/articlelanding/2025/dd/d4dd00115j</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RSC PublishingAtlas: a brain for self-driving laboratories - RSC Publishingby RJ Hickman · 2025 · Cited by 50 — We report Atlas, an appli...</p></details>
+   Link:<a href="https://pubs.rsc.org/en/content/articlelanding/2025/dd/d4dd00115j" target="_blank" rel="noopener noreferrer nofollow">https://pubs.rsc.org/en/content/articlelanding/2025/dd/d4dd00115j</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RSC PublishingAtlas: a brain for self-driving laboratories - RSC Publishingby RJ Hickman · 2025 · Cited by 50 — We report Atlas, an appli...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/org/science/article/pii/S2635098X25002591" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/org/science/article/pii/S2635098X25002591</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Benchmarking self-driving labsby AD Adesiji · 2025 · Cited by 10 — The keyword “Bayesian optimization” was chosen due to its...</p></details>
+   Link:<a href="https://www.sciencedirect.com/org/science/article/pii/S2635098X25002591" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/org/science/article/pii/S2635098X25002591</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Benchmarking self-driving labsby AD Adesiji · 2025 · Cited by 10 — The keyword “Bayesian optimization” was chosen due to its...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cambridge.org  
-   Link: <a href="https://www.cambridge.org/engage/coe/article-details/686d106b9f3a716b54a2f8b0" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/engage/coe/article-details/686d106b9f3a716b54a2f8b0</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; AssessmentA Flexible and Affordable Self-Driving Laboratory for...by S Pilon · 2025 · Cited by 4 — RoboChem...</p></details>
+   Link:<a href="https://www.cambridge.org/engage/coe/article-details/686d106b9f3a716b54a2f8b0" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/engage/coe/article-details/686d106b9f3a716b54a2f8b0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; AssessmentA Flexible and Affordable Self-Driving Laboratory for...by S Pilon · 2025 · Cited by 4 — RoboChem...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11046582/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11046582/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The automated lab of tomorrow - PMC - NIHby D Adam · 2024 · Cited by 13 — By combining automation and AI, labs could see big boosts in...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11046582/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11046582/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The automated lab of tomorrow - PMC - NIHby D Adam · 2024 · Cited by 13 — By combining automation and AI, labs could see big boosts in...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s42004-026-01932-9" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s42004-026-01932-9</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The ADePT framework for assessing autonomous...by P Salazar-Villacis · 2026 — Studies in robotics and chemical automation outline...</p></details>
+   Link:<a href="https://www.nature.com/articles/s42004-026-01932-9" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s42004-026-01932-9</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The ADePT framework for assessing autonomous...by P Salazar-Villacis · 2026 — Studies in robotics and chemical automation outline...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2512.15483" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2512.15483</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Multi-stage Bayesian optimisation for dynamic decision-making in self-driving labsDecember 17, 2025...</p></details>
+   Link:<a href="https://arxiv.org/abs/2512.15483" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2512.15483</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Multi-stage Bayesian optimisation for dynamic decision-making in self-driving labsDecember 17, 2025...</p></details>
    Published: December 17, 2025  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: self.inc  
-   Link: <a href="https://www.self.inc/" target="_blank" rel="noopener noreferrer nofollow">https://www.self.inc/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Build Credit, Build Savings and Access CashBuild credit and savings with Self. The Credit Builder Account and Self Visa® Credit Ca...</p></details>
+   Link:<a href="https://www.self.inc/" target="_blank" rel="noopener noreferrer nofollow">https://www.self.inc/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Build Credit, Build Savings and Access CashBuild credit and savings with Self. The Credit Builder Account and Self Visa® Credit Ca...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/closed" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/closed</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>cambridge.orgCLOSED中文(繁體)翻譯：劍橋詞典CLOSED翻譯：關閉, 關閉的，不開的, 關門的;不營業的, 結束的, 完成的；結束的, 僵化的，不接受新思想的;閉關排外的。了解更多。...</p></details>
+   Link:<a href="https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/closed" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/closed</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>cambridge.orgCLOSED中文(繁體)翻譯：劍橋詞典CLOSED翻譯：關閉, 關閉的，不開的, 關門的;不營業的, 結束的, 完成的；結束的, 僵化的，不接受新思想的;閉關排外的。了解更多。...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: pubs.rsc.org  
-   Link: <a href="https://pubs.rsc.org/en/content/articlehtml/2026/mh/d5mh01984b" target="_blank" rel="noopener noreferrer nofollow">https://pubs.rsc.org/en/content/articlehtml/2026/mh/d5mh01984b</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>self-driving laboratory 2.0 for chemistry and materials...by H Lee · 2026 · Cited by 2 — This review synthesizes key developments in sel...</p></details>
+   Link:<a href="https://pubs.rsc.org/en/content/articlehtml/2026/mh/d5mh01984b" target="_blank" rel="noopener noreferrer nofollow">https://pubs.rsc.org/en/content/articlehtml/2026/mh/d5mh01984b</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>self-driving laboratory 2.0 for chemistry and materials...by H Lee · 2026 · Cited by 2 — This review synthesizes key developments in sel...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: pubs.rsc.org  
-   Link: <a href="https://pubs.rsc.org/en/content/articlelanding/2026/mh/d5mh01984b" target="_blank" rel="noopener noreferrer nofollow">https://pubs.rsc.org/en/content/articlelanding/2026/mh/d5mh01984b</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>self-driving laboratory 2.0 for chemistry and...by H Lee · 2026 · Cited by 2 — This review outlines the vision of SDL 2.0: a new generat...</p></details>
+   Link:<a href="https://pubs.rsc.org/en/content/articlelanding/2026/mh/d5mh01984b" target="_blank" rel="noopener noreferrer nofollow">https://pubs.rsc.org/en/content/articlelanding/2026/mh/d5mh01984b</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>self-driving laboratory 2.0 for chemistry and...by H Lee · 2026 · Cited by 2 — This review outlines the vision of SDL 2.0: a new generat...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: pubs.rsc.org  
-   Link: <a href="https://pubs.rsc.org/en/content/articlehtml/2026/dd/d5dd00337g" target="_blank" rel="noopener noreferrer nofollow">https://pubs.rsc.org/en/content/articlehtml/2026/dd/d5dd00337g</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-driving labs, or systems that select experiments...Read more...</p></details>
+   Link:<a href="https://pubs.rsc.org/en/content/articlehtml/2026/dd/d5dd00337g" target="_blank" rel="noopener noreferrer nofollow">https://pubs.rsc.org/en/content/articlehtml/2026/dd/d5dd00337g</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self-driving labs, or systems that select experiments...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: pubs.rsc.org  
-   Link: <a href="https://pubs.rsc.org/en/content/articlehtml/2024/dd/d4dd00040d" target="_blank" rel="noopener noreferrer nofollow">https://pubs.rsc.org/en/content/articlehtml/2024/dd/d4dd00040d</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>future of self-driving laboratories: from human in the loop...by H Hysmith · 2024 · Cited by 94 — This paper provides a joint analysis o...</p></details>
+   Link:<a href="https://pubs.rsc.org/en/content/articlehtml/2024/dd/d4dd00040d" target="_blank" rel="noopener noreferrer nofollow">https://pubs.rsc.org/en/content/articlehtml/2024/dd/d4dd00040d</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>future of self-driving laboratories: from human in the loop...by H Hysmith · 2024 · Cited by 94 — This paper provides a joint analysis o...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: self.com  
-   Link: <a href="https://www.self.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.self.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SELF Magazine: Women&#x27;s Workouts, Health Advice &amp; Beauty...Discover new workout ideas, healthy-eating recipes, makeup looks, skin-care ad...</p></details>
+   Link:<a href="https://www.self.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.self.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SELF Magazine: Women&#x27;s Workouts, Health Advice &amp; Beauty...Discover new workout ideas, healthy-eating recipes, makeup looks, skin-care ad...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: pubs.acs.org  
-   Link: <a href="https://pubs.acs.org/doi/10.1021/jacsau.6c00213" target="_blank" rel="noopener noreferrer nofollow">https://pubs.acs.org/doi/10.1021/jacsau.6c00213</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chemistry and Materials Innovation Driven by...1 day ago — In demonstrations of catalytic reaction optimization, the system achieved a c...</p></details>
+   Link:<a href="https://pubs.acs.org/doi/10.1021/jacsau.6c00213" target="_blank" rel="noopener noreferrer nofollow">https://pubs.acs.org/doi/10.1021/jacsau.6c00213</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chemistry and Materials Innovation Driven by...1 day ago — In demonstrations of catalytic reaction optimization, the system achieved a c...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s44160-026-01053-0" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s44160-026-01053-0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A flexible and affordable self-driving laboratory for...by S Pilon · 2026 · Cited by 1 — Through this interface, users can select experi...</p></details>
+   Link:<a href="https://www.nature.com/articles/s44160-026-01053-0" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s44160-026-01053-0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A flexible and affordable self-driving laboratory for...by S Pilon · 2026 · Cited by 1 — Through this interface, users can select experi...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/collections/igbhhbedgi" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/collections/igbhhbedgi</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-driving labs and automation software for chemistry and...7 Feb 2024 — This cross-journal collection is dedicated to the development...</p></details>
+   Link:<a href="https://www.nature.com/collections/igbhhbedgi" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/collections/igbhhbedgi</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self-driving labs and automation software for chemistry and...7 Feb 2024 — This cross-journal collection is dedicated to the development...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2509.05351v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2509.05351v1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Driving Laboratory Optimizes the Lower Critical...2 Sept 2025 — Our system integrates robotic fluid-handling, on-line sensors, and...</p></details>
+   Link:<a href="https://arxiv.org/html/2509.05351v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2509.05351v1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Driving Laboratory Optimizes the Lower Critical...2 Sept 2025 — Our system integrates robotic fluid-handling, on-line sensors, and...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2590238522006385" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2590238522006385</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What is a minimal working example for a self-driving...by SG Baird · 2022 · Cited by 44 — We propose SDL-Demo: a low-cost “Hello, World...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S2590238522006385" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2590238522006385</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What is a minimal working example for a self-driving...by SG Baird · 2022 · Cited by 44 — We propose SDL-Demo: a low-cost “Hello, World...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Self" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Self</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SelfIn philosophy, the self is an individual&#x27;s own being, knowledge, and values, and the relationship between these attributes. The fi...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Self" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Self</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SelfIn philosophy, the self is an individual&#x27;s own being, knowledge, and values, and the relationship between these attributes. The fi...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: science.org  
-   Link: <a href="https://www.science.org/doi/10.1126/sciadv.adu7426" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/sciadv.adu7426</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Real-time experiment-theory closed-loop interaction for...by H Liang · 2025 · Cited by 13 — This study demonstrates real-time, autonomou...</p></details>
+   Link:<a href="https://www.science.org/doi/10.1126/sciadv.adu7426" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/sciadv.adu7426</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Real-time experiment-theory closed-loop interaction for...by H Liang · 2025 · Cited by 13 — This study demonstrates real-time, autonomou...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: emergentmind.com  
    Title: self driving laboratories  
-   Link: <a href="https://www.emergentmind.com/topics/self-driving-laboratories" target="_blank" rel="noopener noreferrer nofollow">https://www.emergentmind.com/topics/self-driving-laboratories</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Driving LaboratoriesNov 21, 2025 — Self-driving laboratories use autonomous robotics and Bayesian optimization to rapidly design, ex...</p></details>
+   Link:<a href="https://www.emergentmind.com/topics/self-driving-laboratories" target="_blank" rel="noopener noreferrer nofollow">https://www.emergentmind.com/topics/self-driving-laboratories</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Driving LaboratoriesNov 21, 2025 — Self-driving laboratories use autonomous robotics and Bayesian optimization to rapidly design, ex...</p></details>
 
 ### Additional References
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/397193999_The_Bright_Future_of_Materials_Science_with_AI_Self-Driving_Laboratories_and_Closed-Loop_Discovery" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/397193999_The_Bright_Future_of_Materials_Science_with_AI_Self-Driving_Laboratories_and_Closed-Loop_Discovery</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Bright Future of Materials Science with AI: Self-Driving...5 Nov 2025 — Next-generation autonomous laboratories that combine machine...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/397193999_The_Bright_Future_of_Materials_Science_with_AI_Self-Driving_Laboratories_and_Closed-Loop_Discovery" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/397193999_The_Bright_Future_of_Materials_Science_with_AI_Self-Driving_Laboratories_and_Closed-Loop_Discovery</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Bright Future of Materials Science with AI: Self-Driving...5 Nov 2025 — Next-generation autonomous laboratories that combine machine...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1572893699951268/posts/2053869341853699/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1572893699951268/posts/2053869341853699/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Autonomous labs accelerate research with ai and roboticsThe automated laboratories use machine learning to design experiments, robotic sy...</p></details>
+   Link:<a href="https://www.facebook.com/groups/1572893699951268/posts/2053869341853699/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1572893699951268/posts/2053869341853699/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Autonomous labs accelerate research with ai and roboticsThe automated laboratories use machine learning to design experiments, robotic sy...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: liverpool.ac.uk  
-   Link: <a href="https://www.liverpool.ac.uk/research/frontiers/ai-for-life/ai-innovation/future-economies/autonomous-robot/" target="_blank" rel="noopener noreferrer nofollow">https://www.liverpool.ac.uk/research/frontiers/ai-for-life/ai-innovation/future-economies/autonomous-robot/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Autonomous robot | ResearchRobots that are used in chemistry research are typically hardwired to a specific experiment, limiting their ab...</p></details>
+   Link:<a href="https://www.liverpool.ac.uk/research/frontiers/ai-for-life/ai-innovation/future-economies/autonomous-robot/" target="_blank" rel="noopener noreferrer nofollow">https://www.liverpool.ac.uk/research/frontiers/ai-for-life/ai-innovation/future-economies/autonomous-robot/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Autonomous robot | ResearchRobots that are used in chemistry research are typically hardwired to a specific experiment, limiting their ab...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/fanli_self-driving-labs-are-often-deemed-futuristic-activity-7436750150229749760-myyV" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/fanli_self-driving-labs-are-often-deemed-futuristic-activity-7436750150229749760-myyV</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ORNL&#x27;s AI-Powered Self-Driving Labs Boost Chemical...The paper notes that they used a polymer with excellent solubility to make reaction...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/fanli_self-driving-labs-are-often-deemed-futuristic-activity-7436750150229749760-myyV" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/fanli_self-driving-labs-are-often-deemed-futuristic-activity-7436750150229749760-myyV</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ORNL&#x27;s AI-Powered Self-Driving Labs Boost Chemical...The paper notes that they used a polymer with excellent solubility to make reaction...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/self" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/self</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SELF Definition &amp; Meaning1. a (1): an individual&#x27;s typical character or behavior her true self was revealed (2): an individual&#x27;s tempor...</p></details>
+   Link:<a href="https://www.merriam-webster.com/dictionary/self" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/self</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SELF Definition &amp; Meaning1. a (1): an individual&#x27;s typical character or behavior her true self was revealed (2): an individual&#x27;s tempor...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: preprints.org  
-   Link: <a href="https://www.preprints.org/manuscript/202509.1369/v1" target="_blank" rel="noopener noreferrer nofollow">https://www.preprints.org/manuscript/202509.1369/v1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Bright Future of Materials Science with AI: Self-Driving...Autonomous laboratories represent a significant development in modern mat...</p></details>
+   Link:<a href="https://www.preprints.org/manuscript/202509.1369/v1" target="_blank" rel="noopener noreferrer nofollow">https://www.preprints.org/manuscript/202509.1369/v1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Bright Future of Materials Science with AI: Self-Driving...Autonomous laboratories represent a significant development in modern mat...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: self-help.org  
-   Link: <a href="https://www.self-help.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.self-help.org/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Help Credit Union | Community-Focused BankingGet personal and business banking, affordable home and auto loans, financial guidance...</p></details>
+   Link:<a href="https://www.self-help.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.self-help.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Help Credit Union | Community-Focused BankingGet personal and business banking, affordable home and auto loans, financial guidance...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: newatlas.com  
    Title: robot scientist experiments discovers catalyst  
-   Link: <a href="https://newatlas.com/robotics/robot-scientist-experiments-discovers-catalyst/" target="_blank" rel="noopener noreferrer nofollow">https://newatlas.com/robotics/robot-scientist-experiments-discovers-catalyst/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Autonomous robot scientist can choose its own experiments8 Jul 2020 — Engineers at the University of Liverpool have developed a robot sci...</p></details>
+   Link:<a href="https://newatlas.com/robotics/robot-scientist-experiments-discovers-catalyst/" target="_blank" rel="noopener noreferrer nofollow">https://newatlas.com/robotics/robot-scientist-experiments-discovers-catalyst/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Autonomous robot scientist can choose its own experiments8 Jul 2020 — Engineers at the University of Liverpool have developed a robot sci...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Chempros/comments/nflgzk/bayesian_optimization_for_chemical_synthesis_and/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Chempros/comments/nflgzk/bayesian_optimization_for_chemical_synthesis_and/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>a few number of experiments by balancing effectively extrapolation...</p></details>
+   Link:<a href="https://www.reddit.com/r/Chempros/comments/nflgzk/bayesian_optimization_for_chemical_synthesis_and/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Chempros/comments/nflgzk/bayesian_optimization_for_chemical_synthesis_and/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>a few number of experiments by balancing effectively extrapolation...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: aicompetence.org  
    Title: self driving labs autonomous science  
-   Link: <a href="https://aicompetence.org/self-driving-labs-autonomous-science/" target="_blank" rel="noopener noreferrer nofollow">https://aicompetence.org/self-driving-labs-autonomous-science/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Driving Labs &amp; Autonomous Science16 Aug 2025 — These autonomous laboratories combine AI decision-making with robotic hardware to des...</p></details>
+   Link:<a href="https://aicompetence.org/self-driving-labs-autonomous-science/" target="_blank" rel="noopener noreferrer nofollow">https://aicompetence.org/self-driving-labs-autonomous-science/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Driving Labs &amp; Autonomous Science16 Aug 2025 — These autonomous laboratories combine AI decision-making with robotic hardware to des...</p></details>

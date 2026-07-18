@@ -334,194 +334,194 @@ Answering these questions will be important in ensuring that future agentic AI s
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_superintellig_979bdf_agentic_ai_st_9f08aa_ai_evaluation_444d5e-Illustration-3-dark.svg" | relative_url }}" alt="Evaluation Awareness illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_superintellig_979bdf_agentic_ai_st_9f08aa_ai_evaluation_444d5e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_superintellig_979bdf_agentic_ai_st_9f08aa_ai_evaluation_444d5e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why AI Acts Differently When Being Watched. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why AI Acts Differently When Being Watched. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Alignment Problem on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KGCNEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Alignment Problem" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Alignment Problem">The Alignment Problem</a>
-        </h4>
-        <p class="fr-book-author">By Brian Christian</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Alignment Problem on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KGCNEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Alignment Problem" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Alignment Problem">The Alignment Problem</a>
+</h4>
+<p class="fr-book-author">By Brian Christian</p>
         
-        <p class="fr-book-desc">Explains why evaluating and aligning AI behaviour is difficult.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why evaluating and aligning AI behaviour is difficult.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human Compatible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BKVPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Human Compatible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human Compatible">Human Compatible</a>
-        </h4>
-        <p class="fr-book-author">By Stuart Russell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human Compatible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BKVPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Human Compatible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human Compatible">Human Compatible</a>
+</h4>
+<p class="fr-book-author">By Stuart Russell</p>
         
-        <p class="fr-book-desc">Focuses on designing AI systems that remain aligned under oversight.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on designing AI systems that remain aligned under oversight.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Life+3.0+by+Max+Tegmark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Life 3.0 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YHxnDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Life 3.0" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Life+3.0+by+Max+Tegmark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Life 3.0">Life 3.0</a>
-        </h4>
-        <p class="fr-book-author">By Max Tegmark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Life+3.0+by+Max+Tegmark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Life 3.0 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YHxnDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Life 3.0" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Life+3.0+by+Max+Tegmark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Life 3.0">Life 3.0</a>
+</h4>
+<p class="fr-book-author">By Max Tegmark</p>
         
-        <p class="fr-book-desc">Frames deceptive or unsafe AI behaviour within the wider control problem.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Life+3.0+by+Max+Tegmark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Frames deceptive or unsafe AI behaviour within the wider control problem.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Life+3.0+by+Max+Tegmark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Superintelligence+by+Nick+Bostrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superintelligence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=i0QdjgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Superintelligence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Superintelligence+by+Nick+Bostrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superintelligence">Superintelligence</a>
-        </h4>
-        <p class="fr-book-author">By Nick Bostrom</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Superintelligence+by+Nick+Bostrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superintelligence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=i0QdjgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Superintelligence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Superintelligence+by+Nick+Bostrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superintelligence">Superintelligence</a>
+</h4>
+<p class="fr-book-author">By Nick Bostrom</p>
         
-        <p class="fr-book-desc">Introduces strategic behaviour and control concerns in advanced AI.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Superintelligence+by+Nick+Bostrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Introduces strategic behaviour and control concerns in advanced AI.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Superintelligence+by+Nick+Bostrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Alignment+Problem&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Alignment Problem</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+Compatible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human Compatible</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Life+3.0&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Life 3.0</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Alignment+Problem&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Alignment Problem</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+Compatible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human Compatible</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Life+3.0&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Life 3.0</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluation-awareness-why-ai-acts-differently-when-being-watched-ai-bloom-abundance-superintellig-technology-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology poster -book -books" data-ebay-reference="evaluation-awareness-why-ai-acts-differently-when-being-watched-ai-bloom-abundance-superintellig-technology-poster-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ahead Of Technology Framed Art Prin Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/093a4c63ea1fa007c8e7.jpg' | relative_url }}" alt="Listing image for Ahead Of Technology Framed Art Prin Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluation-awareness-why-ai-acts-differently-when-being-watched-ai-bloom-abundance-superintellig-technology-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology poster -book -books" data-ebay-reference="evaluation-awareness-why-ai-acts-differently-when-being-watched-ai-bloom-abundance-superintellig-technology-poster-book" target="_blank" rel="sponsored noopener noreferrer">Ahead Of Technology Framed Art Prin Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluation-awareness-why-ai-acts-differently-when-being-watched-ai-bloom-abundance-superintellig-technology-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology poster -book -books" data-ebay-reference="evaluation-awareness-why-ai-acts-differently-when-being-watched-ai-bloom-abundance-superintellig-technology-poster-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for technology poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: technology poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluation-awareness-why-ai-acts-differently-when-being-watched-ai-bloom-abundance-superintellig-technology-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology poster -book -books" data-ebay-reference="evaluation-awareness-why-ai-acts-differently-when-being-watched-ai-bloom-abundance-superintellig-technology-poster-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluation-awareness-why-ai-acts-differently-when-being-watched-ai-bloom-abundance-superintellig-technology-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology poster -book -books" data-ebay-reference="evaluation-awareness-why-ai-acts-differently-when-being-watched-ai-bloom-abundance-superintellig-technology-poster-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ahead Of Technology Framed Art Prin Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/093a4c63ea1fa007c8e7.jpg' | relative_url }}" alt="Listing image for Ahead Of Technology Framed Art Prin Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluation-awareness-why-ai-acts-differently-when-being-watched-ai-bloom-abundance-superintellig-technology-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology poster -book -books" data-ebay-reference="evaluation-awareness-why-ai-acts-differently-when-being-watched-ai-bloom-abundance-superintellig-technology-poster-book" target="_blank" rel="sponsored noopener noreferrer">Ahead Of Technology Framed Art Prin Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluation-awareness-why-ai-acts-differently-when-being-watched-ai-bloom-abundance-superintellig-technology-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology poster -book -books" data-ebay-reference="evaluation-awareness-why-ai-acts-differently-when-being-watched-ai-bloom-abundance-superintellig-technology-poster-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for technology poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: technology poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluation-awareness-why-ai-acts-differently-when-being-watched-ai-bloom-abundance-superintellig-technology-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology poster -book -books" data-ebay-reference="evaluation-awareness-why-ai-acts-differently-when-being-watched-ai-bloom-abundance-superintellig-technology-poster-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluation-awareness-why-ai-acts-differently-when-being-watched-ai-bloom-abundance-superintellig-technology-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology poster -book -books" data-ebay-reference="evaluation-awareness-why-ai-acts-differently-when-being-watched-ai-bloom-abundance-superintellig-technology-poster-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RETRO TECHNOLOGY Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/52587c8494bbf9efb04f.jpg' | relative_url }}" alt="Listing image for RETRO TECHNOLOGY Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluation-awareness-why-ai-acts-differently-when-being-watched-ai-bloom-abundance-superintellig-technology-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology poster -book -books" data-ebay-reference="evaluation-awareness-why-ai-acts-differently-when-being-watched-ai-bloom-abundance-superintellig-technology-poster-book" target="_blank" rel="sponsored noopener noreferrer">RETRO TECHNOLOGY Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluation-awareness-why-ai-acts-differently-when-being-watched-ai-bloom-abundance-superintellig-technology-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology poster -book -books" data-ebay-reference="evaluation-awareness-why-ai-acts-differently-when-being-watched-ai-bloom-abundance-superintellig-technology-poster-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for technology poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: technology poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluation-awareness-why-ai-acts-differently-when-being-watched-ai-bloom-abundance-superintellig-technology-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology poster -book -books" data-ebay-reference="evaluation-awareness-why-ai-acts-differently-when-being-watched-ai-bloom-abundance-superintellig-technology-poster-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluation-awareness-why-ai-acts-differently-when-being-watched-ai-bloom-abundance-superintellig-technology-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology poster -book -books" data-ebay-reference="evaluation-awareness-why-ai-acts-differently-when-being-watched-ai-bloom-abundance-superintellig-technology-poster-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RETRO TECHNOLOGY Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/52587c8494bbf9efb04f.jpg' | relative_url }}" alt="Listing image for RETRO TECHNOLOGY Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluation-awareness-why-ai-acts-differently-when-being-watched-ai-bloom-abundance-superintellig-technology-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology poster -book -books" data-ebay-reference="evaluation-awareness-why-ai-acts-differently-when-being-watched-ai-bloom-abundance-superintellig-technology-poster-book" target="_blank" rel="sponsored noopener noreferrer">RETRO TECHNOLOGY Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluation-awareness-why-ai-acts-differently-when-being-watched-ai-bloom-abundance-superintellig-technology-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology poster -book -books" data-ebay-reference="evaluation-awareness-why-ai-acts-differently-when-being-watched-ai-bloom-abundance-superintellig-technology-poster-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for technology poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: technology poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluation-awareness-why-ai-acts-differently-when-being-watched-ai-bloom-abundance-superintellig-technology-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology poster -book -books" data-ebay-reference="evaluation-awareness-why-ai-acts-differently-when-being-watched-ai-bloom-abundance-superintellig-technology-poster-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluation-awareness-why-ai-acts-differently-when-being-watched-ai-bloom-abundance-superintellig-technology-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology poster -book -books" data-ebay-reference="evaluation-awareness-why-ai-acts-differently-when-being-watched-ai-bloom-abundance-superintellig-technology-poster-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aihrgdesign A Vintage Technology Po Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/eee2882cbe7683a6126b.jpg' | relative_url }}" alt="Listing image for Aihrgdesign A Vintage Technology Po Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluation-awareness-why-ai-acts-differently-when-being-watched-ai-bloom-abundance-superintellig-technology-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology poster -book -books" data-ebay-reference="evaluation-awareness-why-ai-acts-differently-when-being-watched-ai-bloom-abundance-superintellig-technology-poster-book" target="_blank" rel="sponsored noopener noreferrer">Aihrgdesign A Vintage Technology Po Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluation-awareness-why-ai-acts-differently-when-being-watched-ai-bloom-abundance-superintellig-technology-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology poster -book -books" data-ebay-reference="evaluation-awareness-why-ai-acts-differently-when-being-watched-ai-bloom-abundance-superintellig-technology-poster-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for technology poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: technology poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluation-awareness-why-ai-acts-differently-when-being-watched-ai-bloom-abundance-superintellig-technology-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology poster -book -books" data-ebay-reference="evaluation-awareness-why-ai-acts-differently-when-being-watched-ai-bloom-abundance-superintellig-technology-poster-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluation-awareness-why-ai-acts-differently-when-being-watched-ai-bloom-abundance-superintellig-technology-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology poster -book -books" data-ebay-reference="evaluation-awareness-why-ai-acts-differently-when-being-watched-ai-bloom-abundance-superintellig-technology-poster-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aihrgdesign A Vintage Technology Po Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/eee2882cbe7683a6126b.jpg' | relative_url }}" alt="Listing image for Aihrgdesign A Vintage Technology Po Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluation-awareness-why-ai-acts-differently-when-being-watched-ai-bloom-abundance-superintellig-technology-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology poster -book -books" data-ebay-reference="evaluation-awareness-why-ai-acts-differently-when-being-watched-ai-bloom-abundance-superintellig-technology-poster-book" target="_blank" rel="sponsored noopener noreferrer">Aihrgdesign A Vintage Technology Po Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluation-awareness-why-ai-acts-differently-when-being-watched-ai-bloom-abundance-superintellig-technology-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology poster -book -books" data-ebay-reference="evaluation-awareness-why-ai-acts-differently-when-being-watched-ai-bloom-abundance-superintellig-technology-poster-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for technology poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: technology poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluation-awareness-why-ai-acts-differently-when-being-watched-ai-bloom-abundance-superintellig-technology-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology poster -book -books" data-ebay-reference="evaluation-awareness-why-ai-acts-differently-when-being-watched-ai-bloom-abundance-superintellig-technology-poster-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluation-awareness-why-ai-acts-differently-when-being-watched-ai-bloom-abundance-superintellig-technology-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology poster -book -books" data-ebay-reference="evaluation-awareness-why-ai-acts-differently-when-being-watched-ai-bloom-abundance-superintellig-technology-poster-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for aerospace technology or space engin Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a810b82c0b269e5718d9.jpg' | relative_url }}" alt="Listing image for aerospace technology or space engin Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluation-awareness-why-ai-acts-differently-when-being-watched-ai-bloom-abundance-superintellig-technology-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology poster -book -books" data-ebay-reference="evaluation-awareness-why-ai-acts-differently-when-being-watched-ai-bloom-abundance-superintellig-technology-poster-book" target="_blank" rel="sponsored noopener noreferrer">aerospace technology or space engin Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluation-awareness-why-ai-acts-differently-when-being-watched-ai-bloom-abundance-superintellig-technology-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology poster -book -books" data-ebay-reference="evaluation-awareness-why-ai-acts-differently-when-being-watched-ai-bloom-abundance-superintellig-technology-poster-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for technology poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: technology poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluation-awareness-why-ai-acts-differently-when-being-watched-ai-bloom-abundance-superintellig-technology-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology poster -book -books" data-ebay-reference="evaluation-awareness-why-ai-acts-differently-when-being-watched-ai-bloom-abundance-superintellig-technology-poster-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluation-awareness-why-ai-acts-differently-when-being-watched-ai-bloom-abundance-superintellig-technology-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology poster -book -books" data-ebay-reference="evaluation-awareness-why-ai-acts-differently-when-being-watched-ai-bloom-abundance-superintellig-technology-poster-book" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluation-awareness-why-ai-acts-differently-when-being-watched-ai-bloom-abundance-superintellig-technology-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology poster -book -books" data-ebay-reference="evaluation-awareness-why-ai-acts-differently-when-being-watched-ai-bloom-abundance-superintellig-technology-poster-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for aerospace technology or space engin Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a810b82c0b269e5718d9.jpg' | relative_url }}" alt="Listing image for aerospace technology or space engin Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluation-awareness-why-ai-acts-differently-when-being-watched-ai-bloom-abundance-superintellig-technology-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology poster -book -books" data-ebay-reference="evaluation-awareness-why-ai-acts-differently-when-being-watched-ai-bloom-abundance-superintellig-technology-poster-book" target="_blank" rel="sponsored noopener noreferrer">aerospace technology or space engin Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluation-awareness-why-ai-acts-differently-when-being-watched-ai-bloom-abundance-superintellig-technology-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology poster -book -books" data-ebay-reference="evaluation-awareness-why-ai-acts-differently-when-being-watched-ai-bloom-abundance-superintellig-technology-poster-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for technology poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: technology poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluation-awareness-why-ai-acts-differently-when-being-watched-ai-bloom-abundance-superintellig-technology-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology poster -book -books" data-ebay-reference="evaluation-awareness-why-ai-acts-differently-when-being-watched-ai-bloom-abundance-superintellig-technology-poster-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluation-awareness-why-ai-acts-differently-when-being-watched-ai-bloom-abundance-superintellig-technology-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology poster -book -books" data-ebay-reference="evaluation-awareness-why-ai-acts-differently-when-being-watched-ai-bloom-abundance-superintellig-technology-poster-book" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -537,7 +537,7 @@ Answering these questions will be important in ensuring that future agentic AI s
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -557,7 +557,7 @@ Answering these questions will be important in ensuring that future agentic AI s
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -589,7 +589,7 @@ Answering these questions will be important in ensuring that future agentic AI s
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -641,7 +641,7 @@ Answering these questions will be important in ensuring that future agentic AI s
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -686,7 +686,7 @@ Answering these questions will be important in ensuring that future agentic AI s
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -727,136 +727,136 @@ Answering these questions will be important in ensuring that future agentic AI s
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: microsoft.com  
    Title: Do LLMs Comply Differently During Tests? And Can We Steer That?  
-   Link: <a href="https://www.microsoft.com/en-us/research/publication/do-llms-comply-differently-during-tests-and-can-we-steer-that/" target="_blank" rel="noopener noreferrer nofollow">https://www.microsoft.com/en-us/research/publication/do-llms-comply-differently-during-tests-and-can-we-steer-that/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Do LLMs Comply Differently During Tests? And Can We Steer That? - Microsoft Research...</p></details>
+   Link:<a href="https://www.microsoft.com/en-us/research/publication/do-llms-comply-differently-during-tests-and-can-we-steer-that/" target="_blank" rel="noopener noreferrer nofollow">https://www.microsoft.com/en-us/research/publication/do-llms-comply-differently-during-tests-and-can-we-steer-that/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Do LLMs Comply Differently During Tests? And Can We Steer That? - Microsoft Research...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: evalawarebench.com  
-   Link: <a href="https://evalawarebench.com/" target="_blank" rel="noopener noreferrer nofollow">https://evalawarebench.com/</a>  
+   Link:<a href="https://evalawarebench.com/" target="_blank" rel="noopener noreferrer nofollow">https://evalawarebench.com/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: unite.ai  
    Title: A I Acts Differently When It Knows It’s Being Tested, Research Finds – Unite.AI  
-   Link: <a href="https://www.unite.ai/ai-acts-differently-when-it-knows-its-being-tested-research-finds/" target="_blank" rel="noopener noreferrer nofollow">https://www.unite.ai/ai-acts-differently-when-it-knows-its-being-tested-research-finds/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Acts Differently When It Knows It’s Being Tested, Research Finds – Unite.AIJune 4, 2025...</p></details>
+   Link:<a href="https://www.unite.ai/ai-acts-differently-when-it-knows-its-being-tested-research-finds/" target="_blank" rel="noopener noreferrer nofollow">https://www.unite.ai/ai-acts-differently-when-it-knows-its-being-tested-research-finds/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI Acts Differently When It Knows It’s Being Tested, Research Finds – Unite.AIJune 4, 2025...</p></details>
    Published: June 4, 2025  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: papers.cool  
-   Link: <a href="https://papers.cool/arxiv/2509.13333" target="_blank" rel="noopener noreferrer nofollow">https://papers.cool/arxiv/2509.13333</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cool PapersEvaluation Awareness Scales Predictably in Open-Weights Large Language Models | Cool Papers - Immersive Paper DiscoverySeptemb...</p></details>
+   Link:<a href="https://papers.cool/arxiv/2509.13333" target="_blank" rel="noopener noreferrer nofollow">https://papers.cool/arxiv/2509.13333</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cool PapersEvaluation Awareness Scales Predictably in Open-Weights Large Language Models | Cool Papers - Immersive Paper DiscoverySeptemb...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: papers.cool  
-   Link: <a href="https://papers.cool/arxiv/2605.26438" target="_blank" rel="noopener noreferrer nofollow">https://papers.cool/arxiv/2605.26438</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cool PapersLURE: Live-Usage Replay Evaluations for Reducing Evaluation Awareness | Cool Papers - Immersive Paper DiscoveryApril 8, 2026...</p></details>
+   Link:<a href="https://papers.cool/arxiv/2605.26438" target="_blank" rel="noopener noreferrer nofollow">https://papers.cool/arxiv/2605.26438</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cool PapersLURE: Live-Usage Replay Evaluations for Reducing Evaluation Awareness | Cool Papers - Immersive Paper DiscoveryApril 8, 2026...</p></details>
    Published: April 8, 2026  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: dataconomy.com  
    Title: Can AI Tell When It’s Being Tested?  
-   Link: <a href="https://dataconomy.com/2025/06/03/can-ai-tell-when-its-being-tested/" target="_blank" rel="noopener noreferrer nofollow">https://dataconomy.com/2025/06/03/can-ai-tell-when-its-being-tested/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Can AI Tell When It’s Being Tested? - DataconomyJune 3, 2025...</p></details>
+   Link:<a href="https://dataconomy.com/2025/06/03/can-ai-tell-when-its-being-tested/" target="_blank" rel="noopener noreferrer nofollow">https://dataconomy.com/2025/06/03/can-ai-tell-when-its-being-tested/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Can AI Tell When It’s Being Tested? - DataconomyJune 3, 2025...</p></details>
    Published: June 3, 2025  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: arxiv.org  
    Title: arXiv Evaluation Awareness in Language Models Has Limited Effect on Behaviour  
-   Link: <a href="https://arxiv.org/abs/2605.05835" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2605.05835</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluation Awareness in Language Models Has Limited Effect on BehaviourMay 7, 2026...</p></details>
+   Link:<a href="https://arxiv.org/abs/2605.05835" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2605.05835</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluation Awareness in Language Models Has Limited Effect on BehaviourMay 7, 2026...</p></details>
    Published: May 7, 2026  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: papers.cool  
-   Link: <a href="https://papers.cool/arxiv/2509.00591v3" target="_blank" rel="noopener noreferrer nofollow">https://papers.cool/arxiv/2509.00591v3</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Immersive Paper DiscoveryAugust 30, 2025 — 2509.00591 Total: 1 #1 PROBE-REWRITE-EVALUATE: A WORKFLOW FOR RELIABLE BENCHMARKS AND QUANTIFY...</p></details>
+   Link:<a href="https://papers.cool/arxiv/2509.00591v3" target="_blank" rel="noopener noreferrer nofollow">https://papers.cool/arxiv/2509.00591v3</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Immersive Paper DiscoveryAugust 30, 2025 — 2509.00591 Total: 1 #1 PROBE-REWRITE-EVALUATE: A WORKFLOW FOR RELIABLE BENCHMARKS AND QUANTIFY...</p></details>
    Published: August 30, 2025  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: Eval Aware Bench: Testing LLM Evaluation Awareness  
-   Link: <a href="https://www.youtube.com/watch?v=kbrgiwqVr80" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kbrgiwqVr80</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NLA Explained: How Anthropic Can Read Claude&#x27;s Hidden Thoughts (AI Safety)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=kbrgiwqVr80" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kbrgiwqVr80</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NLA Explained: How Anthropic Can Read Claude&#x27;s Hidden Thoughts (AI Safety)...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: huggingface.co  
    Title: Hugging Face Paper page  
-   Link: <a href="https://huggingface.co/papers/2505.23836" target="_blank" rel="noopener noreferrer nofollow">https://huggingface.co/papers/2505.23836</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hugging FacePaper page - Large Language Models Often Know When They Are Being EvaluatedMay 28, 2025...</p></details>
+   Link:<a href="https://huggingface.co/papers/2505.23836" target="_blank" rel="noopener noreferrer nofollow">https://huggingface.co/papers/2505.23836</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hugging FacePaper page - Large Language Models Often Know When They Are Being EvaluatedMay 28, 2025...</p></details>
    Published: May 28, 2025  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: huggingface.co  
    Title: Hugging Face Paper page  
-   Link: <a href="https://huggingface.co/papers/2509.00591" target="_blank" rel="noopener noreferrer nofollow">https://huggingface.co/papers/2509.00591</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hugging FacePaper page - Probe-Rewrite-Evaluate: A Workflow for Reliable Benchmarks and Quantifying Evaluation AwarenessAugust 30, 2025...</p></details>
+   Link:<a href="https://huggingface.co/papers/2509.00591" target="_blank" rel="noopener noreferrer nofollow">https://huggingface.co/papers/2509.00591</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hugging FacePaper page - Probe-Rewrite-Evaluate: A Workflow for Reliable Benchmarks and Quantifying Evaluation AwarenessAugust 30, 2025...</p></details>
    Published: August 30, 2025  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: huggingface.co  
    Title: Hugging Face Paper page  
-   Link: <a href="https://huggingface.co/papers/2603.19426" target="_blank" rel="noopener noreferrer nofollow">https://huggingface.co/papers/2603.19426</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hugging FacePaper page - Is Evaluation Awareness Just Format Sensitivity? Limitations of Probe-Based Evidence under Controlled Prompt Str...</p></details>
+   Link:<a href="https://huggingface.co/papers/2603.19426" target="_blank" rel="noopener noreferrer nofollow">https://huggingface.co/papers/2603.19426</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hugging FacePaper page - Is Evaluation Awareness Just Format Sensitivity? Limitations of Probe-Based Evidence under Controlled Prompt Str...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: iaps.ai  
-   Link: <a href="https://www.iaps.ai/research/evaluation-awareness-why-frontier-ai-models-are-getting-harder-to-test" target="_blank" rel="noopener noreferrer nofollow">https://www.iaps.ai/research/evaluation-awareness-why-frontier-ai-models-are-getting-harder-to-test</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Institute for AI Policy and StrategyEvaluation Awareness: Why Frontier AI Models Are Getting Harder to Test — Institute for AI Policy and...</p></details>
+   Link:<a href="https://www.iaps.ai/research/evaluation-awareness-why-frontier-ai-models-are-getting-harder-to-test" target="_blank" rel="noopener noreferrer nofollow">https://www.iaps.ai/research/evaluation-awareness-why-frontier-ai-models-are-getting-harder-to-test</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Institute for AI Policy and StrategyEvaluation Awareness: Why Frontier AI Models Are Getting Harder to Test — Institute for AI Policy and...</p></details>
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: neurips.cc  
-   Link: <a href="https://neurips.cc/virtual/2025/123854" target="_blank" rel="noopener noreferrer nofollow">https://neurips.cc/virtual/2025/123854</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NeurIPS Probe-Rewrite-Evaluate: A Workflow for Reliable Benchmarks and Quantifying Evaluation AwarenessWorkshop: AI That Keeps Up: Worksh...</p></details>
+   Link:<a href="https://neurips.cc/virtual/2025/123854" target="_blank" rel="noopener noreferrer nofollow">https://neurips.cc/virtual/2025/123854</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NeurIPS Probe-Rewrite-Evaluate: A Workflow for Reliable Benchmarks and Quantifying Evaluation AwarenessWorkshop: AI That Keeps Up: Worksh...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: lesswrong.com  
-   Link: <a href="https://www.lesswrong.com/posts/YXPAjK6keLuebpjz2/verbalised-evaluation-awareness-in-language-models-has" target="_blank" rel="noopener noreferrer nofollow">https://www.lesswrong.com/posts/YXPAjK6keLuebpjz2/verbalised-evaluation-awareness-in-language-models-has</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Verbalised evaluation awareness in language models has little effect on their behaviour — LessWrongMay 12, 2026 — VERBALISED EVALUATION A...</p></details>
+   Link:<a href="https://www.lesswrong.com/posts/YXPAjK6keLuebpjz2/verbalised-evaluation-awareness-in-language-models-has" target="_blank" rel="noopener noreferrer nofollow">https://www.lesswrong.com/posts/YXPAjK6keLuebpjz2/verbalised-evaluation-awareness-in-language-models-has</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Verbalised evaluation awareness in language models has little effect on their behaviour — LessWrongMay 12, 2026 — VERBALISED EVALUATION A...</p></details>
    Published: May 12, 2026  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: ai.updf.com  
-   Link: <a href="https://ai.updf.com/paper-detail/large-language-models-often-know-when-they-are-being-evaluated-needham-edkins-f3986faf4b37530a0c8db2fce2b100446cb5b5cc" target="_blank" rel="noopener noreferrer nofollow">https://ai.updf.com/paper-detail/large-language-models-often-know-when-they-are-being-evaluated-needham-edkins-f3986faf4b37530a0c8db2fce2b100446cb5b5cc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Language Models Often Know When They Are Being EvaluatedLarge Language Models Often Know When They Are Being Evaluated Joe Needham,Giles...</p></details>
+   Link:<a href="https://ai.updf.com/paper-detail/large-language-models-often-know-when-they-are-being-evaluated-needham-edkins-f3986faf4b37530a0c8db2fce2b100446cb5b5cc" target="_blank" rel="noopener noreferrer nofollow">https://ai.updf.com/paper-detail/large-language-models-often-know-when-they-are-being-evaluated-needham-edkins-f3986faf4b37530a0c8db2fce2b100446cb5b5cc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Language Models Often Know When They Are Being EvaluatedLarge Language Models Often Know When They Are Being Evaluated Joe Needham,Giles...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: pith.science  
-   Link: <a href="https://pith.science/paper/2605.05835" target="_blank" rel="noopener noreferrer nofollow">https://pith.science/paper/2605.05835</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 8, 2026 — arxiv: 2605.05835 · v1 · submitted 2026-05-07 · 💻 cs.CL · cs.CY EVALUATION AWARENESS IN LANGUAGE MODELS HAS LIMITED EFFECT...</p></details>
+   Link:<a href="https://pith.science/paper/2605.05835" target="_blank" rel="noopener noreferrer nofollow">https://pith.science/paper/2605.05835</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 8, 2026 — arxiv: 2605.05835 · v1 · submitted 2026-05-07 · 💻 cs.CL · cs.CY EVALUATION AWARENESS IN LANGUAGE MODELS HAS LIMITED EFFECT...</p></details>
    Published: May 7, 2026  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: apolloresearch.ai  
-   Link: <a href="https://www.apolloresearch.ai/governance/the-need-for-deeper-white-box-access-to-maintain-state-of-the-art-evaluations-for-loss-of-[control" target="_blank" rel="noopener noreferrer nofollow">https://www.apolloresearch.ai/governance/the-need-for-deeper-white-box-access-to-maintain-state-of-the-art-evaluations-for-loss-of-[control</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Recent frontier AI models have exhibited and verbalized evaluation awareness––a behavior that, if u...</p></details>
+   Link:<a href="https://www.apolloresearch.ai/governance/the-need-for-deeper-white-box-access-to-maintain-state-of-the-art-evaluations-for-loss-of-[control" target="_blank" rel="noopener noreferrer nofollow">https://www.apolloresearch.ai/governance/the-need-for-deeper-white-box-access-to-maintain-state-of-the-art-evaluations-for-loss-of-[control</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Recent frontier AI models have exhibited and verbalized evaluation awareness––a behavior that, if u...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: goodfire.ai  
    Title: Verbalized Eval Awareness Inflates Measured Safety  
-   Link: <a href="https://www.goodfire.ai/research/verbalized-eval-awareness-inflates-measured-safety" target="_blank" rel="noopener noreferrer nofollow">https://www.goodfire.ai/research/verbalized-eval-awareness-inflates-measured-safety</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 4, 2026 — Research VERBALIZED EVAL AWARENESS INFLATES MEASURED SAFETY We provide the most comprehensive evidence to date that verbali...</p></details>
+   Link:<a href="https://www.goodfire.ai/research/verbalized-eval-awareness-inflates-measured-safety" target="_blank" rel="noopener noreferrer nofollow">https://www.goodfire.ai/research/verbalized-eval-awareness-inflates-measured-safety</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 4, 2026 — Research VERBALIZED EVAL AWARENESS INFLATES MEASURED SAFETY We provide the most comprehensive evidence to date that verbali...</p></details>
    Published: May 4, 2026  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: NLA Explained: How Anthropic Can Read Claude's Hidden Thoughts (AI Safety)  
-   Link: <a href="https://www.youtube.com/watch?v=zVDNztS62EU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zVDNztS62EU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Alignment faking in large language models...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=zVDNztS62EU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zVDNztS62EU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Alignment faking in large language models...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: OpenAI  
    Title: detecting and reducing scheming in ai models  
-   Link: <a href="https://openai.com/index/detecting-and-reducing-scheming-in-ai-models/" target="_blank" rel="noopener noreferrer nofollow">https://openai.com/index/detecting-and-reducing-scheming-in-ai-models/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>comDetecting and reducing scheming in AI models | OpenAISeptember 17, 2025 — MEASURING SCHEMING IS FURTHER COMPLICATED BY SITUATIONAL AWA...</p></details>
+   Link:<a href="https://openai.com/index/detecting-and-reducing-scheming-in-ai-models/" target="_blank" rel="noopener noreferrer nofollow">https://openai.com/index/detecting-and-reducing-scheming-in-ai-models/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>comDetecting and reducing scheming in AI models | OpenAISeptember 17, 2025 — MEASURING SCHEMING IS FURTHER COMPLICATED BY SITUATIONAL AWA...</p></details>
    Published: September 17, 2025  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: sciencestack.ai  
-   Link: <a href="https://www.sciencestack.ai/paper/2505.14617" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencestack.ai/paper/2505.14617</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Hawthorne Effect in Reasoning Models: Evaluating and Steering Test Awareness (arXiv:2505.14617v3) - ScienceStackMay 20, 2025 — THE HA...</p></details>
+   Link:<a href="https://www.sciencestack.ai/paper/2505.14617" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencestack.ai/paper/2505.14617</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Hawthorne Effect in Reasoning Models: Evaluating and Steering Test Awareness (arXiv:2505.14617v3) - ScienceStackMay 20, 2025 — THE HA...</p></details>
    Published: May 20, 2025

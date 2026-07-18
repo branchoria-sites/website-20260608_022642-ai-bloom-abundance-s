@@ -325,11 +325,11 @@ The central governance question is therefore not “AI or no AI?” but “under
 
 AI abundance is often described as a world where [intelligence]({{ 'intelligence/' | relative_url }}) becomes cheap and widely available. That phrase can hide a hard fact: advanced AI is not only software. It depends on scarce inputs, including high-end chips, data centres, cloud platforms, electricity, specialist talent, proprietary data, distribution channels and regulatory access. If those inputs remain concentrated, “abundant intelligence” may arrive as a subscription service controlled by a few powerful organisations rather than as a broad civic resource.
 
-This is already visible in the structure of the AI economy. Foundation models require enormous investment in compute, data and skilled labour. Research on the economics of frontier model training finds that the cost of the largest training runs has been rising rapidly, with AI accelerator chips and staff costs among the biggest expense categories; if current trends continue, the largest training runs could cost more than a billion dollars by 2027. That does not prove that only a few firms can ever build useful AI, but it does mean that frontier capability is pulled towards actors with exceptional access to capital and infrastructure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2405.21015" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv The rising costs of training frontier AI models</span><span class="citation-popover-snippet">The rising costs of training frontier AI modelsMay 31, 2024...</span><span class="citation-popover-meta">Published: May 31, 2024</span></span></span>
+This is already visible in the structure of the AI economy. Foundation models require enormous investment in compute, data and skilled labour. Research on the economics of frontier model training finds that the cost of the largest training runs has been rising rapidly, with AI accelerator chips and staff costs among the biggest expense categories; if current trends continue, the largest training runs could cost more than a billion dollars by 2027. That does not prove that only a few firms can ever build useful AI, but it does mean that frontier capability is pulled towards actors with exceptional access to capital and infrastructure.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2405.21015" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv The rising costs of training frontier AI models</span><span class="citation-popover-snippet">The rising costs of training frontier AI modelsMay 31, 2024...</span><span class="citation-popover-meta">Published: May 31, 2024</span></span></span>
 
-Competition authorities have begun to treat this as a structural issue rather than a normal software market. The UK Competition and Markets Authority has investigated public cloud infrastructure, and OECD analysis of cloud markets notes that Amazon and Microsoft together have been reported as holding up to 80% market share in some large OECD economies, with Google commonly the third-largest provider. Cloud concentration matters for AI because many firms, universities and public agencies cannot train or deploy advanced systems without renting infrastructure from the same small group of providers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/cma-cases/cloud-services-market-investigation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Cloud services market investigation</span><span class="citation-popover-snippet">October 5, 2023 — Cloud services market investigation. The Competition and Markets Authority (CMA) investigated the supply of public clou...</span><span class="citation-popover-meta">Published: October 5, 2023</span></span></span>
+Competition authorities have begun to treat this as a structural issue rather than a normal software market. The UK Competition and Markets Authority has investigated public cloud infrastructure, and OECD analysis of cloud markets notes that Amazon and Microsoft together have been reported as holding up to 80% market share in some large OECD economies, with Google commonly the third-largest provider. Cloud concentration matters for AI because many firms, universities and public agencies cannot train or deploy advanced systems without renting infrastructure from the same small group of providers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/cma-cases/cloud-services-market-investigation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Cloud services market investigation</span><span class="citation-popover-snippet">October 5, 2023 — Cloud services market investigation. The Competition and Markets Authority (CMA) investigated the supply of public clou...</span><span class="citation-popover-meta">Published: October 5, 2023</span></span></span>
 
-The deeper concern is vertical power. A company that controls cloud infrastructure may also invest in frontier model developers, sell AI services, host enterprise data, offer workplace software, run app ecosystems and influence standards. That can make AI diffusion fast, but it can also make whole sectors dependent on bundled systems, private pricing decisions and opaque contractual terms. Economic Policy research on foundation models argues that the most capable models may show tendencies towards concentration, and that competition policy should prevent power at the model layer from propagating into downstream markets while also requiring standards on safety, privacy, reliability and interoperability. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2405.21015" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv The rising costs of training frontier AI models</span><span class="citation-popover-snippet">The rising costs of training frontier AI modelsMay 31, 2024...</span><span class="citation-popover-meta">Published: May 31, 2024</span></span></span>
+The deeper concern is vertical power. A company that controls cloud infrastructure may also invest in frontier model developers, sell AI services, host enterprise data, offer workplace software, run app ecosystems and influence standards. That can make AI diffusion fast, but it can also make whole sectors dependent on bundled systems, private pricing decisions and opaque contractual terms. Economic Policy research on foundation models argues that the most capable models may show tendencies towards concentration, and that competition policy should prevent power at the model layer from propagating into downstream markets while also requiring standards on safety, privacy, reliability and interoperability.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2405.21015" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv The rising costs of training frontier AI models</span><span class="citation-popover-snippet">The rising costs of training frontier AI modelsMay 31, 2024...</span><span class="citation-popover-meta">Published: May 31, 2024</span></span></span>
 
 For the AI bloom thesis, this is not an anti-business point. Private firms may be essential to building frontier systems, scaling products and financing infrastructure. The issue is whether societies let the resulting platform power become the default constitution of the AI age. If a small set of companies becomes the gatekeeper for education tools, scientific assistants, medical discovery platforms, [robotics]({{ 'robotics/' | relative_url }}) systems and public administration, then “who owns the future?” becomes a practical question about prices, access, accountability and democratic [control]({{ 'control/' | relative_url }}).
 
@@ -342,9 +342,9 @@ On the other side, concentration can shape the direction of progress. Companies 
 
 This divergence matters because AI’s largest gains may come from general-purpose infrastructure that many sectors build upon. If access is expensive, locked down or skewed towards high-margin customers, the long-run benefits can be delayed or channelled towards already powerful users. The risks are not limited to monopoly pricing. They include vendor lock-in, dependence on proprietary systems, loss of public technical capacity, closed safety evidence, restrictive licensing, and a world where universities and smaller firms become downstream users rather than independent contributors.
 
-Several policy tools aim to reduce this dependence without pretending that government can simply replace the frontier labs. Public compute is one of the clearest examples. The US National Artificial Intelligence Research Resource pilot connects researchers and educators with compute, data, models, software and expertise, with goals including accelerating AI-powered discovery, expanding the AI workforce and advancing interpretability, security and trust. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nsf.gov/focus-areas/ai/nairr" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsf.gov">[NSF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsf.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> - U.S. National Science Foundation The UK’s AI Research Resource similarly provides AI-specialised compute capacity through advanced supercomputers for researchers, academia and industry. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ai-research-resource" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">A I Research Resource</span><span class="citation-popover-snippet">A I Research Resource</span></span></span>
+Several policy tools aim to reduce this dependence without pretending that government can simply replace the frontier labs. Public compute is one of the clearest examples. The US National Artificial Intelligence Research Resource pilot connects researchers and educators with compute, data, models, software and expertise, with goals including accelerating AI-powered discovery, expanding the AI workforce and advancing interpretability, security and trust.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nsf.gov/focus-areas/ai/nairr" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsf.gov">[NSF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsf.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> - U.S. National Science Foundation The UK’s AI Research Resource similarly provides AI-specialised compute capacity through advanced supercomputers for researchers, academia and industry.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ai-research-resource" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">A I Research Resource</span><span class="citation-popover-snippet">A I Research Resource</span></span></span>
 
-Public compute is not a magic equaliser. The largest private clusters may still exceed public resources, and access programmes can be slow, bureaucratic or skewed towards already well-connected institutions. But they change the bargaining position of society. They let public-interest researchers test models, build open tools, study safety, work on local needs and train talent without relying entirely on the commercial cloud. The Ada Lovelace Institute describes “public compute” as government-funded access to compute through hardware, vouchers, cloud credits or public supercomputing, and stresses that the meaning of “public” is contested: it can mean publicly funded, openly accessible, directed towards public-interest research, or some mixture of these. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.adalovelaceinstitute.org/report/computing-commons/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adalovelaceinstitute.org">[Ada Lovelace Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adalovelaceinstitute.org</span><span class="citation-popover-title">computing commons</span><span class="citation-popover-snippet">computing commons</span></span></span>
+Public compute is not a magic equaliser. The largest private clusters may still exceed public resources, and access programmes can be slow, bureaucratic or skewed towards already well-connected institutions. But they change the bargaining position of society. They let public-interest researchers test models, build open tools, study safety, work on local needs and train talent without relying entirely on the commercial cloud. The Ada Lovelace Institute describes “public compute” as government-funded access to compute through hardware, vouchers, cloud credits or public supercomputing, and stresses that the meaning of “public” is contested: it can mean publicly funded, openly accessible, directed towards public-interest research, or some mixture of these.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.adalovelaceinstitute.org/report/computing-commons/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adalovelaceinstitute.org">[Ada Lovelace Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adalovelaceinstitute.org</span><span class="citation-popover-title">computing commons</span><span class="citation-popover-snippet">computing commons</span></span></span>
 
 A practical governance agenda for commercial concentration would not try to freeze the industry in place. It would ask sharper questions: Are cloud and model markets contestable? Can customers move data and workloads? Are public agencies buying systems they can audit and exit? Are safety evaluations independently reproducible? Are open models available where they are safe and useful? Are procurement rules rewarding interoperability rather than dependency? These are the plumbing questions behind a future that looks abundant rather than rented.
 
@@ -354,11 +354,11 @@ A practical governance agenda for commercial concentration would not try to free
 
 The same features that make advanced AI useful for science and public services also make it strategically valuable to states. AI can help analyse intelligence, automate cyber operations, improve logistics, guide drones, accelerate weapons design, generate propaganda, and compress decision-making in crises. That is why governance of AI power cannot be left to consumer protection or workplace policy alone.
 
-Military AI raises a particularly sharp version of the bloom dilemma. Civilisation may benefit from AI systems that help defend against biological threats, cyberattacks, nuclear escalation, disinformation or hostile uses of autonomous systems. But the pursuit of military advantage can also create arms-race dynamics: faster deployment, less transparency, weaker public debate, and pressure on companies to relax safeguards. European Parliament research on defence and AI notes the absence of a unified international framework, contrasting flexible US approaches with more human-centric European regulatory traditions, while warning about accountability, international humanitarian law and reduced human oversight. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.europarl.europa.eu/RegData/etudes/BRIE/2025/769580/EPRS_BRI%282025%29769580_EN.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: europarl.europa.eu">[European Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">europarl.europa.eu</span><span class="citation-popover-title">European Parliament Defence and artificial intelligence</span><span class="citation-popover-snippet">European Parliament Defence and artificial intelligence</span></span></span>
+Military AI raises a particularly sharp version of the bloom dilemma. Civilisation may benefit from AI systems that help defend against biological threats, cyberattacks, nuclear escalation, disinformation or hostile uses of autonomous systems. But the pursuit of military advantage can also create arms-race dynamics: faster deployment, less transparency, weaker public debate, and pressure on companies to relax safeguards. European Parliament research on defence and AI notes the absence of a unified international framework, contrasting flexible US approaches with more human-centric European regulatory traditions, while warning about accountability, international humanitarian law and reduced human oversight.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.europarl.europa.eu/RegData/etudes/BRIE/2025/769580/EPRS_BRI%282025%29769580_EN.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: europarl.europa.eu">[European Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">europarl.europa.eu</span><span class="citation-popover-title">European Parliament Defence and artificial intelligence</span><span class="citation-popover-snippet">European Parliament Defence and artificial intelligence</span></span></span>
 
-Current international efforts are real but limited. The US-led Political Declaration on Responsible Military Use of Artificial Intelligence and Autonomy encourages states to support responsible military AI practices. <span class="citation-chip-wrap"><a class="citation-chip" href="https://2021-2025.state.gov/bureau-of-arms-control-deterrence-and-stability/political-declaration-on-responsible-military-use-of-artificial-intelligence-and-autonomy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 2021-2025.state.gov">[U.S. Department of State]</a><span class="citation-popover" role="note"><span class="citation-popover-source">2021-2025.state.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> SIPRI’s 2025 review describes the governance of autonomous weapon systems as centred for years on discussions under the Convention on Certain Conventional Weapons, alongside newer forums for broader military AI. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sipri.org/sites/default/files/SIPRIYB25c12.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sipri.org">[SIPRI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sipri.org</span><span class="citation-popover-title">12. Artificial intelligence and international peace and security</span><span class="citation-popover-snippet">12. Artificial intelligence and international peace and security</span></span></span> These initiatives create norms, but they do not yet amount to a strong global regime that can reliably prevent unsafe deployment or escalation.
+Current international efforts are real but limited. The US-led Political Declaration on Responsible Military Use of Artificial Intelligence and Autonomy encourages states to support responsible military AI practices.<span class="citation-chip-wrap"><a class="citation-chip" href="https://2021-2025.state.gov/bureau-of-arms-control-deterrence-and-stability/political-declaration-on-responsible-military-use-of-artificial-intelligence-and-autonomy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 2021-2025.state.gov">[U.S. Department of State]</a><span class="citation-popover" role="note"><span class="citation-popover-source">2021-2025.state.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> SIPRI’s 2025 review describes the governance of autonomous weapon systems as centred for years on discussions under the Convention on Certain Conventional Weapons, alongside newer forums for broader military AI.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sipri.org/sites/default/files/SIPRIYB25c12.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sipri.org">[SIPRI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sipri.org</span><span class="citation-popover-title">12. Artificial intelligence and international peace and security</span><span class="citation-popover-snippet">12. Artificial intelligence and international peace and security</span></span></span> These initiatives create norms, but they do not yet amount to a strong global regime that can reliably prevent unsafe deployment or escalation.
 
-Frontier AI also sits inside wider geopolitical competition. Export controls on advanced chips, national AI strategies, security testing, data-centre location decisions and government partnerships with AI labs all shape who can build powerful systems. Compute governance is increasingly treated as a lever because advanced chips and large training clusters are easier to monitor than abstract “algorithms”. Lawfare analysis by Lennart Heim argues that compute governance can increase visibility into AI progress, shape allocation of key inputs and enforce rules around development and deployment, while also warning that such measures are technically and politically difficult to design well. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lawfaremedia.org/article/to-govern-ai-we-must-govern-compute" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Lawfare">[Default]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Lawfare</span><span class="citation-popover-title">to govern ai we must govern compute</span><span class="citation-popover-snippet">to govern ai we must govern compute</span></span></span>
+Frontier AI also sits inside wider geopolitical competition. Export controls on advanced chips, national AI strategies, security testing, data-centre location decisions and government partnerships with AI labs all shape who can build powerful systems. Compute governance is increasingly treated as a lever because advanced chips and large training clusters are easier to monitor than abstract “algorithms”. Lawfare analysis by Lennart Heim argues that compute governance can increase visibility into AI progress, shape allocation of key inputs and enforce rules around development and deployment, while also warning that such measures are technically and politically difficult to design well.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lawfaremedia.org/article/to-govern-ai-we-must-govern-compute" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Lawfare">[Default]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Lawfare</span><span class="citation-popover-title">to govern ai we must govern compute</span><span class="citation-popover-snippet">to govern ai we must govern compute</span></span></span>
 
 The danger is that security policy becomes the whole of AI governance. If governments treat AI mainly as a race for dominance, they may prioritise speed, secrecy and national advantage over public benefit. If they ignore security, dangerous capabilities may diffuse faster than institutions can respond. A bloom-compatible approach has to hold both sides together: enough control to reduce catastrophic misuse, enough openness and accountability to avoid permanent concentration of power.
 
@@ -366,13 +366,13 @@ The danger is that security policy becomes the whole of AI governance. If govern
 
 For ordinary people, AI governance will not be judged mainly by summit declarations. It will be judged by whether AI makes schools, hospitals, benefits systems, courts, councils, workplaces and public services fairer or more confusing, more humane or more arbitrary.
 
-Public-sector AI is a crucial test because government decisions carry coercive power. A flawed recommender in a shopping app is one thing; an opaque system affecting welfare payments, immigration, policing, taxation or healthcare access is another. OECD guidance on AI in public service delivery warns that public organisations risk democratic legitimacy if people do not trust AI-enabled services, because experiences with administrative and social services influence trust in government overall. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://one.oecd.org/document/DAF/COMP%282025%298/en/pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: one.oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">one.oecd.org</span><span class="citation-popover-snippet">ONE MPCompetition in the Provision of Cloud Computing Services15 May 2025 — Amazon and Microsoft&#x27;s cloud computing services are reported...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
+Public-sector AI is a crucial test because government decisions carry coercive power. A flawed recommender in a shopping app is one thing; an opaque system affecting welfare payments, immigration, policing, taxation or healthcare access is another. OECD guidance on AI in public service delivery warns that public organisations risk democratic legitimacy if people do not trust AI-enabled services, because experiences with administrative and social services influence trust in government overall.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://one.oecd.org/document/DAF/COMP%282025%298/en/pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: one.oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">one.oecd.org</span><span class="citation-popover-snippet">ONE MPCompetition in the Provision of Cloud Computing Services15 May 2025 — Amazon and Microsoft&#x27;s cloud computing services are reported...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
 
-The UK illustrates both the promise and the problem. The government’s AI Playbook aims to help public bodies use a wider range of AI technologies safely, effectively and responsibly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ai-playbook-for-the-uk-government/artificial-intelligence-playbook-for-the-uk-government-html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Artificial Intelligence Playbook for the UK Government</span><span class="citation-popover-snippet">Artificial Intelligence Playbook for the UK Government</span></span></span> Yet civil-society and media scrutiny has repeatedly focused on whether departments disclose algorithmic tools, whether systems are biased, and whether affected people can challenge decisions. Reporting in 2024 found that the UK government had been slow to list AI systems on its transparency register, despite concerns about uses in welfare, immigration and policing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/technology/article/2024/aug/25/register-aims-to-quash-fears-over-racist-and-biased-ai-tools-used-on-uk-public" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Despite the development of an algorithmic transparency recording standard in 2021, only nine records have been published so far. The rece...</span></span></span>
+The UK illustrates both the promise and the problem. The government’s AI Playbook aims to help public bodies use a wider range of AI technologies safely, effectively and responsibly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ai-playbook-for-the-uk-government/artificial-intelligence-playbook-for-the-uk-government-html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Artificial Intelligence Playbook for the UK Government</span><span class="citation-popover-snippet">Artificial Intelligence Playbook for the UK Government</span></span></span> Yet civil-society and media scrutiny has repeatedly focused on whether departments disclose algorithmic tools, whether systems are biased, and whether affected people can challenge decisions. Reporting in 2024 found that the UK government had been slow to list AI systems on its transparency register, despite concerns about uses in welfare, immigration and policing.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/technology/article/2024/aug/25/register-aims-to-quash-fears-over-racist-and-biased-ai-tools-used-on-uk-public" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Despite the development of an algorithmic transparency recording standard in 2021, only nine records have been published so far. The rece...</span></span></span>
 
 The lesson is not that public-sector AI should be banned. In a well-governed system, AI could help detect fraud, reduce backlogs, translate services, assist clinicians, triage maintenance, improve accessibility, and give frontline staff better information. The lesson is that legitimacy must be designed in from the start. People need to know when AI is used, what it is used for, what data it relies on, who is accountable, how errors are corrected, and when a human can override the system.
 
-This is especially important because AI systems can shift discretion without making that shift obvious. A caseworker, teacher, doctor or police officer may formally remain “in the loop” while in practice deferring to a model’s ranking, risk score or suggested answer. Research on AI in urban governance argues that AI can reshape both discretion and accountability, creating opportunities for better decision-making but also requiring transparent human-AI collaboration, citizen engagement and robust data governance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2405.21015" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv The rising costs of training frontier AI models</span><span class="citation-popover-snippet">The rising costs of training frontier AI modelsMay 31, 2024...</span><span class="citation-popover-meta">Published: May 31, 2024</span></span></span>
+This is especially important because AI systems can shift discretion without making that shift obvious. A caseworker, teacher, doctor or police officer may formally remain “in the loop” while in practice deferring to a model’s ranking, risk score or suggested answer. Research on AI in urban governance argues that AI can reshape both discretion and accountability, creating opportunities for better decision-making but also requiring transparent human-AI collaboration, citizen engagement and robust data governance.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2405.21015" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv The rising costs of training frontier AI models</span><span class="citation-popover-snippet">The rising costs of training frontier AI modelsMay 31, 2024...</span><span class="citation-popover-meta">Published: May 31, 2024</span></span></span>
 
 Trust is not public relations. It is an institutional outcome. It depends on independent audits, appeal rights, procurement competence, published evaluations, incident reporting, whistleblower protection, and the willingness to stop using systems that do not work. A society that wants AI bloom cannot treat the public as a dataset, a market or a passive beneficiary. It has to treat people as rights-bearing participants in decisions that may reshape their lives.
 
@@ -381,13 +381,13 @@ Trust is not public relations. It is an institutional outcome. It depends on ind
 
 The AI bloom thesis is universal in language: healthier lives, better science, cleaner [energy]({{ 'energy/' | relative_url }}), more education, less drudgery, a larger long-term future. But the current AI economy is not universal in structure. Compute, cloud infrastructure, frontier labs, technical talent, capital markets and regulatory influence are heavily concentrated in a small number of countries and firms.
 
-That creates a global distribution problem. Countries with weak digital infrastructure, expensive electricity, limited cloud access, few local-language datasets and lower research funding may become consumers of AI systems designed elsewhere. Their citizens may provide data, labour or markets without gaining much control over the tools that shape education, agriculture, public administration, finance and media. UNCTAD’s Technology and Innovation Report 2025 argues for an “AI-for-all” approach that addresses infrastructure, data and skills, and calls for global collaboration to steer AI towards shared goals and values. <span class="citation-chip-wrap"><a class="citation-chip" href="https://unctad.org/system/files/official-document/tir2025ch5_en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unctad.org">[UN Trade and Development (UNCTAD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unctad.org</span><span class="citation-popover-title">tir2025ch5 en</span><span class="citation-popover-snippet">tir2025ch5 en</span></span></span>
+That creates a global distribution problem. Countries with weak digital infrastructure, expensive electricity, limited cloud access, few local-language datasets and lower research funding may become consumers of AI systems designed elsewhere. Their citizens may provide data, labour or markets without gaining much control over the tools that shape education, agriculture, public administration, finance and media. UNCTAD’s Technology and Innovation Report 2025 argues for an “AI-for-all” approach that addresses infrastructure, data and skills, and calls for global collaboration to steer AI towards shared goals and values.<span class="citation-chip-wrap"><a class="citation-chip" href="https://unctad.org/system/files/official-document/tir2025ch5_en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unctad.org">[UN Trade and Development (UNCTAD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unctad.org</span><span class="citation-popover-title">tir2025ch5 en</span><span class="citation-popover-snippet">tir2025ch5 en</span></span></span>
 
-The United Nations has begun building more inclusive AI governance mechanisms. In August 2025, the UN General Assembly established an Independent International Scientific Panel on AI and a Global Dialogue on AI Governance, intended to connect scientific evidence with policymaking and provide an inclusive platform for states and stakeholders. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.un.org/global-digital-compact/en/ai" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: un.org">[United Nations]</a><span class="citation-popover" role="note"><span class="citation-popover-source">un.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Chatham House’s assessment is cautious: the UN’s new architecture is mostly powerless in hard enforcement terms, but it could still set agendas and widen participation if implemented well. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.chathamhouse.org/2025/09/can-uns-new-ai-governance-efforts-weather-ai-race" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chathamhouse.org">[Chatham House]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chathamhouse.org</span><span class="citation-popover-title">can uns new ai governance efforts weather ai race</span><span class="citation-popover-snippet">can uns new ai governance efforts weather ai race</span></span></span>
+The United Nations has begun building more inclusive AI governance mechanisms. In August 2025, the UN General Assembly established an Independent International Scientific Panel on AI and a Global Dialogue on AI Governance, intended to connect scientific evidence with policymaking and provide an inclusive platform for states and stakeholders.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.un.org/global-digital-compact/en/ai" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: un.org">[United Nations]</a><span class="citation-popover" role="note"><span class="citation-popover-source">un.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Chatham House’s assessment is cautious: the UN’s new architecture is mostly powerless in hard enforcement terms, but it could still set agendas and widen participation if implemented well.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.chathamhouse.org/2025/09/can-uns-new-ai-governance-efforts-weather-ai-race" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chathamhouse.org">[Chatham House]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chathamhouse.org</span><span class="citation-popover-title">can uns new ai governance efforts weather ai race</span><span class="citation-popover-snippet">can uns new ai governance efforts weather ai race</span></span></span>
 
-Benefit-sharing proposals try to make this more concrete. Governance.ai work on international AI benefit sharing describes mechanisms such as sharing AI resources, expanding access to AI systems, and transferring a share of profits or other benefits. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.governance.ai/Options_and_Motivations_for_International_AI_Benefit_Sharing.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.governance.ai">[cdn.governance.ai]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.governance.ai</span><span class="citation-popover-snippet">Open source on governance.ai.</span></span></span> Oxford Martin AI Governance Initiative material frames AI benefit-sharing as a combination of economic redistribution, technology transfer, capacity-building, and safety or non-proliferation controls. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aigi.ox.ac.uk/wp-content/uploads/2025/12/Operationalising-AI-Benefit-Sharing-Workshop-02.12.2025.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aigi.ox.ac.uk">[Oxford Martin AIGI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aigi.ox.ac.uk</span><span class="citation-popover-title">Oxford Martin AIGIAI BENEFIT-SHARING FRAMEWORK: BALANCING</span><span class="citation-popover-snippet">Oxford Martin AIGIAI BENEFIT-SHARING FRAMEWORK: BALANCING</span></span></span>
+Benefit-sharing proposals try to make this more concrete. Governance.ai work on international AI benefit sharing describes mechanisms such as sharing AI resources, expanding access to AI systems, and transferring a share of profits or other benefits.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.governance.ai/Options_and_Motivations_for_International_AI_Benefit_Sharing.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.governance.ai">[cdn.governance.ai]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.governance.ai</span><span class="citation-popover-snippet">Open source on governance.ai.</span></span></span> Oxford Martin AI Governance Initiative material frames AI benefit-sharing as a combination of economic redistribution, technology transfer, capacity-building, and safety or non-proliferation controls.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aigi.ox.ac.uk/wp-content/uploads/2025/12/Operationalising-AI-Benefit-Sharing-Workshop-02.12.2025.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aigi.ox.ac.uk">[Oxford Martin AIGI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aigi.ox.ac.uk</span><span class="citation-popover-title">Oxford Martin AIGIAI BENEFIT-SHARING FRAMEWORK: BALANCING</span><span class="citation-popover-snippet">Oxford Martin AIGIAI BENEFIT-SHARING FRAMEWORK: BALANCING</span></span></span>
 
-The difficulty is that these aims can pull against each other. Wider access can accelerate development and help poorer countries solve local problems. But some capabilities may be dangerous if released without safeguards. Technology transfer can build sovereignty, but can also intensify geopolitical rivalry. Profit-sharing can sound fair, but may be hard to measure, easy to capture, or too small to matter. Data dividends can recognise public contribution to AI value, but research on such schemes warns that apparently simple design choices can produce concentrated or demographically uneven payouts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2405.21015" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv The rising costs of training frontier AI models</span><span class="citation-popover-snippet">The rising costs of training frontier AI modelsMay 31, 2024...</span><span class="citation-popover-meta">Published: May 31, 2024</span></span></span>
+The difficulty is that these aims can pull against each other. Wider access can accelerate development and help poorer countries solve local problems. But some capabilities may be dangerous if released without safeguards. Technology transfer can build sovereignty, but can also intensify geopolitical rivalry. Profit-sharing can sound fair, but may be hard to measure, easy to capture, or too small to matter. Data dividends can recognise public contribution to AI value, but research on such schemes warns that apparently simple design choices can produce concentrated or demographically uneven payouts.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2405.21015" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv The rising costs of training frontier AI models</span><span class="citation-popover-snippet">The rising costs of training frontier AI modelsMay 31, 2024...</span><span class="citation-popover-meta">Published: May 31, 2024</span></span></span>
 
 A serious global gains agenda therefore has to be plural. It should include affordable access to safe AI tools, local-language datasets, regional compute and data commons, technical training, public-interest research funding, better bargaining power for smaller countries, and rules that stop the most powerful actors from exporting risk while retaining value. The goal is not charity after the fact. It is a world in which more societies can shape the technology before it shapes them.
 
@@ -399,11 +399,11 @@ The most useful governance ideas are not slogans such as “open” or “closed
 
 One family of institutions concerns access to key inputs. Public compute programmes, national research resources, cloud credits for universities and nonprofits, and regional AI infrastructure can help ensure that scientific and public-interest work is not priced out. They can also support independent safety research, which is hard to do if only frontier companies can afford meaningful experiments. Public compute should be paired with clear allocation criteria, security controls, environmental standards and support for smaller institutions that lack grant-writing or engineering capacity.
 
-A second family concerns market structure. Competition policy can scrutinise cloud lock-in, exclusive partnerships, acquisitions, self-preferencing, restrictive licensing and bundling. The point is not to punish success, but to keep the AI ecosystem contestable enough that new entrants, open-source developers, public-interest labs and sector-specific providers can compete. The European Commission has increasingly linked cloud and AI to Digital Markets Act priorities, while competition scholarship has stressed the importance of access to compute, data and strategic positioning in foundation model competition. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/legal/litigation/eu-rules-reining-big-tech-will-now-target-cloud-services-ai-regulators-say-2026-04-28/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Following positive results in existing digital areas, EU regulators now plan to assess whether cloud providers such as Amazon and Microso...</span></span></span>
+A second family concerns market structure. Competition policy can scrutinise cloud lock-in, exclusive partnerships, acquisitions, self-preferencing, restrictive licensing and bundling. The point is not to punish success, but to keep the AI ecosystem contestable enough that new entrants, open-source developers, public-interest labs and sector-specific providers can compete. The European Commission has increasingly linked cloud and AI to Digital Markets Act priorities, while competition scholarship has stressed the importance of access to compute, data and strategic positioning in foundation model competition.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/legal/litigation/eu-rules-reining-big-tech-will-now-target-cloud-services-ai-regulators-say-2026-04-28/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Following positive results in existing digital areas, EU regulators now plan to assess whether cloud providers such as Amazon and Microso...</span></span></span>
 
-A third family concerns public procurement. Governments will be major AI customers. If they buy badly, they may entrench vendor lock-in, import bias, weaken public capacity and make critical services dependent on opaque systems. The Ada Lovelace Institute warns that public-sector procurement often lacks the transparency and fairness needed for AI products, and that market concentration and knowledge asymmetries worsen the problem. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.adalovelaceinstitute.org/report/computing-commons/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adalovelaceinstitute.org">[Ada Lovelace Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adalovelaceinstitute.org</span><span class="citation-popover-title">computing commons</span><span class="citation-popover-snippet">computing commons</span></span></span> Good procurement should require auditability, interoperability, data protection, clear liability, performance evidence, exit rights, and meaningful consultation with affected workers and service users.
+A third family concerns public procurement. Governments will be major AI customers. If they buy badly, they may entrench vendor lock-in, import bias, weaken public capacity and make critical services dependent on opaque systems. The Ada Lovelace Institute warns that public-sector procurement often lacks the transparency and fairness needed for AI products, and that market concentration and knowledge asymmetries worsen the problem.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.adalovelaceinstitute.org/report/computing-commons/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adalovelaceinstitute.org">[Ada Lovelace Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adalovelaceinstitute.org</span><span class="citation-popover-title">computing commons</span><span class="citation-popover-snippet">computing commons</span></span></span> Good procurement should require auditability, interoperability, data protection, clear liability, performance evidence, exit rights, and meaningful consultation with affected workers and service users.
 
-A fourth family concerns frontier safety and accountability. The AI Seoul Summit produced Frontier AI Safety Commitments under which leading AI organisations agreed to publish safety frameworks and address severe risks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/frontier-ai-safety-commitments-ai-seoul-summit-2024" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">frontier ai safety commitments ai seoul summit 2024</span><span class="citation-popover-snippet">frontier ai safety commitments ai seoul summit 2024</span></span></span> Such commitments are useful early scaffolding, especially where law lags technology, but voluntary promises are not enough for systems that may affect national security, labour markets, public services and global inequality. They need to be backed by independent testing, incident reporting, standards, liability, whistleblower channels and, where necessary, enforceable release gates.
+A fourth family concerns frontier safety and accountability. The AI Seoul Summit produced Frontier AI Safety Commitments under which leading AI organisations agreed to publish safety frameworks and address severe risks.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/frontier-ai-safety-commitments-ai-seoul-summit-2024" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">frontier ai safety commitments ai seoul summit 2024</span><span class="citation-popover-snippet">frontier ai safety commitments ai seoul summit 2024</span></span></span> Such commitments are useful early scaffolding, especially where law lags technology, but voluntary promises are not enough for systems that may affect national security, labour markets, public services and global inequality. They need to be backed by independent testing, incident reporting, standards, liability, whistleblower channels and, where necessary, enforceable release gates.
 
 A fifth family concerns direct economic sharing. If AI substantially raises productivity and profits, societies can distribute gains through ordinary fiscal tools as well as AI-specific mechanisms: taxation, social insurance, public investment, worker ownership, wage subsidies, lifelong learning, shorter working time, universal services, or sovereign wealth-style funds. The important point is not to pick one fashionable mechanism too early. It is to recognise that broad benefit will require deliberate bargaining over capital, labour, data, public infrastructure and intellectual property.
 
@@ -416,7 +416,7 @@ Governance can fail in several different ways, and each failure would produce a 
 
 The first failure is capture. AI policy may be written through close relationships between governments and the firms they depend on for expertise, infrastructure and economic growth. That can lead to weak oversight, public subsidies without public value, and rules that smaller competitors cannot afford to satisfy.
 
-The second failure is symbolic governance. Governments may publish principles, ethics frameworks and voluntary codes while avoiding hard questions about enforcement, procurement, liability, competition and public capacity. The World Benchmarking Alliance has warned that many leading technology companies disclose high-level ethical AI principles without comprehensive human rights impact assessments, which illustrates the gap between commitments and proof. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/technology/global-ai-summit-seoul-aims-forge-new-regulatory-agreements-2024-05-21/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Open source on reuters.com.</span></span></span>
+The second failure is symbolic governance. Governments may publish principles, ethics frameworks and voluntary codes while avoiding hard questions about enforcement, procurement, liability, competition and public capacity. The World Benchmarking Alliance has warned that many leading technology companies disclose high-level ethical AI principles without comprehensive human rights impact assessments, which illustrates the gap between commitments and proof.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/technology/global-ai-summit-seoul-aims-forge-new-regulatory-agreements-2024-05-21/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Open source on reuters.com.</span></span></span>
 
 The third failure is over-centralisation in the name of safety. Some frontier capabilities genuinely require control, but safety arguments can also be used to protect incumbents, restrict open research, or concentrate decision-making in a small alliance of states and firms. A world where only a few actors can build or inspect powerful AI may be safer in some respects and more dangerous in others, because mistakes, abuses or strategic decisions by those actors become civilisation-scale bottlenecks.
 
@@ -439,194 +439,194 @@ The practical test is whether AI expands agency. Do workers have a voice in how 
 AI bloom is sometimes imagined as a technological threshold: build sufficiently powerful intelligence and abundance follows. Governance, power and distribution suggest a different picture. Bloom is not just what advanced AI can do. It is what humans choose to let it become, who gets to participate in that choice, and whether the institutions around it are strong enough to turn capability into shared flourishing rather than concentrated control.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Who Owns an AI Enabled Future?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Who Owns an AI Enabled Future?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Atlas+of+AI+by+Kate+Crawford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atlas of AI on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=G2iUzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atlas of AI" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Atlas+of+AI+by+Kate+Crawford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atlas of AI">Atlas of AI</a>
-        </h4>
-        <p class="fr-book-author">By Kate Crawford</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Atlas+of+AI+by+Kate+Crawford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atlas of AI on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=G2iUzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atlas of AI" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Atlas+of+AI+by+Kate+Crawford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atlas of AI">Atlas of AI</a>
+</h4>
+<p class="fr-book-author">By Kate Crawford</p>
         
-        <p class="fr-book-desc">Focuses on power, infrastructure and political economy of AI.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Atlas+of+AI+by+Kate+Crawford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on power, infrastructure and political economy of AI.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Atlas+of+AI+by+Kate+Crawford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Coming Wave on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b0y5zwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Coming Wave" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Coming Wave">The Coming Wave</a>
-        </h4>
-        <p class="fr-book-author">By Mustafa Suleyman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Coming Wave on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b0y5zwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Coming Wave" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Coming Wave">The Coming Wave</a>
+</h4>
+<p class="fr-book-author">By Mustafa Suleyman</p>
         
-        <p class="fr-book-desc">Addresses control, concentration and governance of transformative technologies.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses control, concentration and governance of transformative technologies.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Power+and+Progress+by+Daron+Acemoglu&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Power and Progress on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Y4Jr0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Power and Progress" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Power+and+Progress+by+Daron+Acemoglu&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Power and Progress">Power and Progress</a>
-        </h4>
-        <p class="fr-book-author">By Daron Acemoglu, Simon Johnson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Power+and+Progress+by+Daron+Acemoglu&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Power and Progress on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Y4Jr0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Power and Progress" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Power+and+Progress+by+Daron+Acemoglu&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Power and Progress">Power and Progress</a>
+</h4>
+<p class="fr-book-author">By Daron Acemoglu, Simon Johnson</p>
         
-        <p class="fr-book-desc">Explores who benefits from technological change and how institutions shape outcomes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Power+and+Progress+by+Daron+Acemoglu&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores who benefits from technological change and how institutions shape outcomes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Power+and+Progress+by+Daron+Acemoglu&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Age+of+A.I.%3A+And+Our+Human+Future+by+Henry+Kissinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Age of A.I.: And Our Human Future on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Age+of+A.I.%3A+And+Our+Human+Future+by+Henry+Kissinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Age of A.I.: And Our Human Future">The Age of A.I.: And Our Human Future</a>
-        </h4>
-        <p class="fr-book-author">By Henry Kissinger</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Age+of+A.I.%3A+And+Our+Human+Future+by+Henry+Kissinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Age of A.I.: And Our Human Future on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Age+of+A.I.%3A+And+Our+Human+Future+by+Henry+Kissinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Age of A.I.: And Our Human Future">The Age of A.I.: And Our Human Future</a>
+</h4>
+<p class="fr-book-author">By Henry Kissinger</p>
         
-        <p class="fr-book-desc">Examines governance and geopolitical implications of AI.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Age+of+A.I.%3A+And+Our+Human+Future+by+Henry+Kissinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines governance and geopolitical implications of AI.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Age+of+A.I.%3A+And+Our+Human+Future+by+Henry+Kissinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Atlas+of+AI&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atlas of AI</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Coming+Wave&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Coming Wave</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Power+and+Progress&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Power and Progress</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Atlas+of+AI&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atlas of AI</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Coming+Wave&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Coming Wave</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Power+and+Progress&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Power and Progress</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-owns-an-ai-enabled-future-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="who-owns-an-ai-enabled-future-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Artificial Intelligence Movie Poster A1 A2 A3"><img src="https://i.ebayimg.com/images/g/S7oAAOSw8w1X~jli/s-l225.jpg" alt="Listing image for Artificial Intelligence Movie Poster A1 A2 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-owns-an-ai-enabled-future-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="who-owns-an-ai-enabled-future-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer">Artificial Intelligence Movie Poster A1 A2 A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-owns-an-ai-enabled-future-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="who-owns-an-ai-enabled-future-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-owns-an-ai-enabled-future-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="who-owns-an-ai-enabled-future-artificial-intelligence-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-owns-an-ai-enabled-future-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="who-owns-an-ai-enabled-future-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Artificial Intelligence Movie Poster A1 A2 A3"><img src="https://i.ebayimg.com/images/g/S7oAAOSw8w1X~jli/s-l225.jpg" alt="Listing image for Artificial Intelligence Movie Poster A1 A2 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-owns-an-ai-enabled-future-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="who-owns-an-ai-enabled-future-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer">Artificial Intelligence Movie Poster A1 A2 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-owns-an-ai-enabled-future-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="who-owns-an-ai-enabled-future-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-owns-an-ai-enabled-future-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="who-owns-an-ai-enabled-future-artificial-intelligence-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-owns-an-ai-enabled-future-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="who-owns-an-ai-enabled-future-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A.I. Artificial Intelligence - Jude Law - One Sheet Cinema Poster"><img src="https://i.ebayimg.com/images/g/2yEAAeSwlVtouaG1/s-l225.jpg" alt="Listing image for A.I. Artificial Intelligence - Jude Law - One Sheet Cinema Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-owns-an-ai-enabled-future-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="who-owns-an-ai-enabled-future-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer">A.I. Artificial Intelligence - Jude Law - One Sheet Cinema Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-owns-an-ai-enabled-future-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="who-owns-an-ai-enabled-future-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-owns-an-ai-enabled-future-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="who-owns-an-ai-enabled-future-artificial-intelligence-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-owns-an-ai-enabled-future-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="who-owns-an-ai-enabled-future-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A.I. Artificial Intelligence - Jude Law - One Sheet Cinema Poster"><img src="https://i.ebayimg.com/images/g/2yEAAeSwlVtouaG1/s-l225.jpg" alt="Listing image for A.I. Artificial Intelligence - Jude Law - One Sheet Cinema Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-owns-an-ai-enabled-future-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="who-owns-an-ai-enabled-future-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer">A.I. Artificial Intelligence - Jude Law - One Sheet Cinema Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-owns-an-ai-enabled-future-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="who-owns-an-ai-enabled-future-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-owns-an-ai-enabled-future-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="who-owns-an-ai-enabled-future-artificial-intelligence-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-owns-an-ai-enabled-future-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="who-owns-an-ai-enabled-future-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A.i. ARTIFICIAL INTELLIGENCE (2001) UK cinema poster Spielberg Kubrick Jude Law"><img src="https://i.ebayimg.com/images/g/FcQAAOSwogJkXo7Z/s-l225.jpg" alt="Listing image for A.i. ARTIFICIAL INTELLIGENCE (2001) UK cinema poster Spielberg Kubrick Jude Law" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-owns-an-ai-enabled-future-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="who-owns-an-ai-enabled-future-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer">A.i. ARTIFICIAL INTELLIGENCE (2001) UK cinema poster Spielberg Kubrick Jude Law</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-owns-an-ai-enabled-future-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="who-owns-an-ai-enabled-future-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-owns-an-ai-enabled-future-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="who-owns-an-ai-enabled-future-artificial-intelligence-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-owns-an-ai-enabled-future-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="who-owns-an-ai-enabled-future-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A.i. ARTIFICIAL INTELLIGENCE (2001) UK cinema poster Spielberg Kubrick Jude Law"><img src="https://i.ebayimg.com/images/g/FcQAAOSwogJkXo7Z/s-l225.jpg" alt="Listing image for A.i. ARTIFICIAL INTELLIGENCE (2001) UK cinema poster Spielberg Kubrick Jude Law" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-owns-an-ai-enabled-future-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="who-owns-an-ai-enabled-future-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer">A.i. ARTIFICIAL INTELLIGENCE (2001) UK cinema poster Spielberg Kubrick Jude Law</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-owns-an-ai-enabled-future-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="who-owns-an-ai-enabled-future-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-owns-an-ai-enabled-future-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="who-owns-an-ai-enabled-future-artificial-intelligence-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-owns-an-ai-enabled-future-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="who-owns-an-ai-enabled-future-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AI ARTIFICIAL INTELLIGENCE . 2001 ORIGINAL MOVIE POSTER vintage 24 YEARS OLD"><img src="https://i.ebayimg.com/images/g/f1kAAOSwQllkTTrV/s-l225.jpg" alt="Listing image for AI ARTIFICIAL INTELLIGENCE . 2001 ORIGINAL MOVIE POSTER vintage 24 YEARS OLD" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-owns-an-ai-enabled-future-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="who-owns-an-ai-enabled-future-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer">AI ARTIFICIAL INTELLIGENCE . 2001 ORIGINAL MOVIE POSTER vintage 24 YEARS OLD</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-owns-an-ai-enabled-future-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="who-owns-an-ai-enabled-future-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-owns-an-ai-enabled-future-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="who-owns-an-ai-enabled-future-artificial-intelligence-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-owns-an-ai-enabled-future-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="who-owns-an-ai-enabled-future-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-owns-an-ai-enabled-future-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="who-owns-an-ai-enabled-future-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AI ARTIFICIAL INTELLIGENCE . 2001 ORIGINAL MOVIE POSTER vintage 24 YEARS OLD"><img src="https://i.ebayimg.com/images/g/f1kAAOSwQllkTTrV/s-l225.jpg" alt="Listing image for AI ARTIFICIAL INTELLIGENCE . 2001 ORIGINAL MOVIE POSTER vintage 24 YEARS OLD" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-owns-an-ai-enabled-future-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="who-owns-an-ai-enabled-future-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer">AI ARTIFICIAL INTELLIGENCE . 2001 ORIGINAL MOVIE POSTER vintage 24 YEARS OLD</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-owns-an-ai-enabled-future-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="who-owns-an-ai-enabled-future-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-owns-an-ai-enabled-future-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="who-owns-an-ai-enabled-future-artificial-intelligence-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-owns-an-ai-enabled-future-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="who-owns-an-ai-enabled-future-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -642,7 +642,7 @@ AI bloom is sometimes imagined as a technological threshold: build sufficiently 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -662,7 +662,7 @@ AI bloom is sometimes imagined as a technological threshold: build sufficiently 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -694,7 +694,7 @@ AI bloom is sometimes imagined as a technological threshold: build sufficiently 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -746,7 +746,7 @@ AI bloom is sometimes imagined as a technological threshold: build sufficiently 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -791,7 +791,7 @@ AI bloom is sometimes imagined as a technological threshold: build sufficiently 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -832,347 +832,347 @@ AI bloom is sometimes imagined as a technological threshold: build sufficiently 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: arxiv.org  
    Title: arXiv The rising costs of training frontier AI models  
-   Link: <a href="https://arxiv.org/abs/2405.21015" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2405.21015</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The rising costs of training frontier AI modelsMay 31, 2024...</p></details>
+   Link:<a href="https://arxiv.org/abs/2405.21015" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2405.21015</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The rising costs of training frontier AI modelsMay 31, 2024...</p></details>
    Published: May 31, 2024  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: GOV.UK  
    Title: Cloud services market investigation  
-   Link: <a href="https://www.gov.uk/cma-cases/cloud-services-market-investigation" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/cma-cases/cloud-services-market-investigation</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>October 5, 2023 — Cloud services market investigation. The Competition and Markets Authority (CMA) investigated the supply of public clou...</p></details>
+   Link:<a href="https://www.gov.uk/cma-cases/cloud-services-market-investigation" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/cma-cases/cloud-services-market-investigation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>October 5, 2023 — Cloud services market investigation. The Competition and Markets Authority (CMA) investigated the supply of public clou...</p></details>
    Published: October 5, 2023  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: one.oecd.org  
-   Link: <a href="https://one.oecd.org/document/DAF/COMP%282025%298/en/pdf" target="_blank" rel="noopener noreferrer nofollow">https://one.oecd.org/document/DAF/COMP%282025%298/en/pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ONE MPCompetition in the Provision of Cloud Computing Services15 May 2025 — Amazon and Microsoft&#x27;s cloud computing services are reported...</p></details>
+   Link:<a href="https://one.oecd.org/document/DAF/COMP%282025%298/en/pdf" target="_blank" rel="noopener noreferrer nofollow">https://one.oecd.org/document/DAF/COMP%282025%298/en/pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ONE MPCompetition in the Provision of Cloud Computing Services15 May 2025 — Amazon and Microsoft&#x27;s cloud computing services are reported...</p></details>
    Published: May 2025  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
    Title: arXiv Market Concentration Implications of Foundation Models  
-   Link: <a href="https://arxiv.org/abs/2311.01550" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2311.01550</a>  
+   Link:<a href="https://arxiv.org/abs/2311.01550" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2311.01550</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nsf.gov  
-   Link: <a href="https://www.nsf.gov/focus-areas/ai/nairr" target="_blank" rel="noopener noreferrer nofollow">https://www.nsf.gov/focus-areas/ai/nairr</a>  
+   Link:<a href="https://www.nsf.gov/focus-areas/ai/nairr" target="_blank" rel="noopener noreferrer nofollow">https://www.nsf.gov/focus-areas/ai/nairr</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nsf.gov  
    Title: nairr oc foundations operating national artificial intelligence  
-   Link: <a href="https://www.nsf.gov/funding/opportunities/nairr-oc-foundations-operating-national-artificial-intelligence" target="_blank" rel="noopener noreferrer nofollow">https://www.nsf.gov/funding/opportunities/nairr-oc-foundations-operating-national-artificial-intelligence</a>  
+   Link:<a href="https://www.nsf.gov/funding/opportunities/nairr-oc-foundations-operating-national-artificial-intelligence" target="_blank" rel="noopener noreferrer nofollow">https://www.nsf.gov/funding/opportunities/nairr-oc-foundations-operating-national-artificial-intelligence</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: GOV.UK  
    Title: A I Research Resource  
-   Link: <a href="https://www.gov.uk/government/publications/ai-research-resource" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ai-research-resource</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ai-research-resource" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ai-research-resource</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: 2021-2025.state.gov  
-   Link: <a href="https://2021-2025.state.gov/bureau-of-arms-control-deterrence-and-stability/political-declaration-on-responsible-military-use-of-artificial-intelligence-and-autonomy/" target="_blank" rel="noopener noreferrer nofollow">https://2021-2025.state.gov/bureau-of-arms-control-deterrence-and-stability/political-declaration-on-responsible-military-use-of-artificial-intelligence-and-autonomy/</a>  
+   Link:<a href="https://2021-2025.state.gov/bureau-of-arms-control-deterrence-and-stability/political-declaration-on-responsible-military-use-of-artificial-intelligence-and-autonomy/" target="_blank" rel="noopener noreferrer nofollow">https://2021-2025.state.gov/bureau-of-arms-control-deterrence-and-stability/political-declaration-on-responsible-military-use-of-artificial-intelligence-and-autonomy/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: sipri.org  
    Title: 12. Artificial intelligence and international peace and security  
-   Link: <a href="https://www.sipri.org/sites/default/files/SIPRIYB25c12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.sipri.org/sites/default/files/SIPRIYB25c12.pdf</a>  
+   Link:<a href="https://www.sipri.org/sites/default/files/SIPRIYB25c12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.sipri.org/sites/default/files/SIPRIYB25c12.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: oecd.org  
    Title: ai in public service design and delivery 09704c1a  
-   Link: <a href="https://www.oecd.org/en/publications/2025/06/governing-with-artificial-intelligence_398fa287/full-report/ai-in-public-service-design-and-delivery_09704c1a.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/2025/06/governing-with-artificial-intelligence_398fa287/full-report/ai-in-public-service-design-and-delivery_09704c1a.html</a>  
+   Link:<a href="https://www.oecd.org/en/publications/2025/06/governing-with-artificial-intelligence_398fa287/full-report/ai-in-public-service-design-and-delivery_09704c1a.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/2025/06/governing-with-artificial-intelligence_398fa287/full-report/ai-in-public-service-design-and-delivery_09704c1a.html</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: GOV.UK  
    Title: Artificial Intelligence Playbook for the UK Government  
-   Link: <a href="https://www.gov.uk/government/publications/ai-playbook-for-the-uk-government/artificial-intelligence-playbook-for-the-uk-government-html" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ai-playbook-for-the-uk-government/artificial-intelligence-playbook-for-the-uk-government-html</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ai-playbook-for-the-uk-government/artificial-intelligence-playbook-for-the-uk-government-html" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ai-playbook-for-the-uk-government/artificial-intelligence-playbook-for-the-uk-government-html</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2502.13101" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2502.13101</a>  
+   Link:<a href="https://arxiv.org/abs/2502.13101" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2502.13101</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: unctad.org  
    Title: tir2025ch5 en  
-   Link: <a href="https://unctad.org/system/files/official-document/tir2025ch5_en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://unctad.org/system/files/official-document/tir2025ch5_en.pdf</a>  
+   Link:<a href="https://unctad.org/system/files/official-document/tir2025ch5_en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://unctad.org/system/files/official-document/tir2025ch5_en.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: unctad.org  
    Title: tir2025 en  
-   Link: <a href="https://unctad.org/system/files/official-document/tir2025_en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://unctad.org/system/files/official-document/tir2025_en.pdf</a>  
+   Link:<a href="https://unctad.org/system/files/official-document/tir2025_en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://unctad.org/system/files/official-document/tir2025_en.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: cdn.governance.ai  
-   Link: <a href="https://cdn.governance.ai/Options_and_Motivations_for_International_AI_Benefit_Sharing.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.governance.ai/Options_and_Motivations_for_International_AI_Benefit_Sharing.pdf</a>  
+   Link:<a href="https://cdn.governance.ai/Options_and_Motivations_for_International_AI_Benefit_Sharing.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.governance.ai/Options_and_Motivations_for_International_AI_Benefit_Sharing.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/1912.00757" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1912.00757</a>  
+   Link:<a href="https://arxiv.org/abs/1912.00757" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1912.00757</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/legal/litigation/eu-rules-reining-big-tech-will-now-target-cloud-services-ai-regulators-say-2026-04-28/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/legal/litigation/eu-rules-reining-big-tech-will-now-target-cloud-services-ai-regulators-say-2026-04-28/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Following positive results in existing digital areas, EU regulators now plan to assess whether cloud providers such as Amazon and Microso...</p></details>
+   Link:<a href="https://www.reuters.com/legal/litigation/eu-rules-reining-big-tech-will-now-target-cloud-services-ai-regulators-say-2026-04-28/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/legal/litigation/eu-rules-reining-big-tech-will-now-target-cloud-services-ai-regulators-say-2026-04-28/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Following positive results in existing digital areas, EU regulators now plan to assess whether cloud providers such as Amazon and Microso...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: GOV.UK  
    Title: frontier ai safety commitments ai seoul summit 2024  
-   Link: <a href="https://www.gov.uk/government/publications/frontier-ai-safety-commitments-ai-seoul-summit-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/frontier-ai-safety-commitments-ai-seoul-summit-2024</a>  
+   Link:<a href="https://www.gov.uk/government/publications/frontier-ai-safety-commitments-ai-seoul-summit-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/frontier-ai-safety-commitments-ai-seoul-summit-2024</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/technology/global-ai-summit-seoul-aims-forge-new-regulatory-agreements-2024-05-21/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/global-ai-summit-seoul-aims-forge-new-regulatory-agreements-2024-05-21/</a>  
+   Link:<a href="https://www.reuters.com/technology/global-ai-summit-seoul-aims-forge-new-regulatory-agreements-2024-05-21/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/global-ai-summit-seoul-aims-forge-new-regulatory-agreements-2024-05-21/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/sustainability/boards-policy-regulation/with-ai-accountability-stalling-boards-must-push-tech-giants-greater--ecmii-2026-02-04/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/sustainability/boards-policy-regulation/with-ai-accountability-stalling-boards-must-push-tech-giants-greater--ecmii-2026-02-04/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Despite some progress—e.g., NEC prioritizing human rights in AI and Salesforce linking AI to environmental goals—many influential compani...</p></details>
+   Link:<a href="https://www.reuters.com/sustainability/boards-policy-regulation/with-ai-accountability-stalling-boards-must-push-tech-giants-greater--ecmii-2026-02-04/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/sustainability/boards-policy-regulation/with-ai-accountability-stalling-boards-must-push-tech-giants-greater--ecmii-2026-02-04/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Despite some progress—e.g., NEC prioritizing human rights in AI and Salesforce linking AI to environmental goals—many influential compani...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: oecd.org  
    Title: 795de142 en  
-   Link: <a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/06/governing-with-artificial-intelligence_398fa287/795de142-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/06/governing-with-artificial-intelligence_398fa287/795de142-en.pdf</a>  
+   Link:<a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/06/governing-with-artificial-intelligence_398fa287/795de142-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/06/governing-with-artificial-intelligence_398fa287/795de142-en.pdf</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: oecd.org  
    Title: governing with artificial intelligence 398fa287  
-   Link: <a href="https://www.oecd.org/en/publications/2025/06/governing-with-artificial-intelligence_398fa287.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/2025/06/governing-with-artificial-intelligence_398fa287.html</a>  
+   Link:<a href="https://www.oecd.org/en/publications/2025/06/governing-with-artificial-intelligence_398fa287.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/2025/06/governing-with-artificial-intelligence_398fa287.html</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: oecd.org  
-   Link: <a href="https://www.oecd.org/en/publications/2025/06/governing-with-artificial-intelligence_398fa287/full-report/how-artificial-intelligence-is-accelerating-the-digital-government-journey_d9552dc7.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/2025/06/governing-with-artificial-intelligence_398fa287/full-report/how-artificial-intelligence-is-accelerating-the-digital-government-journey_d9552dc7.html</a>  
+   Link:<a href="https://www.oecd.org/en/publications/2025/06/governing-with-artificial-intelligence_398fa287/full-report/how-artificial-intelligence-is-accelerating-the-digital-government-journey_d9552dc7.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/2025/06/governing-with-artificial-intelligence_398fa287/full-report/how-artificial-intelligence-is-accelerating-the-digital-government-journey_d9552dc7.html</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: oecd.org  
-   Link: <a href="https://www.oecd.org/en.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en.html</a>  
+   Link:<a href="https://www.oecd.org/en.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en.html</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: oecd.org  
    Title: component 6  
-   Link: <a href="https://www.oecd.org/en/publications/competition-in-artificial-intelligence-infrastructure_623d1874-en/full-report/component-6.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/competition-in-artificial-intelligence-infrastructure_623d1874-en/full-report/component-6.html</a>  
+   Link:<a href="https://www.oecd.org/en/publications/competition-in-artificial-intelligence-infrastructure_623d1874-en/full-report/component-6.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/competition-in-artificial-intelligence-infrastructure_623d1874-en/full-report/component-6.html</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: oecd.org  
    Title: artificial intelligence  
-   Link: <a href="https://www.oecd.org/en/topics/policy-issues/artificial-intelligence.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/topics/policy-issues/artificial-intelligence.html</a>  
+   Link:<a href="https://www.oecd.org/en/topics/policy-issues/artificial-intelligence.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/topics/policy-issues/artificial-intelligence.html</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: oecd.org  
    Title: ai in policy evaluation c88cc2fd  
-   Link: <a href="https://www.oecd.org/en/publications/2025/06/governing-with-artificial-intelligence_398fa287/full-report/ai-in-policy-evaluation_c88cc2fd.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/2025/06/governing-with-artificial-intelligence_398fa287/full-report/ai-in-policy-evaluation_c88cc2fd.html</a>  
+   Link:<a href="https://www.oecd.org/en/publications/2025/06/governing-with-artificial-intelligence_398fa287/full-report/ai-in-policy-evaluation_c88cc2fd.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/2025/06/governing-with-artificial-intelligence_398fa287/full-report/ai-in-policy-evaluation_c88cc2fd.html</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: one.oecd.org  
-   Link: <a href="https://one.oecd.org/document/DAF/COMP/GF%282025%294/en/pdf" target="_blank" rel="noopener noreferrer nofollow">https://one.oecd.org/document/DAF/COMP/GF%282025%294/en/pdf</a>  
+   Link:<a href="https://one.oecd.org/document/DAF/COMP/GF%282025%294/en/pdf" target="_blank" rel="noopener noreferrer nofollow">https://one.oecd.org/document/DAF/COMP/GF%282025%294/en/pdf</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: oecd.org  
    Title: full report  
-   Link: <a href="https://www.oecd.org/en/publications/2025/06/governing-with-artificial-intelligence_398fa287/full-report.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/2025/06/governing-with-artificial-intelligence_398fa287/full-report.html</a>  
+   Link:<a href="https://www.oecd.org/en/publications/2025/06/governing-with-artificial-intelligence_398fa287/full-report.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/2025/06/governing-with-artificial-intelligence_398fa287/full-report.html</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: oecd.org  
-   Link: <a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2026/02/oecd-ai-observatory-index_8f5fa0f2/32c01014-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2026/02/oecd-ai-observatory-index_8f5fa0f2/32c01014-en.pdf</a>  
+   Link:<a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2026/02/oecd-ai-observatory-index_8f5fa0f2/32c01014-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2026/02/oecd-ai-observatory-index_8f5fa0f2/32c01014-en.pdf</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: oecd.org  
-   Link: <a href="https://www.oecd.org/en/topics/sub-issues/ai-compute.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/topics/sub-issues/ai-compute.html</a>  
+   Link:<a href="https://www.oecd.org/en/topics/sub-issues/ai-compute.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/topics/sub-issues/ai-compute.html</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: one.oecd.org  
-   Link: <a href="https://one.oecd.org/document/DAF/COMP/GF%282025%291/en/pdf" target="_blank" rel="noopener noreferrer nofollow">https://one.oecd.org/document/DAF/COMP/GF%282025%291/en/pdf</a>  
+   Link:<a href="https://one.oecd.org/document/DAF/COMP/GF%282025%291/en/pdf" target="_blank" rel="noopener noreferrer nofollow">https://one.oecd.org/document/DAF/COMP/GF%282025%291/en/pdf</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: one.oecd.org  
-   Link: <a href="https://one.oecd.org/document/COM/DSTI/CDEP/STP/GOV/PGC%282024%291/FINAL/en/pdf" target="_blank" rel="noopener noreferrer nofollow">https://one.oecd.org/document/COM/DSTI/CDEP/STP/GOV/PGC%282024%291/FINAL/en/pdf</a>  
+   Link:<a href="https://one.oecd.org/document/COM/DSTI/CDEP/STP/GOV/PGC%282024%291/FINAL/en/pdf" target="_blank" rel="noopener noreferrer nofollow">https://one.oecd.org/document/COM/DSTI/CDEP/STP/GOV/PGC%282024%291/FINAL/en/pdf</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: cdn.governance.ai  
    Title: Market Concentration Implications of Foundation Models  
-   Link: <a href="https://cdn.governance.ai/Market_Concentration_Implications_of_Foundation_Models.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.governance.ai/Market_Concentration_Implications_of_Foundation_Models.pdf</a>  
+   Link:<a href="https://cdn.governance.ai/Market_Concentration_Implications_of_Foundation_Models.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.governance.ai/Market_Concentration_Implications_of_Foundation_Models.pdf</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: GOV.UK  
    Title: ai foundation models initial report  
-   Link: <a href="https://www.gov.uk/government/publications/ai-foundation-models-initial-report" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ai-foundation-models-initial-report</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ai-foundation-models-initial-report" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ai-foundation-models-initial-report</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: GOV.UK  
    Title: ai opportunities action plan  
-   Link: <a href="https://www.gov.uk/government/publications/ai-opportunities-action-plan/ai-opportunities-action-plan" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ai-opportunities-action-plan/ai-opportunities-action-plan</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ai-opportunities-action-plan/ai-opportunities-action-plan" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ai-opportunities-action-plan/ai-opportunities-action-plan</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: GOV.UK  
    Title: frontier ai safety commitments ai seoul summit 2024  
-   Link: <a href="https://www.gov.uk/government/publications/frontier-ai-safety-commitments-ai-seoul-summit-2024/frontier-ai-safety-commitments-ai-seoul-summit-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/frontier-ai-safety-commitments-ai-seoul-summit-2024/frontier-ai-safety-commitments-ai-seoul-summit-2024</a>  
+   Link:<a href="https://www.gov.uk/government/publications/frontier-ai-safety-commitments-ai-seoul-summit-2024/frontier-ai-safety-commitments-ai-seoul-summit-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/frontier-ai-safety-commitments-ai-seoul-summit-2024/frontier-ai-safety-commitments-ai-seoul-summit-2024</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: assets.publishing.service.gov.uk  
    Title: publishing.service.gov.uk A I Foundation Models  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/661e5a4c7469198185bd3d62/AI_Foundation_Models_technical_update_report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/661e5a4c7469198185bd3d62/AI_Foundation_Models_technical_update_report.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/661e5a4c7469198185bd3d62/AI_Foundation_Models_technical_update_report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/661e5a4c7469198185bd3d62/AI_Foundation_Models_technical_update_report.pdf</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: assets.publishing.service.gov.uk  
    Title: Full report  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/65081d3aa41cc300145612c0/Full_report_.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/65081d3aa41cc300145612c0/Full_report_.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/65081d3aa41cc300145612c0/Full_report_.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/65081d3aa41cc300145612c0/Full_report_.pdf</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/65cb77caa7ded0000c79e526/Government_response_to_the_House_of_Lords_AI_in_Weapon_Systems_Committee_Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/65cb77caa7ded0000c79e526/Government_response_to_the_House_of_Lords_AI_in_Weapon_Systems_Committee_Report.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/65cb77caa7ded0000c79e526/Government_response_to_the_House_of_Lords_AI_in_Weapon_Systems_Committee_Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/65cb77caa7ded0000c79e526/Government_response_to_the_House_of_Lords_AI_in_Weapon_Systems_Committee_Report.pdf</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: united.com  
-   Link: <a href="https://www.united.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.united.com/</a>  
+   Link:<a href="https://www.united.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.united.com/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: microsoft.com  
-   Link: <a href="https://www.microsoft.com/en-us/research/project/national-ai-research-resource-nairr-pilot/" target="_blank" rel="noopener noreferrer nofollow">https://www.microsoft.com/en-us/research/project/national-ai-research-resource-nairr-pilot/</a>  
+   Link:<a href="https://www.microsoft.com/en-us/research/project/national-ai-research-resource-nairr-pilot/" target="_blank" rel="noopener noreferrer nofollow">https://www.microsoft.com/en-us/research/project/national-ai-research-resource-nairr-pilot/</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: oecd.ai  
    Title: can mid sized economies come together to build frontier ai  
-   Link: <a href="https://oecd.ai/en/wonk/can-mid-sized-economies-come-together-to-build-frontier-ai" target="_blank" rel="noopener noreferrer nofollow">https://oecd.ai/en/wonk/can-mid-sized-economies-come-together-to-build-frontier-ai</a>  
+   Link:<a href="https://oecd.ai/en/wonk/can-mid-sized-economies-come-together-to-build-frontier-ai" target="_blank" rel="noopener noreferrer nofollow">https://oecd.ai/en/wonk/can-mid-sized-economies-come-together-to-build-frontier-ai</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: oecd.ai  
    Title: the geopgraphy of ai compute mapping what is available and where  
-   Link: <a href="https://oecd.ai/en/wonk/the-geopgraphy-of-ai-compute-mapping-what-is-available-and-where" target="_blank" rel="noopener noreferrer nofollow">https://oecd.ai/en/wonk/the-geopgraphy-of-ai-compute-mapping-what-is-available-and-where</a>  
+   Link:<a href="https://oecd.ai/en/wonk/the-geopgraphy-of-ai-compute-mapping-what-is-available-and-where" target="_blank" rel="noopener noreferrer nofollow">https://oecd.ai/en/wonk/the-geopgraphy-of-ai-compute-mapping-what-is-available-and-where</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: oecd.ai  
-   Link: <a href="https://oecd.ai/en/catalogue/tools/a-frontier-ai-risk-management-framework-bridging-the-gap-between-current-ai-practices-and-established-risk-management" target="_blank" rel="noopener noreferrer nofollow">https://oecd.ai/en/catalogue/tools/a-frontier-ai-risk-management-framework-bridging-the-gap-between-current-ai-practices-and-established-risk-management</a>  
+   Link:<a href="https://oecd.ai/en/catalogue/tools/a-frontier-ai-risk-management-framework-bridging-the-gap-between-current-ai-practices-and-established-risk-management" target="_blank" rel="noopener noreferrer nofollow">https://oecd.ai/en/catalogue/tools/a-frontier-ai-risk-management-framework-bridging-the-gap-between-current-ai-practices-and-established-risk-management</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: cloud.google.com  
    Title: idc marketscape 2025 ww foundation models  
-   Link: <a href="https://cloud.google.com/resources/content/idc-marketscape-2025-ww-foundation-models" target="_blank" rel="noopener noreferrer nofollow">https://cloud.google.com/resources/content/idc-marketscape-2025-ww-foundation-models</a>  
+   Link:<a href="https://cloud.google.com/resources/content/idc-marketscape-2025-ww-foundation-models" target="_blank" rel="noopener noreferrer nofollow">https://cloud.google.com/resources/content/idc-marketscape-2025-ww-foundation-models</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: economic-policy.org  
    Title: EcPol 2023 183.R1 Proof hi Korinek Vipra  
-   Link: <a href="https://www.economic-policy.org/wp-content/uploads/2024/03/EcPol-2023-183.R1_Proof_hi_Korinek_Vipra.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.economic-policy.org/wp-content/uploads/2024/03/EcPol-2023-183.R1_Proof_hi_Korinek_Vipra.pdf</a>  
+   Link:<a href="https://www.economic-policy.org/wp-content/uploads/2024/03/EcPol-2023-183.R1_Proof_hi_Korinek_Vipra.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.economic-policy.org/wp-content/uploads/2024/03/EcPol-2023-183.R1_Proof_hi_Korinek_Vipra.pdf</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/pdf/2510.15200" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2510.15200</a>  
+   Link:<a href="https://arxiv.org/pdf/2510.15200" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2510.15200</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: industry.gov.au  
    Title: seoul declaration countries attending ai seoul summit 21 22 may 2024  
-   Link: <a href="https://www.industry.gov.au/publications/seoul-declaration-countries-attending-ai-seoul-summit-21-22-may-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.industry.gov.au/publications/seoul-declaration-countries-attending-ai-seoul-summit-21-22-may-2024</a>  
+   Link:<a href="https://www.industry.gov.au/publications/seoul-declaration-countries-attending-ai-seoul-summit-21-22-may-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.industry.gov.au/publications/seoul-declaration-countries-attending-ai-seoul-summit-21-22-may-2024</a>  
    Published: may 2024  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: newsletter.safe.ai  
    Title: ai safety newsletter 43 white house  
-   Link: <a href="https://newsletter.safe.ai/p/ai-safety-newsletter-43-white-house" target="_blank" rel="noopener noreferrer nofollow">https://newsletter.safe.ai/p/ai-safety-newsletter-43-white-house</a>  
+   Link:<a href="https://newsletter.safe.ai/p/ai-safety-newsletter-43-white-house" target="_blank" rel="noopener noreferrer nofollow">https://newsletter.safe.ai/p/ai-safety-newsletter-43-white-house</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: adalovelaceinstitute.org  
    Title: computing commons  
-   Link: <a href="https://www.adalovelaceinstitute.org/report/computing-commons/" target="_blank" rel="noopener noreferrer nofollow">https://www.adalovelaceinstitute.org/report/computing-commons/</a>  
+   Link:<a href="https://www.adalovelaceinstitute.org/report/computing-commons/" target="_blank" rel="noopener noreferrer nofollow">https://www.adalovelaceinstitute.org/report/computing-commons/</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: europarl.europa.eu  
    Title: European Parliament Defence and artificial intelligence  
-   Link: <a href="https://www.europarl.europa.eu/RegData/etudes/BRIE/2025/769580/EPRS_BRI%282025%29769580_EN.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.europarl.europa.eu/RegData/etudes/BRIE/2025/769580/EPRS_BRI%282025%29769580_EN.pdf</a>  
+   Link:<a href="https://www.europarl.europa.eu/RegData/etudes/BRIE/2025/769580/EPRS_BRI%282025%29769580_EN.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.europarl.europa.eu/RegData/etudes/BRIE/2025/769580/EPRS_BRI%282025%29769580_EN.pdf</a>  
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: Lawfare  
    Title: to govern ai we must govern compute  
-   Link: <a href="https://www.lawfaremedia.org/article/to-govern-ai-we-must-govern-compute" target="_blank" rel="noopener noreferrer nofollow">https://www.lawfaremedia.org/article/to-govern-ai-we-must-govern-compute</a>  
+   Link:<a href="https://www.lawfaremedia.org/article/to-govern-ai-we-must-govern-compute" target="_blank" rel="noopener noreferrer nofollow">https://www.lawfaremedia.org/article/to-govern-ai-we-must-govern-compute</a>  
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/technology/article/2024/aug/25/register-aims-to-quash-fears-over-racist-and-biased-ai-tools-used-on-uk-public" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/article/2024/aug/25/register-aims-to-quash-fears-over-racist-and-biased-ai-tools-used-on-uk-public</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Despite the development of an algorithmic transparency recording standard in 2021, only nine records have been published so far. The rece...</p></details>
+   Link:<a href="https://www.theguardian.com/technology/article/2024/aug/25/register-aims-to-quash-fears-over-racist-and-biased-ai-tools-used-on-uk-public" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/article/2024/aug/25/register-aims-to-quash-fears-over-racist-and-biased-ai-tools-used-on-uk-public</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Despite the development of an algorithmic transparency recording standard in 2021, only nine records have been published so far. The rece...</p></details>
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/technology/2024/nov/28/uk-government-failing-to-list-use-of-ai-on-mandatory-register" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2024/nov/28/uk-government-failing-to-list-use-of-ai-on-mandatory-register</a>  
+   Link:<a href="https://www.theguardian.com/technology/2024/nov/28/uk-government-failing-to-list-use-of-ai-on-mandatory-register" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2024/nov/28/uk-government-failing-to-list-use-of-ai-on-mandatory-register</a>  
 
-56. <a id="endnote-56"></a>
+56.<a id="endnote-56"></a>
    Source: un.org  
-   Link: <a href="https://www.un.org/global-digital-compact/en/ai" target="_blank" rel="noopener noreferrer nofollow">https://www.un.org/global-digital-compact/en/ai</a>  
+   Link:<a href="https://www.un.org/global-digital-compact/en/ai" target="_blank" rel="noopener noreferrer nofollow">https://www.un.org/global-digital-compact/en/ai</a>  
 
-57. <a id="endnote-57"></a>
+57.<a id="endnote-57"></a>
    Source: chathamhouse.org  
    Title: can uns new ai governance efforts weather ai race  
-   Link: <a href="https://www.chathamhouse.org/2025/09/can-uns-new-ai-governance-efforts-weather-ai-race" target="_blank" rel="noopener noreferrer nofollow">https://www.chathamhouse.org/2025/09/can-uns-new-ai-governance-efforts-weather-ai-race</a>  
+   Link:<a href="https://www.chathamhouse.org/2025/09/can-uns-new-ai-governance-efforts-weather-ai-race" target="_blank" rel="noopener noreferrer nofollow">https://www.chathamhouse.org/2025/09/can-uns-new-ai-governance-efforts-weather-ai-race</a>  
 
-58. <a id="endnote-58"></a>
+58.<a id="endnote-58"></a>
    Source: aigi.ox.ac.uk  
    Title: Oxford Martin AIGIAI BENEFIT-SHARING FRAMEWORK: BALANCING  
-   Link: <a href="https://aigi.ox.ac.uk/wp-content/uploads/2025/12/Operationalising-AI-Benefit-Sharing-Workshop-02.12.2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aigi.ox.ac.uk/wp-content/uploads/2025/12/Operationalising-AI-Benefit-Sharing-Workshop-02.12.2025.pdf</a>  
+   Link:<a href="https://aigi.ox.ac.uk/wp-content/uploads/2025/12/Operationalising-AI-Benefit-Sharing-Workshop-02.12.2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aigi.ox.ac.uk/wp-content/uploads/2025/12/Operationalising-AI-Benefit-Sharing-Workshop-02.12.2025.pdf</a>  
 
-59. <a id="endnote-59"></a>
+59.<a id="endnote-59"></a>
    Source: adalovelaceinstitute.org  
    Title: public sector ai  
-   Link: <a href="https://www.adalovelaceinstitute.org/policy-briefing/public-sector-ai/" target="_blank" rel="noopener noreferrer nofollow">https://www.adalovelaceinstitute.org/policy-briefing/public-sector-ai/</a>  
+   Link:<a href="https://www.adalovelaceinstitute.org/policy-briefing/public-sector-ai/" target="_blank" rel="noopener noreferrer nofollow">https://www.adalovelaceinstitute.org/policy-briefing/public-sector-ai/</a>  
 
-60. <a id="endnote-60"></a>
+60.<a id="endnote-60"></a>
    Source: unsceb.org  
    Title: United Nations System White Paper on AI Governance  
-   Link: <a href="https://unsceb.org/sites/default/files/2024-04/United%20Nations%20System%20White%20Paper%20on%20AI%20Governance.pdf" target="_blank" rel="noopener noreferrer nofollow">https://unsceb.org/sites/default/files/2024-04/United%20Nations%20System%20White%20Paper%20on%20AI%20Governance.pdf</a>  
+   Link:<a href="https://unsceb.org/sites/default/files/2024-04/United%20Nations%20System%20White%20Paper%20on%20AI%20Governance.pdf" target="_blank" rel="noopener noreferrer nofollow">https://unsceb.org/sites/default/files/2024-04/United%20Nations%20System%20White%20Paper%20on%20AI%20Governance.pdf</a>  
 
-61. <a id="endnote-61"></a>
+61.<a id="endnote-61"></a>
    Source: chathamhouse.org  
    Title: ai export controls are not best bargaining chip  
-   Link: <a href="https://www.chathamhouse.org/2026/04/ai-export-controls-are-not-best-bargaining-chip" target="_blank" rel="noopener noreferrer nofollow">https://www.chathamhouse.org/2026/04/ai-export-controls-are-not-best-bargaining-chip</a>  
+   Link:<a href="https://www.chathamhouse.org/2026/04/ai-export-controls-are-not-best-bargaining-chip" target="_blank" rel="noopener noreferrer nofollow">https://www.chathamhouse.org/2026/04/ai-export-controls-are-not-best-bargaining-chip</a>  
 
-62. <a id="endnote-62"></a>
+62.<a id="endnote-62"></a>
    Source: techpolicyinstitute.org  
    Title: AI Governance  
-   Link: <a href="https://techpolicyinstitute.org/wp-content/uploads/2026/03/AI_Governance.pdf" target="_blank" rel="noopener noreferrer nofollow">https://techpolicyinstitute.org/wp-content/uploads/2026/03/AI_Governance.pdf</a>  
+   Link:<a href="https://techpolicyinstitute.org/wp-content/uploads/2026/03/AI_Governance.pdf" target="_blank" rel="noopener noreferrer nofollow">https://techpolicyinstitute.org/wp-content/uploads/2026/03/AI_Governance.pdf</a>  
 
 ### Additional References
 
-63. <a id="endnote-63"></a>
+63.<a id="endnote-63"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Hw1ylGymNTE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Hw1ylGymNTE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Day 2, Session 7: Country Experience Singapore...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Hw1ylGymNTE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Hw1ylGymNTE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Day 2, Session 7: Country Experience Singapore...</p></details>
 
-64. <a id="endnote-64"></a>
+64.<a id="endnote-64"></a>
    Source: youtube.com  
    Title: Who Controls Your AI Agents? Responsible AI Governance  
-   Link: <a href="https://www.youtube.com/watch?v=Sn2R5UgvnKg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Sn2R5UgvnKg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Session 5: The Political Economy of AI in Health Understanding Stakeholder Interests...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Sn2R5UgvnKg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Sn2R5UgvnKg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Session 5: The Political Economy of AI in Health Understanding Stakeholder Interests...</p></details>
 
-65. <a id="endnote-65"></a>
+65.<a id="endnote-65"></a>
    Source: media.defense.gov  
-   Link: <a href="https://media.defense.gov/2025/Dec/23/2003849070/-1/-1/1/ANNUAL-REPORT-TO-CONGRESS-MILITARY-AND-SECURITY-DEVELOPMENTS-INVOLVING-THE-PEOPLES-REPUBLIC-OF-CHINA-2025.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2025/Dec/23/2003849070/-1/-1/1/ANNUAL-REPORT-TO-CONGRESS-MILITARY-AND-SECURITY-DEVELOPMENTS-INVOLVING-THE-PEOPLES-REPUBLIC-OF-CHINA-2025.PDF</a>  
+   Link:<a href="https://media.defense.gov/2025/Dec/23/2003849070/-1/-1/1/ANNUAL-REPORT-TO-CONGRESS-MILITARY-AND-SECURITY-DEVELOPMENTS-INVOLVING-THE-PEOPLES-REPUBLIC-OF-CHINA-2025.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2025/Dec/23/2003849070/-1/-1/1/ANNUAL-REPORT-TO-CONGRESS-MILITARY-AND-SECURITY-DEVELOPMENTS-INVOLVING-THE-PEOPLES-REPUBLIC-OF-CHINA-2025.PDF</a>  
 
-66. <a id="endnote-66"></a>
+66.<a id="endnote-66"></a>
    Source: youtube.com  
    Title: Who Controls the Future of AI: The Oligarchs or the People?  
-   Link: <a href="https://www.youtube.com/watch?v=pJ-PlOCpkyY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pJ-PlOCpkyY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>New frontiers in AI governance | Nitarshan Rajkumar...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=pJ-PlOCpkyY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pJ-PlOCpkyY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New frontiers in AI governance | Nitarshan Rajkumar...</p></details>
 
-67. <a id="endnote-67"></a>
+67.<a id="endnote-67"></a>
    Source: youtube.com  
    Title: New frontiers in AI governance | Nitarshan Rajkumar  
-   Link: <a href="https://www.youtube.com/watch?v=BgKHMwc-YPk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BgKHMwc-YPk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Who Controls Your AI Agents? Responsible AI Governance...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=BgKHMwc-YPk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BgKHMwc-YPk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Who Controls Your AI Agents? Responsible AI Governance...</p></details>
 
-68. <a id="endnote-68"></a>
+68.<a id="endnote-68"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/391396519_Bridging_the_International_AI_Governance_Divide_Key_Strategies_for_Including_the_Global_South" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391396519_Bridging_the_International_AI_Governance_Divide_Key_Strategies_for_Including_the_Global_South</a>  
+   Link:<a href="https://www.researchgate.net/publication/391396519_Bridging_the_International_AI_Governance_Divide_Key_Strategies_for_Including_the_Global_South" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391396519_Bridging_the_International_AI_Governance_Divide_Key_Strategies_for_Including_the_Global_South</a>  
 
-69. <a id="endnote-69"></a>
+69.<a id="endnote-69"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/391209292_Global_AI_Benefit-Sharing_Mechanisms_Governance_Levers_and_Implementation_Pathways" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391209292_Global_AI_Benefit-Sharing_Mechanisms_Governance_Levers_and_Implementation_Pathways</a>  
+   Link:<a href="https://www.researchgate.net/publication/391209292_Global_AI_Benefit-Sharing_Mechanisms_Governance_Levers_and_Implementation_Pathways" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391209292_Global_AI_Benefit-Sharing_Mechanisms_Governance_Levers_and_Implementation_Pathways</a>  
 
-70. <a id="endnote-70"></a>
+70.<a id="endnote-70"></a>
    Source: cerre.eu  
-   Link: <a href="https://cerre.eu/wp-content/uploads/2025/06/A-Competition-Policy-for-Cloud-and-AI_FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cerre.eu/wp-content/uploads/2025/06/A-Competition-Policy-for-Cloud-and-AI_FINAL.pdf</a>  
+   Link:<a href="https://cerre.eu/wp-content/uploads/2025/06/A-Competition-Policy-for-Cloud-and-AI_FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cerre.eu/wp-content/uploads/2025/06/A-Competition-Policy-for-Cloud-and-AI_FINAL.pdf</a>  
 
-71. <a id="endnote-71"></a>
+71.<a id="endnote-71"></a>
    Source: cigionline.org  
-   Link: <a href="https://www.cigionline.org/documents/3745/AI_National_Security.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cigionline.org/documents/3745/AI_National_Security.pdf</a>  
+   Link:<a href="https://www.cigionline.org/documents/3745/AI_National_Security.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cigionline.org/documents/3745/AI_National_Security.pdf</a>  
 
-72. <a id="endnote-72"></a>
+72.<a id="endnote-72"></a>
    Source: cigionline.org  
-   Link: <a href="https://www.cigionline.org/documents/3748/Policy_Brief_No._225_Maheshwari.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cigionline.org/documents/3748/Policy_Brief_No._225_Maheshwari.pdf</a>
+   Link:<a href="https://www.cigionline.org/documents/3748/Policy_Brief_No._225_Maheshwari.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cigionline.org/documents/3748/Policy_Brief_No._225_Maheshwari.pdf</a>

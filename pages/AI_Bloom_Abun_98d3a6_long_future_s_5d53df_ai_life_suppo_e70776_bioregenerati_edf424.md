@@ -278,21 +278,21 @@ image: /assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df_ai_life_suppo_e7
 Future space settlements may depend as much on living ecosystems as on machinery. A habitat on Mars or in deep space cannot easily afford to throw away water, nutrients and organic waste. Plants, algae and microbes can recycle many of these resources, turning carbon dioxide into oxygen, recovering nutrients from waste streams and helping produce food. The attraction is obvious: instead of continually importing supplies from Earth, a settlement could increasingly regenerate its own essentials.
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df_ai_life_suppo_e70776_bioregenerati_edf424-Illustration-1-dark.svg" | relative_url }}" alt="Living Loops illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df_ai_life_suppo_e70776_bioregenerati_edf424-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df_ai_life_suppo_e70776_bioregenerati_edf424-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The difficulty is that living systems are not simple machines. Crops grow unevenly. Microbial communities mutate and shift. Nutrient cycles drift. A tiny imbalance that would be absorbed by Earth's vast biosphere can become dangerous inside a sealed habitat. This is why bioregenerative [life support]({{ 'life-support/' | relative_url }}) is increasingly viewed as a [control]({{ 'control/' | relative_url }}) problem as much as a biological one. The optimistic case for advanced AI is not merely that it automates farming. It is that it could help keep a fragile artificial ecosystem stable enough for humans to depend on for years or generations. Whether that is achievable remains one of the most important open questions in long-duration space habitation. Nature <span class="citation-chip-wrap"><a class="citation-chip" href="https://webs.uab.cat/melissapilotplant/wp-content/uploads/sites/397/2023/11/Melissa_The_European_project_of_a_closed_life_supp-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: webs.uab.cat">[Webs UAB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">webs.uab.cat</span><span class="citation-popover-snippet">Melissa: The European project of a closed life support systemby C Lasseur · Cited by 199 — The MELiSSA (Micro-ecological life-sup...</span></span></span>
+The difficulty is that living systems are not simple machines. Crops grow unevenly. Microbial communities mutate and shift. Nutrient cycles drift. A tiny imbalance that would be absorbed by Earth's vast biosphere can become dangerous inside a sealed habitat. This is why bioregenerative [life support]({{ 'life-support/' | relative_url }}) is increasingly viewed as a [control]({{ 'control/' | relative_url }}) problem as much as a biological one. The optimistic case for advanced AI is not merely that it automates farming. It is that it could help keep a fragile artificial ecosystem stable enough for humans to depend on for years or generations. Whether that is achievable remains one of the most important open questions in long-duration space habitation. Nature<span class="citation-chip-wrap"><a class="citation-chip" href="https://webs.uab.cat/melissapilotplant/wp-content/uploads/sites/397/2023/11/Melissa_The_European_project_of_a_closed_life_supp-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: webs.uab.cat">[Webs UAB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">webs.uab.cat</span><span class="citation-popover-snippet">Melissa: The European project of a closed life support systemby C Lasseur · Cited by 199 — The MELiSSA (Micro-ecological life-sup...</span></span></span>
 
 ## Why Biological Recycling Is Attractive
 
 Traditional spacecraft life-support systems rely heavily on mechanical and chemical processes. They can scrub carbon dioxide, purify water and regulate cabin conditions, but they generally require replacement parts, stored consumables or resupply.
 
-Bioregenerative life-support systems aim for something more ambitious. They attempt to create closed or semi-closed loops in which waste from one process becomes input for another. Human waste can feed microbial reactors. Microbes can release nutrients for crops. Plants can absorb carbon dioxide and produce oxygen. Water can circulate repeatedly through biological and technical treatment systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/astronomy-and-space-sciences/articles/10.3389/fspas.2023.1198689/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-title">Frontiers Stoichiometric model of a fully closed bioregenerative life</span><span class="citation-popover-snippet">FrontiersStoichiometric model of a fully closed bioregenerative life...August 16, 2023 — by ACJ Vermeulen · 2023 · Cited by 17 — A BLSS...</span><span class="citation-popover-meta">Published: August 16, 2023</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41526-023-00317-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature For long-duration missions]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Plant and microbial science and technology as...by V De Micco · 2023 · Cited by 72 — The concept of Bioregenerative Life Support S...</span></span></span>, the advantages compound:
+Bioregenerative life-support systems aim for something more ambitious. They attempt to create closed or semi-closed loops in which waste from one process becomes input for another. Human waste can feed microbial reactors. Microbes can release nutrients for crops. Plants can absorb carbon dioxide and produce oxygen. Water can circulate repeatedly through biological and technical treatment systems.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/astronomy-and-space-sciences/articles/10.3389/fspas.2023.1198689/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-title">Frontiers Stoichiometric model of a fully closed bioregenerative life</span><span class="citation-popover-snippet">FrontiersStoichiometric model of a fully closed bioregenerative life...August 16, 2023 — by ACJ Vermeulen · 2023 · Cited by 17 — A BLSS...</span><span class="citation-popover-meta">Published: August 16, 2023</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41526-023-00317-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature For long-duration missions]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Plant and microbial science and technology as...by V De Micco · 2023 · Cited by 72 — The concept of Bioregenerative Life Support S...</span></span></span>, the advantages compound:
 
 * Reduced dependence on Earth resupply.
 * Lower launch mass over time.
 * Continuous production of fresh food.
 * Recycling of nutrients that would otherwise become waste.
-* Potential psychological benefits from tending living plants rather than living entirely inside an industrial environment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://techport.nasa.gov/projects/11493" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techport.nasa.gov">[NASA TechPort]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techport.nasa.gov</span><span class="citation-popover-snippet">NASA TechPortImproving Habitability, Mood &amp; Diet through...Dec 18, 2025 — Growing fresh foods will enhance habitability and diet includi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalacademies.org/read/5826/chapter/4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National Academies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">Advanced Technology for Human Support in Space (1997)Closed-loop life support systems require an initial supply of resources but then pro...</span></span></span>
+* Potential psychological benefits from tending living plants rather than living entirely inside an industrial environment.<span class="citation-chip-wrap"><a class="citation-chip" href="https://techport.nasa.gov/projects/11493" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techport.nasa.gov">[NASA TechPort]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techport.nasa.gov</span><span class="citation-popover-snippet">NASA TechPortImproving Habitability, Mood &amp; Diet through...Dec 18, 2025 — Growing fresh foods will enhance habitability and diet includi...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalacademies.org/read/5826/chapter/4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National Academies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">Advanced Technology for Human Support in Space (1997)Closed-loop life support systems require an initial supply of resources but then pro...</span></span></span>
 
-Supporters of long-term space settlement often see these systems as essential rather than optional. A small lunar outpost might survive largely on stored supplies and industrial recycling. A settlement intended to last decades or centuries probably requires something closer to an artificial ecosystem. The larger the population becomes, the more attractive biological recycling appears because it can continuously regenerate critical resources rather than merely conserve them. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/05/238_6ff87ea936983a40220107cf200cb6b8_ShevtsovJane.pdf?emrc=f743fe" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceBioregenerative Life Support SystemsSeveral NASA needs assessments identify closed regenerative life support as an enabling t...</span></span></span>
+Supporters of long-term space settlement often see these systems as essential rather than optional. A small lunar outpost might survive largely on stored supplies and industrial recycling. A settlement intended to last decades or centuries probably requires something closer to an artificial ecosystem. The larger the population becomes, the more attractive biological recycling appears because it can continuously regenerate critical resources rather than merely conserve them. PMC<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/05/238_6ff87ea936983a40220107cf200cb6b8_ShevtsovJane.pdf?emrc=f743fe" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceBioregenerative Life Support SystemsSeveral NASA needs assessments identify closed regenerative life support as an enabling t...</span></span></span>
 
 In the broader AI bloom perspective, this matters because it touches a recurring theme: whether [intelligence]({{ 'intelligence/' | relative_url }}) can help civilisation manage complexity that would otherwise limit expansion. A thriving off-world settlement may require not just better hardware but better coordination of thousands of interacting biological processes.
 
@@ -300,7 +300,7 @@ In the broader AI bloom perspective, this matters because it touches a recurring
 
 The central challenge is that biological systems are adaptive, nonlinear and often only partially understood.
 
-An air filter behaves predictably until it fails. A microbial ecosystem may gradually change its behaviour long before anyone notices. Bacteria compete with one another. Some populations explode under favourable conditions. Others collapse. Plants alter nutrient uptake rates depending on light, temperature, atmospheric composition and stress. Small changes can ripple through the entire system. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/16431089/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Microbial ecology of the closed artificial ecosystem...by L Hendrickx · 2006 · Cited by 230 — MELiSSA is a bioregenerative life su...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41526-023-00317-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Plant and microbial science and technology as...by V De Micco · 2023 · Cited by 72 — The concept of Bioregenerative Life Support S...</span></span></span>
+An air filter behaves predictably until it fails. A microbial ecosystem may gradually change its behaviour long before anyone notices. Bacteria compete with one another. Some populations explode under favourable conditions. Others collapse. Plants alter nutrient uptake rates depending on light, temperature, atmospheric composition and stress. Small changes can ripple through the entire system.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/16431089/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Microbial ecology of the closed artificial ecosystem...by L Hendrickx · 2006 · Cited by 230 — MELiSSA is a bioregenerative life su...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41526-023-00317-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Plant and microbial science and technology as...by V De Micco · 2023 · Cited by 72 — The concept of Bioregenerative Life Support S...</span></span></span>
 
 A closed habitat must simultaneously regulate:
 
@@ -313,13 +313,13 @@ A closed habitat must simultaneously regulate:
 * Waste decomposition.
 * Microbial populations.
 * Trace gases and contaminants.
-* Food production schedules. ScienceDirect <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalacademies.org/read/5826/chapter/4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National Academies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">Advanced Technology for Human Support in Space (1997)Closed-loop life support systems require an initial supply of resources but then pro...</span></span></span>
+* Food production schedules. ScienceDirect<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalacademies.org/read/5826/chapter/4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National Academies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">Advanced Technology for Human Support in Space (1997)Closed-loop life support systems require an initial supply of resources but then pro...</span></span></span>
 
 </div>
 
 These are not separate subsystems. They are coupled together.
 
-If crop growth slows unexpectedly, oxygen production may fall. If waste decomposition changes, nutrient availability can shift. If microbial communities become unstable, water quality may degrade. The habitat begins behaving less like a collection of machines and more like a miniature biosphere. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/astronomy-and-space-sciences/articles/10.3389/fspas.2023.1198689/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-title">Frontiers Stoichiometric model of a fully closed bioregenerative life</span><span class="citation-popover-snippet">FrontiersStoichiometric model of a fully closed bioregenerative life...August 16, 2023 — by ACJ Vermeulen · 2023 · Cited by 17 — A BLSS...</span><span class="citation-popover-meta">Published: August 16, 2023</span></span></span> PubMed This interconnectedness creates what control engineers call a high-dimensional system: many variables influence one another simultaneously. H <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/16431089/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[pubmed.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Microbial ecology of the closed artificial ecosystem...by L Hendrickx · 2006 · Cited by 230 — MELiSSA is a bioregenerative life su...</span></span></span> uman operators can monitor summaries, but understanding the full state of the ecosystem becomes increasingly difficult as complexity grows.
+If crop growth slows unexpectedly, oxygen production may fall. If waste decomposition changes, nutrient availability can shift. If microbial communities become unstable, water quality may degrade. The habitat begins behaving less like a collection of machines and more like a miniature biosphere.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/astronomy-and-space-sciences/articles/10.3389/fspas.2023.1198689/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-title">Frontiers Stoichiometric model of a fully closed bioregenerative life</span><span class="citation-popover-snippet">FrontiersStoichiometric model of a fully closed bioregenerative life...August 16, 2023 — by ACJ Vermeulen · 2023 · Cited by 17 — A BLSS...</span><span class="citation-popover-meta">Published: August 16, 2023</span></span></span> PubMed This interconnectedness creates what control engineers call a high-dimensional system: many variables influence one another simultaneously. H<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/16431089/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[pubmed.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Microbial ecology of the closed artificial ecosystem...by L Hendrickx · 2006 · Cited by 230 — MELiSSA is a bioregenerative life su...</span></span></span> uman operators can monitor summaries, but understanding the full state of the ecosystem becomes increasingly difficult as complexity grows.
 
 The history of ecology provides a warning. Even on Earth, scientists still struggle to predict ecosystem behaviour with precision. Closed habitats attempt to compress part of that ecological complexity into a much smaller volume while demanding far greater reliability.
 
@@ -331,7 +331,7 @@ Many discussions focus on recycling efficiency. Stability may be the more fundam
 
 A habitat that recycles 99% of resources but occasionally suffers ecological crashes is less useful than a system that recycles somewhat less but remains predictable. Human life depends on continuity.
 
-Research into ecological systems repeatedly finds that stability emerges from feedback loops, redundancy and the ability to absorb shocks. In a sealed habitat, these properties are harder to maintain because biodiversity is limited and the ecosystem is intentionally simplified. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2312.07737" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Stability of Ecological Systems: A Theoretical Review</span><span class="citation-popover-snippet">Stability of Ecological Systems: A Theoretical ReviewDecember 12, 2023...</span><span class="citation-popover-meta">Published: December 12, 2023</span></span></span>
+Research into ecological systems repeatedly finds that stability emerges from feedback loops, redundancy and the ability to absorb shocks. In a sealed habitat, these properties are harder to maintain because biodiversity is limited and the ecosystem is intentionally simplified.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2312.07737" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Stability of Ecological Systems: A Theoretical Review</span><span class="citation-popover-snippet">Stability of Ecological Systems: A Theoretical ReviewDecember 12, 2023...</span><span class="citation-popover-meta">Published: December 12, 2023</span></span></span>
 
 One way to think about the challenge is that engineers are trying to build a small ecosystem that remains alive without becoming uncontrollable.
 
@@ -355,7 +355,7 @@ Modern machine-learning systems already excel at pattern recognition across huge
 * Microbial activity.
 * Waste-processing performance.
 * [Energy]({{ 'energy/' | relative_url }}) flows.
-* Human consumption patterns. European Space Agency <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Research/Life_support" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esa.int">[esa.int]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esa.int</span><span class="citation-popover-title">European Space Agency ESA</span><span class="citation-popover-snippet">European Space AgencyESA - Life supportA sensor developed by MELiSSA controls the fermentation and monitors biological processes. The sam...</span></span></span>
+* Human consumption patterns. European Space Agency<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Research/Life_support" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esa.int">[esa.int]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esa.int</span><span class="citation-popover-title">European Space Agency ESA</span><span class="citation-popover-snippet">European Space AgencyESA - Life supportA sensor developed by MELiSSA controls the fermentation and monitors biological processes. The sam...</span></span></span>
 
 Instead of reacting only after thresholds are crossed, an AI system could potentially build predictive models of ecosystem behaviour.
 
@@ -367,11 +367,11 @@ For example:
 * Predicting oxygen shortfalls weeks ahead from crop-health signals.
 * Identifying nutrient imbalances before yields fall.
 * Simulating alternative interventions before applying them.
-* Coordinating lighting, irrigation and nutrient delivery across multiple crop systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0273117713001725" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Key ecological challenges for closed systems facilitiesby M Nelson · 2013 · Cited by 38 — The problems of achieving sustaina...</span></span></span>
+* Coordinating lighting, irrigation and nutrient delivery across multiple crop systems.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0273117713001725" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Key ecological challenges for closed systems facilitiesby M Nelson · 2013 · Cited by 38 — The problems of achieving sustaina...</span></span></span>
 
 </div>
 
-Researchers involved in projects such as MELiSSA have long emphasised modelling and monitoring because the number of interactions becomes difficult to track manually. As habitats grow larger, the volume of ecological data may exceed what human operators can continuously interpret. AI offers a possible path toward real-time ecosystem supervision. ScienceDirect <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.melissafoundation.org/download/971" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: melissafoundation.org">[2melissafoundation.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">melissafoundation.org</span><span class="citation-popover-snippet">Literature list about the MELiSSA Project and connected...24 Feb 2023 — Literature list about the MELiSSA Project and connected research...</span></span></span>
+Researchers involved in projects such as MELiSSA have long emphasised modelling and monitoring because the number of interactions becomes difficult to track manually. As habitats grow larger, the volume of ecological data may exceed what human operators can continuously interpret. AI offers a possible path toward real-time ecosystem supervision. ScienceDirect<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.melissafoundation.org/download/971" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: melissafoundation.org">[2melissafoundation.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">melissafoundation.org</span><span class="citation-popover-snippet">Literature list about the MELiSSA Project and connected...24 Feb 2023 — Literature list about the MELiSSA Project and connected research...</span></span></span>
 
 This possibility connects to a broader AI bloom theme. Advanced intelligence may not only automate routine work but help humanity manage systems whose complexity would otherwise exceed human cognitive limits.
 
@@ -379,25 +379,25 @@ This possibility connects to a broader AI bloom theme. Advanced intelligence may
 
 ## Lessons From MELiSSA
 
-The European Space Agency's MELiSSA programme is one of the longest-running efforts to study bioregenerative life support. Rather than building a single giant ecosystem, MELiSSA divides the recycling process into specialised biological compartments connected in a loop. Different microbial communities perform different functions, including waste breakdown, nutrient recovery and oxygen generation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://webs.uab.cat/melissapilotplant/wp-content/uploads/sites/397/2023/11/Melissa_The_European_project_of_a_closed_life_supp-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: webs.uab.cat">[Webs UAB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">webs.uab.cat</span><span class="citation-popover-snippet">Melissa: The European project of a closed life support systemby C Lasseur · Cited by 199 — The MELiSSA (Micro-ecological life-sup...</span></span></span> PubMed This architecture reveals an important lesson. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/16431089/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[pubmed.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Microbial ecology of the closed artificial ecosystem...by L Hendrickx · 2006 · Cited by 230 — MELiSSA is a bioregenerative life su...</span></span></span>
+The European Space Agency's MELiSSA programme is one of the longest-running efforts to study bioregenerative life support. Rather than building a single giant ecosystem, MELiSSA divides the recycling process into specialised biological compartments connected in a loop. Different microbial communities perform different functions, including waste breakdown, nutrient recovery and oxygen generation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://webs.uab.cat/melissapilotplant/wp-content/uploads/sites/397/2023/11/Melissa_The_European_project_of_a_closed_life_supp-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: webs.uab.cat">[Webs UAB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">webs.uab.cat</span><span class="citation-popover-snippet">Melissa: The European project of a closed life support systemby C Lasseur · Cited by 199 — The MELiSSA (Micro-ecological life-sup...</span></span></span> PubMed This architecture reveals an important lesson.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/16431089/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[pubmed.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Microbial ecology of the closed artificial ecosystem...by L Hendrickx · 2006 · Cited by 230 — MELiSSA is a bioregenerative life su...</span></span></span>
 
 Successful life support may depend less on creating a miniature copy of Earth's biosphere and more on carefully engineered ecological networks whose behaviour can be monitored and controlled.
 
-MELiSSA researchers have spent decades studying how biological compartments interact and how disturbances propagate through the system. The programme's pilot plants generate data specifically because understanding long-term dynamics is difficult. Even when each component works individually, the integrated system can behave in unexpected ways. ScienceDirect <span class="citation-chip-wrap"><a class="citation-chip" href="https://webs.uab.cat/melissapilotplant/wp-content/uploads/sites/397/2023/11/Melissa_The_European_project_of_a_closed_life_supp-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: webs.uab.cat">[Webs UAB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">webs.uab.cat</span><span class="citation-popover-snippet">Melissa: The European project of a closed life support systemby C Lasseur · Cited by 199 — The MELiSSA (Micro-ecological life-sup...</span></span></span>
+MELiSSA researchers have spent decades studying how biological compartments interact and how disturbances propagate through the system. The programme's pilot plants generate data specifically because understanding long-term dynamics is difficult. Even when each component works individually, the integrated system can behave in unexpected ways. ScienceDirect<span class="citation-chip-wrap"><a class="citation-chip" href="https://webs.uab.cat/melissapilotplant/wp-content/uploads/sites/397/2023/11/Melissa_The_European_project_of_a_closed_life_supp-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: webs.uab.cat">[Webs UAB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">webs.uab.cat</span><span class="citation-popover-snippet">Melissa: The European project of a closed life support systemby C Lasseur · Cited by 199 — The MELiSSA (Micro-ecological life-sup...</span></span></span>
 
 The project also highlights a recurring theme in future habitat design: sensing becomes almost as important as recycling itself.
 
-A biological loop cannot be managed if operators cannot observe its state. Advanced sensors, automated monitoring and predictive control become part of the life-support infrastructure rather than optional add-ons. ESA has already highlighted monitoring technologies developed through MELiSSA that track biological processes in real time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Research/Life_support" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esa.int">[European Space Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esa.int</span><span class="citation-popover-title">European Space Agency ESA</span><span class="citation-popover-snippet">European Space AgencyESA - Life supportA sensor developed by MELiSSA controls the fermentation and monitors biological processes. The sam...</span></span></span>
+A biological loop cannot be managed if operators cannot observe its state. Advanced sensors, automated monitoring and predictive control become part of the life-support infrastructure rather than optional add-ons. ESA has already highlighted monitoring technologies developed through MELiSSA that track biological processes in real time.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Research/Life_support" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esa.int">[European Space Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esa.int</span><span class="citation-popover-title">European Space Agency ESA</span><span class="citation-popover-snippet">European Space AgencyESA - Life supportA sensor developed by MELiSSA controls the fermentation and monitors biological processes. The sam...</span></span></span>
 
 ## Lessons From BIOS-3 And Other Closed Ecosystem Experiments
 
 Long before today's AI systems existed, researchers attempted to build closed ecological habitats.
 
-The Soviet BIOS-3 facility in Krasnoyarsk was among the most influential. It used algae and plant cultivation systems to support crews in sealed environments and demonstrated substantial closure of air and water cycles. The experiments showed that biological regeneration could work for extended periods under controlled conditions. OUP Academic <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ibp.ru/science/bios3.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ibp.ru">[IBP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ibp.ru</span><span class="citation-popover-snippet">BIOS-3 – BIOlogical closed life support SystemBIOS-3 consists of a 315 cubic meter habitat suitable for up to three persons, and was init...</span></span></span>
+The Soviet BIOS-3 facility in Krasnoyarsk was among the most influential. It used algae and plant cultivation systems to support crews in sealed environments and demonstrated substantial closure of air and water cycles. The experiments showed that biological regeneration could work for extended periods under controlled conditions. OUP Academic<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ibp.ru/science/bios3.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ibp.ru">[IBP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ibp.ru</span><span class="citation-popover-snippet">BIOS-3 – BIOlogical closed life support SystemBIOS-3 consists of a 315 cubic meter habitat suitable for up to three persons, and was init...</span></span></span>
 
 But they also revealed how much management was required.
 
-Crop selection, lighting, atmospheric regulation and nutrient balancing demanded continual attention. The systems were not self-maintaining ecosystems that could simply be left alone. Human intervention remained essential. <span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/bioscience/article-pdf/47/9/575/594737/47-9-575.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicBios-3: Siberian Experiments in Bioregenerative Life Supportby FB Salisbury · 1997 · Cited by 261 — These developments show t...</span></span></span>
+Crop selection, lighting, atmospheric regulation and nutrient balancing demanded continual attention. The systems were not self-maintaining ecosystems that could simply be left alone. Human intervention remained essential.<span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/bioscience/article-pdf/47/9/575/594737/47-9-575.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicBios-3: Siberian Experiments in Bioregenerative Life Supportby FB Salisbury · 1997 · Cited by 261 — These developments show t...</span></span></span>
 
 Later closed-environment projects repeatedly encountered similar issues:
 
@@ -406,7 +406,7 @@ Later closed-environment projects repeatedly encountered similar issues:
 * Trace gases accumulated unexpectedly.
 * Nutrient cycles drifted.
 * Biological productivity varied over time.
-* Ecological interactions proved difficult to predict. ScienceDirect <span class="citation-chip-wrap"><a class="citation-chip" href="https://ecotechnics.edu/wp-content/uploads/backup/2011/08/Handbook-Envt-Engineering-Closed-system-chapter.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ecotechnics.edu">[Institute of Ecotechnics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ecotechnics.edu</span><span class="citation-popover-snippet">Institute of EcotechnicsClosed Ecological Systems, Space Life Support and...by M Nelson · Cited by 79 — The use of plants to provide air...</span></span></span>
+* Ecological interactions proved difficult to predict. ScienceDirect<span class="citation-chip-wrap"><a class="citation-chip" href="https://ecotechnics.edu/wp-content/uploads/backup/2011/08/Handbook-Envt-Engineering-Closed-system-chapter.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ecotechnics.edu">[Institute of Ecotechnics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ecotechnics.edu</span><span class="citation-popover-snippet">Institute of EcotechnicsClosed Ecological Systems, Space Life Support and...by M Nelson · Cited by 79 — The use of plants to provide air...</span></span></span>
 
 </div>
 
@@ -425,7 +425,7 @@ This creates a familiar alignment problem in miniature.
 
 The objective is not simply maximising crop yield or oxygen output. It is preserving human wellbeing while balancing many competing variables simultaneously.
 
-An optimisation system focused too narrowly on one target could unintentionally destabilise another part of the habitat. Ecological systems frequently involve delayed consequences, feedback loops and trade-offs that are difficult to encode in simple objectives. A strategy that appears beneficial in the short term may create long-term instability. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2312.07737" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Stability of Ecological Systems: A Theoretical Review</span><span class="citation-popover-snippet">Stability of Ecological Systems: A Theoretical ReviewDecember 12, 2023...</span><span class="citation-popover-meta">Published: December 12, 2023</span></span></span>
+An optimisation system focused too narrowly on one target could unintentionally destabilise another part of the habitat. Ecological systems frequently involve delayed consequences, feedback loops and trade-offs that are difficult to encode in simple objectives. A strategy that appears beneficial in the short term may create long-term instability.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2312.07737" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Stability of Ecological Systems: A Theoretical Review</span><span class="citation-popover-snippet">Stability of Ecological Systems: A Theoretical ReviewDecember 12, 2023...</span><span class="citation-popover-meta">Published: December 12, 2023</span></span></span>
 
 For this reason, many researchers envision layered control systems rather than fully autonomous ecological management. AI may function as a forecasting, diagnosis and optimisation layer while human operators retain authority over major interventions.
 
@@ -441,167 +441,167 @@ Can intelligence deliberately manage living systems at a level of complexity tha
 
 A successful closed habitat would require continuous coordination of biology, engineering, computation and human behaviour. It would be an example of civilisation learning to maintain an artificial ecosystem not for days or months but indefinitely.
 
-That does not mean the challenge is solved. Complete closure remains elusive, ecological stability is still difficult to guarantee and decades of research have not eliminated fundamental uncertainties. Researchers continue to identify major capability gaps before large-scale lunar or Martian settlements become realistic. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12357894/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Critical investments in bioregenerative life support systems for...by DM Porterfield · 2025 · Cited by 8 — It examines the history of...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://stud.epsilon.slu.se/16055/1/persson_h_200904.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stud.epsilon.slu.se">[Epsilon Archive for Student Projects]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stud.epsilon.slu.se</span><span class="citation-popover-snippet">Epsilon Archive for Student ProjectsClosed Ecological Life Support Systemsby H Persson · 2020 · Cited by 1 — To close the carbon cycle, o...</span></span></span>
+That does not mean the challenge is solved. Complete closure remains elusive, ecological stability is still difficult to guarantee and decades of research have not eliminated fundamental uncertainties. Researchers continue to identify major capability gaps before large-scale lunar or Martian settlements become realistic.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12357894/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Critical investments in bioregenerative life support systems for...by DM Porterfield · 2025 · Cited by 8 — It examines the history of...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://stud.epsilon.slu.se/16055/1/persson_h_200904.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stud.epsilon.slu.se">[Epsilon Archive for Student Projects]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stud.epsilon.slu.se</span><span class="citation-popover-snippet">Epsilon Archive for Student ProjectsClosed Ecological Life Support Systemsby H Persson · 2020 · Cited by 1 — To close the carbon cycle, o...</span></span></span>
 
-Yet the long-term significance extends beyond spaceflight. If advanced AI can help keep a tiny ecosystem alive inside a sealed habitat, it would demonstrate a broader capacity: managing complex resource cycles, predicting biological failures and coordinating living systems that are too intricate for constant human supervision. In the most optimistic vision of humanity's [long future]({{ 'long-future/' | relative_url }}), that capability could become one of the foundations that allows civilisation to expand beyond Earth while remaining resilient, sustainable and biologically alive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0273117713001725" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Key ecological challenges for closed systems facilitiesby M Nelson · 2013 · Cited by 38 — The problems of achieving sustaina...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41526-025-00518-4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Critical investments in bioregenerative life support systems...by D Marshall Porterfield · 2025 · Cited by 9 — It examines the history o...</span></span></span>
+Yet the long-term significance extends beyond spaceflight. If advanced AI can help keep a tiny ecosystem alive inside a sealed habitat, it would demonstrate a broader capacity: managing complex resource cycles, predicting biological failures and coordinating living systems that are too intricate for constant human supervision. In the most optimistic vision of humanity's [long future]({{ 'long-future/' | relative_url }}), that capability could become one of the foundations that allows civilisation to expand beyond Earth while remaining resilient, sustainable and biologically alive.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0273117713001725" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Key ecological challenges for closed systems facilitiesby M Nelson · 2013 · Cited by 38 — The problems of achieving sustaina...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41526-025-00518-4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Critical investments in bioregenerative life support systems...by D Marshall Porterfield · 2025 · Cited by 9 — It examines the history o...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can AI Keep a Tiny Ecosystem Alive?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can AI Keep a Tiny Ecosystem Alive?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+City+on+Mars+by+Kelly+Weinersmith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A City on Mars on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2m6vEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for A City on Mars" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+City+on+Mars+by+Kelly+Weinersmith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A City on Mars">A City on Mars</a>
-        </h4>
-        <p class="fr-book-author">By Kelly Weinersmith, Zach Weinersmith</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+City+on+Mars+by+Kelly+Weinersmith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A City on Mars on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2m6vEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for A City on Mars" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+City+on+Mars+by+Kelly+Weinersmith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A City on Mars">A City on Mars</a>
+</h4>
+<p class="fr-book-author">By Kelly Weinersmith, Zach Weinersmith</p>
         
-        <p class="fr-book-desc">Directly examines the biological and practical challenges of sustaining humans off Earth.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+City+on+Mars+by+Kelly+Weinersmith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly examines the biological and practical challenges of sustaining humans off Earth.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+City+on+Mars+by+Kelly+Weinersmith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Future+of+Humanity+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Future of Humanity on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d7ktygEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Future of Humanity" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Future+of+Humanity+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Future of Humanity">The Future of Humanity</a>
-        </h4>
-        <p class="fr-book-author">By Michio Kaku</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Future+of+Humanity+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Future of Humanity on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d7ktygEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Future of Humanity" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Future+of+Humanity+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Future of Humanity">The Future of Humanity</a>
+</h4>
+<p class="fr-book-author">By Michio Kaku</p>
         
-        <p class="fr-book-desc">Places closed habitat life support within the wider long-term space settlement vision.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Future+of+Humanity+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places closed habitat life support within the wider long-term space settlement vision.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Future+of+Humanity+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking+in+Systems+by+Donella+Meadows&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking in Systems on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CpbLAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking in Systems" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking+in+Systems+by+Donella+Meadows&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking in Systems">Thinking in Systems</a>
-        </h4>
-        <p class="fr-book-author">By Donella Meadows</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking+in+Systems+by+Donella+Meadows&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking in Systems on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CpbLAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking in Systems" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking+in+Systems+by+Donella+Meadows&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking in Systems">Thinking in Systems</a>
+</h4>
+<p class="fr-book-author">By Donella Meadows</p>
         
-        <p class="fr-book-desc">Useful for understanding how fragile biological loops can behave unpredictably.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking+in+Systems+by+Donella+Meadows&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding how fragile biological loops can behave unpredictably.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking+in+Systems+by+Donella+Meadows&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Packing+for+Mars+by+Mary+Roach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Packing for Mars on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Packing+for+Mars+by+Mary+Roach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Packing for Mars">Packing for Mars</a>
-        </h4>
-        <p class="fr-book-author">By Mary Roach</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Packing+for+Mars+by+Mary+Roach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Packing for Mars on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Packing+for+Mars+by+Mary+Roach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Packing for Mars">Packing for Mars</a>
+</h4>
+<p class="fr-book-author">By Mary Roach</p>
         
-        <p class="fr-book-desc">Explores the messy biological realities of keeping people alive in space.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Packing+for+Mars+by+Mary+Roach&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores the messy biological realities of keeping people alive in space.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Packing+for+Mars+by+Mary+Roach&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+City+on+Mars&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A City on Mars</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Future+of+Humanity&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Future of Humanity</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking+in+Systems&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking in Systems</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+City+on+Mars&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A City on Mars</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Future+of+Humanity&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Future of Humanity</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking+in+Systems&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking in Systems</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+habitat+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-keep-a-tiny-ecosystem-alive-space-habitat-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space habitat model" data-ebay-reference="can-ai-keep-a-tiny-ecosystem-alive-space-habitat-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Delatorre NASA X Habitat Colab Collection Skateboard Skate Deck Space 8.0 x 31.5"><img src="https://i.ebayimg.com/images/g/9gEAAeSwERZn8apv/s-l225.jpg" alt="Listing image for Delatorre NASA X Habitat Colab Collection Skateboard Skate Deck Space 8.0 x 31.5" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+habitat+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-keep-a-tiny-ecosystem-alive-space-habitat-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space habitat model" data-ebay-reference="can-ai-keep-a-tiny-ecosystem-alive-space-habitat-model" target="_blank" rel="sponsored noopener noreferrer">Delatorre NASA X Habitat Colab Collection Skateboard Skate Deck Space 8.0 x 31.5</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+habitat+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-keep-a-tiny-ecosystem-alive-space-habitat-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space habitat model" data-ebay-reference="can-ai-keep-a-tiny-ecosystem-alive-space-habitat-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space habitat model">Search <span data-ebay-domain-label>eBay.co.uk</span>: space habitat model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+habitat+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-keep-a-tiny-ecosystem-alive-space-habitat-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space habitat model" data-ebay-reference="can-ai-keep-a-tiny-ecosystem-alive-space-habitat-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+habitat+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-keep-a-tiny-ecosystem-alive-space-habitat-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space habitat model" data-ebay-reference="can-ai-keep-a-tiny-ecosystem-alive-space-habitat-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Delatorre NASA X Habitat Colab Collection Skateboard Skate Deck Space 8.0 x 31.5"><img src="https://i.ebayimg.com/images/g/9gEAAeSwERZn8apv/s-l225.jpg" alt="Listing image for Delatorre NASA X Habitat Colab Collection Skateboard Skate Deck Space 8.0 x 31.5" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+habitat+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-keep-a-tiny-ecosystem-alive-space-habitat-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space habitat model" data-ebay-reference="can-ai-keep-a-tiny-ecosystem-alive-space-habitat-model" target="_blank" rel="sponsored noopener noreferrer">Delatorre NASA X Habitat Colab Collection Skateboard Skate Deck Space 8.0 x 31.5</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+habitat+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-keep-a-tiny-ecosystem-alive-space-habitat-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space habitat model" data-ebay-reference="can-ai-keep-a-tiny-ecosystem-alive-space-habitat-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space habitat model">Search<span data-ebay-domain-label>eBay.co.uk</span>: space habitat model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+habitat+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-keep-a-tiny-ecosystem-alive-space-habitat-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space habitat model" data-ebay-reference="can-ai-keep-a-tiny-ecosystem-alive-space-habitat-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+habitat+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-keep-a-tiny-ecosystem-alive-space-habitat-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space habitat model" data-ebay-reference="can-ai-keep-a-tiny-ecosystem-alive-space-habitat-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Marius Sylvanen NASA x Habitat Skateboard Deck 8.375"><img src="https://i.ebayimg.com/images/g/fWUAAeSwQMdp1sYa/s-l225.jpg" alt="Listing image for Marius Sylvanen NASA x Habitat Skateboard Deck 8.375" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+habitat+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-keep-a-tiny-ecosystem-alive-space-habitat-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space habitat model" data-ebay-reference="can-ai-keep-a-tiny-ecosystem-alive-space-habitat-model" target="_blank" rel="sponsored noopener noreferrer">Marius Sylvanen NASA x Habitat Skateboard Deck 8.375</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+habitat+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-keep-a-tiny-ecosystem-alive-space-habitat-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space habitat model" data-ebay-reference="can-ai-keep-a-tiny-ecosystem-alive-space-habitat-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space habitat model">Search <span data-ebay-domain-label>eBay.co.uk</span>: space habitat model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+habitat+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-keep-a-tiny-ecosystem-alive-space-habitat-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space habitat model" data-ebay-reference="can-ai-keep-a-tiny-ecosystem-alive-space-habitat-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+habitat+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-keep-a-tiny-ecosystem-alive-space-habitat-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space habitat model" data-ebay-reference="can-ai-keep-a-tiny-ecosystem-alive-space-habitat-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+habitat+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-keep-a-tiny-ecosystem-alive-space-habitat-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space habitat model" data-ebay-reference="can-ai-keep-a-tiny-ecosystem-alive-space-habitat-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Marius Sylvanen NASA x Habitat Skateboard Deck 8.375"><img src="https://i.ebayimg.com/images/g/fWUAAeSwQMdp1sYa/s-l225.jpg" alt="Listing image for Marius Sylvanen NASA x Habitat Skateboard Deck 8.375" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+habitat+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-keep-a-tiny-ecosystem-alive-space-habitat-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space habitat model" data-ebay-reference="can-ai-keep-a-tiny-ecosystem-alive-space-habitat-model" target="_blank" rel="sponsored noopener noreferrer">Marius Sylvanen NASA x Habitat Skateboard Deck 8.375</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+habitat+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-keep-a-tiny-ecosystem-alive-space-habitat-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space habitat model" data-ebay-reference="can-ai-keep-a-tiny-ecosystem-alive-space-habitat-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space habitat model">Search<span data-ebay-domain-label>eBay.co.uk</span>: space habitat model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+habitat+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-keep-a-tiny-ecosystem-alive-space-habitat-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space habitat model" data-ebay-reference="can-ai-keep-a-tiny-ecosystem-alive-space-habitat-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+habitat+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-keep-a-tiny-ecosystem-alive-space-habitat-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space habitat model" data-ebay-reference="can-ai-keep-a-tiny-ecosystem-alive-space-habitat-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -617,7 +617,7 @@ Yet the long-term significance extends beyond spaceflight. If advanced AI can he
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -637,7 +637,7 @@ Yet the long-term significance extends beyond spaceflight. If advanced AI can he
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -669,7 +669,7 @@ Yet the long-term significance extends beyond spaceflight. If advanced AI can he
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -721,7 +721,7 @@ Yet the long-term significance extends beyond spaceflight. If advanced AI can he
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -766,7 +766,7 @@ Yet the long-term significance extends beyond spaceflight. If advanced AI can he
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -807,190 +807,190 @@ Yet the long-term significance extends beyond spaceflight. If advanced AI can he
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41526-023-00317-9" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41526-023-00317-9</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Plant and microbial science and technology as...by V De Micco · 2023 · Cited by 72 — The concept of Bioregenerative Life Support S...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41526-023-00317-9" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41526-023-00317-9</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Plant and microbial science and technology as...by V De Micco · 2023 · Cited by 72 — The concept of Bioregenerative Life Support S...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: webs.uab.cat  
-   Link: <a href="https://webs.uab.cat/melissapilotplant/wp-content/uploads/sites/397/2023/11/Melissa_The_European_project_of_a_closed_life_supp-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://webs.uab.cat/melissapilotplant/wp-content/uploads/sites/397/2023/11/Melissa_The_European_project_of_a_closed_life_supp-1.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Melissa: The European project of a closed life support systemby C Lasseur · Cited by 199 — The MELiSSA (Micro-ecological life-sup...</p></details>
+   Link:<a href="https://webs.uab.cat/melissapilotplant/wp-content/uploads/sites/397/2023/11/Melissa_The_European_project_of_a_closed_life_supp-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://webs.uab.cat/melissapilotplant/wp-content/uploads/sites/397/2023/11/Melissa_The_European_project_of_a_closed_life_supp-1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Melissa: The European project of a closed life support systemby C Lasseur · Cited by 199 — The MELiSSA (Micro-ecological life-sup...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/05/238_6ff87ea936983a40220107cf200cb6b8_ShevtsovJane.pdf?emrc=f743fe" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/05/238_6ff87ea936983a40220107cf200cb6b8_ShevtsovJane.pdf?emrc=f743fe</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceBioregenerative Life Support SystemsSeveral NASA needs assessments identify closed regenerative life support as an enabling t...</p></details>
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/05/238_6ff87ea936983a40220107cf200cb6b8_ShevtsovJane.pdf?emrc=f743fe" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/05/238_6ff87ea936983a40220107cf200cb6b8_ShevtsovJane.pdf?emrc=f743fe</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceBioregenerative Life Support SystemsSeveral NASA needs assessments identify closed regenerative life support as an enabling t...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: techport.nasa.gov  
-   Link: <a href="https://techport.nasa.gov/projects/11493" target="_blank" rel="noopener noreferrer nofollow">https://techport.nasa.gov/projects/11493</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA TechPortImproving Habitability, Mood &amp; Diet through...Dec 18, 2025 — Growing fresh foods will enhance habitability and diet includi...</p></details>
+   Link:<a href="https://techport.nasa.gov/projects/11493" target="_blank" rel="noopener noreferrer nofollow">https://techport.nasa.gov/projects/11493</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA TechPortImproving Habitability, Mood &amp; Diet through...Dec 18, 2025 — Growing fresh foods will enhance habitability and diet includi...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12357894/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12357894/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Critical investments in bioregenerative life support systems for...by DM Porterfield · 2025 · Cited by 8 — It examines the history of...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12357894/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12357894/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Critical investments in bioregenerative life support systems for...by DM Porterfield · 2025 · Cited by 8 — It examines the history of...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41526-025-00518-4" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41526-025-00518-4</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Critical investments in bioregenerative life support systems...by D Marshall Porterfield · 2025 · Cited by 9 — It examines the history o...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41526-025-00518-4" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41526-025-00518-4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Critical investments in bioregenerative life support systems...by D Marshall Porterfield · 2025 · Cited by 9 — It examines the history o...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0273117713001725" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0273117713001725</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Key ecological challenges for closed systems facilitiesby M Nelson · 2013 · Cited by 38 — The problems of achieving sustaina...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0273117713001725" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0273117713001725</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Key ecological challenges for closed systems facilitiesby M Nelson · 2013 · Cited by 38 — The problems of achieving sustaina...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: ecotechnics.edu  
-   Link: <a href="https://ecotechnics.edu/wp-content/uploads/backup/2011/08/Handbook-Envt-Engineering-Closed-system-chapter.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ecotechnics.edu/wp-content/uploads/backup/2011/08/Handbook-Envt-Engineering-Closed-system-chapter.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Institute of EcotechnicsClosed Ecological Systems, Space Life Support and...by M Nelson · Cited by 79 — The use of plants to provide air...</p></details>
+   Link:<a href="https://ecotechnics.edu/wp-content/uploads/backup/2011/08/Handbook-Envt-Engineering-Closed-system-chapter.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ecotechnics.edu/wp-content/uploads/backup/2011/08/Handbook-Envt-Engineering-Closed-system-chapter.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Institute of EcotechnicsClosed Ecological Systems, Space Life Support and...by M Nelson · Cited by 79 — The use of plants to provide air...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: arxiv.org  
    Title: arXiv Stability of Ecological Systems: A Theoretical Review  
-   Link: <a href="https://arxiv.org/abs/2312.07737" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2312.07737</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Stability of Ecological Systems: A Theoretical ReviewDecember 12, 2023...</p></details>
+   Link:<a href="https://arxiv.org/abs/2312.07737" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2312.07737</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stability of Ecological Systems: A Theoretical ReviewDecember 12, 2023...</p></details>
    Published: December 12, 2023  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: esa.int  
    Title: European Space Agency ESA  
-   Link: <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Research/Life_support" target="_blank" rel="noopener noreferrer nofollow">https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Research/Life_support</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>European Space AgencyESA - Life supportA sensor developed by MELiSSA controls the fermentation and monitors biological processes. The sam...</p></details>
+   Link:<a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Research/Life_support" target="_blank" rel="noopener noreferrer nofollow">https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Research/Life_support</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>European Space AgencyESA - Life supportA sensor developed by MELiSSA controls the fermentation and monitors biological processes. The sam...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S1369703X1930258X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S1369703X1930258X</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Continuous controlled long-term operation and modeling of...by L Alemany · 2019 · Cited by 35 — The MELiSSA (MicroEcologica...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S1369703X1930258X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S1369703X1930258X</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Continuous controlled long-term operation and modeling of...by L Alemany · 2019 · Cited by 35 — The MELiSSA (MicroEcologica...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: melissafoundation.org  
-   Link: <a href="https://www.melissafoundation.org/download/971" target="_blank" rel="noopener noreferrer nofollow">https://www.melissafoundation.org/download/971</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Literature list about the MELiSSA Project and connected...24 Feb 2023 — Literature list about the MELiSSA Project and connected research...</p></details>
+   Link:<a href="https://www.melissafoundation.org/download/971" target="_blank" rel="noopener noreferrer nofollow">https://www.melissafoundation.org/download/971</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Literature list about the MELiSSA Project and connected...24 Feb 2023 — Literature list about the MELiSSA Project and connected research...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: academic.oup.com  
-   Link: <a href="https://academic.oup.com/bioscience/article-pdf/47/9/575/594737/47-9-575.pdf" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/bioscience/article-pdf/47/9/575/594737/47-9-575.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicBios-3: Siberian Experiments in Bioregenerative Life Supportby FB Salisbury · 1997 · Cited by 261 — These developments show t...</p></details>
+   Link:<a href="https://academic.oup.com/bioscience/article-pdf/47/9/575/594737/47-9-575.pdf" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/bioscience/article-pdf/47/9/575/594737/47-9-575.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicBios-3: Siberian Experiments in Bioregenerative Life Supportby FB Salisbury · 1997 · Cited by 261 — These developments show t...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: ibp.ru  
-   Link: <a href="https://www.ibp.ru/science/bios3.php" target="_blank" rel="noopener noreferrer nofollow">https://www.ibp.ru/science/bios3.php</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BIOS-3 – BIOlogical closed life support SystemBIOS-3 consists of a 315 cubic meter habitat suitable for up to three persons, and was init...</p></details>
+   Link:<a href="https://www.ibp.ru/science/bios3.php" target="_blank" rel="noopener noreferrer nofollow">https://www.ibp.ru/science/bios3.php</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BIOS-3 – BIOlogical closed life support SystemBIOS-3 consists of a 315 cubic meter habitat suitable for up to three persons, and was init...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: nasa.gov  
-   Link: <a href="https://www.nasa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Aeronautics and Space Administration. NASA explores the unknown in air and space, innovates for the benefit of humanity, and...</p></details>
+   Link:<a href="https://www.nasa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Aeronautics and Space Administration. NASA explores the unknown in air and space, innovates for the benefit of humanity, and...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: ntrs.nasa.gov  
-   Link: <a href="https://ntrs.nasa.gov/citations/20190027510" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/citations/20190027510</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of Synthetic Biology to Bioregenerative Life...by MJ Dougherty · 2014 — The conversion of carbon dioxide into higher value products is a...</p></details>
+   Link:<a href="https://ntrs.nasa.gov/citations/20190027510" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/citations/20190027510</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of Synthetic Biology to Bioregenerative Life...by MJ Dougherty · 2014 — The conversion of carbon dioxide into higher value products is a...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/npre.2010.3926.2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/npre.2010.3926.2.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The driving element of MELiSSA...</p></details>
+   Link:<a href="https://www.nature.com/articles/npre.2010.3926.2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/npre.2010.3926.2.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The driving element of MELiSSA...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: space.com  
    Title: NAS A just released 12,000 photos from Artemis 2. Here are our top picks  
-   Link: <a href="https://www.space.com/space-exploration/artemis/nasa-just-released-12-000-photos-from-artemis-2-here-are-our-top-picks" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/space-exploration/artemis/nasa-just-released-12-000-photos-from-artemis-2-here-are-our-top-picks</a>  
+   Link:<a href="https://www.space.com/space-exploration/artemis/nasa-just-released-12-000-photos-from-artemis-2-here-are-our-top-picks" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/space-exploration/artemis/nasa-just-released-12-000-photos-from-artemis-2-here-are-our-top-picks</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0273117710003194" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0273117710003194</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Closed bioregenerative life support systemsby YS Polyakov · 2010 · Cited by 24 — This review discusses the key space technology findings...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0273117710003194" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0273117710003194</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Closed bioregenerative life support systemsby YS Polyakov · 2010 · Cited by 24 — This review discusses the key space technology findings...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: nationalacademies.org  
-   Link: <a href="https://www.nationalacademies.org/read/5826/chapter/4" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/5826/chapter/4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Advanced Technology for Human Support in Space (1997)Closed-loop life support systems require an initial supply of resources but then pro...</p></details>
+   Link:<a href="https://www.nationalacademies.org/read/5826/chapter/4" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/5826/chapter/4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Advanced Technology for Human Support in Space (1997)Closed-loop life support systems require an initial supply of resources but then pro...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: frontiersin.org  
    Title: Frontiers Stoichiometric model of a fully closed bioregenerative life  
-   Link: <a href="https://www.frontiersin.org/journals/astronomy-and-space-sciences/articles/10.3389/fspas.2023.1198689/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/astronomy-and-space-sciences/articles/10.3389/fspas.2023.1198689/full</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersStoichiometric model of a fully closed bioregenerative life...August 16, 2023 — by ACJ Vermeulen · 2023 · Cited by 17 — A BLSS...</p></details>
+   Link:<a href="https://www.frontiersin.org/journals/astronomy-and-space-sciences/articles/10.3389/fspas.2023.1198689/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/astronomy-and-space-sciences/articles/10.3389/fspas.2023.1198689/full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersStoichiometric model of a fully closed bioregenerative life...August 16, 2023 — by ACJ Vermeulen · 2023 · Cited by 17 — A BLSS...</p></details>
    Published: August 16, 2023  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/16431089/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/16431089/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Microbial ecology of the closed artificial ecosystem...by L Hendrickx · 2006 · Cited by 230 — MELiSSA is a bioregenerative life su...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/16431089/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/16431089/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Microbial ecology of the closed artificial ecosystem...by L Hendrickx · 2006 · Cited by 230 — MELiSSA is a bioregenerative life su...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: stud.epsilon.slu.se  
-   Link: <a href="https://stud.epsilon.slu.se/16055/1/persson_h_200904.pdf" target="_blank" rel="noopener noreferrer nofollow">https://stud.epsilon.slu.se/16055/1/persson_h_200904.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Epsilon Archive for Student ProjectsClosed Ecological Life Support Systemsby H Persson · 2020 · Cited by 1 — To close the carbon cycle, o...</p></details>
+   Link:<a href="https://stud.epsilon.slu.se/16055/1/persson_h_200904.pdf" target="_blank" rel="noopener noreferrer nofollow">https://stud.epsilon.slu.se/16055/1/persson_h_200904.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Epsilon Archive for Student ProjectsClosed Ecological Life Support Systemsby H Persson · 2020 · Cited by 1 — To close the carbon cycle, o...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/NASA" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NASA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASAThe National Aeronautics and Space Administration (NASA /ˈnæsə/) is an independent agency of the U.S. federal government responsib...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/NASA" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NASA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASAThe National Aeronautics and Space Administration (NASA /ˈnæsə/) is an independent agency of the U.S. federal government responsib...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/12481804/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/12481804/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>cycles in closed ecological systems: effects of...by VY Rygalov · 2002 · Cited by 16 — This water cycle is a consequence of the continuo...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/12481804/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/12481804/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>cycles in closed ecological systems: effects of...by VY Rygalov · 2002 · Cited by 16 — This water cycle is a consequence of the continuo...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NASA/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NASA/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA - National Aeronautics and Space AdministrationNASA - National Aeronautics and Space Administration. 28647386 likes · 82073 talking...</p></details>
+   Link:<a href="https://www.facebook.com/NASA/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NASA/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA - National Aeronautics and Space AdministrationNASA - National Aeronautics and Space Administration. 28647386 likes · 82073 talking...</p></details>
 
 ### Additional References
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: nss.org  
-   Link: <a href="https://nss.org/settlement/nasa/Contest/Results/96/winner/seis.html" target="_blank" rel="noopener noreferrer nofollow">https://nss.org/settlement/nasa/Contest/Results/96/winner/seis.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Life Support SystemNASA&#x27;s acronym for these systems is CELSS (Controlled Ecological Life Support System).... plant based bioregenerative...</p></details>
+   Link:<a href="https://nss.org/settlement/nasa/Contest/Results/96/winner/seis.html" target="_blank" rel="noopener noreferrer nofollow">https://nss.org/settlement/nasa/Contest/Results/96/winner/seis.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Life Support SystemNASA&#x27;s acronym for these systems is CELSS (Controlled Ecological Life Support System).... plant based bioregenerative...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: x.com  
-   Link: <a href="https://x.com/NASA?lang=en" target="_blank" rel="noopener noreferrer nofollow">https://x.com/NASA?lang=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA (@NASA) / Posts / XAfter reviewing the @Space_Station flight schedule, @NASA and its partners are adjusting launch opportunities for...</p></details>
+   Link:<a href="https://x.com/NASA?lang=en" target="_blank" rel="noopener noreferrer nofollow">https://x.com/NASA?lang=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA (@NASA) / Posts / XAfter reviewing the @Space_Station flight schedule, @NASA and its partners are adjusting launch opportunities for...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/232890528_Closed_Ecological_Systems" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/232890528_Closed_Ecological_Systems</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Closed Ecological Systems | Request PDFBios-3 was an impressive closed life-support system containing two plant-growth compartments, an a...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/232890528_Closed_Ecological_Systems" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/232890528_Closed_Ecological_Systems</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Closed Ecological Systems | Request PDFBios-3 was an impressive closed life-support system containing two plant-growth compartments, an a...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/234150318_Closed_Ecological_Systems" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/234150318_Closed_Ecological_Systems</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Closed Ecological Systems | Request PDFClosed ecological systems have been explored as model systems to investigate the ecological perfor...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/234150318_Closed_Ecological_Systems" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/234150318_Closed_Ecological_Systems</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Closed Ecological Systems | Request PDFClosed ecological systems have been explored as model systems to investigate the ecological perfor...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/nasa" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/nasa</a>  
+   Link:<a href="https://www.youtube.com/nasa" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/nasa</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: semanticscholar.org  
-   Link: <a href="https://www.semanticscholar.org/paper/MELiSSA%3A-THE-EUROPEAN-PROJECT-OF-CLOSED-LIFE-SYSTEM-Lasseur-Brunet/5ff0928cba5a9673ddb05cd47eb2412fc58bebb9" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/MELiSSA%3A-THE-EUROPEAN-PROJECT-OF-CLOSED-LIFE-SYSTEM-Lasseur-Brunet/5ff0928cba5a9673ddb05cd47eb2412fc58bebb9</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MELiSSA: THE EUROPEAN PROJECT OF CLOSED LIFE...An overview of recent achievements of the MELiSSA project is presented, intended to be a...</p></details>
+   Link:<a href="https://www.semanticscholar.org/paper/MELiSSA%3A-THE-EUROPEAN-PROJECT-OF-CLOSED-LIFE-SYSTEM-Lasseur-Brunet/5ff0928cba5a9673ddb05cd47eb2412fc58bebb9" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/MELiSSA%3A-THE-EUROPEAN-PROJECT-OF-CLOSED-LIFE-SYSTEM-Lasseur-Brunet/5ff0928cba5a9673ddb05cd47eb2412fc58bebb9</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MELiSSA: THE EUROPEAN PROJECT OF CLOSED LIFE...An overview of recent achievements of the MELiSSA project is presented, intended to be a...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: unimelb.edu.au  
    Title: a greener future for earth through space exploration research  
-   Link: <a href="https://www.unimelb.edu.au/newsroom/news/2025/november/a-greener-future-for-earth-through-space-exploration-research" target="_blank" rel="noopener noreferrer nofollow">https://www.unimelb.edu.au/newsroom/news/2025/november/a-greener-future-for-earth-through-space-exploration-research</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>27 Nov 2025 — Global scientists have developed a new roadmap for using plants to support long-term human life on the [Moon and Mars](&amp;#123;&amp;#123; &#x27;moon-and-mars/&#x27; | relative_url &amp;#125;&amp;#125;), using...</p></details>
+   Link:<a href="https://www.unimelb.edu.au/newsroom/news/2025/november/a-greener-future-for-earth-through-space-exploration-research" target="_blank" rel="noopener noreferrer nofollow">https://www.unimelb.edu.au/newsroom/news/2025/november/a-greener-future-for-earth-through-space-exploration-research</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>27 Nov 2025 — Global scientists have developed a new roadmap for using plants to support long-term human life on the [Moon and Mars](&amp;#123;&amp;#123; &#x27;moon-and-mars/&#x27; | relative_url &amp;#125;&amp;#125;), using...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/251166953_Closed_Ecological_Systems_Space_Life_Support_and_Biospherics" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/251166953_Closed_Ecological_Systems_Space_Life_Support_and_Biospherics</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>on closed ecological systems, bioregenerative space life support and biospherics...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/251166953_Closed_Ecological_Systems_Space_Life_Support_and_Biospherics" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/251166953_Closed_Ecological_Systems_Space_Life_Support_and_Biospherics</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>on closed ecological systems, bioregenerative space life support and biospherics...Read more...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: Wikipedia  
    Title: Bioregenerative life support system  
-   Link: <a href="https://en.wikipedia.org/wiki/Bioregenerative_life_support_system" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bioregenerative_life_support_system</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bioregenerative life support systemBioregenerative life support systems (BLSS) are artificial ecosystems consisting of many complex sy...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Bioregenerative_life_support_system" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bioregenerative_life_support_system</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bioregenerative life support systemBioregenerative life support systems (BLSS) are artificial ecosystems consisting of many complex sy...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=F0qv-v8zdPQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=F0qv-v8zdPQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2 Life in Space: Bioregenerative Life Support Systems...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=F0qv-v8zdPQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=F0qv-v8zdPQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2 Life in Space: Bioregenerative Life Support Systems...</p></details>

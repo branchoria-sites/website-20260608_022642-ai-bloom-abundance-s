@@ -286,7 +286,7 @@ Many discussions of AI medicine focus on model performance: diagnostic accuracy,
 
 A predictive model that flags high-risk patients generates little value if those patients cannot access appointments. An AI screening tool cannot improve cancer outcomes if scans are delayed, specialist capacity is limited, or patients are lost between diagnosis and treatment. Healthcare repeatedly demonstrates that implementation matters as much as invention.
 
-Researchers studying AI adoption in primary care increasingly argue that success depends on governance, workforce readiness, financing, infrastructure, and integration with existing services rather than technological capability alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11027237/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDeploying artificial intelligence software in an NHS trust</span><span class="citation-popover-snippet">artificial intelligence software in an NHS trust - PMCby SR Blake · 2023 · Cited by 8 — This article set out clear guidance on the practi...</span></span></span>
+Researchers studying AI adoption in primary care increasingly argue that success depends on governance, workforce readiness, financing, infrastructure, and integration with existing services rather than technological capability alone.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11027237/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDeploying artificial intelligence software in an NHS trust</span><span class="citation-popover-snippet">artificial intelligence software in an NHS trust - PMCby SR Blake · 2023 · Cited by 8 — This article set out clear guidance on the practi...</span></span></span>
 
 This creates an important distinction in the broader AI bloom discussion. The optimistic vision is not merely that AI becomes intelligent enough to identify disease earlier. It is that societies become capable of translating [intelligence]({{ 'intelligence/' | relative_url }}) into population-scale health improvements. That requires functioning public systems.
 
@@ -325,7 +325,7 @@ Modern AI systems depend heavily on electronic health records, laboratory data, 
 
 When records are fragmented across providers, incomplete, or inaccessible, AI performance often falls. More importantly, clinicians cannot easily verify recommendations or understand how they fit into a patient's broader medical history.
 
-Several health policy initiatives increasingly frame digital health records as foundational infrastructure for the AI era rather than optional modernisation projects. The argument is straightforward: without reliable data systems, even highly capable medical AI remains difficult to deploy safely at scale. <span class="citation-chip-wrap"><a class="citation-chip" href="https://institute.global/insights/public-services/preparing-the-nhs-for-the-ai-era-a-digital-health-record-for-every-citizen" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: institute.global">[Tony Blair Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">institute.global</span><span class="citation-popover-title">Tony Blair Institute Preparing the NHS for the AI Era: A Digital Health Record</span><span class="citation-popover-snippet">Tony Blair InstitutePreparing the NHS for the AI Era: A Digital Health Record...August 19, 2024 — 19 Aug 2024 — Here we propose a digita...</span><span class="citation-popover-meta">Published: August 19, 2024</span></span></span>
+Several health policy initiatives increasingly frame digital health records as foundational infrastructure for the AI era rather than optional modernisation projects. The argument is straightforward: without reliable data systems, even highly capable medical AI remains difficult to deploy safely at scale.<span class="citation-chip-wrap"><a class="citation-chip" href="https://institute.global/insights/public-services/preparing-the-nhs-for-the-ai-era-a-digital-health-record-for-every-citizen" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: institute.global">[Tony Blair Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">institute.global</span><span class="citation-popover-title">Tony Blair Institute Preparing the NHS for the AI Era: A Digital Health Record</span><span class="citation-popover-snippet">Tony Blair InstitutePreparing the NHS for the AI Era: A Digital Health Record...August 19, 2024 — 19 Aug 2024 — Here we propose a digita...</span><span class="citation-popover-meta">Published: August 19, 2024</span></span></span>
 
 This creates a practical fairness issue. Wealthier hospitals often have better digital infrastructure, cleaner datasets, and greater technical support. Poorer regions frequently have weaker records systems and fewer resources for implementation. If AI deployment follows existing infrastructure advantages, healthcare disparities can deepen.
 
@@ -341,7 +341,7 @@ Imagine an AI system that doubles the identification rate for patients at risk o
 
 If capacity does not expand, earlier detection can create new queues rather than better outcomes.
 
-This challenge appears repeatedly in NHS and international evaluations of healthcare AI. Real-world success depends not only on model performance but on workflow redesign, staffing, procurement, training, and pathway integration. NHS England <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11027237/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDeploying artificial intelligence software in an NHS trust</span><span class="citation-popover-snippet">artificial intelligence software in an NHS trust - PMCby SR Blake · 2023 · Cited by 8 — This article set out clear guidance on the practi...</span></span></span>
+This challenge appears repeatedly in NHS and international evaluations of healthcare AI. Real-world success depends not only on model performance but on workflow redesign, staffing, procurement, training, and pathway integration. NHS England<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11027237/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDeploying artificial intelligence software in an NHS trust</span><span class="citation-popover-snippet">artificial intelligence software in an NHS trust - PMCby SR Blake · 2023 · Cited by 8 — This article set out clear guidance on the practi...</span></span></span>
 
 The lesson is important for long-term longevity debates. Extending healthy life at population scale is not simply an information problem. It is also a systems problem.
 
@@ -365,7 +365,7 @@ Public systems provide mechanisms that markets alone often struggle to supply:
 
 </div>
 
-The World Health Organization repeatedly emphasises that [AI governance]({{ 'ai-governance/' | relative_url }}) should aim for public benefit, equity, and [broad access]({{ 'broad-access/' | relative_url }}) rather than concentrating gains among already advantaged populations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.who.int/publications/i/item/9789240029200" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-snippet">World Health OrganizationEthics and governance of artificial intelligence for healthJun 28, 2021 — The report identifies the ethical chal...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.who.int/publications/i/item/9789240029200" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-snippet">World Health OrganizationEthics and governance of artificial intelligence for healthJun 28, 2021 — The report identifies the ethical chal...</span></span></span>
+The World Health Organization repeatedly emphasises that [AI governance]({{ 'ai-governance/' | relative_url }}) should aim for public benefit, equity, and [broad access]({{ 'broad-access/' | relative_url }}) rather than concentrating gains among already advantaged populations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.who.int/publications/i/item/9789240029200" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-snippet">World Health OrganizationEthics and governance of artificial intelligence for healthJun 28, 2021 — The report identifies the ethical chal...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.who.int/publications/i/item/9789240029200" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-snippet">World Health OrganizationEthics and governance of artificial intelligence for healthJun 28, 2021 — The report identifies the ethical chal...</span></span></span>
 
 This does not mean every AI system must be developed by governments. Many important innovations will come from universities, startups, hospitals, and technology companies. The question is whether public institutions can ensure that effective tools become widely available rather than remaining niche products.
 
@@ -380,13 +380,13 @@ Healthcare regulation has traditionally focused on evaluating technologies befor
 
 A model that performs well in one hospital may perform differently elsewhere. A system trained on historical data may gradually become less reliable as disease patterns, demographics, or treatment standards change.
 
-This is why many researchers and health regulators increasingly advocate lifecycle governance rather than one-time approval. AI systems require ongoing monitoring after deployment, not merely pre-launch testing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11027237/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDeploying artificial intelligence software in an NHS trust</span><span class="citation-popover-snippet">artificial intelligence software in an NHS trust - PMCby SR Blake · 2023 · Cited by 8 — This article set out clear guidance on the practi...</span></span></span> Nature The practical question becomes: who notices when an AI system stops working as intended <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41746-025-01614-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[nature.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">The TLA governance model embeds core healthcare law principles.Read more...</span></span></span>
+This is why many researchers and health regulators increasingly advocate lifecycle governance rather than one-time approval. AI systems require ongoing monitoring after deployment, not merely pre-launch testing.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11027237/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDeploying artificial intelligence software in an NHS trust</span><span class="citation-popover-snippet">artificial intelligence software in an NHS trust - PMCby SR Blake · 2023 · Cited by 8 — This article set out clear guidance on the practi...</span></span></span> Nature The practical question becomes: who notices when an AI system stops working as intended<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41746-025-01614-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[nature.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">The TLA governance model embeds core healthcare law principles.Read more...</span></span></span>
 
 ### Measuring real-world impact
 
 Many healthcare AI products are initially assessed using technical metrics such as sensitivity, specificity, or diagnostic accuracy. These measures matter, but they do not fully answer the most important public health question: do patients actually become healthier?
 
-Recent guidance from NHS programmes and evaluation researchers places increasing emphasis on real-world assessment, including workflow effects, patient outcomes, implementation challenges, and unintended consequences. <span class="citation-chip-wrap"><a class="citation-chip" href="https://digital-transformation.hee.nhs.uk/support-for-organisations/research-and-publications/dart-ed/horizon-scanning/understanding-healthcare-workers-confidence-in-ai/chapter-3-governance/evaluation-and-validation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digital-transformation.hee.nhs.uk">[digital-transformation.hee.nhs.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digital-transformation.hee.nhs.uk</span><span class="citation-popover-snippet">hee.nhs.uk3.2 Evaluation and validationProspective clinical studies: The AI model is tested in a real-world clinical setting using data c...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.england.nhs.uk/publication/planning-and-implementing-real-world-artificial-intelligence-ai-evaluations-lessons-from-the-ai-in-health-and-care-award/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: england.nhs.uk">[NHS England]</a><span class="citation-popover" role="note"><span class="citation-popover-source">england.nhs.uk</span><span class="citation-popover-snippet">NHS EnglandPlanning and implementing real-world artificial intelligence...16 Oct 2024 — This document provides lessons on the practical...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.england.nhs.uk/publication/planning-and-implementing-real-world-artificial-intelligence-ai-evaluations-lessons-from-the-ai-in-health-and-care-award/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: england.nhs.uk">[NHS England]</a><span class="citation-popover" role="note"><span class="citation-popover-source">england.nhs.uk</span><span class="citation-popover-snippet">NHS EnglandPlanning and implementing real-world artificial intelligence...16 Oct 2024 — This document provides lessons on the practical...</span></span></span>
+Recent guidance from NHS programmes and evaluation researchers places increasing emphasis on real-world assessment, including workflow effects, patient outcomes, implementation challenges, and unintended consequences.<span class="citation-chip-wrap"><a class="citation-chip" href="https://digital-transformation.hee.nhs.uk/support-for-organisations/research-and-publications/dart-ed/horizon-scanning/understanding-healthcare-workers-confidence-in-ai/chapter-3-governance/evaluation-and-validation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digital-transformation.hee.nhs.uk">[digital-transformation.hee.nhs.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digital-transformation.hee.nhs.uk</span><span class="citation-popover-snippet">hee.nhs.uk3.2 Evaluation and validationProspective clinical studies: The AI model is tested in a real-world clinical setting using data c...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.england.nhs.uk/publication/planning-and-implementing-real-world-artificial-intelligence-ai-evaluations-lessons-from-the-ai-in-health-and-care-award/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: england.nhs.uk">[NHS England]</a><span class="citation-popover" role="note"><span class="citation-popover-source">england.nhs.uk</span><span class="citation-popover-snippet">NHS EnglandPlanning and implementing real-world artificial intelligence...16 Oct 2024 — This document provides lessons on the practical...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.england.nhs.uk/publication/planning-and-implementing-real-world-artificial-intelligence-ai-evaluations-lessons-from-the-ai-in-health-and-care-award/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: england.nhs.uk">[NHS England]</a><span class="citation-popover" role="note"><span class="citation-popover-source">england.nhs.uk</span><span class="citation-popover-snippet">NHS EnglandPlanning and implementing real-world artificial intelligence...16 Oct 2024 — This document provides lessons on the practical...</span></span></span>
 
 A system might correctly identify more high-risk patients while simultaneously increasing administrative burden, overwhelming clinics, or producing excessive false positives. Another system might save clinician time but perform worse for underrepresented populations.
 
@@ -412,11 +412,11 @@ These are institutional capabilities rather than purely technical ones.
 
 Perhaps the most important reason for post-deployment auditing is that inequality often becomes visible only after large-scale use.
 
-Research has repeatedly documented cases where medical AI systems perform differently across demographic groups because of training data imbalances, healthcare access disparities, or underlying social inequalities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2205.01066" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Quantifying Health Inequalities Induced by Data and AI Models</span><span class="citation-popover-snippet">Quantifying Health Inequalities Induced by Data and AI ModelsApril 24, 2022...</span><span class="citation-popover-meta">Published: April 24, 2022</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.zhiyanbao.cn/index/partFile/5/who/2022-04/5_23759.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zhiyanbao.cn">[2zhiyanbao.cn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zhiyanbao.cn</span><span class="citation-popover-snippet">ervices and systems based on race, ethnicity, age, and gender, that are encoded in data.Read more...</span></span></span>
+Research has repeatedly documented cases where medical AI systems perform differently across demographic groups because of training data imbalances, healthcare access disparities, or underlying social inequalities.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2205.01066" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Quantifying Health Inequalities Induced by Data and AI Models</span><span class="citation-popover-snippet">Quantifying Health Inequalities Induced by Data and AI ModelsApril 24, 2022...</span><span class="citation-popover-meta">Published: April 24, 2022</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.zhiyanbao.cn/index/partFile/5/who/2022-04/5_23759.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zhiyanbao.cn">[2zhiyanbao.cn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zhiyanbao.cn</span><span class="citation-popover-snippet">ervices and systems based on race, ethnicity, age, and gender, that are encoded in data.Read more...</span></span></span>
 
 A system can appear successful on average while producing worse outcomes for specific populations.
 
-For example, researchers and public health bodies have raised concerns about medical technologies that work less effectively for people with darker skin tones, underrepresented ethnic groups, women, or deprived communities. Similar concerns extend to AI-based diagnostic and risk prediction systems trained on incomplete or unrepresentative datasets. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/society/2024/mar/11/medical-tools-devices-healthcare-bias-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">It emphasizes the need for an equity perspective throughout the lifecycle of medical devices to ensure fair healthcare. Concerns were hig...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://digital.nhs.uk/services/ai-knowledge-repository/nhs-lab-ai-ethics-initiative/striving-for-health-equity" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digital.nhs.uk">[NHS England Digital]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digital.nhs.uk</span><span class="citation-popover-title">striving for health equity</span><span class="citation-popover-snippet">NHS England DigitalStriving for health equity27 Feb 2026 — Understanding and enabling opportunities to use AI to address health inequalit...</span></span></span>
+For example, researchers and public health bodies have raised concerns about medical technologies that work less effectively for people with darker skin tones, underrepresented ethnic groups, women, or deprived communities. Similar concerns extend to AI-based diagnostic and risk prediction systems trained on incomplete or unrepresentative datasets.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/society/2024/mar/11/medical-tools-devices-healthcare-bias-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">It emphasizes the need for an equity perspective throughout the lifecycle of medical devices to ensure fair healthcare. Concerns were hig...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://digital.nhs.uk/services/ai-knowledge-repository/nhs-lab-ai-ethics-initiative/striving-for-health-equity" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digital.nhs.uk">[NHS England Digital]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digital.nhs.uk</span><span class="citation-popover-title">striving for health equity</span><span class="citation-popover-snippet">NHS England DigitalStriving for health equity27 Feb 2026 — Understanding and enabling opportunities to use AI to address health inequalit...</span></span></span>
 
 This means fairness cannot be assessed only during development. It must be measured continuously after deployment using real patient outcomes.
 
@@ -424,7 +424,7 @@ This means fairness cannot be assessed only during development. It must be measu
 
 A growing theme in healthcare AI governance is that hospitals and public health systems cannot act merely as purchasers of software. They increasingly need to become stewards of AI systems throughout their operational life.
 
-WHO guidance, NHS evaluation programmes, and emerging governance frameworks all point toward a similar direction: health organisations require structures that oversee procurement, [validation]({{ 'validation/' | relative_url }}), monitoring, accountability, patient rights, and ongoing performance review. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ihi.org/library/blog/ai-governance-maximizing-benefit-and-minimizing-harm-patients-providers-and-health" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ihi.org">[ihi.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ihi.org</span><span class="citation-popover-snippet">AI Governance: Maximizing Benefit and Minimizing Harm...Sep 3, 2025 — Governance is necessary for the safe, impactful, and trustworthy a...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.who.int/publications/i/item/9789240029200" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-snippet">World Health OrganizationEthics and governance of artificial intelligence for healthJun 28, 2021 — The report identifies the ethical chal...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.england.nhs.uk/publication/planning-and-implementing-real-world-artificial-intelligence-ai-evaluations-lessons-from-the-ai-in-health-and-care-award/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: england.nhs.uk">[NHS England]</a><span class="citation-popover" role="note"><span class="citation-popover-source">england.nhs.uk</span><span class="citation-popover-snippet">NHS EnglandPlanning and implementing real-world artificial intelligence...16 Oct 2024 — This document provides lessons on the practical...</span></span></span>
+WHO guidance, NHS evaluation programmes, and emerging governance frameworks all point toward a similar direction: health organisations require structures that oversee procurement, [validation]({{ 'validation/' | relative_url }}), monitoring, accountability, patient rights, and ongoing performance review.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ihi.org/library/blog/ai-governance-maximizing-benefit-and-minimizing-harm-patients-providers-and-health" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ihi.org">[ihi.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ihi.org</span><span class="citation-popover-snippet">AI Governance: Maximizing Benefit and Minimizing Harm...Sep 3, 2025 — Governance is necessary for the safe, impactful, and trustworthy a...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.who.int/publications/i/item/9789240029200" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-snippet">World Health OrganizationEthics and governance of artificial intelligence for healthJun 28, 2021 — The report identifies the ethical chal...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.england.nhs.uk/publication/planning-and-implementing-real-world-artificial-intelligence-ai-evaluations-lessons-from-the-ai-in-health-and-care-award/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: england.nhs.uk">[NHS England]</a><span class="citation-popover" role="note"><span class="citation-popover-source">england.nhs.uk</span><span class="citation-popover-snippet">NHS EnglandPlanning and implementing real-world artificial intelligence...16 Oct 2024 — This document provides lessons on the practical...</span></span></span>
 
 Under this model, deploying AI resembles managing critical infrastructure rather than installing a conventional software package.
 
@@ -442,7 +442,7 @@ Several emerging frameworks therefore focus on:
 
 </div>
 
-Researchers studying deployed healthcare AI increasingly describe monitoring as an ongoing operational responsibility, covering technical reliability, clinical performance, and patient impact. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2205.01066" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Quantifying Health Inequalities Induced by Data and AI Models</span><span class="citation-popover-snippet">Quantifying Health Inequalities Induced by Data and AI ModelsApril 24, 2022...</span><span class="citation-popover-meta">Published: April 24, 2022</span></span></span>
+Researchers studying deployed healthcare AI increasingly describe monitoring as an ongoing operational responsibility, covering technical reliability, clinical performance, and patient impact.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2205.01066" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Quantifying Health Inequalities Induced by Data and AI Models</span><span class="citation-popover-snippet">Quantifying Health Inequalities Induced by Data and AI ModelsApril 24, 2022...</span><span class="citation-popover-meta">Published: April 24, 2022</span></span></span>
 
 This may become one of the defining institutional challenges of AI medicine over the coming decades.
 
@@ -458,194 +458,194 @@ Whether that happens depends less on model intelligence than on public capacity.
 The broader AI bloom vision often asks whether advanced intelligence could help humanity overcome some of the limits that have constrained health and longevity for centuries. Public health systems determine whether those gains become a shared social achievement or another dividing line between populations. In practice, fair AI care may depend as much on clinics, records, governance, and follow-up as on the algorithms themselves.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can public healthcare make AI care fair?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can public healthcare make AI care fair?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Deep+Medicine+by+Eric+Topol&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Deep Medicine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_EFlDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Deep Medicine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Deep+Medicine+by+Eric+Topol&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Deep Medicine">Deep Medicine</a>
-        </h4>
-        <p class="fr-book-author">By Eric Topol</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Deep+Medicine+by+Eric+Topol&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Deep Medicine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_EFlDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Deep Medicine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Deep+Medicine+by+Eric+Topol&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Deep Medicine">Deep Medicine</a>
+</h4>
+<p class="fr-book-author">By Eric Topol</p>
         
-        <p class="fr-book-desc">Addresses AI medicine, trust and the need for humane deployment.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Deep+Medicine+by+Eric+Topol&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses AI medicine, trust and the need for humane deployment.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Deep+Medicine+by+Eric+Topol&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=An+American+Sickness+by+Elisabeth+Rosenthal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open An American Sickness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zAimDgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for An American Sickness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=An+American+Sickness+by+Elisabeth+Rosenthal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="An American Sickness">An American Sickness</a>
-        </h4>
-        <p class="fr-book-author">By Elisabeth Rosenthal</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=An+American+Sickness+by+Elisabeth+Rosenthal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open An American Sickness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zAimDgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for An American Sickness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=An+American+Sickness+by+Elisabeth+Rosenthal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="An American Sickness">An American Sickness</a>
+</h4>
+<p class="fr-book-author">By Elisabeth Rosenthal</p>
         
-        <p class="fr-book-desc">Gives context on why fair access depends on institutions, not software alone.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=An+American+Sickness+by+Elisabeth+Rosenthal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Gives context on why fair access depends on institutions, not software alone.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=An+American+Sickness+by+Elisabeth+Rosenthal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Age+of+Scientific+Wellness+by+Leroy+Hood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Age of Scientific Wellness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=K5GjEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Age of Scientific Wellness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Age+of+Scientific+Wellness+by+Leroy+Hood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Age of Scientific Wellness">The Age of Scientific Wellness</a>
-        </h4>
-        <p class="fr-book-author">By Leroy Hood, Nathan Price</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Age+of+Scientific+Wellness+by+Leroy+Hood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Age of Scientific Wellness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=K5GjEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Age of Scientific Wellness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Age+of+Scientific+Wellness+by+Leroy+Hood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Age of Scientific Wellness">The Age of Scientific Wellness</a>
+</h4>
+<p class="fr-book-author">By Leroy Hood, Nathan Price</p>
         
-        <p class="fr-book-desc">Explores personalised prevention that would need equitable implementation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Age+of+Scientific+Wellness+by+Leroy+Hood&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores personalised prevention that would need equitable implementation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Age+of+Scientific+Wellness+by+Leroy+Hood&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Patient+Will+See+You+Now+by+Eric+J.+Topol&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Patient Will See You Now on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Patient+Will+See+You+Now+by+Eric+J.+Topol&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Patient Will See You Now">The Patient Will See You Now</a>
-        </h4>
-        <p class="fr-book-author">By Eric J. Topol</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Patient+Will+See+You+Now+by+Eric+J.+Topol&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Patient Will See You Now on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Patient+Will+See+You+Now+by+Eric+J.+Topol&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Patient Will See You Now">The Patient Will See You Now</a>
+</h4>
+<p class="fr-book-author">By Eric J. Topol</p>
         
-        <p class="fr-book-desc">Explores how digital medicine could shift power toward patients.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Patient+Will+See+You+Now+by+Eric+J.+Topol&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how digital medicine could shift power toward patients.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Patient+Will+See+You+Now+by+Eric+J.+Topol&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Deep+Medicine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Deep Medicine</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=An+American+Sickness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">An American Sickness</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Age+of+Scientific+Wellness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Age of Scientific Wellness</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Deep+Medicine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Deep Medicine</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=An+American+Sickness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">An American Sickness</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Age+of+Scientific+Wellness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Age of Scientific Wellness</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-public-healthcare-make-ai-care-fair-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="can-public-healthcare-make-ai-care-fair-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Robert Muchley Fly is as Deadly as a Bomber 1941 WPA Public Health Poster Print"><img src="https://i.ebayimg.com/images/g/B9AAAeSwCKtqJBBf/s-l225.jpg" alt="Listing image for Robert Muchley Fly is as Deadly as a Bomber 1941 WPA Public Health Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-public-healthcare-make-ai-care-fair-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="can-public-healthcare-make-ai-care-fair-public-health-poster" target="_blank" rel="sponsored noopener noreferrer">Robert Muchley Fly is as Deadly as a Bomber 1941 WPA Public Health Poster Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-public-healthcare-make-ai-care-fair-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="can-public-healthcare-make-ai-care-fair-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for public health poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: public health poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-public-healthcare-make-ai-care-fair-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="can-public-healthcare-make-ai-care-fair-public-health-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-public-healthcare-make-ai-care-fair-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="can-public-healthcare-make-ai-care-fair-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Robert Muchley Fly is as Deadly as a Bomber 1941 WPA Public Health Poster Print"><img src="https://i.ebayimg.com/images/g/B9AAAeSwCKtqJBBf/s-l225.jpg" alt="Listing image for Robert Muchley Fly is as Deadly as a Bomber 1941 WPA Public Health Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-public-healthcare-make-ai-care-fair-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="can-public-healthcare-make-ai-care-fair-public-health-poster" target="_blank" rel="sponsored noopener noreferrer">Robert Muchley Fly is as Deadly as a Bomber 1941 WPA Public Health Poster Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-public-healthcare-make-ai-care-fair-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="can-public-healthcare-make-ai-care-fair-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for public health poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: public health poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-public-healthcare-make-ai-care-fair-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="can-public-healthcare-make-ai-care-fair-public-health-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-public-healthcare-make-ai-care-fair-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="can-public-healthcare-make-ai-care-fair-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1950s public health awareness advert poster"><img src="https://i.ebayimg.com/images/g/gLkAAOSwc1JeuYYC/s-l225.jpg" alt="Listing image for Vintage 1950s public health awareness advert poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-public-healthcare-make-ai-care-fair-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="can-public-healthcare-make-ai-care-fair-public-health-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage 1950s public health awareness advert poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-public-healthcare-make-ai-care-fair-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="can-public-healthcare-make-ai-care-fair-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for public health poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: public health poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-public-healthcare-make-ai-care-fair-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="can-public-healthcare-make-ai-care-fair-public-health-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-public-healthcare-make-ai-care-fair-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="can-public-healthcare-make-ai-care-fair-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1950s public health awareness advert poster"><img src="https://i.ebayimg.com/images/g/gLkAAOSwc1JeuYYC/s-l225.jpg" alt="Listing image for Vintage 1950s public health awareness advert poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-public-healthcare-make-ai-care-fair-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="can-public-healthcare-make-ai-care-fair-public-health-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage 1950s public health awareness advert poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-public-healthcare-make-ai-care-fair-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="can-public-healthcare-make-ai-care-fair-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for public health poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: public health poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-public-healthcare-make-ai-care-fair-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="can-public-healthcare-make-ai-care-fair-public-health-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-public-healthcare-make-ai-care-fair-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="can-public-healthcare-make-ai-care-fair-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anti Tuberculosis Opera Chieti Province Vintage Public Health Poster Print"><img src="https://i.ebayimg.com/images/g/YEwAAeSwjqNqII~5/s-l225.jpg" alt="Listing image for Anti Tuberculosis Opera Chieti Province Vintage Public Health Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-public-healthcare-make-ai-care-fair-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="can-public-healthcare-make-ai-care-fair-public-health-poster" target="_blank" rel="sponsored noopener noreferrer">Anti Tuberculosis Opera Chieti Province Vintage Public Health Poster Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-public-healthcare-make-ai-care-fair-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="can-public-healthcare-make-ai-care-fair-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for public health poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: public health poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-public-healthcare-make-ai-care-fair-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="can-public-healthcare-make-ai-care-fair-public-health-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-public-healthcare-make-ai-care-fair-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="can-public-healthcare-make-ai-care-fair-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anti Tuberculosis Opera Chieti Province Vintage Public Health Poster Print"><img src="https://i.ebayimg.com/images/g/YEwAAeSwjqNqII~5/s-l225.jpg" alt="Listing image for Anti Tuberculosis Opera Chieti Province Vintage Public Health Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-public-healthcare-make-ai-care-fair-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="can-public-healthcare-make-ai-care-fair-public-health-poster" target="_blank" rel="sponsored noopener noreferrer">Anti Tuberculosis Opera Chieti Province Vintage Public Health Poster Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-public-healthcare-make-ai-care-fair-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="can-public-healthcare-make-ai-care-fair-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for public health poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: public health poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-public-healthcare-make-ai-care-fair-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="can-public-healthcare-make-ai-care-fair-public-health-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-public-healthcare-make-ai-care-fair-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="can-public-healthcare-make-ai-care-fair-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1950s public health awareness advert poster"><img src="https://i.ebayimg.com/images/g/spkAAOSw8oheuYZU/s-l225.jpg" alt="Listing image for Vintage 1950s public health awareness advert poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-public-healthcare-make-ai-care-fair-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="can-public-healthcare-make-ai-care-fair-public-health-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage 1950s public health awareness advert poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-public-healthcare-make-ai-care-fair-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="can-public-healthcare-make-ai-care-fair-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for public health poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: public health poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-public-healthcare-make-ai-care-fair-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="can-public-healthcare-make-ai-care-fair-public-health-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-public-healthcare-make-ai-care-fair-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="can-public-healthcare-make-ai-care-fair-public-health-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-public-healthcare-make-ai-care-fair-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="can-public-healthcare-make-ai-care-fair-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1950s public health awareness advert poster"><img src="https://i.ebayimg.com/images/g/spkAAOSw8oheuYZU/s-l225.jpg" alt="Listing image for Vintage 1950s public health awareness advert poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-public-healthcare-make-ai-care-fair-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="can-public-healthcare-make-ai-care-fair-public-health-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage 1950s public health awareness advert poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-public-healthcare-make-ai-care-fair-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="can-public-healthcare-make-ai-care-fair-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for public health poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: public health poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-public-healthcare-make-ai-care-fair-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="can-public-healthcare-make-ai-care-fair-public-health-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-public-healthcare-make-ai-care-fair-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="can-public-healthcare-make-ai-care-fair-public-health-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -661,7 +661,7 @@ The broader AI bloom vision often asks whether advanced intelligence could help 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -681,7 +681,7 @@ The broader AI bloom vision often asks whether advanced intelligence could help 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -713,7 +713,7 @@ The broader AI bloom vision often asks whether advanced intelligence could help 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -765,7 +765,7 @@ The broader AI bloom vision often asks whether advanced intelligence could help 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -810,7 +810,7 @@ The broader AI bloom vision often asks whether advanced intelligence could help 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -851,197 +851,197 @@ The broader AI bloom vision often asks whether advanced intelligence could help 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12840649/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12840649/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Integrating Artificial Intelligence (AI) in Primary Health Care...by F Yousefi · 2026 · Cited by 1 — AI integration in PHC depends pr...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12840649/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12840649/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Integrating Artificial Intelligence (AI) in Primary Health Care...by F Yousefi · 2026 · Cited by 1 — AI integration in PHC depends pr...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: institute.global  
    Title: Tony Blair Institute Preparing the NHS for the AI Era: A Digital Health Record  
-   Link: <a href="https://institute.global/insights/public-services/preparing-the-nhs-for-the-ai-era-a-digital-health-record-for-every-citizen" target="_blank" rel="noopener noreferrer nofollow">https://institute.global/insights/public-services/preparing-the-nhs-for-the-ai-era-a-digital-health-record-for-every-citizen</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Tony Blair InstitutePreparing the NHS for the AI Era: A Digital Health Record...August 19, 2024 — 19 Aug 2024 — Here we propose a digita...</p></details>
+   Link:<a href="https://institute.global/insights/public-services/preparing-the-nhs-for-the-ai-era-a-digital-health-record-for-every-citizen" target="_blank" rel="noopener noreferrer nofollow">https://institute.global/insights/public-services/preparing-the-nhs-for-the-ai-era-a-digital-health-record-for-every-citizen</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tony Blair InstitutePreparing the NHS for the AI Era: A Digital Health Record...August 19, 2024 — 19 Aug 2024 — Here we propose a digita...</p></details>
    Published: August 19, 2024  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: england.nhs.uk  
-   Link: <a href="https://www.england.nhs.uk/publication/planning-and-implementing-real-world-artificial-intelligence-ai-evaluations-lessons-from-the-ai-in-health-and-care-award/" target="_blank" rel="noopener noreferrer nofollow">https://www.england.nhs.uk/publication/planning-and-implementing-real-world-artificial-intelligence-ai-evaluations-lessons-from-the-ai-in-health-and-care-award/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NHS EnglandPlanning and implementing real-world artificial intelligence...16 Oct 2024 — This document provides lessons on the practical...</p></details>
+   Link:<a href="https://www.england.nhs.uk/publication/planning-and-implementing-real-world-artificial-intelligence-ai-evaluations-lessons-from-the-ai-in-health-and-care-award/" target="_blank" rel="noopener noreferrer nofollow">https://www.england.nhs.uk/publication/planning-and-implementing-real-world-artificial-intelligence-ai-evaluations-lessons-from-the-ai-in-health-and-care-award/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NHS EnglandPlanning and implementing real-world artificial intelligence...16 Oct 2024 — This document provides lessons on the practical...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCDeploying artificial intelligence software in an NHS trust  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11027237/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11027237/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>artificial intelligence software in an NHS trust - PMCby SR Blake · 2023 · Cited by 8 — This article set out clear guidance on the practi...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11027237/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11027237/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>artificial intelligence software in an NHS trust - PMCby SR Blake · 2023 · Cited by 8 — This article set out clear guidance on the practi...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: england.nhs.uk  
-   Link: <a href="https://www.england.nhs.uk/aac/what-we-do/how-can-the-aac-help-me/ai-award/" target="_blank" rel="noopener noreferrer nofollow">https://www.england.nhs.uk/aac/what-we-do/how-can-the-aac-help-me/ai-award/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Artificial Intelligence in Health and Care AwardThe Award supports AI innovators and technologies across the spectrum of development: fro...</p></details>
+   Link:<a href="https://www.england.nhs.uk/aac/what-we-do/how-can-the-aac-help-me/ai-award/" target="_blank" rel="noopener noreferrer nofollow">https://www.england.nhs.uk/aac/what-we-do/how-can-the-aac-help-me/ai-award/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Artificial Intelligence in Health and Care AwardThe Award supports AI innovators and technologies across the spectrum of development: fro...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: who.int  
-   Link: <a href="https://www.who.int/publications/i/item/9789240029200" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/publications/i/item/9789240029200</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>World Health OrganizationEthics and governance of artificial intelligence for healthJun 28, 2021 — The report identifies the ethical chal...</p></details>
+   Link:<a href="https://www.who.int/publications/i/item/9789240029200" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/publications/i/item/9789240029200</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>World Health OrganizationEthics and governance of artificial intelligence for healthJun 28, 2021 — The report identifies the ethical chal...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: who.int  
-   Link: <a href="https://www.who.int/teams/digital-health-and-innovation/harnessing-artificial-intelligence-for-health" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/teams/digital-health-and-innovation/harnessing-artificial-intelligence-for-health</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>World Health OrganizationHarnessing artificial intelligence for healthWHO&#x27;s vision is to foster digital frontiers and nurture an AI ecosy...</p></details>
+   Link:<a href="https://www.who.int/teams/digital-health-and-innovation/harnessing-artificial-intelligence-for-health" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/teams/digital-health-and-innovation/harnessing-artificial-intelligence-for-health</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>World Health OrganizationHarnessing artificial intelligence for healthWHO&#x27;s vision is to foster digital frontiers and nurture an AI ecosy...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41746-025-01614-1" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41746-025-01614-1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The TLA governance model embeds core healthcare law principles.Read more...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41746-025-01614-1" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41746-025-01614-1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The TLA governance model embeds core healthcare law principles.Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: professional.heart.org  
-   Link: <a href="https://professional.heart.org/en/science-news/pragmatic-approaches-to-the-evaluation-and-monitoring-of-artificial-intelligence-in-healthcare" target="_blank" rel="noopener noreferrer nofollow">https://professional.heart.org/en/science-news/pragmatic-approaches-to-the-evaluation-and-monitoring-of-artificial-intelligence-in-healthcare</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pragmatic Approaches to the Evaluation and Monitoring of...Nov 10, 2025 — AHA advisory outlines risk-based governance and continuous mon...</p></details>
+   Link:<a href="https://professional.heart.org/en/science-news/pragmatic-approaches-to-the-evaluation-and-monitoring-of-artificial-intelligence-in-healthcare" target="_blank" rel="noopener noreferrer nofollow">https://professional.heart.org/en/science-news/pragmatic-approaches-to-the-evaluation-and-monitoring-of-artificial-intelligence-in-healthcare</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pragmatic Approaches to the Evaluation and Monitoring of...Nov 10, 2025 — AHA advisory outlines risk-based governance and continuous mon...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: england.nhs.uk  
-   Link: <a href="https://www.england.nhs.uk/long-read/planning-and-implementing-real-world-ai-evaluations-lessons-from-the-ai-in-health-and-care-award/" target="_blank" rel="noopener noreferrer nofollow">https://www.england.nhs.uk/long-read/planning-and-implementing-real-world-ai-evaluations-lessons-from-the-ai-in-health-and-care-award/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It will gather insights from all the AI Award project reports to...Read more...</p></details>
+   Link:<a href="https://www.england.nhs.uk/long-read/planning-and-implementing-real-world-ai-evaluations-lessons-from-the-ai-in-health-and-care-award/" target="_blank" rel="noopener noreferrer nofollow">https://www.england.nhs.uk/long-read/planning-and-implementing-real-world-ai-evaluations-lessons-from-the-ai-in-health-and-care-award/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It will gather insights from all the AI Award project reports to...Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11309043/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11309043/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluation of Artificial Intelligence-Enabled Interventionsby HDJ Hogg · 2024 · Cited by 12 — This article summarizes good practices acro...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11309043/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11309043/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluation of Artificial Intelligence-Enabled Interventionsby HDJ Hogg · 2024 · Cited by 12 — This article summarizes good practices acro...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: digital-transformation.hee.nhs.uk  
-   Link: <a href="https://digital-transformation.hee.nhs.uk/support-for-organisations/research-and-publications/dart-ed/horizon-scanning/understanding-healthcare-workers-confidence-in-ai/chapter-3-governance/evaluation-and-validation" target="_blank" rel="noopener noreferrer nofollow">https://digital-transformation.hee.nhs.uk/support-for-organisations/research-and-publications/dart-ed/horizon-scanning/understanding-healthcare-workers-confidence-in-ai/chapter-3-governance/evaluation-and-validation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>hee.nhs.uk3.2 Evaluation and validationProspective clinical studies: The AI model is tested in a real-world clinical setting using data c...</p></details>
+   Link:<a href="https://digital-transformation.hee.nhs.uk/support-for-organisations/research-and-publications/dart-ed/horizon-scanning/understanding-healthcare-workers-confidence-in-ai/chapter-3-governance/evaluation-and-validation" target="_blank" rel="noopener noreferrer nofollow">https://digital-transformation.hee.nhs.uk/support-for-organisations/research-and-publications/dart-ed/horizon-scanning/understanding-healthcare-workers-confidence-in-ai/chapter-3-governance/evaluation-and-validation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>hee.nhs.uk3.2 Evaluation and validationProspective clinical studies: The AI model is tested in a real-world clinical setting using data c...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: arxiv.org  
    Title: arXiv Quantifying Health Inequalities Induced by Data and AI Models  
-   Link: <a href="https://arxiv.org/abs/2205.01066" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2205.01066</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Quantifying Health Inequalities Induced by Data and AI ModelsApril 24, 2022...</p></details>
+   Link:<a href="https://arxiv.org/abs/2205.01066" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2205.01066</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Quantifying Health Inequalities Induced by Data and AI ModelsApril 24, 2022...</p></details>
    Published: April 24, 2022  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: zhiyanbao.cn  
-   Link: <a href="https://www.zhiyanbao.cn/index/partFile/5/who/2022-04/5_23759.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.zhiyanbao.cn/index/partFile/5/who/2022-04/5_23759.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ervices and systems based on race, ethnicity, age, and gender, that are encoded in data.Read more...</p></details>
+   Link:<a href="https://www.zhiyanbao.cn/index/partFile/5/who/2022-04/5_23759.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.zhiyanbao.cn/index/partFile/5/who/2022-04/5_23759.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ervices and systems based on race, ethnicity, age, and gender, that are encoded in data.Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: digital.nhs.uk  
    Title: striving for health equity  
-   Link: <a href="https://digital.nhs.uk/services/ai-knowledge-repository/nhs-lab-ai-ethics-initiative/striving-for-health-equity" target="_blank" rel="noopener noreferrer nofollow">https://digital.nhs.uk/services/ai-knowledge-repository/nhs-lab-ai-ethics-initiative/striving-for-health-equity</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NHS England DigitalStriving for health equity27 Feb 2026 — Understanding and enabling opportunities to use AI to address health inequalit...</p></details>
+   Link:<a href="https://digital.nhs.uk/services/ai-knowledge-repository/nhs-lab-ai-ethics-initiative/striving-for-health-equity" target="_blank" rel="noopener noreferrer nofollow">https://digital.nhs.uk/services/ai-knowledge-repository/nhs-lab-ai-ethics-initiative/striving-for-health-equity</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NHS England DigitalStriving for health equity27 Feb 2026 — Understanding and enabling opportunities to use AI to address health inequalit...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: ihi.org  
-   Link: <a href="https://www.ihi.org/library/blog/ai-governance-maximizing-benefit-and-minimizing-harm-patients-providers-and-health" target="_blank" rel="noopener noreferrer nofollow">https://www.ihi.org/library/blog/ai-governance-maximizing-benefit-and-minimizing-harm-patients-providers-and-health</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Governance: Maximizing Benefit and Minimizing Harm...Sep 3, 2025 — Governance is necessary for the safe, impactful, and trustworthy a...</p></details>
+   Link:<a href="https://www.ihi.org/library/blog/ai-governance-maximizing-benefit-and-minimizing-harm-patients-providers-and-health" target="_blank" rel="noopener noreferrer nofollow">https://www.ihi.org/library/blog/ai-governance-maximizing-benefit-and-minimizing-harm-patients-providers-and-health</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI Governance: Maximizing Benefit and Minimizing Harm...Sep 3, 2025 — Governance is necessary for the safe, impactful, and trustworthy a...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: arxiv.org  
    Title: arXiv Monitoring Deployed AI Systems in Health Care  
-   Link: <a href="https://arxiv.org/abs/2512.09048" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2512.09048</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Monitoring Deployed AI Systems in Health CareDecember 9, 2025...</p></details>
+   Link:<a href="https://arxiv.org/abs/2512.09048" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2512.09048</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Monitoring Deployed AI Systems in Health CareDecember 9, 2025...</p></details>
    Published: December 9, 2025  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: iris.who.int  
-   Link: <a href="https://iris.who.int/server/api/core/bitstreams/d2913ae3-c8e0-4a46-b6ff-b4b121e936f4/content" target="_blank" rel="noopener noreferrer nofollow">https://iris.who.int/server/api/core/bitstreams/d2913ae3-c8e0-4a46-b6ff-b4b121e936f4/content</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>intelligence is reshaping health systems: state of...This report presents the first assessment of AI integration into health systems acr...</p></details>
+   Link:<a href="https://iris.who.int/server/api/core/bitstreams/d2913ae3-c8e0-4a46-b6ff-b4b121e936f4/content" target="_blank" rel="noopener noreferrer nofollow">https://iris.who.int/server/api/core/bitstreams/d2913ae3-c8e0-4a46-b6ff-b4b121e936f4/content</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>intelligence is reshaping health systems: state of...This report presents the first assessment of AI integration into health systems acr...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: who.int  
-   Link: <a href="https://www.who.int/publications/i/item/9789240084759" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/publications/i/item/9789240084759</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ethics and governance of artificial intelligence for healthMar 25, 2025 — This guidance addresses one type of generative AI, large multi...</p></details>
+   Link:<a href="https://www.who.int/publications/i/item/9789240084759" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/publications/i/item/9789240084759</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ethics and governance of artificial intelligence for healthMar 25, 2025 — This guidance addresses one type of generative AI, large multi...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: digital.nhs.uk  
-   Link: <a href="https://digital.nhs.uk/services/ai-knowledge-repository/a-z-resources" target="_blank" rel="noopener noreferrer nofollow">https://digital.nhs.uk/services/ai-knowledge-repository/a-z-resources</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>We have explored the use of specific algorithms used...Read more...</p></details>
+   Link:<a href="https://digital.nhs.uk/services/ai-knowledge-repository/a-z-resources" target="_blank" rel="noopener noreferrer nofollow">https://digital.nhs.uk/services/ai-knowledge-repository/a-z-resources</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>We have explored the use of specific algorithms used...Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41599-024-02894-w" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41599-024-02894-w</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Shaping the future of AI in healthcare through ethics and...by R Bouderhem · 2024 · Cited by 197 — The purpose of this research is to id...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41599-024-02894-w" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41599-024-02894-w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Shaping the future of AI in healthcare through ethics and...by R Bouderhem · 2024 · Cited by 197 — The purpose of this research is to id...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41746-025-01900-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41746-025-01900-y</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A practical framework for appropriate implementation and...by BJ Wells · 2025 · Cited by 47 — Health systems face the challenge of balan...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41746-025-01900-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41746-025-01900-y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A practical framework for appropriate implementation and...by BJ Wells · 2025 · Cited by 47 — Health systems face the challenge of balan...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: ardengemcsu.nhs.uk  
-   Link: <a href="https://www.ardengemcsu.nhs.uk/showcase/news-events/news-events/evaluation-report-launched-for-the-nhs-ai-lab/" target="_blank" rel="noopener noreferrer nofollow">https://www.ardengemcsu.nhs.uk/showcase/news-events/news-events/evaluation-report-launched-for-the-nhs-ai-lab/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluation report launched for the NHS AI labThe evaluation explores the AI Lab&#x27;s contributions to AI policy, infrastructure and real-wor...</p></details>
+   Link:<a href="https://www.ardengemcsu.nhs.uk/showcase/news-events/news-events/evaluation-report-launched-for-the-nhs-ai-lab/" target="_blank" rel="noopener noreferrer nofollow">https://www.ardengemcsu.nhs.uk/showcase/news-events/news-events/evaluation-report-launched-for-the-nhs-ai-lab/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluation report launched for the NHS AI labThe evaluation explores the AI Lab&#x27;s contributions to AI policy, infrastructure and real-wor...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: england.nhs.uk  
-   Link: <a href="https://www.england.nhs.uk/long-read/artificial-intelligence-ai-and-machine-learning/" target="_blank" rel="noopener noreferrer nofollow">https://www.england.nhs.uk/long-read/artificial-intelligence-ai-and-machine-learning/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The report is essential reading to those using AI...Read more...</p></details>
+   Link:<a href="https://www.england.nhs.uk/long-read/artificial-intelligence-ai-and-machine-learning/" target="_blank" rel="noopener noreferrer nofollow">https://www.england.nhs.uk/long-read/artificial-intelligence-ai-and-machine-learning/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The report is essential reading to those using AI...Read more...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/society/2024/mar/11/medical-tools-devices-healthcare-bias-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/society/2024/mar/11/medical-tools-devices-healthcare-bias-uk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It emphasizes the need for an equity perspective throughout the lifecycle of medical devices to ensure fair healthcare. Concerns were hig...</p></details>
+   Link:<a href="https://www.theguardian.com/society/2024/mar/11/medical-tools-devices-healthcare-bias-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/society/2024/mar/11/medical-tools-devices-healthcare-bias-uk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It emphasizes the need for an equity perspective throughout the lifecycle of medical devices to ensure fair healthcare. Concerns were hig...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: publichealthaihandbook.com  
-   Link: <a href="https://publichealthaihandbook.com/future/policy.html" target="_blank" rel="noopener noreferrer nofollow">https://publichealthaihandbook.com/future/policy.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Policy and Governance in HealthcareJan 6, 2026 — The EU AI Act classifies medical AI as high-risk. FDA has cleared over 1000 AI device...</p></details>
+   Link:<a href="https://publichealthaihandbook.com/future/policy.html" target="_blank" rel="noopener noreferrer nofollow">https://publichealthaihandbook.com/future/policy.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI Policy and Governance in HealthcareJan 6, 2026 — The EU AI Act classifies medical AI as high-risk. FDA has cleared over 1000 AI device...</p></details>
 
 ### Additional References
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: paho.org  
-   Link: <a href="https://www.paho.org/sites/default/files/2024-08/ai-ra-tool-rev-final-eng-aug-1_0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.paho.org/sites/default/files/2024-08/ai-ra-tool-rev-final-eng-aug-1_0.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pan American Health OrganizationArtificial Intelligence in Public healthThe assessment presents essential categories, from existing healt...</p></details>
+   Link:<a href="https://www.paho.org/sites/default/files/2024-08/ai-ra-tool-rev-final-eng-aug-1_0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.paho.org/sites/default/files/2024-08/ai-ra-tool-rev-final-eng-aug-1_0.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pan American Health OrganizationArtificial Intelligence in Public healthThe assessment presents essential categories, from existing healt...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: pratiquesensante.odoo.com  
-   Link: <a href="https://pratiquesensante.odoo.com/en/blog/opinions-8/ethics-and-governance-of-artificial-intelligence-for-health-who-recommendations-on-large-ai-models-5873" target="_blank" rel="noopener noreferrer nofollow">https://pratiquesensante.odoo.com/en/blog/opinions-8/ethics-and-governance-of-artificial-intelligence-for-health-who-recommendations-on-large-ai-models-5873</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>WHO...12 hours ago — On an operational level, the document proposes a framework in three phases – development, &#x27;provision&#x27; (deployment b...</p></details>
+   Link:<a href="https://pratiquesensante.odoo.com/en/blog/opinions-8/ethics-and-governance-of-artificial-intelligence-for-health-who-recommendations-on-large-ai-models-5873" target="_blank" rel="noopener noreferrer nofollow">https://pratiquesensante.odoo.com/en/blog/opinions-8/ethics-and-governance-of-artificial-intelligence-for-health-who-recommendations-on-large-ai-models-5873</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WHO...12 hours ago — On an operational level, the document proposes a framework in three phases – development, &#x27;provision&#x27; (deployment b...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: integratedcarejournal.com  
-   Link: <a href="https://integratedcarejournal.com/evaluation-of-nhs-artificial-intelligence-lab-identifies-lessons-to-shape-ais-future-in-health-and-care/" target="_blank" rel="noopener noreferrer nofollow">https://integratedcarejournal.com/evaluation-of-nhs-artificial-intelligence-lab-identifies-lessons-to-shape-ais-future-in-health-and-care/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluation of NHS Artificial Intelligence Lab identifies...29 Apr 2025 — The report offers assessment of the NHS AI Lab&#x27;s achievements a...</p></details>
+   Link:<a href="https://integratedcarejournal.com/evaluation-of-nhs-artificial-intelligence-lab-identifies-lessons-to-shape-ais-future-in-health-and-care/" target="_blank" rel="noopener noreferrer nofollow">https://integratedcarejournal.com/evaluation-of-nhs-artificial-intelligence-lab-identifies-lessons-to-shape-ais-future-in-health-and-care/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluation of NHS Artificial Intelligence Lab identifies...29 Apr 2025 — The report offers assessment of the NHS AI Lab&#x27;s achievements a...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: GOV.UK  
-   Link: <a href="https://www.gov.uk/government/news/thousands-of-patients-to-benefit-from-quicker-diagnosis-more-accurate-tests-from-ground-breaking-ai-research" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/thousands-of-patients-to-benefit-from-quicker-diagnosis-more-accurate-tests-from-ground-breaking-ai-research</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of patients to benefit from quicker diagnosis...3 Mar 2023 — Tens of thousands of patients across the country could benefit from quicker...</p></details>
+   Link:<a href="https://www.gov.uk/government/news/thousands-of-patients-to-benefit-from-quicker-diagnosis-more-accurate-tests-from-ground-breaking-ai-research" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/thousands-of-patients-to-benefit-from-quicker-diagnosis-more-accurate-tests-from-ground-breaking-ai-research</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of patients to benefit from quicker diagnosis...3 Mar 2023 — Tens of thousands of patients across the country could benefit from quicker...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: privacyinternational.org  
    Title: our analysis who report ethics and governance artificial intelligence health  
-   Link: <a href="https://privacyinternational.org/news-analysis/4594/our-analysis-who-report-ethics-and-governance-artificial-intelligence-health" target="_blank" rel="noopener noreferrer nofollow">https://privacyinternational.org/news-analysis/4594/our-analysis-who-report-ethics-and-governance-artificial-intelligence-health</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Our analysis of the WHO report on Ethics and Governance...Jul 20, 2021 — Last month, the World Health Organization published its guidanc...</p></details>
+   Link:<a href="https://privacyinternational.org/news-analysis/4594/our-analysis-who-report-ethics-and-governance-artificial-intelligence-health" target="_blank" rel="noopener noreferrer nofollow">https://privacyinternational.org/news-analysis/4594/our-analysis-who-report-ethics-and-governance-artificial-intelligence-health</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Our analysis of the WHO report on Ethics and Governance...Jul 20, 2021 — Last month, the World Health Organization published its guidanc...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: usher.ed.ac.uk  
    Title: independent evaluation highlights impact and future potential of nhs ai lab  
-   Link: <a href="https://usher.ed.ac.uk/news-events/news/independent-evaluation-highlights-impact-and-future-potential-of-nhs-ai-lab" target="_blank" rel="noopener noreferrer nofollow">https://usher.ed.ac.uk/news-events/news/independent-evaluation-highlights-impact-and-future-potential-of-nhs-ai-lab</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>evaluation highlights impact and future potential...5 May 2025 — This evaluation provides real-world empirical evidence and learning tha...</p></details>
+   Link:<a href="https://usher.ed.ac.uk/news-events/news/independent-evaluation-highlights-impact-and-future-potential-of-nhs-ai-lab" target="_blank" rel="noopener noreferrer nofollow">https://usher.ed.ac.uk/news-events/news/independent-evaluation-highlights-impact-and-future-potential-of-nhs-ai-lab</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>evaluation highlights impact and future potential...5 May 2025 — This evaluation provides real-world empirical evidence and learning tha...</p></details>
    Published: May 2025  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: bma.org.uk  
-   Link: <a href="https://www.bma.org.uk/media/njgfbmnn/bma-principles-for-artificial-intelligence-ai-and-its-application-in-healthcare.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bma.org.uk/media/njgfbmnn/bma-principles-for-artificial-intelligence-ai-and-its-application-in-healthcare.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ttings and continuously monitored to ensure it improves care quality and job satisfaction...Read more...</p></details>
+   Link:<a href="https://www.bma.org.uk/media/njgfbmnn/bma-principles-for-artificial-intelligence-ai-and-its-application-in-healthcare.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bma.org.uk/media/njgfbmnn/bma-principles-for-artificial-intelligence-ai-and-its-application-in-healthcare.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ttings and continuously monitored to ensure it improves care quality and job satisfaction...Read more...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: GOV.UK  
    Title: world first ai system to warn of nhs patient safety concerns  
-   Link: <a href="https://www.gov.uk/government/news/world-first-ai-system-to-warn-of-nhs-patient-safety-concerns" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/world-first-ai-system-to-warn-of-nhs-patient-safety-concerns</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>www.gov.ukWorld-first AI system to warn of NHS patient safety concerns30 Jun 2025 — Pioneering AI technology will be developed to scan NH...</p></details>
+   Link:<a href="https://www.gov.uk/government/news/world-first-ai-system-to-warn-of-nhs-patient-safety-concerns" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/world-first-ai-system-to-warn-of-nhs-patient-safety-concerns</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>www.gov.ukWorld-first AI system to warn of NHS patient safety concerns30 Jun 2025 — Pioneering AI technology will be developed to scan NH...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: GOV.UK  
    Title: guidance on the impact evaluation of ai interventions html  
-   Link: <a href="https://www.gov.uk/government/publications/the-magenta-book/guidance-on-the-impact-evaluation-of-ai-interventions-html" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/the-magenta-book/guidance-on-the-impact-evaluation-of-ai-interventions-html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>on the Impact Evaluation of AI Interventions...9 Jul 2025 — This guidance outlines key principles of best practice in carrying out a rob...</p></details>
+   Link:<a href="https://www.gov.uk/government/publications/the-magenta-book/guidance-on-the-impact-evaluation-of-ai-interventions-html" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/the-magenta-book/guidance-on-the-impact-evaluation-of-ai-interventions-html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>on the Impact Evaluation of AI Interventions...9 Jul 2025 — This guidance outlines key principles of best practice in carrying out a rob...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: censinet.com  
-   Link: <a href="https://censinet.com/perspectives/patient-first-ethical-ai-implementation-clinical-care" target="_blank" rel="noopener noreferrer nofollow">https://censinet.com/perspectives/patient-first-ethical-ai-implementation-clinical-care</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>signed and implemented to prioritize fairness, transparency, and patient safety.Read more...</p></details>
+   Link:<a href="https://censinet.com/perspectives/patient-first-ethical-ai-implementation-clinical-care" target="_blank" rel="noopener noreferrer nofollow">https://censinet.com/perspectives/patient-first-ethical-ai-implementation-clinical-care</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>signed and implemented to prioritize fairness, transparency, and patient safety.Read more...</p></details>

@@ -272,7 +272,7 @@ image: /assets/images/AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0_grid_connecti_1d
 The shortage of large electrical transformers has become one of the least visible but most important constraints on the expansion of AI infrastructure. New AI data centres are often discussed in terms of advanced chips, massive capital spending and electricity demand. Yet many projects face a more basic problem: they cannot obtain the equipment needed to connect large amounts of [power]({{ 'power/' | relative_url }}) to the site.
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0_grid_connecti_1da48c_transformer_s_67f68f-Illustration-1-dark.svg" | relative_url }}" alt="Transformers illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0_grid_connecti_1da48c_transformer_s_67f68f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0_grid_connecti_1da48c_transformer_s_67f68f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This matters because the most ambitious visions of AI abundance depend on vast increases in computing capacity. If AI is to accelerate scientific research, medicine, engineering, [education]({{ 'education/' | relative_url }}) and [robotics]({{ 'robotics/' | relative_url }}) at civilisational scale, then the physical systems that deliver electricity must expand alongside computation. Increasingly, one of the slowest parts of that expansion is not software, chips or even power generation. It is the transformer industry: a specialised manufacturing sector with long lead times, limited production capacity and growing global demand. <span class="citation-chip-wrap"><a class="citation-chip" href="https://iea.blob.core.windows.net/assets/3179f7f8-01f6-4dd6-bffa-c9f7b73f1dc9/KeyQuestionsonEnergyandAI.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iea.blob.core.windows.net">[IEA Blob Storage]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iea.blob.core.windows.net</span><span class="citation-popover-title">IEA Blob Storage Key Questions on Energy and AI</span><span class="citation-popover-snippet">IEA Blob StorageKey Questions on Energy and AI - Microsoft.NETApril 23, 2026 — 2 Apr 2026 — In the IEA&#x27;s 2025 report Energy and AI, we h...</span><span class="citation-popover-meta">Published: April 23, 2026</span></span></span>
+This matters because the most ambitious visions of AI abundance depend on vast increases in computing capacity. If AI is to accelerate scientific research, medicine, engineering, [education]({{ 'education/' | relative_url }}) and [robotics]({{ 'robotics/' | relative_url }}) at civilisational scale, then the physical systems that deliver electricity must expand alongside computation. Increasingly, one of the slowest parts of that expansion is not software, chips or even power generation. It is the transformer industry: a specialised manufacturing sector with long lead times, limited production capacity and growing global demand.<span class="citation-chip-wrap"><a class="citation-chip" href="https://iea.blob.core.windows.net/assets/3179f7f8-01f6-4dd6-bffa-c9f7b73f1dc9/KeyQuestionsonEnergyandAI.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iea.blob.core.windows.net">[IEA Blob Storage]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iea.blob.core.windows.net</span><span class="citation-popover-title">IEA Blob Storage Key Questions on Energy and AI</span><span class="citation-popover-snippet">IEA Blob StorageKey Questions on Energy and AI - Microsoft.NETApril 23, 2026 — 2 Apr 2026 — In the IEA&#x27;s 2025 report Energy and AI, we h...</span><span class="citation-popover-meta">Published: April 23, 2026</span></span></span>
 
 In practical terms, a transformer shortage means a data centre can be financed, permitted and partly built, yet still wait years for the equipment required to energise the site. That turns transformers into a physical choke point for AI growth.
 
@@ -280,23 +280,23 @@ In practical terms, a transformer shortage means a data centre can be financed, 
 
 A transformer is a device that changes voltage levels so electricity can move efficiently through the grid and then be delivered safely to customers. Modern power systems depend on them at every stage, from generation plants to transmission networks, substations and large industrial facilities.
 
-The transformers creating the biggest bottleneck for AI are not the small units mounted on local streets. They are large power transformers and generator step-up transformers, sometimes weighing hundreds of tonnes and built to highly specific technical requirements. Unlike many mass-produced industrial products, these machines are often customised for particular voltage levels, grid conditions and site designs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.energy.gov/sites/default/files/2024-10/EXEC-2022-001242%20-%20Large%20Power%20Transformer%20Resilience%20Report%20signed%20by%20Secretary%20Granholm%20on%207-10-24.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: energy.gov">[The Department of Energy&#x27;s Energy.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">energy.gov</span><span class="citation-popover-title">The Department of Energy&#x27;s Energy.gov Large Power Transformer Resilience</span><span class="citation-popover-snippet">The Department of Energy&#x27;s Energy.govLarge Power Transformer ResilienceOctober 7, 2024 — 5 Jul 2024 — The susceptibility of LPTs to emerg...</span><span class="citation-popover-meta">Published: October 7, 2024</span></span></span>
+The transformers creating the biggest bottleneck for AI are not the small units mounted on local streets. They are large power transformers and generator step-up transformers, sometimes weighing hundreds of tonnes and built to highly specific technical requirements. Unlike many mass-produced industrial products, these machines are often customised for particular voltage levels, grid conditions and site designs.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.energy.gov/sites/default/files/2024-10/EXEC-2022-001242%20-%20Large%20Power%20Transformer%20Resilience%20Report%20signed%20by%20Secretary%20Granholm%20on%207-10-24.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: energy.gov">[The Department of Energy&#x27;s Energy.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">energy.gov</span><span class="citation-popover-title">The Department of Energy&#x27;s Energy.gov Large Power Transformer Resilience</span><span class="citation-popover-snippet">The Department of Energy&#x27;s Energy.govLarge Power Transformer ResilienceOctober 7, 2024 — 5 Jul 2024 — The susceptibility of LPTs to emerg...</span><span class="citation-popover-meta">Published: October 7, 2024</span></span></span>
 
 Several factors have pushed lead times dramatically higher:
 
-* Demand from data centres has surged alongside AI expansion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.iea.org/reports/energy-and-ai/energy-demand-from-ai" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iea.org">[iea.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iea.org</span><span class="citation-popover-title">energy demand from ai</span><span class="citation-popover-snippet">Energy demand from AIFrom 2024 to 2030, data centre electricity consumption grows by around 15% per year, more than four times faster...</span></span></span>
+* Demand from data centres has surged alongside AI expansion.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.iea.org/reports/energy-and-ai/energy-demand-from-ai" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iea.org">[iea.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iea.org</span><span class="citation-popover-title">energy demand from ai</span><span class="citation-popover-snippet">Energy demand from AIFrom 2024 to 2030, data centre electricity consumption grows by around 15% per year, more than four times faster...</span></span></span>
 * Utilities are simultaneously upgrading ageing grids.
 * Renewable-[energy]({{ 'energy/' | relative_url }}) projects require additional transmission equipment.
 * Electrification of transport and industry is increasing power-system investment.
-* Manufacturing capacity takes years to expand because factories, specialised tooling and skilled labour are themselves scarce. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/business/energy/us-power-transformer-buyers-scramble-imports-factory-slots--reeii-2026-05-11/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">US power transformer buyers scramble for imports, factory slots The U.S</span><span class="citation-popover-snippet">is facing a severe shortage of power transformers, which is hindering the expansion and modernization of its electric grid. Driven by a s...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/business/energy/grid-equipment-makers-invest-us-ease-supply-shortage--reeii-2025-12-02/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Grid equipment makers invest in US to ease supply shortage Due to a surge in U.S</span><span class="citation-popover-snippet">demand for power transmission equipment, major grid component manufacturers are heavily investing in domestic production to address suppl...</span></span></span>
+* Manufacturing capacity takes years to expand because factories, specialised tooling and skilled labour are themselves scarce.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/business/energy/us-power-transformer-buyers-scramble-imports-factory-slots--reeii-2026-05-11/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">US power transformer buyers scramble for imports, factory slots The U.S</span><span class="citation-popover-snippet">is facing a severe shortage of power transformers, which is hindering the expansion and modernization of its electric grid. Driven by a s...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/business/energy/grid-equipment-makers-invest-us-ease-supply-shortage--reeii-2025-12-02/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Grid equipment makers invest in US to ease supply shortage Due to a surge in U.S</span><span class="citation-popover-snippet">demand for power transmission equipment, major grid component manufacturers are heavily investing in domestic production to address suppl...</span></span></span>
 
 The result is an industry under strain from multiple directions at once.
 
-The US National Infrastructure Advisory Council reported lead times ranging from roughly 80 to 210 weeks for major transformers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cisa.gov/sites/default/files/2024-09/NIAC_Addressing%20the%20Critical%20Shortage%20of%20Power%20Transformers%20to%20Ensure%20Reliability%20of%20the%20U.S.%20Grid_Report_06112024_508c_pdf_0.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cisa.gov">[CISA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cisa.gov</span><span class="citation-popover-snippet">Addressing the Critical Shortage of Power Transformers to...Large transformers, both substation power and generator step-up transfor...</span></span></span>
+The US National Infrastructure Advisory Council reported lead times ranging from roughly 80 to 210 weeks for major transformers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cisa.gov/sites/default/files/2024-09/NIAC_Addressing%20the%20Critical%20Shortage%20of%20Power%20Transformers%20to%20Ensure%20Reliability%20of%20the%20U.S.%20Grid_Report_06112024_508c_pdf_0.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cisa.gov">[CISA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cisa.gov</span><span class="citation-popover-snippet">Addressing the Critical Shortage of Power Transformers to...Large transformers, both substation power and generator step-up transfor...</span></span></span>
 
-Industry reporting shows that equipment which might once have been delivered within months can now require waits of two, three or even four years. Wood Mackenzie data cited by Reuters shows average delivery times around 128 weeks for large power transformers and roughly 143 weeks for generator step-up units. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/business/energy/us-power-transformer-buyers-scramble-imports-factory-slots--reeii-2026-05-11/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">US power transformer buyers scramble for imports, factory slots The U.S</span><span class="citation-popover-snippet">is facing a severe shortage of power transformers, which is hindering the expansion and modernization of its electric grid. Driven by a s...</span></span></span>
+Industry reporting shows that equipment which might once have been delivered within months can now require waits of two, three or even four years. Wood Mackenzie data cited by Reuters shows average delivery times around 128 weeks for large power transformers and roughly 143 weeks for generator step-up units.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/business/energy/us-power-transformer-buyers-scramble-imports-factory-slots--reeii-2026-05-11/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">US power transformer buyers scramble for imports, factory slots The U.S</span><span class="citation-popover-snippet">is facing a severe shortage of power transformers, which is hindering the expansion and modernization of its electric grid. Driven by a s...</span></span></span>
 
-This is unusually important because transformer manufacturing cannot be expanded overnight. New facilities require specialised steel-processing equipment, testing infrastructure, engineering expertise and long supplier chains for copper, electrical steel, insulation materials and high-voltage components. Hitachi Energy, the world's largest transformer manufacturer, has warned that building additional capacity is itself a multi-year process. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ft.com/content/a0fa2e61-b684-42b7-bd12-6b9d7c28285c" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ft.com">[Financial Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ft.com</span><span class="citation-popover-snippet">CEO Andreas Schierenbeck stresses the difficulty in swiftly increasing production capacity, which could delay critical infrastructure pro...</span></span></span>
+This is unusually important because transformer manufacturing cannot be expanded overnight. New facilities require specialised steel-processing equipment, testing infrastructure, engineering expertise and long supplier chains for copper, electrical steel, insulation materials and high-voltage components. Hitachi Energy, the world's largest transformer manufacturer, has warned that building additional capacity is itself a multi-year process.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ft.com/content/a0fa2e61-b684-42b7-bd12-6b9d7c28285c" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ft.com">[Financial Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ft.com</span><span class="citation-popover-snippet">CEO Andreas Schierenbeck stresses the difficulty in swiftly increasing production capacity, which could delay critical infrastructure pro...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/r473fEO-ojg" title="OpenAI&#x27;s Absurd Plan to Build a $25B Data Center in Argentina" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=r473fEO-ojg" target="_blank" rel="noopener noreferrer">OpenAI&#x27;s Absurd Plan to Build a $25B Data Center in Argentina</a></p><p class="youtube-embed-meta">Channel: Slidebean &middot; Views: 145.4K &middot; Uploaded: December 2025 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=r473fEO-ojg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=r473fEO-ojg">Open on YouTube</a></p></div></div></div>
 
@@ -304,13 +304,13 @@ This is unusually important because transformer manufacturing cannot be expanded
 
 A common assumption is that the critical path for AI infrastructure runs through chip fabrication. In reality, power equipment can become the slower constraint.
 
-A hyperscale AI campus may require hundreds of megawatts of electricity, with some proposed developments approaching or exceeding gigawatt scale. Supplying that power requires transformers both inside the facility and throughout the surrounding grid infrastructure. If even one key component is unavailable, commissioning can be delayed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://iea.blob.core.windows.net/assets/3179f7f8-01f6-4dd6-bffa-c9f7b73f1dc9/KeyQuestionsonEnergyandAI.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iea.blob.core.windows.net">[IEA Blob Storage]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iea.blob.core.windows.net</span><span class="citation-popover-title">IEA Blob Storage Key Questions on Energy and AI</span><span class="citation-popover-snippet">IEA Blob StorageKey Questions on Energy and AI - Microsoft.NETApril 23, 2026 — 2 Apr 2026 — In the IEA&#x27;s 2025 report Energy and AI, we h...</span><span class="citation-popover-meta">Published: April 23, 2026</span></span></span>
+A hyperscale AI campus may require hundreds of megawatts of electricity, with some proposed developments approaching or exceeding gigawatt scale. Supplying that power requires transformers both inside the facility and throughout the surrounding grid infrastructure. If even one key component is unavailable, commissioning can be delayed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://iea.blob.core.windows.net/assets/3179f7f8-01f6-4dd6-bffa-c9f7b73f1dc9/KeyQuestionsonEnergyandAI.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iea.blob.core.windows.net">[IEA Blob Storage]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iea.blob.core.windows.net</span><span class="citation-popover-title">IEA Blob Storage Key Questions on Energy and AI</span><span class="citation-popover-snippet">IEA Blob StorageKey Questions on Energy and AI - Microsoft.NETApril 23, 2026 — 2 Apr 2026 — In the IEA&#x27;s 2025 report Energy and AI, we h...</span><span class="citation-popover-meta">Published: April 23, 2026</span></span></span>
 
 This creates a mismatch between the technology industry and the electrical-equipment industry.
 
 AI companies often operate on timelines measured in quarters. Transformer manufacturers operate on timelines measured in years.
 
-Financially, this changes project planning. Electrical infrastructure may represent a relatively small share of total data-centre spending, but it can determine whether the entire facility opens on schedule. Bloomberg reporting cited by multiple industry sources suggests that shortages of transformers, switchgear and related equipment have become serious enough to delay a significant share of planned US data-centre capacity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tomshardware.com/tech-industry/artificial-intelligence/half-of-planned-us-data-center-builds-have-been-delayed-or-canceled-growth-limited-by-shortages-of-power-infrastructure-and-parts-from-china-the-ai-build-out-flips-the-breakers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tomshardware.com">[Tom&#x27;s Hardware]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tomshardware.com</span><span class="citation-popover-snippet">data center developments are expected to be delayed or canceled due to severe shortages in power infrastructure components, despite over...</span></span></span>
+Financially, this changes project planning. Electrical infrastructure may represent a relatively small share of total data-centre spending, but it can determine whether the entire facility opens on schedule. Bloomberg reporting cited by multiple industry sources suggests that shortages of transformers, switchgear and related equipment have become serious enough to delay a significant share of planned US data-centre capacity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tomshardware.com/tech-industry/artificial-intelligence/half-of-planned-us-data-center-builds-have-been-delayed-or-canceled-growth-limited-by-shortages-of-power-infrastructure-and-parts-from-china-the-ai-build-out-flips-the-breakers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tomshardware.com">[Tom&#x27;s Hardware]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tomshardware.com</span><span class="citation-popover-snippet">data center developments are expected to be delayed or canceled due to severe shortages in power infrastructure components, despite over...</span></span></span>
 
 The consequence is that AI expansion increasingly depends on supply chains that were not originally built for a race to deploy civilisation-scale computing infrastructure.
 
@@ -331,11 +331,11 @@ This creates a striking asymmetry:
 * AI chips become obsolete quickly.
 * Transformers often remain in service for decades.
 * AI companies compete on software and compute.
-* All of them depend on a comparatively small global transformer industry. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ft.com/content/a0fa2e61-b684-42b7-bd12-6b9d7c28285c" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ft.com">[Financial Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ft.com</span><span class="citation-popover-snippet">CEO Andreas Schierenbeck stresses the difficulty in swiftly increasing production capacity, which could delay critical infrastructure pro...</span></span></span>
+* All of them depend on a comparatively small global transformer industry.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ft.com/content/a0fa2e61-b684-42b7-bd12-6b9d7c28285c" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ft.com">[Financial Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ft.com</span><span class="citation-popover-snippet">CEO Andreas Schierenbeck stresses the difficulty in swiftly increasing production capacity, which could delay critical infrastructure pro...</span></span></span>
 
 </div>
 
-The imbalance has produced behaviours more commonly associated with scarce strategic resources. Developers increasingly compete for factory production slots, place orders years in advance and search globally for available capacity. Reuters reports that buyers are seeking imports from countries including South Korea and Turkey while attempting to secure manufacturing positions long before projects are completed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/business/energy/grid-equipment-makers-invest-us-ease-supply-shortage--reeii-2025-12-02/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Grid equipment makers invest in US to ease supply shortage Due to a surge in U.S</span><span class="citation-popover-snippet">demand for power transmission equipment, major grid component manufacturers are heavily investing in domestic production to address suppl...</span></span></span>
+The imbalance has produced behaviours more commonly associated with scarce strategic resources. Developers increasingly compete for factory production slots, place orders years in advance and search globally for available capacity. Reuters reports that buyers are seeking imports from countries including South Korea and Turkey while attempting to secure manufacturing positions long before projects are completed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/business/energy/grid-equipment-makers-invest-us-ease-supply-shortage--reeii-2025-12-02/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Grid equipment makers invest in US to ease supply shortage Due to a surge in U.S</span><span class="citation-popover-snippet">demand for power transmission equipment, major grid component manufacturers are heavily investing in domestic production to address suppl...</span></span></span>
 
 In effect, transformer manufacturing capacity has become a strategic asset in the AI build-out.
 
@@ -350,13 +350,13 @@ The industry was already facing pressure from several overlapping transitions:
 * Expansion of renewable-energy projects.
 * Electrification of transport.
 * Industrial reshoring and factory construction.
-* Rising electricity demand in some regions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://docs.nlr.gov/docs/fy24osti/87653.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: docs.nlr.gov">[NLR Docs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">docs.nlr.gov</span><span class="citation-popover-title">Docs Major Drivers of Long-Term Distribution Transformer Demand</span><span class="citation-popover-snippet">NLR DocsMajor Drivers of Long-Term Distribution Transformer DemandFebruary 23, 2024 — Utilities are experiencing extended lead times for...</span><span class="citation-popover-meta">Published: February 23, 2024</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/business/energy/grid-equipment-makers-invest-us-ease-supply-shortage--reeii-2025-12-02/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Grid equipment makers invest in US to ease supply shortage Due to a surge in U.S</span><span class="citation-popover-snippet">demand for power transmission equipment, major grid component manufacturers are heavily investing in domestic production to address suppl...</span></span></span>
+* Rising electricity demand in some regions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://docs.nlr.gov/docs/fy24osti/87653.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: docs.nlr.gov">[NLR Docs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">docs.nlr.gov</span><span class="citation-popover-title">Docs Major Drivers of Long-Term Distribution Transformer Demand</span><span class="citation-popover-snippet">NLR DocsMajor Drivers of Long-Term Distribution Transformer DemandFebruary 23, 2024 — Utilities are experiencing extended lead times for...</span><span class="citation-popover-meta">Published: February 23, 2024</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/business/energy/grid-equipment-makers-invest-us-ease-supply-shortage--reeii-2025-12-02/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Grid equipment makers invest in US to ease supply shortage Due to a surge in U.S</span><span class="citation-popover-snippet">demand for power transmission equipment, major grid component manufacturers are heavily investing in domestic production to address suppl...</span></span></span>
 
 AI arrives on top of these trends rather than replacing them.
 
 This helps explain why shortages have proved persistent. Even if AI demand slowed temporarily, utilities and energy developers would still require enormous quantities of electrical equipment. Conversely, even if transformer production grows, AI demand may continue growing rapidly enough to absorb much of the new capacity.
 
-The International Energy Agency projects that global data-centre electricity consumption could roughly double by 2030, while electricity demand from AI-focused facilities grows even faster. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.iea.org/reports/energy-and-ai/energy-demand-from-ai" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iea.org">[IEA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iea.org</span><span class="citation-popover-title">energy demand from ai</span><span class="citation-popover-snippet">Energy demand from AIFrom 2024 to 2030, data centre electricity consumption grows by around 15% per year, more than four times faster...</span></span></span>
+The International Energy Agency projects that global data-centre electricity consumption could roughly double by 2030, while electricity demand from AI-focused facilities grows even faster.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.iea.org/reports/energy-and-ai/energy-demand-from-ai" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iea.org">[IEA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iea.org</span><span class="citation-popover-title">energy demand from ai</span><span class="citation-popover-snippet">Energy demand from AIFrom 2024 to 2030, data centre electricity consumption grows by around 15% per year, more than four times faster...</span></span></span>
 
 That does not mean transformers become the only bottleneck. Land, transmission lines, substations, permitting and generation capacity all matter as well. But transformer shortages are notable because they sit at the intersection of many constraints simultaneously.
 
@@ -366,11 +366,11 @@ That does not mean transformers become the only bottleneck. Land, transmission l
 
 Developers are increasingly experimenting with ways to reduce dependence on long equipment queues.
 
-One response is simple pre-purchasing. Rather than waiting until construction is advanced, companies order transformers years before they are required. This can reduce schedule risk but favours large firms with substantial capital reserves. Smaller developers may struggle to compete with hyperscalers capable of reserving manufacturing capacity far in advance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/business/energy/grid-equipment-makers-invest-us-ease-supply-shortage--reeii-2025-12-02/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Grid equipment makers invest in US to ease supply shortage Due to a surge in U.S</span><span class="citation-popover-snippet">demand for power transmission equipment, major grid component manufacturers are heavily investing in domestic production to address suppl...</span></span></span>
+One response is simple pre-purchasing. Rather than waiting until construction is advanced, companies order transformers years before they are required. This can reduce schedule risk but favours large firms with substantial capital reserves. Smaller developers may struggle to compete with hyperscalers capable of reserving manufacturing capacity far in advance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/business/energy/grid-equipment-makers-invest-us-ease-supply-shortage--reeii-2025-12-02/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Grid equipment makers invest in US to ease supply shortage Due to a surge in U.S</span><span class="citation-popover-snippet">demand for power transmission equipment, major grid component manufacturers are heavily investing in domestic production to address suppl...</span></span></span>
 
 Another approach is standardisation.
 
-Part of the challenge is that many transformers are highly customised. Industry observers note that the sector contains an enormous variety of configurations, making manufacturing less scalable than it might otherwise be. More standard designs could allow longer production runs, simpler inventories and faster delivery. <span class="citation-chip-wrap"><a class="citation-chip" href="https://northfieldtransformers.com/blog/data-center-expansion-reshaping-transformer-demand/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: northfieldtransformers.com">[Northfield Transformers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">northfieldtransformers.com</span><span class="citation-popover-title">Northfield Transformers Data Center Expansion is Reshaping Transformer Demand</span><span class="citation-popover-snippet">Northfield TransformersData Center Expansion is Reshaping Transformer Demand...August 1, 2025 — 1 Aug 2025 — According to Wood Mackenzie...</span><span class="citation-popover-meta">Published: August 1, 2025</span></span></span>
+Part of the challenge is that many transformers are highly customised. Industry observers note that the sector contains an enormous variety of configurations, making manufacturing less scalable than it might otherwise be. More standard designs could allow longer production runs, simpler inventories and faster delivery.<span class="citation-chip-wrap"><a class="citation-chip" href="https://northfieldtransformers.com/blog/data-center-expansion-reshaping-transformer-demand/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: northfieldtransformers.com">[Northfield Transformers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">northfieldtransformers.com</span><span class="citation-popover-title">Northfield Transformers Data Center Expansion is Reshaping Transformer Demand</span><span class="citation-popover-snippet">Northfield TransformersData Center Expansion is Reshaping Transformer Demand...August 1, 2025 — 1 Aug 2025 — According to Wood Mackenzie...</span><span class="citation-popover-meta">Published: August 1, 2025</span></span></span>
 
 Some companies are also exploring:
 
@@ -380,7 +380,7 @@ Some companies are also exploring:
 * Refurbishment of older transformer assets.
 * Greater use of imported equipment.
 * Long-term supply agreements with manufacturers.
-* Co-development of grid infrastructure alongside utilities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/business/energy/grid-equipment-makers-invest-us-ease-supply-shortage--reeii-2025-12-02/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Grid equipment makers invest in US to ease supply shortage Due to a surge in U.S</span><span class="citation-popover-snippet">demand for power transmission equipment, major grid component manufacturers are heavily investing in domestic production to address suppl...</span></span></span>
+* Co-development of grid infrastructure alongside utilities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/business/energy/grid-equipment-makers-invest-us-ease-supply-shortage--reeii-2025-12-02/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Grid equipment makers invest in US to ease supply shortage Due to a surge in U.S</span><span class="citation-popover-snippet">demand for power transmission equipment, major grid component manufacturers are heavily investing in domestic production to address suppl...</span></span></span>
 
 </div>
 
@@ -397,197 +397,197 @@ That does not invalidate the abundance case. In some ways it reinforces it. If A
 
 The key point is that intelligence alone is not enough. A future in which AI helps humanity achieve far greater prosperity, scientific capability and long-term flourishing requires expansion of the physical world as well as the digital one.
 
-For now, one of the clearest examples is surprisingly mundane: a shortage of giant transformers that can take years to build, yet determine whether the next generation of AI infrastructure can actually switch on. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cisa.gov/sites/default/files/2024-09/NIAC_Addressing%20the%20Critical%20Shortage%20of%20Power%20Transformers%20to%20Ensure%20Reliability%20of%20the%20U.S.%20Grid_Report_06112024_508c_pdf_0.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cisa.gov">[CISA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cisa.gov</span><span class="citation-popover-snippet">Addressing the Critical Shortage of Power Transformers to...Large transformers, both substation power and generator step-up transfor...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.energy.gov/sites/default/files/2024-10/EXEC-2022-001242%20-%20Large%20Power%20Transformer%20Resilience%20Report%20signed%20by%20Secretary%20Granholm%20on%207-10-24.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: energy.gov">[The Department of Energy&#x27;s Energy.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">energy.gov</span><span class="citation-popover-title">The Department of Energy&#x27;s Energy.gov Large Power Transformer Resilience</span><span class="citation-popover-snippet">The Department of Energy&#x27;s Energy.govLarge Power Transformer ResilienceOctober 7, 2024 — 5 Jul 2024 — The susceptibility of LPTs to emerg...</span><span class="citation-popover-meta">Published: October 7, 2024</span></span></span>
+For now, one of the clearest examples is surprisingly mundane: a shortage of giant transformers that can take years to build, yet determine whether the next generation of AI infrastructure can actually switch on.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cisa.gov/sites/default/files/2024-09/NIAC_Addressing%20the%20Critical%20Shortage%20of%20Power%20Transformers%20to%20Ensure%20Reliability%20of%20the%20U.S.%20Grid_Report_06112024_508c_pdf_0.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cisa.gov">[CISA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cisa.gov</span><span class="citation-popover-snippet">Addressing the Critical Shortage of Power Transformers to...Large transformers, both substation power and generator step-up transfor...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.energy.gov/sites/default/files/2024-10/EXEC-2022-001242%20-%20Large%20Power%20Transformer%20Resilience%20Report%20signed%20by%20Secretary%20Granholm%20on%207-10-24.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: energy.gov">[The Department of Energy&#x27;s Energy.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">energy.gov</span><span class="citation-popover-title">The Department of Energy&#x27;s Energy.gov Large Power Transformer Resilience</span><span class="citation-popover-snippet">The Department of Energy&#x27;s Energy.govLarge Power Transformer ResilienceOctober 7, 2024 — 5 Jul 2024 — The susceptibility of LPTs to emerg...</span><span class="citation-popover-meta">Published: October 7, 2024</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The giant hardware bottleneck behind AI power. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The giant hardware bottleneck behind AI power. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Material+World+by+Ed+Conway&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Material World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_olEEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Material World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Material+World+by+Ed+Conway&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Material World">Material World</a>
-        </h4>
-        <p class="fr-book-author">By Ed Conway</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Material+World+by+Ed+Conway&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Material World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_olEEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Material World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Material+World+by+Ed+Conway&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Material World">Material World</a>
+</h4>
+<p class="fr-book-author">By Ed Conway</p>
         
-        <p class="fr-book-desc">Best broad fit for transformer shortages because it explains hidden industrial supply-chain constraints.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Material+World+by+Ed+Conway&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Best broad fit for transformer shortages because it explains hidden industrial supply-chain constraints.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Material+World+by+Ed+Conway&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Grid+by+Gretchen+Bakke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Grid on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=u5AyEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Grid" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Grid+by+Gretchen+Bakke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Grid">The Grid</a>
-        </h4>
-        <p class="fr-book-author">By Gretchen Bakke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Grid+by+Gretchen+Bakke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Grid on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=u5AyEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Grid" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Grid+by+Gretchen+Bakke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Grid">The Grid</a>
+</h4>
+<p class="fr-book-author">By Gretchen Bakke</p>
         
-        <p class="fr-book-desc">Explains why transformers and substations are essential parts of power delivery rather than minor components.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Grid+by+Gretchen+Bakke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why transformers and substations are essential parts of power delivery rather than minor components.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Grid+by+Gretchen+Bakke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+the+World+Really+Works+by+Vaclav+Smil&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How the World Really Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eTotEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How the World Really Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+the+World+Really+Works+by+Vaclav+Smil&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How the World Really Works">How the World Really Works</a>
-        </h4>
-        <p class="fr-book-author">By Vaclav Smil</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+the+World+Really+Works+by+Vaclav+Smil&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How the World Really Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eTotEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How the World Really Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+the+World+Really+Works+by+Vaclav+Smil&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How the World Really Works">How the World Really Works</a>
+</h4>
+<p class="fr-book-author">By Vaclav Smil</p>
         
-        <p class="fr-book-desc">Frames transformer shortages as part of the broader physical constraints on AI abundance.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+the+World+Really+Works+by+Vaclav+Smil&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Frames transformer shortages as part of the broader physical constraints on AI abundance.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+the+World+Really+Works+by+Vaclav+Smil&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Rare+Metals+War+by+Guillaume+Pitron&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Rare Metals War on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=k79fzQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Rare Metals War" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Rare+Metals+War+by+Guillaume+Pitron&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Rare Metals War">The Rare Metals War</a>
-        </h4>
-        <p class="fr-book-author">By Guillaume Pitron</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Rare+Metals+War+by+Guillaume+Pitron&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Rare Metals War on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=k79fzQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Rare Metals War" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Rare+Metals+War+by+Guillaume+Pitron&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Rare Metals War">The Rare Metals War</a>
+</h4>
+<p class="fr-book-author">By Guillaume Pitron</p>
         
-        <p class="fr-book-desc">Connects electrical hardware shortages to mineral supply chains and industrial dependence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Rare+Metals+War+by+Guillaume+Pitron&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Connects electrical hardware shortages to mineral supply chains and industrial dependence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Rare+Metals+War+by+Guillaume+Pitron&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Material+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Material World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Grid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Grid</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+the+World+Really+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How the World Really Works</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Material+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Material World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Grid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Grid</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+the+World+Really+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How the World Really Works</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=power+transformer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-giant-hardware-bottleneck-behind-ai-power-power-transformer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power transformer model" data-ebay-reference="the-giant-hardware-bottleneck-behind-ai-power-power-transformer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Transformer Model Power of the Primes Starscream / Damaged Box"><img src="https://i.ebayimg.com/images/g/m2IAAeSweJZp3SUR/s-l225.jpg" alt="Listing image for Transformer Model Power of the Primes Starscream / Damaged Box" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=power+transformer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-giant-hardware-bottleneck-behind-ai-power-power-transformer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power transformer model" data-ebay-reference="the-giant-hardware-bottleneck-behind-ai-power-power-transformer-model" target="_blank" rel="sponsored noopener noreferrer">Transformer Model Power of the Primes Starscream / Damaged Box</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=power+transformer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-giant-hardware-bottleneck-behind-ai-power-power-transformer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power transformer model" data-ebay-reference="the-giant-hardware-bottleneck-behind-ai-power-power-transformer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for power transformer model">Search <span data-ebay-domain-label>eBay.co.uk</span>: power transformer model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=power+transformer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-giant-hardware-bottleneck-behind-ai-power-power-transformer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power transformer model" data-ebay-reference="the-giant-hardware-bottleneck-behind-ai-power-power-transformer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=power+transformer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-giant-hardware-bottleneck-behind-ai-power-power-transformer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power transformer model" data-ebay-reference="the-giant-hardware-bottleneck-behind-ai-power-power-transformer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Transformer Model Power of the Primes Starscream / Damaged Box"><img src="https://i.ebayimg.com/images/g/m2IAAeSweJZp3SUR/s-l225.jpg" alt="Listing image for Transformer Model Power of the Primes Starscream / Damaged Box" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=power+transformer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-giant-hardware-bottleneck-behind-ai-power-power-transformer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power transformer model" data-ebay-reference="the-giant-hardware-bottleneck-behind-ai-power-power-transformer-model" target="_blank" rel="sponsored noopener noreferrer">Transformer Model Power of the Primes Starscream / Damaged Box</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=power+transformer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-giant-hardware-bottleneck-behind-ai-power-power-transformer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power transformer model" data-ebay-reference="the-giant-hardware-bottleneck-behind-ai-power-power-transformer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for power transformer model">Search<span data-ebay-domain-label>eBay.co.uk</span>: power transformer model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=power+transformer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-giant-hardware-bottleneck-behind-ai-power-power-transformer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power transformer model" data-ebay-reference="the-giant-hardware-bottleneck-behind-ai-power-power-transformer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=power+transformer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-giant-hardware-bottleneck-behind-ai-power-power-transformer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power transformer model" data-ebay-reference="the-giant-hardware-bottleneck-behind-ai-power-power-transformer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LED Driver Electronic Transformer 25-36W Model Power Supply For Ceiling Light"><img src="https://i.ebayimg.com/images/g/FnAAAOSwmAhjPRyo/s-l225.jpg" alt="Listing image for LED Driver Electronic Transformer 25-36W Model Power Supply For Ceiling Light" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=power+transformer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-giant-hardware-bottleneck-behind-ai-power-power-transformer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power transformer model" data-ebay-reference="the-giant-hardware-bottleneck-behind-ai-power-power-transformer-model" target="_blank" rel="sponsored noopener noreferrer">LED Driver Electronic Transformer 25-36W Model Power Supply For Ceiling Light</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=power+transformer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-giant-hardware-bottleneck-behind-ai-power-power-transformer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power transformer model" data-ebay-reference="the-giant-hardware-bottleneck-behind-ai-power-power-transformer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for power transformer model">Search <span data-ebay-domain-label>eBay.co.uk</span>: power transformer model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=power+transformer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-giant-hardware-bottleneck-behind-ai-power-power-transformer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power transformer model" data-ebay-reference="the-giant-hardware-bottleneck-behind-ai-power-power-transformer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=power+transformer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-giant-hardware-bottleneck-behind-ai-power-power-transformer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power transformer model" data-ebay-reference="the-giant-hardware-bottleneck-behind-ai-power-power-transformer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LED Driver Electronic Transformer 25-36W Model Power Supply For Ceiling Light"><img src="https://i.ebayimg.com/images/g/FnAAAOSwmAhjPRyo/s-l225.jpg" alt="Listing image for LED Driver Electronic Transformer 25-36W Model Power Supply For Ceiling Light" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=power+transformer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-giant-hardware-bottleneck-behind-ai-power-power-transformer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power transformer model" data-ebay-reference="the-giant-hardware-bottleneck-behind-ai-power-power-transformer-model" target="_blank" rel="sponsored noopener noreferrer">LED Driver Electronic Transformer 25-36W Model Power Supply For Ceiling Light</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=power+transformer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-giant-hardware-bottleneck-behind-ai-power-power-transformer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power transformer model" data-ebay-reference="the-giant-hardware-bottleneck-behind-ai-power-power-transformer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for power transformer model">Search<span data-ebay-domain-label>eBay.co.uk</span>: power transformer model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=power+transformer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-giant-hardware-bottleneck-behind-ai-power-power-transformer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power transformer model" data-ebay-reference="the-giant-hardware-bottleneck-behind-ai-power-power-transformer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=power+transformer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-giant-hardware-bottleneck-behind-ai-power-power-transformer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power transformer model" data-ebay-reference="the-giant-hardware-bottleneck-behind-ai-power-power-transformer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Transform Your Voltage with This Efficient EI48 Power Transformer Model"><img src="https://i.ebayimg.com/images/g/k1IAAeSw1flpFddC/s-l225.jpg" alt="Listing image for Transform Your Voltage with This Efficient EI48 Power Transformer Model" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=power+transformer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-giant-hardware-bottleneck-behind-ai-power-power-transformer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power transformer model" data-ebay-reference="the-giant-hardware-bottleneck-behind-ai-power-power-transformer-model" target="_blank" rel="sponsored noopener noreferrer">Transform Your Voltage with This Efficient EI48 Power Transformer Model</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=power+transformer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-giant-hardware-bottleneck-behind-ai-power-power-transformer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power transformer model" data-ebay-reference="the-giant-hardware-bottleneck-behind-ai-power-power-transformer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for power transformer model">Search <span data-ebay-domain-label>eBay.co.uk</span>: power transformer model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=power+transformer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-giant-hardware-bottleneck-behind-ai-power-power-transformer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power transformer model" data-ebay-reference="the-giant-hardware-bottleneck-behind-ai-power-power-transformer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=power+transformer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-giant-hardware-bottleneck-behind-ai-power-power-transformer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power transformer model" data-ebay-reference="the-giant-hardware-bottleneck-behind-ai-power-power-transformer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Transform Your Voltage with This Efficient EI48 Power Transformer Model"><img src="https://i.ebayimg.com/images/g/k1IAAeSw1flpFddC/s-l225.jpg" alt="Listing image for Transform Your Voltage with This Efficient EI48 Power Transformer Model" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=power+transformer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-giant-hardware-bottleneck-behind-ai-power-power-transformer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power transformer model" data-ebay-reference="the-giant-hardware-bottleneck-behind-ai-power-power-transformer-model" target="_blank" rel="sponsored noopener noreferrer">Transform Your Voltage with This Efficient EI48 Power Transformer Model</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=power+transformer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-giant-hardware-bottleneck-behind-ai-power-power-transformer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power transformer model" data-ebay-reference="the-giant-hardware-bottleneck-behind-ai-power-power-transformer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for power transformer model">Search<span data-ebay-domain-label>eBay.co.uk</span>: power transformer model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=power+transformer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-giant-hardware-bottleneck-behind-ai-power-power-transformer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power transformer model" data-ebay-reference="the-giant-hardware-bottleneck-behind-ai-power-power-transformer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=power+transformer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-giant-hardware-bottleneck-behind-ai-power-power-transformer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power transformer model" data-ebay-reference="the-giant-hardware-bottleneck-behind-ai-power-power-transformer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TDC power model DC-240-008Ot transformer"><img src="https://i.ebayimg.com/images/g/y-AAAeSwtCZpoHPk/s-l225.jpg" alt="Listing image for TDC power model DC-240-008Ot transformer" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=power+transformer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-giant-hardware-bottleneck-behind-ai-power-power-transformer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power transformer model" data-ebay-reference="the-giant-hardware-bottleneck-behind-ai-power-power-transformer-model" target="_blank" rel="sponsored noopener noreferrer">TDC power model DC-240-008Ot transformer</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=power+transformer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-giant-hardware-bottleneck-behind-ai-power-power-transformer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power transformer model" data-ebay-reference="the-giant-hardware-bottleneck-behind-ai-power-power-transformer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for power transformer model">Search <span data-ebay-domain-label>eBay.co.uk</span>: power transformer model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=power+transformer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-giant-hardware-bottleneck-behind-ai-power-power-transformer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power transformer model" data-ebay-reference="the-giant-hardware-bottleneck-behind-ai-power-power-transformer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=power+transformer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-giant-hardware-bottleneck-behind-ai-power-power-transformer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power transformer model" data-ebay-reference="the-giant-hardware-bottleneck-behind-ai-power-power-transformer-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=power+transformer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-giant-hardware-bottleneck-behind-ai-power-power-transformer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power transformer model" data-ebay-reference="the-giant-hardware-bottleneck-behind-ai-power-power-transformer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TDC power model DC-240-008Ot transformer"><img src="https://i.ebayimg.com/images/g/y-AAAeSwtCZpoHPk/s-l225.jpg" alt="Listing image for TDC power model DC-240-008Ot transformer" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=power+transformer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-giant-hardware-bottleneck-behind-ai-power-power-transformer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power transformer model" data-ebay-reference="the-giant-hardware-bottleneck-behind-ai-power-power-transformer-model" target="_blank" rel="sponsored noopener noreferrer">TDC power model DC-240-008Ot transformer</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=power+transformer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-giant-hardware-bottleneck-behind-ai-power-power-transformer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power transformer model" data-ebay-reference="the-giant-hardware-bottleneck-behind-ai-power-power-transformer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for power transformer model">Search<span data-ebay-domain-label>eBay.co.uk</span>: power transformer model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=power+transformer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-giant-hardware-bottleneck-behind-ai-power-power-transformer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power transformer model" data-ebay-reference="the-giant-hardware-bottleneck-behind-ai-power-power-transformer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=power+transformer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-giant-hardware-bottleneck-behind-ai-power-power-transformer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power transformer model" data-ebay-reference="the-giant-hardware-bottleneck-behind-ai-power-power-transformer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -603,7 +603,7 @@ For now, one of the clearest examples is surprisingly mundane: a shortage of gia
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -623,7 +623,7 @@ For now, one of the clearest examples is surprisingly mundane: a shortage of gia
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -655,7 +655,7 @@ For now, one of the clearest examples is surprisingly mundane: a shortage of gia
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -707,7 +707,7 @@ For now, one of the clearest examples is surprisingly mundane: a shortage of gia
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -752,7 +752,7 @@ For now, one of the clearest examples is surprisingly mundane: a shortage of gia
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -793,129 +793,129 @@ For now, one of the clearest examples is surprisingly mundane: a shortage of gia
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: reuters.com  
    Title: US power transformer buyers scramble for imports, factory slots The U.S  
-   Link: <a href="https://www.reuters.com/business/energy/us-power-transformer-buyers-scramble-imports-factory-slots--reeii-2026-05-11/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/energy/us-power-transformer-buyers-scramble-imports-factory-slots--reeii-2026-05-11/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>is facing a severe shortage of power transformers, which is hindering the expansion and modernization of its electric grid. Driven by a s...</p></details>
+   Link:<a href="https://www.reuters.com/business/energy/us-power-transformer-buyers-scramble-imports-factory-slots--reeii-2026-05-11/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/energy/us-power-transformer-buyers-scramble-imports-factory-slots--reeii-2026-05-11/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>is facing a severe shortage of power transformers, which is hindering the expansion and modernization of its electric grid. Driven by a s...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: energy.gov  
    Title: The Department of Energy's Energy.gov Large Power Transformer [Resilience](&#123;&#123; 'resilience/' | relative_url &#125;&#125;)  
-   Link: <a href="https://www.energy.gov/sites/default/files/2024-10/EXEC-2022-001242%20-%20Large%20Power%20Transformer%20Resilience%20Report%20signed%20by%20Secretary%20Granholm%20on%207-10-24.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.energy.gov/sites/default/files/2024-10/EXEC-2022-001242%20-%20Large%20Power%20Transformer%20Resilience%20Report%20signed%20by%20Secretary%20Granholm%20on%207-10-24.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Department of Energy&#x27;s Energy.govLarge Power Transformer ResilienceOctober 7, 2024 — 5 Jul 2024 — The susceptibility of LPTs to emerg...</p></details>
+   Link:<a href="https://www.energy.gov/sites/default/files/2024-10/EXEC-2022-001242%20-%20Large%20Power%20Transformer%20Resilience%20Report%20signed%20by%20Secretary%20Granholm%20on%207-10-24.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.energy.gov/sites/default/files/2024-10/EXEC-2022-001242%20-%20Large%20Power%20Transformer%20Resilience%20Report%20signed%20by%20Secretary%20Granholm%20on%207-10-24.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Department of Energy&#x27;s Energy.govLarge Power Transformer ResilienceOctober 7, 2024 — 5 Jul 2024 — The susceptibility of LPTs to emerg...</p></details>
    Published: October 7, 2024  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: cisa.gov  
-   Link: <a href="https://www.cisa.gov/sites/default/files/2024-09/NIAC_Addressing%20the%20Critical%20Shortage%20of%20Power%20Transformers%20to%20Ensure%20Reliability%20of%20the%20U.S.%20Grid_Report_06112024_508c_pdf_0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cisa.gov/sites/default/files/2024-09/NIAC_Addressing%20the%20Critical%20Shortage%20of%20Power%20Transformers%20to%20Ensure%20Reliability%20of%20the%20U.S.%20Grid_Report_06112024_508c_pdf_0.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Addressing the Critical Shortage of Power Transformers to...Large transformers, both substation power and generator step-up transfor...</p></details>
+   Link:<a href="https://www.cisa.gov/sites/default/files/2024-09/NIAC_Addressing%20the%20Critical%20Shortage%20of%20Power%20Transformers%20to%20Ensure%20Reliability%20of%20the%20U.S.%20Grid_Report_06112024_508c_pdf_0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cisa.gov/sites/default/files/2024-09/NIAC_Addressing%20the%20Critical%20Shortage%20of%20Power%20Transformers%20to%20Ensure%20Reliability%20of%20the%20U.S.%20Grid_Report_06112024_508c_pdf_0.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Addressing the Critical Shortage of Power Transformers to...Large transformers, both substation power and generator step-up transfor...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reuters.com  
    Title: Grid equipment makers invest in US to ease supply shortage Due to a surge in U.S  
-   Link: <a href="https://www.reuters.com/business/energy/grid-equipment-makers-invest-us-ease-supply-shortage--reeii-2025-12-02/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/energy/grid-equipment-makers-invest-us-ease-supply-shortage--reeii-2025-12-02/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>demand for power transmission equipment, major grid component manufacturers are heavily investing in domestic production to address suppl...</p></details>
+   Link:<a href="https://www.reuters.com/business/energy/grid-equipment-makers-invest-us-ease-supply-shortage--reeii-2025-12-02/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/energy/grid-equipment-makers-invest-us-ease-supply-shortage--reeii-2025-12-02/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>demand for power transmission equipment, major grid component manufacturers are heavily investing in domestic production to address suppl...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: iea.org  
    Title: energy demand from ai  
-   Link: <a href="https://www.iea.org/reports/energy-and-ai/energy-demand-from-ai" target="_blank" rel="noopener noreferrer nofollow">https://www.iea.org/reports/energy-and-ai/energy-demand-from-ai</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Energy demand from AIFrom 2024 to 2030, data centre electricity consumption grows by around 15% per year, more than four times faster...</p></details>
+   Link:<a href="https://www.iea.org/reports/energy-and-ai/energy-demand-from-ai" target="_blank" rel="noopener noreferrer nofollow">https://www.iea.org/reports/energy-and-ai/energy-demand-from-ai</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Energy demand from AIFrom 2024 to 2030, data centre electricity consumption grows by around 15% per year, more than four times faster...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: docs.nlr.gov  
    Title: Docs Major Drivers of Long-Term Distribution Transformer Demand  
-   Link: <a href="https://docs.nlr.gov/docs/fy24osti/87653.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.nlr.gov/docs/fy24osti/87653.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NLR DocsMajor Drivers of Long-Term Distribution Transformer DemandFebruary 23, 2024 — Utilities are experiencing extended lead times for...</p></details>
+   Link:<a href="https://docs.nlr.gov/docs/fy24osti/87653.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.nlr.gov/docs/fy24osti/87653.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NLR DocsMajor Drivers of Long-Term Distribution Transformer DemandFebruary 23, 2024 — Utilities are experiencing extended lead times for...</p></details>
    Published: February 23, 2024  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: iea.org  
-   Link: <a href="https://www.iea.org/news/data-centre-electricity-use-surged-in-2025-even-with-tightening-bottlenecks-driving-a-scramble-for-solutions" target="_blank" rel="noopener noreferrer nofollow">https://www.iea.org/news/data-centre-electricity-use-surged-in-2025-even-with-tightening-bottlenecks-driving-a-scramble-for-solutions</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Data centre electricity use surged in 2025, even with...16 Apr 2026 — Electricity demand from data centres soared by 17% in 2025, and th...</p></details>
+   Link:<a href="https://www.iea.org/news/data-centre-electricity-use-surged-in-2025-even-with-tightening-bottlenecks-driving-a-scramble-for-solutions" target="_blank" rel="noopener noreferrer nofollow">https://www.iea.org/news/data-centre-electricity-use-surged-in-2025-even-with-tightening-bottlenecks-driving-a-scramble-for-solutions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Data centre electricity use surged in 2025, even with...16 Apr 2026 — Electricity demand from data centres soared by 17% in 2025, and th...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: iea.blob.core.windows.net  
    Title: IEA Blob Storage Key Questions on Energy and AI  
-   Link: <a href="https://iea.blob.core.windows.net/assets/3179f7f8-01f6-4dd6-bffa-c9f7b73f1dc9/KeyQuestionsonEnergyandAI.pdf" target="_blank" rel="noopener noreferrer nofollow">https://iea.blob.core.windows.net/assets/3179f7f8-01f6-4dd6-bffa-c9f7b73f1dc9/KeyQuestionsonEnergyandAI.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>IEA Blob StorageKey Questions on Energy and AI - Microsoft.NETApril 23, 2026 — 2 Apr 2026 — In the IEA&#x27;s 2025 report Energy and AI, we h...</p></details>
+   Link:<a href="https://iea.blob.core.windows.net/assets/3179f7f8-01f6-4dd6-bffa-c9f7b73f1dc9/KeyQuestionsonEnergyandAI.pdf" target="_blank" rel="noopener noreferrer nofollow">https://iea.blob.core.windows.net/assets/3179f7f8-01f6-4dd6-bffa-c9f7b73f1dc9/KeyQuestionsonEnergyandAI.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>IEA Blob StorageKey Questions on Energy and AI - Microsoft.NETApril 23, 2026 — 2 Apr 2026 — In the IEA&#x27;s 2025 report Energy and AI, we h...</p></details>
    Published: April 23, 2026  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: ft.com  
-   Link: <a href="https://www.ft.com/content/a0fa2e61-b684-42b7-bd12-6b9d7c28285c" target="_blank" rel="noopener noreferrer nofollow">https://www.ft.com/content/a0fa2e61-b684-42b7-bd12-6b9d7c28285c</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CEO Andreas Schierenbeck stresses the difficulty in swiftly increasing production capacity, which could delay critical infrastructure pro...</p></details>
+   Link:<a href="https://www.ft.com/content/a0fa2e61-b684-42b7-bd12-6b9d7c28285c" target="_blank" rel="noopener noreferrer nofollow">https://www.ft.com/content/a0fa2e61-b684-42b7-bd12-6b9d7c28285c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CEO Andreas Schierenbeck stresses the difficulty in swiftly increasing production capacity, which could delay critical infrastructure pro...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: tomshardware.com  
-   Link: <a href="https://www.tomshardware.com/tech-industry/artificial-intelligence/half-of-planned-us-data-center-builds-have-been-delayed-or-canceled-growth-limited-by-shortages-of-power-infrastructure-and-parts-from-china-the-ai-build-out-flips-the-breakers" target="_blank" rel="noopener noreferrer nofollow">https://www.tomshardware.com/tech-industry/artificial-intelligence/half-of-planned-us-data-center-builds-have-been-delayed-or-canceled-growth-limited-by-shortages-of-power-infrastructure-and-parts-from-china-the-ai-build-out-flips-the-breakers</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>data center developments are expected to be delayed or canceled due to severe shortages in power infrastructure components, despite over...</p></details>
+   Link:<a href="https://www.tomshardware.com/tech-industry/artificial-intelligence/half-of-planned-us-data-center-builds-have-been-delayed-or-canceled-growth-limited-by-shortages-of-power-infrastructure-and-parts-from-china-the-ai-build-out-flips-the-breakers" target="_blank" rel="noopener noreferrer nofollow">https://www.tomshardware.com/tech-industry/artificial-intelligence/half-of-planned-us-data-center-builds-have-been-delayed-or-canceled-growth-limited-by-shortages-of-power-infrastructure-and-parts-from-china-the-ai-build-out-flips-the-breakers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>data center developments are expected to be delayed or canceled due to severe shortages in power infrastructure components, despite over...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: northfieldtransformers.com  
    Title: Northfield Transformers Data Center Expansion is Reshaping Transformer Demand  
-   Link: <a href="https://northfieldtransformers.com/blog/data-center-expansion-reshaping-transformer-demand/" target="_blank" rel="noopener noreferrer nofollow">https://northfieldtransformers.com/blog/data-center-expansion-reshaping-transformer-demand/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Northfield TransformersData Center Expansion is Reshaping Transformer Demand...August 1, 2025 — 1 Aug 2025 — According to Wood Mackenzie...</p></details>
+   Link:<a href="https://northfieldtransformers.com/blog/data-center-expansion-reshaping-transformer-demand/" target="_blank" rel="noopener noreferrer nofollow">https://northfieldtransformers.com/blog/data-center-expansion-reshaping-transformer-demand/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Northfield TransformersData Center Expansion is Reshaping Transformer Demand...August 1, 2025 — 1 Aug 2025 — According to Wood Mackenzie...</p></details>
    Published: August 1, 2025  
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/blueprint-data-centers_datacenters-digitalinfrastructure-supplychain-activity-7449532694079889408-g_1s" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/blueprint-data-centers_datacenters-digitalinfrastructure-supplychain-activity-7449532694079889408-g_1s</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2026 Data Centers Face Delays Due to Power Transformer...Transformers, substations, distribution systems, and utility coordination are b...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/blueprint-data-centers_datacenters-digitalinfrastructure-supplychain-activity-7449532694079889408-g_1s" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/blueprint-data-centers_datacenters-digitalinfrastructure-supplychain-activity-7449532694079889408-g_1s</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2026 Data Centers Face Delays Due to Power Transformer...Transformers, substations, distribution systems, and utility coordination are b...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: pv-magazine-usa.com  
-   Link: <a href="https://pv-magazine-usa.com/2026/05/11/u-s-transformer-market-faces-severe-supply-constraints-as-lead-times-extend-to-four-years/" target="_blank" rel="noopener noreferrer nofollow">https://pv-magazine-usa.com/2026/05/11/u-s-transformer-market-faces-severe-supply-constraints-as-lead-times-extend-to-four-years/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>transformer market faces severe supply constraints as...11 May 2026 — U.S. transformer market faces severe supply constraints as lead ti...</p></details>
+   Link:<a href="https://pv-magazine-usa.com/2026/05/11/u-s-transformer-market-faces-severe-supply-constraints-as-lead-times-extend-to-four-years/" target="_blank" rel="noopener noreferrer nofollow">https://pv-magazine-usa.com/2026/05/11/u-s-transformer-market-faces-severe-supply-constraints-as-lead-times-extend-to-four-years/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>transformer market faces severe supply constraints as...11 May 2026 — U.S. transformer market faces severe supply constraints as lead ti...</p></details>
    Published: May 2026  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/powermagazine_transformers-in-2026-shortage-scramble-activity-7418307051530924032-acD5" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/powermagazine_transformers-in-2026-shortage-scramble-activity-7418307051530924032-acD5</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Transformer demand soars 119% since 2019, driving lead...Power transformer demand has soared 119% since 2019, according to Wood Mackenzi...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/powermagazine_transformers-in-2026-shortage-scramble-activity-7418307051530924032-acD5" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/powermagazine_transformers-in-2026-shortage-scramble-activity-7418307051530924032-acD5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Transformer demand soars 119% since 2019, driving lead...Power transformer demand has soared 119% since 2019, according to Wood Mackenzi...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: evernewtransformer.com  
    Title: 2025 global transformer industry outlook supply shortages intensify  
-   Link: <a href="https://evernewtransformer.com/2025-global-transformer-industry-outlook-supply-shortages-intensify/" target="_blank" rel="noopener noreferrer nofollow">https://evernewtransformer.com/2025-global-transformer-industry-outlook-supply-shortages-intensify/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>faces an estimated 30% shortage in large power transformers and a 10% shortage in distribution transformers in 2025. Global transformer m...</p></details>
+   Link:<a href="https://evernewtransformer.com/2025-global-transformer-industry-outlook-supply-shortages-intensify/" target="_blank" rel="noopener noreferrer nofollow">https://evernewtransformer.com/2025-global-transformer-industry-outlook-supply-shortages-intensify/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>faces an estimated 30% shortage in large power transformers and a 10% shortage in distribution transformers in 2025. Global transformer m...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: x.com  
-   Link: <a href="https://x.com/soicfinance/status/2043066511074693430?lang=en" target="_blank" rel="noopener noreferrer nofollow">https://x.com/soicfinance/status/2043066511074693430?lang=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>data centers set for 2026 are at risk due to transformer shortages, power grid limits...Read more...</p></details>
+   Link:<a href="https://x.com/soicfinance/status/2043066511074693430?lang=en" target="_blank" rel="noopener noreferrer nofollow">https://x.com/soicfinance/status/2043066511074693430?lang=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>data centers set for 2026 are at risk due to transformer shortages, power grid limits...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: utilitydive.com  
    Title: reshore electrical equipment backlogs transformer breaker nema  
-   Link: <a href="https://www.utilitydive.com/news/reshore-electrical-equipment-backlogs-transformer-breaker-nema/749265/" target="_blank" rel="noopener noreferrer nofollow">https://www.utilitydive.com/news/reshore-electrical-equipment-backlogs-transformer-breaker-nema/749265/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Transformer, breaker backlogs persist, despite reshoring...29 May 2025 — On average, customers today wait three years for high-voltage t...</p></details>
+   Link:<a href="https://www.utilitydive.com/news/reshore-electrical-equipment-backlogs-transformer-breaker-nema/749265/" target="_blank" rel="noopener noreferrer nofollow">https://www.utilitydive.com/news/reshore-electrical-equipment-backlogs-transformer-breaker-nema/749265/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Transformer, breaker backlogs persist, despite reshoring...29 May 2025 — On average, customers today wait three years for high-voltage t...</p></details>
    Published: May 2025  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: brookings.edu  
    Title: global energy demands within the ai regulatory landscape  
-   Link: <a href="https://www.brookings.edu/articles/global-energy-demands-within-the-ai-regulatory-landscape/" target="_blank" rel="noopener noreferrer nofollow">https://www.brookings.edu/articles/global-energy-demands-within-the-ai-regulatory-landscape/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>10 Apr 2026 — In 2024, global data center electricity consumption was approximately 415 terrawatt hours, representing about 1.5% of the w...</p></details>
+   Link:<a href="https://www.brookings.edu/articles/global-energy-demands-within-the-ai-regulatory-landscape/" target="_blank" rel="noopener noreferrer nofollow">https://www.brookings.edu/articles/global-energy-demands-within-the-ai-regulatory-landscape/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>10 Apr 2026 — In 2024, global data center electricity consumption was approximately 415 terrawatt hours, representing about 1.5% of the w...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: industrialsage.com  
    Title: power transformer lead times us grid shortage  
-   Link: <a href="https://www.industrialsage.com/power-transformer-lead-times-us-grid-shortage/" target="_blank" rel="noopener noreferrer nofollow">https://www.industrialsage.com/power-transformer-lead-times-us-grid-shortage/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Power Transformer Lead Times Hit 128 Weeks in 20266 May 2026 — The North American Electric Reliability Corporation reported lead times cr...</p></details>
+   Link:<a href="https://www.industrialsage.com/power-transformer-lead-times-us-grid-shortage/" target="_blank" rel="noopener noreferrer nofollow">https://www.industrialsage.com/power-transformer-lead-times-us-grid-shortage/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Power Transformer Lead Times Hit 128 Weeks in 20266 May 2026 — The North American Electric Reliability Corporation reported lead times cr...</p></details>
    Published: May 2026  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: marketreportanalytics.com  
    Title: Projecting a 6.3% CAGR, this analysis offers  
-   Link: <a href="https://www.marketreportanalytics.com/reports/data-center-transformer-81619" target="_blank" rel="noopener noreferrer nofollow">https://www.marketreportanalytics.com/reports/data-center-transformer-81619</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Data Center Transformer Market Evolution: 2025-2033...21 May 2026 — The Data Center Transformer market is expanding due to hyperscale de...</p></details>
+   Link:<a href="https://www.marketreportanalytics.com/reports/data-center-transformer-81619" target="_blank" rel="noopener noreferrer nofollow">https://www.marketreportanalytics.com/reports/data-center-transformer-81619</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Data Center Transformer Market Evolution: 2025-2033...21 May 2026 — The Data Center Transformer market is expanding due to hyperscale de...</p></details>
    Published: May 2026  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/Infineon/posts/electricity-demand-is-changing-fast-from-ai-data-centers-and-ev-charging-to-rene/1460578216106812/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Infineon/posts/electricity-demand-is-changing-fast-from-ai-data-centers-and-ev-charging-to-rene/1460578216106812/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>renewable energy integration. So how do we move power smarter...</p></details>
+   Link:<a href="https://www.facebook.com/Infineon/posts/electricity-demand-is-changing-fast-from-ai-data-centers-and-ev-charging-to-rene/1460578216106812/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Infineon/posts/electricity-demand-is-changing-fast-from-ai-data-centers-and-ev-charging-to-rene/1460578216106812/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>renewable energy integration. So how do we move power smarter...</p></details>

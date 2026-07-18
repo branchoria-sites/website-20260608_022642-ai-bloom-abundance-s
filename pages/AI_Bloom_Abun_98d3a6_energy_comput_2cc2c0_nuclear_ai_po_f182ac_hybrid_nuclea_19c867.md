@@ -269,16 +269,16 @@ image: /assets/images/AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0_nuclear_ai_po_f1
 
 ## Introduction
 
-In the quest to power the next generation of AI‑driven services, large technology firms and hyperscale data centre operators are increasingly adopting **hybrid [energy]({{ 'energy/' | relative_url }}) strategies** that combine nuclear energy with renewables. Conventional wind and solar power alone cannot meet the unbroken, high‑density electricity demand of AI workloads without massive storage commitments or [grid upgrades]({{ 'grid-costs/' | relative_url }}) — so corporations are blending intermittent clean resources with firm, dispatchable sources such as nuclear to assure *reliability, decarbonisation and cost certainty* for decades ahead. This integrated approach is becoming a strategic pillar for firms racing to serve AI needs while aligning with climate and sustainability goals. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wtwco.com/en-bm/insights/2025/01/the-expanding-energy-frontier-of-data-centers-nuclear-wind-solar-and-other-energy-sources" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wtwco.com">[WTW]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wtwco.com</span><span class="citation-popover-title">WTWThe expanding energy frontier of data centers</span><span class="citation-popover-snippet">WTWJanuary 14, 2025...</span><span class="citation-popover-meta">Published: January 14, 2025</span></span></span>
+In the quest to power the next generation of AI‑driven services, large technology firms and hyperscale data centre operators are increasingly adopting **hybrid [energy]({{ 'energy/' | relative_url }}) strategies** that combine nuclear energy with renewables. Conventional wind and solar power alone cannot meet the unbroken, high‑density electricity demand of AI workloads without massive storage commitments or [grid upgrades]({{ 'grid-costs/' | relative_url }}) — so corporations are blending intermittent clean resources with firm, dispatchable sources such as nuclear to assure *reliability, decarbonisation and cost certainty* for decades ahead. This integrated approach is becoming a strategic pillar for firms racing to serve AI needs while aligning with climate and sustainability goals.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wtwco.com/en-bm/insights/2025/01/the-expanding-energy-frontier-of-data-centers-nuclear-wind-solar-and-other-energy-sources" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wtwco.com">[WTW]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wtwco.com</span><span class="citation-popover-title">WTWThe expanding energy frontier of data centers</span><span class="citation-popover-snippet">WTWJanuary 14, 2025...</span><span class="citation-popover-meta">Published: January 14, 2025</span></span></span>
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0_nuclear_ai_po_f182ac_hybrid_nuclea_19c867-Illustration-1-dark.svg" | relative_url }}" alt="Hybrid Energy Strategies illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0_nuclear_ai_po_f182ac_hybrid_nuclea_19c867-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0_nuclear_ai_po_f182ac_hybrid_nuclea_19c867-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Portfolio Approach to Firm Power
 
-**Diversification of energy supply** lies at the heart of corporate strategies for supporting AI infrastructure. Tech giants like Amazon, Meta, Microsoft and Google continue to contract large volumes of solar and wind; but they are also signing long‑term nuclear agreements and exploring on‑site generation to ensure 24/7 availability. In practice, this means structuring an energy portfolio that pairs high‑volume, low‑cost renewables with **firm generation that doesn’t depend on weather or time of day**. <span class="citation-chip-wrap"><a class="citation-chip" href="https://presenc.ai/research/hyperscaler-nuclear-ppa-tracker-2026" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: presenc.ai">[Presenc AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">presenc.ai</span><span class="citation-popover-title">hyperscaler nuclear ppa tracker 2026</span><span class="citation-popover-snippet">Presenc AI</span></span></span>
+**Diversification of energy supply** lies at the heart of corporate strategies for supporting AI infrastructure. Tech giants like Amazon, Meta, Microsoft and Google continue to contract large volumes of solar and wind; but they are also signing long‑term nuclear agreements and exploring on‑site generation to ensure 24/7 availability. In practice, this means structuring an energy portfolio that pairs high‑volume, low‑cost renewables with **firm generation that doesn’t depend on weather or time of day**.<span class="citation-chip-wrap"><a class="citation-chip" href="https://presenc.ai/research/hyperscaler-nuclear-ppa-tracker-2026" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: presenc.ai">[Presenc AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">presenc.ai</span><span class="citation-popover-title">hyperscaler nuclear ppa tracker 2026</span><span class="citation-popover-snippet">Presenc AI</span></span></span>
 
-1. **Renewables as foundation:** Solar and wind remain cost‑effective components of corporate clean energy portfolios, often bundled with battery storage to smooth intermittency and improve capacity utilisation. Hybrid solar‑wind projects backed by storage provide a more consistent output profile than single resources alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://feeds.optenpower.com/blog/renewable-energy-procurement-data-centers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: feeds.optenpower.com">[feeds.optenpower.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">feeds.optenpower.com</span><span class="citation-popover-title">renewable energy procurement data centers</span><span class="citation-popover-snippet">Data Centers Drive Surge in Clean Energy Procurement in 2026...</span></span></span>
-2. **Nuclear for baseline reliability:** Nuclear — especially through long‑term [Power]({{ 'power/' | relative_url }}) Purchase Agreements (PPAs) and investments in *small modular reactors (SMRs)* or advanced designs — delivers baseload clean energy that supports always‑on AI compute infrastructure. Meta, Microsoft and others have signed multi‑gigawatt nuclear commitments to underpin their broader energy mix. <span class="citation-chip-wrap"><a class="citation-chip" href="https://presenc.ai/research/hyperscaler-nuclear-ppa-tracker-2026" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: presenc.ai">[Presenc AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">presenc.ai</span><span class="citation-popover-title">hyperscaler nuclear ppa tracker 2026</span><span class="citation-popover-snippet">Presenc AI</span></span></span>
-3. **Emerging on‑site generation:** Beyond grid PPAs, firms are exploring on‑site firm power installations such as compact reactors or fuel cells that can sit adjacent to data centres, reducing transmission reliance and enhancing [resilience]({{ 'resilience/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.arc-cleantech.com/applications/ai-data-centers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arc-cleantech.com">[ARC Clean Technology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arc-cleantech.com</span><span class="citation-popover-title">ARC Clean Technology AI Data Centers &#124; ARC Clean Technology</span><span class="citation-popover-snippet">ARC Clean Technology AI Data Centers &#124; ARC Clean Technology</span></span></span>
+1. **Renewables as foundation:** Solar and wind remain cost‑effective components of corporate clean energy portfolios, often bundled with battery storage to smooth intermittency and improve capacity utilisation. Hybrid solar‑wind projects backed by storage provide a more consistent output profile than single resources alone.<span class="citation-chip-wrap"><a class="citation-chip" href="https://feeds.optenpower.com/blog/renewable-energy-procurement-data-centers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: feeds.optenpower.com">[feeds.optenpower.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">feeds.optenpower.com</span><span class="citation-popover-title">renewable energy procurement data centers</span><span class="citation-popover-snippet">Data Centers Drive Surge in Clean Energy Procurement in 2026...</span></span></span>
+2. **Nuclear for baseline reliability:** Nuclear — especially through long‑term [Power]({{ 'power/' | relative_url }}) Purchase Agreements (PPAs) and investments in *small modular reactors (SMRs)* or advanced designs — delivers baseload clean energy that supports always‑on AI compute infrastructure. Meta, Microsoft and others have signed multi‑gigawatt nuclear commitments to underpin their broader energy mix.<span class="citation-chip-wrap"><a class="citation-chip" href="https://presenc.ai/research/hyperscaler-nuclear-ppa-tracker-2026" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: presenc.ai">[Presenc AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">presenc.ai</span><span class="citation-popover-title">hyperscaler nuclear ppa tracker 2026</span><span class="citation-popover-snippet">Presenc AI</span></span></span>
+3. **Emerging on‑site generation:** Beyond grid PPAs, firms are exploring on‑site firm power installations such as compact reactors or fuel cells that can sit adjacent to data centres, reducing transmission reliance and enhancing [resilience]({{ 'resilience/' | relative_url }}).<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.arc-cleantech.com/applications/ai-data-centers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arc-cleantech.com">[ARC Clean Technology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arc-cleantech.com</span><span class="citation-popover-title">ARC Clean Technology AI Data Centers &#124; ARC Clean Technology</span><span class="citation-popover-snippet">ARC Clean Technology AI Data Centers &#124; ARC Clean Technology</span></span></span>
 
 This portfolio approach recognises that **no single energy source can currently satisfy all corporate goals — decarbonisation, reliability, scalability and cost [control]({{ 'control/' | relative_url }}) — on its own**. Instead, a balanced mix hedges risks and leverages the respective strengths of each technology.
 
@@ -286,22 +286,22 @@ This portfolio approach recognises that **no single energy source can currently 
 
 ## Load Matching and Storage Optimisation
 
-Ensuring that renewable generation aligns with the power profile of AI facilities is a distinct technical and commercial challenge. Solar and wind can only meet peak demand when available; they must be paired with storage systems and dispatchable firm resources for uninterrupted operation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://feeds.optenpower.com/blog/renewable-energy-procurement-data-centers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: feeds.optenpower.com">[feeds.optenpower.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">feeds.optenpower.com</span><span class="citation-popover-title">renewable energy procurement data centers</span><span class="citation-popover-snippet">Data Centers Drive Surge in Clean Energy Procurement in 2026...</span></span></span>
+Ensuring that renewable generation aligns with the power profile of AI facilities is a distinct technical and commercial challenge. Solar and wind can only meet peak demand when available; they must be paired with storage systems and dispatchable firm resources for uninterrupted operation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://feeds.optenpower.com/blog/renewable-energy-procurement-data-centers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: feeds.optenpower.com">[feeds.optenpower.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">feeds.optenpower.com</span><span class="citation-popover-title">renewable energy procurement data centers</span><span class="citation-popover-snippet">Data Centers Drive Surge in Clean Energy Procurement in 2026...</span></span></span>
 
-* **Battery energy storage systems (BESS)** are often deployed to buffer short‑term fluctuations, enabling solar and wind to supply more of the load during critical windows. These systems are especially important where grid interconnection delays or congestion impede consistent power flows. <span class="citation-chip-wrap"><a class="citation-chip" href="https://feeds.optenpower.com/blog/renewable-energy-procurement-data-centers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: feeds.optenpower.com">[feeds.optenpower.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">feeds.optenpower.com</span><span class="citation-popover-title">renewable energy procurement data centers</span><span class="citation-popover-snippet">Data Centers Drive Surge in Clean Energy Procurement in 2026...</span></span></span>
-* **Long‑duration storage and hybrid dispatch strategies** combine batteries with other technologies such as fuel cells or thermal storage to extend firm energy provision beyond daily cycles. Some firms are even exploring long‑duration systems integrated with their renewable portfolios to increase reliability without reverting to fossil‑based generation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tomshardware.com/tech-industry/artificial-intelligence/meta-will-beam-sunlight-from-space-to-power-ai-data-centers-solar-collecting-satellites-will-orbit-22-000-miles-above-earth-firm-reserves-1-gigawatt-of-orbital-solar-energy-and-100-gigawatt-hours-of-long-duration-storage" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tomshardware.com">[Tom&#x27;s Hardware]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tomshardware.com</span><span class="citation-popover-snippet">The company plans to deploy solar-collecting satellites in geosynchronous orbit (22,000 miles above Earth) through a partnership with Ove...</span></span></span>
-* **Demand matching innovation** includes smart scheduling of compute tasks at times of peak renewable output, although core training workloads often still require uninterrupted power. Automated load response mechanisms — a growing research area — aim to coordinate energy availability with workload demands dynamically. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2603.00415" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Grid Integration of AI Data Centers: A Critical Review of Energy Storage SolutionsFebruary 28, 2026...</span><span class="citation-popover-meta">Published: February 28, 2026</span></span></span>
+* **Battery energy storage systems (BESS)** are often deployed to buffer short‑term fluctuations, enabling solar and wind to supply more of the load during critical windows. These systems are especially important where grid interconnection delays or congestion impede consistent power flows.<span class="citation-chip-wrap"><a class="citation-chip" href="https://feeds.optenpower.com/blog/renewable-energy-procurement-data-centers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: feeds.optenpower.com">[feeds.optenpower.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">feeds.optenpower.com</span><span class="citation-popover-title">renewable energy procurement data centers</span><span class="citation-popover-snippet">Data Centers Drive Surge in Clean Energy Procurement in 2026...</span></span></span>
+* **Long‑duration storage and hybrid dispatch strategies** combine batteries with other technologies such as fuel cells or thermal storage to extend firm energy provision beyond daily cycles. Some firms are even exploring long‑duration systems integrated with their renewable portfolios to increase reliability without reverting to fossil‑based generation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tomshardware.com/tech-industry/artificial-intelligence/meta-will-beam-sunlight-from-space-to-power-ai-data-centers-solar-collecting-satellites-will-orbit-22-000-miles-above-earth-firm-reserves-1-gigawatt-of-orbital-solar-energy-and-100-gigawatt-hours-of-long-duration-storage" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tomshardware.com">[Tom&#x27;s Hardware]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tomshardware.com</span><span class="citation-popover-snippet">The company plans to deploy solar-collecting satellites in geosynchronous orbit (22,000 miles above Earth) through a partnership with Ove...</span></span></span>
+* **Demand matching innovation** includes smart scheduling of compute tasks at times of peak renewable output, although core training workloads often still require uninterrupted power. Automated load response mechanisms — a growing research area — aim to coordinate energy availability with workload demands dynamically.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2603.00415" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Grid Integration of AI Data Centers: A Critical Review of Energy Storage SolutionsFebruary 28, 2026...</span><span class="citation-popover-meta">Published: February 28, 2026</span></span></span>
 
 For many corporate planners, the challenge is not just *where* power comes from, but *when* it is available relative to the intensive and continuous demands of AI systems.
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0_nuclear_ai_po_f182ac_hybrid_nuclea_19c867-Illustration-2-dark.svg" | relative_url }}" alt="Hybrid Energy Strategies illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0_nuclear_ai_po_f182ac_hybrid_nuclea_19c867-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0_nuclear_ai_po_f182ac_hybrid_nuclea_19c867-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Long‑Term Contracts and Investment Signals
 
-Strategic long‑term contracts are central to hybrid energy strategies because they provide **price certainty and investment signals** that attract capital to both renewable and nuclear projects. Large PPAs and direct investments underpin multi‑decade planning horizons that align with the lifespan of data centres and the extended build‑out schedules of new energy infrastructure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://presenc.ai/research/hyperscaler-nuclear-ppa-tracker-2026" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: presenc.ai">[Presenc AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">presenc.ai</span><span class="citation-popover-title">hyperscaler nuclear ppa tracker 2026</span><span class="citation-popover-snippet">Presenc AI</span></span></span>
+Strategic long‑term contracts are central to hybrid energy strategies because they provide **price certainty and investment signals** that attract capital to both renewable and nuclear projects. Large PPAs and direct investments underpin multi‑decade planning horizons that align with the lifespan of data centres and the extended build‑out schedules of new energy infrastructure.<span class="citation-chip-wrap"><a class="citation-chip" href="https://presenc.ai/research/hyperscaler-nuclear-ppa-tracker-2026" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: presenc.ai">[Presenc AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">presenc.ai</span><span class="citation-popover-title">hyperscaler nuclear ppa tracker 2026</span><span class="citation-popover-snippet">Presenc AI</span></span></span>
 
-* **Nuclear PPAs:** Agreements extending 20 years or more give firms fixed pricing and guaranteed output from nuclear providers, even helping underwrite plant life extensions or first‑of‑a‑kind reactor projects. These contracts reduce risk for both utilities and corporate offtakers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.powermag.com/meta-locks-in-up-to-6-6-gw-of-nuclear-power-through-deals-with-vistra-oklo-and-terrapower/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: powermag.com">[POWER Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">powermag.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-* **Bundled power deals:** Some energy companies, such as TotalEnergies, are offering bundled products that combine renewable power, land rights, grid access and storage services, allowing data centre developers to secure a more comprehensive clean energy package. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.spglobal.com/energy/en/news-research/latest-news/electric-power/021226-totalenergies-targets-ai-driven-growth-with-premium-power-deals-for-data-centers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spglobal.com">[S&amp;P Global]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spglobal.com</span><span class="citation-popover-snippet">S&amp;P GlobalTotalEnergies targets AI-driven growth with premium power deals for data centers &#124; S&amp;P GlobalFebruary 12, 2026...</span><span class="citation-popover-meta">Published: February 12, 2026</span></span></span>
-* **Early anchor customer roles:** By acting as anchor customers for new nuclear and advanced renewable projects, hyperscalers can pull forward commercialisation timelines. Equinix’s multiple next‑generation nuclear agreements illustrate how a corporate buyer can catalyse technology and supply chain development. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enkiai.com/data-centers/data-center-energy-2026-equinixs-nuclear-pivot" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enkiai.com">[Enki AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enkiai.com</span><span class="citation-popover-snippet">Find the right insightData Center Energy 2026: Equinix&#x27;s Nuclear PivotMarch 2, 2026...</span><span class="citation-popover-meta">Published: March 2, 2026</span></span></span> - Find the right insight
+* **Nuclear PPAs:** Agreements extending 20 years or more give firms fixed pricing and guaranteed output from nuclear providers, even helping underwrite plant life extensions or first‑of‑a‑kind reactor projects. These contracts reduce risk for both utilities and corporate offtakers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.powermag.com/meta-locks-in-up-to-6-6-gw-of-nuclear-power-through-deals-with-vistra-oklo-and-terrapower/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: powermag.com">[POWER Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">powermag.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+* **Bundled power deals:** Some energy companies, such as TotalEnergies, are offering bundled products that combine renewable power, land rights, grid access and storage services, allowing data centre developers to secure a more comprehensive clean energy package.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.spglobal.com/energy/en/news-research/latest-news/electric-power/021226-totalenergies-targets-ai-driven-growth-with-premium-power-deals-for-data-centers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spglobal.com">[S&amp;P Global]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spglobal.com</span><span class="citation-popover-snippet">S&amp;P GlobalTotalEnergies targets AI-driven growth with premium power deals for data centers &#124; S&amp;P GlobalFebruary 12, 2026...</span><span class="citation-popover-meta">Published: February 12, 2026</span></span></span>
+* **Early anchor customer roles:** By acting as anchor customers for new nuclear and advanced renewable projects, hyperscalers can pull forward commercialisation timelines. Equinix’s multiple next‑generation nuclear agreements illustrate how a corporate buyer can catalyse technology and supply chain development.<span class="citation-chip-wrap"><a class="citation-chip" href="https://enkiai.com/data-centers/data-center-energy-2026-equinixs-nuclear-pivot" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enkiai.com">[Enki AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enkiai.com</span><span class="citation-popover-snippet">Find the right insightData Center Energy 2026: Equinix&#x27;s Nuclear PivotMarch 2, 2026...</span><span class="citation-popover-meta">Published: March 2, 2026</span></span></span> - Find the right insight
 
 Such contracts signal to capital markets and grid planners that both supply and demand for hybrid clean power will remain robust as AI infrastructure scales, easing financing for developers and reducing execution risk for corporate buyers.
 
@@ -311,9 +311,9 @@ Such contracts signal to capital markets and grid planners that both supply and 
 
 While the hybrid model aligns corporate clean energy ambitions with operational reliability, it also reveals **tensions and emerging debates** about energy system integration and the pace of technology deployment:
 
-* Nuclear and advanced firm power projects often have **longer lead times** than renewables, posing planning and regulatory risks that developers and data centre operators must manage. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/investing/comments/1s61yle/ai_is_killing_the_green_energy_trade_and/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">AI is killing the green energy trade and replacing it with Hard Power</span><span class="citation-popover-snippet">AI is killing the green energy trade and replacing it with Hard PowerMarch 28, 2026...</span><span class="citation-popover-meta">Published: March 28, 2026</span></span></span>
-* Balancing investor and customer expectations for decarbonisation against the physics of renewable intermittency places a premium on storage — and on contractual and market design that values firm, zero‑carbon generation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://feeds.optenpower.com/blog/renewable-energy-procurement-data-centers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: feeds.optenpower.com">[feeds.optenpower.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">feeds.optenpower.com</span><span class="citation-popover-title">renewable energy procurement data centers</span><span class="citation-popover-snippet">Data Centers Drive Surge in Clean Energy Procurement in 2026...</span></span></span>
-* Critics argue that high reliance on nuclear or on‑site generation could [lock in]({{ 'lock-in/' | relative_url }}) energy infrastructure that is costly or slow to commercialise compared with scalable renewables plus storage, a point of debate in corporate and policy circles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/investing/comments/1s61yle/ai_is_killing_the_green_energy_trade_and/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">AI is killing the green energy trade and replacing it with Hard Power</span><span class="citation-popover-snippet">AI is killing the green energy trade and replacing it with Hard PowerMarch 28, 2026...</span><span class="citation-popover-meta">Published: March 28, 2026</span></span></span>
+* Nuclear and advanced firm power projects often have **longer lead times** than renewables, posing planning and regulatory risks that developers and data centre operators must manage.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/investing/comments/1s61yle/ai_is_killing_the_green_energy_trade_and/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">AI is killing the green energy trade and replacing it with Hard Power</span><span class="citation-popover-snippet">AI is killing the green energy trade and replacing it with Hard PowerMarch 28, 2026...</span><span class="citation-popover-meta">Published: March 28, 2026</span></span></span>
+* Balancing investor and customer expectations for decarbonisation against the physics of renewable intermittency places a premium on storage — and on contractual and market design that values firm, zero‑carbon generation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://feeds.optenpower.com/blog/renewable-energy-procurement-data-centers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: feeds.optenpower.com">[feeds.optenpower.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">feeds.optenpower.com</span><span class="citation-popover-title">renewable energy procurement data centers</span><span class="citation-popover-snippet">Data Centers Drive Surge in Clean Energy Procurement in 2026...</span></span></span>
+* Critics argue that high reliance on nuclear or on‑site generation could [lock in]({{ 'lock-in/' | relative_url }}) energy infrastructure that is costly or slow to commercialise compared with scalable renewables plus storage, a point of debate in corporate and policy circles.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/investing/comments/1s61yle/ai_is_killing_the_green_energy_trade_and/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">AI is killing the green energy trade and replacing it with Hard Power</span><span class="citation-popover-snippet">AI is killing the green energy trade and replacing it with Hard PowerMarch 28, 2026...</span><span class="citation-popover-meta">Published: March 28, 2026</span></span></span>
 
 These tensions do not negate the emerging hybrid strategy; rather, they underscore the **real‑world constraints firms face when trying to square existential reliability needs with ambitious climate goals**.
 
@@ -326,199 +326,199 @@ The hybrid nuclear‑renewable strategy is more than a technical fix. It reflect
 * They highlight the limits of purely intermittent renewables for always‑on digital infrastructure, prompting innovation in storage and dispatch technologies.
 * They create leverage for corporate buyers to influence grid planning and regulatory frameworks by committing to long‑term clean power volumes.
 
-Ultimately, by blending nuclear reliability with renewable ambition, corporate energy strategies are aiming to ensure that the AI revolution unfolds on a foundation that is both **firm and clean**, supporting sustained growth without compromising environmental commitments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wtwco.com/en-bm/insights/2025/01/the-expanding-energy-frontier-of-data-centers-nuclear-wind-solar-and-other-energy-sources" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wtwco.com">[WTW]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wtwco.com</span><span class="citation-popover-title">WTWThe expanding energy frontier of data centers</span><span class="citation-popover-snippet">WTWJanuary 14, 2025...</span><span class="citation-popover-meta">Published: January 14, 2025</span></span></span>
+Ultimately, by blending nuclear reliability with renewable ambition, corporate energy strategies are aiming to ensure that the AI revolution unfolds on a foundation that is both **firm and clean**, supporting sustained growth without compromising environmental commitments.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wtwco.com/en-bm/insights/2025/01/the-expanding-energy-frontier-of-data-centers-nuclear-wind-solar-and-other-energy-sources" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wtwco.com">[WTW]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wtwco.com</span><span class="citation-popover-title">WTWThe expanding energy frontier of data centers</span><span class="citation-popover-snippet">WTWJanuary 14, 2025...</span><span class="citation-popover-meta">Published: January 14, 2025</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IYUoANr3cMo" title="BREAKING: Trump—Flanked By Larry Ellison, Sam Altman, &amp; Masayoshi Son—Announces Project Stargate" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IYUoANr3cMo" target="_blank" rel="noopener noreferrer">BREAKING: Trump—Flanked By Larry Ellison, Sam Altman, &amp; Masayoshi Son—Announces Project Stargate</a></p><p class="youtube-embed-meta">Channel: Forbes Breaking News &middot; Views: 2.4M &middot; Uploaded: January 2025 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IYUoANr3cMo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IYUoANr3cMo">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Tech Companies Combine Nuclear and Renewables for AI. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Tech Companies Combine Nuclear and Renewables for AI. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Bright+Future+by+Joshua+S.+Goldstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Bright Future on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fkBfDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for A Bright Future" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+Bright+Future+by+Joshua+S.+Goldstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Bright Future">A Bright Future</a>
-        </h4>
-        <p class="fr-book-author">By Joshua S. Goldstein, Staffan A. Qvist</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Bright+Future+by+Joshua+S.+Goldstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Bright Future on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fkBfDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for A Bright Future" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+Bright+Future+by+Joshua+S.+Goldstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Bright Future">A Bright Future</a>
+</h4>
+<p class="fr-book-author">By Joshua S. Goldstein, Staffan A. Qvist</p>
         
-        <p class="fr-book-desc">Explains why nuclear can complement renewables in low-carbon electricity systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+Bright+Future+by+Joshua+S.+Goldstein&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why nuclear can complement renewables in low-carbon electricity systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+Bright+Future+by+Joshua+S.+Goldstein&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Energy+and+Civilization+by+Vaclav+Smil&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Energy and Civilization on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=58MjDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Energy and Civilization" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Energy+and+Civilization+by+Vaclav+Smil&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Energy and Civilization">Energy and Civilization</a>
-        </h4>
-        <p class="fr-book-author">By Vaclav Smil</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Energy+and+Civilization+by+Vaclav+Smil&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Energy and Civilization on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=58MjDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Energy and Civilization" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Energy+and+Civilization+by+Vaclav+Smil&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Energy and Civilization">Energy and Civilization</a>
+</h4>
+<p class="fr-book-author">By Vaclav Smil</p>
         
-        <p class="fr-book-desc">Places hybrid power strategies in the broader history of energy systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Energy+and+Civilization+by+Vaclav+Smil&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places hybrid power strategies in the broader history of energy systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Energy+and+Civilization+by+Vaclav+Smil&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Avoid+a+Climate+Disaster+by+Bill+Gates&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Avoid a Climate Disaster on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=yEGNEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How to Avoid a Climate Disaster" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Avoid+a+Climate+Disaster+by+Bill+Gates&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Avoid a Climate Disaster">How to Avoid a Climate Disaster</a>
-        </h4>
-        <p class="fr-book-author">By Bill Gates</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Avoid+a+Climate+Disaster+by+Bill+Gates&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Avoid a Climate Disaster on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=yEGNEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How to Avoid a Climate Disaster" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Avoid+a+Climate+Disaster+by+Bill+Gates&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Avoid a Climate Disaster">How to Avoid a Climate Disaster</a>
+</h4>
+<p class="fr-book-author">By Bill Gates</p>
         
-        <p class="fr-book-desc">Covers the portfolio of clean technologies needed for deep decarbonisation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Avoid+a+Climate+Disaster+by+Bill+Gates&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers the portfolio of clean technologies needed for deep decarbonisation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Avoid+a+Climate+Disaster+by+Bill+Gates&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Grid+by+Gretchen+Bakke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Grid on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=u5AyEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Grid" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Grid+by+Gretchen+Bakke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Grid">The Grid</a>
-        </h4>
-        <p class="fr-book-author">By Gretchen Bakke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Grid+by+Gretchen+Bakke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Grid on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=u5AyEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Grid" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Grid+by+Gretchen+Bakke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Grid">The Grid</a>
+</h4>
+<p class="fr-book-author">By Gretchen Bakke</p>
         
-        <p class="fr-book-desc">Shows why electricity supply must be matched through real networks and operations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Grid+by+Gretchen+Bakke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows why electricity supply must be matched through real networks and operations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Grid+by+Gretchen+Bakke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Bright+Future&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Bright Future</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Energy+and+Civilization&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Energy and Civilization</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Avoid+a+Climate+Disaster&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Avoid a Climate Disaster</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Bright+Future&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Bright Future</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Energy+and+Civilization&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Energy and Civilization</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Avoid+a+Climate+Disaster&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Avoid a Climate Disaster</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=nuclear+power+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hybrid-energy-strategies-how-tech-companies-combine-nuclear-and-renewables-for-ai-ai-bloom-abund-nuclear-power-poster-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nuclear power poster -book -books" data-ebay-reference="hybrid-energy-strategies-how-tech-companies-combine-nuclear-and-renewables-for-ai-ai-bloom-abund-nuclear-power-poster-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Atomic Utopia - Nuclear Power Stati Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/9c0045923c5418c69a52.jpg' | relative_url }}" alt="Listing image for Atomic Utopia - Nuclear Power Stati Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=nuclear+power+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hybrid-energy-strategies-how-tech-companies-combine-nuclear-and-renewables-for-ai-ai-bloom-abund-nuclear-power-poster-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nuclear power poster -book -books" data-ebay-reference="hybrid-energy-strategies-how-tech-companies-combine-nuclear-and-renewables-for-ai-ai-bloom-abund-nuclear-power-poster-bo" target="_blank" rel="sponsored noopener noreferrer">Atomic Utopia - Nuclear Power Stati Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=nuclear+power+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hybrid-energy-strategies-how-tech-companies-combine-nuclear-and-renewables-for-ai-ai-bloom-abund-nuclear-power-poster-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nuclear power poster -book -books" data-ebay-reference="hybrid-energy-strategies-how-tech-companies-combine-nuclear-and-renewables-for-ai-ai-bloom-abund-nuclear-power-poster-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for nuclear power poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: nuclear power poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=nuclear+power+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hybrid-energy-strategies-how-tech-companies-combine-nuclear-and-renewables-for-ai-ai-bloom-abund-nuclear-power-poster-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nuclear power poster -book -books" data-ebay-reference="hybrid-energy-strategies-how-tech-companies-combine-nuclear-and-renewables-for-ai-ai-bloom-abund-nuclear-power-poster-bo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=nuclear+power+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hybrid-energy-strategies-how-tech-companies-combine-nuclear-and-renewables-for-ai-ai-bloom-abund-nuclear-power-poster-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nuclear power poster -book -books" data-ebay-reference="hybrid-energy-strategies-how-tech-companies-combine-nuclear-and-renewables-for-ai-ai-bloom-abund-nuclear-power-poster-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Atomic Utopia - Nuclear Power Stati Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/9c0045923c5418c69a52.jpg' | relative_url }}" alt="Listing image for Atomic Utopia - Nuclear Power Stati Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=nuclear+power+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hybrid-energy-strategies-how-tech-companies-combine-nuclear-and-renewables-for-ai-ai-bloom-abund-nuclear-power-poster-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nuclear power poster -book -books" data-ebay-reference="hybrid-energy-strategies-how-tech-companies-combine-nuclear-and-renewables-for-ai-ai-bloom-abund-nuclear-power-poster-bo" target="_blank" rel="sponsored noopener noreferrer">Atomic Utopia - Nuclear Power Stati Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=nuclear+power+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hybrid-energy-strategies-how-tech-companies-combine-nuclear-and-renewables-for-ai-ai-bloom-abund-nuclear-power-poster-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nuclear power poster -book -books" data-ebay-reference="hybrid-energy-strategies-how-tech-companies-combine-nuclear-and-renewables-for-ai-ai-bloom-abund-nuclear-power-poster-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for nuclear power poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: nuclear power poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=nuclear+power+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hybrid-energy-strategies-how-tech-companies-combine-nuclear-and-renewables-for-ai-ai-bloom-abund-nuclear-power-poster-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nuclear power poster -book -books" data-ebay-reference="hybrid-energy-strategies-how-tech-companies-combine-nuclear-and-renewables-for-ai-ai-bloom-abund-nuclear-power-poster-bo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=nuclear+power+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hybrid-energy-strategies-how-tech-companies-combine-nuclear-and-renewables-for-ai-ai-bloom-abund-nuclear-power-poster-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nuclear power poster -book -books" data-ebay-reference="hybrid-energy-strategies-how-tech-companies-combine-nuclear-and-renewables-for-ai-ai-bloom-abund-nuclear-power-poster-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rare 1970s Vintage Poster, Nuclear Power Is Not Healthy"><img src="{{ '/assets/images/marketplace-covers/43ffa830f1467d263e89.jpg' | relative_url }}" alt="Listing image for Rare 1970s Vintage Poster, Nuclear Power Is Not Healthy" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=nuclear+power+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hybrid-energy-strategies-how-tech-companies-combine-nuclear-and-renewables-for-ai-ai-bloom-abund-nuclear-power-poster-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nuclear power poster -book -books" data-ebay-reference="hybrid-energy-strategies-how-tech-companies-combine-nuclear-and-renewables-for-ai-ai-bloom-abund-nuclear-power-poster-bo" target="_blank" rel="sponsored noopener noreferrer">Rare 1970s Vintage Poster, Nuclear Power Is Not Healthy</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=nuclear+power+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hybrid-energy-strategies-how-tech-companies-combine-nuclear-and-renewables-for-ai-ai-bloom-abund-nuclear-power-poster-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nuclear power poster -book -books" data-ebay-reference="hybrid-energy-strategies-how-tech-companies-combine-nuclear-and-renewables-for-ai-ai-bloom-abund-nuclear-power-poster-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for nuclear power poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: nuclear power poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=nuclear+power+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hybrid-energy-strategies-how-tech-companies-combine-nuclear-and-renewables-for-ai-ai-bloom-abund-nuclear-power-poster-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nuclear power poster -book -books" data-ebay-reference="hybrid-energy-strategies-how-tech-companies-combine-nuclear-and-renewables-for-ai-ai-bloom-abund-nuclear-power-poster-bo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=nuclear+power+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hybrid-energy-strategies-how-tech-companies-combine-nuclear-and-renewables-for-ai-ai-bloom-abund-nuclear-power-poster-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nuclear power poster -book -books" data-ebay-reference="hybrid-energy-strategies-how-tech-companies-combine-nuclear-and-renewables-for-ai-ai-bloom-abund-nuclear-power-poster-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rare 1970s Vintage Poster, Nuclear Power Is Not Healthy"><img src="{{ '/assets/images/marketplace-covers/43ffa830f1467d263e89.jpg' | relative_url }}" alt="Listing image for Rare 1970s Vintage Poster, Nuclear Power Is Not Healthy" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=nuclear+power+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hybrid-energy-strategies-how-tech-companies-combine-nuclear-and-renewables-for-ai-ai-bloom-abund-nuclear-power-poster-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nuclear power poster -book -books" data-ebay-reference="hybrid-energy-strategies-how-tech-companies-combine-nuclear-and-renewables-for-ai-ai-bloom-abund-nuclear-power-poster-bo" target="_blank" rel="sponsored noopener noreferrer">Rare 1970s Vintage Poster, Nuclear Power Is Not Healthy</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=nuclear+power+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hybrid-energy-strategies-how-tech-companies-combine-nuclear-and-renewables-for-ai-ai-bloom-abund-nuclear-power-poster-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nuclear power poster -book -books" data-ebay-reference="hybrid-energy-strategies-how-tech-companies-combine-nuclear-and-renewables-for-ai-ai-bloom-abund-nuclear-power-poster-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for nuclear power poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: nuclear power poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=nuclear+power+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hybrid-energy-strategies-how-tech-companies-combine-nuclear-and-renewables-for-ai-ai-bloom-abund-nuclear-power-poster-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nuclear power poster -book -books" data-ebay-reference="hybrid-energy-strategies-how-tech-companies-combine-nuclear-and-renewables-for-ai-ai-bloom-abund-nuclear-power-poster-bo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=nuclear+power+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hybrid-energy-strategies-how-tech-companies-combine-nuclear-and-renewables-for-ai-ai-bloom-abund-nuclear-power-poster-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nuclear power poster -book -books" data-ebay-reference="hybrid-energy-strategies-how-tech-companies-combine-nuclear-and-renewables-for-ai-ai-bloom-abund-nuclear-power-poster-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Nuclear Power Text - Thermal Power Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/4fdbcebd718728c24fbb.jpg' | relative_url }}" alt="Listing image for Nuclear Power Text - Thermal Power Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=nuclear+power+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hybrid-energy-strategies-how-tech-companies-combine-nuclear-and-renewables-for-ai-ai-bloom-abund-nuclear-power-poster-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nuclear power poster -book -books" data-ebay-reference="hybrid-energy-strategies-how-tech-companies-combine-nuclear-and-renewables-for-ai-ai-bloom-abund-nuclear-power-poster-bo" target="_blank" rel="sponsored noopener noreferrer">Nuclear Power Text - Thermal Power Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=nuclear+power+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hybrid-energy-strategies-how-tech-companies-combine-nuclear-and-renewables-for-ai-ai-bloom-abund-nuclear-power-poster-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nuclear power poster -book -books" data-ebay-reference="hybrid-energy-strategies-how-tech-companies-combine-nuclear-and-renewables-for-ai-ai-bloom-abund-nuclear-power-poster-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for nuclear power poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: nuclear power poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=nuclear+power+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hybrid-energy-strategies-how-tech-companies-combine-nuclear-and-renewables-for-ai-ai-bloom-abund-nuclear-power-poster-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nuclear power poster -book -books" data-ebay-reference="hybrid-energy-strategies-how-tech-companies-combine-nuclear-and-renewables-for-ai-ai-bloom-abund-nuclear-power-poster-bo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=nuclear+power+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hybrid-energy-strategies-how-tech-companies-combine-nuclear-and-renewables-for-ai-ai-bloom-abund-nuclear-power-poster-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nuclear power poster -book -books" data-ebay-reference="hybrid-energy-strategies-how-tech-companies-combine-nuclear-and-renewables-for-ai-ai-bloom-abund-nuclear-power-poster-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Nuclear Power Text - Thermal Power Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/4fdbcebd718728c24fbb.jpg' | relative_url }}" alt="Listing image for Nuclear Power Text - Thermal Power Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=nuclear+power+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hybrid-energy-strategies-how-tech-companies-combine-nuclear-and-renewables-for-ai-ai-bloom-abund-nuclear-power-poster-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nuclear power poster -book -books" data-ebay-reference="hybrid-energy-strategies-how-tech-companies-combine-nuclear-and-renewables-for-ai-ai-bloom-abund-nuclear-power-poster-bo" target="_blank" rel="sponsored noopener noreferrer">Nuclear Power Text - Thermal Power Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=nuclear+power+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hybrid-energy-strategies-how-tech-companies-combine-nuclear-and-renewables-for-ai-ai-bloom-abund-nuclear-power-poster-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nuclear power poster -book -books" data-ebay-reference="hybrid-energy-strategies-how-tech-companies-combine-nuclear-and-renewables-for-ai-ai-bloom-abund-nuclear-power-poster-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for nuclear power poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: nuclear power poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=nuclear+power+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hybrid-energy-strategies-how-tech-companies-combine-nuclear-and-renewables-for-ai-ai-bloom-abund-nuclear-power-poster-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nuclear power poster -book -books" data-ebay-reference="hybrid-energy-strategies-how-tech-companies-combine-nuclear-and-renewables-for-ai-ai-bloom-abund-nuclear-power-poster-bo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=nuclear+power+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hybrid-energy-strategies-how-tech-companies-combine-nuclear-and-renewables-for-ai-ai-bloom-abund-nuclear-power-poster-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nuclear power poster -book -books" data-ebay-reference="hybrid-energy-strategies-how-tech-companies-combine-nuclear-and-renewables-for-ai-ai-bloom-abund-nuclear-power-poster-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Richard Adams ‘Nuclear Power Gives Us Everything’ ‼️ RARE VINTAGE POSTER"><img src="{{ '/assets/images/marketplace-covers/621fd5322b4e25bcfbd1.jpg' | relative_url }}" alt="Listing image for Richard Adams ‘Nuclear Power Gives Us Everything’ ‼️ RARE VINTAGE POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=nuclear+power+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hybrid-energy-strategies-how-tech-companies-combine-nuclear-and-renewables-for-ai-ai-bloom-abund-nuclear-power-poster-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nuclear power poster -book -books" data-ebay-reference="hybrid-energy-strategies-how-tech-companies-combine-nuclear-and-renewables-for-ai-ai-bloom-abund-nuclear-power-poster-bo" target="_blank" rel="sponsored noopener noreferrer">Richard Adams ‘Nuclear Power Gives Us Everything’ ‼️ RARE VINTAGE POSTER</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=nuclear+power+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hybrid-energy-strategies-how-tech-companies-combine-nuclear-and-renewables-for-ai-ai-bloom-abund-nuclear-power-poster-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nuclear power poster -book -books" data-ebay-reference="hybrid-energy-strategies-how-tech-companies-combine-nuclear-and-renewables-for-ai-ai-bloom-abund-nuclear-power-poster-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for nuclear power poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: nuclear power poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=nuclear+power+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hybrid-energy-strategies-how-tech-companies-combine-nuclear-and-renewables-for-ai-ai-bloom-abund-nuclear-power-poster-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nuclear power poster -book -books" data-ebay-reference="hybrid-energy-strategies-how-tech-companies-combine-nuclear-and-renewables-for-ai-ai-bloom-abund-nuclear-power-poster-bo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=nuclear+power+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hybrid-energy-strategies-how-tech-companies-combine-nuclear-and-renewables-for-ai-ai-bloom-abund-nuclear-power-poster-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nuclear power poster -book -books" data-ebay-reference="hybrid-energy-strategies-how-tech-companies-combine-nuclear-and-renewables-for-ai-ai-bloom-abund-nuclear-power-poster-bo" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=nuclear+power+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hybrid-energy-strategies-how-tech-companies-combine-nuclear-and-renewables-for-ai-ai-bloom-abund-nuclear-power-poster-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nuclear power poster -book -books" data-ebay-reference="hybrid-energy-strategies-how-tech-companies-combine-nuclear-and-renewables-for-ai-ai-bloom-abund-nuclear-power-poster-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Richard Adams ‘Nuclear Power Gives Us Everything’ ‼️ RARE VINTAGE POSTER"><img src="{{ '/assets/images/marketplace-covers/621fd5322b4e25bcfbd1.jpg' | relative_url }}" alt="Listing image for Richard Adams ‘Nuclear Power Gives Us Everything’ ‼️ RARE VINTAGE POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=nuclear+power+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hybrid-energy-strategies-how-tech-companies-combine-nuclear-and-renewables-for-ai-ai-bloom-abund-nuclear-power-poster-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nuclear power poster -book -books" data-ebay-reference="hybrid-energy-strategies-how-tech-companies-combine-nuclear-and-renewables-for-ai-ai-bloom-abund-nuclear-power-poster-bo" target="_blank" rel="sponsored noopener noreferrer">Richard Adams ‘Nuclear Power Gives Us Everything’ ‼️ RARE VINTAGE POSTER</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=nuclear+power+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hybrid-energy-strategies-how-tech-companies-combine-nuclear-and-renewables-for-ai-ai-bloom-abund-nuclear-power-poster-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nuclear power poster -book -books" data-ebay-reference="hybrid-energy-strategies-how-tech-companies-combine-nuclear-and-renewables-for-ai-ai-bloom-abund-nuclear-power-poster-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for nuclear power poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: nuclear power poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=nuclear+power+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hybrid-energy-strategies-how-tech-companies-combine-nuclear-and-renewables-for-ai-ai-bloom-abund-nuclear-power-poster-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nuclear power poster -book -books" data-ebay-reference="hybrid-energy-strategies-how-tech-companies-combine-nuclear-and-renewables-for-ai-ai-bloom-abund-nuclear-power-poster-bo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=nuclear+power+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hybrid-energy-strategies-how-tech-companies-combine-nuclear-and-renewables-for-ai-ai-bloom-abund-nuclear-power-poster-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nuclear power poster -book -books" data-ebay-reference="hybrid-energy-strategies-how-tech-companies-combine-nuclear-and-renewables-for-ai-ai-bloom-abund-nuclear-power-poster-bo" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -534,7 +534,7 @@ Ultimately, by blending nuclear reliability with renewable ambition, corporate e
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -554,7 +554,7 @@ Ultimately, by blending nuclear reliability with renewable ambition, corporate e
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -586,7 +586,7 @@ Ultimately, by blending nuclear reliability with renewable ambition, corporate e
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -638,7 +638,7 @@ Ultimately, by blending nuclear reliability with renewable ambition, corporate e
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -683,7 +683,7 @@ Ultimately, by blending nuclear reliability with renewable ambition, corporate e
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -724,148 +724,148 @@ Ultimately, by blending nuclear reliability with renewable ambition, corporate e
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: wtwco.com  
    Title: WTWThe expanding energy frontier of data centers  
-   Link: <a href="https://www.wtwco.com/en-bm/insights/2025/01/the-expanding-energy-frontier-of-data-centers-nuclear-wind-solar-and-other-energy-sources" target="_blank" rel="noopener noreferrer nofollow">https://www.wtwco.com/en-bm/insights/2025/01/the-expanding-energy-frontier-of-data-centers-nuclear-wind-solar-and-other-energy-sources</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WTWJanuary 14, 2025...</p></details>
+   Link:<a href="https://www.wtwco.com/en-bm/insights/2025/01/the-expanding-energy-frontier-of-data-centers-nuclear-wind-solar-and-other-energy-sources" target="_blank" rel="noopener noreferrer nofollow">https://www.wtwco.com/en-bm/insights/2025/01/the-expanding-energy-frontier-of-data-centers-nuclear-wind-solar-and-other-energy-sources</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WTWJanuary 14, 2025...</p></details>
    Published: January 14, 2025  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: feeds.optenpower.com  
    Title: renewable energy procurement data centers  
-   Link: <a href="https://feeds.optenpower.com/blog/renewable-energy-procurement-data-centers" target="_blank" rel="noopener noreferrer nofollow">https://feeds.optenpower.com/blog/renewable-energy-procurement-data-centers</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Data Centers Drive Surge in Clean Energy Procurement in 2026...</p></details>
+   Link:<a href="https://feeds.optenpower.com/blog/renewable-energy-procurement-data-centers" target="_blank" rel="noopener noreferrer nofollow">https://feeds.optenpower.com/blog/renewable-energy-procurement-data-centers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Data Centers Drive Surge in Clean Energy Procurement in 2026...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: presenc.ai  
    Title: hyperscaler nuclear ppa tracker 2026  
-   Link: <a href="https://presenc.ai/research/hyperscaler-nuclear-ppa-tracker-2026" target="_blank" rel="noopener noreferrer nofollow">https://presenc.ai/research/hyperscaler-nuclear-ppa-tracker-2026</a>  
+   Link:<a href="https://presenc.ai/research/hyperscaler-nuclear-ppa-tracker-2026" target="_blank" rel="noopener noreferrer nofollow">https://presenc.ai/research/hyperscaler-nuclear-ppa-tracker-2026</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2603.00415" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2603.00415</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Grid Integration of AI Data Centers: A Critical Review of Energy Storage SolutionsFebruary 28, 2026...</p></details>
+   Link:<a href="https://arxiv.org/abs/2603.00415" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2603.00415</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Grid Integration of AI Data Centers: A Critical Review of Energy Storage SolutionsFebruary 28, 2026...</p></details>
    Published: February 28, 2026  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: enkiai.com  
    Title: Enki AI  
-   Link: <a href="https://enkiai.com/data-centers/data-center-energy-2026-equinixs-nuclear-pivot" target="_blank" rel="noopener noreferrer nofollow">https://enkiai.com/data-centers/data-center-energy-2026-equinixs-nuclear-pivot</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Find the right insightData Center Energy 2026: Equinix&#x27;s Nuclear PivotMarch 2, 2026...</p></details>
+   Link:<a href="https://enkiai.com/data-centers/data-center-energy-2026-equinixs-nuclear-pivot" target="_blank" rel="noopener noreferrer nofollow">https://enkiai.com/data-centers/data-center-energy-2026-equinixs-nuclear-pivot</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Find the right insightData Center Energy 2026: Equinix&#x27;s Nuclear PivotMarch 2, 2026...</p></details>
    Published: March 2, 2026  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: newsroom.equinix.com  
-   Link: <a href="https://newsroom.equinix.com/2025-08-14-Equinix-and-ULC-Energy-Collaborate-to-Support-Sustainable-AI-Data-Center-Growth-in-the-Netherlands-with-Clean-Nuclear-Power" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.equinix.com/2025-08-14-Equinix-and-ULC-Energy-Collaborate-to-Support-Sustainable-AI-Data-Center-Growth-in-the-Netherlands-with-Clean-Nuclear-Power</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(Nasdaq: EQIX), the world&#x27;s digital infrastructure company^{®}, announced a landmark collaboration with Amsterdam-based ULC-Energy to exp...</p></details>
+   Link:<a href="https://newsroom.equinix.com/2025-08-14-Equinix-and-ULC-Energy-Collaborate-to-Support-Sustainable-AI-Data-Center-Growth-in-the-Netherlands-with-Clean-Nuclear-Power" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.equinix.com/2025-08-14-Equinix-and-ULC-Energy-Collaborate-to-Support-Sustainable-AI-Data-Center-Growth-in-the-Netherlands-with-Clean-Nuclear-Power</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(Nasdaq: EQIX), the world&#x27;s digital infrastructure company^{®}, announced a landmark collaboration with Amsterdam-based ULC-Energy to exp...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reddit.com  
    Title: AI is killing the green energy trade and replacing it with Hard Power  
-   Link: <a href="https://www.reddit.com/r/investing/comments/1s61yle/ai_is_killing_the_green_energy_trade_and/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/investing/comments/1s61yle/ai_is_killing_the_green_energy_trade_and/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AI is killing the green energy trade and replacing it with Hard PowerMarch 28, 2026...</p></details>
+   Link:<a href="https://www.reddit.com/r/investing/comments/1s61yle/ai_is_killing_the_green_energy_trade_and/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/investing/comments/1s61yle/ai_is_killing_the_green_energy_trade_and/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI is killing the green energy trade and replacing it with Hard PowerMarch 28, 2026...</p></details>
    Published: March 28, 2026  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: enkiai.com  
    Title: equinix smr data centers  
-   Link: <a href="https://enkiai.com/nuclear/equinix-smr-data-centers/" target="_blank" rel="noopener noreferrer nofollow">https://enkiai.com/nuclear/equinix-smr-data-centers/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Equinix Nuclear 2026, 500 MW Oklo Power Purchase PactApril 30, 2026 — EQUINIX ADVANCED REACTOR PACTS, 1.25 GW NUCLEAR DEALS, A $1.6 B STA...</p></details>
+   Link:<a href="https://enkiai.com/nuclear/equinix-smr-data-centers/" target="_blank" rel="noopener noreferrer nofollow">https://enkiai.com/nuclear/equinix-smr-data-centers/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Equinix Nuclear 2026, 500 MW Oklo Power Purchase PactApril 30, 2026 — EQUINIX ADVANCED REACTOR PACTS, 1.25 GW NUCLEAR DEALS, A $1.6 B STA...</p></details>
    Published: April 30, 2026  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: enkiai.com  
    Title: data center energy 2026 equinixs nuclear pivot  
-   Link: <a href="https://enkiai.com/data-center-energy-2026-equinixs-nuclear-pivot" target="_blank" rel="noopener noreferrer nofollow">https://enkiai.com/data-center-energy-2026-equinixs-nuclear-pivot</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Data Center Energy 2026: Equinix&#x27;s Nuclear PivotMarch 2, 2026 — DATA CENTER ENERGY 2026: WHY EQUINIX’S PIVOT TO NUCLEAR SIGNALS A GRID BY...</p></details>
+   Link:<a href="https://enkiai.com/data-center-energy-2026-equinixs-nuclear-pivot" target="_blank" rel="noopener noreferrer nofollow">https://enkiai.com/data-center-energy-2026-equinixs-nuclear-pivot</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Data Center Energy 2026: Equinix&#x27;s Nuclear PivotMarch 2, 2026 — DATA CENTER ENERGY 2026: WHY EQUINIX’S PIVOT TO NUCLEAR SIGNALS A GRID BY...</p></details>
    Published: March 2, 2026  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: enkiai.com  
    Title: equinixs 2025 nuclear strategy powering the ai boom  
-   Link: <a href="https://enkiai.com/ai-market-[intelligence" target="_blank" rel="noopener noreferrer nofollow">https://enkiai.com/ai-market-[intelligence</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Equinix’s 2025 Nuclear Strategy: Powering the AI Boom - EnkiAIDecember 18, 2025 — EQUINIX’S 2025 NUCLEAR POWER STRATEGY: HOW SMRS AND FUE...</p></details>
+   Link:<a href="https://enkiai.com/ai-market-[intelligence" target="_blank" rel="noopener noreferrer nofollow">https://enkiai.com/ai-market-[intelligence</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Equinix’s 2025 Nuclear Strategy: Powering the AI Boom - EnkiAIDecember 18, 2025 — EQUINIX’S 2025 NUCLEAR POWER STRATEGY: HOW SMRS AND FUE...</p></details>
    Published: December 18, 2025  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: powermag.com  
-   Link: <a href="https://www.powermag.com/meta-locks-in-up-to-6-6-gw-of-nuclear-power-through-deals-with-vistra-oklo-and-terrapower/" target="_blank" rel="noopener noreferrer nofollow">https://www.powermag.com/meta-locks-in-up-to-6-6-gw-of-nuclear-power-through-deals-with-vistra-oklo-and-terrapower/</a>  
+   Link:<a href="https://www.powermag.com/meta-locks-in-up-to-6-6-gw-of-nuclear-power-through-deals-with-vistra-oklo-and-terrapower/" target="_blank" rel="noopener noreferrer nofollow">https://www.powermag.com/meta-locks-in-up-to-6-6-gw-of-nuclear-power-through-deals-with-vistra-oklo-and-terrapower/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: arc-cleantech.com  
    Title: ARC Clean Technology AI Data Centers | ARC Clean Technology  
-   Link: <a href="https://www.arc-cleantech.com/applications/ai-data-centers" target="_blank" rel="noopener noreferrer nofollow">https://www.arc-cleantech.com/applications/ai-data-centers</a>  
+   Link:<a href="https://www.arc-cleantech.com/applications/ai-data-centers" target="_blank" rel="noopener noreferrer nofollow">https://www.arc-cleantech.com/applications/ai-data-centers</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: tomshardware.com  
-   Link: <a href="https://www.tomshardware.com/tech-industry/artificial-intelligence/meta-will-beam-sunlight-from-space-to-power-ai-data-centers-solar-collecting-satellites-will-orbit-22-000-miles-above-earth-firm-reserves-1-gigawatt-of-orbital-solar-energy-and-100-gigawatt-hours-of-long-duration-storage" target="_blank" rel="noopener noreferrer nofollow">https://www.tomshardware.com/tech-industry/artificial-intelligence/meta-will-beam-sunlight-from-space-to-power-ai-data-centers-solar-collecting-satellites-will-orbit-22-000-miles-above-earth-firm-reserves-1-gigawatt-of-orbital-solar-energy-and-100-gigawatt-hours-of-long-duration-storage</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The company plans to deploy solar-collecting satellites in geosynchronous orbit (22,000 miles above Earth) through a partnership with Ove...</p></details>
+   Link:<a href="https://www.tomshardware.com/tech-industry/artificial-intelligence/meta-will-beam-sunlight-from-space-to-power-ai-data-centers-solar-collecting-satellites-will-orbit-22-000-miles-above-earth-firm-reserves-1-gigawatt-of-orbital-solar-energy-and-100-gigawatt-hours-of-long-duration-storage" target="_blank" rel="noopener noreferrer nofollow">https://www.tomshardware.com/tech-industry/artificial-intelligence/meta-will-beam-sunlight-from-space-to-power-ai-data-centers-solar-collecting-satellites-will-orbit-22-000-miles-above-earth-firm-reserves-1-gigawatt-of-orbital-solar-energy-and-100-gigawatt-hours-of-long-duration-storage</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The company plans to deploy solar-collecting satellites in geosynchronous orbit (22,000 miles above Earth) through a partnership with Ove...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: spglobal.com  
-   Link: <a href="https://www.spglobal.com/energy/en/news-research/latest-news/electric-power/021226-totalenergies-targets-ai-driven-growth-with-premium-power-deals-for-data-centers" target="_blank" rel="noopener noreferrer nofollow">https://www.spglobal.com/energy/en/news-research/latest-news/electric-power/021226-totalenergies-targets-ai-driven-growth-with-premium-power-deals-for-data-centers</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>S&amp;P GlobalTotalEnergies targets AI-driven growth with premium power deals for data centers | S&amp;P GlobalFebruary 12, 2026...</p></details>
+   Link:<a href="https://www.spglobal.com/energy/en/news-research/latest-news/electric-power/021226-totalenergies-targets-ai-driven-growth-with-premium-power-deals-for-data-centers" target="_blank" rel="noopener noreferrer nofollow">https://www.spglobal.com/energy/en/news-research/latest-news/electric-power/021226-totalenergies-targets-ai-driven-growth-with-premium-power-deals-for-data-centers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>S&amp;P GlobalTotalEnergies targets AI-driven growth with premium power deals for data centers | S&amp;P GlobalFebruary 12, 2026...</p></details>
    Published: February 12, 2026  
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: datacenterfrontier.com  
-   Link: <a href="https://www.datacenterfrontier.com/energy/article/55337236/dual-feed-nextera-energy-totalenergies-engie-miso-south-nipsco-propetro-claibrant-energy-dte-energy-redwood-materials-kulr-honeywell?preview-mode=true" target="_blank" rel="noopener noreferrer nofollow">https://www.datacenterfrontier.com/energy/article/55337236/dual-feed-nextera-energy-totalenergies-engie-miso-south-nipsco-propetro-claibrant-energy-dte-energy-redwood-materials-kulr-honeywell?preview-mode=true</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dual Feed: NextEra Energy, TotalEnergies, ENGIE, MISO South, NIPSCO, ProPetro, Claibrant Energy, DTE Energy, Redwood Materials, KULR, Hon...</p></details>
+   Link:<a href="https://www.datacenterfrontier.com/energy/article/55337236/dual-feed-nextera-energy-totalenergies-engie-miso-south-nipsco-propetro-claibrant-energy-dte-energy-redwood-materials-kulr-honeywell?preview-mode=true" target="_blank" rel="noopener noreferrer nofollow">https://www.datacenterfrontier.com/energy/article/55337236/dual-feed-nextera-energy-totalenergies-engie-miso-south-nipsco-propetro-claibrant-energy-dte-energy-redwood-materials-kulr-honeywell?preview-mode=true</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dual Feed: NextEra Energy, TotalEnergies, ENGIE, MISO South, NIPSCO, ProPetro, Claibrant Energy, DTE Energy, Redwood Materials, KULR, Hon...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: datacenterfrontier.com  
-   Link: <a href="https://www.datacenterfrontier.com/energy/article/55309204/equinix-bets-on-nuclear-and-fuel-cells-to-meet-exploding-data-center-energy-demand" target="_blank" rel="noopener noreferrer nofollow">https://www.datacenterfrontier.com/energy/article/55309204/equinix-bets-on-nuclear-and-fuel-cells-to-meet-exploding-data-center-energy-demand</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>August 18, 2025 — EQUINIX BETS ON NUCLEAR AND FUEL CELLS TO MEET EXPLODING DATA CENTER ENERGY DEMAND Fuel cells and next-gen nuclear give...</p></details>
+   Link:<a href="https://www.datacenterfrontier.com/energy/article/55309204/equinix-bets-on-nuclear-and-fuel-cells-to-meet-exploding-data-center-energy-demand" target="_blank" rel="noopener noreferrer nofollow">https://www.datacenterfrontier.com/energy/article/55309204/equinix-bets-on-nuclear-and-fuel-cells-to-meet-exploding-data-center-energy-demand</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>August 18, 2025 — EQUINIX BETS ON NUCLEAR AND FUEL CELLS TO MEET EXPLODING DATA CENTER ENERGY DEMAND Fuel cells and next-gen nuclear give...</p></details>
    Published: August 18, 2025  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: stratacleanenergy.com  
-   Link: <a href="https://stratacleanenergy.com/industry-expertise/hyperscalers-and-data-centers/" target="_blank" rel="noopener noreferrer nofollow">https://stratacleanenergy.com/industry-expertise/hyperscalers-and-data-centers/</a>  
+   Link:<a href="https://stratacleanenergy.com/industry-expertise/hyperscalers-and-data-centers/" target="_blank" rel="noopener noreferrer nofollow">https://stratacleanenergy.com/industry-expertise/hyperscalers-and-data-centers/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: datacentrenews.uk  
-   Link: <a href="https://datacentrenews.uk/story/equinix-invests-in-new-nuclear-fuel-cell-power-for-data-centres" target="_blank" rel="noopener noreferrer nofollow">https://datacentrenews.uk/story/equinix-invests-in-new-nuclear-fuel-cell-power-for-data-centres</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Equinix invests in new nuclear &amp; fuel cell power for data centresAugust 15, 2025 — Image: Bloom energy fuel cell deployment at an equinix...</p></details>
+   Link:<a href="https://datacentrenews.uk/story/equinix-invests-in-new-nuclear-fuel-cell-power-for-data-centres" target="_blank" rel="noopener noreferrer nofollow">https://datacentrenews.uk/story/equinix-invests-in-new-nuclear-fuel-cell-power-for-data-centres</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Equinix invests in new nuclear &amp; fuel cell power for data centresAugust 15, 2025 — Image: Bloom energy fuel cell deployment at an equinix...</p></details>
    Published: August 15, 2025  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: energydigital.com  
    Title: Why Meta Sees Nuclear as the Future of Data Centre Energy | Energy Digital  
-   Link: <a href="https://energydigital.com/news/why-meta-sees-nuclear-as-the-future-of-data-centre-energy" target="_blank" rel="noopener noreferrer nofollow">https://energydigital.com/news/why-meta-sees-nuclear-as-the-future-of-data-centre-energy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>January 12, 2026 — Renewable Energy WHY META SEES NUCLEAR AS THE FUTURE OF DATA CENTRE ENERGY By James Darley January 12, 2026 undefined...</p></details>
+   Link:<a href="https://energydigital.com/news/why-meta-sees-nuclear-as-the-future-of-data-centre-energy" target="_blank" rel="noopener noreferrer nofollow">https://energydigital.com/news/why-meta-sees-nuclear-as-the-future-of-data-centre-energy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>January 12, 2026 — Renewable Energy WHY META SEES NUCLEAR AS THE FUTURE OF DATA CENTRE ENERGY By James Darley January 12, 2026 undefined...</p></details>
    Published: January 12, 2026  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: datacenterdynamics.com  
    Title: Amazon claims title of Europe's largest corporate buyer of renewables  
-   Link: <a href="https://www.datacenterdynamics.com/en/news/amazon-claims-title-of-europes-largest-corporate-buyer-of-renewables-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.datacenterdynamics.com/en/news/amazon-claims-title-of-europes-largest-corporate-buyer-of-renewables-report/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>report - DCDApril 10, 2026 — AMAZON CLAIMS TITLE OF EUROPE&#x27;S LARGEST CORPORATE BUYER OF RENEWABLES - REPORT Now has more than 10GW of con...</p></details>
+   Link:<a href="https://www.datacenterdynamics.com/en/news/amazon-claims-title-of-europes-largest-corporate-buyer-of-renewables-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.datacenterdynamics.com/en/news/amazon-claims-title-of-europes-largest-corporate-buyer-of-renewables-report/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>report - DCDApril 10, 2026 — AMAZON CLAIMS TITLE OF EUROPE&#x27;S LARGEST CORPORATE BUYER OF RENEWABLES - REPORT Now has more than 10GW of con...</p></details>
    Published: April 10, 2026  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: convergedigest.com  
    Title: Equinix Expands Nuclear Power Partnerships  
-   Link: <a href="https://convergedigest.com/equinix-expands-nuclear-power-partnerships/" target="_blank" rel="noopener noreferrer nofollow">https://convergedigest.com/equinix-expands-nuclear-power-partnerships/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Converge DigestAugust 14, 2025 — EQUINIX EXPANDS NUCLEAR POWER PARTNERSHIPS August 14, 2025 in Data Centers Equinix announced a series of...</p></details>
+   Link:<a href="https://convergedigest.com/equinix-expands-nuclear-power-partnerships/" target="_blank" rel="noopener noreferrer nofollow">https://convergedigest.com/equinix-expands-nuclear-power-partnerships/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Converge DigestAugust 14, 2025 — EQUINIX EXPANDS NUCLEAR POWER PARTNERSHIPS August 14, 2025 in Data Centers Equinix announced a series of...</p></details>
    Published: August 14, 2025  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: computeforecast.com  
    Title: Modern hyperscale facilities that supp  
-   Link: <a href="https://www.computeforecast.com/long-reads/nuclear-power-ai-data-centers/" target="_blank" rel="noopener noreferrer nofollow">https://www.computeforecast.com/long-reads/nuclear-power-ai-data-centers/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Assessing the Strategic Alignment of Advanced Nuclear Reactors and Hyperscale Data Infrastructure | COMPUTE FORECASTFebruary 10, 2026 — T...</p></details>
+   Link:<a href="https://www.computeforecast.com/long-reads/nuclear-power-ai-data-centers/" target="_blank" rel="noopener noreferrer nofollow">https://www.computeforecast.com/long-reads/nuclear-power-ai-data-centers/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Assessing the Strategic Alignment of Advanced Nuclear Reactors and Hyperscale Data Infrastructure | COMPUTE FORECASTFebruary 10, 2026 — T...</p></details>
    Published: February 10, 2026  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: red-eng.com  
-   Link: <a href="https://www.red-eng.com/insights/knowledge-base/what-is-the-role-of-nuclear-energy-in-next-gen-data-centres" target="_blank" rel="noopener noreferrer nofollow">https://www.red-eng.com/insights/knowledge-base/what-is-the-role-of-nuclear-energy-in-next-gen-data-centres</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nuclear energy, particularly through large plants a...</p></details>
+   Link:<a href="https://www.red-eng.com/insights/knowledge-base/what-is-the-role-of-nuclear-energy-in-next-gen-data-centres" target="_blank" rel="noopener noreferrer nofollow">https://www.red-eng.com/insights/knowledge-base/what-is-the-role-of-nuclear-energy-in-next-gen-data-centres</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nuclear energy, particularly through large plants a...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
    Title: Three Mile Island Nuclear Plant Will Reopen to Power Microsoft Data Centers  
-   Link: <a href="https://www.youtube.com/watch?v=ddd4xjuJTyg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ddd4xjuJTyg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Microsoft Deal to Restart Three Mile Island Could Be a Game-Changer...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ddd4xjuJTyg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ddd4xjuJTyg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Microsoft Deal to Restart Three Mile Island Could Be a Game-Changer...</p></details>

@@ -278,7 +278,7 @@ image: /assets/images/AI_Bloom_Abun_98d3a6_abundant_inte_594dea_ai_research_a_23
 The first convincing home for AI scientists is unlikely to be a wet laboratory full of chemicals, microscopes and expensive equipment. It is far more likely to be a digital environment where experiments are cheap, fast, repeatable and automatically measured.
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_abundant_inte_594dea_ai_research_a_234d5d_digital_exper_279f8d-Illustration-1-dark.svg" | relative_url }}" alt="Digital labs illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_abundant_inte_594dea_ai_research_a_234d5d_digital_exper_279f8d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_abundant_inte_594dea_ai_research_a_234d5d_digital_exper_279f8d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This matters because one of the central hopes behind AI-driven scientific acceleration is not merely that AI helps researchers write papers or search literature. The larger possibility is that increasingly autonomous systems could participate in the full cycle of [discovery]({{ 'discovery/' | relative_url }}): proposing ideas, designing tests, running experiments, analysing results and refining hypotheses. For now, the easiest place to attempt that is in software. Machine-learning research, computer science and other digital domains provide something rare in science: environments where thousands of experiments can be launched automatically, evaluated objectively and repeated at low cost. That makes them natural training grounds for AI [research agents]({{ 'research-agents/' | relative_url }}) before they move into harder fields such as biology, medicine and materials science. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sakana.ai/ai-scientist/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sakana.ai">[Sakana AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sakana.ai</span><span class="citation-popover-title">ai scientist</span><span class="citation-popover-snippet">Towards Fully Automated Open-Ended Scientific DiscoveryAug 13, 2024 — The AI Scientist is a fully automated pipeline for end-to-end paper...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-026-10265-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">We present The AI Scientist, which creates research ideas...Read more...</span></span></span>
+This matters because one of the central hopes behind AI-driven scientific acceleration is not merely that AI helps researchers write papers or search literature. The larger possibility is that increasingly autonomous systems could participate in the full cycle of [discovery]({{ 'discovery/' | relative_url }}): proposing ideas, designing tests, running experiments, analysing results and refining hypotheses. For now, the easiest place to attempt that is in software. Machine-learning research, computer science and other digital domains provide something rare in science: environments where thousands of experiments can be launched automatically, evaluated objectively and repeated at low cost. That makes them natural training grounds for AI [research agents]({{ 'research-agents/' | relative_url }}) before they move into harder fields such as biology, medicine and materials science.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sakana.ai/ai-scientist/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sakana.ai">[Sakana AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sakana.ai</span><span class="citation-popover-title">ai scientist</span><span class="citation-popover-snippet">Towards Fully Automated Open-Ended Scientific DiscoveryAug 13, 2024 — The AI Scientist is a fully automated pipeline for end-to-end paper...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-026-10265-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">We present The AI Scientist, which creates research ideas...Read more...</span></span></span>
 
 ## Why digital experiments fit autonomous science
 
@@ -286,7 +286,7 @@ Scientific research is difficult to automate because reality is messy. Experimen
 
 Digital experiments remove many of those obstacles.
 
-In machine learning research, an experiment often consists of modifying code, training a model, collecting performance metrics and comparing results against a benchmark. The environment is already computer-readable. The tools are software. The measurements are numerical. Success and failure can often be scored automatically. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sakana.ai/ai-scientist/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sakana.ai">[Sakana AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sakana.ai</span><span class="citation-popover-title">ai scientist</span><span class="citation-popover-snippet">Towards Fully Automated Open-Ended Scientific DiscoveryAug 13, 2024 — The AI Scientist is a fully automated pipeline for end-to-end paper...</span></span></span>
+In machine learning research, an experiment often consists of modifying code, training a model, collecting performance metrics and comparing results against a benchmark. The environment is already computer-readable. The tools are software. The measurements are numerical. Success and failure can often be scored automatically.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sakana.ai/ai-scientist/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sakana.ai">[Sakana AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sakana.ai</span><span class="citation-popover-title">ai scientist</span><span class="citation-popover-snippet">Towards Fully Automated Open-Ended Scientific DiscoveryAug 13, 2024 — The AI Scientist is a fully automated pipeline for end-to-end paper...</span></span></span>
 
 That creates several advantages for AI agents:
 
@@ -302,13 +302,13 @@ That creates several advantages for AI agents:
 
 These properties make machine learning unusually suitable for automation. An AI system does not need to learn how to operate delicate physical instruments or cope with unpredictable laboratory conditions before contributing. It can interact directly with a world already expressed in code.
 
-This helps explain why many of the most ambitious demonstrations of autonomous AI research have appeared first in AI research itself. Researchers are testing whether AI can improve machine-learning systems partly because machine learning is one of the few scientific domains where the entire experimental workflow already lives inside a computer. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sakana.ai/ai-scientist/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sakana.ai">[Sakana AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sakana.ai</span><span class="citation-popover-title">ai scientist</span><span class="citation-popover-snippet">Towards Fully Automated Open-Ended Scientific DiscoveryAug 13, 2024 — The AI Scientist is a fully automated pipeline for end-to-end paper...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/d41586-026-00899-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">How to build an AI scientist: first peer-reviewed paper spills...Mar 25, 2026 — AI Scientist, an autonomous research tool, first r...</span></span></span>
+This helps explain why many of the most ambitious demonstrations of autonomous AI research have appeared first in AI research itself. Researchers are testing whether AI can improve machine-learning systems partly because machine learning is one of the few scientific domains where the entire experimental workflow already lives inside a computer.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sakana.ai/ai-scientist/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sakana.ai">[Sakana AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sakana.ai</span><span class="citation-popover-title">ai scientist</span><span class="citation-popover-snippet">Towards Fully Automated Open-Ended Scientific DiscoveryAug 13, 2024 — The AI Scientist is a fully automated pipeline for end-to-end paper...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/d41586-026-00899-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">How to build an AI scientist: first peer-reviewed paper spills...Mar 25, 2026 — AI Scientist, an autonomous research tool, first r...</span></span></span>
 
 ## What AI Scientist-style systems can already automate
 
 Recent projects have attempted to automate far more than isolated research tasks.
 
-Sakana AI's "The AI Scientist" system became one of the most widely discussed examples because it aimed to automate an entire machine-learning research pipeline. According to the project's description and subsequent peer-reviewed publication, the system can generate research ideas, search relevant literature, write experimental code, run tests, produce figures, analyse results, draft a paper and even conduct a simulated review process. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sakana.ai/ai-scientist/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sakana.ai">[Sakana AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sakana.ai</span><span class="citation-popover-title">ai scientist</span><span class="citation-popover-snippet">Towards Fully Automated Open-Ended Scientific DiscoveryAug 13, 2024 — The AI Scientist is a fully automated pipeline for end-to-end paper...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-026-10265-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">We present The AI Scientist, which creates research ideas...Read more...</span></span></span>
+Sakana AI's "The AI Scientist" system became one of the most widely discussed examples because it aimed to automate an entire machine-learning research pipeline. According to the project's description and subsequent peer-reviewed publication, the system can generate research ideas, search relevant literature, write experimental code, run tests, produce figures, analyse results, draft a paper and even conduct a simulated review process.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sakana.ai/ai-scientist/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sakana.ai">[Sakana AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sakana.ai</span><span class="citation-popover-title">ai scientist</span><span class="citation-popover-snippet">Towards Fully Automated Open-Ended Scientific DiscoveryAug 13, 2024 — The AI Scientist is a fully automated pipeline for end-to-end paper...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-026-10265-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">We present The AI Scientist, which creates research ideas...Read more...</span></span></span>
 
 The significance is not that the system suddenly achieved human-level scientific creativity across all domains. The significance is that an end-to-end loop became technically possible.
 
@@ -327,11 +327,11 @@ Instead of helping with one stage of research, these systems attempt to connect 
 
 </div>
 
-Because the underlying experiments are digital, the entire cycle can occur without waiting for physical samples, laboratory scheduling or manufacturing constraints. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sakana.ai/ai-scientist/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sakana.ai">[Sakana AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sakana.ai</span><span class="citation-popover-title">ai scientist</span><span class="citation-popover-snippet">Towards Fully Automated Open-Ended Scientific DiscoveryAug 13, 2024 — The AI Scientist is a fully automated pipeline for end-to-end paper...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/d41586-026-00899-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">How to build an AI scientist: first peer-reviewed paper spills...Mar 25, 2026 — AI Scientist, an autonomous research tool, first r...</span></span></span>
+Because the underlying experiments are digital, the entire cycle can occur without waiting for physical samples, laboratory scheduling or manufacturing constraints.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sakana.ai/ai-scientist/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sakana.ai">[Sakana AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sakana.ai</span><span class="citation-popover-title">ai scientist</span><span class="citation-popover-snippet">Towards Fully Automated Open-Ended Scientific DiscoveryAug 13, 2024 — The AI Scientist is a fully automated pipeline for end-to-end paper...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/d41586-026-00899-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">How to build an AI scientist: first peer-reviewed paper spills...Mar 25, 2026 — AI Scientist, an autonomous research tool, first r...</span></span></span>
 
-One striking claim from the original AI Scientist work was that complete machine-learning papers could be generated for costs measured in tens of dollars rather than the months of researcher labour normally associated with scientific projects. Even critics of the system generally agree that it demonstrates a substantial reduction in the cost of producing exploratory research experiments, though they dispute how much genuine scientific insight is being created. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2408.06292" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery</span><span class="citation-popover-snippet">arXiv The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery</span></span></span>
+One striking claim from the original AI Scientist work was that complete machine-learning papers could be generated for costs measured in tens of dollars rather than the months of researcher labour normally associated with scientific projects. Even critics of the system generally agree that it demonstrates a substantial reduction in the cost of producing exploratory research experiments, though they dispute how much genuine scientific insight is being created.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2408.06292" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery</span><span class="citation-popover-snippet">arXiv The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery</span></span></span>
 
-The broader pattern matters more than any individual project. Once research becomes software-native, every improvement in AI models, coding systems and computational infrastructure can potentially improve the research process itself. Research agents can test more variations, explore larger search spaces and iterate faster than human researchers working alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/d41586-026-00899-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">How to build an AI scientist: first peer-reviewed paper spills...Mar 25, 2026 — AI Scientist, an autonomous research tool, first r...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2408.06292" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery</span><span class="citation-popover-snippet">arXiv The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery</span></span></span>
+The broader pattern matters more than any individual project. Once research becomes software-native, every improvement in AI models, coding systems and computational infrastructure can potentially improve the research process itself. Research agents can test more variations, explore larger search spaces and iterate faster than human researchers working alone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/d41586-026-00899-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">How to build an AI scientist: first peer-reviewed paper spills...Mar 25, 2026 — AI Scientist, an autonomous research tool, first r...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2408.06292" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery</span><span class="citation-popover-snippet">arXiv The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery</span></span></span>
 
 ## Why machine learning becomes a proving ground
 
@@ -339,11 +339,11 @@ There is another reason AI research is becoming the first testing ground for AI 
 
 Machine-learning research already depends heavily on computational experiments. When an AI system proposes a new training method, architecture modification or optimisation technique, that proposal can often be evaluated immediately by running software benchmarks.
 
-This creates a setting where research agents can generate ideas and test them at scale. Some researchers describe this as a possible path towards partially automated improvement of AI systems themselves. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sakana.ai/ai-scientist/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sakana.ai">[Sakana AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sakana.ai</span><span class="citation-popover-title">ai scientist</span><span class="citation-popover-snippet">Towards Fully Automated Open-Ended Scientific DiscoveryAug 13, 2024 — The AI Scientist is a fully automated pipeline for end-to-end paper...</span></span></span> 2arXiv
+This creates a setting where research agents can generate ideas and test them at scale. Some researchers describe this as a possible path towards partially automated improvement of AI systems themselves.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sakana.ai/ai-scientist/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sakana.ai">[Sakana AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sakana.ai</span><span class="citation-popover-title">ai scientist</span><span class="citation-popover-snippet">Towards Fully Automated Open-Ended Scientific DiscoveryAug 13, 2024 — The AI Scientist is a fully automated pipeline for end-to-end paper...</span></span></span> 2arXiv
 
 For advocates of the broader AI bloom vision, this possibility is especially important. If AI systems become capable of accelerating research in the very field that improves AI capabilities, scientific progress could become increasingly self-reinforcing. More capable AI could support more capable research systems, which could in turn contribute to further AI improvements.
 
-That does not automatically imply an [intelligence]({{ 'intelligence/' | relative_url }}) explosion or runaway progress. Hardware constraints, data limitations, energy costs, institutional bottlenecks and [human oversight]({{ 'human-oversight/' | relative_url }}) still matter. But machine-learning research is one of the few areas where the feedback loop can be explored directly because experiments remain digital from beginning to end. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.uk/government/publications/ai-for-science-strategy/ai-for-science-strategy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">ai for science strategy</span><span class="citation-popover-snippet">for Science Strategy20 Nov 2025 — The companies and researchers developing general-purpose AI science tools and building autonomous lab i...</span></span></span>
+That does not automatically imply an [intelligence]({{ 'intelligence/' | relative_url }}) explosion or runaway progress. Hardware constraints, data limitations, energy costs, institutional bottlenecks and [human oversight]({{ 'human-oversight/' | relative_url }}) still matter. But machine-learning research is one of the few areas where the feedback loop can be explored directly because experiments remain digital from beginning to end. PMC<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.uk/government/publications/ai-for-science-strategy/ai-for-science-strategy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">ai for science strategy</span><span class="citation-popover-snippet">for Science Strategy20 Nov 2025 — The companies and researchers developing general-purpose AI science tools and building autonomous lab i...</span></span></span>
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_abundant_inte_594dea_ai_research_a_234d5d_digital_exper_279f8d-Illustration-2-dark.svg" | relative_url }}" alt="Digital labs illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_abundant_inte_594dea_ai_research_a_234d5d_digital_exper_279f8d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_abundant_inte_594dea_ai_research_a_234d5d_digital_exper_279f8d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The hidden advantage: failure is affordable
@@ -354,13 +354,13 @@ A failed drug-development programme may cost millions of pounds. A failed materi
 
 Digital research environments are different. Failure is often cheap.
 
-An AI agent can run hundreds or thousands of unsuccessful machine-learning experiments while still producing useful information about what does not work. Researchers can explore more speculative ideas because the cost of being wrong is relatively low. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sakana.ai/ai-scientist/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sakana.ai">[Sakana AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sakana.ai</span><span class="citation-popover-title">ai scientist</span><span class="citation-popover-snippet">Towards Fully Automated Open-Ended Scientific DiscoveryAug 13, 2024 — The AI Scientist is a fully automated pipeline for end-to-end paper...</span></span></span>
+An AI agent can run hundreds or thousands of unsuccessful machine-learning experiments while still producing useful information about what does not work. Researchers can explore more speculative ideas because the cost of being wrong is relatively low.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sakana.ai/ai-scientist/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sakana.ai">[Sakana AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sakana.ai</span><span class="citation-popover-title">ai scientist</span><span class="citation-popover-snippet">Towards Fully Automated Open-Ended Scientific DiscoveryAug 13, 2024 — The AI Scientist is a fully automated pipeline for end-to-end paper...</span></span></span>
 
 This changes the economics of discovery.
 
 Human scientists naturally ration attention because attention is scarce. A researcher may only have time to investigate a handful of possible approaches. An automated research system can explore much larger spaces of possibilities. Most attempts may fail, but if experimentation becomes inexpensive enough, even a low success rate can be valuable.
 
-Supporters of AI-driven scientific acceleration often point to this effect as one of the most important long-term possibilities. The advantage may not come from individual breakthroughs generated by AI. It may come from increasing the total number of experiments civilisation can afford to run. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aimultiple.com/ai-scientist" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aimultiple.com">[AIMultiple]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aimultiple.com</span><span class="citation-popover-title">ai scientist</span><span class="citation-popover-snippet">AI Scientist: Automating the Future of Scientific Discovery28 Apr 2026 — AI scientists mark a major advance toward fully automa...</span></span></span>
+Supporters of AI-driven scientific acceleration often point to this effect as one of the most important long-term possibilities. The advantage may not come from individual breakthroughs generated by AI. It may come from increasing the total number of experiments civilisation can afford to run.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aimultiple.com/ai-scientist" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aimultiple.com">[AIMultiple]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aimultiple.com</span><span class="citation-popover-title">ai scientist</span><span class="citation-popover-snippet">AI Scientist: Automating the Future of Scientific Discovery28 Apr 2026 — AI scientists mark a major advance toward fully automa...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kf_OO80ywmE" title="Intern-Atlas: Mapping Evolution of Machine Learning" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kf_OO80ywmE" target="_blank" rel="noopener noreferrer">Intern-Atlas: Mapping Evolution of Machine Learning</a></p><p class="youtube-embed-meta">Channel: AI Research Roundup &middot; Views: 19 &middot; Uploaded: May 2026 &middot; Length: 4 minutes 42 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kf_OO80ywmE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kf_OO80ywmE">Open on YouTube</a></p></div></div></div>
 
@@ -370,32 +370,32 @@ The success of AI research agents in digital domains does not automatically tran
 
 Biology, medicine and materials science contain physical realities that software-only systems cannot escape.
 
-A machine-learning benchmark always produces an answer. A biological system may produce ambiguous, noisy or contradictory results. Cells behave differently from one experiment to another. Chemical reactions fail. Physical samples become contaminated. Instruments drift out of calibration. Human subjects introduce ethical and regulatory constraints. OUP Academic <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.ubc.ca/news/2026-03/new-ai-scientist-conducts-its-own-research" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.ubc.ca">[science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.ubc.ca</span><span class="citation-popover-title">ca New AI scientist conducts its own research</span><span class="citation-popover-snippet">AI scientist conducts its own research - UBC Science27 Mar 2026 — The researchers developed the AI scientist using foundational models (l...</span></span></span> Direct Several additional challenges appear when moving beyond software:
+A machine-learning benchmark always produces an answer. A biological system may produce ambiguous, noisy or contradictory results. Cells behave differently from one experiment to another. Chemical reactions fail. Physical samples become contaminated. Instruments drift out of calibration. Human subjects introduce ethical and regulatory constraints. OUP Academic<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.ubc.ca/news/2026-03/new-ai-scientist-conducts-its-own-research" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.ubc.ca">[science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.ubc.ca</span><span class="citation-popover-title">ca New AI scientist conducts its own research</span><span class="citation-popover-snippet">AI scientist conducts its own research - UBC Science27 Mar 2026 — The researchers developed the AI scientist using foundational models (l...</span></span></span> Direct Several additional challenges appear when moving beyond software:
 
 ### Real-world experiments are slower
 
 Training another model may take hours. Testing a new drug candidate can take years.
 
-This dramatically slows the feedback loop that makes autonomous research attractive in the first place. AI systems improve through iteration, but iteration becomes harder when every cycle requires expensive physical work. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.axios.com/2024/01/09/ai-copilots-cloud-labs-science-research" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-snippet">These technologies help streamline experimentation by identifying promising compounds and managing lab tasks via AI-supported systems. Cl...</span></span></span>
+This dramatically slows the feedback loop that makes autonomous research attractive in the first place. AI systems improve through iteration, but iteration becomes harder when every cycle requires expensive physical work.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.axios.com/2024/01/09/ai-copilots-cloud-labs-science-research" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-snippet">These technologies help streamline experimentation by identifying promising compounds and managing lab tasks via AI-supported systems. Cl...</span></span></span>
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_abundant_inte_594dea_ai_research_a_234d5d_digital_exper_279f8d-Illustration-3-dark.svg" | relative_url }}" alt="Digital labs illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_abundant_inte_594dea_ai_research_a_234d5d_digital_exper_279f8d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_abundant_inte_594dea_ai_research_a_234d5d_digital_exper_279f8d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Ground truth is often uncertain
 
 Machine-learning benchmarks usually provide clear scores.
 
-In biology, the correct interpretation of results may be unclear even after extensive experimentation. Scientific judgement becomes more important precisely where measurements become harder. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13100680/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAI for scientific discovery is a social problem</span><span class="citation-popover-snippet">OpenAI announced plans to develop an “intern-level research assistant” by September 2026 and a fully autonomous “legitimate AI researc...</span><span class="citation-popover-meta">Published: September 2026</span></span></span>
+In biology, the correct interpretation of results may be unclear even after extensive experimentation. Scientific judgement becomes more important precisely where measurements become harder.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13100680/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAI for scientific discovery is a social problem</span><span class="citation-popover-snippet">OpenAI announced plans to develop an “intern-level research assistant” by September 2026 and a fully autonomous “legitimate AI researc...</span><span class="citation-popover-meta">Published: September 2026</span></span></span>
 
 ### Physical infrastructure becomes the bottleneck
 
 Even if an AI system generates excellent ideas, somebody still has to conduct experiments.
 
-This is why many organisations are investing in laboratory automation, robotic experimentation platforms and cloud laboratories. The hope is to gradually extend software-like feedback loops into physical science. But the infrastructure requirements remain substantial. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.axios.com/2024/01/09/ai-copilots-cloud-labs-science-research" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-snippet">These technologies help streamline experimentation by identifying promising compounds and managing lab tasks via AI-supported systems. Cl...</span></span></span>
+This is why many organisations are investing in laboratory automation, robotic experimentation platforms and cloud laboratories. The hope is to gradually extend software-like feedback loops into physical science. But the infrastructure requirements remain substantial.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.axios.com/2024/01/09/ai-copilots-cloud-labs-science-research" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-snippet">These technologies help streamline experimentation by identifying promising compounds and managing lab tasks via AI-supported systems. Cl...</span></span></span>
 
 ### Errors become more costly
 
 A flawed machine-learning paper may waste computational resources.
 
-A flawed biomedical experiment can waste years of work, consume scarce biological materials or create safety risks. This raises the standard required for autonomy. Research agents must become not only capable but reliable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13100680/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAI for scientific discovery is a social problem</span><span class="citation-popover-snippet">OpenAI announced plans to develop an “intern-level research assistant” by September 2026 and a fully autonomous “legitimate AI researc...</span><span class="citation-popover-meta">Published: September 2026</span></span></span>
+A flawed biomedical experiment can waste years of work, consume scarce biological materials or create safety risks. This raises the standard required for autonomy. Research agents must become not only capable but reliable.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13100680/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAI for scientific discovery is a social problem</span><span class="citation-popover-snippet">OpenAI announced plans to develop an “intern-level research assistant” by September 2026 and a fully autonomous “legitimate AI researc...</span><span class="citation-popover-meta">Published: September 2026</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IAa09O1T4BY" title="Science 101: What is Autonomous Discovery?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IAa09O1T4BY" target="_blank" rel="noopener noreferrer">Science 101: What is Autonomous Discovery?</a></p><p class="youtube-embed-meta">Channel: Argonne National Laboratory &middot; Views: 129 &middot; Uploaded: May 2026 &middot; Length: 3 minutes 18 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IAa09O1T4BY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IAa09O1T4BY">Open on YouTube</a></p></div></div></div>
 
@@ -403,213 +403,213 @@ A flawed biomedical experiment can waste years of work, consume scarce biologica
 
 The strongest evidence against hype comes from the limitations of existing AI scientist projects.
 
-Independent evaluations of early systems found numerous problems. Experiments sometimes failed because of coding errors. Novelty assessments were often weak. Generated papers occasionally contained mistakes, missing sections or hallucinated claims. Critics argue that some demonstrations resemble accelerated production of mediocre research rather than genuine scientific discovery. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2408.06292" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery</span><span class="citation-popover-snippet">arXiv The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://dl.acm.org/doi/10.1145/3769733.3769747" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dl.acm.org">[ACM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dl.acm.org</span><span class="citation-popover-snippet">ACM Digital LibraryEvaluating Sakana&#x27;s AI Scientist: Bold Claims, Mixed...Oct 10, 2025 — Recently, Sakana.ai introduced the AI Scientist...</span></span></span>
+Independent evaluations of early systems found numerous problems. Experiments sometimes failed because of coding errors. Novelty assessments were often weak. Generated papers occasionally contained mistakes, missing sections or hallucinated claims. Critics argue that some demonstrations resemble accelerated production of mediocre research rather than genuine scientific discovery.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2408.06292" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery</span><span class="citation-popover-snippet">arXiv The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://dl.acm.org/doi/10.1145/3769733.3769747" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dl.acm.org">[ACM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dl.acm.org</span><span class="citation-popover-snippet">ACM Digital LibraryEvaluating Sakana&#x27;s AI Scientist: Bold Claims, Mixed...Oct 10, 2025 — Recently, Sakana.ai introduced the AI Scientist...</span></span></span>
 
 These criticisms matter because digital environments are the easiest case.
 
 If AI systems struggle with literature review, experimental design and result interpretation in software-based research, those weaknesses may become even more serious in medicine, chemistry or biology.
 
-Current evidence therefore supports a more limited conclusion than some headlines suggest. Autonomous research systems appear increasingly capable of handling parts of the scientific workflow, especially where experiments are computational and measurable. But they still make mistakes that require human oversight, [verification]({{ 'verification/' | relative_url }}) and correction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/d41586-026-00899-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">How to build an AI scientist: first peer-reviewed paper spills...Mar 25, 2026 — AI Scientist, an autonomous research tool, first r...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2502.14297" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Evaluating Sakana&#x27;s AI Scientist for Autonomous Research: Wishful Thinking or an Emerging Reality Towards &#x27;Artificial Research Intel...</span></span></span>
+Current evidence therefore supports a more limited conclusion than some headlines suggest. Autonomous research systems appear increasingly capable of handling parts of the scientific workflow, especially where experiments are computational and measurable. But they still make mistakes that require human oversight, [verification]({{ 'verification/' | relative_url }}) and correction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/d41586-026-00899-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">How to build an AI scientist: first peer-reviewed paper spills...Mar 25, 2026 — AI Scientist, an autonomous research tool, first r...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2502.14297" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Evaluating Sakana&#x27;s AI Scientist for Autonomous Research: Wishful Thinking or an Emerging Reality Towards &#x27;Artificial Research Intel...</span></span></span>
 
 ## What digital labs could mean for a larger AI bloom
 
 The importance of digital research environments is not that machine-learning papers are humanity's ultimate goal. It is that software-heavy science may provide the first scalable training ground for AI researchers.
 
-If autonomous systems learn to generate ideas, run experiments, evaluate evidence and improve their own methods in digital domains, those capabilities could eventually transfer into broader scientific fields. Biology increasingly contains large digital datasets. Protein structures, genomic sequences and molecular simulations are becoming information-rich environments where AI can search possibilities before physical testing begins. OUP Academic TechRadar In the optimistic version of the AI bloom story <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.techradar.com/pro/every-living-thing-on-earth-runs-on-the-same-programming-language-how-ai-foundation-models-trained-on-dna-could-transform-plant-biology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techradar.com">[techradar.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techradar.com</span><span class="citation-popover-snippet">A company called Living Models leads this shift with its first model family, BOTANIC, targeting plant biology. The models aim to uncover...</span></span></span>, digital laboratories become the nursery where machine researchers learn how science works. They first operate in environments where experiments are cheap and failure is tolerable. Over time, they become increasingly integrated with automated laboratories, [robotics]({{ 'robotics/' | relative_url }}) platforms and scientific instruments, allowing more of the discovery process to move at software speed.
+If autonomous systems learn to generate ideas, run experiments, evaluate evidence and improve their own methods in digital domains, those capabilities could eventually transfer into broader scientific fields. Biology increasingly contains large digital datasets. Protein structures, genomic sequences and molecular simulations are becoming information-rich environments where AI can search possibilities before physical testing begins. OUP Academic TechRadar In the optimistic version of the AI bloom story<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.techradar.com/pro/every-living-thing-on-earth-runs-on-the-same-programming-language-how-ai-foundation-models-trained-on-dna-could-transform-plant-biology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techradar.com">[techradar.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techradar.com</span><span class="citation-popover-snippet">A company called Living Models leads this shift with its first model family, BOTANIC, targeting plant biology. The models aim to uncover...</span></span></span>, digital laboratories become the nursery where machine researchers learn how science works. They first operate in environments where experiments are cheap and failure is tolerable. Over time, they become increasingly integrated with automated laboratories, [robotics]({{ 'robotics/' | relative_url }}) platforms and scientific instruments, allowing more of the discovery process to move at software speed.
 
 Whether that transition succeeds remains uncertain. Physical reality imposes constraints that software does not. Scientific understanding requires more than pattern matching. Institutions, incentives and verification systems still matter. Yet the reason digital experiments attract so much attention is that they offer the clearest place where autonomous research can be tested today.
 
-Before AI scientists can transform medicine, [energy]({{ 'energy/' | relative_url }}) or materials, they must first learn to do science somewhere. At present, the most practical place is inside the computer itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.axios.com/2024/01/09/ai-copilots-cloud-labs-science-research" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-snippet">These technologies help streamline experimentation by identifying promising compounds and managing lab tasks via AI-supported systems. Cl...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://sakana.ai/ai-scientist/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sakana.ai">[Sakana AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sakana.ai</span><span class="citation-popover-title">ai scientist</span><span class="citation-popover-snippet">Towards Fully Automated Open-Ended Scientific DiscoveryAug 13, 2024 — The AI Scientist is a fully automated pipeline for end-to-end paper...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/d41586-026-00899-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">How to build an AI scientist: first peer-reviewed paper spills...Mar 25, 2026 — AI Scientist, an autonomous research tool, first r...</span></span></span>
+Before AI scientists can transform medicine, [energy]({{ 'energy/' | relative_url }}) or materials, they must first learn to do science somewhere. At present, the most practical place is inside the computer itself.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.axios.com/2024/01/09/ai-copilots-cloud-labs-science-research" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-snippet">These technologies help streamline experimentation by identifying promising compounds and managing lab tasks via AI-supported systems. Cl...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://sakana.ai/ai-scientist/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sakana.ai">[Sakana AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sakana.ai</span><span class="citation-popover-title">ai scientist</span><span class="citation-popover-snippet">Towards Fully Automated Open-Ended Scientific DiscoveryAug 13, 2024 — The AI Scientist is a fully automated pipeline for end-to-end paper...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/d41586-026-00899-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">How to build an AI scientist: first peer-reviewed paper spills...Mar 25, 2026 — AI Scientist, an autonomous research tool, first r...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why AI scientists start in software. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why AI scientists start in software. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human Compatible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8vm0DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Human Compatible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human Compatible">Human Compatible</a>
-        </h4>
-        <p class="fr-book-author">By Stuart Jonathan Russell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human Compatible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8vm0DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Human Compatible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human Compatible">Human Compatible</a>
+</h4>
+<p class="fr-book-author">By Stuart Jonathan Russell</p>
         
-        <p class="fr-book-desc">Discusses increasingly capable AI systems and the challenges of autonomous research.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses increasingly capable AI systems and the challenges of autonomous research.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Master+Algorithm+by+Pedro+Domingos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Master Algorithm on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=WpTSDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Master Algorithm" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Master+Algorithm+by+Pedro+Domingos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Master Algorithm">The Master Algorithm</a>
-        </h4>
-        <p class="fr-book-author">By Pedro Domingos</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Master+Algorithm+by+Pedro+Domingos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Master Algorithm on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=WpTSDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Master Algorithm" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Master+Algorithm+by+Pedro+Domingos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Master Algorithm">The Master Algorithm</a>
+</h4>
+<p class="fr-book-author">By Pedro Domingos</p>
         
-        <p class="fr-book-desc">Provides foundations for understanding automated learning systems and experimentation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Master+Algorithm+by+Pedro+Domingos&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides foundations for understanding automated learning systems and experimentation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Master+Algorithm+by+Pedro+Domingos&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+AI+Revolution+in+Medicine+by+Peter+Lee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The AI Revolution in Medicine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZtnPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The AI Revolution in Medicine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+AI+Revolution+in+Medicine+by+Peter+Lee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The AI Revolution in Medicine">The AI Revolution in Medicine</a>
-        </h4>
-        <p class="fr-book-author">By Peter Lee, Carey Goldberg et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+AI+Revolution+in+Medicine+by+Peter+Lee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The AI Revolution in Medicine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZtnPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The AI Revolution in Medicine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+AI+Revolution+in+Medicine+by+Peter+Lee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The AI Revolution in Medicine">The AI Revolution in Medicine</a>
+</h4>
+<p class="fr-book-author">By Peter Lee, Carey Goldberg et al.</p>
         
-        <p class="fr-book-desc">Explores where AI can reliably operate in information-rich digital environments before moving into messier real-world domains.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+AI+Revolution+in+Medicine+by+Peter+Lee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores where AI can reliably operate in information-rich digital environments before moving into messier real-world domains.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+AI+Revolution+in+Medicine+by+Peter+Lee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Beginning+of+Infinity+by+David+Deutsch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Beginning of Infinity on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aykAsxPIwW0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Beginning of Infinity" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Beginning+of+Infinity+by+David+Deutsch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Beginning of Infinity">The Beginning of Infinity</a>
-        </h4>
-        <p class="fr-book-author">By David Deutsch</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Beginning+of+Infinity+by+David+Deutsch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Beginning of Infinity on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aykAsxPIwW0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Beginning of Infinity" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Beginning+of+Infinity+by+David+Deutsch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Beginning of Infinity">The Beginning of Infinity</a>
+</h4>
+<p class="fr-book-author">By David Deutsch</p>
         
-        <p class="fr-book-desc">Examines how knowledge creation and experimentation drive discovery.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Beginning+of+Infinity+by+David+Deutsch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how knowledge creation and experimentation drive discovery.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Beginning+of+Infinity+by+David+Deutsch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+Compatible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human Compatible</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Master+Algorithm&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Master Algorithm</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+AI+Revolution+in+Medicine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The AI Revolution in Medicine</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+Compatible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human Compatible</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Master+Algorithm&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Master Algorithm</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+AI+Revolution+in+Medicine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The AI Revolution in Medicine</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ai-scientists-start-in-software-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="why-ai-scientists-start-in-software-robotics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for New Raspberry Pi 4WD Smart Robot Car DIY Kit Discount"><img src="https://i.ebayimg.com/images/g/V2QAAOSwGd1oQkox/s-l225.jpg" alt="Listing image for New Raspberry Pi 4WD Smart Robot Car DIY Kit Discount" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ai-scientists-start-in-software-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="why-ai-scientists-start-in-software-robotics-kit" target="_blank" rel="sponsored noopener noreferrer">New Raspberry Pi 4WD Smart Robot Car DIY Kit Discount</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ai-scientists-start-in-software-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="why-ai-scientists-start-in-software-robotics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robotics kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: robotics kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ai-scientists-start-in-software-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="why-ai-scientists-start-in-software-robotics-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ai-scientists-start-in-software-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="why-ai-scientists-start-in-software-robotics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for New Raspberry Pi 4WD Smart Robot Car DIY Kit Discount"><img src="https://i.ebayimg.com/images/g/V2QAAOSwGd1oQkox/s-l225.jpg" alt="Listing image for New Raspberry Pi 4WD Smart Robot Car DIY Kit Discount" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ai-scientists-start-in-software-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="why-ai-scientists-start-in-software-robotics-kit" target="_blank" rel="sponsored noopener noreferrer">New Raspberry Pi 4WD Smart Robot Car DIY Kit Discount</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ai-scientists-start-in-software-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="why-ai-scientists-start-in-software-robotics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robotics kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: robotics kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ai-scientists-start-in-software-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="why-ai-scientists-start-in-software-robotics-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ai-scientists-start-in-software-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="why-ai-scientists-start-in-software-robotics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FOR KIDS Jimu Robot Explorer Robotics Kit UBTECH Interactive Building STEM Toy"><img src="https://i.ebayimg.com/images/g/8N4AAeSwINhqKuWp/s-l225.jpg" alt="Listing image for FOR KIDS Jimu Robot Explorer Robotics Kit UBTECH Interactive Building STEM Toy" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ai-scientists-start-in-software-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="why-ai-scientists-start-in-software-robotics-kit" target="_blank" rel="sponsored noopener noreferrer">FOR KIDS Jimu Robot Explorer Robotics Kit UBTECH Interactive Building STEM Toy</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ai-scientists-start-in-software-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="why-ai-scientists-start-in-software-robotics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robotics kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: robotics kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ai-scientists-start-in-software-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="why-ai-scientists-start-in-software-robotics-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ai-scientists-start-in-software-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="why-ai-scientists-start-in-software-robotics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FOR KIDS Jimu Robot Explorer Robotics Kit UBTECH Interactive Building STEM Toy"><img src="https://i.ebayimg.com/images/g/8N4AAeSwINhqKuWp/s-l225.jpg" alt="Listing image for FOR KIDS Jimu Robot Explorer Robotics Kit UBTECH Interactive Building STEM Toy" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ai-scientists-start-in-software-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="why-ai-scientists-start-in-software-robotics-kit" target="_blank" rel="sponsored noopener noreferrer">FOR KIDS Jimu Robot Explorer Robotics Kit UBTECH Interactive Building STEM Toy</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ai-scientists-start-in-software-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="why-ai-scientists-start-in-software-robotics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robotics kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: robotics kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ai-scientists-start-in-software-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="why-ai-scientists-start-in-software-robotics-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ai-scientists-start-in-software-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="why-ai-scientists-start-in-software-robotics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 560PCS Technic Robot Building Kit for Kids Remote &amp; App Controlled Toy Robot Toy"><img src="https://i.ebayimg.com/images/g/prsAAeSwSqVpMXgU/s-l225.jpg" alt="Listing image for 560PCS Technic Robot Building Kit for Kids Remote &amp; App Controlled Toy Robot Toy" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ai-scientists-start-in-software-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="why-ai-scientists-start-in-software-robotics-kit" target="_blank" rel="sponsored noopener noreferrer">560PCS Technic Robot Building Kit for Kids Remote &amp; App Controlled Toy Robot Toy</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ai-scientists-start-in-software-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="why-ai-scientists-start-in-software-robotics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robotics kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: robotics kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ai-scientists-start-in-software-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="why-ai-scientists-start-in-software-robotics-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ai-scientists-start-in-software-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="why-ai-scientists-start-in-software-robotics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 560PCS Technic Robot Building Kit for Kids Remote &amp; App Controlled Toy Robot Toy"><img src="https://i.ebayimg.com/images/g/prsAAeSwSqVpMXgU/s-l225.jpg" alt="Listing image for 560PCS Technic Robot Building Kit for Kids Remote &amp; App Controlled Toy Robot Toy" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ai-scientists-start-in-software-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="why-ai-scientists-start-in-software-robotics-kit" target="_blank" rel="sponsored noopener noreferrer">560PCS Technic Robot Building Kit for Kids Remote &amp; App Controlled Toy Robot Toy</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ai-scientists-start-in-software-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="why-ai-scientists-start-in-software-robotics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robotics kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: robotics kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ai-scientists-start-in-software-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="why-ai-scientists-start-in-software-robotics-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ai-scientists-start-in-software-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="why-ai-scientists-start-in-software-robotics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DIY Smart WiFi RC Tank Chassis Metal Tracked Robot Chassis Shock Absorption Kit"><img src="https://i.ebayimg.com/images/g/0rwAAeSwFqRpzyBk/s-l225.jpg" alt="Listing image for DIY Smart WiFi RC Tank Chassis Metal Tracked Robot Chassis Shock Absorption Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ai-scientists-start-in-software-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="why-ai-scientists-start-in-software-robotics-kit" target="_blank" rel="sponsored noopener noreferrer">DIY Smart WiFi RC Tank Chassis Metal Tracked Robot Chassis Shock Absorption Kit</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ai-scientists-start-in-software-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="why-ai-scientists-start-in-software-robotics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robotics kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: robotics kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ai-scientists-start-in-software-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="why-ai-scientists-start-in-software-robotics-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ai-scientists-start-in-software-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="why-ai-scientists-start-in-software-robotics-kit" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ai-scientists-start-in-software-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="why-ai-scientists-start-in-software-robotics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DIY Smart WiFi RC Tank Chassis Metal Tracked Robot Chassis Shock Absorption Kit"><img src="https://i.ebayimg.com/images/g/0rwAAeSwFqRpzyBk/s-l225.jpg" alt="Listing image for DIY Smart WiFi RC Tank Chassis Metal Tracked Robot Chassis Shock Absorption Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ai-scientists-start-in-software-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="why-ai-scientists-start-in-software-robotics-kit" target="_blank" rel="sponsored noopener noreferrer">DIY Smart WiFi RC Tank Chassis Metal Tracked Robot Chassis Shock Absorption Kit</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ai-scientists-start-in-software-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="why-ai-scientists-start-in-software-robotics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robotics kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: robotics kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ai-scientists-start-in-software-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="why-ai-scientists-start-in-software-robotics-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ai-scientists-start-in-software-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="why-ai-scientists-start-in-software-robotics-kit" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -625,7 +625,7 @@ Before AI scientists can transform medicine, [energy]({{ 'energy/' | relative_ur
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -645,7 +645,7 @@ Before AI scientists can transform medicine, [energy]({{ 'energy/' | relative_ur
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -677,7 +677,7 @@ Before AI scientists can transform medicine, [energy]({{ 'energy/' | relative_ur
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -729,7 +729,7 @@ Before AI scientists can transform medicine, [energy]({{ 'energy/' | relative_ur
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -774,7 +774,7 @@ Before AI scientists can transform medicine, [energy]({{ 'energy/' | relative_ur
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -815,181 +815,181 @@ Before AI scientists can transform medicine, [energy]({{ 'energy/' | relative_ur
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: sakana.ai  
    Title: ai scientist  
-   Link: <a href="https://sakana.ai/ai-scientist/" target="_blank" rel="noopener noreferrer nofollow">https://sakana.ai/ai-scientist/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Towards Fully Automated Open-Ended Scientific DiscoveryAug 13, 2024 — The AI Scientist is a fully automated pipeline for end-to-end paper...</p></details>
+   Link:<a href="https://sakana.ai/ai-scientist/" target="_blank" rel="noopener noreferrer nofollow">https://sakana.ai/ai-scientist/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Towards Fully Automated Open-Ended Scientific DiscoveryAug 13, 2024 — The AI Scientist is a fully automated pipeline for end-to-end paper...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41586-026-10265-5" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-026-10265-5</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>We present The AI Scientist, which creates research ideas...Read more...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41586-026-10265-5" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-026-10265-5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>We present The AI Scientist, which creates research ideas...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arxiv.org  
    Title: arXiv The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery  
-   Link: <a href="https://arxiv.org/abs/2408.06292" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2408.06292</a>  
+   Link:<a href="https://arxiv.org/abs/2408.06292" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2408.06292</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pub.sakana.ai  
-   Link: <a href="https://pub.sakana.ai/ai-scientist-v2/paper/paper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pub.sakana.ai/ai-scientist-v2/paper/paper.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Scientist-v2: Workshop-Level Automated Scientific...Apr 8, 2025 — AI is increasingly playing a pivotal role in transforming how scien...</p></details>
+   Link:<a href="https://pub.sakana.ai/ai-scientist-v2/paper/paper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pub.sakana.ai/ai-scientist-v2/paper/paper.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI Scientist-v2: Workshop-Level Automated Scientific...Apr 8, 2025 — AI is increasingly playing a pivotal role in transforming how scien...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2502.14297" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2502.14297</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluating Sakana&#x27;s AI Scientist for Autonomous Research: Wishful Thinking or an Emerging Reality Towards &#x27;Artificial Research Intel...</p></details>
+   Link:<a href="https://arxiv.org/abs/2502.14297" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2502.14297</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluating Sakana&#x27;s AI Scientist for Autonomous Research: Wishful Thinking or an Emerging Reality Towards &#x27;Artificial Research Intel...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: dl.acm.org  
-   Link: <a href="https://dl.acm.org/doi/10.1145/3769733.3769747" target="_blank" rel="noopener noreferrer nofollow">https://dl.acm.org/doi/10.1145/3769733.3769747</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ACM Digital LibraryEvaluating Sakana&#x27;s AI Scientist: Bold Claims, Mixed...Oct 10, 2025 — Recently, Sakana.ai introduced the AI Scientist...</p></details>
+   Link:<a href="https://dl.acm.org/doi/10.1145/3769733.3769747" target="_blank" rel="noopener noreferrer nofollow">https://dl.acm.org/doi/10.1145/3769733.3769747</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ACM Digital LibraryEvaluating Sakana&#x27;s AI Scientist: Bold Claims, Mixed...Oct 10, 2025 — Recently, Sakana.ai introduced the AI Scientist...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2510.23045v3" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2510.23045v3</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Survey of AI Scientists31 Oct 2025 — AI Scientist research from 2022 to 2025 can be systematically deconstructed into six methodologica...</p></details>
+   Link:<a href="https://arxiv.org/html/2510.23045v3" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2510.23045v3</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Survey of AI Scientists31 Oct 2025 — AI Scientist research from 2022 to 2025 can be systematically deconstructed into six methodologica...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: aimultiple.com  
    Title: ai scientist  
-   Link: <a href="https://aimultiple.com/ai-scientist" target="_blank" rel="noopener noreferrer nofollow">https://aimultiple.com/ai-scientist</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Scientist: Automating the Future of Scientific Discovery28 Apr 2026 — AI scientists mark a major advance toward fully automa...</p></details>
+   Link:<a href="https://aimultiple.com/ai-scientist" target="_blank" rel="noopener noreferrer nofollow">https://aimultiple.com/ai-scientist</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI Scientist: Automating the Future of Scientific Discovery28 Apr 2026 — AI scientists mark a major advance toward fully automa...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: sakana.ai  
    Title: The “Turing  
-   Link: <a href="https://sakana.ai/ai-scientist-nature/" target="_blank" rel="noopener noreferrer nofollow">https://sakana.ai/ai-scientist-nature/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The AI Scientist: Towards Fully Automated AI Research...Mar 26, 2026 — This work, for the first time, highlighted that end-to-end autom...</p></details>
+   Link:<a href="https://sakana.ai/ai-scientist-nature/" target="_blank" rel="noopener noreferrer nofollow">https://sakana.ai/ai-scientist-nature/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The AI Scientist: Towards Fully Automated AI Research...Mar 26, 2026 — This work, for the first time, highlighted that end-to-end autom...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: GOV.UK  
    Title: ai for science strategy  
-   Link: <a href="https://www.gov.uk/government/publications/ai-for-science-strategy/ai-for-science-strategy" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ai-for-science-strategy/ai-for-science-strategy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>for Science Strategy20 Nov 2025 — The companies and researchers developing general-purpose AI science tools and building autonomous lab i...</p></details>
+   Link:<a href="https://www.gov.uk/government/publications/ai-for-science-strategy/ai-for-science-strategy" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ai-for-science-strategy/ai-for-science-strategy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>for Science Strategy20 Nov 2025 — The companies and researchers developing general-purpose AI science tools and building autonomous lab i...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: academic.oup.com  
-   Link: <a href="https://academic.oup.com/bib/article/27/1/bbag075/8499367" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/bib/article/27/1/bbag075/8499367</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicArtificial Intelligence agents for biological research: a surveyby C Qi · 2026 · Cited by 4 — Generally, an AI agent in AI re...</p></details>
+   Link:<a href="https://academic.oup.com/bib/article/27/1/bbag075/8499367" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/bib/article/27/1/bbag075/8499367</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicArtificial Intelligence agents for biological research: a surveyby C Qi · 2026 · Cited by 4 — Generally, an AI agent in AI re...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2352940725003981" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2352940725003981</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Advancing materials discovery through artificial intelligenceby M Otyepka · 2025 · Cited by 23 — Artificial intelligence (AI) is transfor...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S2352940725003981" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2352940725003981</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Advancing materials discovery through artificial intelligenceby M Otyepka · 2025 · Cited by 23 — Artificial intelligence (AI) is transfor...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: axios.com  
-   Link: <a href="https://www.axios.com/2024/01/09/ai-copilots-cloud-labs-science-research" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2024/01/09/ai-copilots-cloud-labs-science-research</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>These technologies help streamline experimentation by identifying promising compounds and managing lab tasks via AI-supported systems. Cl...</p></details>
+   Link:<a href="https://www.axios.com/2024/01/09/ai-copilots-cloud-labs-science-research" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2024/01/09/ai-copilots-cloud-labs-science-research</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>These technologies help streamline experimentation by identifying promising compounds and managing lab tasks via AI-supported systems. Cl...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2509.25651" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2509.25651</a>  
+   Link:<a href="https://arxiv.org/abs/2509.25651" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2509.25651</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/d41586-026-00899-w" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/d41586-026-00899-w</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to build an AI scientist: first peer-reviewed paper spills...Mar 25, 2026 — AI Scientist, an autonomous research tool, first r...</p></details>
+   Link:<a href="https://www.nature.com/articles/d41586-026-00899-w" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/d41586-026-00899-w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to build an AI scientist: first peer-reviewed paper spills...Mar 25, 2026 — AI Scientist, an autonomous research tool, first r...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: techradar.com  
-   Link: <a href="https://www.techradar.com/pro/every-living-thing-on-earth-runs-on-the-same-programming-language-how-ai-foundation-models-trained-on-dna-could-transform-plant-biology" target="_blank" rel="noopener noreferrer nofollow">https://www.techradar.com/pro/every-living-thing-on-earth-runs-on-the-same-programming-language-how-ai-foundation-models-trained-on-dna-could-transform-plant-biology</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A company called Living Models leads this shift with its first model family, BOTANIC, targeting plant biology. The models aim to uncover...</p></details>
+   Link:<a href="https://www.techradar.com/pro/every-living-thing-on-earth-runs-on-the-same-programming-language-how-ai-foundation-models-trained-on-dna-could-transform-plant-biology" target="_blank" rel="noopener noreferrer nofollow">https://www.techradar.com/pro/every-living-thing-on-earth-runs-on-the-same-programming-language-how-ai-foundation-models-trained-on-dna-could-transform-plant-biology</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A company called Living Models leads this shift with its first model family, BOTANIC, targeting plant biology. The models aim to uncover...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2504.08066" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2504.08066</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The AI Scientist-v2: Workshop-Level Automated Scientific...by Y Yamada · 2025 · Cited by 124 — We introduce The AI Scientist-v2, an end...</p></details>
+   Link:<a href="https://arxiv.org/abs/2504.08066" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2504.08066</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The AI Scientist-v2: Workshop-Level Automated Scientific...by Y Yamada · 2025 · Cited by 124 — We introduce The AI Scientist-v2, an end...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: Intern-Atlas: Mapping Evolution of Machine Learning  
-   Link: <a href="https://www.youtube.com/watch?v=kf_OO80ywmE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kf_OO80ywmE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Science 101: What is Autonomous Discovery?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=kf_OO80ywmE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kf_OO80ywmE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Science 101: What is Autonomous Discovery?...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: Science 101: What is Autonomous Discovery?  
-   Link: <a href="https://www.youtube.com/watch?v=IAa09O1T4BY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IAa09O1T4BY</a>  
+   Link:<a href="https://www.youtube.com/watch?v=IAa09O1T4BY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IAa09O1T4BY</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCAI for scientific discovery is a social problem  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13100680/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC13100680/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>OpenAI announced plans to develop an “intern-level research assistant” by September 2026 and a fully autonomous “legitimate AI researc...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13100680/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC13100680/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OpenAI announced plans to develop an “intern-level research assistant” by September 2026 and a fully autonomous “legitimate AI researc...</p></details>
    Published: September 2026  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40cognidownunder/sakana-ais-ai-scientist-the-next-frontier-in-scientific-discovery-2cc2f32899a7" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40cognidownunder/sakana-ais-ai-scientist-the-next-frontier-in-scientific-discovery-2cc2f32899a7</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sakana AI&#x27;s “AI Scientist”: The Next Frontier in Scientific...The AI Scientist isn&#x27;t the fully autonomous researcher that some hea...</p></details>
+   Link:<a href="https://medium.com/%40cognidownunder/sakana-ais-ai-scientist-the-next-frontier-in-scientific-discovery-2cc2f32899a7" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40cognidownunder/sakana-ais-ai-scientist-the-next-frontier-in-scientific-discovery-2cc2f32899a7</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sakana AI&#x27;s “AI Scientist”: The Next Frontier in Scientific...The AI Scientist isn&#x27;t the fully autonomous researcher that some hea...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: natureconferences.streamgo.live  
    Title: live A I for Discovery and Research Automation  
-   Link: <a href="https://natureconferences.streamgo.live/ai-for-discovery-research-automation" target="_blank" rel="noopener noreferrer nofollow">https://natureconferences.streamgo.live/ai-for-discovery-research-automation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>for Discovery and Research Automation - streamGoThe conference will be a positive, open, and interdisciplinary discussion on the use of A...</p></details>
+   Link:<a href="https://natureconferences.streamgo.live/ai-for-discovery-research-automation" target="_blank" rel="noopener noreferrer nofollow">https://natureconferences.streamgo.live/ai-for-discovery-research-automation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>for Discovery and Research Automation - streamGoThe conference will be a positive, open, and interdisciplinary discussion on the use of A...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: science.ubc.ca  
    Title: ca New AI scientist conducts its own research  
-   Link: <a href="https://science.ubc.ca/news/2026-03/new-ai-scientist-conducts-its-own-research" target="_blank" rel="noopener noreferrer nofollow">https://science.ubc.ca/news/2026-03/new-ai-scientist-conducts-its-own-research</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI scientist conducts its own research - UBC Science27 Mar 2026 — The researchers developed the AI scientist using foundational models (l...</p></details>
+   Link:<a href="https://science.ubc.ca/news/2026-03/new-ai-scientist-conducts-its-own-research" target="_blank" rel="noopener noreferrer nofollow">https://science.ubc.ca/news/2026-03/new-ai-scientist-conducts-its-own-research</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI scientist conducts its own research - UBC Science27 Mar 2026 — The researchers developed the AI scientist using foundational models (l...</p></details>
 
 ### Additional References
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: data.parliament.uk  
-   Link: <a href="https://data.parliament.uk/DepositedPapers/Files/DEP2025-0762/AI_for_Science_Strategy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://data.parliament.uk/DepositedPapers/Files/DEP2025-0762/AI_for_Science_Strategy.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI for Science StrategyThe companies and researchers developing general-purpose AI science tools and building autonomous l...</p></details>
+   Link:<a href="https://data.parliament.uk/DepositedPapers/Files/DEP2025-0762/AI_for_Science_Strategy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://data.parliament.uk/DepositedPapers/Files/DEP2025-0762/AI_for_Science_Strategy.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI for Science StrategyThe companies and researchers developing general-purpose AI science tools and building autonomous l...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/jeff-clune-56403a26_the-ai-scientist-towards-fully-automated-activity-7442631874096820225-fc5h" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/jeff-clune-56403a26_the-ai-scientist-towards-fully-automated-activity-7442631874096820225-fc5h</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Scientist Publishes in Nature: Autonomous Research...The AI Scientist: Towards Fully Automated AI Research, Now Published in Nature...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/jeff-clune-56403a26_the-ai-scientist-towards-fully-automated-activity-7442631874096820225-fc5h" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/jeff-clune-56403a26_the-ai-scientist-towards-fully-automated-activity-7442631874096820225-fc5h</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI Scientist Publishes in Nature: Autonomous Research...The AI Scientist: Towards Fully Automated AI Research, Now Published in Nature...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/olivier-elemento-48b3a359_how-good-are-ai-scientists-a-new-benchmark-activity-7373352801134907392-tR1C" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/olivier-elemento-48b3a359_how-good-are-ai-scientists-a-new-benchmark-activity-7373352801134907392-tR1C</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>New Benchmark for AI in Biomedical Research: BioML-benchHow Good Are AI Scientists? A New Benchmark Has Answers The promise of AI agents...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/olivier-elemento-48b3a359_how-good-are-ai-scientists-a-new-benchmark-activity-7373352801134907392-tR1C" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/olivier-elemento-48b3a359_how-good-are-ai-scientists-a-new-benchmark-activity-7373352801134907392-tR1C</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New Benchmark for AI in Biomedical Research: BioML-benchHow Good Are AI Scientists? A New Benchmark Has Answers The promise of AI agents...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: facebook.com  
    Title: ai scientist an autonomous research tool first released in 2024 has now undergon  
-   Link: <a href="https://www.facebook.com/Nature/posts/ai-scientist-an-autonomous-research-tool-first-released-in-2024-has-now-undergon/1404064271753543/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Nature/posts/ai-scientist-an-autonomous-research-tool-first-released-in-2024-has-now-undergon/1404064271753543/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Scientist, an autonomous research tool, first released in...AI Scientist, an autonomous research tool, first released in 2024, has no...</p></details>
+   Link:<a href="https://www.facebook.com/Nature/posts/ai-scientist-an-autonomous-research-tool-first-released-in-2024-has-now-undergon/1404064271753543/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Nature/posts/ai-scientist-an-autonomous-research-tool-first-released-in-2024-has-now-undergon/1404064271753543/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI Scientist, an autonomous research tool, first released in...AI Scientist, an autonomous research tool, first released in 2024, has no...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: facebook.com  
    Title: artificial intelligence is poised to take on a more active role in the laborator  
-   Link: <a href="https://www.facebook.com/Nature/posts/artificial-intelligence-is-poised-to-take-on-a-more-active-role-in-the-laborator/1448674563959180/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Nature/posts/artificial-intelligence-is-poised-to-take-on-a-more-active-role-in-the-laborator/1448674563959180/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Artificial intelligence is poised to take on a more-active role...AI lab robots are discovering new materials 1000x faster than human sc...</p></details>
+   Link:<a href="https://www.facebook.com/Nature/posts/artificial-intelligence-is-poised-to-take-on-a-more-active-role-in-the-laborator/1448674563959180/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Nature/posts/artificial-intelligence-is-poised-to-take-on-a-more-active-role-in-the-laborator/1448674563959180/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Artificial intelligence is poised to take on a more-active role...AI lab robots are discovering new materials 1000x faster than human sc...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: jonkrohn.com  
    Title: the ai scientist towards fully automated open ended scientific discovery  
-   Link: <a href="https://www.jonkrohn.com/posts/2024/8/25/the-ai-scientist-towards-fully-automated-open-ended-scientific-discovery" target="_blank" rel="noopener noreferrer nofollow">https://www.jonkrohn.com/posts/2024/8/25/the-ai-scientist-towards-fully-automated-open-ended-scientific-discovery</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The AI Scientist: Towards Fully Automated, Open-Ended...Aug 25, 2024 — A team of researchers from Sakana AI, a Japanese AI startup found...</p></details>
+   Link:<a href="https://www.jonkrohn.com/posts/2024/8/25/the-ai-scientist-towards-fully-automated-open-ended-scientific-discovery" target="_blank" rel="noopener noreferrer nofollow">https://www.jonkrohn.com/posts/2024/8/25/the-ai-scientist-towards-fully-automated-open-ended-scientific-discovery</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The AI Scientist: Towards Fully Automated, Open-Ended...Aug 25, 2024 — A team of researchers from Sakana AI, a Japanese AI startup found...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: github.com  
-   Link: <a href="https://github.com/sakanaai/ai-scientist-v2" target="_blank" rel="noopener noreferrer nofollow">https://github.com/sakanaai/ai-scientist-v2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ntic system that has generated the first workshop paper written entirely by AI and...Read more...</p></details>
+   Link:<a href="https://github.com/sakanaai/ai-scientist-v2" target="_blank" rel="noopener noreferrer nofollow">https://github.com/sakanaai/ai-scientist-v2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ntic system that has generated the first workshop paper written entirely by AI and...Read more...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: mercatus.org  
    Title: future materials science ai automation and policy strategies  
-   Link: <a href="https://www.mercatus.org/research/policy-briefs/future-materials-science-ai-automation-and-policy-strategies" target="_blank" rel="noopener noreferrer nofollow">https://www.mercatus.org/research/policy-briefs/future-materials-science-ai-automation-and-policy-strategies</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mercatus CenterThe Future of Materials Science: AI, Automation, and Policy...24 Mar 2025 — AI allows scientists to generate far more ide...</p></details>
+   Link:<a href="https://www.mercatus.org/research/policy-briefs/future-materials-science-ai-automation-and-policy-strategies" target="_blank" rel="noopener noreferrer nofollow">https://www.mercatus.org/research/policy-briefs/future-materials-science-ai-automation-and-policy-strategies</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mercatus CenterThe Future of Materials Science: AI, Automation, and Policy...24 Mar 2025 — AI allows scientists to generate far more ide...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: github.com  
-   Link: <a href="https://github.com/sakanaai/ai-scientist" target="_blank" rel="noopener noreferrer nofollow">https://github.com/sakanaai/ai-scientist</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ully automatic scientific discovery, enabling Foundation Models such as Large...</p></details>
+   Link:<a href="https://github.com/sakanaai/ai-scientist" target="_blank" rel="noopener noreferrer nofollow">https://github.com/sakanaai/ai-scientist</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ully automatic scientific discovery, enabling Foundation Models such as Large...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/MachineLearning/comments/1eqwfo0/r_the_ai_scientist_towards_fully_automated/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/MachineLearning/comments/1eqwfo0/r_the_ai_scientist_towards_fully_automated/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ode, executes experiments, visualizes results, describes its...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/MachineLearning/comments/1eqwfo0/r_the_ai_scientist_towards_fully_automated/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/MachineLearning/comments/1eqwfo0/r_the_ai_scientist_towards_fully_automated/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ode, executes experiments, visualizes results, describes its...Read more...</p></details>

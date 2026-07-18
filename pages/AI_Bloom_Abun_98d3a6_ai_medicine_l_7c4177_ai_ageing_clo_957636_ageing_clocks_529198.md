@@ -272,29 +272,29 @@ image: /assets/images/AI_Bloom_Abun_98d3a6_ai_medicine_l_7c4177_ai_ageing_clo_95
 [AI ageing]({{ 'ageing-clocks/' | relative_url }}) clocks are often presented as an early glimpse of a future in which medicine can detect decline long before disease becomes visible. That possibility matters to the broader AI bloom vision because preventing illness earlier could be more transformative than treating it after damage has accumulated. Yet the central problem is not whether ageing clocks can predict something. Many already correlate with mortality, disease risk, frailty, or future health outcomes. The harder question is whether changing the clock actually improves health.
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_medicine_l_7c4177_ai_ageing_clo_957636_ageing_clocks_529198-Illustration-1-dark.svg" | relative_url }}" alt="Clinical meaning illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_medicine_l_7c4177_ai_ageing_clo_957636_ageing_clocks_529198-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_medicine_l_7c4177_ai_ageing_clo_957636_ageing_clocks_529198-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-That distinction sounds technical, but it is the difference between a useful medical tool and an interesting statistical marker. A clock may tell researchers that two people of the same age appear biologically different. It does not automatically follow that reducing a clock score will help someone live longer, stay healthier, or avoid disease. For now, that gap between prediction and clinical meaning remains one of the biggest obstacles facing biological-age research. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12714307/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCFrom Population Science to the Clinic?</span><span class="citation-popover-snippet">Limits of Epigenetic...by AT Apsley · 2025 · Cited by 2 — We show that clocks fail to meet common standards for clinical utility compare...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9768060/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Endpoints for geroscience clinical trials: health outcomes...by SR Cummings · 2022 · Cited by 43 — Without an understanding of the bi...</span></span></span>
+That distinction sounds technical, but it is the difference between a useful medical tool and an interesting statistical marker. A clock may tell researchers that two people of the same age appear biologically different. It does not automatically follow that reducing a clock score will help someone live longer, stay healthier, or avoid disease. For now, that gap between prediction and clinical meaning remains one of the biggest obstacles facing biological-age research.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12714307/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCFrom Population Science to the Clinic?</span><span class="citation-popover-snippet">Limits of Epigenetic...by AT Apsley · 2025 · Cited by 2 — We show that clocks fail to meet common standards for clinical utility compare...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9768060/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Endpoints for geroscience clinical trials: health outcomes...by SR Cummings · 2022 · Cited by 43 — Without an understanding of the bi...</span></span></span>
 
 ## Prediction is not the same as understanding ageing
 
-Many ageing clocks are genuinely impressive predictors. DNA methylation clocks, proteomic clocks, and other machine-learning systems can often identify people who face higher future risks of illness or mortality than their chronological age alone would suggest. Researchers have repeatedly found associations between accelerated biological age and conditions such as cardiovascular disease, cancer, cognitive decline, and overall mortality. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41467-025-66106-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">An unbiased comparison of 14 epigenetic clocks in relation...by C Mavrommatis · 2025 · Cited by 3 — These clocks showed particular...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9022671/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">NIHby NJ Schork · 2022 · Cited by 15 — Second, many of the available epigenetic clocks have been shown to be predictive of mortalit...</span></span></span>
+Many ageing clocks are genuinely impressive predictors. DNA methylation clocks, proteomic clocks, and other machine-learning systems can often identify people who face higher future risks of illness or mortality than their chronological age alone would suggest. Researchers have repeatedly found associations between accelerated biological age and conditions such as cardiovascular disease, cancer, cognitive decline, and overall mortality.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41467-025-66106-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">An unbiased comparison of 14 epigenetic clocks in relation...by C Mavrommatis · 2025 · Cited by 3 — These clocks showed particular...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9022671/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">NIHby NJ Schork · 2022 · Cited by 15 — Second, many of the available epigenetic clocks have been shown to be predictive of mortalit...</span></span></span>
 
 The problem is that medicine does not usually adopt biomarkers simply because they predict outcomes.
 
 A classic medical biomarker becomes clinically meaningful when doctors know what it represents, how it relates to disease mechanisms, and what actions should follow from an abnormal result. High blood pressure is useful because lowering it reduces the risk of stroke and heart disease. High LDL cholesterol is useful because interventions that reduce it also reduce cardiovascular risk.
 
-Ageing clocks have not yet reached that standard. Researchers can often show that people with "older" biological profiles experience worse outcomes. But they cannot yet reliably show that making a clock look younger causes those outcomes to improve. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12539533/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Clocks: Beyond Biological Age, Using the Past to...by R Liang · 2024 · Cited by 24 — Epigenetic clocks, derived from DNA methylation pat...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12756485/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Methylation and algorithms in biological aging: a scoping reviewby A Ziesel · 2025 — Second and third generation epigenetic clocks fol...</span></span></span>
+Ageing clocks have not yet reached that standard. Researchers can often show that people with "older" biological profiles experience worse outcomes. But they cannot yet reliably show that making a clock look younger causes those outcomes to improve.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12539533/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Clocks: Beyond Biological Age, Using the Past to...by R Liang · 2024 · Cited by 24 — Epigenetic clocks, derived from DNA methylation pat...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12756485/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Methylation and algorithms in biological aging: a scoping reviewby A Ziesel · 2025 — Second and third generation epigenetic clocks fol...</span></span></span>
 
-This is a common problem with surrogate markers in medicine. A measurement can correlate strongly with disease while still failing to capture the biological process that actually matters. Oncology, cardiology, and other fields have repeatedly encountered biomarkers that looked promising but ultimately failed to predict genuine clinical benefit when treatments were tested. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2412.02380" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Use of surrogate endpoints in health technology assessment: a review of selected NICE technology appraisals in oncologyDecember 3, 2024...</span><span class="citation-popover-meta">Published: December 3, 2024</span></span></span>
+This is a common problem with surrogate markers in medicine. A measurement can correlate strongly with disease while still failing to capture the biological process that actually matters. Oncology, cardiology, and other fields have repeatedly encountered biomarkers that looked promising but ultimately failed to predict genuine clinical benefit when treatments were tested.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2412.02380" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Use of surrogate endpoints in health technology assessment: a review of selected NICE technology appraisals in oncologyDecember 3, 2024...</span><span class="citation-popover-meta">Published: December 3, 2024</span></span></span>
 
 ## The biological meaning of many clock scores remains unclear
 
 Part of the challenge is that ageing itself is not a single process.
 
-Ageing involves changes across DNA repair, protein maintenance, immune function, metabolism, stem-cell activity, inflammation, cellular senescence, and many other systems. Different clocks may capture different pieces of that picture. Some may be tracking accumulated damage. Others may be reflecting adaptive responses, environmental exposures, disease burden, or lifestyle factors. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/aging/articles/10.3389/fragi.2024.1487260/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersCritical review of aging clocks and factors that may...by M Min · 2024 · Cited by 31 — Aging clocks are computational models de...</span></span></span>
+Ageing involves changes across DNA repair, protein maintenance, immune function, metabolism, stem-cell activity, inflammation, cellular senescence, and many other systems. Different clocks may capture different pieces of that picture. Some may be tracking accumulated damage. Others may be reflecting adaptive responses, environmental exposures, disease burden, or lifestyle factors.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/aging/articles/10.3389/fragi.2024.1487260/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersCritical review of aging clocks and factors that may...by M Min · 2024 · Cited by 31 — Aging clocks are computational models de...</span></span></span>
 
 This creates an uncomfortable question: what exactly is a biological-age score measuring?
 
-Different clocks often disagree with one another. A person can appear biologically older according to one system and relatively younger according to another. Researchers have produced dozens of clocks trained on different datasets and objectives, meaning that each model effectively creates its own operational definition of biological age. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://medium.com/airi-institute/reliability-of-biological-aging-clocks-proposed-to-be-assessed-by-disease-risks-and-uncertainty-6570f1da4e1c" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">s biomarker types — remain difficult to define and validate...</span></span></span> Some recent work has tried to separate harmful age-related changes from potentially adaptive ones. Researchers developing"DamAge" and "AdaptAge" argued that conventional clocks may combine biological signals that contribute to decline with signals that represent protective responses. If true, then a simple movement in a clock score may not reveal whether the underlying change is beneficial or harmful. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11070280/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Causality-Enriched Epigenetic Age Uncouples Damage and...by K Ying · 2024 · Cited by 194 — We established a novel framework to introd...</span></span></span>
+Different clocks often disagree with one another. A person can appear biologically older according to one system and relatively younger according to another. Researchers have produced dozens of clocks trained on different datasets and objectives, meaning that each model effectively creates its own operational definition of biological age. PMC<span class="citation-chip-wrap"><a class="citation-chip" href="https://medium.com/airi-institute/reliability-of-biological-aging-clocks-proposed-to-be-assessed-by-disease-risks-and-uncertainty-6570f1da4e1c" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">s biomarker types — remain difficult to define and validate...</span></span></span> Some recent work has tried to separate harmful age-related changes from potentially adaptive ones. Researchers developing"DamAge" and "AdaptAge" argued that conventional clocks may combine biological signals that contribute to decline with signals that represent protective responses. If true, then a simple movement in a clock score may not reveal whether the underlying change is beneficial or harmful.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11070280/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Causality-Enriched Epigenetic Age Uncouples Damage and...by K Ying · 2024 · Cited by 194 — We established a novel framework to introd...</span></span></span>
 
 This uncertainty matters because clinical decisions require interpretation. A doctor cannot act confidently on a score if nobody knows whether the measurement reflects causal damage, compensation, temporary stress, social conditions, disease history, or some mixture of all of them.
 
@@ -319,9 +319,9 @@ Imagine a treatment that lowers biological age by three years according to a par
 
 At present, answers are often uncertain.
 
-Researchers increasingly use clock changes as faster trial endpoints because waiting decades for mortality results is impractical. This makes ageing clocks attractive for [longevity]({{ 'longevity/' | relative_url }}) research and AI-driven drug [discovery]({{ 'discovery/' | relative_url }}). Yet a faster measurement is only valuable if it genuinely reflects future health outcomes. Nature <span class="citation-chip-wrap"><a class="citation-chip" href="https://norn.group/agingclocks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: norn.group">[Norn Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">norn.group</span><span class="citation-popover-title">Group Aging Clocks</span><span class="citation-popover-snippet">Aging Clocks - CAPBiomarkers of the aging process (i.e., &#x27;aging clocks&#x27;) would unlock faster and more efficient breakthroughs, laying fou...</span></span></span>
+Researchers increasingly use clock changes as faster trial endpoints because waiting decades for mortality results is impractical. This makes ageing clocks attractive for [longevity]({{ 'longevity/' | relative_url }}) research and AI-driven drug [discovery]({{ 'discovery/' | relative_url }}). Yet a faster measurement is only valuable if it genuinely reflects future health outcomes. Nature<span class="citation-chip-wrap"><a class="citation-chip" href="https://norn.group/agingclocks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: norn.group">[Norn Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">norn.group</span><span class="citation-popover-title">Group Aging Clocks</span><span class="citation-popover-snippet">Aging Clocks - CAPBiomarkers of the aging process (i.e., &#x27;aging clocks&#x27;) would unlock faster and more efficient breakthroughs, laying fou...</span></span></span>
 
-A good example is the debate around nutritional interventions and supplements. Some studies report modest improvements in epigenetic clock measures following interventions. However, critics frequently note that these changes are often small and that evidence linking them to reductions in disease or mortality remains weak. A 2026 study suggesting multivitamins modestly improved some epigenetic clock measures generated attention, but outside experts emphasised that the observed clock shifts did not yet demonstrate meaningful clinical benefit. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/science/2026/mar/09/taking-multivitamin-daily-could-help-to-slow-biological-ageing-study-suggests" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Conducted in the U.S. and partially funded by the Mars company, the research involved 958 healthy adults around 70 years old, divided int...</span></span></span>
+A good example is the debate around nutritional interventions and supplements. Some studies report modest improvements in epigenetic clock measures following interventions. However, critics frequently note that these changes are often small and that evidence linking them to reductions in disease or mortality remains weak. A 2026 study suggesting multivitamins modestly improved some epigenetic clock measures generated attention, but outside experts emphasised that the observed clock shifts did not yet demonstrate meaningful clinical benefit.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/science/2026/mar/09/taking-multivitamin-daily-could-help-to-slow-biological-ageing-study-suggests" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Conducted in the U.S. and partially funded by the Mars company, the research involved 958 healthy adults around 70 years old, divided int...</span></span></span>
 
 The concern is not that the measurements are useless. The concern is that researchers may mistake movement in a biomarker for movement in health itself.
 
@@ -331,7 +331,7 @@ The causation problem sits at the centre of the field.
 
 Many ageing clocks are trained to identify patterns associated with ageing outcomes. Machine learning excels at finding correlations. Yet correlations do not automatically reveal the mechanisms driving those outcomes.
 
-For example, a clock may detect methylation changes associated with smoking. Smokers often experience worse health outcomes and faster biological ageing. The clock therefore becomes predictive. But lowering the clock score without addressing the underlying damage caused by smoking may not produce the expected health benefits. The clock may partly reflect exposure rather than the biological mechanism that ultimately causes disease. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12714307/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCFrom Population Science to the Clinic?</span><span class="citation-popover-snippet">Limits of Epigenetic...by AT Apsley · 2025 · Cited by 2 — We show that clocks fail to meet common standards for clinical utility compare...</span></span></span>
+For example, a clock may detect methylation changes associated with smoking. Smokers often experience worse health outcomes and faster biological ageing. The clock therefore becomes predictive. But lowering the clock score without addressing the underlying damage caused by smoking may not produce the expected health benefits. The clock may partly reflect exposure rather than the biological mechanism that ultimately causes disease.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12714307/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCFrom Population Science to the Clinic?</span><span class="citation-popover-snippet">Limits of Epigenetic...by AT Apsley · 2025 · Cited by 2 — We show that clocks fail to meet common standards for clinical utility compare...</span></span></span>
 
 This issue becomes even more important as AI models grow more complex. Large machine-learning systems can identify patterns that humans cannot easily interpret. That increases predictive [power]({{ 'power/' | relative_url }}) but can reduce biological transparency. Researchers may know that a model works statistically while remaining uncertain about what biological processes it is actually measuring.
 
@@ -352,13 +352,13 @@ Several concerns arise when ageing clocks are used at the individual level:
 * Different tissues age differently, making a single whole-body age estimate potentially misleading.
 * Measurements can be sensitive to temporary physiological changes.
 * Different clocks often produce different estimates.
-* There is no universally accepted threshold that clearly defines intervention needs. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/aging/articles/10.3389/fragi.2024.1487260/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersCritical review of aging clocks and factors that may...by M Min · 2024 · Cited by 31 — Aging clocks are computational models de...</span></span></span>
+* There is no universally accepted threshold that clearly defines intervention needs. PMC<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/aging/articles/10.3389/fragi.2024.1487260/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersCritical review of aging clocks and factors that may...by M Min · 2024 · Cited by 31 — Aging clocks are computational models de...</span></span></span>
 
 </div>
 
 A clinician faced with a patient whose clock suggests accelerated ageing may still not know what treatment to recommend beyond conventional advice on exercise, sleep, smoking cessation, diet, blood-pressure [control]({{ 'control/' | relative_url }}), and metabolic health.
 
-In many cases, existing risk factors already provide actionable information. Critics therefore ask whether ageing clocks currently improve medical decision-making enough to justify their complexity and cost. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9768060/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Endpoints for geroscience clinical trials: health outcomes...by SR Cummings · 2022 · Cited by 43 — Without an understanding of the bi...</span></span></span>
+In many cases, existing risk factors already provide actionable information. Critics therefore ask whether ageing clocks currently improve medical decision-making enough to justify their complexity and cost.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9768060/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Endpoints for geroscience clinical trials: health outcomes...by SR Cummings · 2022 · Cited by 43 — Without an understanding of the bi...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/C1iTSd4Ibi8" title="Slowing the Clock: Longevity Science Meets Alzheimer’s Prevention" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=C1iTSd4Ibi8" target="_blank" rel="noopener noreferrer">Slowing the Clock: Longevity Science Meets Alzheimer’s Prevention</a></p><p class="youtube-embed-meta">Channel: University of California Television (UCTV) &middot; Views: 8.0K &middot; Uploaded: March 2026 &middot; Length: 50 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=C1iTSd4Ibi8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=C1iTSd4Ibi8">Open on YouTube</a></p></div></div></div>
 
@@ -372,226 +372,226 @@ Several forms of [validation]({{ 'validation/' | relative_url }}) would strength
 
 A clinically meaningful clock should respond when effective treatments are given and remain unchanged when ineffective treatments are used.
 
-More importantly, the size of the clock change should correspond to real-world improvements in health outcomes. If a therapy lowers biological age substantially, patients should experience measurable reductions in disease, disability, or mortality risk. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9022671/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">NIHby NJ Schork · 2022 · Cited by 15 — Second, many of the available epigenetic clocks have been shown to be predictive of mortalit...</span></span></span>
+More importantly, the size of the clock change should correspond to real-world improvements in health outcomes. If a therapy lowers biological age substantially, patients should experience measurable reductions in disease, disability, or mortality risk.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9022671/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">NIHby NJ Schork · 2022 · Cited by 15 — Second, many of the available epigenetic clocks have been shown to be predictive of mortalit...</span></span></span>
 
 ### Showing causal relevance
 
 Researchers increasingly argue that clocks should be linked to mechanisms rather than merely correlations.
 
-A clock that tracks biological damage directly would inspire more confidence than one that simply predicts outcomes from statistical patterns. Efforts to build causality-aware clocks reflect this goal. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12539533/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Clocks: Beyond Biological Age, Using the Past to...by R Liang · 2024 · Cited by 24 — Epigenetic clocks, derived from DNA methylation pat...</span></span></span>
+A clock that tracks biological damage directly would inspire more confidence than one that simply predicts outcomes from statistical patterns. Efforts to build causality-aware clocks reflect this goal.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12539533/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Clocks: Beyond Biological Age, Using the Past to...by R Liang · 2024 · Cited by 24 — Epigenetic clocks, derived from DNA methylation pat...</span></span></span>
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_medicine_l_7c4177_ai_ageing_clo_957636_ageing_clocks_529198-Illustration-3-dark.svg" | relative_url }}" alt="Clinical meaning illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_medicine_l_7c4177_ai_ageing_clo_957636_ageing_clocks_529198-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_medicine_l_7c4177_ai_ageing_clo_957636_ageing_clocks_529198-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Outperforming existing tools
 
 Ageing clocks must also show that they add information beyond conventional medicine.
 
-If blood pressure, cholesterol, fitness measures, imaging, and standard laboratory tests already provide equivalent guidance, then biological-age scores need to demonstrate additional clinical value rather than merely reproducing existing risk estimates in a more complicated form. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12756485/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Methylation and algorithms in biological aging: a scoping reviewby A Ziesel · 2025 — Second and third generation epigenetic clocks fol...</span></span></span>
+If blood pressure, cholesterol, fitness measures, imaging, and standard laboratory tests already provide equivalent guidance, then biological-age scores need to demonstrate additional clinical value rather than merely reproducing existing risk estimates in a more complicated form.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12756485/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Methylation and algorithms in biological aging: a scoping reviewby A Ziesel · 2025 — Second and third generation epigenetic clocks fol...</span></span></span>
 
 ### Regulatory acceptance as surrogate endpoints
 
 One of the most important milestones would be acceptance by regulators and clinical-trial authorities as validated surrogate endpoints.
 
-That would mean evidence exists showing that changes in a clock reliably predict future health benefits across multiple interventions and populations. At present, no ageing clock has achieved broad regulatory recognition at that level. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.patsnap.com/resources/blog/rd-blog/epigenetic-clock-aging-biomarkers-2026-patsnap-eureka/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: patsnap.com">[PatSnap]</a><span class="citation-popover" role="note"><span class="citation-popover-source">patsnap.com</span><span class="citation-popover-title">epigenetic clock aging biomarkers 2026 patsnap eureka</span><span class="citation-popover-snippet">Epigenetic Clock Aging Biomarker Technology Landscape23 Apr 2026 — No epigenetic clock has yet achieved formal regulatory validati...</span></span></span>
+That would mean evidence exists showing that changes in a clock reliably predict future health benefits across multiple interventions and populations. At present, no ageing clock has achieved broad regulatory recognition at that level.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.patsnap.com/resources/blog/rd-blog/epigenetic-clock-aging-biomarkers-2026-patsnap-eureka/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: patsnap.com">[PatSnap]</a><span class="citation-popover" role="note"><span class="citation-popover-source">patsnap.com</span><span class="citation-popover-title">epigenetic clock aging biomarkers 2026 patsnap eureka</span><span class="citation-popover-snippet">Epigenetic Clock Aging Biomarker Technology Landscape23 Apr 2026 — No epigenetic clock has yet achieved formal regulatory validati...</span></span></span>
 
 ## Why this debate matters for AI-driven longevity
 
 The debate over clinical meaning is not a side issue. It affects one of the most ambitious claims in the AI bloom story: that AI could dramatically accelerate progress against ageing itself.
 
-If ageing clocks eventually become reliable causal indicators, they could shorten research cycles enormously. Instead of waiting decades to discover whether a treatment extends healthy life, researchers might obtain meaningful feedback in months or years. That would make longevity science faster, cheaper, and more scalable. AI systems could then search huge intervention spaces, test candidate therapies, and refine strategies for preventing age-related disease far more rapidly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://norn.group/agingclocks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: norn.group">[Norn Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">norn.group</span><span class="citation-popover-title">Group Aging Clocks</span><span class="citation-popover-snippet">Aging Clocks - CAPBiomarkers of the aging process (i.e., &#x27;aging clocks&#x27;) would unlock faster and more efficient breakthroughs, laying fou...</span></span></span> Nature But if clock scores remain only loosely connected to genuine health outcomes <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41467-025-66106-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[nature.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">An unbiased comparison of 14 epigenetic clocks in relation...by C Mavrommatis · 2025 · Cited by 3 — These clocks showed particular...</span></span></span>, the acceleration could prove partly illusory. AI would become better at optimising measurements whose relationship to human flourishing remains uncertain.
+If ageing clocks eventually become reliable causal indicators, they could shorten research cycles enormously. Instead of waiting decades to discover whether a treatment extends healthy life, researchers might obtain meaningful feedback in months or years. That would make longevity science faster, cheaper, and more scalable. AI systems could then search huge intervention spaces, test candidate therapies, and refine strategies for preventing age-related disease far more rapidly.<span class="citation-chip-wrap"><a class="citation-chip" href="https://norn.group/agingclocks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: norn.group">[Norn Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">norn.group</span><span class="citation-popover-title">Group Aging Clocks</span><span class="citation-popover-snippet">Aging Clocks - CAPBiomarkers of the aging process (i.e., &#x27;aging clocks&#x27;) would unlock faster and more efficient breakthroughs, laying fou...</span></span></span> Nature But if clock scores remain only loosely connected to genuine health outcomes<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41467-025-66106-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[nature.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">An unbiased comparison of 14 epigenetic clocks in relation...by C Mavrommatis · 2025 · Cited by 3 — These clocks showed particular...</span></span></span>, the acceleration could prove partly illusory. AI would become better at optimising measurements whose relationship to human flourishing remains uncertain.
 
-That is why many researchers increasingly see the key challenge not as building more ageing clocks, but as proving which clocks measure something medicine can trust. The future value of AI-driven longevity may depend less on producing ever more precise estimates of biological age and more on demonstrating that changing those estimates genuinely changes the course of human health. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11070280/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Causality-Enriched Epigenetic Age Uncouples Damage and...by K Ying · 2024 · Cited by 194 — We established a novel framework to introd...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12820280/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nih.gov</span><span class="citation-popover-title">PMC12820280</span><span class="citation-popover-snippet">PMCby D Kriukov · 2025 — First, biological age may serve as a surrogate endpoint in clinical trials of geroprotective interventions (that...</span></span></span>
+That is why many researchers increasingly see the key challenge not as building more ageing clocks, but as proving which clocks measure something medicine can trust. The future value of AI-driven longevity may depend less on producing ever more precise estimates of biological age and more on demonstrating that changing those estimates genuinely changes the course of human health.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11070280/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Causality-Enriched Epigenetic Age Uncouples Damage and...by K Ying · 2024 · Cited by 194 — We established a novel framework to introd...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12820280/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nih.gov</span><span class="citation-popover-title">PMC12820280</span><span class="citation-popover-snippet">PMCby D Kriukov · 2025 — First, biological age may serve as a surrogate endpoint in clinical trials of geroprotective interventions (that...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-Sbco73Kh2s" title="Multiple Aging Clocks: Which to Use and Why?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-Sbco73Kh2s" target="_blank" rel="noopener noreferrer">Multiple Aging Clocks: Which to Use and Why?</a></p><p class="youtube-embed-meta">Channel: TruDiagnostic &middot; Views: 879 &middot; Uploaded: October 2024 &middot; Length: 51 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-Sbco73Kh2s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-Sbco73Kh2s">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Do ageing clocks measure something medicine can use?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Do ageing clocks measure something medicine can use?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Lifespan+by+David+A.+Sinclair&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Lifespan on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=x--oDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Lifespan" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Lifespan+by+David+A.+Sinclair&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lifespan">Lifespan</a>
-        </h4>
-        <p class="fr-book-author">By David A. Sinclair, Matthew D. LaPlante</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Lifespan+by+David+A.+Sinclair&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Lifespan on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=x--oDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Lifespan" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Lifespan+by+David+A.+Sinclair&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lifespan">Lifespan</a>
+</h4>
+<p class="fr-book-author">By David A. Sinclair, Matthew D. LaPlante</p>
         
-        <p class="fr-book-desc">Explains biological ageing and interventions, giving readers context for what ageing clocks are trying to measure.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Lifespan+by+David+A.+Sinclair&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains biological ageing and interventions, giving readers context for what ageing clocks are trying to measure.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Lifespan+by+David+A.+Sinclair&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ageless+by+Andrew+Steele&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ageless on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=IRBbEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Ageless" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ageless+by+Andrew+Steele&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ageless">Ageless</a>
-        </h4>
-        <p class="fr-book-author">By Andrew Steele</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ageless+by+Andrew+Steele&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ageless on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=IRBbEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Ageless" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ageless+by+Andrew+Steele&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ageless">Ageless</a>
+</h4>
+<p class="fr-book-author">By Andrew Steele</p>
         
-        <p class="fr-book-desc">Connects ageing mechanisms, biomarkers and the challenge of turning prediction into useful medicine.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ageless+by+Andrew+Steele&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Connects ageing mechanisms, biomarkers and the challenge of turning prediction into useful medicine.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ageless+by+Andrew+Steele&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Telomere+Effect+by+Dr.+Elizabeth+Blackburn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Telomere Effect on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hbMsDAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Telomere Effect" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Telomere+Effect+by+Dr.+Elizabeth+Blackburn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Telomere Effect">The Telomere Effect</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Elizabeth Blackburn, Dr. Elissa Epel</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Telomere+Effect+by+Dr.+Elizabeth+Blackburn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Telomere Effect on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hbMsDAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Telomere Effect" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Telomere+Effect+by+Dr.+Elizabeth+Blackburn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Telomere Effect">The Telomere Effect</a>
+</h4>
+<p class="fr-book-author">By Dr. Elizabeth Blackburn, Dr. Elissa Epel</p>
         
-        <p class="fr-book-desc">Covers a major biological-age marker and the limits of translating biomarkers into health advice.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Telomere+Effect+by+Dr.+Elizabeth+Blackburn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers a major biological-age marker and the limits of translating biomarkers into health advice.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Telomere+Effect+by+Dr.+Elizabeth+Blackburn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Longevity+Imperative+by+Andrew+J+Scott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Longevity Imperative on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=C2IX0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Longevity Imperative" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Longevity+Imperative+by+Andrew+J+Scott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Longevity Imperative">The Longevity Imperative</a>
-        </h4>
-        <p class="fr-book-author">By Andrew J Scott</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Longevity+Imperative+by+Andrew+J+Scott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Longevity Imperative on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=C2IX0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Longevity Imperative" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Longevity+Imperative+by+Andrew+J+Scott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Longevity Imperative">The Longevity Imperative</a>
+</h4>
+<p class="fr-book-author">By Andrew J Scott</p>
         
-        <p class="fr-book-desc">Frames why measuring ageing matters socially and medically, beyond narrow technical biomarkers.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Longevity+Imperative+by+Andrew+J+Scott&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Frames why measuring ageing matters socially and medically, beyond narrow technical biomarkers.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Longevity+Imperative+by+Andrew+J+Scott&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Lifespan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Lifespan</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ageless&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ageless</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Telomere+Effect&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Telomere Effect</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Lifespan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Lifespan</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Ageless&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ageless</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Telomere+Effect&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Telomere Effect</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=biology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clinical-meaning-do-ageing-clocks-measure-something-medicine-can-use-ai-bloom-abundance-superint-biology-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="biology poster -book -books" data-ebay-reference="clinical-meaning-do-ageing-clocks-measure-something-medicine-can-use-ai-bloom-abundance-superint-biology-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Educational vintage A3 A4 Mushroom Chart Biology Science Fungi art print poster"><img src="{{ '/assets/images/marketplace-covers/17e2f79b1a99ca589e72.jpg' | relative_url }}" alt="Listing image for Educational vintage A3 A4 Mushroom Chart Biology Science Fungi art print poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=biology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clinical-meaning-do-ageing-clocks-measure-something-medicine-can-use-ai-bloom-abundance-superint-biology-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="biology poster -book -books" data-ebay-reference="clinical-meaning-do-ageing-clocks-measure-something-medicine-can-use-ai-bloom-abundance-superint-biology-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer">Educational vintage A3 A4 Mushroom Chart Biology Science Fungi art print poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=biology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clinical-meaning-do-ageing-clocks-measure-something-medicine-can-use-ai-bloom-abundance-superint-biology-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="biology poster -book -books" data-ebay-reference="clinical-meaning-do-ageing-clocks-measure-something-medicine-can-use-ai-bloom-abundance-superint-biology-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for biology poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: biology poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=biology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clinical-meaning-do-ageing-clocks-measure-something-medicine-can-use-ai-bloom-abundance-superint-biology-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="biology poster -book -books" data-ebay-reference="clinical-meaning-do-ageing-clocks-measure-something-medicine-can-use-ai-bloom-abundance-superint-biology-poster-book-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=biology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clinical-meaning-do-ageing-clocks-measure-something-medicine-can-use-ai-bloom-abundance-superint-biology-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="biology poster -book -books" data-ebay-reference="clinical-meaning-do-ageing-clocks-measure-something-medicine-can-use-ai-bloom-abundance-superint-biology-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Educational vintage A3 A4 Mushroom Chart Biology Science Fungi art print poster"><img src="{{ '/assets/images/marketplace-covers/17e2f79b1a99ca589e72.jpg' | relative_url }}" alt="Listing image for Educational vintage A3 A4 Mushroom Chart Biology Science Fungi art print poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=biology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clinical-meaning-do-ageing-clocks-measure-something-medicine-can-use-ai-bloom-abundance-superint-biology-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="biology poster -book -books" data-ebay-reference="clinical-meaning-do-ageing-clocks-measure-something-medicine-can-use-ai-bloom-abundance-superint-biology-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer">Educational vintage A3 A4 Mushroom Chart Biology Science Fungi art print poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=biology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clinical-meaning-do-ageing-clocks-measure-something-medicine-can-use-ai-bloom-abundance-superint-biology-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="biology poster -book -books" data-ebay-reference="clinical-meaning-do-ageing-clocks-measure-something-medicine-can-use-ai-bloom-abundance-superint-biology-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for biology poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: biology poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=biology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clinical-meaning-do-ageing-clocks-measure-something-medicine-can-use-ai-bloom-abundance-superint-biology-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="biology poster -book -books" data-ebay-reference="clinical-meaning-do-ageing-clocks-measure-something-medicine-can-use-ai-bloom-abundance-superint-biology-poster-book-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=biology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clinical-meaning-do-ageing-clocks-measure-something-medicine-can-use-ai-bloom-abundance-superint-biology-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="biology poster -book -books" data-ebay-reference="clinical-meaning-do-ageing-clocks-measure-something-medicine-can-use-ai-bloom-abundance-superint-biology-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Biology Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/f6b5cd6a86dedc5f772b.jpg' | relative_url }}" alt="Listing image for Biology Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=biology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clinical-meaning-do-ageing-clocks-measure-something-medicine-can-use-ai-bloom-abundance-superint-biology-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="biology poster -book -books" data-ebay-reference="clinical-meaning-do-ageing-clocks-measure-something-medicine-can-use-ai-bloom-abundance-superint-biology-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer">Biology Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=biology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clinical-meaning-do-ageing-clocks-measure-something-medicine-can-use-ai-bloom-abundance-superint-biology-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="biology poster -book -books" data-ebay-reference="clinical-meaning-do-ageing-clocks-measure-something-medicine-can-use-ai-bloom-abundance-superint-biology-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for biology poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: biology poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=biology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clinical-meaning-do-ageing-clocks-measure-something-medicine-can-use-ai-bloom-abundance-superint-biology-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="biology poster -book -books" data-ebay-reference="clinical-meaning-do-ageing-clocks-measure-something-medicine-can-use-ai-bloom-abundance-superint-biology-poster-book-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=biology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clinical-meaning-do-ageing-clocks-measure-something-medicine-can-use-ai-bloom-abundance-superint-biology-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="biology poster -book -books" data-ebay-reference="clinical-meaning-do-ageing-clocks-measure-something-medicine-can-use-ai-bloom-abundance-superint-biology-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Biology Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/f6b5cd6a86dedc5f772b.jpg' | relative_url }}" alt="Listing image for Biology Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=biology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clinical-meaning-do-ageing-clocks-measure-something-medicine-can-use-ai-bloom-abundance-superint-biology-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="biology poster -book -books" data-ebay-reference="clinical-meaning-do-ageing-clocks-measure-something-medicine-can-use-ai-bloom-abundance-superint-biology-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer">Biology Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=biology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clinical-meaning-do-ageing-clocks-measure-something-medicine-can-use-ai-bloom-abundance-superint-biology-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="biology poster -book -books" data-ebay-reference="clinical-meaning-do-ageing-clocks-measure-something-medicine-can-use-ai-bloom-abundance-superint-biology-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for biology poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: biology poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=biology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clinical-meaning-do-ageing-clocks-measure-something-medicine-can-use-ai-bloom-abundance-superint-biology-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="biology poster -book -books" data-ebay-reference="clinical-meaning-do-ageing-clocks-measure-something-medicine-can-use-ai-bloom-abundance-superint-biology-poster-book-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=biology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clinical-meaning-do-ageing-clocks-measure-something-medicine-can-use-ai-bloom-abundance-superint-biology-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="biology poster -book -books" data-ebay-reference="clinical-meaning-do-ageing-clocks-measure-something-medicine-can-use-ai-bloom-abundance-superint-biology-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Biology Biologist Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/c726bc25c40b316bceef.jpg' | relative_url }}" alt="Listing image for Biology Biologist Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=biology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clinical-meaning-do-ageing-clocks-measure-something-medicine-can-use-ai-bloom-abundance-superint-biology-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="biology poster -book -books" data-ebay-reference="clinical-meaning-do-ageing-clocks-measure-something-medicine-can-use-ai-bloom-abundance-superint-biology-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer">Biology Biologist Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=biology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clinical-meaning-do-ageing-clocks-measure-something-medicine-can-use-ai-bloom-abundance-superint-biology-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="biology poster -book -books" data-ebay-reference="clinical-meaning-do-ageing-clocks-measure-something-medicine-can-use-ai-bloom-abundance-superint-biology-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for biology poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: biology poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=biology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clinical-meaning-do-ageing-clocks-measure-something-medicine-can-use-ai-bloom-abundance-superint-biology-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="biology poster -book -books" data-ebay-reference="clinical-meaning-do-ageing-clocks-measure-something-medicine-can-use-ai-bloom-abundance-superint-biology-poster-book-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=biology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clinical-meaning-do-ageing-clocks-measure-something-medicine-can-use-ai-bloom-abundance-superint-biology-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="biology poster -book -books" data-ebay-reference="clinical-meaning-do-ageing-clocks-measure-something-medicine-can-use-ai-bloom-abundance-superint-biology-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Biology Biologist Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/c726bc25c40b316bceef.jpg' | relative_url }}" alt="Listing image for Biology Biologist Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=biology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clinical-meaning-do-ageing-clocks-measure-something-medicine-can-use-ai-bloom-abundance-superint-biology-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="biology poster -book -books" data-ebay-reference="clinical-meaning-do-ageing-clocks-measure-something-medicine-can-use-ai-bloom-abundance-superint-biology-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer">Biology Biologist Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=biology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clinical-meaning-do-ageing-clocks-measure-something-medicine-can-use-ai-bloom-abundance-superint-biology-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="biology poster -book -books" data-ebay-reference="clinical-meaning-do-ageing-clocks-measure-something-medicine-can-use-ai-bloom-abundance-superint-biology-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for biology poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: biology poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=biology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clinical-meaning-do-ageing-clocks-measure-something-medicine-can-use-ai-bloom-abundance-superint-biology-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="biology poster -book -books" data-ebay-reference="clinical-meaning-do-ageing-clocks-measure-something-medicine-can-use-ai-bloom-abundance-superint-biology-poster-book-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=biology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clinical-meaning-do-ageing-clocks-measure-something-medicine-can-use-ai-bloom-abundance-superint-biology-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="biology poster -book -books" data-ebay-reference="clinical-meaning-do-ageing-clocks-measure-something-medicine-can-use-ai-bloom-abundance-superint-biology-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Biology Immune System Cells Framed Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/55c027ffec73590e1c8e.jpg' | relative_url }}" alt="Listing image for Biology Immune System Cells Framed Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=biology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clinical-meaning-do-ageing-clocks-measure-something-medicine-can-use-ai-bloom-abundance-superint-biology-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="biology poster -book -books" data-ebay-reference="clinical-meaning-do-ageing-clocks-measure-something-medicine-can-use-ai-bloom-abundance-superint-biology-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer">Biology Immune System Cells Framed Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=biology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clinical-meaning-do-ageing-clocks-measure-something-medicine-can-use-ai-bloom-abundance-superint-biology-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="biology poster -book -books" data-ebay-reference="clinical-meaning-do-ageing-clocks-measure-something-medicine-can-use-ai-bloom-abundance-superint-biology-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for biology poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: biology poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=biology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clinical-meaning-do-ageing-clocks-measure-something-medicine-can-use-ai-bloom-abundance-superint-biology-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="biology poster -book -books" data-ebay-reference="clinical-meaning-do-ageing-clocks-measure-something-medicine-can-use-ai-bloom-abundance-superint-biology-poster-book-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=biology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clinical-meaning-do-ageing-clocks-measure-something-medicine-can-use-ai-bloom-abundance-superint-biology-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="biology poster -book -books" data-ebay-reference="clinical-meaning-do-ageing-clocks-measure-something-medicine-can-use-ai-bloom-abundance-superint-biology-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=biology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clinical-meaning-do-ageing-clocks-measure-something-medicine-can-use-ai-bloom-abundance-superint-biology-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="biology poster -book -books" data-ebay-reference="clinical-meaning-do-ageing-clocks-measure-something-medicine-can-use-ai-bloom-abundance-superint-biology-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Biology Immune System Cells Framed Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/55c027ffec73590e1c8e.jpg' | relative_url }}" alt="Listing image for Biology Immune System Cells Framed Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=biology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clinical-meaning-do-ageing-clocks-measure-something-medicine-can-use-ai-bloom-abundance-superint-biology-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="biology poster -book -books" data-ebay-reference="clinical-meaning-do-ageing-clocks-measure-something-medicine-can-use-ai-bloom-abundance-superint-biology-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer">Biology Immune System Cells Framed Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=biology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clinical-meaning-do-ageing-clocks-measure-something-medicine-can-use-ai-bloom-abundance-superint-biology-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="biology poster -book -books" data-ebay-reference="clinical-meaning-do-ageing-clocks-measure-something-medicine-can-use-ai-bloom-abundance-superint-biology-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for biology poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: biology poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=biology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clinical-meaning-do-ageing-clocks-measure-something-medicine-can-use-ai-bloom-abundance-superint-biology-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="biology poster -book -books" data-ebay-reference="clinical-meaning-do-ageing-clocks-measure-something-medicine-can-use-ai-bloom-abundance-superint-biology-poster-book-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=biology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clinical-meaning-do-ageing-clocks-measure-something-medicine-can-use-ai-bloom-abundance-superint-biology-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="biology poster -book -books" data-ebay-reference="clinical-meaning-do-ageing-clocks-measure-something-medicine-can-use-ai-bloom-abundance-superint-biology-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -607,7 +607,7 @@ That is why many researchers increasingly see the key challenge not as building 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -627,7 +627,7 @@ That is why many researchers increasingly see the key challenge not as building 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -659,7 +659,7 @@ That is why many researchers increasingly see the key challenge not as building 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -711,7 +711,7 @@ That is why many researchers increasingly see the key challenge not as building 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -756,7 +756,7 @@ That is why many researchers increasingly see the key challenge not as building 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -797,168 +797,168 @@ That is why many researchers increasingly see the key challenge not as building 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCFrom Population Science to the Clinic?  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12714307/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12714307/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Limits of Epigenetic...by AT Apsley · 2025 · Cited by 2 — We show that clocks fail to meet common standards for clinical utility compare...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12714307/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12714307/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Limits of Epigenetic...by AT Apsley · 2025 · Cited by 2 — We show that clocks fail to meet common standards for clinical utility compare...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9768060/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9768060/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Endpoints for geroscience clinical trials: health outcomes...by SR Cummings · 2022 · Cited by 43 — Without an understanding of the bi...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9768060/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9768060/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Endpoints for geroscience clinical trials: health outcomes...by SR Cummings · 2022 · Cited by 43 — Without an understanding of the bi...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9022671/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9022671/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby NJ Schork · 2022 · Cited by 15 — Second, many of the available epigenetic clocks have been shown to be predictive of mortalit...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9022671/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9022671/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby NJ Schork · 2022 · Cited by 15 — Second, many of the available epigenetic clocks have been shown to be predictive of mortalit...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41467-025-66106-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41467-025-66106-y</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>An unbiased comparison of 14 epigenetic clocks in relation...by C Mavrommatis · 2025 · Cited by 3 — These clocks showed particular...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41467-025-66106-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41467-025-66106-y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An unbiased comparison of 14 epigenetic clocks in relation...by C Mavrommatis · 2025 · Cited by 3 — These clocks showed particular...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12539533/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12539533/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Clocks: Beyond Biological Age, Using the Past to...by R Liang · 2024 · Cited by 24 — Epigenetic clocks, derived from DNA methylation pat...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12539533/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12539533/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Clocks: Beyond Biological Age, Using the Past to...by R Liang · 2024 · Cited by 24 — Epigenetic clocks, derived from DNA methylation pat...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: norn.group  
    Title: Group Aging Clocks  
-   Link: <a href="https://norn.group/agingclocks" target="_blank" rel="noopener noreferrer nofollow">https://norn.group/agingclocks</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Aging Clocks - CAPBiomarkers of the aging process (i.e., &#x27;aging clocks&#x27;) would unlock faster and more efficient breakthroughs, laying fou...</p></details>
+   Link:<a href="https://norn.group/agingclocks" target="_blank" rel="noopener noreferrer nofollow">https://norn.group/agingclocks</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aging Clocks - CAPBiomarkers of the aging process (i.e., &#x27;aging clocks&#x27;) would unlock faster and more efficient breakthroughs, laying fou...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2412.02380" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2412.02380</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Use of surrogate endpoints in health technology assessment: a review of selected NICE technology appraisals in oncologyDecember 3, 2024...</p></details>
+   Link:<a href="https://arxiv.org/abs/2412.02380" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2412.02380</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Use of surrogate endpoints in health technology assessment: a review of selected NICE technology appraisals in oncologyDecember 3, 2024...</p></details>
    Published: December 3, 2024  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12756485/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12756485/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Methylation and algorithms in biological aging: a scoping reviewby A Ziesel · 2025 — Second and third generation epigenetic clocks fol...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12756485/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12756485/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Methylation and algorithms in biological aging: a scoping reviewby A Ziesel · 2025 — Second and third generation epigenetic clocks fol...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/airi-institute/reliability-of-biological-aging-clocks-proposed-to-be-assessed-by-disease-risks-and-uncertainty-6570f1da4e1c" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/airi-institute/reliability-of-biological-aging-clocks-proposed-to-be-assessed-by-disease-risks-and-uncertainty-6570f1da4e1c</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>s biomarker types — remain difficult to define and validate...</p></details>
+   Link:<a href="https://medium.com/airi-institute/reliability-of-biological-aging-clocks-proposed-to-be-assessed-by-disease-risks-and-uncertainty-6570f1da4e1c" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/airi-institute/reliability-of-biological-aging-clocks-proposed-to-be-assessed-by-disease-risks-and-uncertainty-6570f1da4e1c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>s biomarker types — remain difficult to define and validate...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11070280/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11070280/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Causality-Enriched Epigenetic Age Uncouples Damage and...by K Ying · 2024 · Cited by 194 — We established a novel framework to introd...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11070280/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11070280/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Causality-Enriched Epigenetic Age Uncouples Damage and...by K Ying · 2024 · Cited by 194 — We established a novel framework to introd...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nature.com  
    Title: Do we actually need aging clocks?  
-   Link: <a href="https://www.nature.com/articles/s41514-025-00312-2" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41514-025-00312-2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>npj Agingby D Kriukov · 2025 · Cited by 1 — First, biological age may serve as a surrogate endpoint in clinical trials of geroprotectiv...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41514-025-00312-2" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41514-025-00312-2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>npj Agingby D Kriukov · 2025 · Cited by 1 — First, biological age may serve as a surrogate endpoint in clinical trials of geroprotectiv...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: patsnap.com  
    Title: epigenetic clock aging biomarkers 2026 patsnap eureka  
-   Link: <a href="https://www.patsnap.com/resources/blog/rd-blog/epigenetic-clock-aging-biomarkers-2026-patsnap-eureka/" target="_blank" rel="noopener noreferrer nofollow">https://www.patsnap.com/resources/blog/rd-blog/epigenetic-clock-aging-biomarkers-2026-patsnap-eureka/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Epigenetic Clock Aging Biomarker Technology Landscape23 Apr 2026 — No epigenetic clock has yet achieved formal regulatory validati...</p></details>
+   Link:<a href="https://www.patsnap.com/resources/blog/rd-blog/epigenetic-clock-aging-biomarkers-2026-patsnap-eureka/" target="_blank" rel="noopener noreferrer nofollow">https://www.patsnap.com/resources/blog/rd-blog/epigenetic-clock-aging-biomarkers-2026-patsnap-eureka/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Epigenetic Clock Aging Biomarker Technology Landscape23 Apr 2026 — No epigenetic clock has yet achieved formal regulatory validati...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41514-025-00311-3" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41514-025-00311-3</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A urinary microRNA aging clock accurately predicts...by M Havelka · 2025 — We aimed to develop and validate a urinary miRNA aging clock...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41514-025-00311-3" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41514-025-00311-3</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A urinary microRNA aging clock accurately predicts...by M Havelka · 2025 — We aimed to develop and validate a urinary miRNA aging clock...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: cell.com  
-   Link: <a href="https://www.cell.com/cell/fulltext/S0092-8674%2823%2900857-7" target="_blank" rel="noopener noreferrer nofollow">https://www.cell.com/cell/fulltext/S0092-8674%2823%2900857-7</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Establishing that a biomarker...Read more...</p></details>
+   Link:<a href="https://www.cell.com/cell/fulltext/S0092-8674%2823%2900857-7" target="_blank" rel="noopener noreferrer nofollow">https://www.cell.com/cell/fulltext/S0092-8674%2823%2900857-7</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Establishing that a biomarker...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: cancer.gov  
    Title: Definition of biological  
-   Link: <a href="https://www.cancer.gov/publications/dictionaries/cancer-terms/def/biological" target="_blank" rel="noopener noreferrer nofollow">https://www.cancer.gov/publications/dictionaries/cancer-terms/def/biological</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NCI Dictionary of Cancer TermsPertaining to biology or to life and living things. In medicine, refers to a substance made from a living o...</p></details>
+   Link:<a href="https://www.cancer.gov/publications/dictionaries/cancer-terms/def/biological" target="_blank" rel="noopener noreferrer nofollow">https://www.cancer.gov/publications/dictionaries/cancer-terms/def/biological</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NCI Dictionary of Cancer TermsPertaining to biology or to life and living things. In medicine, refers to a substance made from a living o...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/aging/articles/10.3389/fragi.2024.1487260/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/aging/articles/10.3389/fragi.2024.1487260/full</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersCritical review of aging clocks and factors that may...by M Min · 2024 · Cited by 31 — Aging clocks are computational models de...</p></details>
+   Link:<a href="https://www.frontiersin.org/journals/aging/articles/10.3389/fragi.2024.1487260/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/aging/articles/10.3389/fragi.2024.1487260/full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersCritical review of aging clocks and factors that may...by M Min · 2024 · Cited by 31 — Aging clocks are computational models de...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/science/2026/mar/09/taking-multivitamin-daily-could-help-to-slow-biological-ageing-study-suggests" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2026/mar/09/taking-multivitamin-daily-could-help-to-slow-biological-ageing-study-suggests</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Conducted in the U.S. and partially funded by the Mars company, the research involved 958 healthy adults around 70 years old, divided int...</p></details>
+   Link:<a href="https://www.theguardian.com/science/2026/mar/09/taking-multivitamin-daily-could-help-to-slow-biological-ageing-study-suggests" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2026/mar/09/taking-multivitamin-daily-could-help-to-slow-biological-ageing-study-suggests</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Conducted in the U.S. and partially funded by the Mars company, the research involved 958 healthy adults around 70 years old, divided int...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/us/dictionary/english/biological" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/us/dictionary/english/biological</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>definition in the Cambridge English DictionaryBIOLOGICAL meaning: 1. connected with the natural processes of living things: 2. related...</p></details>
+   Link:<a href="https://dictionary.cambridge.org/us/dictionary/english/biological" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/us/dictionary/english/biological</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>definition in the Cambridge English DictionaryBIOLOGICAL meaning: 1. connected with the natural processes of living things: 2. related...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: norngroup.substack.com  
    Title: do we have a useful aging clock  
-   Link: <a href="https://norngroup.substack.com/p/do-we-have-a-useful-aging-clock" target="_blank" rel="noopener noreferrer nofollow">https://norngroup.substack.com/p/do-we-have-a-useful-aging-clock</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>we have a useful aging clock? - by Martin Borch Jensen13 years after the first &#x27;aging clock&#x27; was published we&#x27;re still measuring mouse li...</p></details>
+   Link:<a href="https://norngroup.substack.com/p/do-we-have-a-useful-aging-clock" target="_blank" rel="noopener noreferrer nofollow">https://norngroup.substack.com/p/do-we-have-a-useful-aging-clock</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>we have a useful aging clock? - by Martin Borch Jensen13 years after the first &#x27;aging clock&#x27; was published we&#x27;re still measuring mouse li...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: vocabulary.com  
-   Link: <a href="https://www.vocabulary.com/dictionary/biological" target="_blank" rel="noopener noreferrer nofollow">https://www.vocabulary.com/dictionary/biological</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>You&#x27;ll recognize the root &quot;bio-,&quot; meaning &quot;life,&quot; as in biography — the story of...Read more...</p></details>
+   Link:<a href="https://www.vocabulary.com/dictionary/biological" target="_blank" rel="noopener noreferrer nofollow">https://www.vocabulary.com/dictionary/biological</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>You&#x27;ll recognize the root &quot;bio-,&quot; meaning &quot;life,&quot; as in biography — the story of...Read more...</p></details>
 
 ### Additional References
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/387032713_Critical_review_of_aging_clocks_and_factors_that_may_influence_the_pace_of_aging" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/387032713_Critical_review_of_aging_clocks_and_factors_that_may_influence_the_pace_of_aging</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Critical review of aging clocks and factors that may...14 Dec 2024 — Aging clocks are computational models designed to measure biologica...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/387032713_Critical_review_of_aging_clocks_and_factors_that_may_influence_the_pace_of_aging" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/387032713_Critical_review_of_aging_clocks_and_factors_that_may_influence_the_pace_of_aging</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Critical review of aging clocks and factors that may...14 Dec 2024 — Aging clocks are computational models designed to measure biologica...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: dictionary.com  
-   Link: <a href="https://www.dictionary.com/browse/biological" target="_blank" rel="noopener noreferrer nofollow">https://www.dictionary.com/browse/biological</a>  
+   Link:<a href="https://www.dictionary.com/browse/biological" target="_blank" rel="noopener noreferrer nofollow">https://www.dictionary.com/browse/biological</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: fightaging.org  
-   Link: <a href="https://www.fightaging.org/archives/2024/02/attempting-to-determine-harmful-versus-adaptive-changes-using-epigenetic-clock-techniques/" target="_blank" rel="noopener noreferrer nofollow">https://www.fightaging.org/archives/2024/02/attempting-to-determine-harmful-versus-adaptive-changes-using-epigenetic-clock-techniques/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Attempting to Determine Harmful versus Adaptive Changes...22 Feb 2024 — The largest of the present challenges facing the use of epigenet...</p></details>
+   Link:<a href="https://www.fightaging.org/archives/2024/02/attempting-to-determine-harmful-versus-adaptive-changes-using-epigenetic-clock-techniques/" target="_blank" rel="noopener noreferrer nofollow">https://www.fightaging.org/archives/2024/02/attempting-to-determine-harmful-versus-adaptive-changes-using-epigenetic-clock-techniques/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Attempting to Determine Harmful versus Adaptive Changes...22 Feb 2024 — The largest of the present challenges facing the use of epigenet...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: medscape.com  
    Title: epigenetic clocks new types new promises new skepticism 2025a1000gh0  
-   Link: <a href="https://www.medscape.com/viewarticle/epigenetic-clocks-new-types-new-promises-new-skepticism-2025a1000gh0" target="_blank" rel="noopener noreferrer nofollow">https://www.medscape.com/viewarticle/epigenetic-clocks-new-types-new-promises-new-skepticism-2025a1000gh0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Epigenetic Clocks: New Types, New Promises...20 Jun 2025 — Epigenetic clocks measure what&#x27;s happening inside you on a cellular level and...</p></details>
+   Link:<a href="https://www.medscape.com/viewarticle/epigenetic-clocks-new-types-new-promises-new-skepticism-2025a1000gh0" target="_blank" rel="noopener noreferrer nofollow">https://www.medscape.com/viewarticle/epigenetic-clocks-new-types-new-promises-new-skepticism-2025a1000gh0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Epigenetic Clocks: New Types, New Promises...20 Jun 2025 — Epigenetic clocks measure what&#x27;s happening inside you on a cellular level and...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: ccrps.org  
    Title: The Rise of Longevity Clinical Trials: Are We on the Verge  
-   Link: <a href="https://ccrps.org/clinical-research-blog/the-rise-of-longevity-clinical-trials-are-we-on-the-verge-of-extending-life" target="_blank" rel="noopener noreferrer nofollow">https://ccrps.org/clinical-research-blog/the-rise-of-longevity-clinical-trials-are-we-on-the-verge-of-extending-life</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>March 11, 2026 — Explore whether longevity clinical trials can extend life by targeting aging biology, healthspan, frailty, and decline...</p></details>
+   Link:<a href="https://ccrps.org/clinical-research-blog/the-rise-of-longevity-clinical-trials-are-we-on-the-verge-of-extending-life" target="_blank" rel="noopener noreferrer nofollow">https://ccrps.org/clinical-research-blog/the-rise-of-longevity-clinical-trials-are-we-on-the-verge-of-extending-life</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>March 11, 2026 — Explore whether longevity clinical trials can extend life by targeting aging biology, healthspan, frailty, and decline...</p></details>
    Published: March 11, 2026  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: elifesciences.org  
    Title: Peer review in Quantification of the pace of biological  
-   Link: <a href="https://elifesciences.org/articles/54870/peer-reviews" target="_blank" rel="noopener noreferrer nofollow">https://elifesciences.org/articles/54870/peer-reviews</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 5, 2020 — 2B) The authors correctly state that &quot;measurements of the rate of biological aging are needed to serve as surrogate endpoin...</p></details>
+   Link:<a href="https://elifesciences.org/articles/54870/peer-reviews" target="_blank" rel="noopener noreferrer nofollow">https://elifesciences.org/articles/54870/peer-reviews</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 5, 2020 — 2B) The authors correctly state that &quot;measurements of the rate of biological aging are needed to serve as surrogate endpoin...</p></details>
    Published: May 5, 2020  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: everythingepigenetics.com  
    Title: causal epigenetic age uncouples damage and adaptation  
-   Link: <a href="https://everythingepigenetics.com/podcast/causal-epigenetic-age-uncouples-damage-and-adaptation/" target="_blank" rel="noopener noreferrer nofollow">https://everythingepigenetics.com/podcast/causal-epigenetic-age-uncouples-damage-and-adaptation/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>24 Jan 2024 — – One of the biggest weaknesses of the epigenetic clocks (separating causation versus correlation) – Mendelian randomizatio...</p></details>
+   Link:<a href="https://everythingepigenetics.com/podcast/causal-epigenetic-age-uncouples-damage-and-adaptation/" target="_blank" rel="noopener noreferrer nofollow">https://everythingepigenetics.com/podcast/causal-epigenetic-age-uncouples-damage-and-adaptation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>24 Jan 2024 — – One of the biggest weaknesses of the epigenetic clocks (separating causation versus correlation) – Mendelian randomizatio...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: medicalxpress.com  
    Title: 2025 06 biological aging clock outperforms mortality  
-   Link: <a href="https://medicalxpress.com/news/2025-06-biological-aging-clock-outperforms-mortality.html" target="_blank" rel="noopener noreferrer nofollow">https://medicalxpress.com/news/2025-06-biological-aging-clock-outperforms-mortality.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Biological aging clock outperforms existing models in...Jun 10, 2025 — LinAge2 not only outperformed other clinical models but also surp...</p></details>
+   Link:<a href="https://medicalxpress.com/news/2025-06-biological-aging-clock-outperforms-mortality.html" target="_blank" rel="noopener noreferrer nofollow">https://medicalxpress.com/news/2025-06-biological-aging-clock-outperforms-mortality.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Biological aging clock outperforms existing models in...Jun 10, 2025 — LinAge2 not only outperformed other clinical models but also surp...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: ubiehealth.com  
-   Link: <a href="https://ubiehealth.com/doctors-note/biological-age-epigenetic-clocks-longevity99-aging21e2" target="_blank" rel="noopener noreferrer nofollow">https://ubiehealth.com/doctors-note/biological-age-epigenetic-clocks-longevity99-aging21e2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ubie2 Feb 2026 — Epigenetic clocks use mathematical models to estimate Biological Age based on DNA methylation. Some of the most well-kno...</p></details>
+   Link:<a href="https://ubiehealth.com/doctors-note/biological-age-epigenetic-clocks-longevity99-aging21e2" target="_blank" rel="noopener noreferrer nofollow">https://ubiehealth.com/doctors-note/biological-age-epigenetic-clocks-longevity99-aging21e2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ubie2 Feb 2026 — Epigenetic clocks use mathematical models to estimate Biological Age based on DNA methylation. Some of the most well-kno...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: aging-us.com  
    Title: why epigenetic clocks may fail to measure anti aging effects  
-   Link: <a href="https://www.aging-us.com/news-room/why-epigenetic-clocks-may-fail-to-measure-anti-aging-effects" target="_blank" rel="noopener noreferrer nofollow">https://www.aging-us.com/news-room/why-epigenetic-clocks-may-fail-to-measure-anti-aging-effects</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Josh Mitteldorf explores how current epigenetic clocks—used to estimate biological age—might mislead scientists...Read more...</p></details>
+   Link:<a href="https://www.aging-us.com/news-room/why-epigenetic-clocks-may-fail-to-measure-anti-aging-effects" target="_blank" rel="noopener noreferrer nofollow">https://www.aging-us.com/news-room/why-epigenetic-clocks-may-fail-to-measure-anti-aging-effects</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Josh Mitteldorf explores how current epigenetic clocks—used to estimate biological age—might mislead scientists...Read more...</p></details>

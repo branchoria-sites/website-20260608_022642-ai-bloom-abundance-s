@@ -278,7 +278,7 @@ As automation and AI reshape the world of work, reskilling — targeted training
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_ethics_dignit_44db8e_reskilling_di_e61821-Illustration-1-dark.svg" | relative_url }}" alt="Reskilling Programs illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_ethics_dignit_44db8e_reskilling_di_e61821-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_ethics_dignit_44db8e_reskilling_di_e61821-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Curriculum Design for Human Strengths
 
-Reskilling efforts that respect dignity focus less on generic courses and more on **skills that leverage inherently human strengths** — creativity, problem‑solving, empathy and strategic thinking — alongside technical competencies. Evidence from adult learning systems shows that training must be relevant, accessible and scaffolded into real work tasks. For example, **FutureFit**, an initiative across Benelux and Nordic countries, provided digital skills training to workers in highly automatable industries, with about 90 per cent of participants applying their new skills at work. It paired digital literacy with motivation‑enhancing learning methods designed to improve long‑term adaptability rather than one‑off certification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nesta.org.uk/project/futurefit/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nesta.org.uk">[nesta]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nesta.org.uk</span><span class="citation-popover-title">nesta Future Fit &#124; Nesta</span><span class="citation-popover-snippet">nesta Future Fit &#124; Nesta</span></span></span>
+Reskilling efforts that respect dignity focus less on generic courses and more on **skills that leverage inherently human strengths** — creativity, problem‑solving, empathy and strategic thinking — alongside technical competencies. Evidence from adult learning systems shows that training must be relevant, accessible and scaffolded into real work tasks. For example, **FutureFit**, an initiative across Benelux and Nordic countries, provided digital skills training to workers in highly automatable industries, with about 90 per cent of participants applying their new skills at work. It paired digital literacy with motivation‑enhancing learning methods designed to improve long‑term adaptability rather than one‑off certification.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nesta.org.uk/project/futurefit/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nesta.org.uk">[nesta]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nesta.org.uk</span><span class="citation-popover-title">nesta Future Fit &#124; Nesta</span><span class="citation-popover-snippet">nesta Future Fit &#124; Nesta</span></span></span>
 
 Design principles that emerge from this and other research include:
 
@@ -290,19 +290,19 @@ Design principles that emerge from this and other research include:
 
 </div>
 
-These elements align with broader research on lifelong learning systems, which stress that training must be **inclusive, flexible and aligned with real labour demand** to genuinely prepare workers for technological transitions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/publications/training-supply-for-the-green-and-ai-transitions_7600d16d-en.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-title">training supply for the green and ai transitions 7600d16d en</span><span class="citation-popover-snippet">Training Supply for the Green and AI Transitions &#124; OECDDecember 11, 2024...</span><span class="citation-popover-meta">Published: December 11, 2024</span></span></span>
+These elements align with broader research on lifelong learning systems, which stress that training must be **inclusive, flexible and aligned with real labour demand** to genuinely prepare workers for technological transitions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/publications/training-supply-for-the-green-and-ai-transitions_7600d16d-en.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-title">training supply for the green and ai transitions 7600d16d en</span><span class="citation-popover-snippet">Training Supply for the Green and AI Transitions &#124; OECDDecember 11, 2024...</span><span class="citation-popover-meta">Published: December 11, 2024</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pt7pbl7Jhhg" title="The rise of the human–AI workforce" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pt7pbl7Jhhg" target="_blank" rel="noopener noreferrer">The rise of the human–AI workforce</a></p><p class="youtube-embed-meta">Channel: McKinsey &amp; Company &middot; Views: 1.3K &middot; Uploaded: April 2026 &middot; Length: 20 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pt7pbl7Jhhg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pt7pbl7Jhhg">Open on YouTube</a></p></div></div></div>
 
 ## Case Studies of Successful Transitions
 
-Looking at programmes in different contexts helps illustrate how reskilling can work at scale — and where pitfalls lie. Across Europe, initiatives such as **Reskilling 4 Employment (R4E)** have mobilised partnerships between industry, governments and training providers to reskill unemployed and at‑risk workers for digital and green jobs. By the end of 2023, R4E had reskilled about 22 000 people across eight countries, emphasising pathways into in‑demand occupations where automation and sustainability trends converge. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/publications/providing-local-actors-with-case-studies-evidence-and-solutions-places_eb108047-en/reskilling-4-employment_8edec592-en.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-title">reskilling 4 employment 8edec592 en</span><span class="citation-popover-snippet">Reskilling 4 Employment &#124; OECDOctober 8, 2024...</span><span class="citation-popover-meta">Published: October 8, 2024</span></span></span>
+Looking at programmes in different contexts helps illustrate how reskilling can work at scale — and where pitfalls lie. Across Europe, initiatives such as **Reskilling 4 Employment (R4E)** have mobilised partnerships between industry, governments and training providers to reskill unemployed and at‑risk workers for digital and green jobs. By the end of 2023, R4E had reskilled about 22 000 people across eight countries, emphasising pathways into in‑demand occupations where automation and sustainability trends converge.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/publications/providing-local-actors-with-case-studies-evidence-and-solutions-places_eb108047-en/reskilling-4-employment_8edec592-en.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-title">reskilling 4 employment 8edec592 en</span><span class="citation-popover-snippet">Reskilling 4 Employment &#124; OECDOctober 8, 2024...</span><span class="citation-popover-meta">Published: October 8, 2024</span></span></span>
 
-In the private sector, large companies have also used internal reskilling to retain workers while shifting roles. For instance, AT&T’s multi‑billion‑dollar reskilling initiative transitioned thousands of employees from legacy technology functions into cloud computing, data science and cybersecurity, demonstrating that corporate investment can drive broad internal mobility rather than displacement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aihr.com/blog/reskilling/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aihr.com">[AIHR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aihr.com</span><span class="citation-popover-title">Reskilling Your Workforce for the Future: An HR&#x27;s Guide</span><span class="citation-popover-snippet">Reskilling Your Workforce for the Future: An HR&#x27;s Guide - AIHRMarch 14, 2025...</span><span class="citation-popover-meta">Published: March 14, 2025</span></span></span>
+In the private sector, large companies have also used internal reskilling to retain workers while shifting roles. For instance, AT&T’s multi‑billion‑dollar reskilling initiative transitioned thousands of employees from legacy technology functions into cloud computing, data science and cybersecurity, demonstrating that corporate investment can drive broad internal mobility rather than displacement.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aihr.com/blog/reskilling/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aihr.com">[AIHR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aihr.com</span><span class="citation-popover-title">Reskilling Your Workforce for the Future: An HR&#x27;s Guide</span><span class="citation-popover-snippet">Reskilling Your Workforce for the Future: An HR&#x27;s Guide - AIHRMarch 14, 2025...</span><span class="citation-popover-meta">Published: March 14, 2025</span></span></span>
 
-Public‑private efforts also matter. In the UK, an expanded free AI training programme aims to equip up to 10 million workers with AI skills by 2030, backing this with funding to connect learners to local opportunities in technology‑adjacent fields. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/free-ai-training-for-all-as-government-and-industry-programme-expands-to-provide-10-million-workers-with-key-ai-skills-by-2030?_bhlid=56e7ad34a16f6d01f4a9dae1939df5bafdff367d" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">Free AI training for all, as government and industry programme expands to provide 10 million workers with key AI skills by 2030 - GOV.UKJ...</span></span></span>
+Public‑private efforts also matter. In the UK, an expanded free AI training programme aims to equip up to 10 million workers with AI skills by 2030, backing this with funding to connect learners to local opportunities in technology‑adjacent fields.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/free-ai-training-for-all-as-government-and-industry-programme-expands-to-provide-10-million-workers-with-key-ai-skills-by-2030?_bhlid=56e7ad34a16f6d01f4a9dae1939df5bafdff367d" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">Free AI training for all, as government and industry programme expands to provide 10 million workers with key AI skills by 2030 - GOV.UKJ...</span></span></span>
 
-Not all programmes have met expectations. Early evaluation of the UK’s **Flexible AI Upskilling Fund** found limited uptake, with fewer businesses and employees participating than anticipated — highlighting that accessibility, awareness and employer engagement are key to scaling training impact. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/evaluation-of-the-flexible-ai-upskilling-fund/evaluation-of-the-flexible-ai-upskilling-fund" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Evaluation of the Flexible AI Upskilling Fund</span><span class="citation-popover-snippet">28, 2026...</span></span></span>
+Not all programmes have met expectations. Early evaluation of the UK’s **Flexible AI Upskilling Fund** found limited uptake, with fewer businesses and employees participating than anticipated — highlighting that accessibility, awareness and employer engagement are key to scaling training impact.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/evaluation-of-the-flexible-ai-upskilling-fund/evaluation-of-the-flexible-ai-upskilling-fund" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Evaluation of the Flexible AI Upskilling Fund</span><span class="citation-popover-snippet">28, 2026...</span></span></span>
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_ethics_dignit_44db8e_reskilling_di_e61821-Illustration-2-dark.svg" | relative_url }}" alt="Reskilling Programs illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_ethics_dignit_44db8e_reskilling_di_e61821-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_ethics_dignit_44db8e_reskilling_di_e61821-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Measuring Skill Development and Wellbeing
@@ -317,7 +317,7 @@ True dignity‑centred reskilling must be evaluated not merely on training compl
 
 </div>
 
-Academic analyses of public [retraining]({{ 'retraining/' | relative_url }}) programmes, such as those under the US Workforce Innovation and Opportunity Act, suggest that employer‑led and apprenticeship programmes yield higher rates of mobility into less automated work than more generic training alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2605.03767" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Did US Worker Retraining Reduce Participant Automation Exposure?</span><span class="citation-popover-snippet">Did US Worker Retraining Reduce Participant Automation Exposure?May 5, 2026...</span><span class="citation-popover-meta">Published: May 5, 2026</span></span></span>
+Academic analyses of public [retraining]({{ 'retraining/' | relative_url }}) programmes, such as those under the US Workforce Innovation and Opportunity Act, suggest that employer‑led and apprenticeship programmes yield higher rates of mobility into less automated work than more generic training alone.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2605.03767" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Did US Worker Retraining Reduce Participant Automation Exposure?</span><span class="citation-popover-snippet">Did US Worker Retraining Reduce Participant Automation Exposure?May 5, 2026...</span><span class="citation-popover-meta">Published: May 5, 2026</span></span></span>
 
 There is also a broader social dimension: **confidence, identity and community participation** improve when training pathways are respectful of individual strengths and linked to real job opportunities, rather than feelings of obsolescence or inadequacy. Designing metrics to capture these qualitative outcomes — such as changes in job satisfaction or agency — is increasingly recognised as vital for dignity‑focused policy.
 
@@ -327,203 +327,203 @@ There is also a broader social dimension: **confidence, identity and community p
 
 ## Beyond Skills: Inclusion and Accessibility
 
-Evidence shows that without deliberate design for inclusion, reskilling risks reinforcing existing inequalities. Workers in low‑paid roles and with fewer prior digital experiences tend to engage less with training, even as automation places them at greater risk. Policies must therefore address barriers beyond curriculum content: funding, time availability, recognition of prior learning and geographic accessibility all shape whether training can be a genuine bridge to meaningful employment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/publications/training-supply-for-the-green-and-ai-transitions_7600d16d-en/full-report/adult-training-supply-to-support-ai-adoption-and-use_e7250c17.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-title">It highlights ex</span><span class="citation-popover-snippet">Adult training supply to support AI adoption and use: Training Supply for the Green and AI Transitions &#124; OECDDecember 11, 2024 — ABSTRACT...</span><span class="citation-popover-meta">Published: December 11, 2024</span></span></span>
+Evidence shows that without deliberate design for inclusion, reskilling risks reinforcing existing inequalities. Workers in low‑paid roles and with fewer prior digital experiences tend to engage less with training, even as automation places them at greater risk. Policies must therefore address barriers beyond curriculum content: funding, time availability, recognition of prior learning and geographic accessibility all shape whether training can be a genuine bridge to meaningful employment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/publications/training-supply-for-the-green-and-ai-transitions_7600d16d-en/full-report/adult-training-supply-to-support-ai-adoption-and-use_e7250c17.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-title">It highlights ex</span><span class="citation-popover-snippet">Adult training supply to support AI adoption and use: Training Supply for the Green and AI Transitions &#124; OECDDecember 11, 2024 — ABSTRACT...</span><span class="citation-popover-meta">Published: December 11, 2024</span></span></span>
 
-Partnerships across government, employers and [education]({{ 'education/' | relative_url }}) providers can help spread responsibility and ensure that training opportunities align with labour market realities. International organisations and forums have called for **shared funding models** and outcome‑focused evaluation frameworks that reward programmes for real mobility and economic inclusion, not just participation numbers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.weforum.org/stories/preview/35046e97-e4f3-44a9-8304-b6bbb8573247/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weforum.org">[World Economic Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weforum.org</span><span class="citation-popover-snippet">World Economic ForumHow to share funding for tech upskilling and reskilling &#124; World Economic ForumDecember 13, 2024...</span><span class="citation-popover-meta">Published: December 13, 2024</span></span></span>
+Partnerships across government, employers and [education]({{ 'education/' | relative_url }}) providers can help spread responsibility and ensure that training opportunities align with labour market realities. International organisations and forums have called for **shared funding models** and outcome‑focused evaluation frameworks that reward programmes for real mobility and economic inclusion, not just participation numbers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.weforum.org/stories/preview/35046e97-e4f3-44a9-8304-b6bbb8573247/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weforum.org">[World Economic Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weforum.org</span><span class="citation-popover-snippet">World Economic ForumHow to share funding for tech upskilling and reskilling &#124; World Economic ForumDecember 13, 2024...</span><span class="citation-popover-meta">Published: December 13, 2024</span></span></span>
 
 By prioritising **human‑centred design, measurable career transition outcomes and equitable access**, reskilling programmes can not only mitigate the disruptive effects of automation but also enhance human dignity — ensuring that workers are not merely displaced but empowered to contribute in new, fulfilling roles.
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_ethics_dignit_44db8e_reskilling_di_e61821-Illustration-3-dark.svg" | relative_url }}" alt="Reskilling Programs illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_ethics_dignit_44db8e_reskilling_di_e61821-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_ethics_dignit_44db8e_reskilling_di_e61821-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Training Preserves Purpose in an Automated Workplace. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Training Preserves Purpose in an Automated Workplace. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Second+Machine+Age+by+Erik+Brynjolfsson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Second Machine Age on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PMBUAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Second Machine Age" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Second+Machine+Age+by+Erik+Brynjolfsson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Second Machine Age">The Second Machine Age</a>
-        </h4>
-        <p class="fr-book-author">By Erik Brynjolfsson, Andrew McAfee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Second+Machine+Age+by+Erik+Brynjolfsson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Second Machine Age on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PMBUAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Second Machine Age" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Second+Machine+Age+by+Erik+Brynjolfsson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Second Machine Age">The Second Machine Age</a>
+</h4>
+<p class="fr-book-author">By Erik Brynjolfsson, Andrew McAfee</p>
         
-        <p class="fr-book-desc">Frames reskilling as part of the broader transition to AI-enabled work.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Second+Machine+Age+by+Erik+Brynjolfsson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Frames reskilling as part of the broader transition to AI-enabled work.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Second+Machine+Age+by+Erik+Brynjolfsson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+%2B+Machine+by+Paul+R.+Daugherty&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human + Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wpY4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Human + Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Human+%2B+Machine+by+Paul+R.+Daugherty&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human + Machine">Human + Machine</a>
-        </h4>
-        <p class="fr-book-author">By Paul R. Daugherty, H. James Wilson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+%2B+Machine+by+Paul+R.+Daugherty&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human + Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wpY4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Human + Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Human+%2B+Machine+by+Paul+R.+Daugherty&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human + Machine">Human + Machine</a>
+</h4>
+<p class="fr-book-author">By Paul R. Daugherty, H. James Wilson</p>
         
-        <p class="fr-book-desc">Focuses on redesigning work so humans and intelligent machines complement each other.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Human+%2B+Machine+by+Paul+R.+Daugherty&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on redesigning work so humans and intelligent machines complement each other.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Human+%2B+Machine+by+Paul+R.+Daugherty&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Automation+and+the+Future+of+Work+by+Aaron+Benanav&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Automation and the Future of Work on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mDf_DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Automation and the Future of Work" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Automation+and+the+Future+of+Work+by+Aaron+Benanav&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Automation and the Future of Work">Automation and the Future of Work</a>
-        </h4>
-        <p class="fr-book-author">By Aaron Benanav</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Automation+and+the+Future+of+Work+by+Aaron+Benanav&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Automation and the Future of Work on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mDf_DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Automation and the Future of Work" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Automation+and+the+Future+of+Work+by+Aaron+Benanav&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Automation and the Future of Work">Automation and the Future of Work</a>
+</h4>
+<p class="fr-book-author">By Aaron Benanav</p>
         
-        <p class="fr-book-desc">Addresses automation, employment, dignity and social responses to technological change.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Automation+and+the+Future+of+Work+by+Aaron+Benanav&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses automation, employment, dignity and social responses to technological change.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Automation+and+the+Future+of+Work+by+Aaron+Benanav&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Life+3.0+by+Max+Tegmark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Life 3.0 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3_otDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Life 3.0" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Life+3.0+by+Max+Tegmark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Life 3.0">Life 3.0</a>
-        </h4>
-        <p class="fr-book-author">By Max Tegmark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Life+3.0+by+Max+Tegmark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Life 3.0 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3_otDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Life 3.0" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Life+3.0+by+Max+Tegmark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Life 3.0">Life 3.0</a>
+</h4>
+<p class="fr-book-author">By Max Tegmark</p>
         
-        <p class="fr-book-desc">Connects AI progress with human purpose, institutions and long-term choices.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Life+3.0+by+Max+Tegmark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Connects AI progress with human purpose, institutions and long-term choices.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Life+3.0+by+Max+Tegmark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Second+Machine+Age&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Second Machine Age</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+%2B+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human + Machine</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Automation+and+the+Future+of+Work&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Automation and the Future of Work</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Second+Machine+Age&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Second Machine Age</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+%2B+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human + Machine</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Automation+and+the+Future+of+Work&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Automation and the Future of Work</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-training-preserves-purpose-in-an-automated-workplace-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="how-training-preserves-purpose-in-an-automated-workplace-robotics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Active8 Robots Flexible Vacuum Mounting Kit"><img src="https://i.ebayimg.com/images/g/NlcAAeSw7AxqKrmY/s-l225.jpg" alt="Listing image for Active8 Robots Flexible Vacuum Mounting Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-training-preserves-purpose-in-an-automated-workplace-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="how-training-preserves-purpose-in-an-automated-workplace-robotics-kit" target="_blank" rel="sponsored noopener noreferrer">Active8 Robots Flexible Vacuum Mounting Kit</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-training-preserves-purpose-in-an-automated-workplace-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="how-training-preserves-purpose-in-an-automated-workplace-robotics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robotics kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: robotics kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-training-preserves-purpose-in-an-automated-workplace-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="how-training-preserves-purpose-in-an-automated-workplace-robotics-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-training-preserves-purpose-in-an-automated-workplace-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="how-training-preserves-purpose-in-an-automated-workplace-robotics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Active8 Robots Flexible Vacuum Mounting Kit"><img src="https://i.ebayimg.com/images/g/NlcAAeSw7AxqKrmY/s-l225.jpg" alt="Listing image for Active8 Robots Flexible Vacuum Mounting Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-training-preserves-purpose-in-an-automated-workplace-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="how-training-preserves-purpose-in-an-automated-workplace-robotics-kit" target="_blank" rel="sponsored noopener noreferrer">Active8 Robots Flexible Vacuum Mounting Kit</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-training-preserves-purpose-in-an-automated-workplace-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="how-training-preserves-purpose-in-an-automated-workplace-robotics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robotics kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: robotics kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-training-preserves-purpose-in-an-automated-workplace-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="how-training-preserves-purpose-in-an-automated-workplace-robotics-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-training-preserves-purpose-in-an-automated-workplace-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="how-training-preserves-purpose-in-an-automated-workplace-robotics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for JetBot AI robot Kit Waveshare"><img src="https://i.ebayimg.com/images/g/9JoAAeSwLxhqKpOL/s-l225.jpg" alt="Listing image for JetBot AI robot Kit Waveshare" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-training-preserves-purpose-in-an-automated-workplace-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="how-training-preserves-purpose-in-an-automated-workplace-robotics-kit" target="_blank" rel="sponsored noopener noreferrer">JetBot AI robot Kit Waveshare</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-training-preserves-purpose-in-an-automated-workplace-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="how-training-preserves-purpose-in-an-automated-workplace-robotics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robotics kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: robotics kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-training-preserves-purpose-in-an-automated-workplace-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="how-training-preserves-purpose-in-an-automated-workplace-robotics-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-training-preserves-purpose-in-an-automated-workplace-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="how-training-preserves-purpose-in-an-automated-workplace-robotics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for JetBot AI robot Kit Waveshare"><img src="https://i.ebayimg.com/images/g/9JoAAeSwLxhqKpOL/s-l225.jpg" alt="Listing image for JetBot AI robot Kit Waveshare" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-training-preserves-purpose-in-an-automated-workplace-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="how-training-preserves-purpose-in-an-automated-workplace-robotics-kit" target="_blank" rel="sponsored noopener noreferrer">JetBot AI robot Kit Waveshare</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-training-preserves-purpose-in-an-automated-workplace-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="how-training-preserves-purpose-in-an-automated-workplace-robotics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robotics kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: robotics kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-training-preserves-purpose-in-an-automated-workplace-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="how-training-preserves-purpose-in-an-automated-workplace-robotics-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-training-preserves-purpose-in-an-automated-workplace-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="how-training-preserves-purpose-in-an-automated-workplace-robotics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DIY Smart WiFi RC Tank Chassis Metal Tracked Robot Chassis Shock Absorption Kit"><img src="https://i.ebayimg.com/images/g/0rwAAeSwFqRpzyBk/s-l225.jpg" alt="Listing image for DIY Smart WiFi RC Tank Chassis Metal Tracked Robot Chassis Shock Absorption Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-training-preserves-purpose-in-an-automated-workplace-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="how-training-preserves-purpose-in-an-automated-workplace-robotics-kit" target="_blank" rel="sponsored noopener noreferrer">DIY Smart WiFi RC Tank Chassis Metal Tracked Robot Chassis Shock Absorption Kit</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-training-preserves-purpose-in-an-automated-workplace-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="how-training-preserves-purpose-in-an-automated-workplace-robotics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robotics kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: robotics kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-training-preserves-purpose-in-an-automated-workplace-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="how-training-preserves-purpose-in-an-automated-workplace-robotics-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-training-preserves-purpose-in-an-automated-workplace-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="how-training-preserves-purpose-in-an-automated-workplace-robotics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DIY Smart WiFi RC Tank Chassis Metal Tracked Robot Chassis Shock Absorption Kit"><img src="https://i.ebayimg.com/images/g/0rwAAeSwFqRpzyBk/s-l225.jpg" alt="Listing image for DIY Smart WiFi RC Tank Chassis Metal Tracked Robot Chassis Shock Absorption Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-training-preserves-purpose-in-an-automated-workplace-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="how-training-preserves-purpose-in-an-automated-workplace-robotics-kit" target="_blank" rel="sponsored noopener noreferrer">DIY Smart WiFi RC Tank Chassis Metal Tracked Robot Chassis Shock Absorption Kit</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-training-preserves-purpose-in-an-automated-workplace-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="how-training-preserves-purpose-in-an-automated-workplace-robotics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robotics kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: robotics kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-training-preserves-purpose-in-an-automated-workplace-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="how-training-preserves-purpose-in-an-automated-workplace-robotics-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-training-preserves-purpose-in-an-automated-workplace-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="how-training-preserves-purpose-in-an-automated-workplace-robotics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FOR KIDS Jimu Robot Explorer Robotics Kit UBTECH Interactive Building STEM Toy"><img src="https://i.ebayimg.com/images/g/8N4AAeSwINhqKuWp/s-l225.jpg" alt="Listing image for FOR KIDS Jimu Robot Explorer Robotics Kit UBTECH Interactive Building STEM Toy" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-training-preserves-purpose-in-an-automated-workplace-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="how-training-preserves-purpose-in-an-automated-workplace-robotics-kit" target="_blank" rel="sponsored noopener noreferrer">FOR KIDS Jimu Robot Explorer Robotics Kit UBTECH Interactive Building STEM Toy</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-training-preserves-purpose-in-an-automated-workplace-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="how-training-preserves-purpose-in-an-automated-workplace-robotics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robotics kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: robotics kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-training-preserves-purpose-in-an-automated-workplace-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="how-training-preserves-purpose-in-an-automated-workplace-robotics-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-training-preserves-purpose-in-an-automated-workplace-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="how-training-preserves-purpose-in-an-automated-workplace-robotics-kit" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-training-preserves-purpose-in-an-automated-workplace-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="how-training-preserves-purpose-in-an-automated-workplace-robotics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FOR KIDS Jimu Robot Explorer Robotics Kit UBTECH Interactive Building STEM Toy"><img src="https://i.ebayimg.com/images/g/8N4AAeSwINhqKuWp/s-l225.jpg" alt="Listing image for FOR KIDS Jimu Robot Explorer Robotics Kit UBTECH Interactive Building STEM Toy" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-training-preserves-purpose-in-an-automated-workplace-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="how-training-preserves-purpose-in-an-automated-workplace-robotics-kit" target="_blank" rel="sponsored noopener noreferrer">FOR KIDS Jimu Robot Explorer Robotics Kit UBTECH Interactive Building STEM Toy</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-training-preserves-purpose-in-an-automated-workplace-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="how-training-preserves-purpose-in-an-automated-workplace-robotics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robotics kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: robotics kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-training-preserves-purpose-in-an-automated-workplace-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="how-training-preserves-purpose-in-an-automated-workplace-robotics-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-training-preserves-purpose-in-an-automated-workplace-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="how-training-preserves-purpose-in-an-automated-workplace-robotics-kit" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -539,7 +539,7 @@ By prioritising **human‑centred design, measurable career transition outcomes 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -559,7 +559,7 @@ By prioritising **human‑centred design, measurable career transition outcomes 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -591,7 +591,7 @@ By prioritising **human‑centred design, measurable career transition outcomes 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -643,7 +643,7 @@ By prioritising **human‑centred design, measurable career transition outcomes 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -688,7 +688,7 @@ By prioritising **human‑centred design, measurable career transition outcomes 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -733,135 +733,135 @@ By prioritising **human‑centred design, measurable career transition outcomes 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: oecd.org  
    Title: training supply for the green and ai transitions 7600d16d en  
-   Link: <a href="https://www.oecd.org/en/publications/training-supply-for-the-green-and-ai-transitions_7600d16d-en.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/training-supply-for-the-green-and-ai-transitions_7600d16d-en.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Training Supply for the Green and AI Transitions | OECDDecember 11, 2024...</p></details>
+   Link:<a href="https://www.oecd.org/en/publications/training-supply-for-the-green-and-ai-transitions_7600d16d-en.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/training-supply-for-the-green-and-ai-transitions_7600d16d-en.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Training Supply for the Green and AI Transitions | OECDDecember 11, 2024...</p></details>
    Published: December 11, 2024  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: oecd.org  
    Title: reskilling 4 employment 8edec592 en  
-   Link: <a href="https://www.oecd.org/en/publications/providing-local-actors-with-case-studies-evidence-and-solutions-places_eb108047-en/reskilling-4-employment_8edec592-en.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/providing-local-actors-with-case-studies-evidence-and-solutions-places_eb108047-en/reskilling-4-employment_8edec592-en.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reskilling 4 Employment | OECDOctober 8, 2024...</p></details>
+   Link:<a href="https://www.oecd.org/en/publications/providing-local-actors-with-case-studies-evidence-and-solutions-places_eb108047-en/reskilling-4-employment_8edec592-en.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/providing-local-actors-with-case-studies-evidence-and-solutions-places_eb108047-en/reskilling-4-employment_8edec592-en.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reskilling 4 Employment | OECDOctober 8, 2024...</p></details>
    Published: October 8, 2024  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: aihr.com  
    Title: Reskilling Your Workforce for the Future: An HR's Guide  
-   Link: <a href="https://www.aihr.com/blog/reskilling/" target="_blank" rel="noopener noreferrer nofollow">https://www.aihr.com/blog/reskilling/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reskilling Your Workforce for the Future: An HR&#x27;s Guide - AIHRMarch 14, 2025...</p></details>
+   Link:<a href="https://www.aihr.com/blog/reskilling/" target="_blank" rel="noopener noreferrer nofollow">https://www.aihr.com/blog/reskilling/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reskilling Your Workforce for the Future: An HR&#x27;s Guide - AIHRMarch 14, 2025...</p></details>
    Published: March 14, 2025  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: GOV.UK  
-   Link: <a href="https://www.gov.uk/government/news/free-ai-training-for-all-as-government-and-industry-programme-expands-to-provide-10-million-workers-with-key-ai-skills-by-2030?_bhlid=56e7ad34a16f6d01f4a9dae1939df5bafdff367d" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/free-ai-training-for-all-as-government-and-industry-programme-expands-to-provide-10-million-workers-with-key-ai-skills-by-2030?_bhlid=56e7ad34a16f6d01f4a9dae1939df5bafdff367d</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Free AI training for all, as government and industry programme expands to provide 10 million workers with key AI skills by 2030 - GOV.UKJ...</p></details>
+   Link:<a href="https://www.gov.uk/government/news/free-ai-training-for-all-as-government-and-industry-programme-expands-to-provide-10-million-workers-with-key-ai-skills-by-2030?_bhlid=56e7ad34a16f6d01f4a9dae1939df5bafdff367d" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/free-ai-training-for-all-as-government-and-industry-programme-expands-to-provide-10-million-workers-with-key-ai-skills-by-2030?_bhlid=56e7ad34a16f6d01f4a9dae1939df5bafdff367d</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Free AI training for all, as government and industry programme expands to provide 10 million workers with key AI skills by 2030 - GOV.UKJ...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: GOV.UK  
    Title: Evaluation of the Flexible AI Upskilling Fund  
-   Link: <a href="https://www.gov.uk/government/publications/evaluation-of-the-flexible-ai-upskilling-fund/evaluation-of-the-flexible-ai-upskilling-fund" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/evaluation-of-the-flexible-ai-upskilling-fund/evaluation-of-the-flexible-ai-upskilling-fund</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>28, 2026...</p></details>
+   Link:<a href="https://www.gov.uk/government/publications/evaluation-of-the-flexible-ai-upskilling-fund/evaluation-of-the-flexible-ai-upskilling-fund" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/evaluation-of-the-flexible-ai-upskilling-fund/evaluation-of-the-flexible-ai-upskilling-fund</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>28, 2026...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: arxiv.org  
    Title: arXiv Did US Worker Retraining Reduce Participant Automation Exposure?  
-   Link: <a href="https://arxiv.org/abs/2605.03767" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2605.03767</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Did US Worker Retraining Reduce Participant Automation Exposure?May 5, 2026...</p></details>
+   Link:<a href="https://arxiv.org/abs/2605.03767" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2605.03767</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Did US Worker Retraining Reduce Participant Automation Exposure?May 5, 2026...</p></details>
    Published: May 5, 2026  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: oecd.org  
    Title: It highlights ex  
-   Link: <a href="https://www.oecd.org/en/publications/training-supply-for-the-green-and-ai-transitions_7600d16d-en/full-report/adult-training-supply-to-support-ai-adoption-and-use_e7250c17.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/training-supply-for-the-green-and-ai-transitions_7600d16d-en/full-report/adult-training-supply-to-support-ai-adoption-and-use_e7250c17.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Adult training supply to support AI adoption and use: Training Supply for the Green and AI Transitions | OECDDecember 11, 2024 — ABSTRACT...</p></details>
+   Link:<a href="https://www.oecd.org/en/publications/training-supply-for-the-green-and-ai-transitions_7600d16d-en/full-report/adult-training-supply-to-support-ai-adoption-and-use_e7250c17.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/training-supply-for-the-green-and-ai-transitions_7600d16d-en/full-report/adult-training-supply-to-support-ai-adoption-and-use_e7250c17.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Adult training supply to support AI adoption and use: Training Supply for the Green and AI Transitions | OECDDecember 11, 2024 — ABSTRACT...</p></details>
    Published: December 11, 2024  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: oecd.org  
    Title: the skills escalator 18ac3717 en  
-   Link: <a href="https://www.oecd.org/en/publications/providing-local-actors-with-case-studies-evidence-and-solutions-places_eb108047-en/the-skills-escalator_18ac3717-en.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/providing-local-actors-with-case-studies-evidence-and-solutions-places_eb108047-en/the-skills-escalator_18ac3717-en.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Skills Escalator | OECDJune 22, 2023 — THE SKILLS ESCALATOR Case study Learn more LEARN MORE Close Authors OECD Pages 3 Tags * United...</p></details>
+   Link:<a href="https://www.oecd.org/en/publications/providing-local-actors-with-case-studies-evidence-and-solutions-places_eb108047-en/the-skills-escalator_18ac3717-en.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/providing-local-actors-with-case-studies-evidence-and-solutions-places_eb108047-en/the-skills-escalator_18ac3717-en.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Skills Escalator | OECDJune 22, 2023 — THE SKILLS ESCALATOR Case study Learn more LEARN MORE Close Authors OECD Pages 3 Tags * United...</p></details>
    Published: June 22, 2023  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nesta.org.uk  
    Title: nesta Future Fit | Nesta  
-   Link: <a href="https://www.nesta.org.uk/project/futurefit/" target="_blank" rel="noopener noreferrer nofollow">https://www.nesta.org.uk/project/futurefit/</a>  
+   Link:<a href="https://www.nesta.org.uk/project/futurefit/" target="_blank" rel="noopener noreferrer nofollow">https://www.nesta.org.uk/project/futurefit/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: weforum.org  
-   Link: <a href="https://www.weforum.org/stories/preview/35046e97-e4f3-44a9-8304-b6bbb8573247/" target="_blank" rel="noopener noreferrer nofollow">https://www.weforum.org/stories/preview/35046e97-e4f3-44a9-8304-b6bbb8573247/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>World Economic ForumHow to share funding for tech upskilling and reskilling | World Economic ForumDecember 13, 2024...</p></details>
+   Link:<a href="https://www.weforum.org/stories/preview/35046e97-e4f3-44a9-8304-b6bbb8573247/" target="_blank" rel="noopener noreferrer nofollow">https://www.weforum.org/stories/preview/35046e97-e4f3-44a9-8304-b6bbb8573247/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>World Economic ForumHow to share funding for tech upskilling and reskilling | World Economic ForumDecember 13, 2024...</p></details>
    Published: December 13, 2024  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: oecd-ilibrary.org  
    Title: reskilling 4 employment 8edec592 en  
-   Link: <a href="https://www.oecd-ilibrary.org/en/publications/providing-local-actors-with-case-studies-evidence-and-solutions-places_eb108047-en/reskilling-4-employment_8edec592-en.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd-ilibrary.org/en/publications/providing-local-actors-with-case-studies-evidence-and-solutions-places_eb108047-en/reskilling-4-employment_8edec592-en.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reskilling 4 Employment | OECDOctober 8, 2024 — RESKILLING 4 EMPLOYMENT Case study Learn more LEARN MORE Close Authors OECD Pages 3 Tags...</p></details>
+   Link:<a href="https://www.oecd-ilibrary.org/en/publications/providing-local-actors-with-case-studies-evidence-and-solutions-places_eb108047-en/reskilling-4-employment_8edec592-en.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd-ilibrary.org/en/publications/providing-local-actors-with-case-studies-evidence-and-solutions-places_eb108047-en/reskilling-4-employment_8edec592-en.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reskilling 4 Employment | OECDOctober 8, 2024 — RESKILLING 4 EMPLOYMENT Case study Learn more LEARN MORE Close Authors OECD Pages 3 Tags...</p></details>
    Published: October 8, 2024  
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: enginuity.org  
-   Link: <a href="https://enginuity.org/our-impact/charitable-projects/automotive-reskilling-upskilling-platform-pilot" target="_blank" rel="noopener noreferrer nofollow">https://enginuity.org/our-impact/charitable-projects/automotive-reskilling-upskilling-platform-pilot</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Automotive Reskilling &amp; Upskilling Platform Pilot | ProjectOur impactCharitable projectsAutomotive reskilling upskilling platform pilot A...</p></details>
+   Link:<a href="https://enginuity.org/our-impact/charitable-projects/automotive-reskilling-upskilling-platform-pilot" target="_blank" rel="noopener noreferrer nofollow">https://enginuity.org/our-impact/charitable-projects/automotive-reskilling-upskilling-platform-pilot</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Automotive Reskilling &amp; Upskilling Platform Pilot | ProjectOur impactCharitable projectsAutomotive reskilling upskilling platform pilot A...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: weforum.org  
-   Link: <a href="https://www.weforum.org/stories/2025/12/how-do-we-train-and-upskill-the-new-industrial-workforce-some-insights-from-the-production-line/" target="_blank" rel="noopener noreferrer nofollow">https://www.weforum.org/stories/2025/12/how-do-we-train-and-upskill-the-new-industrial-workforce-some-insights-from-the-production-line/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>December 8, 2025 — PROMISING UPSKILLING AND RESKILLING INITIATIVES IN ACTION TECHNICAL UPSKILLING Unilever’s site in Pouso Alegre, Brazil...</p></details>
+   Link:<a href="https://www.weforum.org/stories/2025/12/how-do-we-train-and-upskill-the-new-industrial-workforce-some-insights-from-the-production-line/" target="_blank" rel="noopener noreferrer nofollow">https://www.weforum.org/stories/2025/12/how-do-we-train-and-upskill-the-new-industrial-workforce-some-insights-from-the-production-line/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>December 8, 2025 — PROMISING UPSKILLING AND RESKILLING INITIATIVES IN ACTION TECHNICAL UPSKILLING Unilever’s site in Pouso Alegre, Brazil...</p></details>
    Published: December 8, 2025  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: mthree.com  
-   Link: <a href="https://mthree.com/for-organizations/reskill/" target="_blank" rel="noopener noreferrer nofollow">https://mthree.com/for-organizations/reskill/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Our 5-step methodology is designed for measurable outcomes and business alignment: 1. Discover: Assess workforce capability and identi...</p></details>
+   Link:<a href="https://mthree.com/for-organizations/reskill/" target="_blank" rel="noopener noreferrer nofollow">https://mthree.com/for-organizations/reskill/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Our 5-step methodology is designed for measurable outcomes and business alignment: 1. Discover: Assess workforce capability and identi...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: multiverse.io  
-   Link: <a href="https://www.multiverse.io/blog/dignity-launches-ai-and-data-academy-for-55-employees-with-multiverse" target="_blank" rel="noopener noreferrer nofollow">https://www.multiverse.io/blog/dignity-launches-ai-and-data-academy-for-55-employees-with-multiverse</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>November 24, 2025 — DIGNITY LAUNCHES AI AND DATA ACADEMY FOR 55 EMPLOYEES WITH MULTIVERSE By Team Multiverse 24 November 2025 Image See a...</p></details>
+   Link:<a href="https://www.multiverse.io/blog/dignity-launches-ai-and-data-academy-for-55-employees-with-multiverse" target="_blank" rel="noopener noreferrer nofollow">https://www.multiverse.io/blog/dignity-launches-ai-and-data-academy-for-55-employees-with-multiverse</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>November 24, 2025 — DIGNITY LAUNCHES AI AND DATA ACADEMY FOR 55 EMPLOYEES WITH MULTIVERSE By Team Multiverse 24 November 2025 Image See a...</p></details>
    Published: November 24, 2025  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: makers.tech  
-   Link: <a href="https://makers.tech/upskilling-programmes" target="_blank" rel="noopener noreferrer nofollow">https://makers.tech/upskilling-programmes</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bridge the distance between the talent you have and the organisation you’re building with capability that lasts. Get in...</p></details>
+   Link:<a href="https://makers.tech/upskilling-programmes" target="_blank" rel="noopener noreferrer nofollow">https://makers.tech/upskilling-programmes</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bridge the distance between the talent you have and the organisation you’re building with capability that lasts. Get in...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: uipath.com  
    Title: Ui Path Launches New Agentic Workforce Readiness Program | Ui Path  
-   Link: <a href="https://www.uipath.com/newsroom/uipath-launches-agentic-workforce-readiness-program-to-upskill-public-sector-professionals" target="_blank" rel="noopener noreferrer nofollow">https://www.uipath.com/newsroom/uipath-launches-agentic-workforce-readiness-program-to-upskill-public-sector-professionals</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UiPath Launches New Agentic Workforce Readiness Program | UiPathApril 29, 2025 — UIPATH LAUNCHES NEW AGENTIC WORKFORCE READINESS PROGRAM...</p></details>
+   Link:<a href="https://www.uipath.com/newsroom/uipath-launches-agentic-workforce-readiness-program-to-upskill-public-sector-professionals" target="_blank" rel="noopener noreferrer nofollow">https://www.uipath.com/newsroom/uipath-launches-agentic-workforce-readiness-program-to-upskill-public-sector-professionals</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UiPath Launches New Agentic Workforce Readiness Program | UiPathApril 29, 2025 — UIPATH LAUNCHES NEW AGENTIC WORKFORCE READINESS PROGRAM...</p></details>
    Published: April 29, 2025  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: aisdi.ai  
    Title: AI-driven automation can drive tremendous gains—but it  
-   Link: <a href="https://aisdi.ai/?p=18685" target="_blank" rel="noopener noreferrer nofollow">https://aisdi.ai/?p=18685</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI &amp; Workforce Automation: Ethical Implementation &amp; Reskilling StrategiesJune 10, 2025 — Welcome to AISDI – The Artificial Intell...</p></details>
+   Link:<a href="https://aisdi.ai/?p=18685" target="_blank" rel="noopener noreferrer nofollow">https://aisdi.ai/?p=18685</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI &amp; Workforce Automation: Ethical Implementation &amp; Reskilling StrategiesJune 10, 2025 — Welcome to AISDI – The Artificial Intell...</p></details>
    Published: June 10, 2025  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: efficiencyai.co.uk  
    Title: Workforce Reskilling and AI Skills Support  
-   Link: <a href="https://www.efficiencyai.co.uk/workforce-retraining-and-ai-skills-support/" target="_blank" rel="noopener noreferrer nofollow">https://www.efficiencyai.co.uk/workforce-retraining-and-ai-skills-support/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Efficiency AI Transformation Consultants UKJune 20, 2025 — HELPING TEAMS ADAPT, UPSKILL, AND THRIVE We support organisations in preparing...</p></details>
+   Link:<a href="https://www.efficiencyai.co.uk/workforce-retraining-and-ai-skills-support/" target="_blank" rel="noopener noreferrer nofollow">https://www.efficiencyai.co.uk/workforce-retraining-and-ai-skills-support/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Efficiency AI Transformation Consultants UKJune 20, 2025 — HELPING TEAMS ADAPT, UPSKILL, AND THRIVE We support organisations in preparing...</p></details>
    Published: June 20, 2025  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: tonex.com  
-   Link: <a href="https://www.tonex.com/training-courses/introduction-to-ai-in-workforce-upskilling/" target="_blank" rel="noopener noreferrer nofollow">https://www.tonex.com/training-courses/introduction-to-ai-in-workforce-upskilling/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tonex TrainingTonex Training TECHNOLOGY AND MANAGEMENT TRAINING COURSES AND SEMINARS Call Us Today:-972-665-9786 [Input: Search] [Select]...</p></details>
+   Link:<a href="https://www.tonex.com/training-courses/introduction-to-ai-in-workforce-upskilling/" target="_blank" rel="noopener noreferrer nofollow">https://www.tonex.com/training-courses/introduction-to-ai-in-workforce-upskilling/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tonex TrainingTonex Training TECHNOLOGY AND MANAGEMENT TRAINING COURSES AND SEMINARS Call Us Today:-972-665-9786 [Input: Search] [Select]...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: deloitte.com  
    Title: on the job upskilling  
-   Link: <a href="https://www.deloitte.com/us/en/insights/industry/public-sector/on-the-job-upskilling.html" target="_blank" rel="noopener noreferrer nofollow">https://www.deloitte.com/us/en/insights/industry/public-sector/on-the-job-upskilling.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Deloitte InsightsSeptember 29, 2020 — SCENARIO 2: NEW-SKILLING AN INCUMBENT WORKER Image &gt; A number of companies have started their own r...</p></details>
+   Link:<a href="https://www.deloitte.com/us/en/insights/industry/public-sector/on-the-job-upskilling.html" target="_blank" rel="noopener noreferrer nofollow">https://www.deloitte.com/us/en/insights/industry/public-sector/on-the-job-upskilling.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Deloitte InsightsSeptember 29, 2020 — SCENARIO 2: NEW-SKILLING AN INCUMBENT WORKER Image &gt; A number of companies have started their own r...</p></details>
    Published: September 29, 2020

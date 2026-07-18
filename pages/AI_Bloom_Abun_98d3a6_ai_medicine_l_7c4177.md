@@ -331,13 +331,13 @@ That is why the real longevity promise is broader than anti-ageing clinics or mi
 
 ## Drug discovery: faster searches, slower proof
 
-Drug [discovery]({{ 'discovery/' | relative_url }}) is the most famous medical AI story because the early wins are visible and technically impressive. AlphaFold, developed by Google DeepMind with the AlphaFold Protein Structure Database hosted with EMBL-EBI, has made more than 200 million predicted protein structures openly available for research. This matters because protein shape is often central to understanding disease and designing drugs, and experimental structure determination can be slow and expensive. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://alphafold.ebi.ac.uk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alphafold.ebi.ac.uk">[alphafold.ebi.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alphafold.ebi.ac.uk</span><span class="citation-popover-title">Alpha Fold Protein Structure Database</span><span class="citation-popover-snippet">AlphaFold Protein Structure Database - EMBL-EBIAlphaFold DB provides open access to over 200 million protein structure predictions to acc...</span></span></span>
+Drug [discovery]({{ 'discovery/' | relative_url }}) is the most famous medical AI story because the early wins are visible and technically impressive. AlphaFold, developed by Google DeepMind with the AlphaFold Protein Structure Database hosted with EMBL-EBI, has made more than 200 million predicted protein structures openly available for research. This matters because protein shape is often central to understanding disease and designing drugs, and experimental structure determination can be slow and expensive.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://alphafold.ebi.ac.uk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alphafold.ebi.ac.uk">[alphafold.ebi.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alphafold.ebi.ac.uk</span><span class="citation-popover-title">Alpha Fold Protein Structure Database</span><span class="citation-popover-snippet">AlphaFold Protein Structure Database - EMBL-EBIAlphaFold DB provides open access to over 200 million protein structure predictions to acc...</span></span></span>
 
-AlphaFold 3 pushed this further by predicting structures of complexes involving proteins, nucleic acids, small molecules, ions and modified residues, which brings the tool closer to drug discovery questions about how biological molecules interact. The Nature paper presenting AlphaFold 3 described a diffusion-based architecture for predicting the joint structure of such complexes, not just isolated proteins. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-024-07487-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Open source on nature.com.</span></span></span>
+AlphaFold 3 pushed this further by predicting structures of complexes involving proteins, nucleic acids, small molecules, ions and modified residues, which brings the tool closer to drug discovery questions about how biological molecules interact. The Nature paper presenting AlphaFold 3 described a diffusion-based architecture for predicting the joint structure of such complexes, not just isolated proteins.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-024-07487-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Open source on nature.com.</span></span></span>
 
 The practical promise is not that AI “knows biology” perfectly. It is that AI can reduce blind search. Traditional drug development can involve screening huge numbers of compounds, narrowing them through laboratory tests, optimising candidates, and then discovering late that a molecule is unsafe or ineffective. AI can help at several points: identifying targets, generating candidate molecules, predicting binding, flagging toxicity risks, repurposing existing drugs, and designing trials around patients most likely to benefit.
 
-A concrete example is [rentosertib]({{ 'rentosertib/' | relative_url }}), formerly ISM001-055, a generative-AI-discovered TNIK inhibitor for idiopathic pulmonary fibrosis. In a 2025 Nature Medicine paper, the authors reported that their AI-driven approach identified both a disease-associated target and a compound, with preclinical candidate nomination in 18 months and phase 0/1 clinical testing completed within under 30 months from the start of target discovery. They also stressed the unresolved wider question: few AI-designed drugs have reached human trials, none had yet progressed through phase 3, and [phase 2]({{ 'phase-2/' | relative_url }}) failures have so far been comparable to non-AI-discovered drugs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41591-025-03743-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Open source on nature.com.</span></span></span>
+A concrete example is [rentosertib]({{ 'rentosertib/' | relative_url }}), formerly ISM001-055, a generative-AI-discovered TNIK inhibitor for idiopathic pulmonary fibrosis. In a 2025 Nature Medicine paper, the authors reported that their AI-driven approach identified both a disease-associated target and a compound, with preclinical candidate nomination in 18 months and phase 0/1 clinical testing completed within under 30 months from the start of target discovery. They also stressed the unresolved wider question: few AI-designed drugs have reached human trials, none had yet progressed through phase 3, and [phase 2]({{ 'phase-2/' | relative_url }}) failures have so far been comparable to non-AI-discovered drugs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41591-025-03743-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Open source on nature.com.</span></span></span>
 
 This is the key distinction for readers. AI can speed up the front end of discovery, but the back end remains brutally selective. Human bodies are not just collections of target proteins. A promising compound still has to reach the right tissue, at the right dose, without unacceptable side effects, in patients who are often older, sicker and more varied than laboratory models. The AI bloom case in medicine therefore depends less on one spectacular algorithm than on whether AI raises the productivity of the whole pipeline over many cycles.
 
@@ -348,7 +348,7 @@ Protein structure prediction is a genuine scientific leap, but it is sometimes o
 
 That limitation matters for longevity. Age-related disease is not usually caused by one simple defect. Alzheimer’s disease, cardiovascular disease, fibrosis, cancer, frailty and immune decline involve networks of interacting processes over years. Protein models can help researchers explore these networks, but an intervention that looks plausible on a screen may fail once metabolism, immune response, tissue ageing and patient variation enter the picture.
 
-The same caution applies to AI-designed molecules. Machine learning can reduce the search space. In one Nature Communications study, researchers used machine learning trained on published data to screen more than 4,000 compounds for senolytic activity — the ability to selectively eliminate senescent cells, which are linked to ageing and disease — and narrowed the experimental search to 21 candidates, identifying three compounds with senolytic activity in model systems. The authors also noted challenges that are central to longevity medicine, including cell-type specificity and toxicity against non-senescent cells. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41467-023-39120-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-title">Discovery of senolytics using machine learning &#124; Nature Communications</span><span class="citation-popover-snippet">Discovery of senolytics using machine learning &#124; Nature Communications</span></span></span>
+The same caution applies to AI-designed molecules. Machine learning can reduce the search space. In one Nature Communications study, researchers used machine learning trained on published data to screen more than 4,000 compounds for senolytic activity — the ability to selectively eliminate senescent cells, which are linked to ageing and disease — and narrowed the experimental search to 21 candidates, identifying three compounds with senolytic activity in model systems. The authors also noted challenges that are central to longevity medicine, including cell-type specificity and toxicity against non-senescent cells.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41467-023-39120-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-title">Discovery of senolytics using machine learning &#124; Nature Communications</span><span class="citation-popover-snippet">Discovery of senolytics using machine learning &#124; Nature Communications</span></span></span>
 
 That is a useful model for the field: AI as a filter, not a verdict. The nearer the claim gets to “this will extend healthy human life”, the more the evidence must move from computational prediction to animal studies, then carefully designed human trials, then long-term monitoring.
 
@@ -360,7 +360,7 @@ In cancer care, for example, AI may help identify tumours on scans, predict whic
 
 This is where AI medicine connects most directly to longevity. Living longer in good health is not only about discovering new drugs. It is also about preventing small problems becoming irreversible. A future health system might combine routine imaging, blood biomarkers, wearable data and medical records to identify people at rising risk of heart failure, cancer, diabetes complications or cognitive decline before symptoms become severe. AI would not make those interventions valuable by itself; it would make the targeting more precise.
 
-There are early signs of this direction. Reviews of deep learning and generative AI in ageing research describe work on biological ageing clocks, biomarker discovery, drug repurposing, multimodal data and healthy-longevity medicine. The field is still young, but its core ambition is clear: use AI to detect patterns in ageing that are too subtle or high-dimensional for conventional analysis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11810058/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
+There are early signs of this direction. Reviews of deep learning and generative AI in ageing research describe work on biological ageing clocks, biomarker discovery, drug repurposing, multimodal data and healthy-longevity medicine. The field is still young, but its core ambition is clear: use AI to detect patterns in ageing that are too subtle or high-dimensional for conventional analysis.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11810058/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
 
 The risk is that “personalised” becomes a luxury label. If advanced diagnostics and AI-guided prevention are available only to wealthy patients, AI medicine could widen healthy-life gaps rather than close them. A genuine bloom outcome would mean better prediction and prevention in public health systems, community clinics and lower-resource settings, not only private longevity programmes.
 
@@ -370,9 +370,9 @@ The risk is that “personalised” becomes a luxury label. If advanced diagnost
 
 AI clinical decision support is the part of the story patients are most likely to meet first. These systems may read scans, flag deterioration, summarise notes, suggest diagnoses, prioritise referrals or help clinicians navigate guidelines. The promise is practical: fewer missed findings, faster results and less pressure on overstretched staff.
 
-Breast screening shows both the promise and the caution. In February 2025, the UK government announced the EDITH trial, involving nearly 700,000 women across 30 sites, to test whether AI tools can help radiologists detect breast cancer earlier and potentially reduce the need for two specialist readers per mammogram if the trial is successful. The announcement framed the trial as a way to improve cancer care while easing radiology workload, but the scale of the trial itself shows that national deployment needs strong evidence, not just promising accuracy scores. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/world-leading-ai-trial-to-tackle-breast-cancer-launched" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">World-leading AI trial to tackle breast cancer launched</span><span class="citation-popover-snippet">World-leading AI trial to tackle breast cancer launched</span></span></span>
+Breast screening shows both the promise and the caution. In February 2025, the UK government announced the EDITH trial, involving nearly 700,000 women across 30 sites, to test whether AI tools can help radiologists detect breast cancer earlier and potentially reduce the need for two specialist readers per mammogram if the trial is successful. The announcement framed the trial as a way to improve cancer care while easing radiology workload, but the scale of the trial itself shows that national deployment needs strong evidence, not just promising accuracy scores.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/world-leading-ai-trial-to-tackle-breast-cancer-launched" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">World-leading AI trial to tackle breast cancer launched</span><span class="citation-popover-snippet">World-leading AI trial to tackle breast cancer launched</span></span></span>
 
-Clinical AI has already entered regulated use. The US Food and Drug Administration maintains a list of AI-enabled medical devices authorised for marketing, intended to improve transparency for clinicians and patients. The FDA says listed devices have met applicable premarket requirements, including review of safety and effectiveness, while also warning that the list is not comprehensive and is identified partly through AI-related terms in public summaries. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fda.gov/medical-devices/software-medical-device-samd/artificial-[intelligence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fda.gov">[U.S. Food and Drug Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fda.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Clinical AI has already entered regulated use. The US Food and Drug Administration maintains a list of AI-enabled medical devices authorised for marketing, intended to improve transparency for clinicians and patients. The FDA says listed devices have met applicable premarket requirements, including review of safety and effectiveness, while also warning that the list is not comprehensive and is identified partly through AI-related terms in public summaries.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fda.gov/medical-devices/software-medical-device-samd/artificial-[intelligence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fda.gov">[U.S. Food and Drug Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fda.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The hardest question is not whether an AI can perform well on a benchmark. It is whether it helps in messy clinical reality. A tool may work in one hospital but fail in another because scanners differ, patient populations differ, workflows differ, or clinicians use the output in unexpected ways. AI can also create automation bias: people may over-trust a confident recommendation, especially when they are tired or under pressure.
 
@@ -384,7 +384,7 @@ The word “longevity” often attracts extravagant claims. A grounded AI bloom 
 
 AI could contribute to healthspan in three main ways. First, it can accelerate research into age-related mechanisms such as inflammation, cellular senescence, immune decline, fibrosis, metabolic dysfunction and DNA damage responses. Second, it can help discover or repurpose compounds that target those mechanisms. Third, it can help measure ageing more precisely, using biological clocks, imaging markers or combined biomarkers to assess whether an intervention is plausibly changing risk.
 
-Senolytics are a useful example because they show both excitement and caution. Senescent cells are involved in ageing and several diseases, and machine learning has helped identify candidate senolytic compounds. But senescent cells can also have useful roles, such as in wound healing and cancer suppression, and senolytic effects may vary by cell type and tissue. The path from “AI found candidate senolytics” to “people live healthier longer” requires careful evidence about timing, dosage, target tissue, side effects and long-term outcomes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s44276-026-00221-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Open source on nature.com.</span></span></span>
+Senolytics are a useful example because they show both excitement and caution. Senescent cells are involved in ageing and several diseases, and machine learning has helped identify candidate senolytic compounds. But senescent cells can also have useful roles, such as in wound healing and cancer suppression, and senolytic effects may vary by cell type and tissue. The path from “AI found candidate senolytics” to “people live healthier longer” requires careful evidence about timing, dosage, target tissue, side effects and long-term outcomes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s44276-026-00221-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Open source on nature.com.</span></span></span>
 
 Biological-age tools raise a similar issue. AI can estimate age-related risk from epigenetic markers, imaging, blood biomarkers or other data. These tools may become useful for prevention and trial design, because waiting decades to measure lifespan is impractical. But a biomarker is not the same as a patient-centred outcome. Slowing a clock is meaningful only if it predicts fewer heart attacks, less dementia, better mobility, lower frailty or longer independent life.
 
@@ -395,11 +395,11 @@ The best version of AI-enabled longevity therefore looks less like a single anti
 
 Medical AI fails when it treats prediction as proof. A model can be accurate in retrospective data yet unhelpful or unsafe in practice. It can perform well on average while failing for minority groups. It can drift over time as equipment, populations or clinical behaviour change. It can make clinicians faster while subtly changing what they pay attention to.
 
-Regulators are therefore trying to govern AI across the lifecycle, not just at first approval. The UK Medicines and Healthcare products Regulatory Agency says software, including AI, plays an essential role in health and social care and is often regulated as a medical device. Its programme covers issues across the software lifecycle, including qualification, classification, pre- and post-market requirements, transparency, explainability, interpretability and adaptivity when AI models retrain. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/software-and-artificial-intelligence-ai-as-a-medical-device/software-and-artificial-intelligence-ai-as-a-medical-device" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Software and artificial intelligence (AI) as a medical device</span><span class="citation-popover-snippet">Software and artificial intelligence (AI) as a medical device</span></span></span>
+Regulators are therefore trying to govern AI across the lifecycle, not just at first approval. The UK Medicines and Healthcare products Regulatory Agency says software, including AI, plays an essential role in health and social care and is often regulated as a medical device. Its programme covers issues across the software lifecycle, including qualification, classification, pre- and post-market requirements, transparency, explainability, interpretability and adaptivity when AI models retrain.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/software-and-artificial-intelligence-ai-as-a-medical-device/software-and-artificial-intelligence-ai-as-a-medical-device" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Software and artificial intelligence (AI) as a medical device</span><span class="citation-popover-snippet">Software and artificial intelligence (AI) as a medical device</span></span></span>
 
-For medicines, the European Medicines Agency’s reflection paper covers AI and machine learning at any step of the medicines lifecycle, from drug discovery to post-authorisation use. That scope is important because AI may influence not only molecule design, but trial recruitment, manufacturing, pharmacovigilance and regulatory submissions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ema.europa.eu/en/use-artificial-intelligence-ai-medicinal-product-lifecycle-scientific-guideline" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ema.europa.eu">[European Medicines Agency (EMA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ema.europa.eu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+For medicines, the European Medicines Agency’s reflection paper covers AI and machine learning at any step of the medicines lifecycle, from drug discovery to post-authorisation use. That scope is important because AI may influence not only molecule design, but trial recruitment, manufacturing, pharmacovigilance and regulatory submissions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ema.europa.eu/en/use-artificial-intelligence-ai-medicinal-product-lifecycle-scientific-guideline" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ema.europa.eu">[European Medicines Agency (EMA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ema.europa.eu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-World Health Organization guidance on large multimodal models in health makes a similar point from an ethics and governance angle. Such systems may be used in healthcare, scientific research, public health and drug development, but it remains unproven whether general-purpose models can safely accomplish the wide range of tasks sometimes claimed for them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.who.int/publications/i/item/9789240084759" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-snippet">Ethics and governance of artificial intelligence for health: Guidance on large multi-modal models...</span></span></span>
+World Health Organization guidance on large multimodal models in health makes a similar point from an ethics and governance angle. Such systems may be used in healthcare, scientific research, public health and drug development, but it remains unproven whether general-purpose models can safely accomplish the wide range of tasks sometimes claimed for them.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.who.int/publications/i/item/9789240084759" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-snippet">Ethics and governance of artificial intelligence for health: Guidance on large multi-modal models...</span></span></span>
 
 The practical standard should be simple: the higher the stakes, the stronger the evidence required. Low-risk administrative support may need usability testing, privacy protection and audit. A diagnostic tool needs clinical validation across relevant populations. A treatment recommendation system needs evidence that it changes decisions safely. A drug candidate needs the full discipline of pharmacology and trials. Longevity interventions need especially long-term vigilance because harms may emerge slowly.
 
@@ -407,7 +407,7 @@ The practical standard should be simple: the higher the stakes, the stronger the
 
 AI medicine could produce a cruel paradox: the tools that promise longer, healthier lives might first reach people who are already healthier, wealthier and better served. That would not be a bloom. It would be a sharper version of today’s health inequality.
 
-Bias can enter medical AI at many points: who is represented in training data, which hospitals contribute records, how disease labels are defined, whether missing data reflects clinical neglect, and whether a tool has been tested in the communities where it will be deployed. A review of bias in medical AI describes how bias can arise throughout the development pipeline and affect clinical decision-making, not merely model performance in the abstract. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11542778/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
+Bias can enter medical AI at many points: who is represented in training data, which hospitals contribute records, how disease labels are defined, whether missing data reflects clinical neglect, and whether a tool has been tested in the communities where it will be deployed. A review of bias in medical AI describes how bias can arise throughout the development pipeline and affect clinical decision-making, not merely model performance in the abstract.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11542778/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
 
 There is also a distribution problem. AI-enabled medicine depends on data infrastructure, digitised records, imaging equipment, laboratory capacity, broadband, trained staff, procurement systems and maintenance. A hospital with modern scanners and informatics teams can use AI very differently from an underfunded clinic struggling with basic staffing. If public systems cannot afford or evaluate the best tools, private markets may set the terms.
 
@@ -433,7 +433,7 @@ For AI medicine to fulfil part of the longevity promise, the evidence should mov
 
 In drug discovery, the signal would be more AI-assisted candidates reaching late-stage trials, not just entering phase 1. It would include lower attrition, faster target validation, better toxicity prediction and more medicines for diseases that are currently neglected because the markets are small or the biology is hard.
 
-In clinical care, the signal would be improved patient outcomes: cancers caught earlier without unacceptable false positives, fewer diagnostic errors, safer prescribing, lower hospital admissions, better chronic disease [control]({{ 'control/' | relative_url }}) and reduced workload without reduced accountability. The NHS breast screening trial is important not because it proves AI works, but because it shows the kind of large-scale testing needed before changing public screening pathways. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ethics-transparency-and-accountability-framework-for-automated-decision-making/ethics-transparency-and-accountability-framework-for-automated-decision-making" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">ethics transparency and accountability framework for automated decision making</span><span class="citation-popover-snippet">ethics transparency and accountability framework for automated decision making</span></span></span>
+In clinical care, the signal would be improved patient outcomes: cancers caught earlier without unacceptable false positives, fewer diagnostic errors, safer prescribing, lower hospital admissions, better chronic disease [control]({{ 'control/' | relative_url }}) and reduced workload without reduced accountability. The NHS breast screening trial is important not because it proves AI works, but because it shows the kind of large-scale testing needed before changing public screening pathways.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ethics-transparency-and-accountability-framework-for-automated-decision-making/ethics-transparency-and-accountability-framework-for-automated-decision-making" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">ethics transparency and accountability framework for automated decision making</span><span class="citation-popover-snippet">ethics transparency and accountability framework for automated decision making</span></span></span>
 
 In longevity, the signal would be interventions that improve functional outcomes: mobility, cognition, immune resilience, recovery, independence and reduced incidence of age-related disease. Better biomarkers can help, but they should be tied to outcomes people care about. A longer life is not the only goal; a longer capable life is.
 
@@ -452,194 +452,194 @@ Within the broader AI bloom vision, medicine is one of the most plausible and mo
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_medicine_l_7c4177-Illustration-3-dark.svg" | relative_url }}" alt="Longevity illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_medicine_l_7c4177-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_medicine_l_7c4177-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can AI Help US Live Healthier Longer?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can AI Help US Live Healthier Longer?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Deep+Medicine+by+Eric+Topol&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Deep Medicine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_EFlDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Deep Medicine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Deep+Medicine+by+Eric+Topol&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Deep Medicine">Deep Medicine</a>
-        </h4>
-        <p class="fr-book-author">By Eric Topol</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Deep+Medicine+by+Eric+Topol&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Deep Medicine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_EFlDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Deep Medicine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Deep+Medicine+by+Eric+Topol&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Deep Medicine">Deep Medicine</a>
+</h4>
+<p class="fr-book-author">By Eric Topol</p>
         
-        <p class="fr-book-desc">Directly examines how AI may improve healthcare and longevity.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Deep+Medicine+by+Eric+Topol&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly examines how AI may improve healthcare and longevity.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Deep+Medicine+by+Eric+Topol&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Lifespan+by+David+A.+Sinclair&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Lifespan on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=x--oDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Lifespan" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Lifespan+by+David+A.+Sinclair&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lifespan">Lifespan</a>
-        </h4>
-        <p class="fr-book-author">By David A. Sinclair, Matthew D. LaPlante</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Lifespan+by+David+A.+Sinclair&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Lifespan on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=x--oDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Lifespan" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Lifespan+by+David+A.+Sinclair&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lifespan">Lifespan</a>
+</h4>
+<p class="fr-book-author">By David A. Sinclair, Matthew D. LaPlante</p>
         
-        <p class="fr-book-desc">Addresses ageing, prevention and extending healthy years.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Lifespan+by+David+A.+Sinclair&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses ageing, prevention and extending healthy years.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Lifespan+by+David+A.+Sinclair&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Song+of+the+Cell+by+Siddhartha+Mukherjee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Song of the Cell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=E-AnEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Song of the Cell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Song+of+the+Cell+by+Siddhartha+Mukherjee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Song of the Cell">The Song of the Cell</a>
-        </h4>
-        <p class="fr-book-author">By Siddhartha Mukherjee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Song+of+the+Cell+by+Siddhartha+Mukherjee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Song of the Cell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=E-AnEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Song of the Cell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Song+of+the+Cell+by+Siddhartha+Mukherjee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Song of the Cell">The Song of the Cell</a>
+</h4>
+<p class="fr-book-author">By Siddhartha Mukherjee</p>
         
-        <p class="fr-book-desc">Provides biological context for AI-driven advances in medicine.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Song+of+the+Cell+by+Siddhartha+Mukherjee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides biological context for AI-driven advances in medicine.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Song+of+the+Cell+by+Siddhartha+Mukherjee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Patient+Will+See+You+Now+by+Eric+J.+Topol&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Patient Will See You Now on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Patient+Will+See+You+Now+by+Eric+J.+Topol&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Patient Will See You Now">The Patient Will See You Now</a>
-        </h4>
-        <p class="fr-book-author">By Eric J. Topol</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Patient+Will+See+You+Now+by+Eric+J.+Topol&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Patient Will See You Now on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Patient+Will+See+You+Now+by+Eric+J.+Topol&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Patient Will See You Now">The Patient Will See You Now</a>
+</h4>
+<p class="fr-book-author">By Eric J. Topol</p>
         
-        <p class="fr-book-desc">Explores technology-enabled patient empowerment.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Patient+Will+See+You+Now+by+Eric+J.+Topol&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores technology-enabled patient empowerment.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Patient+Will+See+You+Now+by+Eric+J.+Topol&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Deep+Medicine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Deep Medicine</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Lifespan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Lifespan</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Song+of+the+Cell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Song of the Cell</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Deep+Medicine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Deep Medicine</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Lifespan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Lifespan</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Song+of+the+Cell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Song of the Cell</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-help-us-live-healthier-longer-medical-ai-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical AI poster" data-ebay-reference="can-ai-help-us-live-healthier-longer-medical-ai-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Soviet Russian Poster First Aid Individual Medical Kit AI Military Army 18x24&quot;"><img src="https://i.ebayimg.com/images/g/poYAAOSw1Gpho6Qv/s-l225.jpg" alt="Listing image for Soviet Russian Poster First Aid Individual Medical Kit AI Military Army 18x24&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-help-us-live-healthier-longer-medical-ai-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical AI poster" data-ebay-reference="can-ai-help-us-live-healthier-longer-medical-ai-poster" target="_blank" rel="sponsored noopener noreferrer">Soviet Russian Poster First Aid Individual Medical Kit AI Military Army 18x24&quot;</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-help-us-live-healthier-longer-medical-ai-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical AI poster" data-ebay-reference="can-ai-help-us-live-healthier-longer-medical-ai-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical AI poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: medical AI poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-help-us-live-healthier-longer-medical-ai-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical AI poster" data-ebay-reference="can-ai-help-us-live-healthier-longer-medical-ai-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-help-us-live-healthier-longer-medical-ai-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical AI poster" data-ebay-reference="can-ai-help-us-live-healthier-longer-medical-ai-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Soviet Russian Poster First Aid Individual Medical Kit AI Military Army 18x24&quot;"><img src="https://i.ebayimg.com/images/g/poYAAOSw1Gpho6Qv/s-l225.jpg" alt="Listing image for Soviet Russian Poster First Aid Individual Medical Kit AI Military Army 18x24&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-help-us-live-healthier-longer-medical-ai-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical AI poster" data-ebay-reference="can-ai-help-us-live-healthier-longer-medical-ai-poster" target="_blank" rel="sponsored noopener noreferrer">Soviet Russian Poster First Aid Individual Medical Kit AI Military Army 18x24&quot;</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-help-us-live-healthier-longer-medical-ai-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical AI poster" data-ebay-reference="can-ai-help-us-live-healthier-longer-medical-ai-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical AI poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: medical AI poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-help-us-live-healthier-longer-medical-ai-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical AI poster" data-ebay-reference="can-ai-help-us-live-healthier-longer-medical-ai-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-help-us-live-healthier-longer-medical-ai-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical AI poster" data-ebay-reference="can-ai-help-us-live-healthier-longer-medical-ai-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Soviet Russian Poster First Aid Individual Medical Kit AI Military 24x36&quot;"><img src="https://i.ebayimg.com/images/g/poYAAOSw1Gpho6Qv/s-l225.jpg" alt="Listing image for Soviet Russian Poster First Aid Individual Medical Kit AI Military 24x36&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-help-us-live-healthier-longer-medical-ai-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical AI poster" data-ebay-reference="can-ai-help-us-live-healthier-longer-medical-ai-poster" target="_blank" rel="sponsored noopener noreferrer">Soviet Russian Poster First Aid Individual Medical Kit AI Military 24x36&quot;</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-help-us-live-healthier-longer-medical-ai-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical AI poster" data-ebay-reference="can-ai-help-us-live-healthier-longer-medical-ai-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical AI poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: medical AI poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-help-us-live-healthier-longer-medical-ai-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical AI poster" data-ebay-reference="can-ai-help-us-live-healthier-longer-medical-ai-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-help-us-live-healthier-longer-medical-ai-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical AI poster" data-ebay-reference="can-ai-help-us-live-healthier-longer-medical-ai-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Soviet Russian Poster First Aid Individual Medical Kit AI Military 24x36&quot;"><img src="https://i.ebayimg.com/images/g/poYAAOSw1Gpho6Qv/s-l225.jpg" alt="Listing image for Soviet Russian Poster First Aid Individual Medical Kit AI Military 24x36&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-help-us-live-healthier-longer-medical-ai-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical AI poster" data-ebay-reference="can-ai-help-us-live-healthier-longer-medical-ai-poster" target="_blank" rel="sponsored noopener noreferrer">Soviet Russian Poster First Aid Individual Medical Kit AI Military 24x36&quot;</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-help-us-live-healthier-longer-medical-ai-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical AI poster" data-ebay-reference="can-ai-help-us-live-healthier-longer-medical-ai-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical AI poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: medical AI poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-help-us-live-healthier-longer-medical-ai-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical AI poster" data-ebay-reference="can-ai-help-us-live-healthier-longer-medical-ai-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-help-us-live-healthier-longer-medical-ai-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical AI poster" data-ebay-reference="can-ai-help-us-live-healthier-longer-medical-ai-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Soviet Russian Poster First Aid Medical Kit AI Army Forces, Military AV 18x24&quot;"><img src="https://i.ebayimg.com/images/g/YaIAAOSwnDdho66g/s-l225.jpg" alt="Listing image for Soviet Russian Poster First Aid Medical Kit AI Army Forces, Military AV 18x24&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-help-us-live-healthier-longer-medical-ai-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical AI poster" data-ebay-reference="can-ai-help-us-live-healthier-longer-medical-ai-poster" target="_blank" rel="sponsored noopener noreferrer">Soviet Russian Poster First Aid Medical Kit AI Army Forces, Military AV 18x24&quot;</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-help-us-live-healthier-longer-medical-ai-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical AI poster" data-ebay-reference="can-ai-help-us-live-healthier-longer-medical-ai-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical AI poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: medical AI poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-help-us-live-healthier-longer-medical-ai-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical AI poster" data-ebay-reference="can-ai-help-us-live-healthier-longer-medical-ai-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-help-us-live-healthier-longer-medical-ai-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical AI poster" data-ebay-reference="can-ai-help-us-live-healthier-longer-medical-ai-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Soviet Russian Poster First Aid Medical Kit AI Army Forces, Military AV 18x24&quot;"><img src="https://i.ebayimg.com/images/g/YaIAAOSwnDdho66g/s-l225.jpg" alt="Listing image for Soviet Russian Poster First Aid Medical Kit AI Army Forces, Military AV 18x24&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-help-us-live-healthier-longer-medical-ai-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical AI poster" data-ebay-reference="can-ai-help-us-live-healthier-longer-medical-ai-poster" target="_blank" rel="sponsored noopener noreferrer">Soviet Russian Poster First Aid Medical Kit AI Army Forces, Military AV 18x24&quot;</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-help-us-live-healthier-longer-medical-ai-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical AI poster" data-ebay-reference="can-ai-help-us-live-healthier-longer-medical-ai-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical AI poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: medical AI poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-help-us-live-healthier-longer-medical-ai-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical AI poster" data-ebay-reference="can-ai-help-us-live-healthier-longer-medical-ai-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-help-us-live-healthier-longer-medical-ai-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical AI poster" data-ebay-reference="can-ai-help-us-live-healthier-longer-medical-ai-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Soviet Poster ORIGINAL First Aid kit Medical AI-2 NBC Chernobyl stalker USSR"><img src="https://i.ebayimg.com/images/g/zqYAAOSwtPReNyg8/s-l225.jpg" alt="Listing image for Soviet Poster ORIGINAL First Aid kit Medical AI-2 NBC Chernobyl stalker USSR" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-help-us-live-healthier-longer-medical-ai-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical AI poster" data-ebay-reference="can-ai-help-us-live-healthier-longer-medical-ai-poster" target="_blank" rel="sponsored noopener noreferrer">Soviet Poster ORIGINAL First Aid kit Medical AI-2 NBC Chernobyl stalker USSR</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-help-us-live-healthier-longer-medical-ai-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical AI poster" data-ebay-reference="can-ai-help-us-live-healthier-longer-medical-ai-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical AI poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: medical AI poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-help-us-live-healthier-longer-medical-ai-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical AI poster" data-ebay-reference="can-ai-help-us-live-healthier-longer-medical-ai-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-help-us-live-healthier-longer-medical-ai-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical AI poster" data-ebay-reference="can-ai-help-us-live-healthier-longer-medical-ai-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-help-us-live-healthier-longer-medical-ai-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical AI poster" data-ebay-reference="can-ai-help-us-live-healthier-longer-medical-ai-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Soviet Poster ORIGINAL First Aid kit Medical AI-2 NBC Chernobyl stalker USSR"><img src="https://i.ebayimg.com/images/g/zqYAAOSwtPReNyg8/s-l225.jpg" alt="Listing image for Soviet Poster ORIGINAL First Aid kit Medical AI-2 NBC Chernobyl stalker USSR" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-help-us-live-healthier-longer-medical-ai-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical AI poster" data-ebay-reference="can-ai-help-us-live-healthier-longer-medical-ai-poster" target="_blank" rel="sponsored noopener noreferrer">Soviet Poster ORIGINAL First Aid kit Medical AI-2 NBC Chernobyl stalker USSR</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-help-us-live-healthier-longer-medical-ai-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical AI poster" data-ebay-reference="can-ai-help-us-live-healthier-longer-medical-ai-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical AI poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: medical AI poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-help-us-live-healthier-longer-medical-ai-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical AI poster" data-ebay-reference="can-ai-help-us-live-healthier-longer-medical-ai-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-help-us-live-healthier-longer-medical-ai-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical AI poster" data-ebay-reference="can-ai-help-us-live-healthier-longer-medical-ai-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -655,7 +655,7 @@ Within the broader AI bloom vision, medicine is one of the most plausible and mo
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -675,7 +675,7 @@ Within the broader AI bloom vision, medicine is one of the most plausible and mo
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -707,7 +707,7 @@ Within the broader AI bloom vision, medicine is one of the most plausible and mo
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -759,7 +759,7 @@ Within the broader AI bloom vision, medicine is one of the most plausible and mo
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -804,7 +804,7 @@ Within the broader AI bloom vision, medicine is one of the most plausible and mo
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -845,201 +845,201 @@ Within the broader AI bloom vision, medicine is one of the most plausible and mo
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: alphafold.ebi.ac.uk  
    Title: Alpha Fold Protein Structure Database  
-   Link: <a href="https://alphafold.ebi.ac.uk/" target="_blank" rel="noopener noreferrer nofollow">https://alphafold.ebi.ac.uk/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AlphaFold Protein Structure Database - EMBL-EBIAlphaFold DB provides open access to over 200 million protein structure predictions to acc...</p></details>
+   Link:<a href="https://alphafold.ebi.ac.uk/" target="_blank" rel="noopener noreferrer nofollow">https://alphafold.ebi.ac.uk/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AlphaFold Protein Structure Database - EMBL-EBIAlphaFold DB provides open access to over 200 million protein structure predictions to acc...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: deepmind.google  
-   Link: <a href="https://deepmind.google/science/alphafold/" target="_blank" rel="noopener noreferrer nofollow">https://deepmind.google/science/alphafold/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Google DeepMindAlphaFold — Google DeepMindSo far, AlphaFold has predicted over 200 million protein structures – nearly all catalogued pro...</p></details>
+   Link:<a href="https://deepmind.google/science/alphafold/" target="_blank" rel="noopener noreferrer nofollow">https://deepmind.google/science/alphafold/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google DeepMindAlphaFold — Google DeepMindSo far, AlphaFold has predicted over 200 million protein structures – nearly all catalogued pro...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41586-024-07487-w" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-024-07487-w</a>  
+   Link:<a href="https://www.nature.com/articles/s41586-024-07487-w" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-024-07487-w</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41591-025-03743-2" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41591-025-03743-2</a>  
+   Link:<a href="https://www.nature.com/articles/s41591-025-03743-2" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41591-025-03743-2</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nature.com  
    Title: Discovery of senolytics using machine learning | Nature Communications  
-   Link: <a href="https://www.nature.com/articles/s41467-023-39120-1" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41467-023-39120-1</a>  
+   Link:<a href="https://www.nature.com/articles/s41467-023-39120-1" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41467-023-39120-1</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11810058/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11810058/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11810058/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11810058/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: GOV.UK  
    Title: World-leading AI trial to tackle breast cancer launched  
-   Link: <a href="https://www.gov.uk/government/news/world-leading-ai-trial-to-tackle-breast-cancer-launched" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/world-leading-ai-trial-to-tackle-breast-cancer-launched</a>  
+   Link:<a href="https://www.gov.uk/government/news/world-leading-ai-trial-to-tackle-breast-cancer-launched" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/world-leading-ai-trial-to-tackle-breast-cancer-launched</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: fda.gov  
-   Link: <a href="https://www.fda.gov/medical-devices/software-medical-device-samd/artificial-[intelligence" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/medical-devices/software-medical-device-samd/artificial-[intelligence</a>  
+   Link:<a href="https://www.fda.gov/medical-devices/software-medical-device-samd/artificial-[intelligence" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/medical-devices/software-medical-device-samd/artificial-[intelligence</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: GOV.UK  
    Title: Software and artificial intelligence (AI) as a medical device  
-   Link: <a href="https://www.gov.uk/government/publications/software-and-artificial-intelligence-ai-as-a-medical-device/software-and-artificial-intelligence-ai-as-a-medical-device" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/software-and-artificial-intelligence-ai-as-a-medical-device/software-and-artificial-intelligence-ai-as-a-medical-device</a>  
+   Link:<a href="https://www.gov.uk/government/publications/software-and-artificial-intelligence-ai-as-a-medical-device/software-and-artificial-intelligence-ai-as-a-medical-device" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/software-and-artificial-intelligence-ai-as-a-medical-device/software-and-artificial-intelligence-ai-as-a-medical-device</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: who.int  
    Title: World Health Organization  
-   Link: <a href="https://www.who.int/publications/i/item/9789240084759" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/publications/i/item/9789240084759</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ethics and governance of artificial intelligence for health: Guidance on large multi-modal models...</p></details>
+   Link:<a href="https://www.who.int/publications/i/item/9789240084759" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/publications/i/item/9789240084759</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ethics and governance of artificial intelligence for health: Guidance on large multi-modal models...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11542778/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11542778/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11542778/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11542778/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: who.int  
-   Link: <a href="https://www.who.int/publications/i/item/9789240029200" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/publications/i/item/9789240029200</a>  
+   Link:<a href="https://www.who.int/publications/i/item/9789240029200" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/publications/i/item/9789240029200</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: GOV.UK  
    Title: ethics transparency and accountability framework for automated decision making  
-   Link: <a href="https://www.gov.uk/government/publications/ethics-transparency-and-accountability-framework-for-automated-decision-making/ethics-transparency-and-accountability-framework-for-automated-decision-making" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ethics-transparency-and-accountability-framework-for-automated-decision-making/ethics-transparency-and-accountability-framework-for-automated-decision-making</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ethics-transparency-and-accountability-framework-for-automated-decision-making/ethics-transparency-and-accountability-framework-for-automated-decision-making" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ethics-transparency-and-accountability-framework-for-automated-decision-making/ethics-transparency-and-accountability-framework-for-automated-decision-making</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: GOV.UK  
    Title: software and ai as a medical device change programme roadmap  
-   Link: <a href="https://www.gov.uk/government/publications/software-and-ai-as-a-medical-device-change-programme/software-and-ai-as-a-medical-device-change-programme-roadmap" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/software-and-ai-as-a-medical-device-change-programme/software-and-ai-as-a-medical-device-change-programme-roadmap</a>  
+   Link:<a href="https://www.gov.uk/government/publications/software-and-ai-as-a-medical-device-change-programme/software-and-ai-as-a-medical-device-change-programme-roadmap" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/software-and-ai-as-a-medical-device-change-programme/software-and-ai-as-a-medical-device-change-programme-roadmap</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s44276-026-00221-1" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s44276-026-00221-1</a>  
+   Link:<a href="https://www.nature.com/articles/s44276-026-00221-1" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s44276-026-00221-1</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41698-026-01310-7.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41698-026-01310-7.pdf</a>  
+   Link:<a href="https://www.nature.com/articles/s41698-026-01310-7.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41698-026-01310-7.pdf</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41698-026-01310-7" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41698-026-01310-7</a>  
+   Link:<a href="https://www.nature.com/articles/s41698-026-01310-7" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41698-026-01310-7</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41587-024-02143-0" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41587-024-02143-0</a>  
+   Link:<a href="https://www.nature.com/articles/s41587-024-02143-0" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41587-024-02143-0</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s43856-025-00781-2" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s43856-025-00781-2</a>  
+   Link:<a href="https://www.nature.com/articles/s43856-025-00781-2" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s43856-025-00781-2</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41514-026-00355-z" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41514-026-00355-z</a>  
+   Link:<a href="https://www.nature.com/articles/s41514-026-00355-z" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41514-026-00355-z</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41514-025-00193-5" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41514-025-00193-5</a>  
+   Link:<a href="https://www.nature.com/articles/s41514-025-00193-5" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41514-025-00193-5</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41514-025-00199-z" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41514-025-00199-z</a>  
+   Link:<a href="https://www.nature.com/articles/s41514-025-00199-z" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41514-025-00199-z</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: deepmind.google  
    Title: alphafold five years of impact  
-   Link: <a href="https://deepmind.google/blog/alphafold-five-years-of-impact/" target="_blank" rel="noopener noreferrer nofollow">https://deepmind.google/blog/alphafold-five-years-of-impact/</a>  
+   Link:<a href="https://deepmind.google/blog/alphafold-five-years-of-impact/" target="_blank" rel="noopener noreferrer nofollow">https://deepmind.google/blog/alphafold-five-years-of-impact/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/6217bac58fa8f54916f45f51/UK_NSC_evidence_summary_-_the_use_of_AI_for_mammographic_image_analysis_in_breast_cancer_screening.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/6217bac58fa8f54916f45f51/UK_NSC_evidence_summary_-_the_use_of_AI_for_mammographic_image_analysis_in_breast_cancer_screening.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/6217bac58fa8f54916f45f51/UK_NSC_evidence_summary_-_the_use_of_AI_for_mammographic_image_analysis_in_breast_cancer_screening.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/6217bac58fa8f54916f45f51/UK_NSC_evidence_summary_-_the_use_of_AI_for_mammographic_image_analysis_in_breast_cancer_screening.pdf</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/662fce1e9e82181baa98a988/MHRA_Impact-of-AI-on-the-regulation-of-medical-products.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/662fce1e9e82181baa98a988/MHRA_Impact-of-AI-on-the-regulation-of-medical-products.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/662fce1e9e82181baa98a988/MHRA_Impact-of-AI-on-the-regulation-of-medical-products.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/662fce1e9e82181baa98a988/MHRA_Impact-of-AI-on-the-regulation-of-medical-products.pdf</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: lifespan.io  
    Title: longevity biotech in 2025 the expert roundup  
-   Link: <a href="https://lifespan.io/longevity-biotech-in-2025-the-expert-roundup/" target="_blank" rel="noopener noreferrer nofollow">https://lifespan.io/longevity-biotech-in-2025-the-expert-roundup/</a>  
+   Link:<a href="https://lifespan.io/longevity-biotech-in-2025-the-expert-roundup/" target="_blank" rel="noopener noreferrer nofollow">https://lifespan.io/longevity-biotech-in-2025-the-expert-roundup/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: ebi.ac.uk  
-   Link: <a href="https://www.ebi.ac.uk/training/online/courses/navigating-alphafold-database/what-is-the-afdb/accessing-searching-afdb/access-via-website/" target="_blank" rel="noopener noreferrer nofollow">https://www.ebi.ac.uk/training/online/courses/navigating-alphafold-database/what-is-the-afdb/accessing-searching-afdb/access-via-website/</a>  
+   Link:<a href="https://www.ebi.ac.uk/training/online/courses/navigating-alphafold-database/what-is-the-afdb/accessing-searching-afdb/access-via-website/" target="_blank" rel="noopener noreferrer nofollow">https://www.ebi.ac.uk/training/online/courses/navigating-alphafold-database/what-is-the-afdb/accessing-searching-afdb/access-via-website/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: alphafold.ebi.ac.uk  
    Title: ebi.ac.uk About  
-   Link: <a href="https://alphafold.ebi.ac.uk/about" target="_blank" rel="noopener noreferrer nofollow">https://alphafold.ebi.ac.uk/about</a>  
+   Link:<a href="https://alphafold.ebi.ac.uk/about" target="_blank" rel="noopener noreferrer nofollow">https://alphafold.ebi.ac.uk/about</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: fda.gov  
    Title: artificial intelligence software medical device  
-   Link: <a href="https://www.fda.gov/medical-devices/software-medical-device-samd/artificial-intelligence-software-medical-device" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/medical-devices/software-medical-device-samd/artificial-intelligence-software-medical-device</a>  
+   Link:<a href="https://www.fda.gov/medical-devices/software-medical-device-samd/artificial-intelligence-software-medical-device" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/medical-devices/software-medical-device-samd/artificial-intelligence-software-medical-device</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: fda.gov  
-   Link: <a href="https://www.fda.gov/media/167973/download" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/media/167973/download</a>  
+   Link:<a href="https://www.fda.gov/media/167973/download" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/media/167973/download</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: digital-transformation.hee.nhs.uk  
-   Link: <a href="https://digital-transformation.hee.nhs.uk/support-for-organisations/research-and-publications/dart-ed/horizon-scanning/understanding-healthcare-workers-confidence-in-ai/chapter-3-governance/guidelines" target="_blank" rel="noopener noreferrer nofollow">https://digital-transformation.hee.nhs.uk/support-for-organisations/research-and-publications/dart-ed/horizon-scanning/understanding-healthcare-workers-confidence-in-ai/chapter-3-governance/guidelines</a>  
+   Link:<a href="https://digital-transformation.hee.nhs.uk/support-for-organisations/research-and-publications/dart-ed/horizon-scanning/understanding-healthcare-workers-confidence-in-ai/chapter-3-governance/guidelines" target="_blank" rel="noopener noreferrer nofollow">https://digital-transformation.hee.nhs.uk/support-for-organisations/research-and-publications/dart-ed/horizon-scanning/understanding-healthcare-workers-confidence-in-ai/chapter-3-governance/guidelines</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: embl.org  
    Title: first complexes alphafold database  
-   Link: <a href="https://www.embl.org/news/science-technology/first-complexes-alphafold-database/" target="_blank" rel="noopener noreferrer nofollow">https://www.embl.org/news/science-technology/first-complexes-alphafold-database/</a>  
+   Link:<a href="https://www.embl.org/news/science-technology/first-complexes-alphafold-database/" target="_blank" rel="noopener noreferrer nofollow">https://www.embl.org/news/science-technology/first-complexes-alphafold-database/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: medregs.blog.gov.uk  
    Title: blog.gov.uk Emerging Roadmap and transition provisions  
-   Link: <a href="https://medregs.blog.gov.uk/2024/11/01/emerging-roadmap-and-transition-provisions/" target="_blank" rel="noopener noreferrer nofollow">https://medregs.blog.gov.uk/2024/11/01/emerging-roadmap-and-transition-provisions/</a>  
+   Link:<a href="https://medregs.blog.gov.uk/2024/11/01/emerging-roadmap-and-transition-provisions/" target="_blank" rel="noopener noreferrer nofollow">https://medregs.blog.gov.uk/2024/11/01/emerging-roadmap-and-transition-provisions/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: ema.europa.eu  
-   Link: <a href="https://www.ema.europa.eu/en/use-artificial-intelligence-ai-medicinal-product-lifecycle-scientific-guideline" target="_blank" rel="noopener noreferrer nofollow">https://www.ema.europa.eu/en/use-artificial-intelligence-ai-medicinal-product-lifecycle-scientific-guideline</a>  
+   Link:<a href="https://www.ema.europa.eu/en/use-artificial-intelligence-ai-medicinal-product-lifecycle-scientific-guideline" target="_blank" rel="noopener noreferrer nofollow">https://www.ema.europa.eu/en/use-artificial-intelligence-ai-medicinal-product-lifecycle-scientific-guideline</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/health-services/articles/10.3389/frhs.2025.1682159/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/health-services/articles/10.3389/frhs.2025.1682159/full</a>  
+   Link:<a href="https://www.frontiersin.org/journals/health-services/articles/10.3389/frhs.2025.1682159/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/health-services/articles/10.3389/frhs.2025.1682159/full</a>  
 
 ### Additional References
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: communities.springernature.com  
    Title: ai meets ipf taking an ai designed drug from target discovery to phase iia  
-   Link: <a href="https://communities.springernature.com/posts/ai-meets-ipf-taking-an-ai-designed-drug-from-target-discovery-to-phase-iia" target="_blank" rel="noopener noreferrer nofollow">https://communities.springernature.com/posts/ai-meets-ipf-taking-an-ai-designed-drug-from-target-discovery-to-phase-iia</a>  
+   Link:<a href="https://communities.springernature.com/posts/ai-meets-ipf-taking-an-ai-designed-drug-from-target-discovery-to-phase-iia" target="_blank" rel="noopener noreferrer nofollow">https://communities.springernature.com/posts/ai-meets-ipf-taking-an-ai-designed-drug-from-target-discovery-to-phase-iia</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/374676009_AlphaFold_Protein_Structure_Database_Predicted_Millions_of_3D_Structures_Can_AlphaFold_revolutionize_the_discovery_of_new_drugs" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/374676009_AlphaFold_Protein_Structure_Database_Predicted_Millions_of_3D_Structures_Can_AlphaFold_revolutionize_the_discovery_of_new_drugs</a>  
+   Link:<a href="https://www.researchgate.net/publication/374676009_AlphaFold_Protein_Structure_Database_Predicted_Millions_of_3D_Structures_Can_AlphaFold_revolutionize_the_discovery_of_new_drugs" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/374676009_AlphaFold_Protein_Structure_Database_Predicted_Millions_of_3D_Structures_Can_AlphaFold_revolutionize_the_discovery_of_new_drugs</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/390704176_AlphaFold3_in_Drug_Discovery_A_Comprehensive_Assessment_of_Capabilities_Limitations_and_Applications" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/390704176_AlphaFold3_in_Drug_Discovery_A_Comprehensive_Assessment_of_Capabilities_Limitations_and_Applications</a>  
+   Link:<a href="https://www.researchgate.net/publication/390704176_AlphaFold3_in_Drug_Discovery_A_Comprehensive_Assessment_of_Capabilities_Limitations_and_Applications" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/390704176_AlphaFold3_in_Drug_Discovery_A_Comprehensive_Assessment_of_Capabilities_Limitations_and_Applications</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/392366960_A_generative_AI-discovered_TNIK_inhibitor_for_idiopathic_pulmonary_fibrosis_a_randomized_phase_2a_trial" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/392366960_A_generative_AI-discovered_TNIK_inhibitor_for_idiopathic_pulmonary_fibrosis_a_randomized_phase_2a_trial</a>  
+   Link:<a href="https://www.researchgate.net/publication/392366960_A_generative_AI-discovered_TNIK_inhibitor_for_idiopathic_pulmonary_fibrosis_a_randomized_phase_2a_trial" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/392366960_A_generative_AI-discovered_TNIK_inhibitor_for_idiopathic_pulmonary_fibrosis_a_randomized_phase_2a_trial</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/399664083_The_Healthspan_Horizon_How_AI_Wellness_Science_and_Medicine_Are_Rewriting_the_Future_of_Human_Life_Expectancy" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/399664083_The_Healthspan_Horizon_How_AI_Wellness_Science_and_Medicine_Are_Rewriting_the_Future_of_Human_Life_Expectancy</a>  
+   Link:<a href="https://www.researchgate.net/publication/399664083_The_Healthspan_Horizon_How_AI_Wellness_Science_and_Medicine_Are_Rewriting_the_Future_of_Human_Life_Expectancy" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/399664083_The_Healthspan_Horizon_How_AI_Wellness_Science_and_Medicine_Are_Rewriting_the_Future_of_Human_Life_Expectancy</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: ketryx.com  
-   Link: <a href="https://www.ketryx.com/blog/a-complete-guide-to-the-fdas-ai-ml-guidance-for-medical-devices" target="_blank" rel="noopener noreferrer nofollow">https://www.ketryx.com/blog/a-complete-guide-to-the-fdas-ai-ml-guidance-for-medical-devices</a>  
+   Link:<a href="https://www.ketryx.com/blog/a-complete-guide-to-the-fdas-ai-ml-guidance-for-medical-devices" target="_blank" rel="noopener noreferrer nofollow">https://www.ketryx.com/blog/a-complete-guide-to-the-fdas-ai-ml-guidance-for-medical-devices</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: rcastoragev2.blob.core.windows.net  
-   Link: <a href="https://rcastoragev2.blob.core.windows.net/9e6c827f9d7f88eac8af0797432cefc7/41586_2024_7487_MOESM1_ESM.pdf" target="_blank" rel="noopener noreferrer nofollow">https://rcastoragev2.blob.core.windows.net/9e6c827f9d7f88eac8af0797432cefc7/41586_2024_7487_MOESM1_ESM.pdf</a>  
+   Link:<a href="https://rcastoragev2.blob.core.windows.net/9e6c827f9d7f88eac8af0797432cefc7/41586_2024_7487_MOESM1_ESM.pdf" target="_blank" rel="noopener noreferrer nofollow">https://rcastoragev2.blob.core.windows.net/9e6c827f9d7f88eac8af0797432cefc7/41586_2024_7487_MOESM1_ESM.pdf</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: 311institute.com  
-   Link: <a href="https://www.311institute.com/an-ai-just-discovered-three-new-anti-ageing-senolytic-compounds/" target="_blank" rel="noopener noreferrer nofollow">https://www.311institute.com/an-ai-just-discovered-three-new-anti-ageing-senolytic-compounds/</a>  
+   Link:<a href="https://www.311institute.com/an-ai-just-discovered-three-new-anti-ageing-senolytic-compounds/" target="_blank" rel="noopener noreferrer nofollow">https://www.311institute.com/an-ai-just-discovered-three-new-anti-ageing-senolytic-compounds/</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: insilico.com  
-   Link: <a href="https://insilico.com/casestudy" target="_blank" rel="noopener noreferrer nofollow">https://insilico.com/casestudy</a>  
+   Link:<a href="https://insilico.com/casestudy" target="_blank" rel="noopener noreferrer nofollow">https://insilico.com/casestudy</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: kostendigital.com  
-   Link: <a href="https://kostendigital.com/sites/default/files/2024-06/WHO-Ethics%20and%20governance%20of%20AI%20for%20health_CI_0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://kostendigital.com/sites/default/files/2024-06/WHO-Ethics%20and%20governance%20of%20AI%20for%20health_CI_0.pdf</a>
+   Link:<a href="https://kostendigital.com/sites/default/files/2024-06/WHO-Ethics%20and%20governance%20of%20AI%20for%20health_CI_0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://kostendigital.com/sites/default/files/2024-06/WHO-Ethics%20and%20governance%20of%20AI%20for%20health_CI_0.pdf</a>

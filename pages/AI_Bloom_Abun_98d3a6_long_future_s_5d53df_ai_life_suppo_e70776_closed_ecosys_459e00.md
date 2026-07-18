@@ -278,7 +278,7 @@ For advocates of long-term human expansion into space, these experiments matter 
 
 ## What BIOS-3 Appeared to Prove
 
-BIOS-3 was developed in Krasnoyarsk in the Soviet Union beginning in the 1960s. Unlike later, more famous projects, it was relatively small and intentionally simplified. The facility relied heavily on algae cultivation and controlled crop production rather than trying to recreate multiple natural ecosystems. Experiments eventually supported crews living inside the sealed environment for months at a time while recycling air and water through biological processes. Food regeneration reached roughly 80–90% of crew requirements depending on the experiment, while atmospheric and water regeneration approached complete closure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://core.ac.uk/download/pdf/38632677.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: core.ac.uk">[CORE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">core.ac.uk</span><span class="citation-popover-snippet">Creation of Closed Ecological Life Support SystemsFebruary 4, 2008 — by II Gitelsona · 2008 · Cited by 25 — Bios-3 was the first to m...</span><span class="citation-popover-meta">Published: February 4, 2008</span></span></span>
+BIOS-3 was developed in Krasnoyarsk in the Soviet Union beginning in the 1960s. Unlike later, more famous projects, it was relatively small and intentionally simplified. The facility relied heavily on algae cultivation and controlled crop production rather than trying to recreate multiple natural ecosystems. Experiments eventually supported crews living inside the sealed environment for months at a time while recycling air and water through biological processes. Food regeneration reached roughly 80–90% of crew requirements depending on the experiment, while atmospheric and water regeneration approached complete closure.<span class="citation-chip-wrap"><a class="citation-chip" href="https://core.ac.uk/download/pdf/38632677.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: core.ac.uk">[CORE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">core.ac.uk</span><span class="citation-popover-snippet">Creation of Closed Ecological Life Support SystemsFebruary 4, 2008 — by II Gitelsona · 2008 · Cited by 25 — Bios-3 was the first to m...</span><span class="citation-popover-meta">Published: February 4, 2008</span></span></span>
 
 The achievement was important because it demonstrated several principles that remain central to modern bioregenerative life-support research:
 
@@ -287,13 +287,13 @@ The achievement was important because it demonstrated several principles that re
 * Humans can survive for extended periods in environments where oxygen is regenerated biologically.
 * Water recycling can reach very high levels of closure.
 * Crop production can become an active component of life support rather than merely food supply.
-* Long-duration habitation becomes more practical when biological and engineering systems operate together. <span class="citation-chip-wrap"><a class="citation-chip" href="https://core.ac.uk/download/pdf/38632677.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: core.ac.uk">[CORE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">core.ac.uk</span><span class="citation-popover-snippet">Creation of Closed Ecological Life Support SystemsFebruary 4, 2008 — by II Gitelsona · 2008 · Cited by 25 — Bios-3 was the first to m...</span><span class="citation-popover-meta">Published: February 4, 2008</span></span></span>
+* Long-duration habitation becomes more practical when biological and engineering systems operate together.<span class="citation-chip-wrap"><a class="citation-chip" href="https://core.ac.uk/download/pdf/38632677.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: core.ac.uk">[CORE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">core.ac.uk</span><span class="citation-popover-snippet">Creation of Closed Ecological Life Support SystemsFebruary 4, 2008 — by II Gitelsona · 2008 · Cited by 25 — Bios-3 was the first to m...</span><span class="citation-popover-meta">Published: February 4, 2008</span></span></span>
 
 </div>
 
 What made BIOS-3 relatively successful was not that it reproduced Earth's biosphere. It largely avoided attempting to do so.
 
-The system relied on a comparatively limited set of organisms and carefully controlled environmental conditions. Researchers deliberately reduced ecological complexity wherever possible. Instead of managing thousands of interacting species, they concentrated on maintaining a small number of biological processes that could be measured and adjusted. <span class="citation-chip-wrap"><a class="citation-chip" href="https://core.ac.uk/download/pdf/38632677.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: core.ac.uk">[CORE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">core.ac.uk</span><span class="citation-popover-snippet">Creation of Closed Ecological Life Support SystemsFebruary 4, 2008 — by II Gitelsona · 2008 · Cited by 25 — Bios-3 was the first to m...</span><span class="citation-popover-meta">Published: February 4, 2008</span></span></span>
+The system relied on a comparatively limited set of organisms and carefully controlled environmental conditions. Researchers deliberately reduced ecological complexity wherever possible. Instead of managing thousands of interacting species, they concentrated on maintaining a small number of biological processes that could be measured and adjusted.<span class="citation-chip-wrap"><a class="citation-chip" href="https://core.ac.uk/download/pdf/38632677.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: core.ac.uk">[CORE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">core.ac.uk</span><span class="citation-popover-snippet">Creation of Closed Ecological Life Support SystemsFebruary 4, 2008 — by II Gitelsona · 2008 · Cited by 25 — Bios-3 was the first to m...</span><span class="citation-popover-meta">Published: February 4, 2008</span></span></span>
 
 For future AI habitat designers, this may be one of the most important lessons. Ecological richness is not automatically an advantage. Greater biodiversity can improve [resilience]({{ 'resilience/' | relative_url }}) in some contexts, but it also creates more interactions, more feedback loops and more opportunities for unexpected behaviour. BIOS-3 succeeded partly because it constrained the problem.
 
@@ -301,7 +301,7 @@ For future AI habitat designers, this may be one of the most important lessons. 
 
 Biosphere 2 attempted something far more ambitious.
 
-Constructed in Arizona and sealed in 1991, the facility contained multiple miniature biomes including rainforest, ocean, desert and agricultural systems. Eight people lived inside for two years while attempting to operate the structure as a materially closed ecosystem. It remains the largest closed ecological experiment ever built. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Biosphere_2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Biosphere 2</span><span class="citation-popover-snippet">Biosphere 2</span></span></span>
+Constructed in Arizona and sealed in 1991, the facility contained multiple miniature biomes including rainforest, ocean, desert and agricultural systems. Eight people lived inside for two years while attempting to operate the structure as a materially closed ecosystem. It remains the largest closed ecological experiment ever built.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Biosphere_2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Biosphere 2</span><span class="citation-popover-snippet">Biosphere 2</span></span></span>
 
 The project generated valuable scientific findings, but it also revealed how difficult it is to predict the behaviour of a complex artificial biosphere.
 
@@ -309,11 +309,11 @@ The project generated valuable scientific findings, but it also revealed how dif
 
 The most famous failure involved atmospheric oxygen.
 
-During the first closure experiment, oxygen levels steadily fell from around 21% to roughly 14%, equivalent to conditions at high altitude. Crew members experienced fatigue and other symptoms, and outside oxygen eventually had to be injected to maintain safety. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/science.274.5290.1150" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">Biosphere 2 and Biodiversity--The Lessons So FarBy January 1993, 1.4 years after material closure of Biosphere 2, the oxygen conce...</span><span class="citation-popover-meta">Published: January 1993</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Biosphere" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">BiosphereThe biosphere is the global ecological system integrating all living beings and their relationships, including their interact...</span></span></span>
+During the first closure experiment, oxygen levels steadily fell from around 21% to roughly 14%, equivalent to conditions at high altitude. Crew members experienced fatigue and other symptoms, and outside oxygen eventually had to be injected to maintain safety.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/science.274.5290.1150" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">Biosphere 2 and Biodiversity--The Lessons So FarBy January 1993, 1.4 years after material closure of Biosphere 2, the oxygen conce...</span><span class="citation-popover-meta">Published: January 1993</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Biosphere" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">BiosphereThe biosphere is the global ecological system integrating all living beings and their relationships, including their interact...</span></span></span>
 
 What made the episode especially important was that researchers initially struggled to identify the cause.
 
-The straightforward explanation would have been that oxygen loss should correspond to rising carbon dioxide. Yet the measured carbon dioxide increase was insufficient to explain the scale of the oxygen decline. Later analysis revealed that multiple processes were interacting simultaneously. Soil microbes were consuming oxygen while decomposing organic matter, releasing carbon dioxide. Meanwhile, some of that carbon dioxide reacted with exposed concrete surfaces and became locked away as carbonates. The atmosphere therefore concealed part of the underlying oxygen loss. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0925857498000913" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Overview of the Biosphere 2 closed systemby B Zabel · 1999 · Cited by 66 — In this paper we emphasize material selection, super-structure...</span></span></span>
+The straightforward explanation would have been that oxygen loss should correspond to rising carbon dioxide. Yet the measured carbon dioxide increase was insufficient to explain the scale of the oxygen decline. Later analysis revealed that multiple processes were interacting simultaneously. Soil microbes were consuming oxygen while decomposing organic matter, releasing carbon dioxide. Meanwhile, some of that carbon dioxide reacted with exposed concrete surfaces and became locked away as carbonates. The atmosphere therefore concealed part of the underlying oxygen loss.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0925857498000913" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Overview of the Biosphere 2 closed systemby B Zabel · 1999 · Cited by 66 — In this paper we emphasize material selection, super-structure...</span></span></span>
 
 The lesson is striking. A system can appear stable at the level of individual measurements while important failures develop through interactions between biological, chemical and structural processes.
 
@@ -325,7 +325,7 @@ For future space habitats, this means monitoring oxygen alone would be insuffici
 
 Many early expectations focused on visible organisms such as crops, trees and animals. Instead, some of the most important dynamics emerged from microbial activity in the soil.
 
-Researchers discovered that microbial respiration consumed oxygen faster than anticipated. The amount of carbon stored in soils and the rate at which microbes processed it turned out to be critical variables. The problem was not a malfunctioning machine. It was a living subsystem behaving differently from expectations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0925857498000913" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Overview of the Biosphere 2 closed systemby B Zabel · 1999 · Cited by 66 — In this paper we emphasize material selection, super-structure...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Biosphere_2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Biosphere 2</span><span class="citation-popover-snippet">Biosphere 2</span></span></span>
+Researchers discovered that microbial respiration consumed oxygen faster than anticipated. The amount of carbon stored in soils and the rate at which microbes processed it turned out to be critical variables. The problem was not a malfunctioning machine. It was a living subsystem behaving differently from expectations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0925857498000913" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Overview of the Biosphere 2 closed systemby B Zabel · 1999 · Cited by 66 — In this paper we emphasize material selection, super-structure...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Biosphere_2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Biosphere 2</span><span class="citation-popover-snippet">Biosphere 2</span></span></span>
 
 This remains highly relevant for modern habitat concepts.
 
@@ -335,7 +335,7 @@ Future settlements may depend on microbial bioreactors, waste-processing systems
 
 Biosphere 2 repeatedly produced outcomes that were difficult to forecast.
 
-Carbon dioxide levels fluctuated dramatically across seasons. Species populations changed unexpectedly. Some organisms thrived while others declined. Managing the system required continual intervention and adaptation rather than simple adherence to an original operating plan. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Biosphere" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">BiosphereThe biosphere is the global ecological system integrating all living beings and their relationships, including their interact...</span></span></span>
+Carbon dioxide levels fluctuated dramatically across seasons. Species populations changed unexpectedly. Some organisms thrived while others declined. Managing the system required continual intervention and adaptation rather than simple adherence to an original operating plan.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Biosphere" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">BiosphereThe biosphere is the global ecological system integrating all living beings and their relationships, including their interact...</span></span></span>
 
 The broader lesson is that a closed habitat is not merely a machine.
 
@@ -348,7 +348,7 @@ One of the easiest mistakes in discussions of future space settlement is assumin
 
 A settlement may possess:
 
-* Excellent water recycling. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.universetoday.com/articles/space-and-sustainability-how-the-lessons-of-b2-inspired-samc2b2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: universetoday.com">[universetoday.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">universetoday.com</span><span class="citation-popover-title">space and sustainability how the lessons of b2 inspired samc2b2</span><span class="citation-popover-snippet">Space and Sustainability: How the Lessons of Biosphere 2...27 Jan 2021 — By 1968, BIOS-3 reached a system efficiency of 99% in terms of...</span></span></span>
+* Excellent water recycling.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.universetoday.com/articles/space-and-sustainability-how-the-lessons-of-b2-inspired-samc2b2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: universetoday.com">[universetoday.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">universetoday.com</span><span class="citation-popover-title">space and sustainability how the lessons of b2 inspired samc2b2</span><span class="citation-popover-snippet">Space and Sustainability: How the Lessons of Biosphere 2...27 Jan 2021 — By 1968, BIOS-3 reached a system efficiency of 99% in terms of...</span></span></span>
 * Reliable crop production.
 * Advanced atmospheric [control]({{ 'control/' | relative_url }}).
 * High-performance [robotics]({{ 'robotics/' | relative_url }}).
@@ -356,7 +356,7 @@ A settlement may possess:
 
 Yet the habitat can still become unstable if interactions between those systems create feedback loops that nobody anticipated.
 
-Biosphere 2 showed that optimisation of components does not guarantee optimisation of the whole. Oxygen decline emerged from interactions between soils, microbes, plants, atmospheric chemistry and construction materials. No single subsystem failure fully explained the outcome. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Biosphere" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">BiosphereThe biosphere is the global ecological system integrating all living beings and their relationships, including their interact...</span></span></span>
+Biosphere 2 showed that optimisation of components does not guarantee optimisation of the whole. Oxygen decline emerged from interactions between soils, microbes, plants, atmospheric chemistry and construction materials. No single subsystem failure fully explained the outcome.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Biosphere" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">BiosphereThe biosphere is the global ecological system integrating all living beings and their relationships, including their interact...</span></span></span>
 
 This distinction matters for AI because many current AI successes come from narrow optimisation tasks. Managing a closed biosphere requires something different: understanding system-wide dynamics across biological, chemical and engineering domains simultaneously.
 
@@ -372,7 +372,7 @@ Modern machine-learning systems are increasingly effective at finding weak patte
 
 A future habitat might contain millions of environmental measurements: atmospheric composition, crop health, nutrient flows, microbial populations, equipment performance and crew health indicators. AI systems could search for correlations that humans might overlook.
 
-The Biosphere 2 oxygen decline is a useful example. An advanced monitoring system might have recognised subtle links between soil respiration, atmospheric chemistry and structural materials long before oxygen levels became dangerous. Rather than waiting for a visible crisis, it could flag emerging risk trajectories. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Biosphere" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">BiosphereThe biosphere is the global ecological system integrating all living beings and their relationships, including their interact...</span></span></span>
+The Biosphere 2 oxygen decline is a useful example. An advanced monitoring system might have recognised subtle links between soil respiration, atmospheric chemistry and structural materials long before oxygen levels became dangerous. Rather than waiting for a visible crisis, it could flag emerging risk trajectories.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Biosphere" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">BiosphereThe biosphere is the global ecological system integrating all living beings and their relationships, including their interact...</span></span></span>
 
 ### Digital twins and ecosystem simulation
 
@@ -420,201 +420,201 @@ Closed ecosystem experiments show both the promise and the difficulty of that vi
 
 The optimistic interpretation is that AI could eventually coordinate biological, industrial and ecological systems at a scale beyond unaided human cognition. A sufficiently capable system might model nutrient cycles, atmospheric chemistry, agriculture, waste processing and human health as components of a unified habitat. If such capabilities mature, self-sustaining settlements on Mars, in orbital habitats or elsewhere become more plausible.
 
-The cautionary interpretation is equally important. Biosphere 2 revealed that even highly motivated teams operating one of the most ambitious ecological experiments ever built struggled to predict system behaviour. Complexity itself became the central challenge. <span class="citation-chip-wrap"><a class="citation-chip" href="https://spj.science.org/doi/10.34133/2021/8067539" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spj.science.org">[Science Advances]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spj.science.org</span><span class="citation-popover-snippet">Science AdvancesBiosphere 2&#x27;s Lessons about Living on Earth and in SpaceBiosphere 2 was important as a first step towards learning how to...</span></span></span>
+The cautionary interpretation is equally important. Biosphere 2 revealed that even highly motivated teams operating one of the most ambitious ecological experiments ever built struggled to predict system behaviour. Complexity itself became the central challenge.<span class="citation-chip-wrap"><a class="citation-chip" href="https://spj.science.org/doi/10.34133/2021/8067539" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spj.science.org">[Science Advances]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spj.science.org</span><span class="citation-popover-snippet">Science AdvancesBiosphere 2&#x27;s Lessons about Living on Earth and in SpaceBiosphere 2 was important as a first step towards learning how to...</span></span></span>
 
 The key lesson is therefore not that AI will effortlessly solve life support. It is that future habitats may require intelligence operating at a systems level because the habitat itself behaves like a living network rather than a collection of machines.
 
 BIOS-3 suggested that carefully constrained biological life support can work. Biosphere 2 demonstrated that realistic ecosystems contain hidden dynamics that become visible only through operation. Together they imply that the future of space settlement may depend less on building larger habitats and more on developing the ability to understand, model and govern complexity itself. For advanced AI, that challenge may be one of the most consequential tests of whether intelligence can genuinely help civilisation flourish beyond Earth.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Closed Ecosystem Experiments Got Wrong. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Closed Ecosystem Experiments Got Wrong. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+City+on+Mars+by+Kelly+Weinersmith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A City on Mars on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2m6vEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for A City on Mars" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+City+on+Mars+by+Kelly+Weinersmith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A City on Mars">A City on Mars</a>
-        </h4>
-        <p class="fr-book-author">By Kelly Weinersmith, Zach Weinersmith</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+City+on+Mars+by+Kelly+Weinersmith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A City on Mars on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2m6vEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for A City on Mars" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+City+on+Mars+by+Kelly+Weinersmith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A City on Mars">A City on Mars</a>
+</h4>
+<p class="fr-book-author">By Kelly Weinersmith, Zach Weinersmith</p>
         
-        <p class="fr-book-desc">Directly questions whether closed habitats and settlements can work in practice.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+City+on+Mars+by+Kelly+Weinersmith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly questions whether closed habitats and settlements can work in practice.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+City+on+Mars+by+Kelly+Weinersmith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Human+Experiment+by+Jane+Poynter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Human Experiment on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xVqdswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Human Experiment" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Human+Experiment+by+Jane+Poynter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Human Experiment">The Human Experiment</a>
-        </h4>
-        <p class="fr-book-author">By Jane Poynter</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Human+Experiment+by+Jane+Poynter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Human Experiment on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xVqdswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Human Experiment" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Human+Experiment+by+Jane+Poynter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Human Experiment">The Human Experiment</a>
+</h4>
+<p class="fr-book-author">By Jane Poynter</p>
         
-        <p class="fr-book-desc">Directly recounts living inside a closed ecological experiment.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Human+Experiment+by+Jane+Poynter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly recounts living inside a closed ecological experiment.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Human+Experiment+by+Jane+Poynter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Future+of+Humanity+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Future of Humanity on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d7ktygEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Future of Humanity" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Future+of+Humanity+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Future of Humanity">The Future of Humanity</a>
-        </h4>
-        <p class="fr-book-author">By Michio Kaku</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Future+of+Humanity+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Future of Humanity on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d7ktygEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Future of Humanity" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Future+of+Humanity+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Future of Humanity">The Future of Humanity</a>
+</h4>
+<p class="fr-book-author">By Michio Kaku</p>
         
-        <p class="fr-book-desc">Provides a wider settlement context for lessons from closed-ecosystem experiments.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Future+of+Humanity+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a wider settlement context for lessons from closed-ecosystem experiments.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Future+of+Humanity+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Packing+for+Mars+by+Mary+Roach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Packing for Mars on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Packing+for+Mars+by+Mary+Roach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Packing for Mars">Packing for Mars</a>
-        </h4>
-        <p class="fr-book-author">By Mary Roach</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Packing+for+Mars+by+Mary+Roach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Packing for Mars on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Packing+for+Mars+by+Mary+Roach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Packing for Mars">Packing for Mars</a>
+</h4>
+<p class="fr-book-author">By Mary Roach</p>
         
-        <p class="fr-book-desc">Explores the practical and biological complications of human space habitation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Packing+for+Mars+by+Mary+Roach&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores the practical and biological complications of human space habitation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Packing+for+Mars+by+Mary+Roach&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+City+on+Mars&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A City on Mars</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Human+Experiment&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Human Experiment</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Future+of+Humanity&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Future of Humanity</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+City+on+Mars&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A City on Mars</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Human+Experiment&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Human Experiment</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Future+of+Humanity&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Future of Humanity</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=terrarium+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-closed-ecosystem-experiments-got-wrong-terrarium-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="terrarium display" data-ebay-reference="what-closed-ecosystem-experiments-got-wrong-terrarium-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Elegant Glass House-Shaped Terrarium - 9.1&quot;L x 5.4&quot;W x 7.3&quot;H for Unique Displays"><img src="https://i.ebayimg.com/images/g/jAsAAeSwdCZqH0cF/s-l225.jpg" alt="Listing image for Elegant Glass House-Shaped Terrarium - 9.1&quot;L x 5.4&quot;W x 7.3&quot;H for Unique Displays" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=terrarium+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-closed-ecosystem-experiments-got-wrong-terrarium-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="terrarium display" data-ebay-reference="what-closed-ecosystem-experiments-got-wrong-terrarium-display" target="_blank" rel="sponsored noopener noreferrer">Elegant Glass House-Shaped Terrarium - 9.1&quot;L x 5.4&quot;W x 7.3&quot;H for Unique Displays</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=terrarium+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-closed-ecosystem-experiments-got-wrong-terrarium-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="terrarium display" data-ebay-reference="what-closed-ecosystem-experiments-got-wrong-terrarium-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for terrarium display">Search <span data-ebay-domain-label>eBay.co.uk</span>: terrarium display</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=terrarium+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-closed-ecosystem-experiments-got-wrong-terrarium-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="terrarium display" data-ebay-reference="what-closed-ecosystem-experiments-got-wrong-terrarium-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=terrarium+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-closed-ecosystem-experiments-got-wrong-terrarium-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="terrarium display" data-ebay-reference="what-closed-ecosystem-experiments-got-wrong-terrarium-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Elegant Glass House-Shaped Terrarium - 9.1&quot;L x 5.4&quot;W x 7.3&quot;H for Unique Displays"><img src="https://i.ebayimg.com/images/g/jAsAAeSwdCZqH0cF/s-l225.jpg" alt="Listing image for Elegant Glass House-Shaped Terrarium - 9.1&quot;L x 5.4&quot;W x 7.3&quot;H for Unique Displays" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=terrarium+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-closed-ecosystem-experiments-got-wrong-terrarium-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="terrarium display" data-ebay-reference="what-closed-ecosystem-experiments-got-wrong-terrarium-display" target="_blank" rel="sponsored noopener noreferrer">Elegant Glass House-Shaped Terrarium - 9.1&quot;L x 5.4&quot;W x 7.3&quot;H for Unique Displays</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=terrarium+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-closed-ecosystem-experiments-got-wrong-terrarium-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="terrarium display" data-ebay-reference="what-closed-ecosystem-experiments-got-wrong-terrarium-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for terrarium display">Search<span data-ebay-domain-label>eBay.co.uk</span>: terrarium display</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=terrarium+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-closed-ecosystem-experiments-got-wrong-terrarium-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="terrarium display" data-ebay-reference="what-closed-ecosystem-experiments-got-wrong-terrarium-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=terrarium+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-closed-ecosystem-experiments-got-wrong-terrarium-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="terrarium display" data-ebay-reference="what-closed-ecosystem-experiments-got-wrong-terrarium-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1970s Butterfly &amp; Artificial Flowers Terrarium Glass &amp; Wood Display Case"><img src="https://i.ebayimg.com/images/g/6S8AAeSwRzRpryl6/s-l225.jpg" alt="Listing image for Vintage 1970s Butterfly &amp; Artificial Flowers Terrarium Glass &amp; Wood Display Case" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=terrarium+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-closed-ecosystem-experiments-got-wrong-terrarium-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="terrarium display" data-ebay-reference="what-closed-ecosystem-experiments-got-wrong-terrarium-display" target="_blank" rel="sponsored noopener noreferrer">Vintage 1970s Butterfly &amp; Artificial Flowers Terrarium Glass &amp; Wood Display Case</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=terrarium+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-closed-ecosystem-experiments-got-wrong-terrarium-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="terrarium display" data-ebay-reference="what-closed-ecosystem-experiments-got-wrong-terrarium-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for terrarium display">Search <span data-ebay-domain-label>eBay.co.uk</span>: terrarium display</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=terrarium+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-closed-ecosystem-experiments-got-wrong-terrarium-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="terrarium display" data-ebay-reference="what-closed-ecosystem-experiments-got-wrong-terrarium-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=terrarium+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-closed-ecosystem-experiments-got-wrong-terrarium-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="terrarium display" data-ebay-reference="what-closed-ecosystem-experiments-got-wrong-terrarium-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1970s Butterfly &amp; Artificial Flowers Terrarium Glass &amp; Wood Display Case"><img src="https://i.ebayimg.com/images/g/6S8AAeSwRzRpryl6/s-l225.jpg" alt="Listing image for Vintage 1970s Butterfly &amp; Artificial Flowers Terrarium Glass &amp; Wood Display Case" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=terrarium+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-closed-ecosystem-experiments-got-wrong-terrarium-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="terrarium display" data-ebay-reference="what-closed-ecosystem-experiments-got-wrong-terrarium-display" target="_blank" rel="sponsored noopener noreferrer">Vintage 1970s Butterfly &amp; Artificial Flowers Terrarium Glass &amp; Wood Display Case</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=terrarium+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-closed-ecosystem-experiments-got-wrong-terrarium-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="terrarium display" data-ebay-reference="what-closed-ecosystem-experiments-got-wrong-terrarium-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for terrarium display">Search<span data-ebay-domain-label>eBay.co.uk</span>: terrarium display</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=terrarium+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-closed-ecosystem-experiments-got-wrong-terrarium-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="terrarium display" data-ebay-reference="what-closed-ecosystem-experiments-got-wrong-terrarium-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=terrarium+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-closed-ecosystem-experiments-got-wrong-terrarium-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="terrarium display" data-ebay-reference="what-closed-ecosystem-experiments-got-wrong-terrarium-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Glass &amp; Brass Triangular Terrarium/Display Case VGC"><img src="https://i.ebayimg.com/images/g/-oIAAeSwZklo~h6R/s-l225.jpg" alt="Listing image for Vintage Glass &amp; Brass Triangular Terrarium/Display Case VGC" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=terrarium+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-closed-ecosystem-experiments-got-wrong-terrarium-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="terrarium display" data-ebay-reference="what-closed-ecosystem-experiments-got-wrong-terrarium-display" target="_blank" rel="sponsored noopener noreferrer">Vintage Glass &amp; Brass Triangular Terrarium/Display Case VGC</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=terrarium+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-closed-ecosystem-experiments-got-wrong-terrarium-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="terrarium display" data-ebay-reference="what-closed-ecosystem-experiments-got-wrong-terrarium-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for terrarium display">Search <span data-ebay-domain-label>eBay.co.uk</span>: terrarium display</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=terrarium+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-closed-ecosystem-experiments-got-wrong-terrarium-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="terrarium display" data-ebay-reference="what-closed-ecosystem-experiments-got-wrong-terrarium-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=terrarium+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-closed-ecosystem-experiments-got-wrong-terrarium-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="terrarium display" data-ebay-reference="what-closed-ecosystem-experiments-got-wrong-terrarium-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Glass &amp; Brass Triangular Terrarium/Display Case VGC"><img src="https://i.ebayimg.com/images/g/-oIAAeSwZklo~h6R/s-l225.jpg" alt="Listing image for Vintage Glass &amp; Brass Triangular Terrarium/Display Case VGC" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=terrarium+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-closed-ecosystem-experiments-got-wrong-terrarium-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="terrarium display" data-ebay-reference="what-closed-ecosystem-experiments-got-wrong-terrarium-display" target="_blank" rel="sponsored noopener noreferrer">Vintage Glass &amp; Brass Triangular Terrarium/Display Case VGC</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=terrarium+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-closed-ecosystem-experiments-got-wrong-terrarium-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="terrarium display" data-ebay-reference="what-closed-ecosystem-experiments-got-wrong-terrarium-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for terrarium display">Search<span data-ebay-domain-label>eBay.co.uk</span>: terrarium display</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=terrarium+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-closed-ecosystem-experiments-got-wrong-terrarium-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="terrarium display" data-ebay-reference="what-closed-ecosystem-experiments-got-wrong-terrarium-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=terrarium+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-closed-ecosystem-experiments-got-wrong-terrarium-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="terrarium display" data-ebay-reference="what-closed-ecosystem-experiments-got-wrong-terrarium-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Round Glass Dome Cloche Terrarium Display Case with Wood Base DIY Decoration"><img src="https://i.ebayimg.com/images/g/HEwAAeSw~7JqGkDb/s-l225.jpg" alt="Listing image for Round Glass Dome Cloche Terrarium Display Case with Wood Base DIY Decoration" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=terrarium+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-closed-ecosystem-experiments-got-wrong-terrarium-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="terrarium display" data-ebay-reference="what-closed-ecosystem-experiments-got-wrong-terrarium-display" target="_blank" rel="sponsored noopener noreferrer">Round Glass Dome Cloche Terrarium Display Case with Wood Base DIY Decoration</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=terrarium+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-closed-ecosystem-experiments-got-wrong-terrarium-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="terrarium display" data-ebay-reference="what-closed-ecosystem-experiments-got-wrong-terrarium-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for terrarium display">Search <span data-ebay-domain-label>eBay.co.uk</span>: terrarium display</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=terrarium+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-closed-ecosystem-experiments-got-wrong-terrarium-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="terrarium display" data-ebay-reference="what-closed-ecosystem-experiments-got-wrong-terrarium-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=terrarium+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-closed-ecosystem-experiments-got-wrong-terrarium-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="terrarium display" data-ebay-reference="what-closed-ecosystem-experiments-got-wrong-terrarium-display" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=terrarium+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-closed-ecosystem-experiments-got-wrong-terrarium-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="terrarium display" data-ebay-reference="what-closed-ecosystem-experiments-got-wrong-terrarium-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Round Glass Dome Cloche Terrarium Display Case with Wood Base DIY Decoration"><img src="https://i.ebayimg.com/images/g/HEwAAeSw~7JqGkDb/s-l225.jpg" alt="Listing image for Round Glass Dome Cloche Terrarium Display Case with Wood Base DIY Decoration" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=terrarium+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-closed-ecosystem-experiments-got-wrong-terrarium-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="terrarium display" data-ebay-reference="what-closed-ecosystem-experiments-got-wrong-terrarium-display" target="_blank" rel="sponsored noopener noreferrer">Round Glass Dome Cloche Terrarium Display Case with Wood Base DIY Decoration</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=terrarium+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-closed-ecosystem-experiments-got-wrong-terrarium-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="terrarium display" data-ebay-reference="what-closed-ecosystem-experiments-got-wrong-terrarium-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for terrarium display">Search<span data-ebay-domain-label>eBay.co.uk</span>: terrarium display</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=terrarium+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-closed-ecosystem-experiments-got-wrong-terrarium-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="terrarium display" data-ebay-reference="what-closed-ecosystem-experiments-got-wrong-terrarium-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=terrarium+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-closed-ecosystem-experiments-got-wrong-terrarium-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="terrarium display" data-ebay-reference="what-closed-ecosystem-experiments-got-wrong-terrarium-display" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -630,7 +630,7 @@ BIOS-3 suggested that carefully constrained biological life support can work. Bi
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -650,7 +650,7 @@ BIOS-3 suggested that carefully constrained biological life support can work. Bi
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -682,7 +682,7 @@ BIOS-3 suggested that carefully constrained biological life support can work. Bi
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -734,7 +734,7 @@ BIOS-3 suggested that carefully constrained biological life support can work. Bi
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -779,7 +779,7 @@ BIOS-3 suggested that carefully constrained biological life support can work. Bi
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -820,171 +820,171 @@ BIOS-3 suggested that carefully constrained biological life support can work. Bi
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: core.ac.uk  
-   Link: <a href="https://core.ac.uk/download/pdf/38632677.pdf" target="_blank" rel="noopener noreferrer nofollow">https://core.ac.uk/download/pdf/38632677.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Creation of Closed Ecological Life Support SystemsFebruary 4, 2008 — by II Gitelsona · 2008 · Cited by 25 — Bios-3 was the first to m...</p></details>
+   Link:<a href="https://core.ac.uk/download/pdf/38632677.pdf" target="_blank" rel="noopener noreferrer nofollow">https://core.ac.uk/download/pdf/38632677.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Creation of Closed Ecological Life Support SystemsFebruary 4, 2008 — by II Gitelsona · 2008 · Cited by 25 — Bios-3 was the first to m...</p></details>
    Published: February 4, 2008  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Biosphere 2  
-   Link: <a href="https://en.wikipedia.org/wiki/Biosphere_2" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Biosphere_2</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Biosphere_2" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Biosphere_2</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0925857498000913" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0925857498000913</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Overview of the Biosphere 2 closed systemby B Zabel · 1999 · Cited by 66 — In this paper we emphasize material selection, super-structure...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0925857498000913" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0925857498000913</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Overview of the Biosphere 2 closed systemby B Zabel · 1999 · Cited by 66 — In this paper we emphasize material selection, super-structure...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: sciencedirect.com  
    Title: ScienceDirect Biosphere 2  
-   Link: <a href="https://www.sciencedirect.com/topics/earth-and-planetary-sciences/biosphere-2" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/earth-and-planetary-sciences/biosphere-2</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Biosphere 2 - an overviewDuring the first human experiment oxygen concentration in the atmosphere decreased dramatically bec...</p></details>
+   Link:<a href="https://www.sciencedirect.com/topics/earth-and-planetary-sciences/biosphere-2" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/earth-and-planetary-sciences/biosphere-2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Biosphere 2 - an overviewDuring the first human experiment oxygen concentration in the atmosphere decreased dramatically bec...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Biosphere" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Biosphere</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>BiosphereThe biosphere is the global ecological system integrating all living beings and their relationships, including their interact...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Biosphere" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Biosphere</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BiosphereThe biosphere is the global ecological system integrating all living beings and their relationships, including their interact...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: biosphere2.org  
-   Link: <a href="https://biosphere2.org/sites/default/files/2021-08/B21216_Press_02_Discover02lo.pdf" target="_blank" rel="noopener noreferrer nofollow">https://biosphere2.org/sites/default/files/2021-08/B21216_Press_02_Discover02lo.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Life under the bubbleAs oxygen was converted to carbon dioxide, free oxygen in the atmo- sphere declined. By January 1993, Biosphere 2&#x27;s...</p></details>
+   Link:<a href="https://biosphere2.org/sites/default/files/2021-08/B21216_Press_02_Discover02lo.pdf" target="_blank" rel="noopener noreferrer nofollow">https://biosphere2.org/sites/default/files/2021-08/B21216_Press_02_Discover02lo.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Life under the bubbleAs oxygen was converted to carbon dioxide, free oxygen in the atmo- sphere declined. By January 1993, Biosphere 2&#x27;s...</p></details>
    Published: January 1993  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: biosphere2.org  
-   Link: <a href="https://biosphere2.org/" target="_blank" rel="noopener noreferrer nofollow">https://biosphere2.org/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>nforest stop absorbing more carbon dioxide from the air...Read more...</p></details>
+   Link:<a href="https://biosphere2.org/" target="_blank" rel="noopener noreferrer nofollow">https://biosphere2.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nforest stop absorbing more carbon dioxide from the air...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: biosphere2.org  
-   Link: <a href="https://biosphere2.org/research/research-initiatives/tropical-rain-forest" target="_blank" rel="noopener noreferrer nofollow">https://biosphere2.org/research/research-initiatives/tropical-rain-forest</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Tropical Rain ForestWe will place particular focus on diverse volatile and nonvolatile carbon metabolites, their role in plant and microb...</p></details>
+   Link:<a href="https://biosphere2.org/research/research-initiatives/tropical-rain-forest" target="_blank" rel="noopener noreferrer nofollow">https://biosphere2.org/research/research-initiatives/tropical-rain-forest</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tropical Rain ForestWe will place particular focus on diverse volatile and nonvolatile carbon metabolites, their role in plant and microb...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: biosphere2.org  
-   Link: <a href="https://biosphere2.org/sites/default/files/2021-08/B21307_Press_History02lo.pdf" target="_blank" rel="noopener noreferrer nofollow">https://biosphere2.org/sites/default/files/2021-08/B21307_Press_History02lo.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>An experiment in place and timeThe main factor contributing to a dramatic imbalance in oxygen and carbon dioxide was the abundant microbe...</p></details>
+   Link:<a href="https://biosphere2.org/sites/default/files/2021-08/B21307_Press_History02lo.pdf" target="_blank" rel="noopener noreferrer nofollow">https://biosphere2.org/sites/default/files/2021-08/B21307_Press_History02lo.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An experiment in place and timeThe main factor contributing to a dramatic imbalance in oxygen and carbon dioxide was the abundant microbe...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0273117703001030" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0273117703001030</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The legacy of biosphere 2 for the study...by JP Allen · 2003 · Cited by 75 — Medical research inside Biosphere 2 included the effects on...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0273117703001030" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0273117703001030</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The legacy of biosphere 2 for the study...by JP Allen · 2003 · Cited by 75 — Medical research inside Biosphere 2 included the effects on...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S027311770301202X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S027311770301202X</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Light is from 12,000 W of high pressure sodium lamps over planting...Rea...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S027311770301202X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S027311770301202X</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Light is from 12,000 W of high pressure sodium lamps over planting...Rea...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0016328718303045" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0016328718303045</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>m...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0016328718303045" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0016328718303045</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>m...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0273117713001725" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0273117713001725</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Key ecological challenges for closed systems facilitiesby M Nelson · 2013 · Cited by 38 — These challenges include being able to handle f...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0273117713001725" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0273117713001725</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Key ecological challenges for closed systems facilitiesby M Nelson · 2013 · Cited by 38 — These challenges include being able to handle f...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: uapress.arizona.edu  
    Title: what have i gotten myself into insights from biosphere 2  
-   Link: <a href="https://uapress.arizona.edu/2018/01/what-have-i-gotten-myself-into-insights-from-biosphere-2" target="_blank" rel="noopener noreferrer nofollow">https://uapress.arizona.edu/2018/01/what-have-i-gotten-myself-into-insights-from-biosphere-2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Insights from Biosphere 2Jan 4, 2018 — B1 is our planet&#x27;s life support system. Biosphere 2 was built to study how biospheres work, creati...</p></details>
+   Link:<a href="https://uapress.arizona.edu/2018/01/what-have-i-gotten-myself-into-insights-from-biosphere-2" target="_blank" rel="noopener noreferrer nofollow">https://uapress.arizona.edu/2018/01/what-have-i-gotten-myself-into-insights-from-biosphere-2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Insights from Biosphere 2Jan 4, 2018 — B1 is our planet&#x27;s life support system. Biosphere 2 was built to study how biospheres work, creati...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: science.org  
-   Link: <a href="https://www.science.org/doi/10.1126/science.274.5290.1150" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/science.274.5290.1150</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Biosphere 2 and Biodiversity--The Lessons So FarBy January 1993, 1.4 years after material closure of Biosphere 2, the oxygen conce...</p></details>
+   Link:<a href="https://www.science.org/doi/10.1126/science.274.5290.1150" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/science.274.5290.1150</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Biosphere 2 and Biodiversity--The Lessons So FarBy January 1993, 1.4 years after material closure of Biosphere 2, the oxygen conce...</p></details>
    Published: January 1993  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: publish.obsidian.md  
    Title: Biosphere 2  
-   Link: <a href="https://publish.obsidian.md/disruptively-useful/The%2BHeat%2BStrikes/Civil%2BResistance/Case%2BStudies/Biosphere%2B2" target="_blank" rel="noopener noreferrer nofollow">https://publish.obsidian.md/disruptively-useful/The%2BHeat%2BStrikes/Civil%2BResistance/Case%2BStudies/Biosphere%2B2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2 - disruptively-usefulThe cause—excessive oxygen consumption by microbes—showed how difficult it is to balance all components of a close...</p></details>
+   Link:<a href="https://publish.obsidian.md/disruptively-useful/The%2BHeat%2BStrikes/Civil%2BResistance/Case%2BStudies/Biosphere%2B2" target="_blank" rel="noopener noreferrer nofollow">https://publish.obsidian.md/disruptively-useful/The%2BHeat%2BStrikes/Civil%2BResistance/Case%2BStudies/Biosphere%2B2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2 - disruptively-usefulThe cause—excessive oxygen consumption by microbes—showed how difficult it is to balance all components of a close...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: spj.science.org  
-   Link: <a href="https://spj.science.org/doi/10.34133/2021/8067539" target="_blank" rel="noopener noreferrer nofollow">https://spj.science.org/doi/10.34133/2021/8067539</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Science AdvancesBiosphere 2&#x27;s Lessons about Living on Earth and in SpaceBiosphere 2 was important as a first step towards learning how to...</p></details>
+   Link:<a href="https://spj.science.org/doi/10.34133/2021/8067539" target="_blank" rel="noopener noreferrer nofollow">https://spj.science.org/doi/10.34133/2021/8067539</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Science AdvancesBiosphere 2&#x27;s Lessons about Living on Earth and in SpaceBiosphere 2 was important as a first step towards learning how to...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: mynasadata.larc.nasa.gov  
    Title: about biosphere  
-   Link: <a href="https://mynasadata.larc.nasa.gov/basic-page/about-biosphere" target="_blank" rel="noopener noreferrer nofollow">https://mynasadata.larc.nasa.gov/basic-page/about-biosphere</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Biosphere | MyNASADataThe Biosphere includes all life on Earth including life living on the Earth&#x27;s Geosphere and in Hydrosphere, inc...</p></details>
+   Link:<a href="https://mynasadata.larc.nasa.gov/basic-page/about-biosphere" target="_blank" rel="noopener noreferrer nofollow">https://mynasadata.larc.nasa.gov/basic-page/about-biosphere</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Biosphere | MyNASADataThe Biosphere includes all life on Earth including life living on the Earth&#x27;s Geosphere and in Hydrosphere, inc...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: wired.com  
-   Link: <a href="https://www.wired.com/2004/12/biosphere/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2004/12/biosphere/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>10 Lessons from Biosphere 21 Dec 2004 — One lesson: Don&#x27;t use concrete. It sucks up CO2, which plants need to produce oxygen. 5. Long spa...</p></details>
+   Link:<a href="https://www.wired.com/2004/12/biosphere/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2004/12/biosphere/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>10 Lessons from Biosphere 21 Dec 2004 — One lesson: Don&#x27;t use concrete. It sucks up CO2, which plants need to produce oxygen. 5. Long spa...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: edgeeffects.net  
    Title: biosphere 2  
-   Link: <a href="https://edgeeffects.net/biosphere-2/" target="_blank" rel="noopener noreferrer nofollow">https://edgeeffects.net/biosphere-2/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why an Eccentric Ecological Experiment Still...Dec 15, 2016 — Crucial lessons were learned about how to engineer large closed systems (t...</p></details>
+   Link:<a href="https://edgeeffects.net/biosphere-2/" target="_blank" rel="noopener noreferrer nofollow">https://edgeeffects.net/biosphere-2/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why an Eccentric Ecological Experiment Still...Dec 15, 2016 — Crucial lessons were learned about how to engineer large closed systems (t...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: thewonderofscience.com  
    Title: biosphere 2  
-   Link: <a href="https://thewonderofscience.com/phenomenon/2018/6/10/biosphere-2" target="_blank" rel="noopener noreferrer nofollow">https://thewonderofscience.com/phenomenon/2018/6/10/biosphere-2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>10 Jun 2018 — Plants in the biosphere produced oxygen and food for the inhabitants. The carbon dioxide released during respiration was ta...</p></details>
+   Link:<a href="https://thewonderofscience.com/phenomenon/2018/6/10/biosphere-2" target="_blank" rel="noopener noreferrer nofollow">https://thewonderofscience.com/phenomenon/2018/6/10/biosphere-2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>10 Jun 2018 — Plants in the biosphere produced oxygen and food for the inhabitants. The carbon dioxide released during respiration was ta...</p></details>
 
 ### Additional References
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/242368741_Lessons_Learned_from_Biosphere_2_and_Laboratory_Biosphere_Closed_Systems_Experiments_for_the_Mars_On_Earth_Project" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/242368741_Lessons_Learned_from_Biosphere_2_and_Laboratory_Biosphere_Closed_Systems_Experiments_for_the_Mars_On_Earth_Project</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Lessons Learned from Biosphere 2 and Laboratory...10 Aug 2025 — Key features selected for the Mars On Earth® life support system b...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/242368741_Lessons_Learned_from_Biosphere_2_and_Laboratory_Biosphere_Closed_Systems_Experiments_for_the_Mars_On_Earth_Project" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/242368741_Lessons_Learned_from_Biosphere_2_and_Laboratory_Biosphere_Closed_Systems_Experiments_for_the_Mars_On_Earth_Project</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Lessons Learned from Biosphere 2 and Laboratory...10 Aug 2025 — Key features selected for the Mars On Earth® life support system b...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/isaacarthur/posts/1990739461229253/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/isaacarthur/posts/1990739461229253/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lessons from Biosphere 2 for space habitatsAt first, the researchers could not track down the excess carbon dioxide those microbes should...</p></details>
+   Link:<a href="https://www.facebook.com/groups/isaacarthur/posts/1990739461229253/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/isaacarthur/posts/1990739461229253/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lessons from Biosphere 2 for space habitatsAt first, the researchers could not track down the excess carbon dioxide those microbes should...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: simoc.space  
-   Link: <a href="https://simoc.space/wp-content/uploads/2023/05/SIMOC-B2_Lesson_Plans.pdf" target="_blank" rel="noopener noreferrer nofollow">https://simoc.space/wp-content/uploads/2023/05/SIMOC-B2_Lesson_Plans.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>B2 Lesson PlansMicroorganisms in the soil consumed more O2 and produced more CO2 than expected. 2. Concrete Carbonation. Concrete c...</p></details>
+   Link:<a href="https://simoc.space/wp-content/uploads/2023/05/SIMOC-B2_Lesson_Plans.pdf" target="_blank" rel="noopener noreferrer nofollow">https://simoc.space/wp-content/uploads/2023/05/SIMOC-B2_Lesson_Plans.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>B2 Lesson PlansMicroorganisms in the soil consumed more O2 and produced more CO2 than expected. 2. Concrete Carbonation. Concrete c...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: jstage.jst.go.jp  
-   Link: <a href="https://www.jstage.jst.go.jp/article/bss/19/4/19_4_250/_article" target="_blank" rel="noopener noreferrer nofollow">https://www.jstage.jst.go.jp/article/bss/19/4/19_4_250/_article</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Learned from Biosphere 2 and Laboratory...The overall design will address not only the functional requirements for maintaining long term...</p></details>
+   Link:<a href="https://www.jstage.jst.go.jp/article/bss/19/4/19_4_250/_article" target="_blank" rel="noopener noreferrer nofollow">https://www.jstage.jst.go.jp/article/bss/19/4/19_4_250/_article</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Learned from Biosphere 2 and Laboratory...The overall design will address not only the functional requirements for maintaining long term...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: bpsscience.weebly.com  
    Title: 8 biosphere 2 an experiment in isolation (populations and ecosystems – sy16)  
-   Link: <a href="https://bpsscience.weebly.com/uploads/2/2/1/3/2213712/8_biosphere_2_-_an_experiment_in_isolation_%28populations_and_ecosystems_%E2%80%93_sy16%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bpsscience.weebly.com/uploads/2/2/1/3/2213712/8_biosphere_2_-_an_experiment_in_isolation_%28populations_and_ecosystems_%E2%80%93_sy16%29.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2: An Experiment In IsolationWhere was the oxygen going? Analysis revealed that the soil in Biosphere. 2 was too rich in organic matter...</p></details>
+   Link:<a href="https://bpsscience.weebly.com/uploads/2/2/1/3/2213712/8_biosphere_2_-_an_experiment_in_isolation_%28populations_and_ecosystems_%E2%80%93_sy16%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bpsscience.weebly.com/uploads/2/2/1/3/2213712/8_biosphere_2_-_an_experiment_in_isolation_%28populations_and_ecosystems_%E2%80%93_sy16%29.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2: An Experiment In IsolationWhere was the oxygen going? Analysis revealed that the soil in Biosphere. 2 was too rich in organic matter...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: universetoday.com  
    Title: space and sustainability how the lessons of b2 inspired samc2b2  
-   Link: <a href="https://www.universetoday.com/articles/space-and-sustainability-how-the-lessons-of-b2-inspired-samc2b2" target="_blank" rel="noopener noreferrer nofollow">https://www.universetoday.com/articles/space-and-sustainability-how-the-lessons-of-b2-inspired-samc2b2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Space and Sustainability: How the Lessons of Biosphere 2...27 Jan 2021 — By 1968, BIOS-3 reached a system efficiency of 99% in terms of...</p></details>
+   Link:<a href="https://www.universetoday.com/articles/space-and-sustainability-how-the-lessons-of-b2-inspired-samc2b2" target="_blank" rel="noopener noreferrer nofollow">https://www.universetoday.com/articles/space-and-sustainability-how-the-lessons-of-b2-inspired-samc2b2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Space and Sustainability: How the Lessons of Biosphere 2...27 Jan 2021 — By 1968, BIOS-3 reached a system efficiency of 99% in terms of...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/14503500/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/14503500/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>legacy of Biosphere 2 for the study...by JP Allen · 2003 · Cited by 75 — The many lessons learned from Biosphere 2 are being used by its...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/14503500/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/14503500/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>legacy of Biosphere 2 for the study...by JP Allen · 2003 · Cited by 75 — The many lessons learned from Biosphere 2 are being used by its...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: ryestrategy.com  
-   Link: <a href="https://www.ryestrategy.com/blog/biosphere-2-learning-from-failure" target="_blank" rel="noopener noreferrer nofollow">https://www.ryestrategy.com/blog/biosphere-2-learning-from-failure</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>xide at a much faster rate. This resulted in...Read more...</p></details>
+   Link:<a href="https://www.ryestrategy.com/blog/biosphere-2-learning-from-failure" target="_blank" rel="noopener noreferrer nofollow">https://www.ryestrategy.com/blog/biosphere-2-learning-from-failure</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>xide at a much faster rate. This resulted in...Read more...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: [education](&#123;&#123; 'education/' | relative_url &#125;&#125;). nationalgeographic.org  
-   Link: <a href="https://education.nationalgeographic.org/resource/biosphere/" target="_blank" rel="noopener noreferrer nofollow">https://education.nationalgeographic.org/resource/biosphere/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Geographic EducationAug 19, 2025 — The biosphere is made up of the parts of Earth where life exists—all ecosystems...</p></details>
+   Link:<a href="https://education.nationalgeographic.org/resource/biosphere/" target="_blank" rel="noopener noreferrer nofollow">https://education.nationalgeographic.org/resource/biosphere/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Geographic EducationAug 19, 2025 — The biosphere is made up of the parts of Earth where life exists—all ecosystems...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: reddit.com  
    Title: They didn't need to add oxygen because it failed.Read more  
-   Link: <a href="https://www.reddit.com/r/todayilearned/comments/vr6l92/til_biosphere_2_was_a_closed_ecological_system/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/vr6l92/til_biosphere_2_was_a_closed_ecological_system/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>TIL &quot;Biosphere 2&quot; was a closed ecological system which...Biosphere 2 failed because it couldn&#x27;t produce enough, oxygen, food, and water...</p></details>
+   Link:<a href="https://www.reddit.com/r/todayilearned/comments/vr6l92/til_biosphere_2_was_a_closed_ecological_system/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/vr6l92/til_biosphere_2_was_a_closed_ecological_system/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>TIL &quot;Biosphere 2&quot; was a closed ecological system which...Biosphere 2 failed because it couldn&#x27;t produce enough, oxygen, food, and water...</p></details>

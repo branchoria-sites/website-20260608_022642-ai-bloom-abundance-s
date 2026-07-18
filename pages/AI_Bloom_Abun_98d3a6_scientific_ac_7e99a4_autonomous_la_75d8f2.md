@@ -287,7 +287,7 @@ Robot laboratories are one of the most ambitious versions of the scientific acce
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_autonomous_la_75d8f2-Illustration-1-dark.svg" | relative_url }}" alt="Robot labs illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_autonomous_la_75d8f2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_autonomous_la_75d8f2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That possibility matters to the broader AI bloom idea because science is often constrained less by imagination than by experimental throughput. Researchers can generate huge numbers of potential drugs, materials or biological hypotheses, but testing them remains slow, expensive and labour-intensive. Autonomous labs aim to attack that bottleneck directly.
 
-Yet the most important question is not whether a robot can run many experiments. It is whether the resulting discoveries are real. The debate around the A-Lab autonomous materials project became a useful stress test for the field because it exposed a central issue: scientific acceleration only counts if other scientists can reproduce and verify the results. Impressive candidate counts, AI-generated recipes and automated workflows are not substitutes for proof. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-023-06734-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">An autonomous laboratory for the accelerated synthesis of...29 Nov 2023 — We introduce the A-Lab, an autonomous laboratory for the...</span></span></span>
+Yet the most important question is not whether a robot can run many experiments. It is whether the resulting discoveries are real. The debate around the A-Lab autonomous materials project became a useful stress test for the field because it exposed a central issue: scientific acceleration only counts if other scientists can reproduce and verify the results. Impressive candidate counts, AI-generated recipes and automated workflows are not substitutes for proof.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-023-06734-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">An autonomous laboratory for the accelerated synthesis of...29 Nov 2023 — We introduce the A-Lab, an autonomous laboratory for the...</span></span></span>
 
 ## How closed-loop labs try to speed discovery
 
@@ -305,7 +305,7 @@ Autonomous or "self-driving" laboratories try to turn this into a closed-loop sy
 
 </div>
 
-The goal is not merely automation but optimisation. Rather than exploring possibilities randomly, the system attempts to learn where the most informative experiments are likely to be. Researchers often describe this as active learning: the machine chooses experiments partly to improve its own understanding. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubs.acs.org/doi/10.1021/acs.chemrev.4c00055" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubs.acs.org">[ACS Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubs.acs.org</span><span class="citation-popover-snippet">ACS PublicationsSelf-Driving Laboratories for Chemistry and Materials Scienceby G Tom · 2024 · Cited by 715 — As such, autonomous synthes...</span></span></span> 2arXiv
+The goal is not merely automation but optimisation. Rather than exploring possibilities randomly, the system attempts to learn where the most informative experiments are likely to be. Researchers often describe this as active learning: the machine chooses experiments partly to improve its own understanding.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubs.acs.org/doi/10.1021/acs.chemrev.4c00055" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubs.acs.org">[ACS Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubs.acs.org</span><span class="citation-popover-snippet">ACS PublicationsSelf-Driving Laboratories for Chemistry and Materials Scienceby G Tom · 2024 · Cited by 715 — As such, autonomous synthes...</span></span></span> 2arXiv
 
 Supporters argue that this could transform areas such as materials science, battery chemistry, catalysts, drug development and synthetic biology. Many scientific fields involve enormous search spaces. A new battery material, for example, might be chosen from millions or billions of possible combinations. Human intuition alone cannot efficiently explore all of them.
 
@@ -313,11 +313,11 @@ This is why autonomous labs occupy a distinctive place in the scientific acceler
 
 ## What the A-Lab case appeared to show
 
-One of the most widely discussed examples arrived in 2023 with the publication of A-Lab, an autonomous laboratory developed by researchers associated with Lawrence Berkeley National Laboratory and collaborators. The system combined computational screening, machine learning, literature-based recipe generation, [robotics]({{ 'robotics/' | relative_url }}) and automated analysis to synthesise inorganic materials. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/d41586-023-03956-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Robot chemist sparks row with claim it created new materials12 Dec 2023 — Researchers question whether an AI-controlled lab assistant act...</span></span></span>
+One of the most widely discussed examples arrived in 2023 with the publication of A-Lab, an autonomous laboratory developed by researchers associated with Lawrence Berkeley National Laboratory and collaborators. The system combined computational screening, machine learning, literature-based recipe generation, [robotics]({{ 'robotics/' | relative_url }}) and automated analysis to synthesise inorganic materials.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/d41586-023-03956-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Robot chemist sparks row with claim it created new materials12 Dec 2023 — Researchers question whether an AI-controlled lab assistant act...</span></span></span>
 
-The headline result was striking. According to the Nature paper, the system operated continuously for 17 days and successfully realised dozens of target materials from a larger candidate set. The work was presented as evidence that AI-guided autonomous experimentation could help close the gap between theoretical predictions and real-world synthesis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-026-10482-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Autonomous closed-loop framework for reproducible...by D Gao · 2026 — This work establishes an automated closed-loop system that s...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/376043973_An_autonomous_laboratory_for_the_accelerated_synthesis_of_inorganic_materials" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">An autonomous laboratory for the accelerated synthesis of...29 Nov 2023 — Over 17 days of continuous operation, the A-Lab realized 36 co...</span></span></span>
+The headline result was striking. According to the Nature paper, the system operated continuously for 17 days and successfully realised dozens of target materials from a larger candidate set. The work was presented as evidence that AI-guided autonomous experimentation could help close the gap between theoretical predictions and real-world synthesis.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-026-10482-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Autonomous closed-loop framework for reproducible...by D Gao · 2026 — This work establishes an automated closed-loop system that s...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/376043973_An_autonomous_laboratory_for_the_accelerated_synthesis_of_inorganic_materials" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">An autonomous laboratory for the accelerated synthesis of...29 Nov 2023 — Over 17 days of continuous operation, the A-Lab realized 36 co...</span></span></span>
 
-The timing also mattered. Around the same period, Google DeepMind's GNoME project reported hundreds of thousands of predicted stable materials. A-Lab seemed to provide a partial answer to an obvious criticism: prediction is easy compared with actually making something. If AI could both suggest new materials and rapidly synthesise them, scientific discovery might begin operating at a fundamentally different scale. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/an-ai-dreamed-up-380000-new-materials-the-next-challenge-is-making-them" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Google Deep Mind&#x27;s AI Dreamed Up 380,000 New Materials</span><span class="citation-popover-snippet">The Next Challenge Is Making ThemNovember 29, 2023 — Google DeepMind developed an AI program, GNoME, which has predicted 380,000 new stab...</span><span class="citation-popover-meta">Published: November 29, 2023</span></span></span>
+The timing also mattered. Around the same period, Google DeepMind's GNoME project reported hundreds of thousands of predicted stable materials. A-Lab seemed to provide a partial answer to an obvious criticism: prediction is easy compared with actually making something. If AI could both suggest new materials and rapidly synthesise them, scientific discovery might begin operating at a fundamentally different scale.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/an-ai-dreamed-up-380000-new-materials-the-next-challenge-is-making-them" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Google Deep Mind&#x27;s AI Dreamed Up 380,000 New Materials</span><span class="citation-popover-snippet">The Next Challenge Is Making ThemNovember 29, 2023 — Google DeepMind developed an AI program, GNoME, which has predicted 380,000 new stab...</span><span class="citation-popover-meta">Published: November 29, 2023</span></span></span>
 
 For advocates of long-run AI-enabled abundance, this looked like an early glimpse of a larger possibility. Instead of waiting years for experimental follow-up, autonomous systems could potentially test ideas continuously. New batteries, catalysts, superconductors, solar materials and manufacturing processes might emerge faster than traditional research cycles allow.
 
@@ -329,7 +329,7 @@ The excitement was not simply about robotics. It was about the possibility that 
 
 The A-Lab paper quickly attracted scrutiny from other materials scientists. Critics argued that the most important claim was not whether the robots functioned, but whether the reported materials were genuinely new discoveries.
 
-Several researchers examined the reported compounds and argued that many had already been described in prior scientific literature or databases. In early 2024, a published critique concluded that the evidence did not support the claim that the system had discovered dozens of novel materials. Critics argued that the materials were often known compounds synthesised through automated methods rather than previously unknown substances. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.chemistryworld.com/news/new-analysis-raises-doubts-over-autonomous-labs-materials-discoveries/4018791.article" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chemistryworld.com">[Chemistry World]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chemistryworld.com</span><span class="citation-popover-snippet">Chemistry WorldNew analysis raises doubts over autonomous lab&#x27;s...16 Jan 2024 — A critique of a paper published in Nature last year, whi...</span></span></span>
+Several researchers examined the reported compounds and argued that many had already been described in prior scientific literature or databases. In early 2024, a published critique concluded that the evidence did not support the claim that the system had discovered dozens of novel materials. Critics argued that the materials were often known compounds synthesised through automated methods rather than previously unknown substances.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.chemistryworld.com/news/new-analysis-raises-doubts-over-autonomous-labs-materials-discoveries/4018791.article" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chemistryworld.com">[Chemistry World]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chemistryworld.com</span><span class="citation-popover-snippet">Chemistry WorldNew analysis raises doubts over autonomous lab&#x27;s...16 Jan 2024 — A critique of a paper published in Nature last year, whi...</span></span></span>
 
 The dispute became unusually visible because the paper sat at the intersection of several fast-moving fields: AI, automation, materials science and scientific publishing. Questions that might otherwise have remained technical suddenly became part of a larger debate about how AI achievements are evaluated.
 
@@ -371,7 +371,7 @@ For autonomous laboratories, the crucial questions become:
 
 If the answer is no, then apparent acceleration may simply create larger piles of unverified claims.
 
-This is why many researchers increasingly frame autonomous laboratories as data-quality systems rather than discovery machines. The most valuable outcome may not be a single dramatic breakthrough but a steady stream of standardised, reproducible experimental evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-026-10265-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Towards end-to-end automation of AI researchby C Lu · 2026 · Cited by 38 — We present The AI Scientist, which creates research ideas, wri...</span></span></span>
+This is why many researchers increasingly frame autonomous laboratories as data-quality systems rather than discovery machines. The most valuable outcome may not be a single dramatic breakthrough but a steady stream of standardised, reproducible experimental evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-026-10265-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Towards end-to-end automation of AI researchby C Lu · 2026 · Cited by 38 — We present The AI Scientist, which creates research ideas, wri...</span></span></span>
 
 In that sense, the proof problem is not an obstacle to scientific acceleration. It is the central requirement.
 
@@ -402,14 +402,14 @@ But the A-Lab controversy demonstrated that even this stage contains multiple la
 
 A system may succeed at one stage and fail at another.
 
-This helps explain why many experts remain simultaneously excited and cautious. The ability to run experiments continuously is genuinely important. Yet the history of science suggests that verification often scales more slowly than generation. AI may accelerate the creation of hypotheses much faster than it accelerates the process of proving which hypotheses are true. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/an-ai-dreamed-up-380000-new-materials-the-next-challenge-is-making-them" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Google Deep Mind&#x27;s AI Dreamed Up 380,000 New Materials</span><span class="citation-popover-snippet">The Next Challenge Is Making ThemNovember 29, 2023 — Google DeepMind developed an AI program, GNoME, which has predicted 380,000 new stab...</span><span class="citation-popover-meta">Published: November 29, 2023</span></span></span>
+This helps explain why many experts remain simultaneously excited and cautious. The ability to run experiments continuously is genuinely important. Yet the history of science suggests that verification often scales more slowly than generation. AI may accelerate the creation of hypotheses much faster than it accelerates the process of proving which hypotheses are true.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/an-ai-dreamed-up-380000-new-materials-the-next-challenge-is-making-them" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Google Deep Mind&#x27;s AI Dreamed Up 380,000 New Materials</span><span class="citation-popover-snippet">The Next Challenge Is Making ThemNovember 29, 2023 — Google DeepMind developed an AI program, GNoME, which has predicted 380,000 new stab...</span><span class="citation-popover-meta">Published: November 29, 2023</span></span></span>
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_autonomous_la_75d8f2-Illustration-3-dark.svg" | relative_url }}" alt="Robot labs illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_autonomous_la_75d8f2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_autonomous_la_75d8f2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What success would actually look like
 
 The strongest version of the autonomous-lab vision is not a machine that claims thousands of discoveries every week. It is a system that produces trusted knowledge faster.
 
-Several newer projects increasingly emphasise this point. Researchers working on self-driving laboratories now often focus on closed-loop [validation]({{ 'validation/' | relative_url }}), standardised workflows, uncertainty estimation and reproducibility metrics rather than headline discovery counts alone. Some recent autonomous systems explicitly report gains in experimental consistency and repeatability, arguing that automation can reduce human variability rather than merely increase throughput. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s44160-026-01053-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">A flexible and affordable self-driving laboratory for...by S Pilon · 2026 · Cited by 1 — Here we introduce RoboChem-Flex, a low-cost, mo...</span></span></span>
+Several newer projects increasingly emphasise this point. Researchers working on self-driving laboratories now often focus on closed-loop [validation]({{ 'validation/' | relative_url }}), standardised workflows, uncertainty estimation and reproducibility metrics rather than headline discovery counts alone. Some recent autonomous systems explicitly report gains in experimental consistency and repeatability, arguing that automation can reduce human variability rather than merely increase throughput.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s44160-026-01053-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">A flexible and affordable self-driving laboratory for...by S Pilon · 2026 · Cited by 1 — Here we introduce RoboChem-Flex, a low-cost, mo...</span></span></span>
 
 If such systems mature, their long-run impact could be substantial.
 
@@ -428,199 +428,199 @@ These possibilities connect directly to the broader AI bloom question. Scientifi
 
 The lesson from A-Lab is therefore more useful than either uncritical hype or blanket scepticism. Autonomous laboratories may become one of the most important scientific technologies of the century. But the field's success will not be measured by how many candidates an AI proposes or how many robotic experiments run overnight. It will be measured by whether independent researchers can verify the results and use them to discover something genuinely new.
 
-In science, acceleration without proof is noise. Acceleration with proof becomes knowledge. That distinction may determine whether autonomous labs remain impressive demonstrations or become a foundation for a much larger expansion of human discovery. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.chemistryworld.com/news/new-analysis-raises-doubts-over-autonomous-labs-materials-discoveries/4018791.article" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chemistryworld.com">[Chemistry World]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chemistryworld.com</span><span class="citation-popover-snippet">Chemistry WorldNew analysis raises doubts over autonomous lab&#x27;s...16 Jan 2024 — A critique of a paper published in Nature last year, whi...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/collections/eiiadfbbhb" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Self-Driving Laboratories for Chemistry and Materials...Oct 8, 2024 — Self-driving labs are capable of autonomously designing, executing...</span></span></span>
+In science, acceleration without proof is noise. Acceleration with proof becomes knowledge. That distinction may determine whether autonomous labs remain impressive demonstrations or become a foundation for a much larger expansion of human discovery.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.chemistryworld.com/news/new-analysis-raises-doubts-over-autonomous-labs-materials-discoveries/4018791.article" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chemistryworld.com">[Chemistry World]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chemistryworld.com</span><span class="citation-popover-snippet">Chemistry WorldNew analysis raises doubts over autonomous lab&#x27;s...16 Jan 2024 — A critique of a paper published in Nature last year, whi...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/collections/eiiadfbbhb" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Self-Driving Laboratories for Chemistry and Materials...Oct 8, 2024 — Self-driving labs are capable of autonomously designing, executing...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VIbNwyoFiz8" title="How close are language models to becoming autonomous and trustworthy scientists? with Peter Jansen" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VIbNwyoFiz8" target="_blank" rel="noopener noreferrer">How close are language models to becoming autonomous and trustworthy scientists? with Peter Jansen</a></p><p class="youtube-embed-meta">Channel: NSF-Simons AI Institute for Cosmic Origins &middot; Views: 60 &middot; Uploaded: April 2026 &middot; Length: 26 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VIbNwyoFiz8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VIbNwyoFiz8">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When robot labs meet reality. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When robot labs meet reality. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Coming Wave on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b0y5zwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Coming Wave" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Coming Wave">The Coming Wave</a>
-        </h4>
-        <p class="fr-book-author">By Mustafa Suleyman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Coming Wave on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b0y5zwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Coming Wave" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Coming Wave">The Coming Wave</a>
+</h4>
+<p class="fr-book-author">By Mustafa Suleyman</p>
         
-        <p class="fr-book-desc">Directly addresses whether advanced AI can deliver broad civilisational benefits while remaining governable.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses whether advanced AI can deliver broad civilisational benefits while remaining governable.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kill Chain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b6GnDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Kill Chain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kill Chain">The Kill Chain</a>
-        </h4>
-        <p class="fr-book-author">By Christian Brose</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kill Chain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b6GnDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Kill Chain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kill Chain">The Kill Chain</a>
+</h4>
+<p class="fr-book-author">By Christian Brose</p>
         
-        <p class="fr-book-desc">Directly addresses AI-enabled military intelligence and decision advantage.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses AI-enabled military intelligence and decision advantage.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human Compatible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BKVPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Human Compatible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human Compatible">Human Compatible</a>
-        </h4>
-        <p class="fr-book-author">By Stuart Russell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human Compatible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BKVPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Human Compatible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human Compatible">Human Compatible</a>
+</h4>
+<p class="fr-book-author">By Stuart Russell</p>
         
-        <p class="fr-book-desc">Explores how powerful AI could advance humanity if aligned with human values.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how powerful AI could advance humanity if aligned with human values.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Army of None on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sjMsDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Army of None" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Army of None">Army of None</a>
-        </h4>
-        <p class="fr-book-author">By Paul Scharre</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Army of None on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sjMsDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Army of None" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Army of None">Army of None</a>
+</h4>
+<p class="fr-book-author">By Paul Scharre</p>
         
-        <p class="fr-book-desc">Explains AI systems in military operations and analysis.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains AI systems in military operations and analysis.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Coming+Wave&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Coming Wave</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Kill+Chain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Kill Chain</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+Compatible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human Compatible</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Coming+Wave&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Coming Wave</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Kill+Chain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Kill Chain</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+Compatible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human Compatible</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+lab+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-robot-labs-meet-reality-robot-lab-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot lab kit" data-ebay-reference="when-robot-labs-meet-reality-robot-lab-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 4M Kidz Labs Dinorobot Science Kit Build Your Own Moving Robot Dinosaur Sounds"><img src="https://i.ebayimg.com/images/g/-U0AAeSwwJdpeoNr/s-l225.jpg" alt="Listing image for 4M Kidz Labs Dinorobot Science Kit Build Your Own Moving Robot Dinosaur Sounds" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+lab+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-robot-labs-meet-reality-robot-lab-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot lab kit" data-ebay-reference="when-robot-labs-meet-reality-robot-lab-kit" target="_blank" rel="sponsored noopener noreferrer">4M Kidz Labs Dinorobot Science Kit Build Your Own Moving Robot Dinosaur Sounds</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+lab+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-robot-labs-meet-reality-robot-lab-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot lab kit" data-ebay-reference="when-robot-labs-meet-reality-robot-lab-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot lab kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: robot lab kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+lab+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-robot-labs-meet-reality-robot-lab-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot lab kit" data-ebay-reference="when-robot-labs-meet-reality-robot-lab-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+lab+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-robot-labs-meet-reality-robot-lab-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot lab kit" data-ebay-reference="when-robot-labs-meet-reality-robot-lab-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 4M Kidz Labs Dinorobot Science Kit Build Your Own Moving Robot Dinosaur Sounds"><img src="https://i.ebayimg.com/images/g/-U0AAeSwwJdpeoNr/s-l225.jpg" alt="Listing image for 4M Kidz Labs Dinorobot Science Kit Build Your Own Moving Robot Dinosaur Sounds" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+lab+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-robot-labs-meet-reality-robot-lab-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot lab kit" data-ebay-reference="when-robot-labs-meet-reality-robot-lab-kit" target="_blank" rel="sponsored noopener noreferrer">4M Kidz Labs Dinorobot Science Kit Build Your Own Moving Robot Dinosaur Sounds</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+lab+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-robot-labs-meet-reality-robot-lab-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot lab kit" data-ebay-reference="when-robot-labs-meet-reality-robot-lab-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot lab kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: robot lab kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+lab+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-robot-labs-meet-reality-robot-lab-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot lab kit" data-ebay-reference="when-robot-labs-meet-reality-robot-lab-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+lab+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-robot-labs-meet-reality-robot-lab-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot lab kit" data-ebay-reference="when-robot-labs-meet-reality-robot-lab-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 4M Mega Robot Lab- 3 in 1 Robotics Kit for Kids, Build your Own Robotic Animals"><img src="https://i.ebayimg.com/images/g/BmUAAeSwZPxqITxN/s-l225.jpg" alt="Listing image for 4M Mega Robot Lab- 3 in 1 Robotics Kit for Kids, Build your Own Robotic Animals" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+lab+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-robot-labs-meet-reality-robot-lab-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot lab kit" data-ebay-reference="when-robot-labs-meet-reality-robot-lab-kit" target="_blank" rel="sponsored noopener noreferrer">4M Mega Robot Lab- 3 in 1 Robotics Kit for Kids, Build your Own Robotic Animals</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+lab+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-robot-labs-meet-reality-robot-lab-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot lab kit" data-ebay-reference="when-robot-labs-meet-reality-robot-lab-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot lab kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: robot lab kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+lab+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-robot-labs-meet-reality-robot-lab-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot lab kit" data-ebay-reference="when-robot-labs-meet-reality-robot-lab-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+lab+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-robot-labs-meet-reality-robot-lab-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot lab kit" data-ebay-reference="when-robot-labs-meet-reality-robot-lab-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 4M Mega Robot Lab- 3 in 1 Robotics Kit for Kids, Build your Own Robotic Animals"><img src="https://i.ebayimg.com/images/g/BmUAAeSwZPxqITxN/s-l225.jpg" alt="Listing image for 4M Mega Robot Lab- 3 in 1 Robotics Kit for Kids, Build your Own Robotic Animals" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+lab+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-robot-labs-meet-reality-robot-lab-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot lab kit" data-ebay-reference="when-robot-labs-meet-reality-robot-lab-kit" target="_blank" rel="sponsored noopener noreferrer">4M Mega Robot Lab- 3 in 1 Robotics Kit for Kids, Build your Own Robotic Animals</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+lab+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-robot-labs-meet-reality-robot-lab-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot lab kit" data-ebay-reference="when-robot-labs-meet-reality-robot-lab-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot lab kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: robot lab kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+lab+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-robot-labs-meet-reality-robot-lab-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot lab kit" data-ebay-reference="when-robot-labs-meet-reality-robot-lab-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+lab+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-robot-labs-meet-reality-robot-lab-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot lab kit" data-ebay-reference="when-robot-labs-meet-reality-robot-lab-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TECHNOROBOT Kidz Labs Toy For Ages 8+ Fun Science Motorised Robot Model Kit New"><img src="https://i.ebayimg.com/images/g/TQoAAOSw2a5nriNa/s-l225.jpg" alt="Listing image for TECHNOROBOT Kidz Labs Toy For Ages 8+ Fun Science Motorised Robot Model Kit New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+lab+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-robot-labs-meet-reality-robot-lab-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot lab kit" data-ebay-reference="when-robot-labs-meet-reality-robot-lab-kit" target="_blank" rel="sponsored noopener noreferrer">TECHNOROBOT Kidz Labs Toy For Ages 8+ Fun Science Motorised Robot Model Kit New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+lab+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-robot-labs-meet-reality-robot-lab-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot lab kit" data-ebay-reference="when-robot-labs-meet-reality-robot-lab-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot lab kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: robot lab kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+lab+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-robot-labs-meet-reality-robot-lab-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot lab kit" data-ebay-reference="when-robot-labs-meet-reality-robot-lab-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+lab+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-robot-labs-meet-reality-robot-lab-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot lab kit" data-ebay-reference="when-robot-labs-meet-reality-robot-lab-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TECHNOROBOT Kidz Labs Toy For Ages 8+ Fun Science Motorised Robot Model Kit New"><img src="https://i.ebayimg.com/images/g/TQoAAOSw2a5nriNa/s-l225.jpg" alt="Listing image for TECHNOROBOT Kidz Labs Toy For Ages 8+ Fun Science Motorised Robot Model Kit New" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+lab+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-robot-labs-meet-reality-robot-lab-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot lab kit" data-ebay-reference="when-robot-labs-meet-reality-robot-lab-kit" target="_blank" rel="sponsored noopener noreferrer">TECHNOROBOT Kidz Labs Toy For Ages 8+ Fun Science Motorised Robot Model Kit New</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+lab+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-robot-labs-meet-reality-robot-lab-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot lab kit" data-ebay-reference="when-robot-labs-meet-reality-robot-lab-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot lab kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: robot lab kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+lab+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-robot-labs-meet-reality-robot-lab-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot lab kit" data-ebay-reference="when-robot-labs-meet-reality-robot-lab-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+lab+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-robot-labs-meet-reality-robot-lab-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot lab kit" data-ebay-reference="when-robot-labs-meet-reality-robot-lab-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Shockwave Lab SL-227 Kit Upgrade Light For AGE OF THE AMALGAMOUS PRIMES PRIME"><img src="https://i.ebayimg.com/images/g/BlwAAeSw~d1pV1vB/s-l225.jpg" alt="Listing image for Shockwave Lab SL-227 Kit Upgrade Light For AGE OF THE AMALGAMOUS PRIMES PRIME" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+lab+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-robot-labs-meet-reality-robot-lab-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot lab kit" data-ebay-reference="when-robot-labs-meet-reality-robot-lab-kit" target="_blank" rel="sponsored noopener noreferrer">Shockwave Lab SL-227 Kit Upgrade Light For AGE OF THE AMALGAMOUS PRIMES PRIME</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+lab+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-robot-labs-meet-reality-robot-lab-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot lab kit" data-ebay-reference="when-robot-labs-meet-reality-robot-lab-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot lab kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: robot lab kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+lab+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-robot-labs-meet-reality-robot-lab-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot lab kit" data-ebay-reference="when-robot-labs-meet-reality-robot-lab-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+lab+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-robot-labs-meet-reality-robot-lab-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot lab kit" data-ebay-reference="when-robot-labs-meet-reality-robot-lab-kit" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+lab+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-robot-labs-meet-reality-robot-lab-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot lab kit" data-ebay-reference="when-robot-labs-meet-reality-robot-lab-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Shockwave Lab SL-227 Kit Upgrade Light For AGE OF THE AMALGAMOUS PRIMES PRIME"><img src="https://i.ebayimg.com/images/g/BlwAAeSw~d1pV1vB/s-l225.jpg" alt="Listing image for Shockwave Lab SL-227 Kit Upgrade Light For AGE OF THE AMALGAMOUS PRIMES PRIME" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+lab+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-robot-labs-meet-reality-robot-lab-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot lab kit" data-ebay-reference="when-robot-labs-meet-reality-robot-lab-kit" target="_blank" rel="sponsored noopener noreferrer">Shockwave Lab SL-227 Kit Upgrade Light For AGE OF THE AMALGAMOUS PRIMES PRIME</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+lab+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-robot-labs-meet-reality-robot-lab-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot lab kit" data-ebay-reference="when-robot-labs-meet-reality-robot-lab-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot lab kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: robot lab kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+lab+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-robot-labs-meet-reality-robot-lab-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot lab kit" data-ebay-reference="when-robot-labs-meet-reality-robot-lab-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+lab+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-robot-labs-meet-reality-robot-lab-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot lab kit" data-ebay-reference="when-robot-labs-meet-reality-robot-lab-kit" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -636,7 +636,7 @@ In science, acceleration without proof is noise. Acceleration with proof becomes
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -656,7 +656,7 @@ In science, acceleration without proof is noise. Acceleration with proof becomes
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -688,7 +688,7 @@ In science, acceleration without proof is noise. Acceleration with proof becomes
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -740,7 +740,7 @@ In science, acceleration without proof is noise. Acceleration with proof becomes
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -785,7 +785,7 @@ In science, acceleration without proof is noise. Acceleration with proof becomes
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -826,143 +826,143 @@ In science, acceleration without proof is noise. Acceleration with proof becomes
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41586-023-06734-w" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-023-06734-w</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>An autonomous laboratory for the accelerated synthesis of...29 Nov 2023 — We introduce the A-Lab, an autonomous laboratory for the...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41586-023-06734-w" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-023-06734-w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An autonomous laboratory for the accelerated synthesis of...29 Nov 2023 — We introduce the A-Lab, an autonomous laboratory for the...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/d41586-023-03956-w" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/d41586-023-03956-w</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Robot chemist sparks row with claim it created new materials12 Dec 2023 — Researchers question whether an AI-controlled lab assistant act...</p></details>
+   Link:<a href="https://www.nature.com/articles/d41586-023-03956-w" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/d41586-023-03956-w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Robot chemist sparks row with claim it created new materials12 Dec 2023 — Researchers question whether an AI-controlled lab assistant act...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pubs.acs.org  
-   Link: <a href="https://pubs.acs.org/doi/10.1021/acs.chemrev.4c00055" target="_blank" rel="noopener noreferrer nofollow">https://pubs.acs.org/doi/10.1021/acs.chemrev.4c00055</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ACS PublicationsSelf-Driving Laboratories for Chemistry and Materials Scienceby G Tom · 2024 · Cited by 715 — As such, autonomous synthes...</p></details>
+   Link:<a href="https://pubs.acs.org/doi/10.1021/acs.chemrev.4c00055" target="_blank" rel="noopener noreferrer nofollow">https://pubs.acs.org/doi/10.1021/acs.chemrev.4c00055</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ACS PublicationsSelf-Driving Laboratories for Chemistry and Materials Scienceby G Tom · 2024 · Cited by 715 — As such, autonomous synthes...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2006.06141" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2006.06141</a>  
+   Link:<a href="https://arxiv.org/abs/2006.06141" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2006.06141</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/376043973_An_autonomous_laboratory_for_the_accelerated_synthesis_of_inorganic_materials" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376043973_An_autonomous_laboratory_for_the_accelerated_synthesis_of_inorganic_materials</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>An autonomous laboratory for the accelerated synthesis of...29 Nov 2023 — Over 17 days of continuous operation, the A-Lab realized 36 co...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/376043973_An_autonomous_laboratory_for_the_accelerated_synthesis_of_inorganic_materials" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376043973_An_autonomous_laboratory_for_the_accelerated_synthesis_of_inorganic_materials</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An autonomous laboratory for the accelerated synthesis of...29 Nov 2023 — Over 17 days of continuous operation, the A-Lab realized 36 co...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: wired.com  
    Title: Google Deep Mind's AI Dreamed Up 380,000 New Materials  
-   Link: <a href="https://www.wired.com/story/an-ai-dreamed-up-380000-new-materials-the-next-challenge-is-making-them" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/an-ai-dreamed-up-380000-new-materials-the-next-challenge-is-making-them</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Next Challenge Is Making ThemNovember 29, 2023 — Google DeepMind developed an AI program, GNoME, which has predicted 380,000 new stab...</p></details>
+   Link:<a href="https://www.wired.com/story/an-ai-dreamed-up-380000-new-materials-the-next-challenge-is-making-them" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/an-ai-dreamed-up-380000-new-materials-the-next-challenge-is-making-them</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Next Challenge Is Making ThemNovember 29, 2023 — Google DeepMind developed an AI program, GNoME, which has predicted 380,000 new stab...</p></details>
    Published: November 29, 2023  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: ceder.berkeley.edu  
    Title: [a lab](&#123;&#123; 'a-lab/' | relative_url &#125;&#125;) paper published in nature featured in news story  
-   Link: <a href="https://ceder.berkeley.edu/news/a-lab-paper-published-in-nature-featured-in-news-story/" target="_blank" rel="noopener noreferrer nofollow">https://ceder.berkeley.edu/news/a-lab-paper-published-in-nature-featured-in-news-story/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A-Lab paper published in Nature, featured in news stories29 Nov 2023 — Autonomous experimentation for accelerated materials discovery · H...</p></details>
+   Link:<a href="https://ceder.berkeley.edu/news/a-lab-paper-published-in-nature-featured-in-news-story/" target="_blank" rel="noopener noreferrer nofollow">https://ceder.berkeley.edu/news/a-lab-paper-published-in-nature-featured-in-news-story/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A-Lab paper published in Nature, featured in news stories29 Nov 2023 — Autonomous experimentation for accelerated materials discovery · H...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41586-026-10482-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-026-10482-y</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Autonomous closed-loop framework for reproducible...by D Gao · 2026 — This work establishes an automated closed-loop system that s...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41586-026-10482-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-026-10482-y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Autonomous closed-loop framework for reproducible...by D Gao · 2026 — This work establishes an automated closed-loop system that s...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41586-026-10265-5" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-026-10265-5</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Towards end-to-end automation of AI researchby C Lu · 2026 · Cited by 38 — We present The AI Scientist, which creates research ideas, wri...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41586-026-10265-5" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-026-10265-5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Towards end-to-end automation of AI researchby C Lu · 2026 · Cited by 38 — We present The AI Scientist, which creates research ideas, wri...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s44160-026-01053-0" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s44160-026-01053-0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A flexible and affordable self-driving laboratory for...by S Pilon · 2026 · Cited by 1 — Here we introduce RoboChem-Flex, a low-cost, mo...</p></details>
+   Link:<a href="https://www.nature.com/articles/s44160-026-01053-0" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s44160-026-01053-0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A flexible and affordable self-driving laboratory for...by S Pilon · 2026 · Cited by 1 — Here we introduce RoboChem-Flex, a low-cost, mo...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/collections/eiiadfbbhb" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/collections/eiiadfbbhb</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Driving Laboratories for Chemistry and Materials...Oct 8, 2024 — Self-driving labs are capable of autonomously designing, executing...</p></details>
+   Link:<a href="https://www.nature.com/collections/eiiadfbbhb" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/collections/eiiadfbbhb</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Driving Laboratories for Chemistry and Materials...Oct 8, 2024 — Self-driving labs are capable of autonomously designing, executing...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: cen.acs.org  
-   Link: <a href="https://cen.acs.org/research-integrity/Nature-robot-chemist-paper-corrected/104/web/2026/01" target="_blank" rel="noopener noreferrer nofollow">https://cen.acs.org/research-integrity/Nature-robot-chemist-paper-corrected/104/web/2026/01</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>C&amp;EN29 Jan 2026 — The prominent scientific journal Nature has corrected a highly cited study about a robot designed to synthesize entirel...</p></details>
+   Link:<a href="https://cen.acs.org/research-integrity/Nature-robot-chemist-paper-corrected/104/web/2026/01" target="_blank" rel="noopener noreferrer nofollow">https://cen.acs.org/research-integrity/Nature-robot-chemist-paper-corrected/104/web/2026/01</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>C&amp;EN29 Jan 2026 — The prominent scientific journal Nature has corrected a highly cited study about a robot designed to synthesize entirel...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/393750833_Autonomous_%27self-driving%27_laboratories_a_review_of_technology_and_policy_implications" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/393750833_Autonomous_%27self-driving%27_laboratories_a_review_of_technology_and_policy_implications</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Autonomous &#x27;self-driving&#x27; laboratories: a review of...16 Jul 2025 — This article reviews and provides perspective on the emerging...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/393750833_Autonomous_%27self-driving%27_laboratories_a_review_of_technology_and_policy_implications" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/393750833_Autonomous_%27self-driving%27_laboratories_a_review_of_technology_and_policy_implications</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Autonomous &#x27;self-driving&#x27; laboratories: a review of...16 Jul 2025 — This article reviews and provides perspective on the emerging...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/399899062_Author_Correction_An_autonomous_laboratory_for_the_accelerated_synthesis_of_inorganic_materials" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/399899062_Author_Correction_An_autonomous_laboratory_for_the_accelerated_synthesis_of_inorganic_materials</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Author Correction: An autonomous laboratory for the...19 Jan 2026 — Autonomous experimentation driven by artificial intelligence (...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/399899062_Author_Correction_An_autonomous_laboratory_for_the_accelerated_synthesis_of_inorganic_materials" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/399899062_Author_Correction_An_autonomous_laboratory_for_the_accelerated_synthesis_of_inorganic_materials</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Author Correction: An autonomous laboratory for the...19 Jan 2026 — Autonomous experimentation driven by artificial intelligence (...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: ceder.berkeley.edu  
    Title: autonomous experimentation for accelerated materials discovery  
-   Link: <a href="https://ceder.berkeley.edu/research-areas/autonomous-experimentation-for-accelerated-materials-discovery/" target="_blank" rel="noopener noreferrer nofollow">https://ceder.berkeley.edu/research-areas/autonomous-experimentation-for-accelerated-materials-discovery/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>experimentation for accelerated materials...Figure: The [closed loop](&amp;#123;&amp;#123; &#x27;closed-loop/&#x27; | relative_url &amp;#125;&amp;#125;) workflow used to discover and synthesize new materials in the A-Lab...</p></details>
+   Link:<a href="https://ceder.berkeley.edu/research-areas/autonomous-experimentation-for-accelerated-materials-discovery/" target="_blank" rel="noopener noreferrer nofollow">https://ceder.berkeley.edu/research-areas/autonomous-experimentation-for-accelerated-materials-discovery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>experimentation for accelerated materials...Figure: The [closed loop](&amp;#123;&amp;#123; &#x27;closed-loop/&#x27; | relative_url &amp;#125;&amp;#125;) workflow used to discover and synthesize new materials in the A-Lab...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/pdf/2204.04187" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2204.04187</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Low-Cost Robot Science Kit for Education with Symbolic...by L Saar · 2022 · Cited by 4 — Students learned and executed autonomous ML a...</p></details>
+   Link:<a href="https://arxiv.org/pdf/2204.04187" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2204.04187</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Low-Cost Robot Science Kit for Education with Symbolic...by L Saar · 2022 · Cited by 4 — Students learned and executed autonomous ML a...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: chemistryworld.com  
-   Link: <a href="https://www.chemistryworld.com/news/new-analysis-raises-doubts-over-autonomous-labs-materials-discoveries/4018791.article" target="_blank" rel="noopener noreferrer nofollow">https://www.chemistryworld.com/news/new-analysis-raises-doubts-over-autonomous-labs-materials-discoveries/4018791.article</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chemistry WorldNew analysis raises doubts over autonomous lab&#x27;s...16 Jan 2024 — A critique of a paper published in Nature last year, whi...</p></details>
+   Link:<a href="https://www.chemistryworld.com/news/new-analysis-raises-doubts-over-autonomous-labs-materials-discoveries/4018791.article" target="_blank" rel="noopener noreferrer nofollow">https://www.chemistryworld.com/news/new-analysis-raises-doubts-over-autonomous-labs-materials-discoveries/4018791.article</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chemistry WorldNew analysis raises doubts over autonomous lab&#x27;s...16 Jan 2024 — A critique of a paper published in Nature last year, whi...</p></details>
 
 ### Additional References
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/pulse/ai-powered-labs-discovering-materials-10x-faster-brightbeam-ai-dfvle" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/ai-powered-labs-discovering-materials-10x-faster-brightbeam-ai-dfvle</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI-Powered Labs: Discovering Materials 10x FasterBy allowing artificial intelligence to plan and conduct chemical experiments in real-tim...</p></details>
+   Link:<a href="https://www.linkedin.com/pulse/ai-powered-labs-discovering-materials-10x-faster-brightbeam-ai-dfvle" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/ai-powered-labs-discovering-materials-10x-faster-brightbeam-ai-dfvle</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI-Powered Labs: Discovering Materials 10x FasterBy allowing artificial intelligence to plan and conduct chemical experiments in real-tim...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/slatestarcodex/comments/1923p07/autonomous_lab_did_not_synthesize_any_new/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/slatestarcodex/comments/1923p07/autonomous_lab_did_not_synthesize_any_new/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Autonomous lab did not synthesize any new materialsThis is a reanalysis of Nature paper An autonomous laboratory for the accelerated synt...</p></details>
+   Link:<a href="https://www.reddit.com/r/slatestarcodex/comments/1923p07/autonomous_lab_did_not_synthesize_any_new/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/slatestarcodex/comments/1923p07/autonomous_lab_did_not_synthesize_any_new/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Autonomous lab did not synthesize any new materialsThis is a reanalysis of Nature paper An autonomous laboratory for the accelerated synt...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: chemrxiv.org  
-   Link: <a href="https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/65e0ce79e9ebbb4db993d6fe/original/autonomous-laboratories-for-accelerated-materials-discovery-a-community-survey-and-practical-insights.pdf" target="_blank" rel="noopener noreferrer nofollow">https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/65e0ce79e9ebbb4db993d6fe/original/autonomous-laboratories-for-accelerated-materials-discovery-a-community-survey-and-practical-insights.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Autonomous laboratories for accelerated materials discoveryby L Hung · 2024 · Cited by 25 — In this article, we share the outcomes of the...</p></details>
+   Link:<a href="https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/65e0ce79e9ebbb4db993d6fe/original/autonomous-laboratories-for-accelerated-materials-discovery-a-community-survey-and-practical-insights.pdf" target="_blank" rel="noopener noreferrer nofollow">https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/65e0ce79e9ebbb4db993d6fe/original/autonomous-laboratories-for-accelerated-materials-discovery-a-community-survey-and-practical-insights.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Autonomous laboratories for accelerated materials discoveryby L Hung · 2024 · Cited by 25 — In this article, we share the outcomes of the...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: pure.uva.nl  
-   Link: <a href="https://pure.uva.nl/ws/files/186174483/Autonomous_chemistry.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pure.uva.nl/ws/files/186174483/Autonomous_chemistry.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>self-driving labs in chemical and material sciencesThis approach leverages advanced algorithms (artificial intelligence [AI] planners), r...</p></details>
+   Link:<a href="https://pure.uva.nl/ws/files/186174483/Autonomous_chemistry.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pure.uva.nl/ws/files/186174483/Autonomous_chemistry.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>self-driving labs in chemical and material sciencesThis approach leverages advanced algorithms (artificial intelligence [AI] planners), r...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/entanglementandemergence/posts/2052781258402895/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/entanglementandemergence/posts/2052781258402895/</a>  
+   Link:<a href="https://www.facebook.com/groups/entanglementandemergence/posts/2052781258402895/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/entanglementandemergence/posts/2052781258402895/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10700133/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10700133/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>autonomous laboratory for the accelerated synthesis of...by NJ Szymanski · 2023 · Cited by 1182 — We introduce the A-Lab, an autonomous...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10700133/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10700133/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>autonomous laboratory for the accelerated synthesis of...by NJ Szymanski · 2023 · Cited by 1182 — We introduce the A-Lab, an autonomous...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: dim-materre.fr  
    Title: an autonomous laboratory for the accelerated synthesis of novel materials  
-   Link: <a href="https://www.dim-materre.fr/en/publications/an-autonomous-laboratory-for-the-accelerated-synthesis-of-novel-materials/" target="_blank" rel="noopener noreferrer nofollow">https://www.dim-materre.fr/en/publications/an-autonomous-laboratory-for-the-accelerated-synthesis-of-novel-materials/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>An autonomous laboratory for the accelerated synthesis of...29 Nov 2023 — Over 17 days of continuous operation, the A-Lab realized 41 no...</p></details>
+   Link:<a href="https://www.dim-materre.fr/en/publications/an-autonomous-laboratory-for-the-accelerated-synthesis-of-novel-materials/" target="_blank" rel="noopener noreferrer nofollow">https://www.dim-materre.fr/en/publications/an-autonomous-laboratory-for-the-accelerated-synthesis-of-novel-materials/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An autonomous laboratory for the accelerated synthesis of...29 Nov 2023 — Over 17 days of continuous operation, the A-Lab realized 41 no...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: scispace.com  
    Title: review robot scientists for autonomous scientific discovery 45skjgfjfq  
-   Link: <a href="https://scispace.com/pdf/review-robot-scientists-for-autonomous-scientific-discovery-45skjgfjfq.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/review-robot-scientists-for-autonomous-scientific-discovery-45skjgfjfq.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>We review the main components of autonomous scientific discovery, and how they lead to the concept of a Robot. Scientist.Read more...</p></details>
+   Link:<a href="https://scispace.com/pdf/review-robot-scientists-for-autonomous-scientific-discovery-45skjgfjfq.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/review-robot-scientists-for-autonomous-scientific-discovery-45skjgfjfq.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>We review the main components of autonomous scientific discovery, and how they lead to the concept of a Robot. Scientist.Read more...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/38030721/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/38030721/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>An autonomous laboratory for the accelerated synthesis of...by NJ Szymanski · 2023 · Cited by 1143 — We introduce the A-Lab, an au...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/38030721/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/38030721/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An autonomous laboratory for the accelerated synthesis of...by NJ Szymanski · 2023 · Cited by 1143 — We introduce the A-Lab, an au...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: rsc.org  
-   Link: <a href="https://www.rsc.org/suppdata/d4/dd/d4dd00059e/d4dd00059e1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.rsc.org/suppdata/d4/dd/d4dd00059e/d4dd00059e1.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>be used to accelerate the discovery process in research labs that work...Read more...</p></details>
+   Link:<a href="https://www.rsc.org/suppdata/d4/dd/d4dd00059e/d4dd00059e1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.rsc.org/suppdata/d4/dd/d4dd00059e/d4dd00059e1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>be used to accelerate the discovery process in research labs that work...Read more...</p></details>

@@ -275,14 +275,14 @@ image: /assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df_space_governa_60
 
 ## Introduction
 
-The legal status of land and resource ownership on the Moon, Mars and other celestial bodies remains one of the most contested and ambiguous areas in space law — particularly as human settlement and commercial activity draw closer to reality. Current international treaties, most notably the 1967 *Outer Space Treaty* (OST), were negotiated in an era long before viable plans for lunar bases, Martian outposts or asteroid mining existed. They speak in broad principles rather than specific rules about land claims or property rights beyond Earth. As a result, there is no clear, widely accepted legal framework that tells us whether private individuals, companies or even sovereign states can own land or resources on the Moon or Mars in the way property is owned on Earth — and this ambiguity matters not just for investors and entrepreneurs, but for how space settlement governance will influence [who benefits]({{ 'who-benefits/' | relative_url }}) from humanity’s expansion into space. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0265964621000655" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Outer Space, an Area Recognised as Res Communis Omnium: Limits of National Space Mining Law - ScienceDirect...</span></span></span>
+The legal status of land and resource ownership on the Moon, Mars and other celestial bodies remains one of the most contested and ambiguous areas in space law — particularly as human settlement and commercial activity draw closer to reality. Current international treaties, most notably the 1967 *Outer Space Treaty* (OST), were negotiated in an era long before viable plans for lunar bases, Martian outposts or asteroid mining existed. They speak in broad principles rather than specific rules about land claims or property rights beyond Earth. As a result, there is no clear, widely accepted legal framework that tells us whether private individuals, companies or even sovereign states can own land or resources on the Moon or Mars in the way property is owned on Earth — and this ambiguity matters not just for investors and entrepreneurs, but for how space settlement governance will influence [who benefits]({{ 'who-benefits/' | relative_url }}) from humanity’s expansion into space.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0265964621000655" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Outer Space, an Area Recognised as Res Communis Omnium: Limits of National Space Mining Law - ScienceDirect...</span></span></span>
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df_space_governa_6011bd_space_propert_a2e11e-Illustration-1-dark.svg" | relative_url }}" alt="Property Rights illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df_space_governa_6011bd_space_propert_a2e11e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df_space_governa_6011bd_space_propert_a2e11e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How the Outer Space Treaty Shapes Ownership
 
-At the centre of the ambiguity over private ownership lies the non‑appropriation principle of the Outer Space Treaty, signed by over 110 countries and forming the backbone of international space law. Article II states that “outer space, including the Moon and other celestial bodies, is not subject to national appropriation by claim of sovereignty, by means of use or occupation, or by any other means.” This wording clearly forbids any nation from territorially claiming a part of the Moon or Mars — a rule designed to avoid colonial‑style land grabs and geopolitical conflict. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Outer_Space_Treaty" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Outer Space Treaty</span><span class="citation-popover-snippet">Outer Space Treaty</span></span></span>
+At the centre of the ambiguity over private ownership lies the non‑appropriation principle of the Outer Space Treaty, signed by over 110 countries and forming the backbone of international space law. Article II states that “outer space, including the Moon and other celestial bodies, is not subject to national appropriation by claim of sovereignty, by means of use or occupation, or by any other means.” This wording clearly forbids any nation from territorially claiming a part of the Moon or Mars — a rule designed to avoid colonial‑style land grabs and geopolitical conflict.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Outer_Space_Treaty" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Outer Space Treaty</span><span class="citation-popover-snippet">Outer Space Treaty</span></span></span>
 
-But crucially, the treaty does **not explicitly address** whether private entities can acquire or hold real property rights in those places. Because the original negotiators were focused on preventing sovereign territorial conquest during the Cold War, they did not articulate a clear rule about land ownership for companies or individuals. This gap has left legal experts divided. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lawonmars.com/space-mining" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lawonmars.com">[Law On Mars]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lawonmars.com</span><span class="citation-popover-title">Law On Mars Space Mining Law — Law On Mars</span><span class="citation-popover-snippet">Law On Mars Space Mining Law — Law On Mars</span></span></span>
+But crucially, the treaty does **not explicitly address** whether private entities can acquire or hold real property rights in those places. Because the original negotiators were focused on preventing sovereign territorial conquest during the Cold War, they did not articulate a clear rule about land ownership for companies or individuals. This gap has left legal experts divided.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lawonmars.com/space-mining" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lawonmars.com">[Law On Mars]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lawonmars.com</span><span class="citation-popover-title">Law On Mars Space Mining Law — Law On Mars</span><span class="citation-popover-snippet">Law On Mars Space Mining Law — Law On Mars</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VQlRPF760As" title="Who Owns Space? | Answers With Joe" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VQlRPF760As" target="_blank" rel="noopener noreferrer">Who Owns Space? | Answers With Joe</a></p><p class="youtube-embed-meta">Channel: Joe Scott &middot; Views: 310.3K &middot; Uploaded: November 2021 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VQlRPF760As" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VQlRPF760As">Open on YouTube</a></p></div></div></div>
 
@@ -290,233 +290,233 @@ But crucially, the treaty does **not explicitly address** whether private entiti
 
 The non‑appropriation clause is interpreted in two conflicting ways:
 
-* **Strict interpretation:** Some legal scholars and practitioners argue that any form of exclusionary [control]({{ 'control/' | relative_url }}) over parts of a celestial body — whether by a state or a private actor — amounts to prohibited “appropriation.” Under this view, even a private company claiming land or carving out a mining zone could breach the OST. This strict reading emphasises freedom of access and use for all. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cba.org/sections/air-and-space-law/resources/equity-in-the-space-frontier-the-laws-of-commercial-space-mining-and-solutions-for-common-benefit/?lang=en-ca" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cba.org">[Canadian Bar Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cba.org</span><span class="citation-popover-snippet">Canadian Bar AssociationEquity in the Space Frontier: The laws of commercial space mining, and solutions for common benefit and sustainab...</span></span></span>
-* **Narrow interpretation:** Others contend that the Treaty’s ban on national appropriation was meant only to bar sovereign territorial claims by states, not to prevent private rights per se. Because the OST does not explicitly ban private ownership, some see room for private property claims based on use and occupation — especially if authorised and supervised by a Treaty signatory state. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space-settlement-institute.org/Articles/LCRbrieftext.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space-settlement-institute.org">[The Space Settlement Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space-settlement-institute.org</span><span class="citation-popover-title">Jobes and Alan B. Wasser, The Space Settlement Institute Aug</span><span class="citation-popover-snippet">Land Claim Recognition - Leveraging the Inherent Value of Lunar LandAugust 18, 2004 — Land Claims Recognition (LCR) Analysis Leveraging t...</span><span class="citation-popover-meta">Published: August 18, 2004</span></span></span>
+* **Strict interpretation:** Some legal scholars and practitioners argue that any form of exclusionary [control]({{ 'control/' | relative_url }}) over parts of a celestial body — whether by a state or a private actor — amounts to prohibited “appropriation.” Under this view, even a private company claiming land or carving out a mining zone could breach the OST. This strict reading emphasises freedom of access and use for all.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cba.org/sections/air-and-space-law/resources/equity-in-the-space-frontier-the-laws-of-commercial-space-mining-and-solutions-for-common-benefit/?lang=en-ca" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cba.org">[Canadian Bar Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cba.org</span><span class="citation-popover-snippet">Canadian Bar AssociationEquity in the Space Frontier: The laws of commercial space mining, and solutions for common benefit and sustainab...</span></span></span>
+* **Narrow interpretation:** Others contend that the Treaty’s ban on national appropriation was meant only to bar sovereign territorial claims by states, not to prevent private rights per se. Because the OST does not explicitly ban private ownership, some see room for private property claims based on use and occupation — especially if authorised and supervised by a Treaty signatory state.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space-settlement-institute.org/Articles/LCRbrieftext.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space-settlement-institute.org">[The Space Settlement Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space-settlement-institute.org</span><span class="citation-popover-title">Jobes and Alan B. Wasser, The Space Settlement Institute Aug</span><span class="citation-popover-snippet">Land Claim Recognition - Leveraging the Inherent Value of Lunar LandAugust 18, 2004 — Land Claims Recognition (LCR) Analysis Leveraging t...</span><span class="citation-popover-meta">Published: August 18, 2004</span></span></span>
 
-This lack of consensus is at the heart of current legal ambiguity: the same treaty text can be read to both prohibit and, by omission, permit private property arrangements. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space-settlement-institute.org/Articles/LCRbrieftext.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space-settlement-institute.org">[The Space Settlement Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space-settlement-institute.org</span><span class="citation-popover-title">Jobes and Alan B. Wasser, The Space Settlement Institute Aug</span><span class="citation-popover-snippet">Land Claim Recognition - Leveraging the Inherent Value of Lunar LandAugust 18, 2004 — Land Claims Recognition (LCR) Analysis Leveraging t...</span><span class="citation-popover-meta">Published: August 18, 2004</span></span></span>
+This lack of consensus is at the heart of current legal ambiguity: the same treaty text can be read to both prohibit and, by omission, permit private property arrangements.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space-settlement-institute.org/Articles/LCRbrieftext.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space-settlement-institute.org">[The Space Settlement Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space-settlement-institute.org</span><span class="citation-popover-title">Jobes and Alan B. Wasser, The Space Settlement Institute Aug</span><span class="citation-popover-snippet">Land Claim Recognition - Leveraging the Inherent Value of Lunar LandAugust 18, 2004 — Land Claims Recognition (LCR) Analysis Leveraging t...</span><span class="citation-popover-meta">Published: August 18, 2004</span></span></span>
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df_space_governa_6011bd_space_propert_a2e11e-Illustration-2-dark.svg" | relative_url }}" alt="Property Rights illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df_space_governa_6011bd_space_propert_a2e11e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df_space_governa_6011bd_space_propert_a2e11e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## National Laws and the Push Towards Private Claims
 
 In the absence of clear international consensus, several countries have begun to legislate domestically to fill the gap — and their chosen approaches reflect different assumptions about how space property rights should work.
 
-In 2015, the United States enacted the **Commercial Space Launch Competitiveness Act**, which grants U.S. citizens and companies the right to extract and own resources they obtain from celestial bodies, even while reaffirming that nations cannot claim sovereignty over those bodies. Luxembourg followed with its own law recognising that “space resources are subject to appropriation.” <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lawonmars.com/space-mining" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lawonmars.com">[Law On Mars]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lawonmars.com</span><span class="citation-popover-title">Law On Mars Space Mining Law — Law On Mars</span><span class="citation-popover-snippet">Law On Mars Space Mining Law — Law On Mars</span></span></span>
+In 2015, the United States enacted the **Commercial Space Launch Competitiveness Act**, which grants U.S. citizens and companies the right to extract and own resources they obtain from celestial bodies, even while reaffirming that nations cannot claim sovereignty over those bodies. Luxembourg followed with its own law recognising that “space resources are subject to appropriation.”<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lawonmars.com/space-mining" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lawonmars.com">[Law On Mars]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lawonmars.com</span><span class="citation-popover-title">Law On Mars Space Mining Law — Law On Mars</span><span class="citation-popover-snippet">Law On Mars Space Mining Law — Law On Mars</span></span></span>
 
-These national laws do not create new international property rights; instead, they create **domestic legal rights** enforceable within the legislating state’s jurisdiction. Whether other states or international bodies would recognise such private claims under the OST remains unresolved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Outer_Space_Treaty" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Outer Space Treaty</span><span class="citation-popover-snippet">Outer Space Treaty</span></span></span>
+These national laws do not create new international property rights; instead, they create **domestic legal rights** enforceable within the legislating state’s jurisdiction. Whether other states or international bodies would recognise such private claims under the OST remains unresolved.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Outer_Space_Treaty" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Outer Space Treaty</span><span class="citation-popover-snippet">Outer Space Treaty</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pXh7vLTLTEc" title="Who owns the Moon?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pXh7vLTLTEc" target="_blank" rel="noopener noreferrer">Who owns the Moon?</a></p><p class="youtube-embed-meta">Channel: The Economist &middot; Views: 218.2K &middot; Uploaded: July 2019 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pXh7vLTLTEc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pXh7vLTLTEc">Open on YouTube</a></p></div></div></div>
 
 ## The Moon Agreement and Its Limited Reach
 
-The 1979 *Agreement Governing the Activities of States on the Moon and Other Celestial Bodies* (commonly called the Moon Agreement) attempts to go further by declaring that the Moon and its resources are the “common heritage of mankind” and explicitly prohibits any ownership by states, entities or individuals. However, the treaty has been ratified by very few countries and **none of the major spacefaring powers**. As a result, it has little practical effect on current legal practice. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0265964621000655" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Outer Space, an Area Recognised as Res Communis Omnium: Limits of National Space Mining Law - ScienceDirect...</span></span></span>
+The 1979 *Agreement Governing the Activities of States on the Moon and Other Celestial Bodies* (commonly called the Moon Agreement) attempts to go further by declaring that the Moon and its resources are the “common heritage of mankind” and explicitly prohibits any ownership by states, entities or individuals. However, the treaty has been ratified by very few countries and **none of the major spacefaring powers**. As a result, it has little practical effect on current legal practice.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0265964621000655" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Outer Space, an Area Recognised as Res Communis Omnium: Limits of National Space Mining Law - ScienceDirect...</span></span></span>
 
-This divergence between treaties reinforces ambiguity: an international agreement exists that would ban all ownership, but it is effectively dormant; the binding treaty does not. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Outer_Space_Treaty" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Outer Space Treaty</span><span class="citation-popover-snippet">Outer Space Treaty</span></span></span>
+This divergence between treaties reinforces ambiguity: an international agreement exists that would ban all ownership, but it is effectively dormant; the binding treaty does not.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Outer_Space_Treaty" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Outer Space Treaty</span><span class="citation-popover-snippet">Outer Space Treaty</span></span></span>
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df_space_governa_6011bd_space_propert_a2e11e-Illustration-3-dark.svg" | relative_url }}" alt="Property Rights illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df_space_governa_6011bd_space_propert_a2e11e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df_space_governa_6011bd_space_propert_a2e11e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What This Means in Practice
 
 The legal uncertainty over private claims on the [Moon and Mars]({{ 'moon-and-mars/' | relative_url }}) carries several real‑world implications:
 
-* **Investment and commercial development:** Investors seeking to finance lunar mining, Martian agriculture or off‑world manufacturing must weigh the risk that speculative property rights may not be recognised internationally or may become contested years after settlement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0265964621000655" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Outer Space, an Area Recognised as Res Communis Omnium: Limits of National Space Mining Law - ScienceDirect...</span></span></span>
-* **Strategic resource conflicts:** If future laws or interpretations allow private or state‑backed commercial entities to control high‑value resources (such as polar ice on the Moon or rare elements on Mars), disputes could arise over who has legal priority, especially if multiple jurisdictions adopt different laws. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cba.org/sections/air-and-space-law/resources/equity-in-the-space-frontier-the-laws-of-commercial-space-mining-and-solutions-for-common-benefit/?lang=en-ca" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cba.org">[Canadian Bar Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cba.org</span><span class="citation-popover-snippet">Canadian Bar AssociationEquity in the Space Frontier: The laws of commercial space mining, and solutions for common benefit and sustainab...</span></span></span>
-* **Inequality and governance:** Depending on how property systems evolve, early movers — wealthy states and corporations — could consolidate control over desirable landing sites, resources and infrastructure, shaping the economic and political landscape of space settlement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0265964621000655" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Outer Space, an Area Recognised as Res Communis Omnium: Limits of National Space Mining Law - ScienceDirect...</span></span></span>
-* **Customary law evolution:** Some scholars suggest that ongoing practice and state behaviour could shape a new customary international law on space property if enough states follow similar domestic rules. Whether this would converge on recognition of private rights or reinforce the res communis principle remains to be seen. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3840765" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">The Fragmentation of Property Rights in the Law of Outer Space by Jonathan Tjandra:: SSRNFebruary 23, 2021...</span><span class="citation-popover-meta">Published: February 23, 2021</span></span></span>
+* **Investment and commercial development:** Investors seeking to finance lunar mining, Martian agriculture or off‑world manufacturing must weigh the risk that speculative property rights may not be recognised internationally or may become contested years after settlement.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0265964621000655" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Outer Space, an Area Recognised as Res Communis Omnium: Limits of National Space Mining Law - ScienceDirect...</span></span></span>
+* **Strategic resource conflicts:** If future laws or interpretations allow private or state‑backed commercial entities to control high‑value resources (such as polar ice on the Moon or rare elements on Mars), disputes could arise over who has legal priority, especially if multiple jurisdictions adopt different laws.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cba.org/sections/air-and-space-law/resources/equity-in-the-space-frontier-the-laws-of-commercial-space-mining-and-solutions-for-common-benefit/?lang=en-ca" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cba.org">[Canadian Bar Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cba.org</span><span class="citation-popover-snippet">Canadian Bar AssociationEquity in the Space Frontier: The laws of commercial space mining, and solutions for common benefit and sustainab...</span></span></span>
+* **Inequality and governance:** Depending on how property systems evolve, early movers — wealthy states and corporations — could consolidate control over desirable landing sites, resources and infrastructure, shaping the economic and political landscape of space settlement.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0265964621000655" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Outer Space, an Area Recognised as Res Communis Omnium: Limits of National Space Mining Law - ScienceDirect...</span></span></span>
+* **Customary law evolution:** Some scholars suggest that ongoing practice and state behaviour could shape a new customary international law on space property if enough states follow similar domestic rules. Whether this would converge on recognition of private rights or reinforce the res communis principle remains to be seen.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3840765" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">The Fragmentation of Property Rights in the Law of Outer Space by Jonathan Tjandra:: SSRNFebruary 23, 2021...</span><span class="citation-popover-meta">Published: February 23, 2021</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9lX1-XoB3FE" title="Legally, Who Owns the Moon?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9lX1-XoB3FE" target="_blank" rel="noopener noreferrer">Legally, Who Owns the Moon?</a></p><p class="youtube-embed-meta">Channel: TALKSONLAW &middot; Views: 1.3K &middot; Uploaded: October 2021 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9lX1-XoB3FE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9lX1-XoB3FE">Open on YouTube</a></p></div></div></div>
 
 ## Conclusion of Ambiguity and Its Stakes
 
-In today’s legal landscape, the question “who can own land on the Moon or Mars?” does not have a definitive answer. The foundational Outer Space Treaty prohibits sovereign claims but leaves open — perhaps unintentionally — whether private property rights might be recognised. National laws in the United States, Luxembourg and elsewhere attempt to fill that gap, but without broad international agreement, their reach beyond domestic courts is unclear. As actual settlement and resource extraction draw nearer, resolving these legal ambiguities will become urgent: the way future property rights are defined will shape not just commercial activity but the broader distribution of benefits from humanity’s expansion into space. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Outer_Space_Treaty" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Outer Space Treaty</span><span class="citation-popover-snippet">Outer Space Treaty</span></span></span>
+In today’s legal landscape, the question “who can own land on the Moon or Mars?” does not have a definitive answer. The foundational Outer Space Treaty prohibits sovereign claims but leaves open — perhaps unintentionally — whether private property rights might be recognised. National laws in the United States, Luxembourg and elsewhere attempt to fill that gap, but without broad international agreement, their reach beyond domestic courts is unclear. As actual settlement and resource extraction draw nearer, resolving these legal ambiguities will become urgent: the way future property rights are defined will shape not just commercial activity but the broader distribution of benefits from humanity’s expansion into space.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Outer_Space_Treaty" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Outer Space Treaty</span><span class="citation-popover-snippet">Outer Space Treaty</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Who Can Legally Own Land and Resources in Space?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Who Can Legally Own Land and Resources in Space?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+City+on+Mars+by+Kelly+Weinersmith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A City on Mars on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2m6vEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for A City on Mars" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+City+on+Mars+by+Kelly+Weinersmith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A City on Mars">A City on Mars</a>
-        </h4>
-        <p class="fr-book-author">By Kelly Weinersmith, Zach Weinersmith</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+City+on+Mars+by+Kelly+Weinersmith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A City on Mars on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2m6vEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for A City on Mars" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+City+on+Mars+by+Kelly+Weinersmith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A City on Mars">A City on Mars</a>
+</h4>
+<p class="fr-book-author">By Kelly Weinersmith, Zach Weinersmith</p>
         
-        <p class="fr-book-desc">Directly discusses space law, property rights and resource ownership beyond Earth.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+City+on+Mars+by+Kelly+Weinersmith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly discusses space law, property rights and resource ownership beyond Earth.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+City+on+Mars+by+Kelly+Weinersmith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Case+for+Space+by+Robert+Zubrin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Case for Space on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=0PqVDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Case for Space" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Case+for+Space+by+Robert+Zubrin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Case for Space">The Case for Space</a>
-        </h4>
-        <p class="fr-book-author">By Robert Zubrin</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Case+for+Space+by+Robert+Zubrin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Case for Space on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=0PqVDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Case for Space" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Case+for+Space+by+Robert+Zubrin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Case for Space">The Case for Space</a>
+</h4>
+<p class="fr-book-author">By Robert Zubrin</p>
         
-        <p class="fr-book-desc">Addresses commercial space activity and resource use beyond Earth.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Case+for+Space+by+Robert+Zubrin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses commercial space activity and resource use beyond Earth.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Case+for+Space+by+Robert+Zubrin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Future+of+Humanity+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Future of Humanity on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d7ktygEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Future of Humanity" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Future+of+Humanity+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Future of Humanity">The Future of Humanity</a>
-        </h4>
-        <p class="fr-book-author">By Michio Kaku</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Future+of+Humanity+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Future of Humanity on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d7ktygEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Future of Humanity" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Future+of+Humanity+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Future of Humanity">The Future of Humanity</a>
+</h4>
+<p class="fr-book-author">By Michio Kaku</p>
         
-        <p class="fr-book-desc">Provides broad context for Moon, Mars and asteroid resource futures.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Future+of+Humanity+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broad context for Moon, Mars and asteroid resource futures.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Future+of+Humanity+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+High+Frontier+by+Gerard+K.+O%27Neill&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The High Frontier on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=W7PuAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The High Frontier" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+High+Frontier+by+Gerard+K.+O%27Neill&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The High Frontier">The High Frontier</a>
-        </h4>
-        <p class="fr-book-author">By Gerard K. O&#x27;Neill, David Gump et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+High+Frontier+by+Gerard+K.+O%27Neill&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The High Frontier on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=W7PuAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The High Frontier" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+High+Frontier+by+Gerard+K.+O%27Neill&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The High Frontier">The High Frontier</a>
+</h4>
+<p class="fr-book-author">By Gerard K. O&#x27;Neill, David Gump et al.</p>
         
-        <p class="fr-book-desc">Influential background for debates about off-Earth settlement and resources.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+High+Frontier+by+Gerard+K.+O%27Neill&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Influential background for debates about off-Earth settlement and resources.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+High+Frontier+by+Gerard+K.+O%27Neill&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+City+on+Mars&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A City on Mars</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Case+for+Space&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Case for Space</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Future+of+Humanity&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Future of Humanity</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+City+on+Mars&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A City on Mars</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Case+for+Space&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Case for Space</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Future+of+Humanity&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Future of Humanity</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=moon+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-can-legally-own-land-and-resources-in-space-moon-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="moon map print" data-ebay-reference="who-can-legally-own-land-and-resources-in-space-moon-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Earth&#x27;s Moon Map: A5 to A1 Size - 260 to 310gsm Giclée Fine Art Print Poster"><img src="https://i.ebayimg.com/images/g/q44AAOSwELpm89kX/s-l225.jpg" alt="Listing image for Earth&#x27;s Moon Map: A5 to A1 Size - 260 to 310gsm Giclée Fine Art Print Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=moon+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-can-legally-own-land-and-resources-in-space-moon-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="moon map print" data-ebay-reference="who-can-legally-own-land-and-resources-in-space-moon-map-print" target="_blank" rel="sponsored noopener noreferrer">Earth&#x27;s Moon Map: A5 to A1 Size - 260 to 310gsm Giclée Fine Art Print Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=moon+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-can-legally-own-land-and-resources-in-space-moon-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="moon map print" data-ebay-reference="who-can-legally-own-land-and-resources-in-space-moon-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for moon map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: moon map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=moon+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-can-legally-own-land-and-resources-in-space-moon-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="moon map print" data-ebay-reference="who-can-legally-own-land-and-resources-in-space-moon-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=moon+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-can-legally-own-land-and-resources-in-space-moon-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="moon map print" data-ebay-reference="who-can-legally-own-land-and-resources-in-space-moon-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Earth&#x27;s Moon Map: A5 to A1 Size - 260 to 310gsm Giclée Fine Art Print Poster"><img src="https://i.ebayimg.com/images/g/q44AAOSwELpm89kX/s-l225.jpg" alt="Listing image for Earth&#x27;s Moon Map: A5 to A1 Size - 260 to 310gsm Giclée Fine Art Print Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=moon+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-can-legally-own-land-and-resources-in-space-moon-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="moon map print" data-ebay-reference="who-can-legally-own-land-and-resources-in-space-moon-map-print" target="_blank" rel="sponsored noopener noreferrer">Earth&#x27;s Moon Map: A5 to A1 Size - 260 to 310gsm Giclée Fine Art Print Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=moon+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-can-legally-own-land-and-resources-in-space-moon-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="moon map print" data-ebay-reference="who-can-legally-own-land-and-resources-in-space-moon-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for moon map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: moon map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=moon+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-can-legally-own-land-and-resources-in-space-moon-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="moon map print" data-ebay-reference="who-can-legally-own-land-and-resources-in-space-moon-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=moon+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-can-legally-own-land-and-resources-in-space-moon-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="moon map print" data-ebay-reference="who-can-legally-own-land-and-resources-in-space-moon-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Tobias Mayer Map of the Moon 1770 VINTAGE science Astronomy posters print"><img src="https://i.ebayimg.com/images/g/UQAAAOSwXmtnJruA/s-l225.jpg" alt="Listing image for Tobias Mayer Map of the Moon 1770 VINTAGE science Astronomy posters print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=moon+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-can-legally-own-land-and-resources-in-space-moon-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="moon map print" data-ebay-reference="who-can-legally-own-land-and-resources-in-space-moon-map-print" target="_blank" rel="sponsored noopener noreferrer">Tobias Mayer Map of the Moon 1770 VINTAGE science Astronomy posters print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=moon+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-can-legally-own-land-and-resources-in-space-moon-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="moon map print" data-ebay-reference="who-can-legally-own-land-and-resources-in-space-moon-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for moon map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: moon map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=moon+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-can-legally-own-land-and-resources-in-space-moon-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="moon map print" data-ebay-reference="who-can-legally-own-land-and-resources-in-space-moon-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=moon+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-can-legally-own-land-and-resources-in-space-moon-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="moon map print" data-ebay-reference="who-can-legally-own-land-and-resources-in-space-moon-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Tobias Mayer Map of the Moon 1770 VINTAGE science Astronomy posters print"><img src="https://i.ebayimg.com/images/g/UQAAAOSwXmtnJruA/s-l225.jpg" alt="Listing image for Tobias Mayer Map of the Moon 1770 VINTAGE science Astronomy posters print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=moon+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-can-legally-own-land-and-resources-in-space-moon-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="moon map print" data-ebay-reference="who-can-legally-own-land-and-resources-in-space-moon-map-print" target="_blank" rel="sponsored noopener noreferrer">Tobias Mayer Map of the Moon 1770 VINTAGE science Astronomy posters print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=moon+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-can-legally-own-land-and-resources-in-space-moon-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="moon map print" data-ebay-reference="who-can-legally-own-land-and-resources-in-space-moon-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for moon map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: moon map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=moon+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-can-legally-own-land-and-resources-in-space-moon-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="moon map print" data-ebay-reference="who-can-legally-own-land-and-resources-in-space-moon-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=moon+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-can-legally-own-land-and-resources-in-space-moon-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="moon map print" data-ebay-reference="who-can-legally-own-land-and-resources-in-space-moon-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Astronomy astrology zodiac map sun moon stars antique illustration poster print"><img src="https://i.ebayimg.com/images/g/zp8AAOSwZ1pjnjBv/s-l225.jpg" alt="Listing image for Astronomy astrology zodiac map sun moon stars antique illustration poster print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=moon+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-can-legally-own-land-and-resources-in-space-moon-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="moon map print" data-ebay-reference="who-can-legally-own-land-and-resources-in-space-moon-map-print" target="_blank" rel="sponsored noopener noreferrer">Astronomy astrology zodiac map sun moon stars antique illustration poster print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=moon+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-can-legally-own-land-and-resources-in-space-moon-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="moon map print" data-ebay-reference="who-can-legally-own-land-and-resources-in-space-moon-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for moon map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: moon map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=moon+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-can-legally-own-land-and-resources-in-space-moon-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="moon map print" data-ebay-reference="who-can-legally-own-land-and-resources-in-space-moon-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=moon+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-can-legally-own-land-and-resources-in-space-moon-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="moon map print" data-ebay-reference="who-can-legally-own-land-and-resources-in-space-moon-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Astronomy astrology zodiac map sun moon stars antique illustration poster print"><img src="https://i.ebayimg.com/images/g/zp8AAOSwZ1pjnjBv/s-l225.jpg" alt="Listing image for Astronomy astrology zodiac map sun moon stars antique illustration poster print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=moon+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-can-legally-own-land-and-resources-in-space-moon-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="moon map print" data-ebay-reference="who-can-legally-own-land-and-resources-in-space-moon-map-print" target="_blank" rel="sponsored noopener noreferrer">Astronomy astrology zodiac map sun moon stars antique illustration poster print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=moon+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-can-legally-own-land-and-resources-in-space-moon-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="moon map print" data-ebay-reference="who-can-legally-own-land-and-resources-in-space-moon-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for moon map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: moon map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=moon+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-can-legally-own-land-and-resources-in-space-moon-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="moon map print" data-ebay-reference="who-can-legally-own-land-and-resources-in-space-moon-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=moon+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-can-legally-own-land-and-resources-in-space-moon-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="moon map print" data-ebay-reference="who-can-legally-own-land-and-resources-in-space-moon-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Moon Poster 1960&#x27;s USAF Lunar Map Print Wall Art Retro Space Decor"><img src="https://i.ebayimg.com/images/g/SSUAAOSw22lhI8bX/s-l225.jpg" alt="Listing image for Vintage Moon Poster 1960&#x27;s USAF Lunar Map Print Wall Art Retro Space Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=moon+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-can-legally-own-land-and-resources-in-space-moon-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="moon map print" data-ebay-reference="who-can-legally-own-land-and-resources-in-space-moon-map-print" target="_blank" rel="sponsored noopener noreferrer">Vintage Moon Poster 1960&#x27;s USAF Lunar Map Print Wall Art Retro Space Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=moon+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-can-legally-own-land-and-resources-in-space-moon-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="moon map print" data-ebay-reference="who-can-legally-own-land-and-resources-in-space-moon-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for moon map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: moon map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=moon+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-can-legally-own-land-and-resources-in-space-moon-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="moon map print" data-ebay-reference="who-can-legally-own-land-and-resources-in-space-moon-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=moon+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-can-legally-own-land-and-resources-in-space-moon-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="moon map print" data-ebay-reference="who-can-legally-own-land-and-resources-in-space-moon-map-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=moon+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-can-legally-own-land-and-resources-in-space-moon-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="moon map print" data-ebay-reference="who-can-legally-own-land-and-resources-in-space-moon-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Moon Poster 1960&#x27;s USAF Lunar Map Print Wall Art Retro Space Decor"><img src="https://i.ebayimg.com/images/g/SSUAAOSw22lhI8bX/s-l225.jpg" alt="Listing image for Vintage Moon Poster 1960&#x27;s USAF Lunar Map Print Wall Art Retro Space Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=moon+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-can-legally-own-land-and-resources-in-space-moon-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="moon map print" data-ebay-reference="who-can-legally-own-land-and-resources-in-space-moon-map-print" target="_blank" rel="sponsored noopener noreferrer">Vintage Moon Poster 1960&#x27;s USAF Lunar Map Print Wall Art Retro Space Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=moon+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-can-legally-own-land-and-resources-in-space-moon-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="moon map print" data-ebay-reference="who-can-legally-own-land-and-resources-in-space-moon-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for moon map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: moon map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=moon+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-can-legally-own-land-and-resources-in-space-moon-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="moon map print" data-ebay-reference="who-can-legally-own-land-and-resources-in-space-moon-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=moon+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-can-legally-own-land-and-resources-in-space-moon-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="moon map print" data-ebay-reference="who-can-legally-own-land-and-resources-in-space-moon-map-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -532,7 +532,7 @@ In today’s legal landscape, the question “who can own land on the Moon or Ma
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -552,7 +552,7 @@ In today’s legal landscape, the question “who can own land on the Moon or Ma
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -584,7 +584,7 @@ In today’s legal landscape, the question “who can own land on the Moon or Ma
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -636,7 +636,7 @@ In today’s legal landscape, the question “who can own land on the Moon or Ma
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -681,7 +681,7 @@ In today’s legal landscape, the question “who can own land on the Moon or Ma
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -722,132 +722,132 @@ In today’s legal landscape, the question “who can own land on the Moon or Ma
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0265964621000655" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0265964621000655</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Outer Space, an Area Recognised as Res Communis Omnium: Limits of National Space Mining Law - ScienceDirect...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0265964621000655" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0265964621000655</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Outer Space, an Area Recognised as Res Communis Omnium: Limits of National Space Mining Law - ScienceDirect...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Outer Space Treaty  
-   Link: <a href="https://en.wikipedia.org/wiki/Outer_Space_Treaty" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Outer_Space_Treaty</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Outer_Space_Treaty" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Outer_Space_Treaty</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: space-settlement-institute.org  
-   Link: <a href="https://www.space-settlement-institute.org/article-vi-of-the-outer-space-treaty.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space-settlement-institute.org/article-vi-of-the-outer-space-treaty.html</a>  
+   Link:<a href="https://www.space-settlement-institute.org/article-vi-of-the-outer-space-treaty.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space-settlement-institute.org/article-vi-of-the-outer-space-treaty.html</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: space-settlement-institute.org  
-   Link: <a href="https://www.space-settlement-institute.org/strategy.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space-settlement-institute.org/strategy.html</a>  
+   Link:<a href="https://www.space-settlement-institute.org/strategy.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space-settlement-institute.org/strategy.html</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: papers.ssrn.com  
-   Link: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3840765" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3840765</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Fragmentation of Property Rights in the Law of Outer Space by Jonathan Tjandra:: SSRNFebruary 23, 2021...</p></details>
+   Link:<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3840765" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3840765</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Fragmentation of Property Rights in the Law of Outer Space by Jonathan Tjandra:: SSRNFebruary 23, 2021...</p></details>
    Published: February 23, 2021  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: papers.ssrn.com  
-   Link: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5000725" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5000725</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Attributed Lawmaking under the Outer Space Treaty of 1967 by Matthew Lively:: SSRNOctober 8, 2024 — Download This Paper Open PDF in Brow...</p></details>
+   Link:<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5000725" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5000725</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Attributed Lawmaking under the Outer Space Treaty of 1967 by Matthew Lively:: SSRNOctober 8, 2024 — Download This Paper Open PDF in Brow...</p></details>
    Published: October 8, 2024  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: space-settlement-institute.org  
    Title: Jobes and Alan B. Wasser, The Space Settlement Institute Aug  
-   Link: <a href="https://www.space-settlement-institute.org/Articles/LCRbrieftext.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.space-settlement-institute.org/Articles/LCRbrieftext.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Land Claim Recognition - Leveraging the Inherent Value of Lunar LandAugust 18, 2004 — Land Claims Recognition (LCR) Analysis Leveraging t...</p></details>
+   Link:<a href="https://www.space-settlement-institute.org/Articles/LCRbrieftext.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.space-settlement-institute.org/Articles/LCRbrieftext.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Land Claim Recognition - Leveraging the Inherent Value of Lunar LandAugust 18, 2004 — Land Claims Recognition (LCR) Analysis Leveraging t...</p></details>
    Published: August 18, 2004  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: space-settlement-institute.org  
    Title: What Does International Law Say About Private Property in Space?  
-   Link: <a href="https://www.space-settlement-institute.org/what-does-international-law-say.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space-settlement-institute.org/what-does-international-law-say.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Space Settlement InstituteFAQ #3: WHAT DOES INTERNATIONAL LAW SAY ABOUT PRIVATE PROPERTY OWNERSHIP IN SPACE? Early in the negotiati...</p></details>
+   Link:<a href="https://www.space-settlement-institute.org/what-does-international-law-say.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space-settlement-institute.org/what-does-international-law-say.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Space Settlement InstituteFAQ #3: WHAT DOES INTERNATIONAL LAW SAY ABOUT PRIVATE PROPERTY OWNERSHIP IN SPACE? Early in the negotiati...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: space-settlement-institute.org  
-   Link: <a href="https://www.space-settlement-institute.org/journal-air-law.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space-settlement-institute.org/journal-air-law.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Space Property Rights Published in the Journal of Air Law and Commerce | The Space Settlement InstituteSPACE SETTLEMENTS, PROPERTY RIGHTS...</p></details>
+   Link:<a href="https://www.space-settlement-institute.org/journal-air-law.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space-settlement-institute.org/journal-air-law.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Space Property Rights Published in the Journal of Air Law and Commerce | The Space Settlement InstituteSPACE SETTLEMENTS, PROPERTY RIGHTS...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: lawonmars.com  
    Title: Law On Mars Space Mining Law — Law On Mars  
-   Link: <a href="https://www.lawonmars.com/space-mining" target="_blank" rel="noopener noreferrer nofollow">https://www.lawonmars.com/space-mining</a>  
+   Link:<a href="https://www.lawonmars.com/space-mining" target="_blank" rel="noopener noreferrer nofollow">https://www.lawonmars.com/space-mining</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cba.org  
-   Link: <a href="https://www.cba.org/sections/air-and-space-law/resources/equity-in-the-space-frontier-the-laws-of-commercial-space-mining-and-solutions-for-common-benefit/?lang=en-ca" target="_blank" rel="noopener noreferrer nofollow">https://www.cba.org/sections/air-and-space-law/resources/equity-in-the-space-frontier-the-laws-of-commercial-space-mining-and-solutions-for-common-benefit/?lang=en-ca</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian Bar AssociationEquity in the Space Frontier: The laws of commercial space mining, and solutions for common benefit and sustainab...</p></details>
+   Link:<a href="https://www.cba.org/sections/air-and-space-law/resources/equity-in-the-space-frontier-the-laws-of-commercial-space-mining-and-solutions-for-common-benefit/?lang=en-ca" target="_blank" rel="noopener noreferrer nofollow">https://www.cba.org/sections/air-and-space-law/resources/equity-in-the-space-frontier-the-laws-of-commercial-space-mining-and-solutions-for-common-benefit/?lang=en-ca</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian Bar AssociationEquity in the Space Frontier: The laws of commercial space mining, and solutions for common benefit and sustainab...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: lawonmars.com  
-   Link: <a href="https://www.lawonmars.com/moon-settlements" target="_blank" rel="noopener noreferrer nofollow">https://www.lawonmars.com/moon-settlements</a>  
+   Link:<a href="https://www.lawonmars.com/moon-settlements" target="_blank" rel="noopener noreferrer nofollow">https://www.lawonmars.com/moon-settlements</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: lawonmars.com  
-   Link: <a href="https://www.lawonmars.com/colonizing-mars" target="_blank" rel="noopener noreferrer nofollow">https://www.lawonmars.com/colonizing-mars</a>  
+   Link:<a href="https://www.lawonmars.com/colonizing-mars" target="_blank" rel="noopener noreferrer nofollow">https://www.lawonmars.com/colonizing-mars</a>  
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: cambridge.org  
-   Link: <a href="https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/legal-status-of-abiotic-resources-in-outer-space-appropriability-ownership-and-access/E0EAE539BEB8193B135FE22B6CA002C7" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/legal-status-of-abiotic-resources-in-outer-space-appropriability-ownership-and-access/E0EAE539BEB8193B135FE22B6CA002C7</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>e CoreAugust 31, 2022 — LEGAL STATUS OF ABIOTIC RESOURCES IN OUTER SPACE: APPROPRIABILITY, OWNERSHIP, AND ACCESS Published online by Camb...</p></details>
+   Link:<a href="https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/legal-status-of-abiotic-resources-in-outer-space-appropriability-ownership-and-access/E0EAE539BEB8193B135FE22B6CA002C7" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/legal-status-of-abiotic-resources-in-outer-space-appropriability-ownership-and-access/E0EAE539BEB8193B135FE22B6CA002C7</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>e CoreAugust 31, 2022 — LEGAL STATUS OF ABIOTIC RESOURCES IN OUTER SPACE: APPROPRIABILITY, OWNERSHIP, AND ACCESS Published online by Camb...</p></details>
    Published: August 31, 2022  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: nortonrosefulbright.com  
-   Link: <a href="https://www.nortonrosefulbright.com/en-nl/knowledge/publications/b34b1f80/outer-space-the-new-frontier-for-restructuring-and-insolvency" target="_blank" rel="noopener noreferrer nofollow">https://www.nortonrosefulbright.com/en-nl/knowledge/publications/b34b1f80/outer-space-the-new-frontier-for-restructuring-and-insolvency</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Outer space: The new frontier for restructuring and insolvency | Netherlands | Global law firm | Norton Rose FulbrightSeptember 1, 2021 —...</p></details>
+   Link:<a href="https://www.nortonrosefulbright.com/en-nl/knowledge/publications/b34b1f80/outer-space-the-new-frontier-for-restructuring-and-insolvency" target="_blank" rel="noopener noreferrer nofollow">https://www.nortonrosefulbright.com/en-nl/knowledge/publications/b34b1f80/outer-space-the-new-frontier-for-restructuring-and-insolvency</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Outer space: The new frontier for restructuring and insolvency | Netherlands | Global law firm | Norton Rose FulbrightSeptember 1, 2021 —...</p></details>
    Published: September 1, 2021  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: somners.com  
-   Link: <a href="https://www.somners.com/resources/spacepropertyrights" target="_blank" rel="noopener noreferrer nofollow">https://www.somners.com/resources/spacepropertyrights</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>February 3, 2026 — Image: When Humanity Leaves Earth: What International Law Says About Ownership on the Moon, Mars, and Beyond WH...</p></details>
+   Link:<a href="https://www.somners.com/resources/spacepropertyrights" target="_blank" rel="noopener noreferrer nofollow">https://www.somners.com/resources/spacepropertyrights</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>February 3, 2026 — Image: When Humanity Leaves Earth: What International Law Says About Ownership on the Moon, Mars, and Beyond WH...</p></details>
    Published: February 3, 2026  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: journals.law.umn.edu  
-   Link: <a href="https://journals.law.umn.edu/2016/09/28/westward-and-then-some-expansion-one-theory-of-property-rights-on-the-moon-and-mars/" target="_blank" rel="noopener noreferrer nofollow">https://journals.law.umn.edu/2016/09/28/westward-and-then-some-expansion-one-theory-of-property-rights-on-the-moon-and-mars/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(And Then Some) Expansion: One Theory of Property Rights on the Moon and Mars | Law JournalsSeptember 28, 2016 — Minnesota Journal of Law...</p></details>
+   Link:<a href="https://journals.law.umn.edu/2016/09/28/westward-and-then-some-expansion-one-theory-of-property-rights-on-the-moon-and-mars/" target="_blank" rel="noopener noreferrer nofollow">https://journals.law.umn.edu/2016/09/28/westward-and-then-some-expansion-one-theory-of-property-rights-on-the-moon-and-mars/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(And Then Some) Expansion: One Theory of Property Rights on the Moon and Mars | Law JournalsSeptember 28, 2016 — Minnesota Journal of Law...</p></details>
    Published: September 28, 2016  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: slsa.ac.uk  
    Title: This treaty was created by the Member States of the United Nations Committe  
-   Link: <a href="https://www.slsa.ac.uk/post/lunar-landowners-questions-regarding-the-ownership-of-lunar-bases-and-the-land-upon-which-they-are" target="_blank" rel="noopener noreferrer nofollow">https://www.slsa.ac.uk/post/lunar-landowners-questions-regarding-the-ownership-of-lunar-bases-and-the-land-upon-which-they-are</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lunar Landowners: Questions Regarding the Ownership of Lunar Bases and the Land upon which they are BuiltJuly 14, 2025 — INTERNATIONAL SP...</p></details>
+   Link:<a href="https://www.slsa.ac.uk/post/lunar-landowners-questions-regarding-the-ownership-of-lunar-bases-and-the-land-upon-which-they-are" target="_blank" rel="noopener noreferrer nofollow">https://www.slsa.ac.uk/post/lunar-landowners-questions-regarding-the-ownership-of-lunar-bases-and-the-land-upon-which-they-are</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lunar Landowners: Questions Regarding the Ownership of Lunar Bases and the Land upon which they are BuiltJuly 14, 2025 — INTERNATIONAL SP...</p></details>
    Published: July 14, 2025  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: thespacereview.com  
-   Link: <a href="https://www.thespacereview.com/article/4915/1" target="_blank" rel="noopener noreferrer nofollow">https://www.thespacereview.com/article/4915/1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(credit: ESA) THE (NOT QUITE) DEFINITIVE GUIDE TO THE LEGAL CONSTRUCT OF “SPACE RESOURCES” BY MICHAEL J. LISTNE...</p></details>
+   Link:<a href="https://www.thespacereview.com/article/4915/1" target="_blank" rel="noopener noreferrer nofollow">https://www.thespacereview.com/article/4915/1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(credit: ESA) THE (NOT QUITE) DEFINITIVE GUIDE TO THE LEGAL CONSTRUCT OF “SPACE RESOURCES” BY MICHAEL J. LISTNE...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: digitalcommons.unl.edu  
    Title: Back-Impallomeni, University of Padua * S. Hobe, Uni  
-   Link: <a href="https://digitalcommons.unl.edu/spacelaw/57/" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.unl.edu/spacelaw/57/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Estate: Addressing the Issue of “Immovable Property Rights on the Moon”January 1, 2004 — SURREAL ESTATE: ADDRESSING THE ISSUE OF “IMMOVAB...</p></details>
+   Link:<a href="https://digitalcommons.unl.edu/spacelaw/57/" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.unl.edu/spacelaw/57/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Estate: Addressing the Issue of “Immovable Property Rights on the Moon”January 1, 2004 — SURREAL ESTATE: ADDRESSING THE ISSUE OF “IMMOVAB...</p></details>
    Published: January 1, 2004  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: thespacereview.com  
    Title: The Space Review: The legal aspects of outer space settlers and settlements  
-   Link: <a href="https://www.thespacereview.com/article/5183/1" target="_blank" rel="noopener noreferrer nofollow">https://www.thespacereview.com/article/5183/1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(credit: SpaceX) THE LEGAL ASPECTS OF OUTER SPACE SETTLERS AND SETTLEMENTS BY DENNIS O’BRIEN Monday, M...</p></details>
+   Link:<a href="https://www.thespacereview.com/article/5183/1" target="_blank" rel="noopener noreferrer nofollow">https://www.thespacereview.com/article/5183/1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(credit: SpaceX) THE LEGAL ASPECTS OF OUTER SPACE SETTLERS AND SETTLEMENTS BY DENNIS O’BRIEN Monday, M...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: ibanet.org  
    Title: Disputes over space mining on the horizon?  
-   Link: <a href="https://www.ibanet.org/disputes-over-space-mining-on-the-horizon" target="_blank" rel="noopener noreferrer nofollow">https://www.ibanet.org/disputes-over-space-mining-on-the-horizon</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>International Bar AssociationJanuary 18, 2023 — DISPUTES OVER SPACE MINING ON THE HORIZON? Wednesday 18 January 2023 Laura Yvonne Zieli...</p></details>
+   Link:<a href="https://www.ibanet.org/disputes-over-space-mining-on-the-horizon" target="_blank" rel="noopener noreferrer nofollow">https://www.ibanet.org/disputes-over-space-mining-on-the-horizon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>International Bar AssociationJanuary 18, 2023 — DISPUTES OVER SPACE MINING ON THE HORIZON? Wednesday 18 January 2023 Laura Yvonne Zieli...</p></details>
    Published: January 18, 2023  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1007/s42423-019-00042-0" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s42423-019-00042-0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ownership for Outer Space Resources | Advances in Astronautics | Springer Nature LinkFebruary 19, 2020 — PARTIAL OWNERSHIP FOR OUTER SPAC...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1007/s42423-019-00042-0" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s42423-019-00042-0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ownership for Outer Space Resources | Advances in Astronautics | Springer Nature LinkFebruary 19, 2020 — PARTIAL OWNERSHIP FOR OUTER SPAC...</p></details>
    Published: February 19, 2020

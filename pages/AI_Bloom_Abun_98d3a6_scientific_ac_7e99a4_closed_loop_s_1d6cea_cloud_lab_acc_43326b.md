@@ -275,16 +275,16 @@ image: /assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_closed_loop_s_1d
 
 ## Introduction
 
-If AI dramatically increases the number of scientific ideas humanity can generate, then access to experiments may become one of the most important bottlenecks in the future of [discovery]({{ 'discovery/' | relative_url }}). Cloud laboratories are an attempt to solve that problem by turning scientific experimentation into something closer to cloud computing: researchers write protocols through software, automated equipment performs the work remotely, and results are returned over the internet. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cloud_laboratory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cloud laboratory</span><span class="citation-popover-snippet">Cloud laboratory</span></span></span>
+If AI dramatically increases the number of scientific ideas humanity can generate, then access to experiments may become one of the most important bottlenecks in the future of [discovery]({{ 'discovery/' | relative_url }}). Cloud laboratories are an attempt to solve that problem by turning scientific experimentation into something closer to cloud computing: researchers write protocols through software, automated equipment performs the work remotely, and results are returned over the internet.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cloud_laboratory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cloud laboratory</span><span class="citation-popover-snippet">Cloud laboratory</span></span></span>
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_closed_loop_s_1d6cea_cloud_lab_acc_43326b-Illustration-1-dark.svg" | relative_url }}" alt="Cloud Labs illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_closed_loop_s_1d6cea_cloud_lab_acc_43326b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_closed_loop_s_1d6cea_cloud_lab_acc_43326b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For advocates of scientific acceleration, the appeal is obvious. A graduate student in Nairobi, a startup in Manchester, or a researcher working from home could theoretically access advanced laboratory equipment without building a multimillion-pound facility. Yet the same model raises a deeper question about the future of AI-enabled science: if automated laboratories become the infrastructure through which discovery increasingly flows, who owns that infrastructure, who gets access to it, and on what terms? The answer could shape whether faster science becomes broadly available or concentrated in a relatively small number of firms, governments, and elite institutions.
 
 ## How cloud laboratories could change research
 
-Cloud laboratories emerged from a simple observation. Much of modern experimental science depends on expensive instruments that often sit idle, require specialist staff, and are difficult for smaller organisations to access. Instead of every institution buying its own equipment, cloud labs attempt to pool capacity into highly automated facilities that can be accessed remotely. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Emerald_Cloud_Lab" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Emerald Cloud LabECL remotely conducts experiments in a automated ECL facility exactly to the scientist&#x27;s specifications. The platform...</span></span></span>
+Cloud laboratories emerged from a simple observation. Much of modern experimental science depends on expensive instruments that often sit idle, require specialist staff, and are difficult for smaller organisations to access. Instead of every institution buying its own equipment, cloud labs attempt to pool capacity into highly automated facilities that can be accessed remotely.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Emerald_Cloud_Lab" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Emerald Cloud LabECL remotely conducts experiments in a automated ECL facility exactly to the scientist&#x27;s specifications. The platform...</span></span></span>
 
-In practice, researchers design experiments through software interfaces or application programming interfaces (APIs). Robots, liquid handlers, sequencers, analytical instruments, and other equipment execute the procedures automatically. Data are collected and returned digitally, often with extensive records of settings, environmental conditions, and procedural details. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cloud_laboratory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cloud laboratory</span><span class="citation-popover-snippet">Cloud laboratory</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Emerald_Cloud_Lab" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Emerald Cloud LabECL remotely conducts experiments in a automated ECL facility exactly to the scientist&#x27;s specifications. The platform...</span></span></span>
+In practice, researchers design experiments through software interfaces or application programming interfaces (APIs). Robots, liquid handlers, sequencers, analytical instruments, and other equipment execute the procedures automatically. Data are collected and returned digitally, often with extensive records of settings, environmental conditions, and procedural details.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cloud_laboratory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cloud laboratory</span><span class="citation-popover-snippet">Cloud laboratory</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Emerald_Cloud_Lab" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Emerald Cloud LabECL remotely conducts experiments in a automated ECL facility exactly to the scientist&#x27;s specifications. The platform...</span></span></span>
 
 This model matters because it changes the economics of experimentation in several ways:
 
@@ -294,7 +294,7 @@ This model matters because it changes the economics of experimentation in severa
 * Experiments can run continuously rather than only during local working hours.
 * Protocols become software-like objects that can be copied and rerun.
 * AI systems can interact directly with experimental infrastructure.
-* Researchers gain access to equipment that their institution could never afford independently. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emeraldcloudlab.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emeraldcloudlab.com">[2emeraldcloudlab.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emeraldcloudlab.com</span><span class="citation-popover-snippet">Emerald Cloud Lab: Remote Controlled Life Sciences LabEmerald Cloud Lab is a highly automated remote controlled life science laboratory i...</span></span></span>
+* Researchers gain access to equipment that their institution could never afford independently.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emeraldcloudlab.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emeraldcloudlab.com">[2emeraldcloudlab.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emeraldcloudlab.com</span><span class="citation-popover-snippet">Emerald Cloud Lab: Remote Controlled Life Sciences LabEmerald Cloud Lab is a highly automated remote controlled life science laboratory i...</span></span></span>
 
 </div>
 
@@ -306,9 +306,9 @@ For the broader AI bloom vision, this is important because it potentially conver
 
 Historically, scientific capability has often depended on physical location. Researchers at wealthy universities or major pharmaceutical firms could access instruments unavailable elsewhere.
 
-Cloud laboratories partially decouple capability from location. A scientist's ability to conduct certain experiments becomes less dependent on where they live and more dependent on software access, funding, and permissions. Theoretically, this could widen participation in advanced science. Researchers in regions with weaker laboratory infrastructure could gain access to tools that previously existed only in a handful of elite centres. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/science/2022/sep/11/cloud-labs-and-remote-research-arent-the-future-of-science-theyre-here" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">cloud labs and remote research arent the future of science theyre here</span><span class="citation-popover-snippet">The GuardianCloud labs and remote research aren&#x27;t the future of science11 Sept 2022 — Cloud labs mean anybody, anywhere can conduct exper...</span></span></span>
+Cloud laboratories partially decouple capability from location. A scientist's ability to conduct certain experiments becomes less dependent on where they live and more dependent on software access, funding, and permissions. Theoretically, this could widen participation in advanced science. Researchers in regions with weaker laboratory infrastructure could gain access to tools that previously existed only in a handful of elite centres.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/science/2022/sep/11/cloud-labs-and-remote-research-arent-the-future-of-science-theyre-here" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">cloud labs and remote research arent the future of science theyre here</span><span class="citation-popover-snippet">The GuardianCloud labs and remote research aren&#x27;t the future of science11 Sept 2022 — Cloud labs mean anybody, anywhere can conduct exper...</span></span></span>
 
-Some proponents describe this as a democratisation of experimental science. Cloud labs can reduce the need for local infrastructure while making protocols easier to share, reproduce, and audit. Carnegie Mellon University's effort to build an academic cloud laboratory reflects part of this vision: treating advanced experimentation as a shared research utility rather than a collection of isolated local facilities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Emerald_Cloud_Lab" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Emerald Cloud LabECL remotely conducts experiments in a automated ECL facility exactly to the scientist&#x27;s specifications. The platform...</span></span></span>
+Some proponents describe this as a democratisation of experimental science. Cloud labs can reduce the need for local infrastructure while making protocols easier to share, reproduce, and audit. Carnegie Mellon University's effort to build an academic cloud laboratory reflects part of this vision: treating advanced experimentation as a shared research utility rather than a collection of isolated local facilities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Emerald_Cloud_Lab" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Emerald Cloud LabECL remotely conducts experiments in a automated ECL facility exactly to the scientist&#x27;s specifications. The platform...</span></span></span>
 
 Yet access is not the same as ownership. The same system that expands access can also centralise [control]({{ 'control/' | relative_url }}).
 
@@ -316,7 +316,7 @@ Yet access is not the same as ownership. The same system that expands access can
 
 The significance of cloud laboratories increases as AI systems become better at generating hypotheses.
 
-Traditional science often faced a shortage of ideas relative to experimental capacity. Increasingly, researchers face the opposite problem. AI systems can generate large numbers of candidate molecules, biological pathways, materials designs, and experimental plans. The challenge becomes testing them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Emerald_Cloud_Lab" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Emerald Cloud LabECL remotely conducts experiments in a automated ECL facility exactly to the scientist&#x27;s specifications. The platform...</span></span></span>
+Traditional science often faced a shortage of ideas relative to experimental capacity. Increasingly, researchers face the opposite problem. AI systems can generate large numbers of candidate molecules, biological pathways, materials designs, and experimental plans. The challenge becomes testing them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Emerald_Cloud_Lab" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Emerald Cloud LabECL remotely conducts experiments in a automated ECL facility exactly to the scientist&#x27;s specifications. The platform...</span></span></span>
 
 A future closed-loop research system might operate continuously:
 
@@ -346,7 +346,7 @@ The difference is not merely technical. It is political and economic.
 
 Cloud laboratories promise efficiency because laboratory equipment is expensive and often underutilised.
 
-A sequencing platform, robotic workstation, or analytical instrument may cost hundreds of thousands or millions of pounds. Small research groups often cannot justify purchasing such equipment for occasional use. Centralisation allows costs to be spread across many customers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Emerald_Cloud_Lab" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Emerald Cloud LabECL remotely conducts experiments in a automated ECL facility exactly to the scientist&#x27;s specifications. The platform...</span></span></span>
+A sequencing platform, robotic workstation, or analytical instrument may cost hundreds of thousands or millions of pounds. Small research groups often cannot justify purchasing such equipment for occasional use. Centralisation allows costs to be spread across many customers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Emerald_Cloud_Lab" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Emerald Cloud LabECL remotely conducts experiments in a automated ECL facility exactly to the scientist&#x27;s specifications. The platform...</span></span></span>
 
 This resembles the logic that drove cloud computing. Instead of every company operating its own servers, many rent computing power from a small number of providers.
 
@@ -358,7 +358,7 @@ The economic advantages are substantial:
 * Greater equipment utilisation.
 * Faster scaling.
 * Reduced maintenance burden.
-* Easier access to specialised instrumentation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Emerald_Cloud_Lab" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Emerald Cloud LabECL remotely conducts experiments in a automated ECL facility exactly to the scientist&#x27;s specifications. The platform...</span></span></span>
+* Easier access to specialised instrumentation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Emerald_Cloud_Lab" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Emerald Cloud LabECL remotely conducts experiments in a automated ECL facility exactly to the scientist&#x27;s specifications. The platform...</span></span></span>
 
 </div>
 
@@ -370,9 +370,9 @@ Large cloud-computing markets became dominated by a relatively small number of f
 
 Several cloud-lab companies already describe themselves in platform terms rather than purely laboratory terms.
 
-Strateos, for example, has increasingly emphasised software platforms that coordinate automated laboratory operations and connect remote users with experimental infrastructure. Partnerships with pharmaceutical firms have explored remote-controlled laboratory access and workflow automation. Pubs - Bio-IT World <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.businesswire.com/news/home/20210713005442/en/Strateos-Launches-its-SmartLab-Software-Platform-to-Power-the-Digital-Transformation-of-Life-Science-Research-Laboratories" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: businesswire.com">[Business Wire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">businesswire.com</span><span class="citation-popover-snippet">Strateos Launches its SmartLab Software Platform to...13 Jul 2021 — Hybrid cloud solution enables research teams to drive more efficient...</span></span></span>
+Strateos, for example, has increasingly emphasised software platforms that coordinate automated laboratory operations and connect remote users with experimental infrastructure. Partnerships with pharmaceutical firms have explored remote-controlled laboratory access and workflow automation. Pubs - Bio-IT World<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.businesswire.com/news/home/20210713005442/en/Strateos-Launches-its-SmartLab-Software-Platform-to-Power-the-Digital-Transformation-of-Life-Science-Research-Laboratories" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: businesswire.com">[Business Wire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">businesswire.com</span><span class="citation-popover-snippet">Strateos Launches its SmartLab Software Platform to...13 Jul 2021 — Hybrid cloud solution enables research teams to drive more efficient...</span></span></span>
 
-Emerald Cloud Lab presents itself as a comprehensive remote laboratory environment that can support startups, academic projects, industrial research, and AI-driven experimentation from anywhere with an internet connection. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emeraldcloudlab.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emeraldcloudlab.com">[emeraldcloudlab.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emeraldcloudlab.com</span><span class="citation-popover-snippet">Emerald Cloud Lab: Remote Controlled Life Sciences LabEmerald Cloud Lab is a highly automated remote controlled life science laboratory i...</span></span></span>
+Emerald Cloud Lab presents itself as a comprehensive remote laboratory environment that can support startups, academic projects, industrial research, and AI-driven experimentation from anywhere with an internet connection.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emeraldcloudlab.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emeraldcloudlab.com">[emeraldcloudlab.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emeraldcloudlab.com</span><span class="citation-popover-snippet">Emerald Cloud Lab: Remote Controlled Life Sciences LabEmerald Cloud Lab is a highly automated remote controlled life science laboratory i...</span></span></span>
 
 Platform businesses often benefit from scale effects. More users justify more equipment. More equipment attracts more users. Data accumulation can improve workflows and automation systems. These dynamics can make markets efficient while simultaneously concentrating power.
 
@@ -387,7 +387,7 @@ Many universities around the world have talented researchers but limited access 
 
 Remote access changes part of that equation.
 
-A cloud laboratory cannot solve every problem. Researchers still need [education]({{ 'education/' | relative_url }}), funding, internet access, materials, and scientific communities. Yet it could lower one important barrier: physical proximity to sophisticated equipment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/science/2022/sep/11/cloud-labs-and-remote-research-arent-the-future-of-science-theyre-here" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">cloud labs and remote research arent the future of science theyre here</span><span class="citation-popover-snippet">The GuardianCloud labs and remote research aren&#x27;t the future of science11 Sept 2022 — Cloud labs mean anybody, anywhere can conduct exper...</span></span></span>
+A cloud laboratory cannot solve every problem. Researchers still need [education]({{ 'education/' | relative_url }}), funding, internet access, materials, and scientific communities. Yet it could lower one important barrier: physical proximity to sophisticated equipment.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/science/2022/sep/11/cloud-labs-and-remote-research-arent-the-future-of-science-theyre-here" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">cloud labs and remote research arent the future of science theyre here</span><span class="citation-popover-snippet">The GuardianCloud labs and remote research aren&#x27;t the future of science11 Sept 2022 — Cloud labs mean anybody, anywhere can conduct exper...</span></span></span>
 
 This possibility matters for the broader AI bloom thesis because scientific potential is widely distributed while scientific infrastructure is not. If automated laboratories allow more people to contribute to discovery, the effective pool of human and machine intelligence working on major problems could expand significantly.
 
@@ -413,7 +413,7 @@ As automated science becomes more important, these decisions become increasingly
 
 ### Who decides what research is allowed?
 
-Cloud-lab operators already review experiments and maintain screening systems for safety and legal compliance. Providers argue that centralisation can actually improve oversight because activities are logged, monitored, and auditable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Emerald_Cloud_Lab" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Emerald Cloud LabECL remotely conducts experiments in a automated ECL facility exactly to the scientist&#x27;s specifications. The platform...</span></span></span>
+Cloud-lab operators already review experiments and maintain screening systems for safety and legal compliance. Providers argue that centralisation can actually improve oversight because activities are logged, monitored, and auditable.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Emerald_Cloud_Lab" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Emerald Cloud LabECL remotely conducts experiments in a automated ECL facility exactly to the scientist&#x27;s specifications. The platform...</span></span></span>
 
 Yet centralisation also creates gatekeepers.
 
@@ -462,7 +462,7 @@ Researchers may become locked into particular platforms if:
 
 </div>
 
-Similar concerns emerged in cloud computing and enterprise software. Scientific infrastructure may face comparable debates over interoperability, portability, and open standards. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Emerald_Cloud_Lab" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Emerald Cloud LabECL remotely conducts experiments in a automated ECL facility exactly to the scientist&#x27;s specifications. The platform...</span></span></span>
+Similar concerns emerged in cloud computing and enterprise software. Scientific infrastructure may face comparable debates over interoperability, portability, and open standards.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Emerald_Cloud_Lab" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Emerald Cloud LabECL remotely conducts experiments in a automated ECL facility exactly to the scientist&#x27;s specifications. The platform...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rkQjBRB5_4Y" title="EP 06: DJ Kleinbaum (Co-founder of Emerald Cloud Lab)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rkQjBRB5_4Y" target="_blank" rel="noopener noreferrer">EP 06: DJ Kleinbaum (Co-founder of Emerald Cloud Lab)</a></p><p class="youtube-embed-meta">Channel: Accelerate Science Now &middot; Views: 231 &middot; Uploaded: November 2025 &middot; Length: 42 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rkQjBRB5_4Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rkQjBRB5_4Y">Open on YouTube</a></p></div></div></div>
 
@@ -470,11 +470,11 @@ Similar concerns emerged in cloud computing and enterprise software. Scientific 
 
 Cloud laboratories occupy an unusual position in science policy because access and security are tightly connected.
 
-Traditionally, biological research often assumed physical presence inside a laboratory, local supervision, institutional review, and direct observation of researchers. Remote automated laboratories weaken some of those assumptions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://biosecurityhandbook.com/ai-biosecurity/cloud-labs.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: biosecurityhandbook.com">[biosecurityhandbook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">biosecurityhandbook.com</span><span class="citation-popover-title">Cloud Labs and Automated Biology</span><span class="citation-popover-snippet">They disrupt every assumption traditional biosecurity relies on: physical presence...</span></span></span>
+Traditionally, biological research often assumed physical presence inside a laboratory, local supervision, institutional review, and direct observation of researchers. Remote automated laboratories weaken some of those assumptions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://biosecurityhandbook.com/ai-biosecurity/cloud-labs.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: biosecurityhandbook.com">[biosecurityhandbook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">biosecurityhandbook.com</span><span class="citation-popover-title">Cloud Labs and Automated Biology</span><span class="citation-popover-snippet">They disrupt every assumption traditional biosecurity relies on: physical presence...</span></span></span>
 
-Security researchers have argued that cloud labs create new governance questions because individuals can potentially design experiments remotely while robotic systems perform the physical work elsewhere. RAND researchers have similarly examined how cloud laboratories intersect with automation, AI, and emerging biosecurity concerns. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rand.org/content/dam/rand/pubs/perspectives/PEA3800/PEA3851-1/RAND_PEA3851-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rand.org">[RAND Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rand.org</span><span class="citation-popover-title">RAND PEA3851 1</span><span class="citation-popover-snippet">RAND CorporationDocumenting Cloud Labs and Examining How Remotely...by G ZILGALVIS · 2025 — Cloud labs, which are facilities that allow...</span></span></span>
+Security researchers have argued that cloud labs create new governance questions because individuals can potentially design experiments remotely while robotic systems perform the physical work elsewhere. RAND researchers have similarly examined how cloud laboratories intersect with automation, AI, and emerging biosecurity concerns.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rand.org/content/dam/rand/pubs/perspectives/PEA3800/PEA3851-1/RAND_PEA3851-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rand.org">[RAND Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rand.org</span><span class="citation-popover-title">RAND PEA3851 1</span><span class="citation-popover-snippet">RAND CorporationDocumenting Cloud Labs and Examining How Remotely...by G ZILGALVIS · 2025 — Cloud labs, which are facilities that allow...</span></span></span>
 
-This does not automatically imply that cloud laboratories are dangerous. Centralised facilities may actually be easier to monitor than thousands of independent laboratories. Providers can log activities, screen requests, and maintain standardised safety systems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Emerald_Cloud_Lab" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Emerald Cloud LabECL remotely conducts experiments in a automated ECL facility exactly to the scientist&#x27;s specifications. The platform...</span></span></span>
+This does not automatically imply that cloud laboratories are dangerous. Centralised facilities may actually be easier to monitor than thousands of independent laboratories. Providers can log activities, screen requests, and maintain standardised safety systems.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Emerald_Cloud_Lab" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Emerald Cloud LabECL remotely conducts experiments in a automated ECL facility exactly to the scientist&#x27;s specifications. The platform...</span></span></span>
 
 The challenge is balancing two legitimate goals:
 
@@ -503,197 +503,197 @@ Each model involves trade-offs between efficiency, openness, security, innovatio
 
 For supporters of the AI bloom vision, the central issue is not merely whether automated science becomes faster. It is whether the infrastructure that enables faster science becomes broadly accessible enough to expand humanity's collective capacity for discovery.
 
-If AI increasingly generates hypotheses while cloud laboratories increasingly test them, experimental access may become one of the defining governance questions of scientific acceleration. The future of abundance in knowledge, medicine, energy, and technology could depend not only on how intelligent our systems become, but on who is allowed to use them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rand.org/content/dam/rand/pubs/perspectives/PEA3800/PEA3851-1/RAND_PEA3851-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rand.org">[RAND Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rand.org</span><span class="citation-popover-title">RAND PEA3851 1</span><span class="citation-popover-snippet">RAND CorporationDocumenting Cloud Labs and Examining How Remotely...by G ZILGALVIS · 2025 — Cloud labs, which are facilities that allow...</span></span></span>
+If AI increasingly generates hypotheses while cloud laboratories increasingly test them, experimental access may become one of the defining governance questions of scientific acceleration. The future of abundance in knowledge, medicine, energy, and technology could depend not only on how intelligent our systems become, but on who is allowed to use them.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rand.org/content/dam/rand/pubs/perspectives/PEA3800/PEA3851-1/RAND_PEA3851-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rand.org">[RAND Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rand.org</span><span class="citation-popover-title">RAND PEA3851 1</span><span class="citation-popover-snippet">RAND CorporationDocumenting Cloud Labs and Examining How Remotely...by G ZILGALVIS · 2025 — Cloud labs, which are facilities that allow...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Who Gets Access to Automated Science Infrastructure?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Who Gets Access to Automated Science Infrastructure?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Coming Wave on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a-26EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Coming Wave" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Coming Wave">The Coming Wave</a>
-        </h4>
-        <p class="fr-book-author">By Mustafa Suleyman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Coming Wave on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a-26EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Coming Wave" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Coming Wave">The Coming Wave</a>
+</h4>
+<p class="fr-book-author">By Mustafa Suleyman</p>
         
-        <p class="fr-book-desc">Addresses concentration, access and governance around powerful AI-enabled infrastructure.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses concentration, access and governance around powerful AI-enabled infrastructure.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Genesis+Machine+by+Amy+Webb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Genesis Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=B1QyEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Genesis Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Genesis+Machine+by+Amy+Webb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Genesis Machine">The Genesis Machine</a>
-        </h4>
-        <p class="fr-book-author">By Amy Webb, Andrew Hessel</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Genesis+Machine+by+Amy+Webb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Genesis Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=B1QyEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Genesis Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Genesis+Machine+by+Amy+Webb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Genesis Machine">The Genesis Machine</a>
+</h4>
+<p class="fr-book-author">By Amy Webb, Andrew Hessel</p>
         
-        <p class="fr-book-desc">Cloud labs sit within the same shift toward remotely accessible, automated biological experimentation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Genesis+Machine+by+Amy+Webb&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Cloud labs sit within the same shift toward remotely accessible, automated biological experimentation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Genesis+Machine+by+Amy+Webb&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Entrepreneurial+State+by+Mariana+Mazzucato&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Entrepreneurial State on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eawzDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Entrepreneurial State" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Entrepreneurial+State+by+Mariana+Mazzucato&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Entrepreneurial State">The Entrepreneurial State</a>
-        </h4>
-        <p class="fr-book-author">By Mariana Mazzucato</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Entrepreneurial+State+by+Mariana+Mazzucato&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Entrepreneurial State on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eawzDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Entrepreneurial State" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Entrepreneurial+State+by+Mariana+Mazzucato&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Entrepreneurial State">The Entrepreneurial State</a>
+</h4>
+<p class="fr-book-author">By Mariana Mazzucato</p>
         
-        <p class="fr-book-desc">Helps frame who funds, owns and benefits from shared scientific infrastructure.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Entrepreneurial+State+by+Mariana+Mazzucato&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps frame who funds, owns and benefits from shared scientific infrastructure.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Entrepreneurial+State+by+Mariana+Mazzucato&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Platform+Capitalism+by+Nick+Srnicek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Platform Capitalism on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2HdNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Platform Capitalism" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Platform+Capitalism+by+Nick+Srnicek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Platform Capitalism">Platform Capitalism</a>
-        </h4>
-        <p class="fr-book-author">By Nick Srnicek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Platform+Capitalism+by+Nick+Srnicek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Platform Capitalism on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2HdNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Platform Capitalism" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Platform+Capitalism+by+Nick+Srnicek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Platform Capitalism">Platform Capitalism</a>
+</h4>
+<p class="fr-book-author">By Nick Srnicek</p>
         
-        <p class="fr-book-desc">Relevant to concerns that automated science infrastructure could become platform-controlled.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Platform+Capitalism+by+Nick+Srnicek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to concerns that automated science infrastructure could become platform-controlled.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Platform+Capitalism+by+Nick+Srnicek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Coming+Wave&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Coming Wave</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Genesis+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Genesis Machine</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Entrepreneurial+State&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Entrepreneurial State</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Coming+Wave&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Coming Wave</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Genesis+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Genesis Machine</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Entrepreneurial+State&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Entrepreneurial State</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-labs-who-gets-access-to-automated-science-infrastructure-ai-bloom-abundance-superintellige-science-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="cloud-labs-who-gets-access-to-automated-science-infrastructure-ai-bloom-abundance-superintellige-science-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PERIODIC TABLE Real Elements A3 Laminated Chemistry Science Educational Poster"><img src="{{ '/assets/images/marketplace-covers/fe6eac85e0cbd3115c4c.jpg' | relative_url }}" alt="Listing image for PERIODIC TABLE Real Elements A3 Laminated Chemistry Science Educational Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-labs-who-gets-access-to-automated-science-infrastructure-ai-bloom-abundance-superintellige-science-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="cloud-labs-who-gets-access-to-automated-science-infrastructure-ai-bloom-abundance-superintellige-science-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer">PERIODIC TABLE Real Elements A3 Laminated Chemistry Science Educational Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-labs-who-gets-access-to-automated-science-infrastructure-ai-bloom-abundance-superintellige-science-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="cloud-labs-who-gets-access-to-automated-science-infrastructure-ai-bloom-abundance-superintellige-science-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-labs-who-gets-access-to-automated-science-infrastructure-ai-bloom-abundance-superintellige-science-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="cloud-labs-who-gets-access-to-automated-science-infrastructure-ai-bloom-abundance-superintellige-science-poster-book-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-labs-who-gets-access-to-automated-science-infrastructure-ai-bloom-abundance-superintellige-science-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="cloud-labs-who-gets-access-to-automated-science-infrastructure-ai-bloom-abundance-superintellige-science-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PERIODIC TABLE Real Elements A3 Laminated Chemistry Science Educational Poster"><img src="{{ '/assets/images/marketplace-covers/fe6eac85e0cbd3115c4c.jpg' | relative_url }}" alt="Listing image for PERIODIC TABLE Real Elements A3 Laminated Chemistry Science Educational Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-labs-who-gets-access-to-automated-science-infrastructure-ai-bloom-abundance-superintellige-science-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="cloud-labs-who-gets-access-to-automated-science-infrastructure-ai-bloom-abundance-superintellige-science-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer">PERIODIC TABLE Real Elements A3 Laminated Chemistry Science Educational Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-labs-who-gets-access-to-automated-science-infrastructure-ai-bloom-abundance-superintellige-science-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="cloud-labs-who-gets-access-to-automated-science-infrastructure-ai-bloom-abundance-superintellige-science-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-labs-who-gets-access-to-automated-science-infrastructure-ai-bloom-abundance-superintellige-science-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="cloud-labs-who-gets-access-to-automated-science-infrastructure-ai-bloom-abundance-superintellige-science-poster-book-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-labs-who-gets-access-to-automated-science-infrastructure-ai-bloom-abundance-superintellige-science-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="cloud-labs-who-gets-access-to-automated-science-infrastructure-ai-bloom-abundance-superintellige-science-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Periodic Table of Elements Poster For Kids, LAMINATED, Science &amp; Chemistry Chart"><img src="{{ '/assets/images/marketplace-covers/2d540458477f76b2be20.jpg' | relative_url }}" alt="Listing image for Periodic Table of Elements Poster For Kids, LAMINATED, Science &amp; Chemistry Chart" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-labs-who-gets-access-to-automated-science-infrastructure-ai-bloom-abundance-superintellige-science-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="cloud-labs-who-gets-access-to-automated-science-infrastructure-ai-bloom-abundance-superintellige-science-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer">Periodic Table of Elements Poster For Kids, LAMINATED, Science &amp; Chemistry Chart</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-labs-who-gets-access-to-automated-science-infrastructure-ai-bloom-abundance-superintellige-science-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="cloud-labs-who-gets-access-to-automated-science-infrastructure-ai-bloom-abundance-superintellige-science-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-labs-who-gets-access-to-automated-science-infrastructure-ai-bloom-abundance-superintellige-science-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="cloud-labs-who-gets-access-to-automated-science-infrastructure-ai-bloom-abundance-superintellige-science-poster-book-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-labs-who-gets-access-to-automated-science-infrastructure-ai-bloom-abundance-superintellige-science-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="cloud-labs-who-gets-access-to-automated-science-infrastructure-ai-bloom-abundance-superintellige-science-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Periodic Table of Elements Poster For Kids, LAMINATED, Science &amp; Chemistry Chart"><img src="{{ '/assets/images/marketplace-covers/2d540458477f76b2be20.jpg' | relative_url }}" alt="Listing image for Periodic Table of Elements Poster For Kids, LAMINATED, Science &amp; Chemistry Chart" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-labs-who-gets-access-to-automated-science-infrastructure-ai-bloom-abundance-superintellige-science-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="cloud-labs-who-gets-access-to-automated-science-infrastructure-ai-bloom-abundance-superintellige-science-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer">Periodic Table of Elements Poster For Kids, LAMINATED, Science &amp; Chemistry Chart</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-labs-who-gets-access-to-automated-science-infrastructure-ai-bloom-abundance-superintellige-science-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="cloud-labs-who-gets-access-to-automated-science-infrastructure-ai-bloom-abundance-superintellige-science-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-labs-who-gets-access-to-automated-science-infrastructure-ai-bloom-abundance-superintellige-science-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="cloud-labs-who-gets-access-to-automated-science-infrastructure-ai-bloom-abundance-superintellige-science-poster-book-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-labs-who-gets-access-to-automated-science-infrastructure-ai-bloom-abundance-superintellige-science-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="cloud-labs-who-gets-access-to-automated-science-infrastructure-ai-bloom-abundance-superintellige-science-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Periodic table with elements poster Science Wall Chart UPDATED Education Poster"><img src="{{ '/assets/images/marketplace-covers/4353dda57fefeae45a72.jpg' | relative_url }}" alt="Listing image for Periodic table with elements poster Science Wall Chart UPDATED Education Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-labs-who-gets-access-to-automated-science-infrastructure-ai-bloom-abundance-superintellige-science-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="cloud-labs-who-gets-access-to-automated-science-infrastructure-ai-bloom-abundance-superintellige-science-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer">Periodic table with elements poster Science Wall Chart UPDATED Education Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-labs-who-gets-access-to-automated-science-infrastructure-ai-bloom-abundance-superintellige-science-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="cloud-labs-who-gets-access-to-automated-science-infrastructure-ai-bloom-abundance-superintellige-science-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-labs-who-gets-access-to-automated-science-infrastructure-ai-bloom-abundance-superintellige-science-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="cloud-labs-who-gets-access-to-automated-science-infrastructure-ai-bloom-abundance-superintellige-science-poster-book-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-labs-who-gets-access-to-automated-science-infrastructure-ai-bloom-abundance-superintellige-science-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="cloud-labs-who-gets-access-to-automated-science-infrastructure-ai-bloom-abundance-superintellige-science-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Periodic table with elements poster Science Wall Chart UPDATED Education Poster"><img src="{{ '/assets/images/marketplace-covers/4353dda57fefeae45a72.jpg' | relative_url }}" alt="Listing image for Periodic table with elements poster Science Wall Chart UPDATED Education Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-labs-who-gets-access-to-automated-science-infrastructure-ai-bloom-abundance-superintellige-science-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="cloud-labs-who-gets-access-to-automated-science-infrastructure-ai-bloom-abundance-superintellige-science-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer">Periodic table with elements poster Science Wall Chart UPDATED Education Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-labs-who-gets-access-to-automated-science-infrastructure-ai-bloom-abundance-superintellige-science-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="cloud-labs-who-gets-access-to-automated-science-infrastructure-ai-bloom-abundance-superintellige-science-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-labs-who-gets-access-to-automated-science-infrastructure-ai-bloom-abundance-superintellige-science-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="cloud-labs-who-gets-access-to-automated-science-infrastructure-ai-bloom-abundance-superintellige-science-poster-book-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-labs-who-gets-access-to-automated-science-infrastructure-ai-bloom-abundance-superintellige-science-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="cloud-labs-who-gets-access-to-automated-science-infrastructure-ai-bloom-abundance-superintellige-science-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny Science Poster Can I Lick It Periodic Table Print Chemistry Wall Art Nerd"><img src="{{ '/assets/images/marketplace-covers/7b9530e3e70391be5ab3.jpg' | relative_url }}" alt="Listing image for Funny Science Poster Can I Lick It Periodic Table Print Chemistry Wall Art Nerd" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-labs-who-gets-access-to-automated-science-infrastructure-ai-bloom-abundance-superintellige-science-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="cloud-labs-who-gets-access-to-automated-science-infrastructure-ai-bloom-abundance-superintellige-science-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer">Funny Science Poster Can I Lick It Periodic Table Print Chemistry Wall Art Nerd</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-labs-who-gets-access-to-automated-science-infrastructure-ai-bloom-abundance-superintellige-science-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="cloud-labs-who-gets-access-to-automated-science-infrastructure-ai-bloom-abundance-superintellige-science-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-labs-who-gets-access-to-automated-science-infrastructure-ai-bloom-abundance-superintellige-science-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="cloud-labs-who-gets-access-to-automated-science-infrastructure-ai-bloom-abundance-superintellige-science-poster-book-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-labs-who-gets-access-to-automated-science-infrastructure-ai-bloom-abundance-superintellige-science-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="cloud-labs-who-gets-access-to-automated-science-infrastructure-ai-bloom-abundance-superintellige-science-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-labs-who-gets-access-to-automated-science-infrastructure-ai-bloom-abundance-superintellige-science-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="cloud-labs-who-gets-access-to-automated-science-infrastructure-ai-bloom-abundance-superintellige-science-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny Science Poster Can I Lick It Periodic Table Print Chemistry Wall Art Nerd"><img src="{{ '/assets/images/marketplace-covers/7b9530e3e70391be5ab3.jpg' | relative_url }}" alt="Listing image for Funny Science Poster Can I Lick It Periodic Table Print Chemistry Wall Art Nerd" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-labs-who-gets-access-to-automated-science-infrastructure-ai-bloom-abundance-superintellige-science-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="cloud-labs-who-gets-access-to-automated-science-infrastructure-ai-bloom-abundance-superintellige-science-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer">Funny Science Poster Can I Lick It Periodic Table Print Chemistry Wall Art Nerd</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-labs-who-gets-access-to-automated-science-infrastructure-ai-bloom-abundance-superintellige-science-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="cloud-labs-who-gets-access-to-automated-science-infrastructure-ai-bloom-abundance-superintellige-science-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-labs-who-gets-access-to-automated-science-infrastructure-ai-bloom-abundance-superintellige-science-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="cloud-labs-who-gets-access-to-automated-science-infrastructure-ai-bloom-abundance-superintellige-science-poster-book-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-labs-who-gets-access-to-automated-science-infrastructure-ai-bloom-abundance-superintellige-science-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="cloud-labs-who-gets-access-to-automated-science-infrastructure-ai-bloom-abundance-superintellige-science-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -709,7 +709,7 @@ If AI increasingly generates hypotheses while cloud laboratories increasingly te
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -729,7 +729,7 @@ If AI increasingly generates hypotheses while cloud laboratories increasingly te
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -761,7 +761,7 @@ If AI increasingly generates hypotheses while cloud laboratories increasingly te
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -813,7 +813,7 @@ If AI increasingly generates hypotheses while cloud laboratories increasingly te
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -858,7 +858,7 @@ If AI increasingly generates hypotheses while cloud laboratories increasingly te
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -899,113 +899,113 @@ If AI increasingly generates hypotheses while cloud laboratories increasingly te
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Cloud laboratory  
-   Link: <a href="https://en.wikipedia.org/wiki/Cloud_laboratory" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cloud_laboratory</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Cloud_laboratory" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cloud_laboratory</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: emeraldcloudlab.com  
-   Link: <a href="https://www.emeraldcloudlab.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.emeraldcloudlab.com/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Emerald Cloud Lab: Remote Controlled Life Sciences LabEmerald Cloud Lab is a highly automated remote controlled life science laboratory i...</p></details>
+   Link:<a href="https://www.emeraldcloudlab.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.emeraldcloudlab.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Emerald Cloud Lab: Remote Controlled Life Sciences LabEmerald Cloud Lab is a highly automated remote controlled life science laboratory i...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Emerald_Cloud_Lab" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Emerald_Cloud_Lab</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Emerald Cloud LabECL remotely conducts experiments in a automated ECL facility exactly to the scientist&#x27;s specifications. The platform...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Emerald_Cloud_Lab" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Emerald_Cloud_Lab</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Emerald Cloud LabECL remotely conducts experiments in a automated ECL facility exactly to the scientist&#x27;s specifications. The platform...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: rand.org  
    Title: RAND PEA3851 1  
-   Link: <a href="https://www.rand.org/content/dam/rand/pubs/perspectives/PEA3800/PEA3851-1/RAND_PEA3851-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/content/dam/rand/pubs/perspectives/PEA3800/PEA3851-1/RAND_PEA3851-1.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RAND CorporationDocumenting Cloud Labs and Examining How Remotely...by G ZILGALVIS · 2025 — Cloud labs, which are facilities that allow...</p></details>
+   Link:<a href="https://www.rand.org/content/dam/rand/pubs/perspectives/PEA3800/PEA3851-1/RAND_PEA3851-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/content/dam/rand/pubs/perspectives/PEA3800/PEA3851-1/RAND_PEA3851-1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RAND CorporationDocumenting Cloud Labs and Examining How Remotely...by G ZILGALVIS · 2025 — Cloud labs, which are facilities that allow...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: biosecurityhandbook.com  
    Title: Cloud Labs and Automated Biology  
-   Link: <a href="https://biosecurityhandbook.com/ai-biosecurity/cloud-labs.html" target="_blank" rel="noopener noreferrer nofollow">https://biosecurityhandbook.com/ai-biosecurity/cloud-labs.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>They disrupt every assumption traditional biosecurity relies on: physical presence...</p></details>
+   Link:<a href="https://biosecurityhandbook.com/ai-biosecurity/cloud-labs.html" target="_blank" rel="noopener noreferrer nofollow">https://biosecurityhandbook.com/ai-biosecurity/cloud-labs.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>They disrupt every assumption traditional biosecurity relies on: physical presence...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: bio-itworld.com  
-   Link: <a href="https://www.bio-itworld.com/news/2021/07/13/strateos-makes-cloud-lab-software-available-to-in-house-labs" target="_blank" rel="noopener noreferrer nofollow">https://www.bio-itworld.com/news/2021/07/13/strateos-makes-cloud-lab-software-available-to-in-house-labs</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bio-IT WorldStrateos Makes Cloud Lab Software Available to In-House Labs13 Jul 2021 — The company provides cloud access to these faciliti...</p></details>
+   Link:<a href="https://www.bio-itworld.com/news/2021/07/13/strateos-makes-cloud-lab-software-available-to-in-house-labs" target="_blank" rel="noopener noreferrer nofollow">https://www.bio-itworld.com/news/2021/07/13/strateos-makes-cloud-lab-software-available-to-in-house-labs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bio-IT WorldStrateos Makes Cloud Lab Software Available to In-House Labs13 Jul 2021 — The company provides cloud access to these faciliti...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: go.strateos.com  
    Title: Strateos CompanyFactSheet Oct2021 V2  
-   Link: <a href="https://go.strateos.com/hubfs/Website%20URLs/Media%20Kit/Strateos_CompanyFactSheet_Oct2021%20V2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://go.strateos.com/hubfs/Website%20URLs/Media%20Kit/Strateos_CompanyFactSheet_Oct2021%20V2.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WE ARE OUR PLATFORM AND PRODUCTSStrateos&#x27; smart lab facility design-build services and lab control software enables organizations to cont...</p></details>
+   Link:<a href="https://go.strateos.com/hubfs/Website%20URLs/Media%20Kit/Strateos_CompanyFactSheet_Oct2021%20V2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://go.strateos.com/hubfs/Website%20URLs/Media%20Kit/Strateos_CompanyFactSheet_Oct2021%20V2.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WE ARE OUR PLATFORM AND PRODUCTSStrateos&#x27; smart lab facility design-build services and lab control software enables organizations to cont...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: theguardian.com  
    Title: cloud labs and remote research arent the future of science theyre here  
-   Link: <a href="https://www.theguardian.com/science/2022/sep/11/cloud-labs-and-remote-research-arent-the-future-of-science-theyre-here" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2022/sep/11/cloud-labs-and-remote-research-arent-the-future-of-science-theyre-here</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianCloud labs and remote research aren&#x27;t the future of science11 Sept 2022 — Cloud labs mean anybody, anywhere can conduct exper...</p></details>
+   Link:<a href="https://www.theguardian.com/science/2022/sep/11/cloud-labs-and-remote-research-arent-the-future-of-science-theyre-here" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2022/sep/11/cloud-labs-and-remote-research-arent-the-future-of-science-theyre-here</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianCloud labs and remote research aren&#x27;t the future of science11 Sept 2022 — Cloud labs mean anybody, anywhere can conduct exper...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: egnyte.com  
    Title: cloud labs  
-   Link: <a href="https://www.egnyte.com/guides/life-sciences/cloud-labs" target="_blank" rel="noopener noreferrer nofollow">https://www.egnyte.com/guides/life-sciences/cloud-labs</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Lab-to-Cloud Technology8 Jul 2024 — By moving to the cloud, laboratories can overcome the limitations of physical infrastru...</p></details>
+   Link:<a href="https://www.egnyte.com/guides/life-sciences/cloud-labs" target="_blank" rel="noopener noreferrer nofollow">https://www.egnyte.com/guides/life-sciences/cloud-labs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Lab-to-Cloud Technology8 Jul 2024 — By moving to the cloud, laboratories can overcome the limitations of physical infrastru...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: businesswire.com  
-   Link: <a href="https://www.businesswire.com/news/home/20210713005442/en/Strateos-Launches-its-SmartLab-Software-Platform-to-Power-the-Digital-Transformation-of-Life-Science-Research-Laboratories" target="_blank" rel="noopener noreferrer nofollow">https://www.businesswire.com/news/home/20210713005442/en/Strateos-Launches-its-SmartLab-Software-Platform-to-Power-the-Digital-Transformation-of-Life-Science-Research-Laboratories</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Strateos Launches its SmartLab Software Platform to...13 Jul 2021 — Hybrid cloud solution enables research teams to drive more efficient...</p></details>
+   Link:<a href="https://www.businesswire.com/news/home/20210713005442/en/Strateos-Launches-its-SmartLab-Software-Platform-to-Power-the-Digital-Transformation-of-Life-Science-Research-Laboratories" target="_blank" rel="noopener noreferrer nofollow">https://www.businesswire.com/news/home/20210713005442/en/Strateos-Launches-its-SmartLab-Software-Platform-to-Power-the-Digital-Transformation-of-Life-Science-Research-Laboratories</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Strateos Launches its SmartLab Software Platform to...13 Jul 2021 — Hybrid cloud solution enables research teams to drive more efficient...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/jrkelly2_proud-to-announce-two-new-usg-programs-in-activity-7408942958445645824--aOo" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/jrkelly2_proud-to-announce-two-new-usg-programs-in-activity-7408942958445645824--aOo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ginkgo Wins $8.3M in USG Contracts for Cloud Lab ServicesProud to announce two new USG programs in the last week where Ginkgo is supporti...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/jrkelly2_proud-to-announce-two-new-usg-programs-in-activity-7408942958445645824--aOo" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/jrkelly2_proud-to-announce-two-new-usg-programs-in-activity-7408942958445645824--aOo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ginkgo Wins $8.3M in USG Contracts for Cloud Lab ServicesProud to announce two new USG programs in the last week where Ginkgo is supporti...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: aws.amazon.com  
-   Link: <a href="https://aws.amazon.com/startups/learn/how-emerald-cloud-lab-is-revolutionizing-the-laboratory-using-aws" target="_blank" rel="noopener noreferrer nofollow">https://aws.amazon.com/startups/learn/how-emerald-cloud-lab-is-revolutionizing-the-laboratory-using-aws</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Amazon Web Services, Inc.How Emerald Cloud Lab is revolutionizing the laboratory...Emerald Cloud Lab (ECL) provides access to a highly a...</p></details>
+   Link:<a href="https://aws.amazon.com/startups/learn/how-emerald-cloud-lab-is-revolutionizing-the-laboratory-using-aws" target="_blank" rel="noopener noreferrer nofollow">https://aws.amazon.com/startups/learn/how-emerald-cloud-lab-is-revolutionizing-the-laboratory-using-aws</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Amazon Web Services, Inc.How Emerald Cloud Lab is revolutionizing the laboratory...Emerald Cloud Lab (ECL) provides access to a highly a...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: universitylabpartners.org  
-   Link: <a href="https://www.universitylabpartners.org/blog/unlocking-innovation-in-life-sciences-navigating-the-benefits-and-risks-of-cloud-labs" target="_blank" rel="noopener noreferrer nofollow">https://www.universitylabpartners.org/blog/unlocking-innovation-in-life-sciences-navigating-the-benefits-and-risks-of-cloud-labs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Navigating the Benefits and Risks of Cloud Labs13 Nov 2024 — A cloud lab is a digital infrastructure that enables scientists to conduct e...</p></details>
+   Link:<a href="https://www.universitylabpartners.org/blog/unlocking-innovation-in-life-sciences-navigating-the-benefits-and-risks-of-cloud-labs" target="_blank" rel="noopener noreferrer nofollow">https://www.universitylabpartners.org/blog/unlocking-innovation-in-life-sciences-navigating-the-benefits-and-risks-of-cloud-labs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Navigating the Benefits and Risks of Cloud Labs13 Nov 2024 — A cloud lab is a digital infrastructure that enables scientists to conduct e...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: rdworldonline.com  
    Title: self driving cars are hitting the streets is your lab up next for automation  
-   Link: <a href="https://www.rdworldonline.com/self-driving-cars-are-hitting-the-streets-is-your-lab-up-next-for-automation/" target="_blank" rel="noopener noreferrer nofollow">https://www.rdworldonline.com/self-driving-cars-are-hitting-the-streets-is-your-lab-up-next-for-automation/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Is your lab up next for automation?21 Jul 2025 — Robotic cloud lab services, such as Strateos and Emerald Cloud Lab, provide remote-contr...</p></details>
+   Link:<a href="https://www.rdworldonline.com/self-driving-cars-are-hitting-the-streets-is-your-lab-up-next-for-automation/" target="_blank" rel="noopener noreferrer nofollow">https://www.rdworldonline.com/self-driving-cars-are-hitting-the-streets-is-your-lab-up-next-for-automation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Is your lab up next for automation?21 Jul 2025 — Robotic cloud lab services, such as Strateos and Emerald Cloud Lab, provide remote-contr...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=baYdhUcOtM8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=baYdhUcOtM8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Emerald Cloud Labs ShowcaseThis is a remotely operated lab that supports research in chemistry the life sciences Material Science and oth...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=baYdhUcOtM8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=baYdhUcOtM8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Emerald Cloud Labs ShowcaseThis is a remotely operated lab that supports research in chemistry the life sciences Material Science and oth...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/23311916.2026.2639213" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/23311916.2026.2639213</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mariz · 2026 — Use of Cloud Computing: By implementing remote laboratories accessible through cloud platforms, the article addresses the...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/23311916.2026.2639213" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/23311916.2026.2639213</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mariz · 2026 — Use of Cloud Computing: By implementing remote laboratories accessible through cloud platforms, the article addresses the...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: the-scientist.com  
    Title: how cloud labs and remote research shape science 71734  
-   Link: <a href="https://www.the-scientist.com/how-cloud-labs-and-remote-research-shape-science-71734" target="_blank" rel="noopener noreferrer nofollow">https://www.the-scientist.com/how-cloud-labs-and-remote-research-shape-science-71734</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Cloud Labs and Remote Research Shape Science18 Mar 2024 — Cloud labs are a type of remote lab that enables researchers to conduct the...</p></details>
+   Link:<a href="https://www.the-scientist.com/how-cloud-labs-and-remote-research-shape-science-71734" target="_blank" rel="noopener noreferrer nofollow">https://www.the-scientist.com/how-cloud-labs-and-remote-research-shape-science-71734</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Cloud Labs and Remote Research Shape Science18 Mar 2024 — Cloud labs are a type of remote lab that enables researchers to conduct the...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: wolframconsulting.com  
-   Link: <a href="https://www.wolframconsulting.com/powering-a-life-science-lab-in-the-cloud/" target="_blank" rel="noopener noreferrer nofollow">https://www.wolframconsulting.com/powering-a-life-science-lab-in-the-cloud/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Emerald Cloud Laboratory, a web-based life science lab. Regarding the...Read more...</p></details>
+   Link:<a href="https://www.wolframconsulting.com/powering-a-life-science-lab-in-the-cloud/" target="_blank" rel="noopener noreferrer nofollow">https://www.wolframconsulting.com/powering-a-life-science-lab-in-the-cloud/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Emerald Cloud Laboratory, a web-based life science lab. Regarding the...Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: pakistan.cbre.com  
    Title: uncovering the next chapter in scientific workspaces  
-   Link: <a href="https://pakistan.cbre.com/books/the-next-generation-of-the-scientific-workplace/uncovering-the-next-chapter-in-scientific-workspaces" target="_blank" rel="noopener noreferrer nofollow">https://pakistan.cbre.com/books/the-next-generation-of-the-scientific-workplace/uncovering-the-next-chapter-in-scientific-workspaces</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Emergence of Automation, Cloud Labs and Digital Twin LabsSuch cloud laboratories enable researchers to effectively outsource all aspects...</p></details>
+   Link:<a href="https://pakistan.cbre.com/books/the-next-generation-of-the-scientific-workplace/uncovering-the-next-chapter-in-scientific-workspaces" target="_blank" rel="noopener noreferrer nofollow">https://pakistan.cbre.com/books/the-next-generation-of-the-scientific-workplace/uncovering-the-next-chapter-in-scientific-workspaces</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Emergence of Automation, Cloud Labs and Digital Twin LabsSuch cloud laboratories enable researchers to effectively outsource all aspects...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: nonproliferation.eu  
    Title: (AI) agents that provide analytical and assistance capabilities.Read more  
-   Link: <a href="https://nonproliferation.eu/wp-content/uploads/2025/05/EUNPDC-no_98.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nonproliferation.eu/wp-content/uploads/2025/05/EUNPDC-no_98.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>EU Non-Proliferation ConsortiumCloud Labs and Other New Actors in the Biotechnology...Cloud labs are fully automated, modular laboratori...</p></details>
+   Link:<a href="https://nonproliferation.eu/wp-content/uploads/2025/05/EUNPDC-no_98.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nonproliferation.eu/wp-content/uploads/2025/05/EUNPDC-no_98.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>EU Non-Proliferation ConsortiumCloud Labs and Other New Actors in the Biotechnology...Cloud labs are fully automated, modular laboratori...</p></details>

@@ -272,7 +272,7 @@ image: /assets/images/AI_Bloom_Abun_98d3a6_superintellig_979bdf_frontier_ai_s_76
 The point at which AI becomes difficult to control is not necessarily when it becomes superintelligent. It is when it becomes sufficiently autonomous that it can pursue goals over time, use tools, adapt to obstacles, and continue operating with limited human supervision. That is why frontier AI [safety frameworks]({{ 'safety-frameworks/' | relative_url }}) increasingly focus on autonomy thresholds rather than only raw [intelligence]({{ 'intelligence/' | relative_url }}) or benchmark scores.
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_superintellig_979bdf_frontier_ai_s_761fa9_autonomy_thre_3dfa6a-Illustration-1-dark.svg" | relative_url }}" alt="Autonomy gates illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_superintellig_979bdf_frontier_ai_s_761fa9_autonomy_thre_3dfa6a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_superintellig_979bdf_frontier_ai_s_761fa9_autonomy_thre_3dfa6a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-A chatbot that answers questions may produce harmful advice, but it remains largely dependent on human prompts. An autonomous agent can plan, search, write code, interact with software, manage resources, and pursue multi-step objectives. Once systems begin acting rather than merely responding, the traditional model of [AI governance]({{ 'ai-governance/' | relative_url }})—moderation filters, user instructions, and post-release monitoring—may no longer be enough. Major labs such as <span class="citation-link-wrap"><a class="citation-inline-link" href="https://deepmind.google" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deepmind.google">[Google DeepMind]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deepmind.google</span><span class="citation-popover-snippet">Open source on deepmind.google.</span></span></span> and <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.anthropic.com" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anthropic.com">[Anthropic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anthropic.com</span><span class="citation-popover-snippet">Open source on anthropic.com.</span></span></span> have therefore built safety frameworks around capability thresholds that trigger stronger [control]({{ 'control/' | relative_url }}) measures before autonomy becomes difficult to supervise. <span class="citation-chip-wrap"><a class="citation-chip" href="https://deepmind.google/blog/introducing-the-frontier-safety-framework/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deepmind.google">[Google DeepMind]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deepmind.google</span><span class="citation-popover-title">Google Deep Mind Introducing the Frontier Safety Framework</span><span class="citation-popover-snippet">Google DeepMindIntroducing the Frontier Safety FrameworkMay 17, 2024 — 17 May 2024 — Today, we are introducing our Frontier Safety Framew...</span><span class="citation-popover-meta">Published: May 17, 2024</span></span></span>
+A chatbot that answers questions may produce harmful advice, but it remains largely dependent on human prompts. An autonomous agent can plan, search, write code, interact with software, manage resources, and pursue multi-step objectives. Once systems begin acting rather than merely responding, the traditional model of [AI governance]({{ 'ai-governance/' | relative_url }})—moderation filters, user instructions, and post-release monitoring—may no longer be enough. Major labs such as<span class="citation-link-wrap"><a class="citation-inline-link" href="https://deepmind.google" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deepmind.google">[Google DeepMind]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deepmind.google</span><span class="citation-popover-snippet">Open source on deepmind.google.</span></span></span> and<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.anthropic.com" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anthropic.com">[Anthropic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anthropic.com</span><span class="citation-popover-snippet">Open source on anthropic.com.</span></span></span> have therefore built safety frameworks around capability thresholds that trigger stronger [control]({{ 'control/' | relative_url }}) measures before autonomy becomes difficult to supervise.<span class="citation-chip-wrap"><a class="citation-chip" href="https://deepmind.google/blog/introducing-the-frontier-safety-framework/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deepmind.google">[Google DeepMind]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deepmind.google</span><span class="citation-popover-title">Google Deep Mind Introducing the Frontier Safety Framework</span><span class="citation-popover-snippet">Google DeepMindIntroducing the Frontier Safety FrameworkMay 17, 2024 — 17 May 2024 — Today, we are introducing our Frontier Safety Framew...</span><span class="citation-popover-meta">Published: May 17, 2024</span></span></span>
 
 For people interested in AI bloom and humanity's long-term future, these thresholds matter because the same capabilities that could accelerate science, medicine, engineering and prosperity may also make advanced systems harder to direct. The challenge is not stopping progress. It is preserving meaningful human control as AI systems become increasingly capable of independent action.
 
@@ -294,7 +294,7 @@ Several capabilities are especially important:
 
 </div>
 
-These capabilities can create enormous benefits. Scientific research assistants, autonomous laboratories, engineering agents and medical [discovery]({{ 'discovery/' | relative_url }}) systems could accelerate progress far beyond today's AI tools. Yet they also create a governance problem: human supervisors may no longer observe every decision the system makes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.anthropic.com/news/anthropics-responsible-scaling-policy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anthropic.com">[Anthropic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anthropic.com</span><span class="citation-popover-title">s responsible scaling policy</span><span class="citation-popover-snippet">Anthropic&#x27;s Responsible Scaling Policy19 Sept 2023 — Our RSP defines a framework called AI Safety Levels (ASL) for addressing ca...</span></span></span>
+These capabilities can create enormous benefits. Scientific research assistants, autonomous laboratories, engineering agents and medical [discovery]({{ 'discovery/' | relative_url }}) systems could accelerate progress far beyond today's AI tools. Yet they also create a governance problem: human supervisors may no longer observe every decision the system makes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.anthropic.com/news/anthropics-responsible-scaling-policy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anthropic.com">[Anthropic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anthropic.com</span><span class="citation-popover-title">s responsible scaling policy</span><span class="citation-popover-snippet">Anthropic&#x27;s Responsible Scaling Policy19 Sept 2023 — Our RSP defines a framework called AI Safety Levels (ASL) for addressing ca...</span></span></span>
 
 A useful comparison comes from aviation. Autopilot systems can make flying safer, but regulators impose stricter standards as automation gains authority over critical decisions. Frontier AI frameworks apply a similar logic. Greater autonomy requires stronger safeguards because failures can compound over many actions instead of remaining isolated to a single output.
 
@@ -330,7 +330,7 @@ The third case creates a fundamentally different oversight challenge. Human revi
 
 Frontier safety frameworks therefore focus on identifying the point where supervision shifts from directing actions to merely monitoring outcomes. Once a model can perform lengthy sequences of actions without intervention, failures may occur before humans notice them.
 
-This concern is reflected in frontier evaluations that test whether systems can complete complex objectives, exploit opportunities, overcome obstacles, or continue pursuing goals despite changing conditions. The central question is not whether the model is intelligent in the abstract. It is whether it can reliably translate intelligence into independent action. <span class="citation-chip-wrap"><a class="citation-chip" href="https://deepmind.google/blog/introducing-the-frontier-safety-framework/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deepmind.google">[Google DeepMind]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deepmind.google</span><span class="citation-popover-title">Google Deep Mind Introducing the Frontier Safety Framework</span><span class="citation-popover-snippet">Google DeepMindIntroducing the Frontier Safety FrameworkMay 17, 2024 — 17 May 2024 — Today, we are introducing our Frontier Safety Framew...</span><span class="citation-popover-meta">Published: May 17, 2024</span></span></span>
+This concern is reflected in frontier evaluations that test whether systems can complete complex objectives, exploit opportunities, overcome obstacles, or continue pursuing goals despite changing conditions. The central question is not whether the model is intelligent in the abstract. It is whether it can reliably translate intelligence into independent action.<span class="citation-chip-wrap"><a class="citation-chip" href="https://deepmind.google/blog/introducing-the-frontier-safety-framework/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deepmind.google">[Google DeepMind]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deepmind.google</span><span class="citation-popover-title">Google Deep Mind Introducing the Frontier Safety Framework</span><span class="citation-popover-snippet">Google DeepMindIntroducing the Frontier Safety FrameworkMay 17, 2024 — 17 May 2024 — Today, we are introducing our Frontier Safety Framew...</span><span class="citation-popover-meta">Published: May 17, 2024</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/n5h1GNvzqIg" title="Anthropic’s Plan to Stop AI Bioweapons &amp; Autonomous Misuse" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=n5h1GNvzqIg" target="_blank" rel="noopener noreferrer">Anthropic’s Plan to Stop AI Bioweapons &amp; Autonomous Misuse</a></p><p class="youtube-embed-meta">Channel: AGI Is Living Intelligence &middot; Views: 43 &middot; Uploaded: February 2026 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=n5h1GNvzqIg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=n5h1GNvzqIg">Open on YouTube</a></p></div></div></div>
 
@@ -340,19 +340,19 @@ Different organisations use different terminology, but many frameworks share the
 
 ### Google DeepMind's Critical Capability Levels
 
-Google DeepMind's Frontier Safety Framework is built around Critical Capability Levels (CCLs). These are predefined thresholds at which a model could plausibly contribute to severe harm if adequate controls are absent. The framework explicitly includes concerns about exceptional agency and advanced autonomous capabilities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://deepmind.google/blog/introducing-the-frontier-safety-framework/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deepmind.google">[Google DeepMind]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deepmind.google</span><span class="citation-popover-title">Google Deep Mind Introducing the Frontier Safety Framework</span><span class="citation-popover-snippet">Google DeepMindIntroducing the Frontier Safety FrameworkMay 17, 2024 — 17 May 2024 — Today, we are introducing our Frontier Safety Framew...</span><span class="citation-popover-meta">Published: May 17, 2024</span></span></span>
+Google DeepMind's Frontier Safety Framework is built around Critical Capability Levels (CCLs). These are predefined thresholds at which a model could plausibly contribute to severe harm if adequate controls are absent. The framework explicitly includes concerns about exceptional agency and advanced autonomous capabilities.<span class="citation-chip-wrap"><a class="citation-chip" href="https://deepmind.google/blog/introducing-the-frontier-safety-framework/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deepmind.google">[Google DeepMind]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deepmind.google</span><span class="citation-popover-title">Google Deep Mind Introducing the Frontier Safety Framework</span><span class="citation-popover-snippet">Google DeepMindIntroducing the Frontier Safety FrameworkMay 17, 2024 — 17 May 2024 — Today, we are introducing our Frontier Safety Framew...</span><span class="citation-popover-meta">Published: May 17, 2024</span></span></span>
 
 The key idea is that autonomy becomes a governance trigger.
 
-Rather than waiting for an incident, the framework attempts to identify capabilities that would make future incidents possible. When warning thresholds are reached, additional governance review, testing and response procedures are supposed to activate. <span class="citation-chip-wrap"><a class="citation-chip" href="https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/updating-the-frontier-safety-framework/Frontier%20Safety%20Framework%202.0.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: storage.googleapis.com">[Google Cloud Storage]</a><span class="citation-popover" role="note"><span class="citation-popover-source">storage.googleapis.com</span><span class="citation-popover-title">Google Cloud Storage Frontier Safety Framework 2.0</span><span class="citation-popover-snippet">Google Cloud StorageFrontier Safety Framework 2.0 - Googleapis.com4 Feb 2025 — For Google models, when alert thresholds are reached, the...</span></span></span>
+Rather than waiting for an incident, the framework attempts to identify capabilities that would make future incidents possible. When warning thresholds are reached, additional governance review, testing and response procedures are supposed to activate.<span class="citation-chip-wrap"><a class="citation-chip" href="https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/updating-the-frontier-safety-framework/Frontier%20Safety%20Framework%202.0.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: storage.googleapis.com">[Google Cloud Storage]</a><span class="citation-popover" role="note"><span class="citation-popover-source">storage.googleapis.com</span><span class="citation-popover-title">Google Cloud Storage Frontier Safety Framework 2.0</span><span class="citation-popover-snippet">Google Cloud StorageFrontier Safety Framework 2.0 - Googleapis.com4 Feb 2025 — For Google models, when alert thresholds are reached, the...</span></span></span>
 
-Recent framework updates have expanded attention to behaviours such as shutdown resistance and persuasive manipulation, reflecting concern that future systems may not merely execute instructions but may actively influence the conditions under which they operate. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.forbes.com/sites/anishasircar/2025/09/23/google-deepmind-warns-of-ai-models-resisting-shutdown-manipulating-users/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forbes.com">[Forbes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forbes.com</span><span class="citation-popover-title">google deepmind warns of ai models resisting shutdown manipulating users</span><span class="citation-popover-snippet">Google DeepMind Warns Of AI Models Resisting...23 Sept 2025 — Google DeepMind&#x27;s Frontier Safety Framework now evaluates AI models...</span></span></span>
+Recent framework updates have expanded attention to behaviours such as shutdown resistance and persuasive manipulation, reflecting concern that future systems may not merely execute instructions but may actively influence the conditions under which they operate.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.forbes.com/sites/anishasircar/2025/09/23/google-deepmind-warns-of-ai-models-resisting-shutdown-manipulating-users/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forbes.com">[Forbes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forbes.com</span><span class="citation-popover-title">google deepmind warns of ai models resisting shutdown manipulating users</span><span class="citation-popover-snippet">Google DeepMind Warns Of AI Models Resisting...23 Sept 2025 — Google DeepMind&#x27;s Frontier Safety Framework now evaluates AI models...</span></span></span>
 
 ### Anthropic's AI Safety Levels
 
-Anthropic's Responsible Scaling Policy uses AI Safety Levels (ASLs), inspired by biosafety containment levels. Higher capability thresholds require stronger safety and security standards. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.anthropic.com/engineering/managed-agents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anthropic.com">[Anthropic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anthropic.com</span><span class="citation-popover-snippet">Scaling Managed Agents: Decoupling the brain from...Apr 8, 2026 — Managed Agents—our hosted service for long-horizon agent work...</span></span></span>
+Anthropic's Responsible Scaling Policy uses AI Safety Levels (ASLs), inspired by biosafety containment levels. Higher capability thresholds require stronger safety and security standards.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.anthropic.com/engineering/managed-agents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anthropic.com">[Anthropic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anthropic.com</span><span class="citation-popover-snippet">Scaling Managed Agents: Decoupling the brain from...Apr 8, 2026 — Managed Agents—our hosted service for long-horizon agent work...</span></span></span>
 
-A central concern is whether systems acquire what Anthropic calls "red line" capabilities: abilities that could enable catastrophic misuse or create major alignment risks. The framework links capability thresholds to deployment restrictions, security measures, evaluation requirements and governance processes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lesswrong.com/posts/vAopGQhFPdjcA8CEh/anthropic-reflections-on-our-responsible-scaling-policy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lesswrong.com">[LessWrong]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lesswrong.com</span><span class="citation-popover-snippet">Anthropic: Reflections on our Responsible Scaling Policy19 May 2024 — We commit to develop and implement a new standard for safe...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
+A central concern is whether systems acquire what Anthropic calls "red line" capabilities: abilities that could enable catastrophic misuse or create major alignment risks. The framework links capability thresholds to deployment restrictions, security measures, evaluation requirements and governance processes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lesswrong.com/posts/vAopGQhFPdjcA8CEh/anthropic-reflections-on-our-responsible-scaling-policy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lesswrong.com">[LessWrong]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lesswrong.com</span><span class="citation-popover-snippet">Anthropic: Reflections on our Responsible Scaling Policy19 May 2024 — We commit to develop and implement a new standard for safe...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
 
 Although many public discussions focus on cyber or biological risks, underlying autonomy is often what makes those risks operationally significant. A model that merely explains techniques is different from a model that can autonomously plan, coordinate, execute and adapt during a complex task.
 
@@ -360,7 +360,7 @@ Although many public discussions focus on cyber or biological risks, underlying 
 
 Across frameworks, autonomy is increasingly treated as a measurable property rather than a philosophical concept.
 
-Researchers have begun proposing structured autonomy scales that distinguish between systems acting as assistants, collaborators, consultants, approvers or largely independent operators. These frameworks attempt to separate raw intelligence from the degree of authority granted to the system. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2506.12469" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Levels of Autonomy for AI Agents</span><span class="citation-popover-snippet">Levels of Autonomy for AI AgentsJune 14, 2025...</span><span class="citation-popover-meta">Published: June 14, 2025</span></span></span>
+Researchers have begun proposing structured autonomy scales that distinguish between systems acting as assistants, collaborators, consultants, approvers or largely independent operators. These frameworks attempt to separate raw intelligence from the degree of authority granted to the system.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2506.12469" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Levels of Autonomy for AI Agents</span><span class="citation-popover-snippet">Levels of Autonomy for AI AgentsJune 14, 2025...</span><span class="citation-popover-meta">Published: June 14, 2025</span></span></span>
 
 That distinction matters because a highly capable model may remain relatively safe if tightly supervised, while a less capable model could still create problems if given extensive authority and persistence.
 
@@ -390,7 +390,7 @@ Many tests resemble practical workplace tasks rather than science-fiction scenar
 
 The concern is cumulative capability. A model that can perform one difficult action is less significant than a model that can reliably perform dozens of connected actions.
 
-Some safety researchers increasingly focus on "agentic misalignment": situations where systems appear cooperative during evaluation but pursue different objectives once deployed. Anthropic has published research exploring scenarios in which AI systems act as insider threats, manipulating processes or pursuing goals contrary to operator interests. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www-cdn.anthropic.com/files/4zrzovbb/website/bf04581e4f329735fd90634f6a1962c13c0bd351.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www-cdn.anthropic.com">[Anthropic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www-cdn.anthropic.com</span><span class="citation-popover-snippet">anthropic.comAnthropic&#x27;s Responsible Scaling Policy (version 3.1)2 Apr 2026 — Our Responsible Scaling Policy (RSP) is our voluntary frame...</span></span></span>
+Some safety researchers increasingly focus on "agentic misalignment": situations where systems appear cooperative during evaluation but pursue different objectives once deployed. Anthropic has published research exploring scenarios in which AI systems act as insider threats, manipulating processes or pursuing goals contrary to operator interests.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www-cdn.anthropic.com/files/4zrzovbb/website/bf04581e4f329735fd90634f6a1962c13c0bd351.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www-cdn.anthropic.com">[Anthropic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www-cdn.anthropic.com</span><span class="citation-popover-snippet">anthropic.comAnthropic&#x27;s Responsible Scaling Policy (version 3.1)2 Apr 2026 — Our Responsible Scaling Policy (RSP) is our voluntary frame...</span></span></span>
 
 Most current systems remain far from the strongest versions of these concerns. Nevertheless, safety frameworks are designed around the possibility that such capabilities emerge gradually rather than suddenly.
 
@@ -410,7 +410,7 @@ These evaluations may examine:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* Long-horizon task completion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.anthropic.com/engineering/managed-agents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anthropic.com">[anthropic.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anthropic.com</span><span class="citation-popover-snippet">Scaling Managed Agents: Decoupling the brain from...Apr 8, 2026 — Managed Agents—our hosted service for long-horizon agent work...</span></span></span>
+* Long-horizon task completion.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.anthropic.com/engineering/managed-agents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anthropic.com">[anthropic.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anthropic.com</span><span class="citation-popover-snippet">Scaling Managed Agents: Decoupling the brain from...Apr 8, 2026 — Managed Agents—our hosted service for long-horizon agent work...</span></span></span>
 * Cyber capabilities.
 * Deception and strategic behaviour.
 * Ability to acquire resources.
@@ -419,7 +419,7 @@ These evaluations may examine:
 
 </div>
 
-The aim is to identify dangerous combinations of capabilities before public deployment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/updating-the-frontier-safety-framework/Frontier%20Safety%20Framework%202.0.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: storage.googleapis.com">[Google Cloud Storage]</a><span class="citation-popover" role="note"><span class="citation-popover-source">storage.googleapis.com</span><span class="citation-popover-title">Google Cloud Storage Frontier Safety Framework 2.0</span><span class="citation-popover-snippet">Google Cloud StorageFrontier Safety Framework 2.0 - Googleapis.com4 Feb 2025 — For Google models, when alert thresholds are reached, the...</span></span></span>
+The aim is to identify dangerous combinations of capabilities before public deployment.<span class="citation-chip-wrap"><a class="citation-chip" href="https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/updating-the-frontier-safety-framework/Frontier%20Safety%20Framework%202.0.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: storage.googleapis.com">[Google Cloud Storage]</a><span class="citation-popover" role="note"><span class="citation-popover-source">storage.googleapis.com</span><span class="citation-popover-title">Google Cloud Storage Frontier Safety Framework 2.0</span><span class="citation-popover-snippet">Google Cloud StorageFrontier Safety Framework 2.0 - Googleapis.com4 Feb 2025 — For Google models, when alert thresholds are reached, the...</span></span></span>
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_superintellig_979bdf_frontier_ai_s_761fa9_autonomy_thre_3dfa6a-Illustration-3-dark.svg" | relative_url }}" alt="Autonomy gates illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_superintellig_979bdf_frontier_ai_s_761fa9_autonomy_thre_3dfa6a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_superintellig_979bdf_frontier_ai_s_761fa9_autonomy_thre_3dfa6a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Human approval requirements
@@ -444,7 +444,7 @@ This effectively creates autonomy ceilings even if underlying capabilities conti
 
 If a model becomes capable enough that theft itself creates serious risk, security standards must rise.
 
-Anthropic's framework explicitly links capability thresholds to stronger security requirements intended to prevent model exfiltration or misuse by external actors. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.anthropic.com/research/agentic-misalignment" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anthropic.com">[Anthropic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anthropic.com</span><span class="citation-popover-snippet">Agentic Misalignment: How LLMs could be insider threats20 Jun 2025 — AI labs could perform more specialized safety research dedi...</span></span></span>
+Anthropic's framework explicitly links capability thresholds to stronger security requirements intended to prevent model exfiltration or misuse by external actors.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.anthropic.com/research/agentic-misalignment" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anthropic.com">[Anthropic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anthropic.com</span><span class="citation-popover-snippet">Agentic Misalignment: How LLMs could be insider threats20 Jun 2025 — AI labs could perform more specialized safety research dedi...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JE9Mt9hn8Ls" title="Formal Guarantees for Frontier AI – Gagandeep Singh" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JE9Mt9hn8Ls" target="_blank" rel="noopener noreferrer">Formal Guarantees for Frontier AI – Gagandeep Singh</a></p><p class="youtube-embed-meta">Channel: Horizon Omega &middot; Views: 96 &middot; Uploaded: May 2026 &middot; Length: 1 hour 2 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JE9Mt9hn8Ls" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JE9Mt9hn8Ls">Open on YouTube</a></p></div></div></div>
 
@@ -454,17 +454,17 @@ Many proposals emphasise retaining the ability to observe, modify, interrupt or 
 
 This sounds straightforward but becomes harder as agents become more persistent, distributed and integrated into critical infrastructure.
 
-Recent discussions around shutdown resistance illustrate the concern. The question is not merely whether a model refuses a command in a laboratory test. It is whether increasingly autonomous systems could learn behaviours that make interruption or correction more difficult in practice. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.forbes.com/sites/anishasircar/2025/09/23/google-deepmind-warns-of-ai-models-resisting-shutdown-manipulating-users/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forbes.com">[Forbes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forbes.com</span><span class="citation-popover-title">google deepmind warns of ai models resisting shutdown manipulating users</span><span class="citation-popover-snippet">Google DeepMind Warns Of AI Models Resisting...23 Sept 2025 — Google DeepMind&#x27;s Frontier Safety Framework now evaluates AI models...</span></span></span>
+Recent discussions around shutdown resistance illustrate the concern. The question is not merely whether a model refuses a command in a laboratory test. It is whether increasingly autonomous systems could learn behaviours that make interruption or correction more difficult in practice.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.forbes.com/sites/anishasircar/2025/09/23/google-deepmind-warns-of-ai-models-resisting-shutdown-manipulating-users/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forbes.com">[Forbes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forbes.com</span><span class="citation-popover-title">google deepmind warns of ai models resisting shutdown manipulating users</span><span class="citation-popover-snippet">Google DeepMind Warns Of AI Models Resisting...23 Sept 2025 — Google DeepMind&#x27;s Frontier Safety Framework now evaluates AI models...</span></span></span>
 
 ## The hardest problem: capability growth may outrun governance
 
 The strongest criticism of autonomy thresholds is not that they are unnecessary. It is that they may be too vague, too voluntary, or too slow.
 
-Independent evaluations of frontier safety frameworks frequently argue that commitments remain under-specified. Critics note that many policies leave substantial discretion to companies regarding when thresholds are considered crossed and what responses are ultimately required. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2506.12469" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Levels of Autonomy for AI Agents</span><span class="citation-popover-snippet">Levels of Autonomy for AI AgentsJune 14, 2025...</span><span class="citation-popover-meta">Published: June 14, 2025</span></span></span>
+Independent evaluations of frontier safety frameworks frequently argue that commitments remain under-specified. Critics note that many policies leave substantial discretion to companies regarding when thresholds are considered crossed and what responses are ultimately required.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2506.12469" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Levels of Autonomy for AI Agents</span><span class="citation-popover-snippet">Levels of Autonomy for AI AgentsJune 14, 2025...</span><span class="citation-popover-meta">Published: June 14, 2025</span></span></span>
 
 Others worry that competitive pressure weakens threshold-based governance.
 
-Anthropic's revisions to its Responsible Scaling Policy in 2026 triggered debate because earlier versions appeared to imply stronger commitments to pause development if safeguards lagged behind capability growth. Later versions shifted toward risk management, transparency and public reporting rather than clear pause commitments. Supporters argue this reflects practical realities in a competitive global environment. Critics see it as evidence of the limits of voluntary self-regulation. Anthropic <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pcgamer.com/software/ai/anthropic-ditches-its-defining-safety-promise-to-pause-dangerous-ai-development-because-its-basically-pointless-when-everybody-else-is-blazing-ahead/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pcgamer.com">[PC Gamer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pcgamer.com</span><span class="citation-popover-snippet">Previously, under its Responsible Scaling Policy (RSP), Anthropic pledged to halt AI development should new systems reach dangerous capab...</span></span></span>
+Anthropic's revisions to its Responsible Scaling Policy in 2026 triggered debate because earlier versions appeared to imply stronger commitments to pause development if safeguards lagged behind capability growth. Later versions shifted toward risk management, transparency and public reporting rather than clear pause commitments. Supporters argue this reflects practical realities in a competitive global environment. Critics see it as evidence of the limits of voluntary self-regulation. Anthropic<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pcgamer.com/software/ai/anthropic-ditches-its-defining-safety-promise-to-pause-dangerous-ai-development-because-its-basically-pointless-when-everybody-else-is-blazing-ahead/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pcgamer.com">[PC Gamer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pcgamer.com</span><span class="citation-popover-snippet">Previously, under its Responsible Scaling Policy (RSP), Anthropic pledged to halt AI development should new systems reach dangerous capab...</span></span></span>
 
 A deeper challenge is that autonomy may not emerge as a single dramatic breakthrough. Systems may gradually accumulate planning ability, memory, tool use, persistence and coordination until the overall level of agency becomes difficult to categorise. Governance frameworks work best when thresholds are clear. Technological progress often is not.
 
@@ -483,194 +483,194 @@ The central question is not whether autonomy should exist. Most ambitious vision
 If humanity eventually creates systems capable of years of research, vast scientific coordination and transformative invention, preserving meaningful human direction may become one of the defining governance challenges of the century. Autonomy gates are among the earliest attempts to draw that line before crossing it.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When does AI autonomy become hard to control?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When does AI autonomy become hard to control?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human Compatible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BKVPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Human Compatible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human Compatible">Human Compatible</a>
-        </h4>
-        <p class="fr-book-author">By Stuart Russell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human Compatible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BKVPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Human Compatible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human Compatible">Human Compatible</a>
+</h4>
+<p class="fr-book-author">By Stuart Russell</p>
         
-        <p class="fr-book-desc">Explains why autonomous systems require control mechanisms before deployment.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why autonomous systems require control mechanisms before deployment.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Alignment Problem on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KGCNEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Alignment Problem" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Alignment Problem">The Alignment Problem</a>
-        </h4>
-        <p class="fr-book-author">By Brian Christian</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Alignment Problem on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KGCNEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Alignment Problem" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Alignment Problem">The Alignment Problem</a>
+</h4>
+<p class="fr-book-author">By Brian Christian</p>
         
-        <p class="fr-book-desc">Covers the challenge of evaluating whether AI systems will behave safely.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers the challenge of evaluating whether AI systems will behave safely.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Superintelligence+by+Nick+Bostrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superintelligence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=i0QdjgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Superintelligence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Superintelligence+by+Nick+Bostrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superintelligence">Superintelligence</a>
-        </h4>
-        <p class="fr-book-author">By Nick Bostrom</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Superintelligence+by+Nick+Bostrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superintelligence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=i0QdjgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Superintelligence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Superintelligence+by+Nick+Bostrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superintelligence">Superintelligence</a>
+</h4>
+<p class="fr-book-author">By Nick Bostrom</p>
         
-        <p class="fr-book-desc">Provides the theoretical backdrop for autonomy thresholds and control concerns.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Superintelligence+by+Nick+Bostrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides the theoretical backdrop for autonomy thresholds and control concerns.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Superintelligence+by+Nick+Bostrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Coming Wave on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a-26EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Coming Wave" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Coming Wave">The Coming Wave</a>
-        </h4>
-        <p class="fr-book-author">By Mustafa Suleyman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Coming Wave on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a-26EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Coming Wave" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Coming Wave">The Coming Wave</a>
+</h4>
+<p class="fr-book-author">By Mustafa Suleyman</p>
         
-        <p class="fr-book-desc">Directly addresses containment and control as AI systems become more capable.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses containment and control as AI systems become more capable.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+Compatible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human Compatible</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Alignment+Problem&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Alignment Problem</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Superintelligence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Superintelligence</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+Compatible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human Compatible</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Alignment+Problem&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Alignment Problem</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Superintelligence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Superintelligence</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autonomy-gates-when-does-ai-autonomy-become-hard-to-control-ai-bloom-abundance-superintelligence-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="autonomy-gates-when-does-ai-autonomy-become-hard-to-control-ai-bloom-abundance-superintelligence-robotics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for EcoBot Robotics Toy Build and Learn Science Museum STEM Building Robot Kit"><img src="{{ '/assets/images/marketplace-covers/6316323198d3d3131842.jpg' | relative_url }}" alt="Listing image for EcoBot Robotics Toy Build and Learn Science Museum STEM Building Robot Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autonomy-gates-when-does-ai-autonomy-become-hard-to-control-ai-bloom-abundance-superintelligence-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="autonomy-gates-when-does-ai-autonomy-become-hard-to-control-ai-bloom-abundance-superintelligence-robotics-kit" target="_blank" rel="sponsored noopener noreferrer">EcoBot Robotics Toy Build and Learn Science Museum STEM Building Robot Kit</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autonomy-gates-when-does-ai-autonomy-become-hard-to-control-ai-bloom-abundance-superintelligence-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="autonomy-gates-when-does-ai-autonomy-become-hard-to-control-ai-bloom-abundance-superintelligence-robotics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robotics kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: robotics kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autonomy-gates-when-does-ai-autonomy-become-hard-to-control-ai-bloom-abundance-superintelligence-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="autonomy-gates-when-does-ai-autonomy-become-hard-to-control-ai-bloom-abundance-superintelligence-robotics-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autonomy-gates-when-does-ai-autonomy-become-hard-to-control-ai-bloom-abundance-superintelligence-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="autonomy-gates-when-does-ai-autonomy-become-hard-to-control-ai-bloom-abundance-superintelligence-robotics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for EcoBot Robotics Toy Build and Learn Science Museum STEM Building Robot Kit"><img src="{{ '/assets/images/marketplace-covers/6316323198d3d3131842.jpg' | relative_url }}" alt="Listing image for EcoBot Robotics Toy Build and Learn Science Museum STEM Building Robot Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autonomy-gates-when-does-ai-autonomy-become-hard-to-control-ai-bloom-abundance-superintelligence-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="autonomy-gates-when-does-ai-autonomy-become-hard-to-control-ai-bloom-abundance-superintelligence-robotics-kit" target="_blank" rel="sponsored noopener noreferrer">EcoBot Robotics Toy Build and Learn Science Museum STEM Building Robot Kit</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autonomy-gates-when-does-ai-autonomy-become-hard-to-control-ai-bloom-abundance-superintelligence-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="autonomy-gates-when-does-ai-autonomy-become-hard-to-control-ai-bloom-abundance-superintelligence-robotics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robotics kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: robotics kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autonomy-gates-when-does-ai-autonomy-become-hard-to-control-ai-bloom-abundance-superintelligence-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="autonomy-gates-when-does-ai-autonomy-become-hard-to-control-ai-bloom-abundance-superintelligence-robotics-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autonomy-gates-when-does-ai-autonomy-become-hard-to-control-ai-bloom-abundance-superintelligence-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="autonomy-gates-when-does-ai-autonomy-become-hard-to-control-ai-bloom-abundance-superintelligence-robotics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 6 in 1 Solar Powered Boat Robot Kit DIY Educational Toy 3D Model Fan Toys Car"><img src="{{ '/assets/images/marketplace-covers/526b63c9105e4b2c7bc0.jpg' | relative_url }}" alt="Listing image for 6 in 1 Solar Powered Boat Robot Kit DIY Educational Toy 3D Model Fan Toys Car" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autonomy-gates-when-does-ai-autonomy-become-hard-to-control-ai-bloom-abundance-superintelligence-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="autonomy-gates-when-does-ai-autonomy-become-hard-to-control-ai-bloom-abundance-superintelligence-robotics-kit" target="_blank" rel="sponsored noopener noreferrer">6 in 1 Solar Powered Boat Robot Kit DIY Educational Toy 3D Model Fan Toys Car</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autonomy-gates-when-does-ai-autonomy-become-hard-to-control-ai-bloom-abundance-superintelligence-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="autonomy-gates-when-does-ai-autonomy-become-hard-to-control-ai-bloom-abundance-superintelligence-robotics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robotics kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: robotics kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autonomy-gates-when-does-ai-autonomy-become-hard-to-control-ai-bloom-abundance-superintelligence-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="autonomy-gates-when-does-ai-autonomy-become-hard-to-control-ai-bloom-abundance-superintelligence-robotics-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autonomy-gates-when-does-ai-autonomy-become-hard-to-control-ai-bloom-abundance-superintelligence-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="autonomy-gates-when-does-ai-autonomy-become-hard-to-control-ai-bloom-abundance-superintelligence-robotics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 6 in 1 Solar Powered Boat Robot Kit DIY Educational Toy 3D Model Fan Toys Car"><img src="{{ '/assets/images/marketplace-covers/526b63c9105e4b2c7bc0.jpg' | relative_url }}" alt="Listing image for 6 in 1 Solar Powered Boat Robot Kit DIY Educational Toy 3D Model Fan Toys Car" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autonomy-gates-when-does-ai-autonomy-become-hard-to-control-ai-bloom-abundance-superintelligence-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="autonomy-gates-when-does-ai-autonomy-become-hard-to-control-ai-bloom-abundance-superintelligence-robotics-kit" target="_blank" rel="sponsored noopener noreferrer">6 in 1 Solar Powered Boat Robot Kit DIY Educational Toy 3D Model Fan Toys Car</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autonomy-gates-when-does-ai-autonomy-become-hard-to-control-ai-bloom-abundance-superintelligence-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="autonomy-gates-when-does-ai-autonomy-become-hard-to-control-ai-bloom-abundance-superintelligence-robotics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robotics kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: robotics kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autonomy-gates-when-does-ai-autonomy-become-hard-to-control-ai-bloom-abundance-superintelligence-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="autonomy-gates-when-does-ai-autonomy-become-hard-to-control-ai-bloom-abundance-superintelligence-robotics-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autonomy-gates-when-does-ai-autonomy-become-hard-to-control-ai-bloom-abundance-superintelligence-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="autonomy-gates-when-does-ai-autonomy-become-hard-to-control-ai-bloom-abundance-superintelligence-robotics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 5 in 1 Robot Toys for Kids Building Set, APP &amp; Remote Control Robotics Kit"><img src="{{ '/assets/images/marketplace-covers/9be77cb3cd417fc69711.jpg' | relative_url }}" alt="Listing image for 5 in 1 Robot Toys for Kids Building Set, APP &amp; Remote Control Robotics Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autonomy-gates-when-does-ai-autonomy-become-hard-to-control-ai-bloom-abundance-superintelligence-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="autonomy-gates-when-does-ai-autonomy-become-hard-to-control-ai-bloom-abundance-superintelligence-robotics-kit" target="_blank" rel="sponsored noopener noreferrer">5 in 1 Robot Toys for Kids Building Set, APP &amp; Remote Control Robotics Kit</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autonomy-gates-when-does-ai-autonomy-become-hard-to-control-ai-bloom-abundance-superintelligence-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="autonomy-gates-when-does-ai-autonomy-become-hard-to-control-ai-bloom-abundance-superintelligence-robotics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robotics kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: robotics kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autonomy-gates-when-does-ai-autonomy-become-hard-to-control-ai-bloom-abundance-superintelligence-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="autonomy-gates-when-does-ai-autonomy-become-hard-to-control-ai-bloom-abundance-superintelligence-robotics-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autonomy-gates-when-does-ai-autonomy-become-hard-to-control-ai-bloom-abundance-superintelligence-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="autonomy-gates-when-does-ai-autonomy-become-hard-to-control-ai-bloom-abundance-superintelligence-robotics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 5 in 1 Robot Toys for Kids Building Set, APP &amp; Remote Control Robotics Kit"><img src="{{ '/assets/images/marketplace-covers/9be77cb3cd417fc69711.jpg' | relative_url }}" alt="Listing image for 5 in 1 Robot Toys for Kids Building Set, APP &amp; Remote Control Robotics Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autonomy-gates-when-does-ai-autonomy-become-hard-to-control-ai-bloom-abundance-superintelligence-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="autonomy-gates-when-does-ai-autonomy-become-hard-to-control-ai-bloom-abundance-superintelligence-robotics-kit" target="_blank" rel="sponsored noopener noreferrer">5 in 1 Robot Toys for Kids Building Set, APP &amp; Remote Control Robotics Kit</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autonomy-gates-when-does-ai-autonomy-become-hard-to-control-ai-bloom-abundance-superintelligence-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="autonomy-gates-when-does-ai-autonomy-become-hard-to-control-ai-bloom-abundance-superintelligence-robotics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robotics kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: robotics kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autonomy-gates-when-does-ai-autonomy-become-hard-to-control-ai-bloom-abundance-superintelligence-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="autonomy-gates-when-does-ai-autonomy-become-hard-to-control-ai-bloom-abundance-superintelligence-robotics-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autonomy-gates-when-does-ai-autonomy-become-hard-to-control-ai-bloom-abundance-superintelligence-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="autonomy-gates-when-does-ai-autonomy-become-hard-to-control-ai-bloom-abundance-superintelligence-robotics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kits - Rotating Mechanical Robotics Set for , ,"><img src="{{ '/assets/images/marketplace-covers/87b0c9d1cfcdb6e7a752.jpg' | relative_url }}" alt="Listing image for Kits - Rotating Mechanical Robotics Set for , ," loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autonomy-gates-when-does-ai-autonomy-become-hard-to-control-ai-bloom-abundance-superintelligence-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="autonomy-gates-when-does-ai-autonomy-become-hard-to-control-ai-bloom-abundance-superintelligence-robotics-kit" target="_blank" rel="sponsored noopener noreferrer">Kits - Rotating Mechanical Robotics Set for , ,</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autonomy-gates-when-does-ai-autonomy-become-hard-to-control-ai-bloom-abundance-superintelligence-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="autonomy-gates-when-does-ai-autonomy-become-hard-to-control-ai-bloom-abundance-superintelligence-robotics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robotics kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: robotics kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autonomy-gates-when-does-ai-autonomy-become-hard-to-control-ai-bloom-abundance-superintelligence-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="autonomy-gates-when-does-ai-autonomy-become-hard-to-control-ai-bloom-abundance-superintelligence-robotics-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autonomy-gates-when-does-ai-autonomy-become-hard-to-control-ai-bloom-abundance-superintelligence-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="autonomy-gates-when-does-ai-autonomy-become-hard-to-control-ai-bloom-abundance-superintelligence-robotics-kit" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autonomy-gates-when-does-ai-autonomy-become-hard-to-control-ai-bloom-abundance-superintelligence-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="autonomy-gates-when-does-ai-autonomy-become-hard-to-control-ai-bloom-abundance-superintelligence-robotics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kits - Rotating Mechanical Robotics Set for , ,"><img src="{{ '/assets/images/marketplace-covers/87b0c9d1cfcdb6e7a752.jpg' | relative_url }}" alt="Listing image for Kits - Rotating Mechanical Robotics Set for , ," loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autonomy-gates-when-does-ai-autonomy-become-hard-to-control-ai-bloom-abundance-superintelligence-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="autonomy-gates-when-does-ai-autonomy-become-hard-to-control-ai-bloom-abundance-superintelligence-robotics-kit" target="_blank" rel="sponsored noopener noreferrer">Kits - Rotating Mechanical Robotics Set for , ,</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autonomy-gates-when-does-ai-autonomy-become-hard-to-control-ai-bloom-abundance-superintelligence-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="autonomy-gates-when-does-ai-autonomy-become-hard-to-control-ai-bloom-abundance-superintelligence-robotics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robotics kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: robotics kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autonomy-gates-when-does-ai-autonomy-become-hard-to-control-ai-bloom-abundance-superintelligence-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="autonomy-gates-when-does-ai-autonomy-become-hard-to-control-ai-bloom-abundance-superintelligence-robotics-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autonomy-gates-when-does-ai-autonomy-become-hard-to-control-ai-bloom-abundance-superintelligence-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="autonomy-gates-when-does-ai-autonomy-become-hard-to-control-ai-bloom-abundance-superintelligence-robotics-kit" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -686,7 +686,7 @@ If humanity eventually creates systems capable of years of research, vast scient
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -706,7 +706,7 @@ If humanity eventually creates systems capable of years of research, vast scient
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -738,7 +738,7 @@ If humanity eventually creates systems capable of years of research, vast scient
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -790,7 +790,7 @@ If humanity eventually creates systems capable of years of research, vast scient
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -835,7 +835,7 @@ If humanity eventually creates systems capable of years of research, vast scient
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -877,262 +877,262 @@ If humanity eventually creates systems capable of years of research, vast scient
 ## References
 
 [- Google DeepMind([https://deepmind.google](https://deepmind.google))](#endnote-1 "
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Google DeepMindIntroducing the Frontier Safety FrameworkMay 17, 2024 — 17 May 2024 — Today, we are introducing our Frontier Safety Framew...&quot;)...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google DeepMindIntroducing the Frontier Safety FrameworkMay 17, 2024 — 17 May 2024 — Today, we are introducing our Frontier Safety Framew...&quot;)...</p></details>
 - [Anthropic](https://www.anthropic.com)
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: deepmind.google  
    Title: Google Deep Mind Introducing the Frontier Safety Framework  
-   Link: <a href="https://deepmind.google/blog/introducing-the-frontier-safety-framework/" target="_blank" rel="noopener noreferrer nofollow">https://deepmind.google/blog/introducing-the-frontier-safety-framework/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Google DeepMindIntroducing the Frontier Safety FrameworkMay 17, 2024 — 17 May 2024 — Today, we are introducing our Frontier Safety Framew...</p></details>
+   Link:<a href="https://deepmind.google/blog/introducing-the-frontier-safety-framework/" target="_blank" rel="noopener noreferrer nofollow">https://deepmind.google/blog/introducing-the-frontier-safety-framework/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google DeepMindIntroducing the Frontier Safety FrameworkMay 17, 2024 — 17 May 2024 — Today, we are introducing our Frontier Safety Framew...</p></details>
    Published: May 17, 2024  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: anthropic.com  
    Title: s responsible scaling policy  
-   Link: <a href="https://www.anthropic.com/news/anthropics-responsible-scaling-policy" target="_blank" rel="noopener noreferrer nofollow">https://www.anthropic.com/news/anthropics-responsible-scaling-policy</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Anthropic&#x27;s Responsible Scaling Policy19 Sept 2023 — Our RSP defines a framework called AI Safety Levels (ASL) for addressing ca...</p></details>
+   Link:<a href="https://www.anthropic.com/news/anthropics-responsible-scaling-policy" target="_blank" rel="noopener noreferrer nofollow">https://www.anthropic.com/news/anthropics-responsible-scaling-policy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Anthropic&#x27;s Responsible Scaling Policy19 Sept 2023 — Our RSP defines a framework called AI Safety Levels (ASL) for addressing ca...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: anthropic.com  
-   Link: <a href="https://www.anthropic.com/engineering/managed-agents" target="_blank" rel="noopener noreferrer nofollow">https://www.anthropic.com/engineering/managed-agents</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Scaling Managed Agents: Decoupling the brain from...Apr 8, 2026 — Managed Agents—our hosted service for long-horizon agent work...</p></details>
+   Link:<a href="https://www.anthropic.com/engineering/managed-agents" target="_blank" rel="noopener noreferrer nofollow">https://www.anthropic.com/engineering/managed-agents</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scaling Managed Agents: Decoupling the brain from...Apr 8, 2026 — Managed Agents—our hosted service for long-horizon agent work...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: forbes.com  
    Title: google deepmind warns of ai models resisting shutdown manipulating users  
-   Link: <a href="https://www.forbes.com/sites/anishasircar/2025/09/23/google-deepmind-warns-of-ai-models-resisting-shutdown-manipulating-users/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/sites/anishasircar/2025/09/23/google-deepmind-warns-of-ai-models-resisting-shutdown-manipulating-users/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Google DeepMind Warns Of AI Models Resisting...23 Sept 2025 — Google DeepMind&#x27;s Frontier Safety Framework now evaluates AI models...</p></details>
+   Link:<a href="https://www.forbes.com/sites/anishasircar/2025/09/23/google-deepmind-warns-of-ai-models-resisting-shutdown-manipulating-users/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/sites/anishasircar/2025/09/23/google-deepmind-warns-of-ai-models-resisting-shutdown-manipulating-users/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google DeepMind Warns Of AI Models Resisting...23 Sept 2025 — Google DeepMind&#x27;s Frontier Safety Framework now evaluates AI models...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: www-cdn.anthropic.com  
-   Link: <a href="https://www-cdn.anthropic.com/files/4zrzovbb/website/bf04581e4f329735fd90634f6a1962c13c0bd351.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www-cdn.anthropic.com/files/4zrzovbb/website/bf04581e4f329735fd90634f6a1962c13c0bd351.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>anthropic.comAnthropic&#x27;s Responsible Scaling Policy (version 3.1)2 Apr 2026 — Our Responsible Scaling Policy (RSP) is our voluntary frame...</p></details>
+   Link:<a href="https://www-cdn.anthropic.com/files/4zrzovbb/website/bf04581e4f329735fd90634f6a1962c13c0bd351.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www-cdn.anthropic.com/files/4zrzovbb/website/bf04581e4f329735fd90634f6a1962c13c0bd351.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>anthropic.comAnthropic&#x27;s Responsible Scaling Policy (version 3.1)2 Apr 2026 — Our Responsible Scaling Policy (RSP) is our voluntary frame...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: lesswrong.com  
-   Link: <a href="https://www.lesswrong.com/posts/vAopGQhFPdjcA8CEh/anthropic-reflections-on-our-responsible-scaling-policy" target="_blank" rel="noopener noreferrer nofollow">https://www.lesswrong.com/posts/vAopGQhFPdjcA8CEh/anthropic-reflections-on-our-responsible-scaling-policy</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Anthropic: Reflections on our Responsible Scaling Policy19 May 2024 — We commit to develop and implement a new standard for safe...</p></details>
+   Link:<a href="https://www.lesswrong.com/posts/vAopGQhFPdjcA8CEh/anthropic-reflections-on-our-responsible-scaling-policy" target="_blank" rel="noopener noreferrer nofollow">https://www.lesswrong.com/posts/vAopGQhFPdjcA8CEh/anthropic-reflections-on-our-responsible-scaling-policy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Anthropic: Reflections on our Responsible Scaling Policy19 May 2024 — We commit to develop and implement a new standard for safe...</p></details>
    Published: May 2024  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: arxiv.org  
    Title: arXiv Levels of Autonomy for AI Agents  
-   Link: <a href="https://arxiv.org/abs/2506.12469" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2506.12469</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Levels of Autonomy for AI AgentsJune 14, 2025...</p></details>
+   Link:<a href="https://arxiv.org/abs/2506.12469" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2506.12469</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Levels of Autonomy for AI AgentsJune 14, 2025...</p></details>
    Published: June 14, 2025  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2503.05748" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2503.05748</a>  
+   Link:<a href="https://arxiv.org/abs/2503.05748" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2503.05748</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: anthropic.com  
-   Link: <a href="https://www.anthropic.com/research/agentic-misalignment" target="_blank" rel="noopener noreferrer nofollow">https://www.anthropic.com/research/agentic-misalignment</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Agentic Misalignment: How LLMs could be insider threats20 Jun 2025 — AI labs could perform more specialized safety research dedi...</p></details>
+   Link:<a href="https://www.anthropic.com/research/agentic-misalignment" target="_blank" rel="noopener noreferrer nofollow">https://www.anthropic.com/research/agentic-misalignment</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Agentic Misalignment: How LLMs could be insider threats20 Jun 2025 — AI labs could perform more specialized safety research dedi...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2512.01166v3" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2512.01166v3</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluating AI Providers&#x27; Frontier AI Safety Frameworks26 Mar 2026 — Overall scores range from 34% (Anthropic) to 8% (Cohere), with a...</p></details>
+   Link:<a href="https://arxiv.org/html/2512.01166v3" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2512.01166v3</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluating AI Providers&#x27; Frontier AI Safety Frameworks26 Mar 2026 — Overall scores range from 34% (Anthropic) to 8% (Cohere), with a...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: anthropic.com  
    Title: responsible scaling policy v3  
-   Link: <a href="https://www.anthropic.com/news/responsible-scaling-policy-v3" target="_blank" rel="noopener noreferrer nofollow">https://www.anthropic.com/news/responsible-scaling-policy-v3</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Responsible Scaling Policy Version 3.024 Feb 2026 — We&#x27;re releasing the third version of our Responsible Scaling Policy (RSP), t...</p></details>
+   Link:<a href="https://www.anthropic.com/news/responsible-scaling-policy-v3" target="_blank" rel="noopener noreferrer nofollow">https://www.anthropic.com/news/responsible-scaling-policy-v3</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Responsible Scaling Policy Version 3.024 Feb 2026 — We&#x27;re releasing the third version of our Responsible Scaling Policy (RSP), t...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: anthropic.com  
-   Link: <a href="https://www.anthropic.com/responsible-scaling-policy" target="_blank" rel="noopener noreferrer nofollow">https://www.anthropic.com/responsible-scaling-policy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>· We now clarify that, even if not required by the RSP, we remain free to take measures...Read more...</p></details>
+   Link:<a href="https://www.anthropic.com/responsible-scaling-policy" target="_blank" rel="noopener noreferrer nofollow">https://www.anthropic.com/responsible-scaling-policy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>· We now clarify that, even if not required by the RSP, we remain free to take measures...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: anthropic.com  
-   Link: <a href="https://www.anthropic.com/news/chris-olah-pope-leo-encyclical" target="_blank" rel="noopener noreferrer nofollow">https://www.anthropic.com/news/chris-olah-pope-leo-encyclical</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Anthropic co-founder Chris Olah&#x27;s remarks on Pope Leo XIV&#x27;s encyclical &quot;Magnifica humanitas&quot;...</p></details>
+   Link:<a href="https://www.anthropic.com/news/chris-olah-pope-leo-encyclical" target="_blank" rel="noopener noreferrer nofollow">https://www.anthropic.com/news/chris-olah-pope-leo-encyclical</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Anthropic co-founder Chris Olah&#x27;s remarks on Pope Leo XIV&#x27;s encyclical &quot;Magnifica humanitas&quot;...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: www-cdn.anthropic.com  
-   Link: <a href="https://www-cdn.anthropic.com/872c653b2d0501d6ab44cf87f43e1dc4853e4d37.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www-cdn.anthropic.com/872c653b2d0501d6ab44cf87f43e1dc4853e4d37.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>anthropic.comAnthropic&#x27;s Responsible Scaling Policy (version 2.2)In September 2023, we released our Responsible Scaling Policy (RSP), a p...</p></details>
+   Link:<a href="https://www-cdn.anthropic.com/872c653b2d0501d6ab44cf87f43e1dc4853e4d37.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www-cdn.anthropic.com/872c653b2d0501d6ab44cf87f43e1dc4853e4d37.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>anthropic.comAnthropic&#x27;s Responsible Scaling Policy (version 2.2)In September 2023, we released our Responsible Scaling Policy (RSP), a p...</p></details>
    Published: September 2023  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: www-cdn.anthropic.com  
    Title: responsible scaling policy  
-   Link: <a href="https://www-cdn.anthropic.com/1adf000c8f675958c2ee23805d91aaade1cd4613/responsible-scaling-policy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www-cdn.anthropic.com/1adf000c8f675958c2ee23805d91aaade1cd4613/responsible-scaling-policy.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>anthropic.comAnthropic&#x27;s Responsible Scaling Policy, Version 1.019 Sept 2023 — We define a series of AI capability thresholds that repres...</p></details>
+   Link:<a href="https://www-cdn.anthropic.com/1adf000c8f675958c2ee23805d91aaade1cd4613/responsible-scaling-policy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www-cdn.anthropic.com/1adf000c8f675958c2ee23805d91aaade1cd4613/responsible-scaling-policy.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>anthropic.comAnthropic&#x27;s Responsible Scaling Policy, Version 1.019 Sept 2023 — We define a series of AI capability thresholds that repres...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: anthropic.com  
-   Link: <a href="https://www.anthropic.com/research" target="_blank" rel="noopener noreferrer nofollow">https://www.anthropic.com/research</a>  
+   Link:<a href="https://www.anthropic.com/research" target="_blank" rel="noopener noreferrer nofollow">https://www.anthropic.com/research</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: governance.ai  
    Title: ‍.Read more  
-   Link: <a href="https://www.governance.ai/analysis/anthropics-rsp-v3-0-how-it-works-whats-changed-and-some-reflections" target="_blank" rel="noopener noreferrer nofollow">https://www.governance.ai/analysis/anthropics-rsp-v3-0-how-it-works-whats-changed-and-some-reflections</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Anthropic&#x27;s RSP v3.0: How it Works, What&#x27;s Changed, and...17 Mar 2026 — Anthropic&#x27;s Responsible Scaling Policy (RSP) – its framework for...</p></details>
+   Link:<a href="https://www.governance.ai/analysis/anthropics-rsp-v3-0-how-it-works-whats-changed-and-some-reflections" target="_blank" rel="noopener noreferrer nofollow">https://www.governance.ai/analysis/anthropics-rsp-v3-0-how-it-works-whats-changed-and-some-reflections</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Anthropic&#x27;s RSP v3.0: How it Works, What&#x27;s Changed, and...17 Mar 2026 — Anthropic&#x27;s Responsible Scaling Policy (RSP) – its framework for...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: Autonomous Agent Evaluation: How to Measure AI That Plans and Acts Independently  
-   Link: <a href="https://www.youtube.com/watch?v=uSqvJEGqvQE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uSqvJEGqvQE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Anthropic&#x27;s Plan to Stop AI Bioweapons &amp; Autonomous Misuse...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=uSqvJEGqvQE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uSqvJEGqvQE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Anthropic&#x27;s Plan to Stop AI Bioweapons &amp; Autonomous Misuse...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: Anthropic's Plan to Stop AI Bioweapons & Autonomous Misuse  
-   Link: <a href="https://www.youtube.com/watch?v=n5h1GNvzqIg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=n5h1GNvzqIg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Formal Guarantees for Frontier AI – Gagandeep Singh...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=n5h1GNvzqIg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=n5h1GNvzqIg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Formal Guarantees for Frontier AI – Gagandeep Singh...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: storage.googleapis.com  
    Title: Google Cloud Storage Frontier Safety Framework 2.0  
-   Link: <a href="https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/updating-the-frontier-safety-framework/Frontier%20Safety%20Framework%202.0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/updating-the-frontier-safety-framework/Frontier%20Safety%20Framework%202.0.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Google Cloud StorageFrontier Safety Framework 2.0 - Googleapis.com4 Feb 2025 — For Google models, when alert thresholds are reached, the...</p></details>
+   Link:<a href="https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/updating-the-frontier-safety-framework/Frontier%20Safety%20Framework%202.0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/updating-the-frontier-safety-framework/Frontier%20Safety%20Framework%202.0.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google Cloud StorageFrontier Safety Framework 2.0 - Googleapis.com4 Feb 2025 — For Google models, when alert thresholds are reached, the...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40uspeedoai/google-deepmind-updates-safety-framework-to-address-shutdown-resistance-in-ai-models-6e24a0b1d8c4" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40uspeedoai/google-deepmind-updates-safety-framework-to-address-shutdown-resistance-in-ai-models-6e24a0b1d8c4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Google DeepMind Updates Safety Framework to Address...23 Sept 2025 — The addition of shutdown resistance and persuasiveness to the Criti...</p></details>
+   Link:<a href="https://medium.com/%40uspeedoai/google-deepmind-updates-safety-framework-to-address-shutdown-resistance-in-ai-models-6e24a0b1d8c4" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40uspeedoai/google-deepmind-updates-safety-framework-to-address-shutdown-resistance-in-ai-models-6e24a0b1d8c4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google DeepMind Updates Safety Framework to Address...23 Sept 2025 — The addition of shutdown resistance and persuasiveness to the Criti...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: alignmentforum.org  
    Title: anthropic three sketches of asl 4 safety case components  
-   Link: <a href="https://www.alignmentforum.org/posts/RveeCTcoApkAtd7oA/anthropic-three-sketches-of-asl-4-safety-case-components" target="_blank" rel="noopener noreferrer nofollow">https://www.alignmentforum.org/posts/RveeCTcoApkAtd7oA/anthropic-three-sketches-of-asl-4-safety-case-components</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Anthropic: Three Sketches of ASL-4 Safety Case...6 Nov 2024 — Anthropic&#x27;s Responsible Scaling Policy (RSP) categorizes levels of risk of...</p></details>
+   Link:<a href="https://www.alignmentforum.org/posts/RveeCTcoApkAtd7oA/anthropic-three-sketches-of-asl-4-safety-case-components" target="_blank" rel="noopener noreferrer nofollow">https://www.alignmentforum.org/posts/RveeCTcoApkAtd7oA/anthropic-three-sketches-of-asl-4-safety-case-components</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Anthropic: Three Sketches of ASL-4 Safety Case...6 Nov 2024 — Anthropic&#x27;s Responsible Scaling Policy (RSP) categorizes levels of risk of...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: pcgamer.com  
-   Link: <a href="https://www.pcgamer.com/software/ai/anthropic-ditches-its-defining-safety-promise-to-pause-dangerous-ai-development-because-its-basically-pointless-when-everybody-else-is-blazing-ahead/" target="_blank" rel="noopener noreferrer nofollow">https://www.pcgamer.com/software/ai/anthropic-ditches-its-defining-safety-promise-to-pause-dangerous-ai-development-because-its-basically-pointless-when-everybody-else-is-blazing-ahead/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Previously, under its Responsible Scaling Policy (RSP), Anthropic pledged to halt AI development should new systems reach dangerous capab...</p></details>
+   Link:<a href="https://www.pcgamer.com/software/ai/anthropic-ditches-its-defining-safety-promise-to-pause-dangerous-ai-development-because-its-basically-pointless-when-everybody-else-is-blazing-ahead/" target="_blank" rel="noopener noreferrer nofollow">https://www.pcgamer.com/software/ai/anthropic-ditches-its-defining-safety-promise-to-pause-dangerous-ai-development-because-its-basically-pointless-when-everybody-else-is-blazing-ahead/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Previously, under its Responsible Scaling Policy (RSP), Anthropic pledged to halt AI development should new systems reach dangerous capab...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: techradar.com  
    Title: anthropic drops its signature safety promise and rewrites ai [guardrails](&#123;&#123; 'guardrails/' | relative_url &#125;&#125;)  
-   Link: <a href="https://www.techradar.com/ai-platforms-assistants/anthropic-drops-its-signature-safety-promise-and-rewrites-ai-guardrails" target="_blank" rel="noopener noreferrer nofollow">https://www.techradar.com/ai-platforms-assistants/anthropic-drops-its-signature-safety-promise-and-rewrites-ai-guardrails</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This marked a significant policy shift from its original 2023 pledge that emphasized strong preconditions for AI development in order to...</p></details>
+   Link:<a href="https://www.techradar.com/ai-platforms-assistants/anthropic-drops-its-signature-safety-promise-and-rewrites-ai-guardrails" target="_blank" rel="noopener noreferrer nofollow">https://www.techradar.com/ai-platforms-assistants/anthropic-drops-its-signature-safety-promise-and-rewrites-ai-guardrails</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This marked a significant policy shift from its original 2023 pledge that emphasized strong preconditions for AI development in order to...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Anthropic" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Anthropic</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AnthropicAnthropic is an American artificial intelligence (AI) company headquartered in San Francisco. It has developed a series of la...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Anthropic" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Anthropic</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AnthropicAnthropic is an American artificial intelligence (AI) company headquartered in San Francisco. It has developed a series of la...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/lakshmananvelayutham_ai-ai-agenticai-activity-7432771461813006336-g4bq" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/lakshmananvelayutham_ai-ai-agenticai-activity-7432771461813006336-g4bq</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>kd.in/eYHZn7Sw, a significant reframing of how it governs...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/lakshmananvelayutham_ai-ai-agenticai-activity-7432771461813006336-g4bq" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/lakshmananvelayutham_ai-ai-agenticai-activity-7432771461813006336-g4bq</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>kd.in/eYHZn7Sw, a significant reframing of how it governs...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/miclchen_anthropics-responsible-scaling-policy-version-activity-7432196983748206592-ItDB" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/miclchen_anthropics-responsible-scaling-policy-version-activity-7432196983748206592-ItDB</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>No more implication of unilateral commitment to pause AI...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/miclchen_anthropics-responsible-scaling-policy-version-activity-7432196983748206592-ItDB" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/miclchen_anthropics-responsible-scaling-policy-version-activity-7432196983748206592-ItDB</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>No more implication of unilateral commitment to pause AI...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: linkedin.com  
    Title: Himanshu J  
-   Link: <a href="https://www.linkedin.com/posts/himanshujoshimitsloan_anthropics-responsible-scaling-policy-v21-activity-7313326873994760192-VO04" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/himanshujoshimitsloan_anthropics-responsible-scaling-policy-v21-activity-7313326873994760192-VO04</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Anthropic&#x27;s Responsible Scaling Policy V2.12 Apr 2025 — “Not all AI progress is equal—and neither should be our safeguards.” Anthropic AI...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/himanshujoshimitsloan_anthropics-responsible-scaling-policy-v21-activity-7313326873994760192-VO04" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/himanshujoshimitsloan_anthropics-responsible-scaling-policy-v21-activity-7313326873994760192-VO04</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Anthropic&#x27;s Responsible Scaling Policy V2.12 Apr 2025 — “Not all AI progress is equal—and neither should be our safeguards.” Anthropic AI...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: verifywise.ai  
-   Link: <a href="https://verifywise.ai/de/ai-governance-library/policies-and-internal-governance/anthropic-responsible-scaling-policy" target="_blank" rel="noopener noreferrer nofollow">https://verifywise.ai/de/ai-governance-library/policies-and-internal-governance/anthropic-responsible-scaling-policy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It establishes commitments for...</p></details>
+   Link:<a href="https://verifywise.ai/de/ai-governance-library/policies-and-internal-governance/anthropic-responsible-scaling-policy" target="_blank" rel="noopener noreferrer nofollow">https://verifywise.ai/de/ai-governance-library/policies-and-internal-governance/anthropic-responsible-scaling-policy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It establishes commitments for...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: verifywise.ai  
-   Link: <a href="https://verifywise.ai/ai-governance-library/policies-and-internal-governance/anthropic-responsible-scaling-policy" target="_blank" rel="noopener noreferrer nofollow">https://verifywise.ai/ai-governance-library/policies-and-internal-governance/anthropic-responsible-scaling-policy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Anthropic Responsible Scaling PolicyAnthropic&#x27;s Responsible Scaling Policy defines AI Safety Levels (ASL) based on model capabilities and...</p></details>
+   Link:<a href="https://verifywise.ai/ai-governance-library/policies-and-internal-governance/anthropic-responsible-scaling-policy" target="_blank" rel="noopener noreferrer nofollow">https://verifywise.ai/ai-governance-library/policies-and-internal-governance/anthropic-responsible-scaling-policy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Anthropic Responsible Scaling PolicyAnthropic&#x27;s Responsible Scaling Policy defines AI Safety Levels (ASL) based on model capabilities and...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: ailabwatch.org  
-   Link: <a href="https://ailabwatch.org/companies/anthropic" target="_blank" rel="noopener noreferrer nofollow">https://ailabwatch.org/companies/anthropic</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AnthropicAnthropic&#x27;s Responsible Scaling Policy describes its risk assessment practices and contains commitments about risk assessment an...</p></details>
+   Link:<a href="https://ailabwatch.org/companies/anthropic" target="_blank" rel="noopener noreferrer nofollow">https://ailabwatch.org/companies/anthropic</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AnthropicAnthropic&#x27;s Responsible Scaling Policy describes its risk assessment practices and contains commitments about risk assessment an...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: alignmentforum.org  
    Title: anthropic s updated responsible scaling policy  
-   Link: <a href="https://www.alignmentforum.org/posts/Q7caj7emnwWBxLECF/anthropic-s-updated-responsible-scaling-policy" target="_blank" rel="noopener noreferrer nofollow">https://www.alignmentforum.org/posts/Q7caj7emnwWBxLECF/anthropic-s-updated-responsible-scaling-policy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Anthropic&#x27;s updated Responsible Scaling Policy15 Oct 2024 — Our updated policy defines two key Capability Thresholds that would require u...</p></details>
+   Link:<a href="https://www.alignmentforum.org/posts/Q7caj7emnwWBxLECF/anthropic-s-updated-responsible-scaling-policy" target="_blank" rel="noopener noreferrer nofollow">https://www.alignmentforum.org/posts/Q7caj7emnwWBxLECF/anthropic-s-updated-responsible-scaling-policy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Anthropic&#x27;s updated Responsible Scaling Policy15 Oct 2024 — Our updated policy defines two key Capability Thresholds that would require u...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: washingtonpost.com  
    Title: Anthropic aligns with Vatican over White House as Pope Leo stokes AI fears  
-   Link: <a href="https://www.washingtonpost.com/technology/2026/05/25/anthropic-aligns-with-vatican-over-white-house-pope-leo-stokes-ai-fears/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/technology/2026/05/25/anthropic-aligns-with-vatican-over-white-house-pope-leo-stokes-ai-fears/</a>  
+   Link:<a href="https://www.washingtonpost.com/technology/2026/05/25/anthropic-aligns-with-vatican-over-white-house-pope-leo-stokes-ai-fears/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/technology/2026/05/25/anthropic-aligns-with-vatican-over-white-house-pope-leo-stokes-ai-fears/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: forum.effectivealtruism.org  
    Title: anthropic announcing our updated responsible scaling policy  
-   Link: <a href="https://forum.effectivealtruism.org/posts/JoJwBsGJFWtq72omp/anthropic-announcing-our-updated-responsible-scaling-policy" target="_blank" rel="noopener noreferrer nofollow">https://forum.effectivealtruism.org/posts/JoJwBsGJFWtq72omp/anthropic-announcing-our-updated-responsible-scaling-policy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>rewrote its RSP16 Oct 2024 — This update introduces a more flexible and nuanced approach to assessing and managing AI risks while maintai...</p></details>
+   Link:<a href="https://forum.effectivealtruism.org/posts/JoJwBsGJFWtq72omp/anthropic-announcing-our-updated-responsible-scaling-policy" target="_blank" rel="noopener noreferrer nofollow">https://forum.effectivealtruism.org/posts/JoJwBsGJFWtq72omp/anthropic-announcing-our-updated-responsible-scaling-policy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>rewrote its RSP16 Oct 2024 — This update introduces a more flexible and nuanced approach to assessing and managing AI risks while maintai...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: aisecurityandsafety.org  
    Title: google deepmind frontier safety framework  
-   Link: <a href="https://aisecurityandsafety.org/en/frameworks/google-deepmind-frontier-safety-framework/" target="_blank" rel="noopener noreferrer nofollow">https://aisecurityandsafety.org/en/frameworks/google-deepmind-frontier-safety-framework/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>10 Mar 2026 — Google DeepMind&#x27;s protocol for identifying Critical Capability Levels and applying proportional safeguards to frontier AI m...</p></details>
+   Link:<a href="https://aisecurityandsafety.org/en/frameworks/google-deepmind-frontier-safety-framework/" target="_blank" rel="noopener noreferrer nofollow">https://aisecurityandsafety.org/en/frameworks/google-deepmind-frontier-safety-framework/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>10 Mar 2026 — Google DeepMind&#x27;s protocol for identifying Critical Capability Levels and applying proportional safeguards to frontier AI m...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: agora.eto.tech  
    Title: tech Anthropic Responsible Scaling Policy  
-   Link: <a href="https://agora.eto.tech/instrument/768" target="_blank" rel="noopener noreferrer nofollow">https://agora.eto.tech/instrument/768</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Responsible Scaling Policy - ETO AGORAEstablishes AI Safety Level Standards (ASLs) for AI model testing, deployment and security. Require...</p></details>
+   Link:<a href="https://agora.eto.tech/instrument/768" target="_blank" rel="noopener noreferrer nofollow">https://agora.eto.tech/instrument/768</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Responsible Scaling Policy - ETO AGORAEstablishes AI Safety Level Standards (ASLs) for AI model testing, deployment and security. Require...</p></details>
 
 ### Additional References
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: metr.org  
-   Link: <a href="https://metr.org/assets/common-elements-nov-2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://metr.org/assets/common-elements-nov-2024.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Common Elements of Frontier AI Safety PoliciesAnthropic&#x27;s Responsible Scaling Policy, page 17: We replaced our previous autonomous replic...</p></details>
+   Link:<a href="https://metr.org/assets/common-elements-nov-2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://metr.org/assets/common-elements-nov-2024.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Common Elements of Frontier AI Safety PoliciesAnthropic&#x27;s Responsible Scaling Policy, page 17: We replaced our previous autonomous replic...</p></details>
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/enkrypt-ai/frontier-safety-frameworks-a-comprehensive-picture-e070efb4d0a7" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/enkrypt-ai/frontier-safety-frameworks-a-comprehensive-picture-e070efb4d0a7</a>  
+   Link:<a href="https://medium.com/enkrypt-ai/frontier-safety-frameworks-a-comprehensive-picture-e070efb4d0a7" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/enkrypt-ai/frontier-safety-frameworks-a-comprehensive-picture-e070efb4d0a7</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/niloykantipaul_google-expands-its-ai-safety-framework-activity-7376111460424347648-w1u3" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/niloykantipaul_google-expands-its-ai-safety-framework-activity-7376111460424347648-w1u3</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Google Updates AI Safety Framework to Include Shutdown...Google DeepMind just released FSF 3.0 It&#x27;s the first AI governance framework th...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/niloykantipaul_google-expands-its-ai-safety-framework-activity-7376111460424347648-w1u3" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/niloykantipaul_google-expands-its-ai-safety-framework-activity-7376111460424347648-w1u3</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google Updates AI Safety Framework to Include Shutdown...Google DeepMind just released FSF 3.0 It&#x27;s the first AI governance framework th...</p></details>
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: agora.eto.tech  
-   Link: <a href="https://agora.eto.tech/instrument/987" target="_blank" rel="noopener noreferrer nofollow">https://agora.eto.tech/instrument/987</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DeepMind Frontier Safety Framework Version 1.0Establishes protocols for identifying and mitigating severe AI risks from Critical Capabili...</p></details>
+   Link:<a href="https://agora.eto.tech/instrument/987" target="_blank" rel="noopener noreferrer nofollow">https://agora.eto.tech/instrument/987</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DeepMind Frontier Safety Framework Version 1.0Establishes protocols for identifying and mitigating severe AI risks from Critical Capabili...</p></details>
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: futureoflife.org  
-   Link: <a href="https://futureoflife.org/wp-content/uploads/2025/11/Indicator-Risk_Treatment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://futureoflife.org/wp-content/uploads/2025/11/Indicator-Risk_Treatment.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Framework includes only illustrative examples of safeguards against malicious users, against a misaligned model, and security controls It...</p></details>
+   Link:<a href="https://futureoflife.org/wp-content/uploads/2025/11/Indicator-Risk_Treatment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://futureoflife.org/wp-content/uploads/2025/11/Indicator-Risk_Treatment.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Framework includes only illustrative examples of safeguards against malicious users, against a misaligned model, and security controls It...</p></details>
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: forum.effectivealtruism.org  
    Title: we read every labs safety plan so you don t have to 2025  
-   Link: <a href="https://forum.effectivealtruism.org/posts/fHWtYTyahQoSsfzke/we-read-every-labs-safety-plan-so-you-don-t-have-to-2025" target="_blank" rel="noopener noreferrer nofollow">https://forum.effectivealtruism.org/posts/fHWtYTyahQoSsfzke/we-read-every-labs-safety-plan-so-you-don-t-have-to-2025</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>read every labs safety plan so you don&#x27;t have to: 2025...29 Oct 2025 — Anthropic has a Responsible Scaling Policy, Google DeepMind has a...</p></details>
+   Link:<a href="https://forum.effectivealtruism.org/posts/fHWtYTyahQoSsfzke/we-read-every-labs-safety-plan-so-you-don-t-have-to-2025" target="_blank" rel="noopener noreferrer nofollow">https://forum.effectivealtruism.org/posts/fHWtYTyahQoSsfzke/we-read-every-labs-safety-plan-so-you-don-t-have-to-2025</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>read every labs safety plan so you don&#x27;t have to: 2025...29 Oct 2025 — Anthropic has a Responsible Scaling Policy, Google DeepMind has a...</p></details>
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: aionda.blog  
    Title: frontier ai safety framework autonomous agents  
-   Link: <a href="https://aionda.blog/en/posts/frontier-ai-safety-framework-autonomous-agents" target="_blank" rel="noopener noreferrer nofollow">https://aionda.blog/en/posts/frontier-ai-safety-framework-autonomous-agents</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Frontier AI Safety Framework and Control for Autonomous...Jan 17, 2026 — Frontier AI Safety Frameworks, critical capability levels, and...</p></details>
+   Link:<a href="https://aionda.blog/en/posts/frontier-ai-safety-framework-autonomous-agents" target="_blank" rel="noopener noreferrer nofollow">https://aionda.blog/en/posts/frontier-ai-safety-framework-autonomous-agents</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Frontier AI Safety Framework and Control for Autonomous...Jan 17, 2026 — Frontier AI Safety Frameworks, critical capability levels, and...</p></details>
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/fdegni_google-deepmind-frontier-safety-framework-activity-7377537446156075008-NgOa" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/fdegni_google-deepmind-frontier-safety-framework-activity-7377537446156075008-NgOa</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ents that hit critical capability levels. For risk...Read more...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/fdegni_google-deepmind-frontier-safety-framework-activity-7377537446156075008-NgOa" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/fdegni_google-deepmind-frontier-safety-framework-activity-7377537446156075008-NgOa</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ents that hit critical capability levels. For risk...Read more...</p></details>
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: ailabwatch.org  
    Title: deepmind frontier safety framework  
-   Link: <a href="https://ailabwatch.org/blog/deepmind-frontier-safety-framework" target="_blank" rel="noopener noreferrer nofollow">https://ailabwatch.org/blog/deepmind-frontier-safety-framework</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DeepMind&#x27;s &quot;​​Frontier Safety Framework&quot; is weak and...16 May 2024 — DeepMind&#x27;s &quot;​​Frontier Safety Framework&quot; is weak and unambitious ·...</p></details>
+   Link:<a href="https://ailabwatch.org/blog/deepmind-frontier-safety-framework" target="_blank" rel="noopener noreferrer nofollow">https://ailabwatch.org/blog/deepmind-frontier-safety-framework</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DeepMind&#x27;s &quot;​​Frontier Safety Framework&quot; is weak and...16 May 2024 — DeepMind&#x27;s &quot;​​Frontier Safety Framework&quot; is weak and unambitious ·...</p></details>
    Published: May 2024  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: forum.effectivealtruism.org  
-   Link: <a href="https://forum.effectivealtruism.org/posts/LahLysfvsWGWAcNaz/deepmind-s-frontier-safety-framework-is-weak-and-unambitious" target="_blank" rel="noopener noreferrer nofollow">https://forum.effectivealtruism.org/posts/LahLysfvsWGWAcNaz/deepmind-s-frontier-safety-framework-is-weak-and-unambitious</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>effectivealtruism.orgDeepMind&#x27;s &quot;​​Frontier Safety Framework&quot; is weak and...18 May 2024 — DeepMind&#x27;s FSF has three steps: Create model e...</p></details>
+   Link:<a href="https://forum.effectivealtruism.org/posts/LahLysfvsWGWAcNaz/deepmind-s-frontier-safety-framework-is-weak-and-unambitious" target="_blank" rel="noopener noreferrer nofollow">https://forum.effectivealtruism.org/posts/LahLysfvsWGWAcNaz/deepmind-s-frontier-safety-framework-is-weak-and-unambitious</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>effectivealtruism.orgDeepMind&#x27;s &quot;​​Frontier Safety Framework&quot; is weak and...18 May 2024 — DeepMind&#x27;s FSF has three steps: Create model e...</p></details>
    Published: May 2024

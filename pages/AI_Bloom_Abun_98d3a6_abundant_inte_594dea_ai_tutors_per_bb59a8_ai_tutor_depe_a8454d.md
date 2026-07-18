@@ -284,7 +284,7 @@ Students frequently experience what researchers call an illusion of competence. 
 
 Generative AI may amplify this problem because it produces explanations that feel highly personalised and conversational. Unlike a textbook, it responds instantly. Unlike a search engine, it packages information into a coherent narrative. The interaction creates a strong subjective feeling of understanding.
 
-That feeling is not worthless. Confidence and engagement matter. But educational psychologists have long argued that durable learning requires effortful retrieval, practice, error correction and independent problem-solving. If AI removes too much of that effort, students may perform better during study while learning less overall. Research increasingly focuses on separating these two outcomes: immediate task success and lasting competence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/392818529_Distinguishing_performance_gains_from_learning_when_using_generative_AI" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Distinguishing performance gains from learning when</span><span class="citation-popover-snippet">Distinguishing performance gains from learning when...June 18, 2025 — 15 May 2026 — Generative artificial intelligence (AI)...</span><span class="citation-popover-meta">Published: June 18, 2025</span></span></span>
+That feeling is not worthless. Confidence and engagement matter. But educational psychologists have long argued that durable learning requires effortful retrieval, practice, error correction and independent problem-solving. If AI removes too much of that effort, students may perform better during study while learning less overall. Research increasingly focuses on separating these two outcomes: immediate task success and lasting competence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/392818529_Distinguishing_performance_gains_from_learning_when_using_generative_AI" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Distinguishing performance gains from learning when</span><span class="citation-popover-snippet">Distinguishing performance gains from learning when...June 18, 2025 — 15 May 2026 — Generative artificial intelligence (AI)...</span><span class="citation-popover-meta">Published: June 18, 2025</span></span></span>
 
 This is one reason many researchers prefer the term "cognitive offloading" to simple automation. The concern is not that students use tools. Calculators, dictionaries and search engines are also tools. The concern is that advanced AI can absorb parts of the reasoning process itself, reducing the mental work that helps build expertise.
 
@@ -294,9 +294,9 @@ The strongest tests of educational value are often the simplest: remove the tool
 
 Several recent studies suggest that AI assistance can improve immediate performance while producing weaker results when students later work independently.
 
-A multi-university study reported by researchers from Carnegie Mellon, Oxford, MIT and UCLA found that participants receiving AI assistance initially solved more problems, but performed substantially worse after the assistance was removed. The AI-assisted group scored around 20% lower on later tasks and skipped more questions when forced to rely on their own reasoning. The decline was especially pronounced when participants had used AI to obtain direct answers rather than hints or clarifications. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nypost.com/2026/05/28/health/how-using-ai-for-just-10-minutes-can-backfire-on-your-brain/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">Participants in the study took a fraction-based math test, with half receiving temporary assistance from an AI tool. While AI users initi...</span></span></span>
+A multi-university study reported by researchers from Carnegie Mellon, Oxford, MIT and UCLA found that participants receiving AI assistance initially solved more problems, but performed substantially worse after the assistance was removed. The AI-assisted group scored around 20% lower on later tasks and skipped more questions when forced to rely on their own reasoning. The decline was especially pronounced when participants had used AI to obtain direct answers rather than hints or clarifications.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nypost.com/2026/05/28/health/how-using-ai-for-just-10-minutes-can-backfire-on-your-brain/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">Participants in the study took a fraction-based math test, with half receiving temporary assistance from an AI tool. While AI users initi...</span></span></span>
 
-Other emerging research points in a similar direction. A large-scale analysis of millions of mathematics-learning interactions found evidence that students spent less time working through AI-susceptible problems after the release of advanced language models. The researchers also found weaker performance on proctored retention assessments, suggesting that some apparent gains reflected assistance during learning rather than durable understanding. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2605.21629" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Faster Completion, Less Learning: Generative AI Reduced Study Time on Math Problems and the Knowledge They BuildMay 20, 2026...</span><span class="citation-popover-meta">Published: May 20, 2026</span></span></span>
+Other emerging research points in a similar direction. A large-scale analysis of millions of mathematics-learning interactions found evidence that students spent less time working through AI-susceptible problems after the release of advanced language models. The researchers also found weaker performance on proctored retention assessments, suggesting that some apparent gains reflected assistance during learning rather than durable understanding.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2605.21629" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Faster Completion, Less Learning: Generative AI Reduced Study Time on Math Problems and the Knowledge They BuildMay 20, 2026...</span><span class="citation-popover-meta">Published: May 20, 2026</span></span></span>
 
 These findings do not prove that AI tutoring is harmful. They do show that educational success cannot be measured solely by completion rates, homework scores or student satisfaction. A system may make learning feel easier while reducing the struggle that helps knowledge stick.
 
@@ -310,13 +310,13 @@ The dependence story is only half the picture.
 
 A growing body of research suggests that well-designed AI tutoring systems can improve learning outcomes without simply replacing student effort.
 
-A 2025 randomised study involving university students found that AI tutor access improved exam performance by roughly 0.23 standard deviations compared with textbook-only study. Importantly, the researchers reported that the tutoring system did not appear to crowd out reading effort. Students still engaged with the underlying material rather than relying exclusively on the AI. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.econstor.eu/bitstream/10419/336607/1/557.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: econstor.eu">[Econstor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">econstor.eu</span><span class="citation-popover-snippet">AI Tutoring Enhances Student Learning Without Crowding...by M Fischer · 2025 · Cited by 7 — We study how AI tutoring affects lea...</span></span></span>
+A 2025 randomised study involving university students found that AI tutor access improved exam performance by roughly 0.23 standard deviations compared with textbook-only study. Importantly, the researchers reported that the tutoring system did not appear to crowd out reading effort. Students still engaged with the underlying material rather than relying exclusively on the AI.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.econstor.eu/bitstream/10419/336607/1/557.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: econstor.eu">[Econstor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">econstor.eu</span><span class="citation-popover-snippet">AI Tutoring Enhances Student Learning Without Crowding...by M Fischer · 2025 · Cited by 7 — We study how AI tutoring affects lea...</span></span></span>
 
-Another study published in *Scientific Reports* found that students using a carefully designed AI tutor learned more in less time than students receiving active-learning classroom instruction on the same material. The researchers attributed part of the advantage to tutoring methods that mirrored established educational practices rather than simply providing answers. Students also reported higher engagement and motivation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41598-025-97652-6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">AI tutoring outperforms in-class active learningby G Kestin · 2025 · Cited by 187 — We find that students learn significantly more...</span></span></span>
+Another study published in *Scientific Reports* found that students using a carefully designed AI tutor learned more in less time than students receiving active-learning classroom instruction on the same material. The researchers attributed part of the advantage to tutoring methods that mirrored established educational practices rather than simply providing answers. Students also reported higher engagement and motivation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41598-025-97652-6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">AI tutoring outperforms in-class active learningby G Kestin · 2025 · Cited by 187 — We find that students learn significantly more...</span></span></span>
 
 The important point is that not all AI tutoring systems operate in the same way.
 
-An AI that solves the problem for the student is educationally different from an AI that asks questions, identifies misconceptions and pushes the learner to explain their reasoning. Research increasingly suggests that these design differences strongly influence whether AI becomes a learning aid or a crutch. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2666920X25001778" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Less stress, better scores, same learning: The dissociation...by P Bassner · 2025 · Cited by 6 — Generative AI is reshaping...</span></span></span>
+An AI that solves the problem for the student is educationally different from an AI that asks questions, identifies misconceptions and pushes the learner to explain their reasoning. Research increasingly suggests that these design differences strongly influence whether AI becomes a learning aid or a crutch.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2666920X25001778" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Less stress, better scores, same learning: The dissociation...by P Bassner · 2025 · Cited by 6 — Generative AI is reshaping...</span></span></span>
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_abundant_inte_594dea_ai_tutors_per_bb59a8_ai_tutor_depe_a8454d-Illustration-2-dark.svg" | relative_url }}" alt="AI Dependence illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_abundant_inte_594dea_ai_tutors_per_bb59a8_ai_tutor_depe_a8454d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_abundant_inte_594dea_ai_tutors_per_bb59a8_ai_tutor_depe_a8454d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Socratic Tutors May Be Less Risky
@@ -325,9 +325,9 @@ Many of the most promising educational AI projects are built around a surprising
 
 The educational model often described as Socratic tutoring relies on guided questioning. Instead of supplying solutions immediately, the tutor prompts the learner to think through the problem, identify assumptions and generate explanations.
 
-Khan Academy's Khanmigo is built around this principle. The organisation explicitly argues that the system should guide learners toward answers rather than simply providing them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.khanmigo.ai/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: khanmigo.ai">[Khanmigo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">khanmigo.ai</span><span class="citation-popover-snippet">Meet Khanmigo: Khan Academy&#x27;s AI-powered teaching...Khanmigo, built by nonprofit Khan Academy, is a top-rated AI for education...</span></span></span>
+Khan Academy's Khanmigo is built around this principle. The organisation explicitly argues that the system should guide learners toward answers rather than simply providing them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.khanmigo.ai/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: khanmigo.ai">[Khanmigo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">khanmigo.ai</span><span class="citation-popover-snippet">Meet Khanmigo: Khan Academy&#x27;s AI-powered teaching...Khanmigo, built by nonprofit Khan Academy, is a top-rated AI for education...</span></span></span>
 
-More recent research prototypes follow a similar direction. Systems such as SocratiCode and SocraticAI have experimented with structured questioning, incremental hints, reflection prompts and usage constraints designed to keep students cognitively engaged rather than passively consuming solutions. Early findings suggest that learners often develop better problem-solving habits when the AI acts more like a coach than an answer engine. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2605.21629" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Faster Completion, Less Learning: Generative AI Reduced Study Time on Math Problems and the Knowledge They BuildMay 20, 2026...</span><span class="citation-popover-meta">Published: May 20, 2026</span></span></span>
+More recent research prototypes follow a similar direction. Systems such as SocratiCode and SocraticAI have experimented with structured questioning, incremental hints, reflection prompts and usage constraints designed to keep students cognitively engaged rather than passively consuming solutions. Early findings suggest that learners often develop better problem-solving habits when the AI acts more like a coach than an answer engine.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2605.21629" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Faster Completion, Less Learning: Generative AI Reduced Study Time on Math Problems and the Knowledge They BuildMay 20, 2026...</span><span class="citation-popover-meta">Published: May 20, 2026</span></span></span>
 
 This reflects a broader insight from learning science. Educational support tends to work best when it reduces unnecessary frustration without eliminating productive struggle.
 
@@ -353,7 +353,7 @@ Several approaches appear promising:
 
 **Periodic AI-free assessment.** Knowledge is tested without assistance so that both students and teachers can distinguish learning from supported performance.
 
-**Usage limits.** Some experimental systems deliberately restrict interaction patterns that encourage dependency, including repetitive answer-seeking behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2605.21629" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Faster Completion, Less Learning: Generative AI Reduced Study Time on Math Problems and the Knowledge They BuildMay 20, 2026...</span><span class="citation-popover-meta">Published: May 20, 2026</span></span></span>
+**Usage limits.** Some experimental systems deliberately restrict interaction patterns that encourage dependency, including repetitive answer-seeking behaviour.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2605.21629" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Faster Completion, Less Learning: Generative AI Reduced Study Time on Math Problems and the Knowledge They BuildMay 20, 2026...</span><span class="citation-popover-meta">Published: May 20, 2026</span></span></span>
 
 These strategies all aim at the same goal: preserving student agency. The AI remains available as a guide, but the learner still performs the intellectual work required for mastery.
 
@@ -377,194 +377,194 @@ The long-term promise of AI-enabled education depends on that distinction. If AI
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rgPYpSfSegs" title="How AI Is Transforming the Learning Curve (A Concrete Teaching Example)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rgPYpSfSegs" target="_blank" rel="noopener noreferrer">How AI Is Transforming the Learning Curve (A Concrete Teaching Example)</a></p><p class="youtube-embed-meta">Channel: Nikolay Nikolov &middot; Views: 31 &middot; Uploaded: April 2026 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rgPYpSfSegs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rgPYpSfSegs">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Do AI Tutors Build Understanding or Just Assisted Performance?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Do AI Tutors Build Understanding or Just Assisted Performance?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+AI+Classroom+by+Dan+Fitzpatrick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The AI Classroom on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=femd0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The AI Classroom" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+AI+Classroom+by+Dan+Fitzpatrick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The AI Classroom">The AI Classroom</a>
-        </h4>
-        <p class="fr-book-author">By Dan Fitzpatrick, Amanda Fox et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+AI+Classroom+by+Dan+Fitzpatrick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The AI Classroom on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=femd0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The AI Classroom" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+AI+Classroom+by+Dan+Fitzpatrick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The AI Classroom">The AI Classroom</a>
+</h4>
+<p class="fr-book-author">By Dan Fitzpatrick, Amanda Fox et al.</p>
         
-        <p class="fr-book-desc">Examines practical benefits and risks of AI-supported learning.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+AI+Classroom+by+Dan+Fitzpatrick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines practical benefits and risks of AI-supported learning.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+AI+Classroom+by+Dan+Fitzpatrick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oneWAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
-        </h4>
-        <p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oneWAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
+</h4>
+<p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
         
-        <p class="fr-book-desc">Directly addresses durable learning versus short-term assisted performance.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses durable learning versus short-term assisted performance.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why Don&#x27;t Students Like School? on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=DlMlEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why Don&#x27;t Students Like School?" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why Don&#x27;t Students Like School?">Why Don&#x27;t Students Like School?</a>
-        </h4>
-        <p class="fr-book-author">By Daniel T. Willingham</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why Don&#x27;t Students Like School? on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=DlMlEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why Don&#x27;t Students Like School?" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why Don&#x27;t Students Like School?">Why Don&#x27;t Students Like School?</a>
+</h4>
+<p class="fr-book-author">By Daniel T. Willingham</p>
         
-        <p class="fr-book-desc">Explains how genuine understanding develops and where shortcuts fail.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how genuine understanding develops and where shortcuts fail.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Learning+Happens+by+Paul+A.+Kirschner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Learning Happens on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qhQpygEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How Learning Happens" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+Learning+Happens+by+Paul+A.+Kirschner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Learning Happens">How Learning Happens</a>
-        </h4>
-        <p class="fr-book-author">By Paul A. Kirschner, Carl Hendrick</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Learning+Happens+by+Paul+A.+Kirschner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Learning Happens on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qhQpygEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How Learning Happens" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+Learning+Happens+by+Paul+A.+Kirschner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Learning Happens">How Learning Happens</a>
+</h4>
+<p class="fr-book-author">By Paul A. Kirschner, Carl Hendrick</p>
         
-        <p class="fr-book-desc">Focuses on mechanisms that build lasting knowledge.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+Learning+Happens+by+Paul+A.+Kirschner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on mechanisms that build lasting knowledge.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+Learning+Happens+by+Paul+A.+Kirschner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+AI+Classroom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The AI Classroom</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why Don&#x27;t Students Like School?</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+AI+Classroom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The AI Classroom</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why Don&#x27;t Students Like School?</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-ai-tutors-build-understanding-or-just-assisted-performance-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="do-ai-tutors-build-understanding-or-just-assisted-performance-educational-robot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Interactive Educational Drawing Robot Auto Drawing Robot w/ 100 Cards for Kids"><img src="https://i.ebayimg.com/images/g/wagAAeSw-wlqGq-h/s-l225.jpg" alt="Listing image for Interactive Educational Drawing Robot Auto Drawing Robot w/ 100 Cards for Kids" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-ai-tutors-build-understanding-or-just-assisted-performance-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="do-ai-tutors-build-understanding-or-just-assisted-performance-educational-robot" target="_blank" rel="sponsored noopener noreferrer">Interactive Educational Drawing Robot Auto Drawing Robot w/ 100 Cards for Kids</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-ai-tutors-build-understanding-or-just-assisted-performance-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="do-ai-tutors-build-understanding-or-just-assisted-performance-educational-robot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational robot">Search <span data-ebay-domain-label>eBay.co.uk</span>: educational robot</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-ai-tutors-build-understanding-or-just-assisted-performance-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="do-ai-tutors-build-understanding-or-just-assisted-performance-educational-robot" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-ai-tutors-build-understanding-or-just-assisted-performance-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="do-ai-tutors-build-understanding-or-just-assisted-performance-educational-robot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Interactive Educational Drawing Robot Auto Drawing Robot w/ 100 Cards for Kids"><img src="https://i.ebayimg.com/images/g/wagAAeSw-wlqGq-h/s-l225.jpg" alt="Listing image for Interactive Educational Drawing Robot Auto Drawing Robot w/ 100 Cards for Kids" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-ai-tutors-build-understanding-or-just-assisted-performance-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="do-ai-tutors-build-understanding-or-just-assisted-performance-educational-robot" target="_blank" rel="sponsored noopener noreferrer">Interactive Educational Drawing Robot Auto Drawing Robot w/ 100 Cards for Kids</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-ai-tutors-build-understanding-or-just-assisted-performance-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="do-ai-tutors-build-understanding-or-just-assisted-performance-educational-robot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational robot">Search<span data-ebay-domain-label>eBay.co.uk</span>: educational robot</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-ai-tutors-build-understanding-or-just-assisted-performance-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="do-ai-tutors-build-understanding-or-just-assisted-performance-educational-robot" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-ai-tutors-build-understanding-or-just-assisted-performance-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="do-ai-tutors-build-understanding-or-just-assisted-performance-educational-robot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kids Drawing Robot – Educational Toy with 100 Cards, Voice Guidance - Pink"><img src="https://i.ebayimg.com/images/g/zBcAAeSw2jlod501/s-l225.jpg" alt="Listing image for Kids Drawing Robot – Educational Toy with 100 Cards, Voice Guidance - Pink" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-ai-tutors-build-understanding-or-just-assisted-performance-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="do-ai-tutors-build-understanding-or-just-assisted-performance-educational-robot" target="_blank" rel="sponsored noopener noreferrer">Kids Drawing Robot – Educational Toy with 100 Cards, Voice Guidance - Pink</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-ai-tutors-build-understanding-or-just-assisted-performance-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="do-ai-tutors-build-understanding-or-just-assisted-performance-educational-robot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational robot">Search <span data-ebay-domain-label>eBay.co.uk</span>: educational robot</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-ai-tutors-build-understanding-or-just-assisted-performance-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="do-ai-tutors-build-understanding-or-just-assisted-performance-educational-robot" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-ai-tutors-build-understanding-or-just-assisted-performance-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="do-ai-tutors-build-understanding-or-just-assisted-performance-educational-robot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kids Drawing Robot – Educational Toy with 100 Cards, Voice Guidance - Pink"><img src="https://i.ebayimg.com/images/g/zBcAAeSw2jlod501/s-l225.jpg" alt="Listing image for Kids Drawing Robot – Educational Toy with 100 Cards, Voice Guidance - Pink" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-ai-tutors-build-understanding-or-just-assisted-performance-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="do-ai-tutors-build-understanding-or-just-assisted-performance-educational-robot" target="_blank" rel="sponsored noopener noreferrer">Kids Drawing Robot – Educational Toy with 100 Cards, Voice Guidance - Pink</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-ai-tutors-build-understanding-or-just-assisted-performance-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="do-ai-tutors-build-understanding-or-just-assisted-performance-educational-robot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational robot">Search<span data-ebay-domain-label>eBay.co.uk</span>: educational robot</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-ai-tutors-build-understanding-or-just-assisted-performance-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="do-ai-tutors-build-understanding-or-just-assisted-performance-educational-robot" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-ai-tutors-build-understanding-or-just-assisted-performance-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="do-ai-tutors-build-understanding-or-just-assisted-performance-educational-robot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Drawing Robot For Kids With 100 Cards Automatic Painting Robot Education Toy UK"><img src="https://i.ebayimg.com/images/g/9vsAAeSwEPFqEBFl/s-l225.jpg" alt="Listing image for Drawing Robot For Kids With 100 Cards Automatic Painting Robot Education Toy UK" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-ai-tutors-build-understanding-or-just-assisted-performance-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="do-ai-tutors-build-understanding-or-just-assisted-performance-educational-robot" target="_blank" rel="sponsored noopener noreferrer">Drawing Robot For Kids With 100 Cards Automatic Painting Robot Education Toy UK</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-ai-tutors-build-understanding-or-just-assisted-performance-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="do-ai-tutors-build-understanding-or-just-assisted-performance-educational-robot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational robot">Search <span data-ebay-domain-label>eBay.co.uk</span>: educational robot</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-ai-tutors-build-understanding-or-just-assisted-performance-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="do-ai-tutors-build-understanding-or-just-assisted-performance-educational-robot" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-ai-tutors-build-understanding-or-just-assisted-performance-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="do-ai-tutors-build-understanding-or-just-assisted-performance-educational-robot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Drawing Robot For Kids With 100 Cards Automatic Painting Robot Education Toy UK"><img src="https://i.ebayimg.com/images/g/9vsAAeSwEPFqEBFl/s-l225.jpg" alt="Listing image for Drawing Robot For Kids With 100 Cards Automatic Painting Robot Education Toy UK" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-ai-tutors-build-understanding-or-just-assisted-performance-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="do-ai-tutors-build-understanding-or-just-assisted-performance-educational-robot" target="_blank" rel="sponsored noopener noreferrer">Drawing Robot For Kids With 100 Cards Automatic Painting Robot Education Toy UK</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-ai-tutors-build-understanding-or-just-assisted-performance-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="do-ai-tutors-build-understanding-or-just-assisted-performance-educational-robot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational robot">Search<span data-ebay-domain-label>eBay.co.uk</span>: educational robot</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-ai-tutors-build-understanding-or-just-assisted-performance-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="do-ai-tutors-build-understanding-or-just-assisted-performance-educational-robot" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-ai-tutors-build-understanding-or-just-assisted-performance-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="do-ai-tutors-build-understanding-or-just-assisted-performance-educational-robot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 5 in 1 STEM RC Robot Building Kit 795Pcs Blocks App &amp; Remote Control Bricks"><img src="https://i.ebayimg.com/images/g/LncAAeSwUAlqGWiB/s-l225.jpg" alt="Listing image for 5 in 1 STEM RC Robot Building Kit 795Pcs Blocks App &amp; Remote Control Bricks" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-ai-tutors-build-understanding-or-just-assisted-performance-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="do-ai-tutors-build-understanding-or-just-assisted-performance-educational-robot" target="_blank" rel="sponsored noopener noreferrer">5 in 1 STEM RC Robot Building Kit 795Pcs Blocks App &amp; Remote Control Bricks</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-ai-tutors-build-understanding-or-just-assisted-performance-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="do-ai-tutors-build-understanding-or-just-assisted-performance-educational-robot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational robot">Search <span data-ebay-domain-label>eBay.co.uk</span>: educational robot</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-ai-tutors-build-understanding-or-just-assisted-performance-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="do-ai-tutors-build-understanding-or-just-assisted-performance-educational-robot" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-ai-tutors-build-understanding-or-just-assisted-performance-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="do-ai-tutors-build-understanding-or-just-assisted-performance-educational-robot" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-ai-tutors-build-understanding-or-just-assisted-performance-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="do-ai-tutors-build-understanding-or-just-assisted-performance-educational-robot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 5 in 1 STEM RC Robot Building Kit 795Pcs Blocks App &amp; Remote Control Bricks"><img src="https://i.ebayimg.com/images/g/LncAAeSwUAlqGWiB/s-l225.jpg" alt="Listing image for 5 in 1 STEM RC Robot Building Kit 795Pcs Blocks App &amp; Remote Control Bricks" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-ai-tutors-build-understanding-or-just-assisted-performance-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="do-ai-tutors-build-understanding-or-just-assisted-performance-educational-robot" target="_blank" rel="sponsored noopener noreferrer">5 in 1 STEM RC Robot Building Kit 795Pcs Blocks App &amp; Remote Control Bricks</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-ai-tutors-build-understanding-or-just-assisted-performance-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="do-ai-tutors-build-understanding-or-just-assisted-performance-educational-robot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational robot">Search<span data-ebay-domain-label>eBay.co.uk</span>: educational robot</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-ai-tutors-build-understanding-or-just-assisted-performance-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="do-ai-tutors-build-understanding-or-just-assisted-performance-educational-robot" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-ai-tutors-build-understanding-or-just-assisted-performance-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="do-ai-tutors-build-understanding-or-just-assisted-performance-educational-robot" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -580,7 +580,7 @@ The long-term promise of AI-enabled education depends on that distinction. If AI
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -600,7 +600,7 @@ The long-term promise of AI-enabled education depends on that distinction. If AI
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -632,7 +632,7 @@ The long-term promise of AI-enabled education depends on that distinction. If AI
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -684,7 +684,7 @@ The long-term promise of AI-enabled education depends on that distinction. If AI
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -729,7 +729,7 @@ The long-term promise of AI-enabled education depends on that distinction. If AI
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -770,137 +770,137 @@ The long-term promise of AI-enabled education depends on that distinction. If AI
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: researchgate.net  
    Title: Research Gate Distinguishing performance gains from learning when  
-   Link: <a href="https://www.researchgate.net/publication/392818529_Distinguishing_performance_gains_from_learning_when_using_generative_AI" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/392818529_Distinguishing_performance_gains_from_learning_when_using_generative_AI</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Distinguishing performance gains from learning when...June 18, 2025 — 15 May 2026 — Generative artificial intelligence (AI)...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/392818529_Distinguishing_performance_gains_from_learning_when_using_generative_AI" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/392818529_Distinguishing_performance_gains_from_learning_when_using_generative_AI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Distinguishing performance gains from learning when...June 18, 2025 — 15 May 2026 — Generative artificial intelligence (AI)...</p></details>
    Published: June 18, 2025  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2666920X25001778" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2666920X25001778</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Less stress, better scores, same learning: The dissociation...by P Bassner · 2025 · Cited by 6 — Generative AI is reshaping...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S2666920X25001778" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2666920X25001778</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Less stress, better scores, same learning: The dissociation...by P Bassner · 2025 · Cited by 6 — Generative AI is reshaping...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2605.21629" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2605.21629</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Faster Completion, Less Learning: Generative AI Reduced Study Time on Math Problems and the Knowledge They BuildMay 20, 2026...</p></details>
+   Link:<a href="https://arxiv.org/abs/2605.21629" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2605.21629</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Faster Completion, Less Learning: Generative AI Reduced Study Time on Math Problems and the Knowledge They BuildMay 20, 2026...</p></details>
    Published: May 20, 2026  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: econstor.eu  
-   Link: <a href="https://www.econstor.eu/bitstream/10419/336607/1/557.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.econstor.eu/bitstream/10419/336607/1/557.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Tutoring Enhances Student Learning Without Crowding...by M Fischer · 2025 · Cited by 7 — We study how AI tutoring affects lea...</p></details>
+   Link:<a href="https://www.econstor.eu/bitstream/10419/336607/1/557.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.econstor.eu/bitstream/10419/336607/1/557.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI Tutoring Enhances Student Learning Without Crowding...by M Fischer · 2025 · Cited by 7 — We study how AI tutoring affects lea...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41598-025-97652-6" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-025-97652-6</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AI tutoring outperforms in-class active learningby G Kestin · 2025 · Cited by 187 — We find that students learn significantly more...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41598-025-97652-6" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-025-97652-6</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI tutoring outperforms in-class active learningby G Kestin · 2025 · Cited by 187 — We find that students learn significantly more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: khanmigo.ai  
-   Link: <a href="https://www.khanmigo.ai/" target="_blank" rel="noopener noreferrer nofollow">https://www.khanmigo.ai/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Meet Khanmigo: Khan Academy&#x27;s AI-powered teaching...Khanmigo, built by nonprofit Khan Academy, is a top-rated AI for education...</p></details>
+   Link:<a href="https://www.khanmigo.ai/" target="_blank" rel="noopener noreferrer nofollow">https://www.khanmigo.ai/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Meet Khanmigo: Khan Academy&#x27;s AI-powered teaching...Khanmigo, built by nonprofit Khan Academy, is a top-rated AI for education...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: khanmigo.ai  
-   Link: <a href="https://www.khanmigo.ai/learners" target="_blank" rel="noopener noreferrer nofollow">https://www.khanmigo.ai/learners</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>tutor on just about every topic. Now just $4/month.Read more...</p></details>
+   Link:<a href="https://www.khanmigo.ai/learners" target="_blank" rel="noopener noreferrer nofollow">https://www.khanmigo.ai/learners</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>tutor on just about every topic. Now just $4/month.Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2605.17857" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2605.17857</a>  
+   Link:<a href="https://arxiv.org/abs/2605.17857" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2605.17857</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2512.03501" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2512.03501</a>  
+   Link:<a href="https://arxiv.org/abs/2512.03501" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2512.03501</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/399367159_AI_Tutoring_Enhances_Student_Learning_Without_Crowding_Out_Reading_Effort" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/399367159_AI_Tutoring_Enhances_Student_Learning_Without_Crowding_Out_Reading_Effort</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) AI Tutoring Enhances Student Learning Without...2 Jan 2026 — We study how AI tutoring affects learning in higher education through...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/399367159_AI_Tutoring_Enhances_Student_Learning_Without_Crowding_Out_Reading_Effort" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/399367159_AI_Tutoring_Enhances_Student_Learning_Without_Crowding_Out_Reading_Effort</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) AI Tutoring Enhances Student Learning Without...2 Jan 2026 — We study how AI tutoring affects learning in higher education through...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/396808798_Leveraging_Khanmigo_Generative_AI-Powered_Tool_for_Personalized_Tutoring_to_Learn_Scientific_Concepts" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/396808798_Leveraging_Khanmigo_Generative_AI-Powered_Tool_for_Personalized_Tutoring_to_Learn_Scientific_Concepts</a>  
+   Link:<a href="https://www.researchgate.net/publication/396808798_Leveraging_Khanmigo_Generative_AI-Powered_Tool_for_Personalized_Tutoring_to_Learn_Scientific_Concepts" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/396808798_Leveraging_Khanmigo_Generative_AI-Powered_Tool_for_Personalized_Tutoring_to_Learn_Scientific_Concepts</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2507.18882v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2507.18882v1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
+   Link:<a href="https://arxiv.org/html/2507.18882v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2507.18882v1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2507.07357v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2507.07357v1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Impact of GenAI and Search Technologies on Retention10 Jul 2025 — This study investigates how GenAI (ChatGPT), search engines (Google...</p></details>
+   Link:<a href="https://arxiv.org/html/2507.07357v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2507.07357v1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Impact of GenAI and Search Technologies on Retention10 Jul 2025 — This study investigates how GenAI (ChatGPT), search engines (Google...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: nypost.com  
-   Link: <a href="https://nypost.com/2026/05/28/health/how-using-ai-for-just-10-minutes-can-backfire-on-your-brain/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2026/05/28/health/how-using-ai-for-just-10-minutes-can-backfire-on-your-brain/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Participants in the study took a fraction-based math test, with half receiving temporary assistance from an AI tool. While AI users initi...</p></details>
+   Link:<a href="https://nypost.com/2026/05/28/health/how-using-ai-for-just-10-minutes-can-backfire-on-your-brain/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2026/05/28/health/how-using-ai-for-just-10-minutes-can-backfire-on-your-brain/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Participants in the study took a fraction-based math test, with half receiving temporary assistance from an AI tool. While AI users initi...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/shuchi-singh-6a80a7128_oecd-digital-education-outlook-2026-summary-activity-7422223054895853570-ZAG-" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/shuchi-singh-6a80a7128_oecd-digital-education-outlook-2026-summary-activity-7422223054895853570-ZAG-</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>inking, problem-solving, and independent judgment. The...Read more...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/shuchi-singh-6a80a7128_oecd-digital-education-outlook-2026-summary-activity-7422223054895853570-ZAG-" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/shuchi-singh-6a80a7128_oecd-digital-education-outlook-2026-summary-activity-7422223054895853570-ZAG-</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>inking, problem-solving, and independent judgment. The...Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: reruption.com  
-   Link: <a href="https://reruption.com/en/knowledge/industry-cases/khanmigo-khan-academys-gpt-4-ai-tutor-scaling-education" target="_blank" rel="noopener noreferrer nofollow">https://reruption.com/en/knowledge/industry-cases/khanmigo-khan-academys-gpt-4-ai-tutor-scaling-education</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ing for students and tools for teachers, growing from 68K pilot users...</p></details>
+   Link:<a href="https://reruption.com/en/knowledge/industry-cases/khanmigo-khan-academys-gpt-4-ai-tutor-scaling-education" target="_blank" rel="noopener noreferrer nofollow">https://reruption.com/en/knowledge/industry-cases/khanmigo-khan-academys-gpt-4-ai-tutor-scaling-education</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ing for students and tools for teachers, growing from 68K pilot users...</p></details>
 
 ### Additional References
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: iatrox.com  
-   Link: <a href="https://www.iatrox.com/blog/ai-tutors-harm-exam-learning-evidence" target="_blank" rel="noopener noreferrer nofollow">https://www.iatrox.com/blog/ai-tutors-harm-exam-learning-evidence</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Tutors Can Make You Worse at Exams. Here&#x27;s the...6 days ago — Used as an answer machine, AI can quietly worsen your exam retention wh...</p></details>
+   Link:<a href="https://www.iatrox.com/blog/ai-tutors-harm-exam-learning-evidence" target="_blank" rel="noopener noreferrer nofollow">https://www.iatrox.com/blog/ai-tutors-harm-exam-learning-evidence</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI Tutors Can Make You Worse at Exams. Here&#x27;s the...6 days ago — Used as an answer machine, AI can quietly worsen your exam retention wh...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: povertyactionlab.org  
-   Link: <a href="https://www.povertyactionlab.org/initiative-project/ai-powered-tutoring-unleashing-full-potential-personalized-learning-khanmigo" target="_blank" rel="noopener noreferrer nofollow">https://www.povertyactionlab.org/initiative-project/ai-powered-tutoring-unleashing-full-potential-personalized-learning-khanmigo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI-Powered Tutoring: Unleashing the Full Potential of...The KWiK program will leverage Khanmigo, an AI-powered virtual assistant develop...</p></details>
+   Link:<a href="https://www.povertyactionlab.org/initiative-project/ai-powered-tutoring-unleashing-full-potential-personalized-learning-khanmigo" target="_blank" rel="noopener noreferrer nofollow">https://www.povertyactionlab.org/initiative-project/ai-powered-tutoring-unleashing-full-potential-personalized-learning-khanmigo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI-Powered Tutoring: Unleashing the Full Potential of...The KWiK program will leverage Khanmigo, an AI-powered virtual assistant develop...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/100089782863897/posts/your-learning-experience-on-igot-becomes-more-effective-and-engaging-with-the-su/812313831771372/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100089782863897/posts/your-learning-experience-on-igot-becomes-more-effective-and-engaging-with-the-su/812313831771372/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Your learning experience on #iGOT becomes more...The AI Tutor serves as an intelligent, in-course learning companion that provides perso...</p></details>
+   Link:<a href="https://www.facebook.com/100089782863897/posts/your-learning-experience-on-igot-becomes-more-effective-and-engaging-with-the-su/812313831771372/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100089782863897/posts/your-learning-experience-on-igot-becomes-more-effective-and-engaging-with-the-su/812313831771372/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Your learning experience on #iGOT becomes more...The AI Tutor serves as an intelligent, in-course learning companion that provides perso...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/scottbelsky_fair-points-from-an-implications-reader-toby-activity-7336382464887570433-8_eB" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/scottbelsky_fair-points-from-an-implications-reader-toby-activity-7336382464887570433-8_eB</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI tutors can be fun and gamify learningAI in education is rapidly transforming learning... - Intelligent tutoring systems are becoming...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/scottbelsky_fair-points-from-an-implications-reader-toby-activity-7336382464887570433-8_eB" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/scottbelsky_fair-points-from-an-implications-reader-toby-activity-7336382464887570433-8_eB</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI tutors can be fun and gamify learningAI in education is rapidly transforming learning... - Intelligent tutoring systems are becoming...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40adnanmasood/the-quiet-math-of-edtech-can-ai-tutors-really-teach-737195005abf" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40adnanmasood/the-quiet-math-of-edtech-can-ai-tutors-really-teach-737195005abf</a>  
+   Link:<a href="https://medium.com/%40adnanmasood/the-quiet-math-of-edtech-can-ai-tutors-really-teach-737195005abf" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40adnanmasood/the-quiet-math-of-edtech-can-ai-tutors-really-teach-737195005abf</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/opencontent_ai-tutoring-outperforms-active-learning-activity-7262166917665247232-q_IO" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/opencontent_ai-tutoring-outperforms-active-learning-activity-7262166917665247232-q_IO</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Tutoring Outperforms Active Learning | David WileyResearch cited in the piece – a 2024 review of 36 studies – found that when lessons...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/opencontent_ai-tutoring-outperforms-active-learning-activity-7262166917665247232-q_IO" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/opencontent_ai-tutoring-outperforms-active-learning-activity-7262166917665247232-q_IO</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI Tutoring Outperforms Active Learning | David WileyResearch cited in the piece – a 2024 review of 36 studies – found that when lessons...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: blog.khanacademy.org  
    Title: how khan academy is building a better ai tutor our most recent learnings  
-   Link: <a href="https://blog.khanacademy.org/how-khan-academy-is-building-a-better-ai-tutor-our-most-recent-learnings/" target="_blank" rel="noopener noreferrer nofollow">https://blog.khanacademy.org/how-khan-academy-is-building-a-better-ai-tutor-our-most-recent-learnings/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Khan Academy Is Building a Better AI Tutor: Our Most...1 May 2026 — Khan Academy shares how it improved its AI tutor Khanmigo with faste...</p></details>
+   Link:<a href="https://blog.khanacademy.org/how-khan-academy-is-building-a-better-ai-tutor-our-most-recent-learnings/" target="_blank" rel="noopener noreferrer nofollow">https://blog.khanacademy.org/how-khan-academy-is-building-a-better-ai-tutor-our-most-recent-learnings/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Khan Academy Is Building a Better AI Tutor: Our Most...1 May 2026 — Khan Academy shares how it improved its AI tutor Khanmigo with faste...</p></details>
    Published: May 2026  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: yolearn.ai  
    Title: ai learning assistant vs traditional study methods comparison  
-   Link: <a href="https://www.yolearn.ai/blog/ai-learning-assistant-vs-traditional-study-methods-comparison" target="_blank" rel="noopener noreferrer nofollow">https://www.yolearn.ai/blog/ai-learning-assistant-vs-traditional-study-methods-comparison</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Learning Assistant vs. Traditional Study Methods10 Sept 2025 — Your Personal AI Tutors, Coaches and buddies. Learn anything 5 times fa...</p></details>
+   Link:<a href="https://www.yolearn.ai/blog/ai-learning-assistant-vs-traditional-study-methods-comparison" target="_blank" rel="noopener noreferrer nofollow">https://www.yolearn.ai/blog/ai-learning-assistant-vs-traditional-study-methods-comparison</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI Learning Assistant vs. Traditional Study Methods10 Sept 2025 — Your Personal AI Tutors, Coaches and buddies. Learn anything 5 times fa...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: brookings.edu  
    Title: what the research shows about generative ai in tutoring  
-   Link: <a href="https://www.brookings.edu/articles/what-the-research-shows-about-generative-ai-in-tutoring/" target="_blank" rel="noopener noreferrer nofollow">https://www.brookings.edu/articles/what-the-research-shows-about-generative-ai-in-tutoring/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>27 Jan 2026 — Mary Burns unpacks the evidence of generative AI in tutoring and how it should work alongside [human tutors](&amp;#123;&amp;#123; &#x27;human-role/&#x27; | relative_url &amp;#125;&amp;#125;) for success...</p></details>
+   Link:<a href="https://www.brookings.edu/articles/what-the-research-shows-about-generative-ai-in-tutoring/" target="_blank" rel="noopener noreferrer nofollow">https://www.brookings.edu/articles/what-the-research-shows-about-generative-ai-in-tutoring/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>27 Jan 2026 — Mary Burns unpacks the evidence of generative AI in tutoring and how it should work alongside [human tutors](&amp;#123;&amp;#123; &#x27;human-role/&#x27; | relative_url &amp;#125;&amp;#125;) for success...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/131041333333435/posts/754477390989823/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/131041333333435/posts/754477390989823/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>evealing something more complicated. The issue is not whether...</p></details>
+   Link:<a href="https://www.facebook.com/groups/131041333333435/posts/754477390989823/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/131041333333435/posts/754477390989823/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>evealing something more complicated. The issue is not whether...</p></details>

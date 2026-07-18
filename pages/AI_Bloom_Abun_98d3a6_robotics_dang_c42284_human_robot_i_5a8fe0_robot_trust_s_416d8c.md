@@ -275,18 +275,18 @@ image: /assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_human_robot_i_5a
 
 ## Introduction
 
-Even when physical safeguards are in place to prevent robots from harming human workers, **how a robot behaves can make people *feel* unsafe** — and those perceptions matter. In workplaces where humans share space with autonomous machines, unpredictability in speed, direction or signals can undermine workers’ confidence, erode trust and increase psychological stress. This “felt safety” isn’t just an abstract concern: research shows that **predictability, transparency and clear intent in robot motion are key determinants of whether workers feel safe around robots**, independent of whether the machines could physically harm them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s12369-023-01027-8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">A Taxonomy of Factors Influencing Perceived Safety in Human–Robot Interaction &#124; International Journal of Social Robotics &#124; Spring...</span></span></span>
+Even when physical safeguards are in place to prevent robots from harming human workers, **how a robot behaves can make people *feel* unsafe** — and those perceptions matter. In workplaces where humans share space with autonomous machines, unpredictability in speed, direction or signals can undermine workers’ confidence, erode trust and increase psychological stress. This “felt safety” isn’t just an abstract concern: research shows that **predictability, transparency and clear intent in robot motion are key determinants of whether workers feel safe around robots**, independent of whether the machines could physically harm them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s12369-023-01027-8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">A Taxonomy of Factors Influencing Perceived Safety in Human–Robot Interaction &#124; International Journal of Social Robotics &#124; Spring...</span></span></span>
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_human_robot_i_5a8fe0_robot_trust_s_416d8c-Illustration-1-dark.svg" | relative_url }}" alt="Felt Safety illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_human_robot_i_5a8fe0_robot_trust_s_416d8c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_human_robot_i_5a8fe0_robot_trust_s_416d8c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This page explains why robot behaviour influences worker safety perceptions, what specific motion and design cues can create confusion or confidence, and how better transparency and predictability support both worker wellbeing and effective human–robot teamwork.
 
 ## How Robot Behaviour Shapes Safety Perceptions
 
-Safety in human–robot interaction has two distinct but related aspects: **physical safety** (no risk of harm from collision or force) and **perceived safety** (workers feeling secure while the robot operates). A robot can be compliant by design yet still evoke discomfort or anxiety if its actions are unpredictable or opaque. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s12369-021-00853-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">International Journal of Social Robotics &#124; Springer Nature LinkJanuary 7, 2022 — DO SPEED AND PROXIMITY AFFECT HUMAN-ROBOT COLLABORATIO...</span><span class="citation-popover-meta">Published: January 7, 2022</span></span></span>
+Safety in human–robot interaction has two distinct but related aspects: **physical safety** (no risk of harm from collision or force) and **perceived safety** (workers feeling secure while the robot operates). A robot can be compliant by design yet still evoke discomfort or anxiety if its actions are unpredictable or opaque.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s12369-021-00853-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">International Journal of Social Robotics &#124; Springer Nature LinkJanuary 7, 2022 — DO SPEED AND PROXIMITY AFFECT HUMAN-ROBOT COLLABORATIO...</span><span class="citation-popover-meta">Published: January 7, 2022</span></span></span>
 
-Researchers studying perceived safety in shared work environments find that human workers respond emotionally and cognitively to robotic behaviour much as they do to other moving agents in their space. **Uncertainty about what a robot will do next — for instance abrupt changes in direction or speed — increases discomfort and lowers trust**, even when safety margins are technically satisfied. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1071581921001622" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Do you feel safe with your robot? Factors influencing perceived safety in human-robot interaction based on subjective and ob...</span></span></span>
+Researchers studying perceived safety in shared work environments find that human workers respond emotionally and cognitively to robotic behaviour much as they do to other moving agents in their space. **Uncertainty about what a robot will do next — for instance abrupt changes in direction or speed — increases discomfort and lowers trust**, even when safety margins are technically satisfied.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1071581921001622" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Do you feel safe with your robot? Factors influencing perceived safety in human-robot interaction based on subjective and ob...</span></span></span>
 
-A systematic review of industrial settings highlighted that factors such as **robot approach speed, approach direction, and unclear signalling significantly affect perceived safety and trust**. In other words, it isn’t just *whether* robots are safe, but *how* they behave that shapes the human experience. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/38190192/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">A Literature Review on Safety Perception and Trust during Human-Robot Interaction with Autonomous Mobile Robots That Apply to Indus...</span></span></span>
+A systematic review of industrial settings highlighted that factors such as **robot approach speed, approach direction, and unclear signalling significantly affect perceived safety and trust**. In other words, it isn’t just *whether* robots are safe, but *how* they behave that shapes the human experience.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/38190192/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">A Literature Review on Safety Perception and Trust during Human-Robot Interaction with Autonomous Mobile Robots That Apply to Indus...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3xu5AoBYi44" title="Human Robot Encounters Study - Stress Response with ECG and EDA Physiological Sensors" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3xu5AoBYi44" target="_blank" rel="noopener noreferrer">Human Robot Encounters Study - Stress Response with ECG and EDA Physiological Sensors</a></p><p class="youtube-embed-meta">Channel: UT Human Centered Robotics Lab &middot; Views: 158 &middot; Uploaded: April 2024 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3xu5AoBYi44" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3xu5AoBYi44">Open on YouTube</a></p></div></div></div>
 
@@ -294,21 +294,21 @@ A systematic review of industrial settings highlighted that factors such as **ro
 
 ### **Speed and Motion Patterns**
 
-Studies show that faster robot speeds — even when within safety limits — tend to *reduce* workers’ sense of safety. As autonomous mobile robots accelerate, human collaborators are more likely to report uncertainty about when and where the robot will travel. This perceived unpredictability can raise stress and diminish trust. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1071581921001622" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Do you feel safe with your robot? Factors influencing perceived safety in human-robot interaction based on subjective and ob...</span></span></span>
+Studies show that faster robot speeds — even when within safety limits — tend to *reduce* workers’ sense of safety. As autonomous mobile robots accelerate, human collaborators are more likely to report uncertainty about when and where the robot will travel. This perceived unpredictability can raise stress and diminish trust.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1071581921001622" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Do you feel safe with your robot? Factors influencing perceived safety in human-robot interaction based on subjective and ob...</span></span></span>
 
-Another line of research compared robots following fixed, predictable paths with those that continuously replan trajectories in real time. Workers generally reported feeling *safer* when robots moved along fixed, easily anticipated paths compared with more dynamic, real-time planning behaviours, even when both technically satisfied physical safety constraints. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41598-022-24622-7" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Perceived safety in human–cobot interaction for fixed-path and real-time motion planning algorithms &#124; Scientific ReportsNovember 28...</span></span></span>
+Another line of research compared robots following fixed, predictable paths with those that continuously replan trajectories in real time. Workers generally reported feeling *safer* when robots moved along fixed, easily anticipated paths compared with more dynamic, real-time planning behaviours, even when both technically satisfied physical safety constraints.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41598-022-24622-7" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Perceived safety in human–cobot interaction for fixed-path and real-time motion planning algorithms &#124; Scientific ReportsNovember 28...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/AxqVdjwfp0Y" title="Impedance Control for Human Robot Interaction" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=AxqVdjwfp0Y" target="_blank" rel="noopener noreferrer">Impedance Control for Human Robot Interaction</a></p><p class="youtube-embed-meta">Channel: Scintropy &middot; Views: 48 &middot; Uploaded: April 2026 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=AxqVdjwfp0Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=AxqVdjwfp0Y">Open on YouTube</a></p></div></div></div>
 
 ### **Direction and Proximity**
 
-How a robot approaches a worker also matters. Robots that change direction erratically or close distances without clear cues can trigger discomfort, even absent actual collision risk. Maintaining **proxemic distance** — a comfortable buffer zone that respects human personal space — and approaching in predictable ways helps mitigate these feelings of unease. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s12369-020-00663-8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">springer.comI, Robot: How Human Appearance and Mind Attribution Relate to the Perceived Danger of Robots &#124; International Journal of Socia...</span></span></span>
+How a robot approaches a worker also matters. Robots that change direction erratically or close distances without clear cues can trigger discomfort, even absent actual collision risk. Maintaining **proxemic distance** — a comfortable buffer zone that respects human personal space — and approaching in predictable ways helps mitigate these feelings of unease.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s12369-020-00663-8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">springer.comI, Robot: How Human Appearance and Mind Attribution Relate to the Perceived Danger of Robots &#124; International Journal of Socia...</span></span></span>
 
 ### **Lack of Transparency or Intent Cues**
 
-When robots don’t signal their intended movements or actions, humans are left guessing. This ambiguity can reduce the sense of [control]({{ 'control/' | relative_url }}) workers feel during interaction, lowering trust and perceived safety. Research indicates that **transparent behaviour — where robots communicate intent through lights, projected paths or clearly legible motion — improves workers’ confidence and trust**. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/38190192/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">A Literature Review on Safety Perception and Trust during Human-Robot Interaction with Autonomous Mobile Robots That Apply to Indus...</span></span></span>
+When robots don’t signal their intended movements or actions, humans are left guessing. This ambiguity can reduce the sense of [control]({{ 'control/' | relative_url }}) workers feel during interaction, lowering trust and perceived safety. Research indicates that **transparent behaviour — where robots communicate intent through lights, projected paths or clearly legible motion — improves workers’ confidence and trust**.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/38190192/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">A Literature Review on Safety Perception and Trust during Human-Robot Interaction with Autonomous Mobile Robots That Apply to Indus...</span></span></span>
 
-In workplace implementations with autonomous mobile robots, simple enhancements like turn signals, projected navigation paths on the floor, or haptic feedback devices help reduce surprises, making motions easier for nearby humans to interpret. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/38190192/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">A Literature Review on Safety Perception and Trust during Human-Robot Interaction with Autonomous Mobile Robots That Apply to Indus...</span></span></span>
+In workplace implementations with autonomous mobile robots, simple enhancements like turn signals, projected navigation paths on the floor, or haptic feedback devices help reduce surprises, making motions easier for nearby humans to interpret.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/38190192/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">A Literature Review on Safety Perception and Trust during Human-Robot Interaction with Autonomous Mobile Robots That Apply to Indus...</span></span></span>
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_human_robot_i_5a8fe0_robot_trust_s_416d8c-Illustration-2-dark.svg" | relative_url }}" alt="Felt Safety illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_human_robot_i_5a8fe0_robot_trust_s_416d8c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_human_robot_i_5a8fe0_robot_trust_s_416d8c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Psychological Impact on Workers
@@ -317,14 +317,14 @@ Perceived safety is tightly linked with **trust**, **control** and **comfort** �
 
 <div class="content-enhancement content-enhancement--checklist" markdown="1">
 
-* **Experience and familiarity**: Workers with prior exposure to robotic systems feel more at ease. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s12369-023-01027-8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">A Taxonomy of Factors Influencing Perceived Safety in Human–Robot Interaction &#124; International Journal of Social Robotics &#124; Spring...</span></span></span>
-* **Predictability**: Predictable robot behaviour correlates with higher perceived safety. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1071581921001622" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Do you feel safe with your robot? Factors influencing perceived safety in human-robot interaction based on subjective and ob...</span></span></span>
-* **Sense of control**: Feeling able to anticipate or influence robot actions supports confidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s12369-021-00853-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">International Journal of Social Robotics &#124; Springer Nature LinkJanuary 7, 2022 — DO SPEED AND PROXIMITY AFFECT HUMAN-ROBOT COLLABORATIO...</span><span class="citation-popover-meta">Published: January 7, 2022</span></span></span>
-* **Transparent actions**: Clear, legible signals about what the robot will do next reduce uncertainty. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/38190192/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">A Literature Review on Safety Perception and Trust during Human-Robot Interaction with Autonomous Mobile Robots That Apply to Indus...</span></span></span>
+* **Experience and familiarity**: Workers with prior exposure to robotic systems feel more at ease.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s12369-023-01027-8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">A Taxonomy of Factors Influencing Perceived Safety in Human–Robot Interaction &#124; International Journal of Social Robotics &#124; Spring...</span></span></span>
+* **Predictability**: Predictable robot behaviour correlates with higher perceived safety.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1071581921001622" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Do you feel safe with your robot? Factors influencing perceived safety in human-robot interaction based on subjective and ob...</span></span></span>
+* **Sense of control**: Feeling able to anticipate or influence robot actions supports confidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s12369-021-00853-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">International Journal of Social Robotics &#124; Springer Nature LinkJanuary 7, 2022 — DO SPEED AND PROXIMITY AFFECT HUMAN-ROBOT COLLABORATIO...</span><span class="citation-popover-meta">Published: January 7, 2022</span></span></span>
+* **Transparent actions**: Clear, legible signals about what the robot will do next reduce uncertainty.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/38190192/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">A Literature Review on Safety Perception and Trust during Human-Robot Interaction with Autonomous Mobile Robots That Apply to Indus...</span></span></span>
 
 </div>
 
-When these elements are lacking, workers may experience psychological stress akin to operating near unpredictable machinery, even if there is no direct physical hazard. This can affect task performance, job satisfaction and willingness to engage with automation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1071581921001622" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Do you feel safe with your robot? Factors influencing perceived safety in human-robot interaction based on subjective and ob...</span></span></span>
+When these elements are lacking, workers may experience psychological stress akin to operating near unpredictable machinery, even if there is no direct physical hazard. This can affect task performance, job satisfaction and willingness to engage with automation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1071581921001622" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Do you feel safe with your robot? Factors influencing perceived safety in human-robot interaction based on subjective and ob...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rfLP_4KmiKM" title="Ravi Pandya - Influence-Aware Safety for Human-Robot Interaction" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rfLP_4KmiKM" target="_blank" rel="noopener noreferrer">Ravi Pandya - Influence-Aware Safety for Human-Robot Interaction</a></p><p class="youtube-embed-meta">Channel: Talking Robotics &middot; Views: 112 &middot; Uploaded: June 2025 &middot; Length: 47 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rfLP_4KmiKM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rfLP_4KmiKM">Open on YouTube</a></p></div></div></div>
 
@@ -332,11 +332,11 @@ When these elements are lacking, workers may experience psychological stress aki
 
 Given the importance of perceived safety for workplace acceptance, designers and operators can use several practical cues to make robot behaviour more legible to humans:
 
-* **Predictable paths and motion profiles**: Fixed paths or constrained movement patterns are easier for humans to anticipate than continuously changing trajectories. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41598-022-24622-7" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Perceived safety in human–cobot interaction for fixed-path and real-time motion planning algorithms &#124; Scientific ReportsNovember 28...</span></span></span>
-* **Slower approach speeds in shared zones**: Lower motion speeds near humans increase comfort without compromising productivity when well balanced. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1071581921001622" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Do you feel safe with your robot? Factors influencing perceived safety in human-robot interaction based on subjective and ob...</span></span></span>
-* **Visual signalling systems**: Lights, arrows or projected navigation lines help humans understand intended routes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/38190192/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">A Literature Review on Safety Perception and Trust during Human-Robot Interaction with Autonomous Mobile Robots That Apply to Indus...</span></span></span>
-* **Audible or haptic feedback**: Signals that a robot will start moving, change direction, or complete a task soon help set expectations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/38190192/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">A Literature Review on Safety Perception and Trust during Human-Robot Interaction with Autonomous Mobile Robots That Apply to Indus...</span></span></span>
-* **Design transparency**: Communicating why a robot is pausing or altering its behaviour builds trust — for example through interfaces that explain robot reasoning or state. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/1071181321651110" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsWorking with Industrial Cobots: The Influence of Reliability and Transparency on Perception and Trust - Lina Kluy, Eileen Ro...</span></span></span>
+* **Predictable paths and motion profiles**: Fixed paths or constrained movement patterns are easier for humans to anticipate than continuously changing trajectories.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41598-022-24622-7" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Perceived safety in human–cobot interaction for fixed-path and real-time motion planning algorithms &#124; Scientific ReportsNovember 28...</span></span></span>
+* **Slower approach speeds in shared zones**: Lower motion speeds near humans increase comfort without compromising productivity when well balanced.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1071581921001622" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Do you feel safe with your robot? Factors influencing perceived safety in human-robot interaction based on subjective and ob...</span></span></span>
+* **Visual signalling systems**: Lights, arrows or projected navigation lines help humans understand intended routes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/38190192/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">A Literature Review on Safety Perception and Trust during Human-Robot Interaction with Autonomous Mobile Robots That Apply to Indus...</span></span></span>
+* **Audible or haptic feedback**: Signals that a robot will start moving, change direction, or complete a task soon help set expectations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/38190192/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">A Literature Review on Safety Perception and Trust during Human-Robot Interaction with Autonomous Mobile Robots That Apply to Indus...</span></span></span>
+* **Design transparency**: Communicating why a robot is pausing or altering its behaviour builds trust — for example through interfaces that explain robot reasoning or state.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/1071181321651110" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsWorking with Industrial Cobots: The Influence of Reliability and Transparency on Perception and Trust - Lina Kluy, Eileen Ro...</span></span></span>
 
 These cues aren’t just ergonomic extras; they are fundamental to reducing psychological stress and fostering safe, effective human–robot work relationships.
 
@@ -345,197 +345,197 @@ These cues aren’t just ergonomic extras; they are fundamental to reducing psyc
 
 In the context of **Human–robot interaction and workplace safety**, perceived safety is more than an emotional accessory — it’s a performance and safety issue. Workers who feel unsafe are more likely to disengage, make mistakes, or avoid collaborative tasks altogether. In the longer view of AI bloom — where robots are intended to liberate humans from hazardous labour and unlock new capabilities — addressing how robots behave in ways that *feel safe* to workers is essential for broad adoption and inclusive benefits.
 
-Improving robot transparency, predictability and design of motion behaviour isn’t just a mitigation of discomfort. It is a core ingredient of trustworthy automation that helps workers feel secure, valued and empowered — a psychological foundation for the flourishing workplace of the future. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s12369-020-00663-8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">springer.comI, Robot: How Human Appearance and Mind Attribution Relate to the Perceived Danger of Robots &#124; International Journal of Socia...</span></span></span>
+Improving robot transparency, predictability and design of motion behaviour isn’t just a mitigation of discomfort. It is a core ingredient of trustworthy automation that helps workers feel secure, valued and empowered — a psychological foundation for the flourishing workplace of the future.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s12369-020-00663-8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">springer.comI, Robot: How Human Appearance and Mind Attribution Relate to the Perceived Danger of Robots &#124; International Journal of Socia...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why robot trust matters at work. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why robot trust matters at work. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Design+of+Everyday+Things+by+Don+Norman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Design of Everyday Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qBfRDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Design of Everyday Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Design+of+Everyday+Things+by+Don+Norman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Design of Everyday Things">The Design of Everyday Things</a>
-        </h4>
-        <p class="fr-book-author">By Don Norman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Design+of+Everyday+Things+by+Don+Norman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Design of Everyday Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qBfRDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Design of Everyday Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Design+of+Everyday+Things+by+Don+Norman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Design of Everyday Things">The Design of Everyday Things</a>
+</h4>
+<p class="fr-book-author">By Don Norman</p>
         
-        <p class="fr-book-desc">Explains why visible affordances, feedback and predictability shape trust in technology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Design+of+Everyday+Things+by+Don+Norman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why visible affordances, feedback and predictability shape trust in technology.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Design+of+Everyday+Things+by+Don+Norman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+%2B+Machine+by+Paul+R.+Daugherty&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human + Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wpY4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Human + Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Human+%2B+Machine+by+Paul+R.+Daugherty&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human + Machine">Human + Machine</a>
-        </h4>
-        <p class="fr-book-author">By Paul R. Daugherty, H. James Wilson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+%2B+Machine+by+Paul+R.+Daugherty&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human + Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wpY4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Human + Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Human+%2B+Machine+by+Paul+R.+Daugherty&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human + Machine">Human + Machine</a>
+</h4>
+<p class="fr-book-author">By Paul R. Daugherty, H. James Wilson</p>
         
-        <p class="fr-book-desc">Covers how human trust and machine assistance interact in redesigned workflows.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Human+%2B+Machine+by+Paul+R.+Daugherty&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers how human trust and machine assistance interact in redesigned workflows.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Human+%2B+Machine+by+Paul+R.+Daugherty&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Man+Who+Lied+to+His+Laptop+by+Clifford+Nass&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Man Who Lied to His Laptop on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=w4TIN88bSCIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Man Who Lied to His Laptop" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Man+Who+Lied+to+His+Laptop+by+Clifford+Nass&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Man Who Lied to His Laptop">The Man Who Lied to His Laptop</a>
-        </h4>
-        <p class="fr-book-author">By Clifford Nass, Corina Yen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Man+Who+Lied+to+His+Laptop+by+Clifford+Nass&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Man Who Lied to His Laptop on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=w4TIN88bSCIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Man Who Lied to His Laptop" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Man+Who+Lied+to+His+Laptop+by+Clifford+Nass&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Man Who Lied to His Laptop">The Man Who Lied to His Laptop</a>
+</h4>
+<p class="fr-book-author">By Clifford Nass, Corina Yen</p>
         
-        <p class="fr-book-desc">Explores how people respond socially and emotionally to intelligent machines.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Man+Who+Lied+to+His+Laptop+by+Clifford+Nass&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how people respond socially and emotionally to intelligent machines.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Man+Who+Lied+to+His+Laptop+by+Clifford+Nass&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Rule+of+the+Robots+by+Martin+Ford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Rule of the Robots on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eF82EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Rule of the Robots" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Rule+of+the+Robots+by+Martin+Ford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rule of the Robots">Rule of the Robots</a>
-        </h4>
-        <p class="fr-book-author">By Martin Ford</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Rule+of+the+Robots+by+Martin+Ford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Rule of the Robots on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eF82EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Rule of the Robots" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Rule+of+the+Robots+by+Martin+Ford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rule of the Robots">Rule of the Robots</a>
+</h4>
+<p class="fr-book-author">By Martin Ford</p>
         
-        <p class="fr-book-desc">Places robot trust and safety in the broader context of autonomous systems entering society.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Rule+of+the+Robots+by+Martin+Ford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places robot trust and safety in the broader context of autonomous systems entering society.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Rule+of+the+Robots+by+Martin+Ford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Design+of+Everyday+Things&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Design of Everyday Things</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+%2B+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human + Machine</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Man+Who+Lied+to+His+Laptop&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Man Who Lied to His Laptop</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Design+of+Everyday+Things&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Design of Everyday Things</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+%2B+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human + Machine</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Man+Who+Lied+to+His+Laptop&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Man Who Lied to His Laptop</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-robot-trust-matters-at-work-robot-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot model" data-ebay-reference="why-robot-trust-matters-at-work-robot-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Silent Running Drone Robot Dewey Huey Louie Model Kits Sci-Fi"><img src="https://i.ebayimg.com/images/g/MJcAAeSwICVqAEqj/s-l225.jpg" alt="Listing image for Silent Running Drone Robot Dewey Huey Louie Model Kits Sci-Fi" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-robot-trust-matters-at-work-robot-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot model" data-ebay-reference="why-robot-trust-matters-at-work-robot-model" target="_blank" rel="sponsored noopener noreferrer">Silent Running Drone Robot Dewey Huey Louie Model Kits Sci-Fi</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-robot-trust-matters-at-work-robot-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot model" data-ebay-reference="why-robot-trust-matters-at-work-robot-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot model">Search <span data-ebay-domain-label>eBay.co.uk</span>: robot model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-robot-trust-matters-at-work-robot-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot model" data-ebay-reference="why-robot-trust-matters-at-work-robot-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-robot-trust-matters-at-work-robot-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot model" data-ebay-reference="why-robot-trust-matters-at-work-robot-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Silent Running Drone Robot Dewey Huey Louie Model Kits Sci-Fi"><img src="https://i.ebayimg.com/images/g/MJcAAeSwICVqAEqj/s-l225.jpg" alt="Listing image for Silent Running Drone Robot Dewey Huey Louie Model Kits Sci-Fi" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-robot-trust-matters-at-work-robot-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot model" data-ebay-reference="why-robot-trust-matters-at-work-robot-model" target="_blank" rel="sponsored noopener noreferrer">Silent Running Drone Robot Dewey Huey Louie Model Kits Sci-Fi</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-robot-trust-matters-at-work-robot-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot model" data-ebay-reference="why-robot-trust-matters-at-work-robot-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot model">Search<span data-ebay-domain-label>eBay.co.uk</span>: robot model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-robot-trust-matters-at-work-robot-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot model" data-ebay-reference="why-robot-trust-matters-at-work-robot-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-robot-trust-matters-at-work-robot-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot model" data-ebay-reference="why-robot-trust-matters-at-work-robot-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for High-Detail Mecha Robot Model Kit 25cm – Action Figure with Flight Pack"><img src="https://i.ebayimg.com/images/g/LowAAeSw8VdpcyUu/s-l225.jpg" alt="Listing image for High-Detail Mecha Robot Model Kit 25cm – Action Figure with Flight Pack" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-robot-trust-matters-at-work-robot-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot model" data-ebay-reference="why-robot-trust-matters-at-work-robot-model" target="_blank" rel="sponsored noopener noreferrer">High-Detail Mecha Robot Model Kit 25cm – Action Figure with Flight Pack</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-robot-trust-matters-at-work-robot-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot model" data-ebay-reference="why-robot-trust-matters-at-work-robot-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot model">Search <span data-ebay-domain-label>eBay.co.uk</span>: robot model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-robot-trust-matters-at-work-robot-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot model" data-ebay-reference="why-robot-trust-matters-at-work-robot-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-robot-trust-matters-at-work-robot-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot model" data-ebay-reference="why-robot-trust-matters-at-work-robot-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for High-Detail Mecha Robot Model Kit 25cm – Action Figure with Flight Pack"><img src="https://i.ebayimg.com/images/g/LowAAeSw8VdpcyUu/s-l225.jpg" alt="Listing image for High-Detail Mecha Robot Model Kit 25cm – Action Figure with Flight Pack" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-robot-trust-matters-at-work-robot-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot model" data-ebay-reference="why-robot-trust-matters-at-work-robot-model" target="_blank" rel="sponsored noopener noreferrer">High-Detail Mecha Robot Model Kit 25cm – Action Figure with Flight Pack</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-robot-trust-matters-at-work-robot-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot model" data-ebay-reference="why-robot-trust-matters-at-work-robot-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot model">Search<span data-ebay-domain-label>eBay.co.uk</span>: robot model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-robot-trust-matters-at-work-robot-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot model" data-ebay-reference="why-robot-trust-matters-at-work-robot-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-robot-trust-matters-at-work-robot-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot model" data-ebay-reference="why-robot-trust-matters-at-work-robot-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1403PCS Mecha Warrior Building Blocks Robot Model Kit"><img src="https://i.ebayimg.com/images/g/9MQAAeSwrURp~cZj/s-l225.jpg" alt="Listing image for 1403PCS Mecha Warrior Building Blocks Robot Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-robot-trust-matters-at-work-robot-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot model" data-ebay-reference="why-robot-trust-matters-at-work-robot-model" target="_blank" rel="sponsored noopener noreferrer">1403PCS Mecha Warrior Building Blocks Robot Model Kit</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-robot-trust-matters-at-work-robot-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot model" data-ebay-reference="why-robot-trust-matters-at-work-robot-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot model">Search <span data-ebay-domain-label>eBay.co.uk</span>: robot model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-robot-trust-matters-at-work-robot-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot model" data-ebay-reference="why-robot-trust-matters-at-work-robot-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-robot-trust-matters-at-work-robot-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot model" data-ebay-reference="why-robot-trust-matters-at-work-robot-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1403PCS Mecha Warrior Building Blocks Robot Model Kit"><img src="https://i.ebayimg.com/images/g/9MQAAeSwrURp~cZj/s-l225.jpg" alt="Listing image for 1403PCS Mecha Warrior Building Blocks Robot Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-robot-trust-matters-at-work-robot-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot model" data-ebay-reference="why-robot-trust-matters-at-work-robot-model" target="_blank" rel="sponsored noopener noreferrer">1403PCS Mecha Warrior Building Blocks Robot Model Kit</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-robot-trust-matters-at-work-robot-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot model" data-ebay-reference="why-robot-trust-matters-at-work-robot-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot model">Search<span data-ebay-domain-label>eBay.co.uk</span>: robot model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-robot-trust-matters-at-work-robot-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot model" data-ebay-reference="why-robot-trust-matters-at-work-robot-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-robot-trust-matters-at-work-robot-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot model" data-ebay-reference="why-robot-trust-matters-at-work-robot-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anime Mecha Robot Model Kit 15cm Movable Action Figure Combat Type A"><img src="https://i.ebayimg.com/images/g/b0QAAeSw5UxpYhUP/s-l225.jpg" alt="Listing image for Anime Mecha Robot Model Kit 15cm Movable Action Figure Combat Type A" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-robot-trust-matters-at-work-robot-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot model" data-ebay-reference="why-robot-trust-matters-at-work-robot-model" target="_blank" rel="sponsored noopener noreferrer">Anime Mecha Robot Model Kit 15cm Movable Action Figure Combat Type A</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-robot-trust-matters-at-work-robot-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot model" data-ebay-reference="why-robot-trust-matters-at-work-robot-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot model">Search <span data-ebay-domain-label>eBay.co.uk</span>: robot model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-robot-trust-matters-at-work-robot-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot model" data-ebay-reference="why-robot-trust-matters-at-work-robot-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-robot-trust-matters-at-work-robot-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot model" data-ebay-reference="why-robot-trust-matters-at-work-robot-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-robot-trust-matters-at-work-robot-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot model" data-ebay-reference="why-robot-trust-matters-at-work-robot-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anime Mecha Robot Model Kit 15cm Movable Action Figure Combat Type A"><img src="https://i.ebayimg.com/images/g/b0QAAeSw5UxpYhUP/s-l225.jpg" alt="Listing image for Anime Mecha Robot Model Kit 15cm Movable Action Figure Combat Type A" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-robot-trust-matters-at-work-robot-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot model" data-ebay-reference="why-robot-trust-matters-at-work-robot-model" target="_blank" rel="sponsored noopener noreferrer">Anime Mecha Robot Model Kit 15cm Movable Action Figure Combat Type A</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-robot-trust-matters-at-work-robot-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot model" data-ebay-reference="why-robot-trust-matters-at-work-robot-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot model">Search<span data-ebay-domain-label>eBay.co.uk</span>: robot model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-robot-trust-matters-at-work-robot-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot model" data-ebay-reference="why-robot-trust-matters-at-work-robot-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-robot-trust-matters-at-work-robot-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot model" data-ebay-reference="why-robot-trust-matters-at-work-robot-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -551,7 +551,7 @@ Improving robot transparency, predictability and design of motion behaviour isn�
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -571,7 +571,7 @@ Improving robot transparency, predictability and design of motion behaviour isn�
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -603,7 +603,7 @@ Improving robot transparency, predictability and design of motion behaviour isn�
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -655,7 +655,7 @@ Improving robot transparency, predictability and design of motion behaviour isn�
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -700,7 +700,7 @@ Improving robot transparency, predictability and design of motion behaviour isn�
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -741,127 +741,127 @@ Improving robot transparency, predictability and design of motion behaviour isn�
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1007/s12369-023-01027-8" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s12369-023-01027-8</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Taxonomy of Factors Influencing Perceived Safety in Human–Robot Interaction | International Journal of Social [Robotics](&amp;#123;&amp;#123; &#x27;robotics/&#x27; | relative_url &amp;#125;&amp;#125;) | Spring...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1007/s12369-023-01027-8" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s12369-023-01027-8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Taxonomy of Factors Influencing Perceived Safety in Human–Robot Interaction | International Journal of Social [Robotics](&amp;#123;&amp;#123; &#x27;robotics/&#x27; | relative_url &amp;#125;&amp;#125;) | Spring...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1071581921001622" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1071581921001622</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Do you feel safe with your robot? Factors influencing perceived safety in human-robot interaction based on subjective and ob...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S1071581921001622" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1071581921001622</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Do you feel safe with your robot? Factors influencing perceived safety in human-robot interaction based on subjective and ob...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0003687026000256" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0003687026000256</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Perceived safety during human-robot interaction with an autonomous mobile robot - ScienceDirectSeptember 1, 2026...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0003687026000256" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0003687026000256</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Perceived safety during human-robot interaction with an autonomous mobile robot - ScienceDirectSeptember 1, 2026...</p></details>
    Published: September 1, 2026  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41598-022-24622-7" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-022-24622-7</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Perceived safety in human–cobot interaction for fixed-path and real-time motion planning algorithms | Scientific ReportsNovember 28...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41598-022-24622-7" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-022-24622-7</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Perceived safety in human–cobot interaction for fixed-path and real-time motion planning algorithms | Scientific ReportsNovember 28...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1007/s12369-021-00853-y" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s12369-021-00853-y</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>International Journal of Social Robotics | Springer Nature LinkJanuary 7, 2022 — DO SPEED AND PROXIMITY AFFECT HUMAN-ROBOT COLLABORATIO...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1007/s12369-021-00853-y" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s12369-021-00853-y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>International Journal of Social Robotics | Springer Nature LinkJanuary 7, 2022 — DO SPEED AND PROXIMITY AFFECT HUMAN-ROBOT COLLABORATIO...</p></details>
    Published: January 7, 2022  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1007/s12369-020-00663-8" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s12369-020-00663-8</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>springer.comI, Robot: How Human Appearance and Mind Attribution Relate to the Perceived Danger of Robots | International Journal of Socia...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1007/s12369-020-00663-8" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s12369-020-00663-8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>springer.comI, Robot: How Human Appearance and Mind Attribution Relate to the Perceived Danger of Robots | International Journal of Socia...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: sciencedirect.com  
    Title: Perceived safety in physical human–robot interaction—A survey  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0921889022000173" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0921889022000173</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;ScienceDirectVolume 151, May 2022, 104047 PERCEIVED SAFETY IN PHYSICAL HUMAN–ROBOT INTERACTION—A SURVEY [https://doi.org/10.1016/j.robot.2...&quot;](https://doi.org/10.1016/j.robot.2...&quot;)...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0921889022000173" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0921889022000173</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;ScienceDirectVolume 151, May 2022, 104047 PERCEIVED SAFETY IN PHYSICAL HUMAN–ROBOT INTERACTION—A SURVEY [https://doi.org/10.1016/j.robot.2...&quot;](https://doi.org/10.1016/j.robot.2...&quot;)...</p></details>
    Published: May 2022  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: sciencedirect.com  
    Title: Safety bounds in human robot interaction: A survey  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0925753520300643" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0925753520300643</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;ScienceDirectSAFETY SCIENCE Volume 127, July 2020, 104667 SAFETY BOUNDS IN HUMAN ROBOT INTERACTION: A SURVEY [https://doi.org/10.1016/j.ss...&quot;](https://doi.org/10.1016/j.ss...&quot;)...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0925753520300643" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0925753520300643</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;ScienceDirectSAFETY SCIENCE Volume 127, July 2020, 104667 SAFETY BOUNDS IN HUMAN ROBOT INTERACTION: A SURVEY [https://doi.org/10.1016/j.ss...&quot;](https://doi.org/10.1016/j.ss...&quot;)...</p></details>
    Published: July 2020  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/38190192/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/38190192/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Literature Review on Safety Perception and Trust during Human-Robot Interaction with Autonomous Mobile Robots That Apply to Indus...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/38190192/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/38190192/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Literature Review on Safety Perception and Trust during Human-Robot Interaction with Autonomous Mobile Robots That Apply to Indus...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/1071181321651110" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/1071181321651110</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsWorking with Industrial Cobots: The Influence of Reliability and Transparency on Perception and Trust - Lina Kluy, Eileen Ro...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/1071181321651110" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/1071181321651110</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsWorking with Industrial Cobots: The Influence of Reliability and Transparency on Perception and Trust - Lina Kluy, Eileen Ro...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/36443369/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/36443369/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2022 Nov 28;12(1):20438. doi: 10.1038/s41598-022-24622-7. PERCEIVED SAFETY IN HUMAN-COBOT INTERACTION FOR FIXED-PATH AND REAL-TIME MOTION...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/36443369/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/36443369/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2022 Nov 28;12(1):20438. doi: 10.1038/s41598-022-24622-7. PERCEIVED SAFETY IN HUMAN-COBOT INTERACTION FOR FIXED-PATH AND REAL-TIME MOTION...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/36055035/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/36055035/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2023 Jan:106:103863. doi: 10.1016/j.apergo.2022.103863. Epub 2022 Aug 30. PHYSIOLOGICAL AND PERCEPTUAL CONSEQUENCES OF TRUST IN COLLABORA...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/36055035/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/36055035/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2023 Jan:106:103863. doi: 10.1016/j.apergo.2022.103863. Epub 2022 Aug 30. PHYSIOLOGICAL AND PERCEPTUAL CONSEQUENCES OF TRUST IN COLLABORA...</p></details>
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/abs/10.1080/24725838.2023.2283537" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/abs/10.1080/24725838.2023.2283537</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Environments: IISE Transactions on Occupational Ergonomics and Human Factors: Vol 12, No 1-2January 8, 2024 — Image: Publication Cover II...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/abs/10.1080/24725838.2023.2283537" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/abs/10.1080/24725838.2023.2283537</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Environments: IISE Transactions on Occupational Ergonomics and Human Factors: Vol 12, No 1-2January 8, 2024 — Image: Publication Cover II...</p></details>
    Published: January 8, 2024  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=CYMY2vabxUs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CYMY2vabxUs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Inside Modern Warehouses: Where Algorithms Control Humans...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=CYMY2vabxUs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CYMY2vabxUs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5 Inside Modern Warehouses: Where Algorithms Control Humans...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: Ravi Pandya  
-   Link: <a href="https://www.youtube.com/watch?v=rfLP_4KmiKM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rfLP_4KmiKM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2 Human Robot Encounters Study - Stress Response with ECG and EDA Physiological Sensors...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=rfLP_4KmiKM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rfLP_4KmiKM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2 Human Robot Encounters Study - Stress Response with ECG and EDA Physiological Sensors...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: Human Robot Encounters Study  
-   Link: <a href="https://www.youtube.com/watch?v=3xu5AoBYi44" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3xu5AoBYi44</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>3 Impedance Control for Human Robot Interaction...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=3xu5AoBYi44" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3xu5AoBYi44</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>3 Impedance Control for Human Robot Interaction...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11076167/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11076167/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Author manuscript; available in PMC: 2025 Jan 8. Published in final edited form as: IISE Trans Occup Ergon Hum Factors. 2024 Jan 8;12(1-2...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11076167/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11076167/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Author manuscript; available in PMC: 2025 Jan 8. Published in final edited form as: IISE Trans Occup Ergon Hum Factors. 2024 Jan 8;12(1-2...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9705370/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9705370/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2022 Nov 28;12:20438. doi: 10.1038/s41598-022-24622-7 PERCEIVED SAFETY IN HUMAN–COBOT INTERACTION FOR FIXED-PATH AND REAL-TIME MOTION PLA...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9705370/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9705370/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2022 Nov 28;12:20438. doi: 10.1038/s41598-022-24622-7 PERCEIVED SAFETY IN HUMAN–COBOT INTERACTION FOR FIXED-PATH AND REAL-TIME MOTION PLA...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: Impedance Control for Human Robot Interaction  
-   Link: <a href="https://www.youtube.com/watch?v=AxqVdjwfp0Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AxqVdjwfp0Y</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>4 Lecture 2.4.5 | Human-Robot Interaction &amp; Cognitive Load | Masters in Medical Robotics...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=AxqVdjwfp0Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AxqVdjwfp0Y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>4 Lecture 2.4.5 | Human-Robot Interaction &amp; Cognitive Load | Masters in Medical Robotics...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/1071181320641028" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/1071181320641028</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Majer, 2020February 9, 2021 — First published online February 9, 2021 Request permissions THE EFFECT OF ANTHROPOMORPHISM AND FAILURE COMP...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/1071181320641028" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/1071181320641028</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Majer, 2020February 9, 2021 — First published online February 9, 2021 Request permissions THE EFFECT OF ANTHROPOMORPHISM AND FAILURE COMP...</p></details>
    Published: February 9, 2021  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/1071181320641506" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/1071181320641506</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Haney, 2020February 9, 2021 — First published online February 9, 2021 Request permissions SAFETY PERCEPTION AND BEHAVIORS DURING HUMAN-RO...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/1071181320641506" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/1071181320641506</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Haney, 2020February 9, 2021 — First published online February 9, 2021 Request permissions SAFETY PERCEPTION AND BEHAVIORS DURING HUMAN-RO...</p></details>
    Published: February 9, 2021  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: es.mdu.se  
    Title: se ID T  
-   Link: <a href="https://www.es.mdu.se/publications/6737-A_Taxonomy_of_Factors_Influencing_Perceived_Safety_in_Human_Robot_Interaction" target="_blank" rel="noopener noreferrer nofollow">https://www.es.mdu.se/publications/6737-A_Taxonomy_of_Factors_Influencing_Perceived_Safety_in_Human_Robot_Interaction</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A TAXONOMY OF FACTORS INFLUENCING PERCEIVED SAFETY IN HUMAN-ROBOT INTERACTION FULLTEXT: Image AUTHORS: Neziha Akalin, Andrey Kiselev...</p></details>
+   Link:<a href="https://www.es.mdu.se/publications/6737-A_Taxonomy_of_Factors_Influencing_Perceived_Safety_in_Human_Robot_Interaction" target="_blank" rel="noopener noreferrer nofollow">https://www.es.mdu.se/publications/6737-A_Taxonomy_of_Factors_Influencing_Perceived_Safety_in_Human_Robot_Interaction</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A TAXONOMY OF FACTORS INFLUENCING PERCEIVED SAFETY IN HUMAN-ROBOT INTERACTION FULLTEXT: Image AUTHORS: Neziha Akalin, Andrey Kiselev...</p></details>

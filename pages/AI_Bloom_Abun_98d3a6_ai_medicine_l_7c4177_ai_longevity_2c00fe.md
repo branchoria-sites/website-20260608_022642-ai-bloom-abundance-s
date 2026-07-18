@@ -307,13 +307,13 @@ The result could be a world where wealthy patients receive continuous AI-assiste
 
 AI systems learn from data, and healthcare data are unevenly distributed.
 
-Many medical datasets contain disproportionate representation from wealthier populations, large urban hospitals, and patients who receive consistent medical care. Groups with weaker healthcare access often generate less complete medical records and therefore contribute less to the data used to train models. Researchers have repeatedly warned that this can produce systems that perform less reliably for underrepresented populations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10632090/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAlgorithm fairness in artificial intelligence for medicine</span><span class="citation-popover-snippet">by RJ Chen · 2023 · Cited by 798 — In healthcare, the development and deployment of insufficiently fair systems of artificial intellig...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8515002/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAddressing bias in big data and AI for health care</span><span class="citation-popover-snippet">This can result in misdiagnosing certain...Read more...</span></span></span>
+Many medical datasets contain disproportionate representation from wealthier populations, large urban hospitals, and patients who receive consistent medical care. Groups with weaker healthcare access often generate less complete medical records and therefore contribute less to the data used to train models. Researchers have repeatedly warned that this can produce systems that perform less reliably for underrepresented populations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10632090/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAlgorithm fairness in artificial intelligence for medicine</span><span class="citation-popover-snippet">by RJ Chen · 2023 · Cited by 798 — In healthcare, the development and deployment of insufficiently fair systems of artificial intellig...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8515002/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAddressing bias in big data and AI for health care</span><span class="citation-popover-snippet">This can result in misdiagnosing certain...Read more...</span></span></span>
 
-A well-known example comes from medical imaging. Researchers found that several chest X-ray AI systems systematically underdiagnosed disease in underserved patient groups, with particularly high error rates for some intersectional populations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41591-021-01595-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Underdiagnosis bias of artificial intelligence algorithms...by L Seyyed-Kalantari · 2021 · Cited by 1091 — We find that classifier...</span></span></span>
+A well-known example comes from medical imaging. Researchers found that several chest X-ray AI systems systematically underdiagnosed disease in underserved patient groups, with particularly high error rates for some intersectional populations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41591-021-01595-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Underdiagnosis bias of artificial intelligence algorithms...by L Seyyed-Kalantari · 2021 · Cited by 1091 — We find that classifier...</span></span></span>
 
 These problems are not merely technical. If an AI screening system misses disease more often in disadvantaged populations, those populations may receive delayed diagnosis, delayed treatment, and ultimately worse health outcomes. A longevity technology that works better for affluent patients than for everyone else can reinforce existing inequalities even while appearing successful on average metrics.
 
-Researchers increasingly argue that fairness must be evaluated throughout the development process rather than added later as a correction. Sources of bias can emerge from data collection, measurement methods, labelling practices, healthcare access patterns, and research priorities themselves. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2110.00603" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Algorithm Fairness in AI for Medicine and Healthcare</span><span class="citation-popover-snippet">arXiv Algorithm Fairness in AI for Medicine and Healthcare</span></span></span> [3Nature 3PMC]
+Researchers increasingly argue that fairness must be evaluated throughout the development process rather than added later as a correction. Sources of bias can emerge from data collection, measurement methods, labelling practices, healthcare access patterns, and research priorities themselves.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2110.00603" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Algorithm Fairness in AI for Medicine and Healthcare</span><span class="citation-popover-snippet">arXiv Algorithm Fairness in AI for Medicine and Healthcare</span></span></span> [3Nature 3PMC]
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RAEPMWe6_o4" title="Health AI Ethics and Governance: The WHO Guidance, Can It Make a Difference?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RAEPMWe6_o4" target="_blank" rel="noopener noreferrer">Health AI Ethics and Governance: The WHO Guidance, Can It Make a Difference?</a></p><p class="youtube-embed-meta">Channel: University of Toronto Joint Centre for Bioethics &middot; Views: 2.2K &middot; Uploaded: November 2021 &middot; Length: 1 hour 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RAEPMWe6_o4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RAEPMWe6_o4">Open on YouTube</a></p></div></div></div>
 
@@ -344,7 +344,7 @@ Several conditions appear especially important.
 
 **Population-scale deployment.** The greatest gains may come not from elite medical centres but from routine use across large healthcare systems. AI that improves screening uptake, identifies missed diagnoses, or supports overstretched clinicians can affect millions of people if integrated into everyday care.
 
-**Continuous auditing.** Performance must be measured across demographic groups rather than only at aggregate levels. Researchers and regulators increasingly argue that AI systems should be monitored after deployment to detect unequal outcomes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10132017/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCHuman-Centered Design to Address Biases in Artificial</span><span class="citation-popover-snippet">by Y Chen · 2023 · Cited by 268 — This perspective highlights the dual impact of AI on health disparities and inequalities; potential...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41746-025-01503-7" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Bias recognition and mitigation strategies in artificial...by F Hasanzadeh · 2025 · Cited by 251 — This review examines the origin...</span></span></span>
+**Continuous auditing.** Performance must be measured across demographic groups rather than only at aggregate levels. Researchers and regulators increasingly argue that AI systems should be monitored after deployment to detect unequal outcomes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10132017/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCHuman-Centered Design to Address Biases in Artificial</span><span class="citation-popover-snippet">by Y Chen · 2023 · Cited by 268 — This perspective highlights the dual impact of AI on health disparities and inequalities; potential...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41746-025-01503-7" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Bias recognition and mitigation strategies in artificial...by F Hasanzadeh · 2025 · Cited by 251 — This review examines the origin...</span></span></span>
 
 **Affordable access.** Prevention only changes population health when testing, follow-up care, medicines, and specialist referrals remain accessible. Otherwise AI simply identifies unmet need without addressing it.
 
@@ -362,9 +362,9 @@ This creates two possible futures.
 
 In the pessimistic version, rich countries gain most of the benefits from AI-assisted medicine while poorer regions continue facing shortages of clinicians, medicines, diagnostics, and healthcare infrastructure. Longevity gains accelerate in already advantaged populations.
 
-In the more optimistic version, AI becomes a force multiplier for scarce medical resources. Automated triage, diagnostic assistance, medical translation, remote monitoring, and decision-support systems could help extend healthcare capacity into underserved regions. The World Health Organization has repeatedly argued that AI should be developed around principles of equity and [broad access]({{ 'broad-access/' | relative_url }}) rather than concentrated benefit. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.who.int/teams/digital-health-and-innovation/harnessing-artificial-intelligence-for-health" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-snippet">World Health OrganizationHarnessing artificial intelligence for healthWHO&#x27;s vision is to foster digital frontiers and nurture an AI ecosy...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.who.int/teams/digital-health-and-innovation/harnessing-artificial-intelligence-for-health" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-snippet">World Health OrganizationHarnessing artificial intelligence for healthWHO&#x27;s vision is to foster digital frontiers and nurture an AI ecosy...</span></span></span>
+In the more optimistic version, AI becomes a force multiplier for scarce medical resources. Automated triage, diagnostic assistance, medical translation, remote monitoring, and decision-support systems could help extend healthcare capacity into underserved regions. The World Health Organization has repeatedly argued that AI should be developed around principles of equity and [broad access]({{ 'broad-access/' | relative_url }}) rather than concentrated benefit.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.who.int/teams/digital-health-and-innovation/harnessing-artificial-intelligence-for-health" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-snippet">World Health OrganizationHarnessing artificial intelligence for healthWHO&#x27;s vision is to foster digital frontiers and nurture an AI ecosy...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.who.int/teams/digital-health-and-innovation/harnessing-artificial-intelligence-for-health" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-snippet">World Health OrganizationHarnessing artificial intelligence for healthWHO&#x27;s vision is to foster digital frontiers and nurture an AI ecosy...</span></span></span>
 
-Evidence exists for both possibilities. AI may help compensate for shortages of specialists and improve access to expertise in remote settings. Yet implementation costs, data limitations, infrastructure gaps, and unequal investment remain substantial barriers. ScienceDirect <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/sustainability/can-artificial-intelligence-extend-healthcare-all-2024-03-25/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">AI and machine learning offer potential solutions to health issues caused by geographical, financial, and cultural barriers, aiming to in...</span></span></span> The outcome is likely to depend less on AI capability itself than on whether deployment strategies prioritise inclusion from the start.
+Evidence exists for both possibilities. AI may help compensate for shortages of specialists and improve access to expertise in remote settings. Yet implementation costs, data limitations, infrastructure gaps, and unequal investment remain substantial barriers. ScienceDirect<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/sustainability/can-artificial-intelligence-extend-healthcare-all-2024-03-25/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">AI and machine learning offer potential solutions to health issues caused by geographical, financial, and cultural barriers, aiming to in...</span></span></span> The outcome is likely to depend less on AI capability itself than on whether deployment strategies prioritise inclusion from the start.
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_medicine_l_7c4177_ai_longevity_2c00fe-Illustration-3-dark.svg" | relative_url }}" alt="Access gap illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_medicine_l_7c4177_ai_longevity_2c00fe-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_medicine_l_7c4177_ai_longevity_2c00fe-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A warning from insurance and healthcare incentives
@@ -373,7 +373,7 @@ Another concern is that AI may be used differently depending on institutional in
 
 The public image of medical AI often centres on discovering disease earlier or designing better treatments. But healthcare organisations may also deploy AI to reduce costs, automate administrative work, prioritise patients, or determine eligibility for services.
 
-These uses are not inherently harmful. Efficient systems can free resources for patient care. However, critics worry that poorly designed optimisation targets may disadvantage vulnerable populations. Previous research has shown that healthcare algorithms can reproduce inequalities when proxies such as healthcare spending are used to estimate health needs. Because some groups historically receive less care, spending data may underestimate their actual illness burden. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10632090/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAlgorithm fairness in artificial intelligence for medicine</span><span class="citation-popover-snippet">by RJ Chen · 2023 · Cited by 798 — In healthcare, the development and deployment of insufficiently fair systems of artificial intellig...</span></span></span>
+These uses are not inherently harmful. Efficient systems can free resources for patient care. However, critics worry that poorly designed optimisation targets may disadvantage vulnerable populations. Previous research has shown that healthcare algorithms can reproduce inequalities when proxies such as healthcare spending are used to estimate health needs. Because some groups historically receive less care, spending data may underestimate their actual illness burden.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10632090/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAlgorithm fairness in artificial intelligence for medicine</span><span class="citation-popover-snippet">by RJ Chen · 2023 · Cited by 798 — In healthcare, the development and deployment of insufficiently fair systems of artificial intellig...</span></span></span>
 
 The broader lesson is that healthcare AI does not automatically optimise for healthspan. It optimises for whatever objectives institutions choose. If those objectives focus narrowly on cost reduction, throughput, or resource allocation, longevity benefits may be distributed unevenly.
 
@@ -396,194 +396,194 @@ The central question is not whether AI can help extend healthy life. Increasing 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/o6-WU8-qy1g" title="Keeping Health Equity at the Forefront of the AI Revolution" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=o6-WU8-qy1g" target="_blank" rel="noopener noreferrer">Keeping Health Equity at the Forefront of the AI Revolution</a></p><p class="youtube-embed-meta">Channel: JAMA Network &middot; Views: 1.8K &middot; Uploaded: March 2026 &middot; Length: 27 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=o6-WU8-qy1g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=o6-WU8-qy1g">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Will AI longevity care reach everyone?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Will AI longevity care reach everyone?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Lifespan+by+David+A.+Sinclair&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Lifespan on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=x--oDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Lifespan" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Lifespan+by+David+A.+Sinclair&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lifespan">Lifespan</a>
-        </h4>
-        <p class="fr-book-author">By David A. Sinclair, Matthew D. LaPlante</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Lifespan+by+David+A.+Sinclair&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Lifespan on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=x--oDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Lifespan" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Lifespan+by+David+A.+Sinclair&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lifespan">Lifespan</a>
+</h4>
+<p class="fr-book-author">By David A. Sinclair, Matthew D. LaPlante</p>
         
-        <p class="fr-book-desc">Explores the scientific ambition behind longer healthier lives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Lifespan+by+David+A.+Sinclair&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores the scientific ambition behind longer healthier lives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Lifespan+by+David+A.+Sinclair&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Deep+Medicine+by+Eric+Topol&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Deep Medicine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_EFlDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Deep Medicine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Deep+Medicine+by+Eric+Topol&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Deep Medicine">Deep Medicine</a>
-        </h4>
-        <p class="fr-book-author">By Eric Topol</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Deep+Medicine+by+Eric+Topol&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Deep Medicine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_EFlDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Deep Medicine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Deep+Medicine+by+Eric+Topol&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Deep Medicine">Deep Medicine</a>
+</h4>
+<p class="fr-book-author">By Eric Topol</p>
         
-        <p class="fr-book-desc">Explains how AI could personalise and improve medicine.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Deep+Medicine+by+Eric+Topol&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how AI could personalise and improve medicine.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Deep+Medicine+by+Eric+Topol&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ageless+by+Andrew+Steele&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ageless on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=IRBbEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Ageless" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ageless+by+Andrew+Steele&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ageless">Ageless</a>
-        </h4>
-        <p class="fr-book-author">By Andrew Steele</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ageless+by+Andrew+Steele&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ageless on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=IRBbEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Ageless" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ageless+by+Andrew+Steele&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ageless">Ageless</a>
+</h4>
+<p class="fr-book-author">By Andrew Steele</p>
         
-        <p class="fr-book-desc">Explains realistic routes and limits for anti-ageing medicine.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ageless+by+Andrew+Steele&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains realistic routes and limits for anti-ageing medicine.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ageless+by+Andrew+Steele&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Outlive+by+Peter+Attia%2C+MD&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Outlive on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HYqeEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Outlive" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Outlive+by+Peter+Attia%2C+MD&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Outlive">Outlive</a>
-        </h4>
-        <p class="fr-book-author">By Peter Attia, MD</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Outlive+by+Peter+Attia%2C+MD&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Outlive on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HYqeEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Outlive" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Outlive+by+Peter+Attia%2C+MD&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Outlive">Outlive</a>
+</h4>
+<p class="fr-book-author">By Peter Attia, MD</p>
         
-        <p class="fr-book-desc">Focuses on extending healthspan through prevention and early action.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Outlive+by+Peter+Attia%2C+MD&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on extending healthspan through prevention and early action.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Outlive+by+Peter+Attia%2C+MD&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Lifespan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Lifespan</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Deep+Medicine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Deep Medicine</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ageless&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ageless</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Lifespan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Lifespan</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Deep+Medicine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Deep Medicine</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Ageless&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ageless</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=longevity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=will-ai-longevity-care-reach-everyone-longevity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="longevity poster" data-ebay-reference="will-ai-longevity-care-reach-everyone-longevity-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Longevity - Tortoise Jelly Food Chi Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/pAcAAeSwzANp2SGF/s-l225.jpg" alt="Listing image for Longevity - Tortoise Jelly Food Chi Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=longevity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=will-ai-longevity-care-reach-everyone-longevity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="longevity poster" data-ebay-reference="will-ai-longevity-care-reach-everyone-longevity-poster" target="_blank" rel="sponsored noopener noreferrer">Longevity - Tortoise Jelly Food Chi Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=longevity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=will-ai-longevity-care-reach-everyone-longevity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="longevity poster" data-ebay-reference="will-ai-longevity-care-reach-everyone-longevity-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for longevity poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: longevity poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=longevity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=will-ai-longevity-care-reach-everyone-longevity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="longevity poster" data-ebay-reference="will-ai-longevity-care-reach-everyone-longevity-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=longevity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=will-ai-longevity-care-reach-everyone-longevity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="longevity poster" data-ebay-reference="will-ai-longevity-care-reach-everyone-longevity-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Longevity - Tortoise Jelly Food Chi Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/pAcAAeSwzANp2SGF/s-l225.jpg" alt="Listing image for Longevity - Tortoise Jelly Food Chi Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=longevity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=will-ai-longevity-care-reach-everyone-longevity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="longevity poster" data-ebay-reference="will-ai-longevity-care-reach-everyone-longevity-poster" target="_blank" rel="sponsored noopener noreferrer">Longevity - Tortoise Jelly Food Chi Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=longevity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=will-ai-longevity-care-reach-everyone-longevity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="longevity poster" data-ebay-reference="will-ai-longevity-care-reach-everyone-longevity-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for longevity poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: longevity poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=longevity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=will-ai-longevity-care-reach-everyone-longevity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="longevity poster" data-ebay-reference="will-ai-longevity-care-reach-everyone-longevity-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=longevity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=will-ai-longevity-care-reach-everyone-longevity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="longevity poster" data-ebay-reference="will-ai-longevity-care-reach-everyone-longevity-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fu, Lu And shou Fold Out Print Prosperity, Fortune And Longevity"><img src="https://i.ebayimg.com/images/g/v00AAOSwgLtm6Xv0/s-l225.jpg" alt="Listing image for Fu, Lu And shou Fold Out Print Prosperity, Fortune And Longevity" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=longevity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=will-ai-longevity-care-reach-everyone-longevity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="longevity poster" data-ebay-reference="will-ai-longevity-care-reach-everyone-longevity-poster" target="_blank" rel="sponsored noopener noreferrer">Fu, Lu And shou Fold Out Print Prosperity, Fortune And Longevity</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=longevity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=will-ai-longevity-care-reach-everyone-longevity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="longevity poster" data-ebay-reference="will-ai-longevity-care-reach-everyone-longevity-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for longevity poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: longevity poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=longevity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=will-ai-longevity-care-reach-everyone-longevity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="longevity poster" data-ebay-reference="will-ai-longevity-care-reach-everyone-longevity-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=longevity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=will-ai-longevity-care-reach-everyone-longevity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="longevity poster" data-ebay-reference="will-ai-longevity-care-reach-everyone-longevity-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fu, Lu And shou Fold Out Print Prosperity, Fortune And Longevity"><img src="https://i.ebayimg.com/images/g/v00AAOSwgLtm6Xv0/s-l225.jpg" alt="Listing image for Fu, Lu And shou Fold Out Print Prosperity, Fortune And Longevity" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=longevity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=will-ai-longevity-care-reach-everyone-longevity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="longevity poster" data-ebay-reference="will-ai-longevity-care-reach-everyone-longevity-poster" target="_blank" rel="sponsored noopener noreferrer">Fu, Lu And shou Fold Out Print Prosperity, Fortune And Longevity</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=longevity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=will-ai-longevity-care-reach-everyone-longevity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="longevity poster" data-ebay-reference="will-ai-longevity-care-reach-everyone-longevity-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for longevity poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: longevity poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=longevity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=will-ai-longevity-care-reach-everyone-longevity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="longevity poster" data-ebay-reference="will-ai-longevity-care-reach-everyone-longevity-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=longevity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=will-ai-longevity-care-reach-everyone-longevity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="longevity poster" data-ebay-reference="will-ai-longevity-care-reach-everyone-longevity-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for tree of longevity Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/cpgAAeSwOrlpYBlB/s-l225.jpg" alt="Listing image for tree of longevity Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=longevity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=will-ai-longevity-care-reach-everyone-longevity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="longevity poster" data-ebay-reference="will-ai-longevity-care-reach-everyone-longevity-poster" target="_blank" rel="sponsored noopener noreferrer">tree of longevity Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=longevity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=will-ai-longevity-care-reach-everyone-longevity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="longevity poster" data-ebay-reference="will-ai-longevity-care-reach-everyone-longevity-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for longevity poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: longevity poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=longevity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=will-ai-longevity-care-reach-everyone-longevity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="longevity poster" data-ebay-reference="will-ai-longevity-care-reach-everyone-longevity-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=longevity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=will-ai-longevity-care-reach-everyone-longevity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="longevity poster" data-ebay-reference="will-ai-longevity-care-reach-everyone-longevity-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for tree of longevity Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/cpgAAeSwOrlpYBlB/s-l225.jpg" alt="Listing image for tree of longevity Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=longevity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=will-ai-longevity-care-reach-everyone-longevity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="longevity poster" data-ebay-reference="will-ai-longevity-care-reach-everyone-longevity-poster" target="_blank" rel="sponsored noopener noreferrer">tree of longevity Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=longevity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=will-ai-longevity-care-reach-everyone-longevity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="longevity poster" data-ebay-reference="will-ai-longevity-care-reach-everyone-longevity-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for longevity poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: longevity poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=longevity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=will-ai-longevity-care-reach-everyone-longevity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="longevity poster" data-ebay-reference="will-ai-longevity-care-reach-everyone-longevity-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=longevity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=will-ai-longevity-care-reach-everyone-longevity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="longevity poster" data-ebay-reference="will-ai-longevity-care-reach-everyone-longevity-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1988 New Years Longevity Chinese Disney Poster Waiting For Birthday#1 - 21”x30”"><img src="https://i.ebayimg.com/images/g/MDUAAOSwMnJmqbyY/s-l225.jpg" alt="Listing image for 1988 New Years Longevity Chinese Disney Poster Waiting For Birthday#1 - 21”x30”" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=longevity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=will-ai-longevity-care-reach-everyone-longevity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="longevity poster" data-ebay-reference="will-ai-longevity-care-reach-everyone-longevity-poster" target="_blank" rel="sponsored noopener noreferrer">1988 New Years Longevity Chinese Disney Poster Waiting For Birthday#1 - 21”x30”</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=longevity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=will-ai-longevity-care-reach-everyone-longevity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="longevity poster" data-ebay-reference="will-ai-longevity-care-reach-everyone-longevity-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for longevity poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: longevity poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=longevity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=will-ai-longevity-care-reach-everyone-longevity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="longevity poster" data-ebay-reference="will-ai-longevity-care-reach-everyone-longevity-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=longevity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=will-ai-longevity-care-reach-everyone-longevity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="longevity poster" data-ebay-reference="will-ai-longevity-care-reach-everyone-longevity-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=longevity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=will-ai-longevity-care-reach-everyone-longevity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="longevity poster" data-ebay-reference="will-ai-longevity-care-reach-everyone-longevity-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1988 New Years Longevity Chinese Disney Poster Waiting For Birthday#1 - 21”x30”"><img src="https://i.ebayimg.com/images/g/MDUAAOSwMnJmqbyY/s-l225.jpg" alt="Listing image for 1988 New Years Longevity Chinese Disney Poster Waiting For Birthday#1 - 21”x30”" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=longevity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=will-ai-longevity-care-reach-everyone-longevity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="longevity poster" data-ebay-reference="will-ai-longevity-care-reach-everyone-longevity-poster" target="_blank" rel="sponsored noopener noreferrer">1988 New Years Longevity Chinese Disney Poster Waiting For Birthday#1 - 21”x30”</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=longevity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=will-ai-longevity-care-reach-everyone-longevity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="longevity poster" data-ebay-reference="will-ai-longevity-care-reach-everyone-longevity-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for longevity poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: longevity poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=longevity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=will-ai-longevity-care-reach-everyone-longevity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="longevity poster" data-ebay-reference="will-ai-longevity-care-reach-everyone-longevity-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=longevity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=will-ai-longevity-care-reach-everyone-longevity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="longevity poster" data-ebay-reference="will-ai-longevity-care-reach-everyone-longevity-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -599,7 +599,7 @@ The central question is not whether AI can help extend healthy life. Increasing 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -619,7 +619,7 @@ The central question is not whether AI can help extend healthy life. Increasing 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -651,7 +651,7 @@ The central question is not whether AI can help extend healthy life. Increasing 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -703,7 +703,7 @@ The central question is not whether AI can help extend healthy life. Increasing 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -748,7 +748,7 @@ The central question is not whether AI can help extend healthy life. Increasing 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -789,157 +789,157 @@ The central question is not whether AI can help extend healthy life. Increasing 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCAlgorithm fairness in artificial intelligence for medicine  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10632090/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10632090/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by RJ Chen · 2023 · Cited by 798 — In healthcare, the development and deployment of insufficiently fair systems of artificial intellig...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10632090/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10632090/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by RJ Chen · 2023 · Cited by 798 — In healthcare, the development and deployment of insufficiently fair systems of artificial intellig...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCAddressing bias in big data and AI for health care  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8515002/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8515002/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>This can result in misdiagnosing certain...Read more...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8515002/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8515002/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This can result in misdiagnosing certain...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arxiv.org  
    Title: arXiv Algorithm Fairness in AI for Medicine and Healthcare  
-   Link: <a href="https://arxiv.org/abs/2110.00603" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2110.00603</a>  
+   Link:<a href="https://arxiv.org/abs/2110.00603" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2110.00603</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41591-021-01595-0" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41591-021-01595-0</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Underdiagnosis bias of artificial intelligence algorithms...by L Seyyed-Kalantari · 2021 · Cited by 1091 — We find that classifier...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41591-021-01595-0" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41591-021-01595-0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Underdiagnosis bias of artificial intelligence algorithms...by L Seyyed-Kalantari · 2021 · Cited by 1091 — We find that classifier...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41746-025-01503-7" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41746-025-01503-7</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bias recognition and mitigation strategies in artificial...by F Hasanzadeh · 2025 · Cited by 251 — This review examines the origin...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41746-025-01503-7" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41746-025-01503-7</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bias recognition and mitigation strategies in artificial...by F Hasanzadeh · 2025 · Cited by 251 — This review examines the origin...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCHuman-Centered Design to Address Biases in Artificial  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10132017/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10132017/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by Y Chen · 2023 · Cited by 268 — This perspective highlights the dual impact of AI on health disparities and inequalities; potential...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10132017/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10132017/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by Y Chen · 2023 · Cited by 268 — This perspective highlights the dual impact of AI on health disparities and inequalities; potential...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2604.14514" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2604.14514</a>  
+   Link:<a href="https://arxiv.org/abs/2604.14514" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2604.14514</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: arxiv.org  
    Title: arXiv Bias by Design? How Data Practices Shape Fairness in AI Healthcare Systems  
-   Link: <a href="https://arxiv.org/abs/2510.20332" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2510.20332</a>  
+   Link:<a href="https://arxiv.org/abs/2510.20332" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2510.20332</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: who.int  
-   Link: <a href="https://www.who.int/teams/digital-health-and-innovation/harnessing-artificial-intelligence-for-health" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/teams/digital-health-and-innovation/harnessing-artificial-intelligence-for-health</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>World Health OrganizationHarnessing artificial intelligence for healthWHO&#x27;s vision is to foster digital frontiers and nurture an AI ecosy...</p></details>
+   Link:<a href="https://www.who.int/teams/digital-health-and-innovation/harnessing-artificial-intelligence-for-health" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/teams/digital-health-and-innovation/harnessing-artificial-intelligence-for-health</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>World Health OrganizationHarnessing artificial intelligence for healthWHO&#x27;s vision is to foster digital frontiers and nurture an AI ecosy...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: who.int  
-   Link: <a href="https://www.who.int/publications/i/item/9789240084759" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/publications/i/item/9789240084759</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>World Health OrganizationEthics and governance of artificial intelligence for health25 Mar 2025 — This guidance addresses one type of gen...</p></details>
+   Link:<a href="https://www.who.int/publications/i/item/9789240084759" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/publications/i/item/9789240084759</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>World Health OrganizationEthics and governance of artificial intelligence for health25 Mar 2025 — This guidance addresses one type of gen...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1386505625002680" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1386505625002680</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bridging the digital divide: artificial intelligence as a...by A Osonuga · 2025 · Cited by 45 — This comprehensive narrativ...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S1386505625002680" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1386505625002680</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bridging the digital divide: artificial intelligence as a...by A Osonuga · 2025 · Cited by 45 — This comprehensive narrativ...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/sustainability/can-artificial-intelligence-extend-healthcare-all-2024-03-25/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/sustainability/can-artificial-intelligence-extend-healthcare-all-2024-03-25/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI and machine learning offer potential solutions to health issues caused by geographical, financial, and cultural barriers, aiming to in...</p></details>
+   Link:<a href="https://www.reuters.com/sustainability/can-artificial-intelligence-extend-healthcare-all-2024-03-25/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/sustainability/can-artificial-intelligence-extend-healthcare-all-2024-03-25/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI and machine learning offer potential solutions to health issues caused by geographical, financial, and cultural barriers, aiming to in...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: iris.who.int  
    Title: int Ethics and governance of artificial intelligence for health  
-   Link: <a href="https://iris.who.int/server/api/core/bitstreams/e9e62c65-6045-481e-bd04-20e206bc5039/content" target="_blank" rel="noopener noreferrer nofollow">https://iris.who.int/server/api/core/bitstreams/e9e62c65-6045-481e-bd04-20e206bc5039/content</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and governance of artificial intelligence for health - IRISThis guidance addresses one type of generative AI, large multi-modal models (L...</p></details>
+   Link:<a href="https://iris.who.int/server/api/core/bitstreams/e9e62c65-6045-481e-bd04-20e206bc5039/content" target="_blank" rel="noopener noreferrer nofollow">https://iris.who.int/server/api/core/bitstreams/e9e62c65-6045-481e-bd04-20e206bc5039/content</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and governance of artificial intelligence for health - IRISThis guidance addresses one type of generative AI, large multi-modal models (L...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: iris.who.int  
    Title: int Demystifying artificial intelligence in health  
-   Link: <a href="https://iris.who.int/server/api/core/bitstreams/e3467cc3-6cea-4807-a286-8716e930caa7/content" target="_blank" rel="noopener noreferrer nofollow">https://iris.who.int/server/api/core/bitstreams/e3467cc3-6cea-4807-a286-8716e930caa7/content</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>artificial intelligence in health - IRISby P del Rey Puech — The European Observatory on Health Systems and Policies supports and promote...</p></details>
+   Link:<a href="https://iris.who.int/server/api/core/bitstreams/e3467cc3-6cea-4807-a286-8716e930caa7/content" target="_blank" rel="noopener noreferrer nofollow">https://iris.who.int/server/api/core/bitstreams/e3467cc3-6cea-4807-a286-8716e930caa7/content</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>artificial intelligence in health - IRISby P del Rey Puech — The European Observatory on Health Systems and Policies supports and promote...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: who.int  
-   Link: <a href="https://www.who.int/publications/i/item/9789240029200" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/publications/i/item/9789240029200</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ethics and governance of artificial intelligence for health28 Jun 2021 — The report identifies the ethical challenges and risks with the...</p></details>
+   Link:<a href="https://www.who.int/publications/i/item/9789240029200" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/publications/i/item/9789240029200</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ethics and governance of artificial intelligence for health28 Jun 2021 — The report identifies the ethical challenges and risks with the...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2666389926000449" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2666389926000449</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI-driven strategies for advancing health equity in rare...by C Lei · 2026 — This perspective identifies five key dimensions to equitabl...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S2666389926000449" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2666389926000449</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI-driven strategies for advancing health equity in rare...by C Lei · 2026 — This perspective identifies five key dimensions to equitabl...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/org/science/article/pii/S2976871325000481" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/org/science/article/pii/S2976871325000481</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Smart drug delivery systems...Read more...</p></details>
+   Link:<a href="https://www.sciencedirect.com/org/science/article/pii/S2976871325000481" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/org/science/article/pii/S2976871325000481</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Smart drug delivery systems...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41746-025-01746-4" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41746-025-01746-4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Racial bias in AI-mediated psychiatric diagnosis and...by A Bouguettaya · 2025 · Cited by 38 — Results indicated that LLMs often propose...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41746-025-01746-4" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41746-025-01746-4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Racial bias in AI-mediated psychiatric diagnosis and...by A Bouguettaya · 2025 · Cited by 38 — Results indicated that LLMs often propose...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41599-024-02894-w" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41599-024-02894-w</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Also, the WHO is...Read more...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41599-024-02894-w" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41599-024-02894-w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Also, the WHO is...Read more...</p></details>
 
 ### Additional References
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/393950503_Algorithmic_bias_in_public_health_AI_a_silent_threat_to_equity_in_low-resource_settings" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/393950503_Algorithmic_bias_in_public_health_AI_a_silent_threat_to_equity_in_low-resource_settings</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Algorithmic bias in public health AI: a silent threat to equity...Jul 23, 2025 — Models trained on unbalanced or poorly stratified datas...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/393950503_Algorithmic_bias_in_public_health_AI_a_silent_threat_to_equity_in_low-resource_settings" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/393950503_Algorithmic_bias_in_public_health_AI_a_silent_threat_to_equity_in_low-resource_settings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Algorithmic bias in public health AI: a silent threat to equity...Jul 23, 2025 — Models trained on unbalanced or poorly stratified datas...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/pulse/algorithms-artificial-intelligence-bias-healthcare-problem-kantor" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/algorithms-artificial-intelligence-bias-healthcare-problem-kantor</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Algorithms, Artificial Intelligence and Bias in HealthcareOne of the main concerns with Artificial Intelligence (AI) in healthcare is the...</p></details>
+   Link:<a href="https://www.linkedin.com/pulse/algorithms-artificial-intelligence-bias-healthcare-problem-kantor" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/algorithms-artificial-intelligence-bias-healthcare-problem-kantor</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Algorithms, Artificial Intelligence and Bias in HealthcareOne of the main concerns with Artificial Intelligence (AI) in healthcare is the...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: news-medical.net  
-   Link: <a href="https://www.news-medical.net/news/20240123/WHO-issues-ethical-guidelines-for-AI-in-healthcare-focusing-on-large-multi-modal-models.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.news-medical.net/news/20240123/WHO-issues-ethical-guidelines-for-AI-in-healthcare-focusing-on-large-multi-modal-models.aspx</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>WHO issues ethical guidelines for AI in healthcare...23 Jan 2024 — The World Health Organization (WHO) recently released detailed guidan...</p></details>
+   Link:<a href="https://www.news-medical.net/news/20240123/WHO-issues-ethical-guidelines-for-AI-in-healthcare-focusing-on-large-multi-modal-models.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.news-medical.net/news/20240123/WHO-issues-ethical-guidelines-for-AI-in-healthcare-focusing-on-large-multi-modal-models.aspx</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WHO issues ethical guidelines for AI in healthcare...23 Jan 2024 — The World Health Organization (WHO) recently released detailed guidan...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: resources.physio-pedia.com  
-   Link: <a href="https://resources.physio-pedia.com/resource/ethics-and-governance-of-artificial-intelligence-for-health-guidance-on-large-multi-modal-models/" target="_blank" rel="noopener noreferrer nofollow">https://resources.physio-pedia.com/resource/ethics-and-governance-of-artificial-intelligence-for-health-guidance-on-large-multi-modal-models/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and governance of artificial intelligence for healthJan 18, 2024 — On 18 January 2024, the World Health Organization (WHO) released updat...</p></details>
+   Link:<a href="https://resources.physio-pedia.com/resource/ethics-and-governance-of-artificial-intelligence-for-health-guidance-on-large-multi-modal-models/" target="_blank" rel="noopener noreferrer nofollow">https://resources.physio-pedia.com/resource/ethics-and-governance-of-artificial-intelligence-for-health-guidance-on-large-multi-modal-models/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and governance of artificial intelligence for healthJan 18, 2024 — On 18 January 2024, the World Health Organization (WHO) released updat...</p></details>
    Published: January 2024  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: unaihub.aiforgood.itu.int  
-   Link: <a href="https://unaihub.aiforgood.itu.int/activity-details.html?id=1243" target="_blank" rel="noopener noreferrer nofollow">https://unaihub.aiforgood.itu.int/activity-details.html?id=1243</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Global Initiative on AI for Health (GI-AI4H)In leveraging AI, WHO envisions a future where innovative technologies bridge gaps in healthc...</p></details>
+   Link:<a href="https://unaihub.aiforgood.itu.int/activity-details.html?id=1243" target="_blank" rel="noopener noreferrer nofollow">https://unaihub.aiforgood.itu.int/activity-details.html?id=1243</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Global Initiative on AI for Health (GI-AI4H)In leveraging AI, WHO envisions a future where innovative technologies bridge gaps in healthc...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: journalistsresource.org  
-   Link: <a href="https://journalistsresource.org/home/research-artificial-intelligence-can-fuel-racial-bias-in-health-care-but-can-mitigate-it-too/" target="_blank" rel="noopener noreferrer nofollow">https://journalistsresource.org/home/research-artificial-intelligence-can-fuel-racial-bias-in-health-care-but-can-mitigate-it-too/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Artificial intelligence exacerbates and mitigates racial bias...Jul 11, 2022 — Several studies show it can also propagate racial biases...</p></details>
+   Link:<a href="https://journalistsresource.org/home/research-artificial-intelligence-can-fuel-racial-bias-in-health-care-but-can-mitigate-it-too/" target="_blank" rel="noopener noreferrer nofollow">https://journalistsresource.org/home/research-artificial-intelligence-can-fuel-racial-bias-in-health-care-but-can-mitigate-it-too/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Artificial intelligence exacerbates and mitigates racial bias...Jul 11, 2022 — Several studies show it can also propagate racial biases...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: globalcompliancenews.com  
-   Link: <a href="https://www.globalcompliancenews.com/2024/02/17/https-insightplus-bakermckenzie-com-bm-healthcare-life-sciences-singapore-world-health-organization-releases-ai-ethics-and-governance-guidance-for-large-multimodal-models_01312024/" target="_blank" rel="noopener noreferrer nofollow">https://www.globalcompliancenews.com/2024/02/17/https-insightplus-bakermckenzie-com-bm-healthcare-life-sciences-singapore-world-health-organization-releases-ai-ethics-and-governance-guidance-for-large-multimodal-models_01312024/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Global: World Health Organization releases AI ethics and...17 Feb 2024 — On 18 January 2024, the World Health Organization (WHO) issued...</p></details>
+   Link:<a href="https://www.globalcompliancenews.com/2024/02/17/https-insightplus-bakermckenzie-com-bm-healthcare-life-sciences-singapore-world-health-organization-releases-ai-ethics-and-governance-guidance-for-large-multimodal-models_01312024/" target="_blank" rel="noopener noreferrer nofollow">https://www.globalcompliancenews.com/2024/02/17/https-insightplus-bakermckenzie-com-bm-healthcare-life-sciences-singapore-world-health-organization-releases-ai-ethics-and-governance-guidance-for-large-multimodal-models_01312024/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Global: World Health Organization releases AI ethics and...17 Feb 2024 — On 18 January 2024, the World Health Organization (WHO) issued...</p></details>
    Published: January 2024  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: nam.edu  
-   Link: <a href="https://nam.edu/perspectives/advancing-artificial-intelligence-in-health-settings-outside-the-hospital-and-clinic/" target="_blank" rel="noopener noreferrer nofollow">https://nam.edu/perspectives/advancing-artificial-intelligence-in-health-settings-outside-the-hospital-and-clinic/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>urge of artificial intelligence (AI)-driven technologies and products that can potentially augment care delivery...</p></details>
+   Link:<a href="https://nam.edu/perspectives/advancing-artificial-intelligence-in-health-settings-outside-the-hospital-and-clinic/" target="_blank" rel="noopener noreferrer nofollow">https://nam.edu/perspectives/advancing-artificial-intelligence-in-health-settings-outside-the-hospital-and-clinic/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>urge of artificial intelligence (AI)-driven technologies and products that can potentially augment care delivery...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: afmw.org.au  
    Title: ethics and governance of artificial intelligence for health course who  
-   Link: <a href="https://afmw.org.au/ethics-and-governance-of-artificial-intelligence-for-health-course-who/" target="_blank" rel="noopener noreferrer nofollow">https://afmw.org.au/ethics-and-governance-of-artificial-intelligence-for-health-course-who/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ethics and Governance of Artificial Intelligence for Health...3 Sept 2024 — The report identifies the ethical challenges and risks with...</p></details>
+   Link:<a href="https://afmw.org.au/ethics-and-governance-of-artificial-intelligence-for-health-course-who/" target="_blank" rel="noopener noreferrer nofollow">https://afmw.org.au/ethics-and-governance-of-artificial-intelligence-for-health-course-who/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ethics and Governance of Artificial Intelligence for Health...3 Sept 2024 — The report identifies the ethical challenges and risks with...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: learn.hms.harvard.edu  
    Title: confronting mirror reflecting our biases through ai health care  
-   Link: <a href="https://learn.hms.harvard.edu/insights/all-insights/confronting-mirror-reflecting-our-biases-through-ai-health-care" target="_blank" rel="noopener noreferrer nofollow">https://learn.hms.harvard.edu/insights/all-insights/confronting-mirror-reflecting-our-biases-through-ai-health-care</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>on Our Biases Through AI in Health CareSep 24, 2024 — Biases are inadvertently programmed into AI systems and, as a result, can have a ne...</p></details>
+   Link:<a href="https://learn.hms.harvard.edu/insights/all-insights/confronting-mirror-reflecting-our-biases-through-ai-health-care" target="_blank" rel="noopener noreferrer nofollow">https://learn.hms.harvard.edu/insights/all-insights/confronting-mirror-reflecting-our-biases-through-ai-health-care</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>on Our Biases Through AI in Health CareSep 24, 2024 — Biases are inadvertently programmed into AI systems and, as a result, can have a ne...</p></details>

@@ -275,20 +275,20 @@ image: /assets/images/AI_Bloom_Abun_98d3a6_ai_medicine_l_7c4177_ai_drug_trial_6d
 
 ## Introduction
 
-Rentosertib is one of the most important real-world tests of the claim that AI can accelerate medicine. It is not important because it has already transformed treatment. It has not. The drug remains experimental, has not received regulatory approval, and still faces the difficult path of larger clinical trials. What makes it significant is that it may be the clearest public example so far of an AI-originated drug progressing far enough into human testing to produce meaningful clinical evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41591-025-03743-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">A generative AI-discovered TNIK inhibitor for idiopathic...by Z Xu · 2025 · Cited by 110 — A first-in-class AI-generated small-mol...</span></span></span>
+Rentosertib is one of the most important real-world tests of the claim that AI can accelerate medicine. It is not important because it has already transformed treatment. It has not. The drug remains experimental, has not received regulatory approval, and still faces the difficult path of larger clinical trials. What makes it significant is that it may be the clearest public example so far of an AI-originated drug progressing far enough into human testing to produce meaningful clinical evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41591-025-03743-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">A generative AI-discovered TNIK inhibitor for idiopathic...by Z Xu · 2025 · Cited by 110 — A first-in-class AI-generated small-mol...</span></span></span>
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_medicine_l_7c4177_ai_drug_trial_6da283_rentosertib_c_75525e-Illustration-1-dark.svg" | relative_url }}" alt="Rentosertib illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_medicine_l_7c4177_ai_drug_trial_6da283_rentosertib_c_75525e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_medicine_l_7c4177_ai_drug_trial_6da283_rentosertib_c_75525e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For advocates of scientific acceleration and AI-enabled human flourishing, rentosertib matters because it moves the debate beyond laboratory demonstrations. AI systems have generated molecules for years. The harder question has always been whether an AI-discovered treatment can survive the same clinical process that defeats most conventional drug candidates. Rentosertib is one of the first cases where that question can be examined using patient data rather than promises. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41587-024-02143-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">A small-molecule TNIK inhibitor targets fibrosis in...by F Ren · 2025 · Cited by 322 — We identify TRAF2- and NCK-interacting kina...</span></span></span>
+For advocates of scientific acceleration and AI-enabled human flourishing, rentosertib matters because it moves the debate beyond laboratory demonstrations. AI systems have generated molecules for years. The harder question has always been whether an AI-discovered treatment can survive the same clinical process that defeats most conventional drug candidates. Rentosertib is one of the first cases where that question can be examined using patient data rather than promises.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41587-024-02143-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">A small-molecule TNIK inhibitor targets fibrosis in...by F Ren · 2025 · Cited by 322 — We identify TRAF2- and NCK-interacting kina...</span></span></span>
 
 ## How the drug moved from AI discovery to patients
 
-Rentosertib, previously known as ISM001-055 or INS018_055, was developed by Insilico Medicine for idiopathic pulmonary fibrosis (IPF), a progressive lung disease that scars lung tissue and often has a poor prognosis. Existing treatments can slow disease progression, but there remains a substantial need for more effective therapies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41591-025-03743-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">A generative AI-discovered TNIK inhibitor for idiopathic...by Z Xu · 2025 · Cited by 110 — A first-in-class AI-generated small-mol...</span></span></span>
+Rentosertib, previously known as ISM001-055 or INS018_055, was developed by Insilico Medicine for idiopathic pulmonary fibrosis (IPF), a progressive lung disease that scars lung tissue and often has a poor prognosis. Existing treatments can slow disease progression, but there remains a substantial need for more effective therapies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41591-025-03743-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">A generative AI-discovered TNIK inhibitor for idiopathic...by Z Xu · 2025 · Cited by 110 — A first-in-class AI-generated small-mol...</span></span></span>
 
-The company's claim is unusually ambitious. Insilico argues that both the biological target and the drug candidate itself emerged from its AI-driven [discovery]({{ 'discovery/' | relative_url }}) systems. According to published research, AI tools were used to identify TNIK (TRAF2- and NCK-interacting kinase) as a potentially important fibrosis-related target and then generate candidate molecules capable of inhibiting it. Rentosertib became the lead compound. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41587-024-02143-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">A small-molecule TNIK inhibitor targets fibrosis in...by F Ren · 2025 · Cited by 322 — We identify TRAF2- and NCK-interacting kina...</span></span></span>
+The company's claim is unusually ambitious. Insilico argues that both the biological target and the drug candidate itself emerged from its AI-driven [discovery]({{ 'discovery/' | relative_url }}) systems. According to published research, AI tools were used to identify TNIK (TRAF2- and NCK-interacting kinase) as a potentially important fibrosis-related target and then generate candidate molecules capable of inhibiting it. Rentosertib became the lead compound.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41587-024-02143-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">A small-molecule TNIK inhibitor targets fibrosis in...by F Ren · 2025 · Cited by 322 — We identify TRAF2- and NCK-interacting kina...</span></span></span>
 
-What attracted attention was not merely the target selection but the speed of progression. Insilico reported moving from target identification to a clinical candidate far faster than traditional timelines, often described as a process measured in months rather than the multiple years commonly associated with early-stage drug discovery. <span class="citation-chip-wrap"><a class="citation-chip" href="https://reruption.com/en/knowledge/industry-cases/insilico-medicine-ai-drug-to-phase-ii-in-30-months" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reruption.com">[Reruption]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reruption.com</span><span class="citation-popover-snippet">Insilico Medicine: AI Drug to Phase II in 30 MonthsInsilico Medicine harnessed generative AI and deep learning via Pharma.AI to...</span></span></span>
+What attracted attention was not merely the target selection but the speed of progression. Insilico reported moving from target identification to a clinical candidate far faster than traditional timelines, often described as a process measured in months rather than the multiple years commonly associated with early-stage drug discovery.<span class="citation-chip-wrap"><a class="citation-chip" href="https://reruption.com/en/knowledge/industry-cases/insilico-medicine-ai-drug-to-phase-ii-in-30-months" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reruption.com">[Reruption]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reruption.com</span><span class="citation-popover-snippet">Insilico Medicine: AI Drug to Phase II in 30 MonthsInsilico Medicine harnessed generative AI and deep learning via Pharma.AI to...</span></span></span>
 
-That does not mean AI replaced biology, chemistry or clinical science. Human researchers still performed laboratory [validation]({{ 'validation/' | relative_url }}), animal testing, manufacturing work, regulatory preparation and clinical trial design. Rentosertib is therefore better understood as a case where AI compressed parts of the search and optimisation process rather than replacing the broader drug-development pipeline. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41587-024-02143-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">A small-molecule TNIK inhibitor targets fibrosis in...by F Ren · 2025 · Cited by 322 — We identify TRAF2- and NCK-interacting kina...</span></span></span>
+That does not mean AI replaced biology, chemistry or clinical science. Human researchers still performed laboratory [validation]({{ 'validation/' | relative_url }}), animal testing, manufacturing work, regulatory preparation and clinical trial design. Rentosertib is therefore better understood as a case where AI compressed parts of the search and optimisation process rather than replacing the broader drug-development pipeline.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41587-024-02143-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">A small-molecule TNIK inhibitor targets fibrosis in...by F Ren · 2025 · Cited by 322 — We identify TRAF2- and NCK-interacting kina...</span></span></span>
 
 This distinction matters because much public discussion treats AI drug discovery as if generating a molecule were the main challenge. Historically, it has not been. The central challenge has been proving that a molecule actually helps patients.
 
@@ -296,17 +296,17 @@ Rentosertib became notable precisely because it reached the stage where that pro
 
 ## What the phase 2a trial actually found
 
-The strongest evidence comes from a randomised phase 2a clinical trial in patients with idiopathic pulmonary fibrosis. The study enrolled 71 patients and compared several dosing regimens against placebo over a 12-week treatment period. The trial was designed primarily to examine safety and tolerability, although researchers also looked for signals of efficacy. Nature PubMed The headline result was encouraging but limited. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=wrUU0MrMzIQ" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">How a Drug Candidate for Rare Diseases Could Be the Key to Living Longer</span><span class="citation-popover-snippet">Insilico Medicine Documentary: A breakthrough milestone in AI-powered drug discovery reached...</span></span></span>
+The strongest evidence comes from a randomised phase 2a clinical trial in patients with idiopathic pulmonary fibrosis. The study enrolled 71 patients and compared several dosing regimens against placebo over a 12-week treatment period. The trial was designed primarily to examine safety and tolerability, although researchers also looked for signals of efficacy. Nature PubMed The headline result was encouraging but limited.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=wrUU0MrMzIQ" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">How a Drug Candidate for Rare Diseases Could Be the Key to Living Longer</span><span class="citation-popover-snippet">Insilico Medicine Documentary: A breakthrough milestone in AI-powered drug discovery reached...</span></span></span>
 
-Researchers reported that rentosertib showed a generally manageable safety profile, with treatment-emergent adverse events appearing broadly comparable across treatment and placebo groups. This is important because many promising drugs fail when safety problems emerge in human testing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41587-024-02143-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">A small-molecule TNIK inhibitor targets fibrosis in...by F Ren · 2025 · Cited by 322 — We identify TRAF2- and NCK-interacting kina...</span></span></span>
+Researchers reported that rentosertib showed a generally manageable safety profile, with treatment-emergent adverse events appearing broadly comparable across treatment and placebo groups. This is important because many promising drugs fail when safety problems emerge in human testing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41587-024-02143-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">A small-molecule TNIK inhibitor targets fibrosis in...by F Ren · 2025 · Cited by 322 — We identify TRAF2- and NCK-interacting kina...</span></span></span>
 
-The most discussed efficacy signal involved forced vital capacity (FVC), a standard measure of lung function in pulmonary fibrosis. According to the published results, patients receiving the 60 mg daily dose showed an average improvement in FVC, while the placebo group showed a decline over the study period. Biomarker changes also appeared consistent with the proposed anti-fibrotic mechanism. Nature <span class="citation-chip-wrap"><a class="citation-chip" href="https://reruption.com/en/knowledge/industry-cases/insilico-medicine-ai-drug-to-phase-ii-in-30-months" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reruption.com">[Insilico Medicine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reruption.com</span><span class="citation-popover-snippet">Insilico Medicine: AI Drug to Phase II in 30 MonthsInsilico Medicine harnessed generative AI and deep learning via Pharma.AI to...</span></span></span>
+The most discussed efficacy signal involved forced vital capacity (FVC), a standard measure of lung function in pulmonary fibrosis. According to the published results, patients receiving the 60 mg daily dose showed an average improvement in FVC, while the placebo group showed a decline over the study period. Biomarker changes also appeared consistent with the proposed anti-fibrotic mechanism. Nature<span class="citation-chip-wrap"><a class="citation-chip" href="https://reruption.com/en/knowledge/industry-cases/insilico-medicine-ai-drug-to-phase-ii-in-30-months" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reruption.com">[Insilico Medicine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reruption.com</span><span class="citation-popover-snippet">Insilico Medicine: AI Drug to Phase II in 30 MonthsInsilico Medicine harnessed generative AI and deep learning via Pharma.AI to...</span></span></span>
 
-For supporters of AI-driven medicine, this was a meaningful moment because it represented something more substantial than preclinical success. A drug associated with AI-guided target discovery and molecular design produced positive signals in actual patients suffering from a serious disease. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41587-024-02143-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">A small-molecule TNIK inhibitor targets fibrosis in...by F Ren · 2025 · Cited by 322 — We identify TRAF2- and NCK-interacting kina...</span></span></span>
+For supporters of AI-driven medicine, this was a meaningful moment because it represented something more substantial than preclinical success. A drug associated with AI-guided target discovery and molecular design produced positive signals in actual patients suffering from a serious disease.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41587-024-02143-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">A small-molecule TNIK inhibitor targets fibrosis in...by F Ren · 2025 · Cited by 322 — We identify TRAF2- and NCK-interacting kina...</span></span></span>
 
 That does not mean the trial proved the drug works.
 
-Phase 2a studies are usually designed to identify early signs rather than provide definitive evidence. They are often too small and too short to establish whether a treatment delivers durable clinical benefit. The rentosertib study lasted only 12 weeks and involved a relatively modest number of participants. Larger trials are needed to determine whether the apparent benefits are real, reproducible and clinically meaningful. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41587-024-02143-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">A small-molecule TNIK inhibitor targets fibrosis in...by F Ren · 2025 · Cited by 322 — We identify TRAF2- and NCK-interacting kina...</span></span></span>
+Phase 2a studies are usually designed to identify early signs rather than provide definitive evidence. They are often too small and too short to establish whether a treatment delivers durable clinical benefit. The rentosertib study lasted only 12 weeks and involved a relatively modest number of participants. Larger trials are needed to determine whether the apparent benefits are real, reproducible and clinically meaningful.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41587-024-02143-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">A small-molecule TNIK inhibitor targets fibrosis in...by F Ren · 2025 · Cited by 322 — We identify TRAF2- and NCK-interacting kina...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/AOJfkDu5nC4" title="Insilico Medicine Documentary: A breakthrough milestone in AI-powered drug discovery reached" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=AOJfkDu5nC4" target="_blank" rel="noopener noreferrer">Insilico Medicine Documentary: A breakthrough milestone in AI-powered drug discovery reached</a></p><p class="youtube-embed-meta">Channel: Insilico Medicine &middot; Views: 11.9K &middot; Uploaded: February 2021 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=AOJfkDu5nC4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=AOJfkDu5nC4">Open on YouTube</a></p></div></div></div>
 
@@ -326,15 +326,15 @@ Several things now seem difficult to dismiss:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* AI-assisted systems helped identify a novel therapeutic target that researchers considered promising enough to pursue. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41587-024-02143-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">A small-molecule TNIK inhibitor targets fibrosis in...by F Ren · 2025 · Cited by 322 — We identify TRAF2- and NCK-interacting kina...</span></span></span>
-* An AI-generated candidate molecule advanced through preclinical development and into human trials. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41587-024-02143-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">A small-molecule TNIK inhibitor targets fibrosis in...by F Ren · 2025 · Cited by 322 — We identify TRAF2- and NCK-interacting kina...</span></span></span>
-* The resulting drug candidate produced sufficiently encouraging phase 2a results to justify continued development rather than immediate abandonment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41587-024-02143-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">A small-molecule TNIK inhibitor targets fibrosis in...by F Ren · 2025 · Cited by 322 — We identify TRAF2- and NCK-interacting kina...</span></span></span>
+* AI-assisted systems helped identify a novel therapeutic target that researchers considered promising enough to pursue.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41587-024-02143-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">A small-molecule TNIK inhibitor targets fibrosis in...by F Ren · 2025 · Cited by 322 — We identify TRAF2- and NCK-interacting kina...</span></span></span>
+* An AI-generated candidate molecule advanced through preclinical development and into human trials.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41587-024-02143-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">A small-molecule TNIK inhibitor targets fibrosis in...by F Ren · 2025 · Cited by 322 — We identify TRAF2- and NCK-interacting kina...</span></span></span>
+* The resulting drug candidate produced sufficiently encouraging phase 2a results to justify continued development rather than immediate abandonment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41587-024-02143-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">A small-molecule TNIK inhibitor targets fibrosis in...by F Ren · 2025 · Cited by 322 — We identify TRAF2- and NCK-interacting kina...</span></span></span>
 
 </div>
 
-Those achievements are not trivial. Drug development is filled with attractive theories that collapse under testing. Reaching mid-stage clinical evaluation with encouraging safety and efficacy signals places rentosertib beyond the category of purely speculative AI demonstrations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41587-024-02143-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">A small-molecule TNIK inhibitor targets fibrosis in...by F Ren · 2025 · Cited by 322 — We identify TRAF2- and NCK-interacting kina...</span></span></span>
+Those achievements are not trivial. Drug development is filled with attractive theories that collapse under testing. Reaching mid-stage clinical evaluation with encouraging safety and efficacy signals places rentosertib beyond the category of purely speculative AI demonstrations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41587-024-02143-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">A small-molecule TNIK inhibitor targets fibrosis in...by F Ren · 2025 · Cited by 322 — We identify TRAF2- and NCK-interacting kina...</span></span></span>
 
-For the broader AI bloom argument, this matters because medicine is one of the few domains where claims about scientific acceleration can be measured directly. A faster image generator or coding assistant may improve productivity, but a successful new therapy potentially affects lifespan, healthspan and the burden of disease. Rentosertib therefore functions as an early test of whether AI can contribute to the much larger promise of accelerated biomedical progress. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S157018082500199X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">AI-driven target discovery and clinical development of...by DH Wang · 2025 · Cited by 2 — In conclusion, rentosertib has of...</span></span></span>
+For the broader AI bloom argument, this matters because medicine is one of the few domains where claims about scientific acceleration can be measured directly. A faster image generator or coding assistant may improve productivity, but a successful new therapy potentially affects lifespan, healthspan and the burden of disease. Rentosertib therefore functions as an early test of whether AI can contribute to the much larger promise of accelerated biomedical progress.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S157018082500199X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">AI-driven target discovery and clinical development of...by DH Wang · 2025 · Cited by 2 — In conclusion, rentosertib has of...</span></span></span>
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_medicine_l_7c4177_ai_drug_trial_6da283_rentosertib_c_75525e-Illustration-2-dark.svg" | relative_url }}" alt="Rentosertib illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_medicine_l_7c4177_ai_drug_trial_6da283_rentosertib_c_75525e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_medicine_l_7c4177_ai_drug_trial_6da283_rentosertib_c_75525e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why approval remains the harder milestone
@@ -343,27 +343,27 @@ The temptation is to treat rentosertib as proof that AI has already transformed 
 
 That would be premature.
 
-The history of pharmaceutical development is full of treatments that looked promising in [phase 2]({{ 'phase-2/' | relative_url }}) but failed in larger studies. Drug candidates can appear effective because of statistical noise, patient selection effects, trial design limitations or outcomes that fail to hold up over longer periods. Regulators know this, which is why approval generally depends on much larger evidence packages. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41587-024-02143-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">A small-molecule TNIK inhibitor targets fibrosis in...by F Ren · 2025 · Cited by 322 — We identify TRAF2- and NCK-interacting kina...</span></span></span>
+The history of pharmaceutical development is full of treatments that looked promising in [phase 2]({{ 'phase-2/' | relative_url }}) but failed in larger studies. Drug candidates can appear effective because of statistical noise, patient selection effects, trial design limitations or outcomes that fail to hold up over longer periods. Regulators know this, which is why approval generally depends on much larger evidence packages.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41587-024-02143-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">A small-molecule TNIK inhibitor targets fibrosis in...by F Ren · 2025 · Cited by 322 — We identify TRAF2- and NCK-interacting kina...</span></span></span>
 
 Several hurdles remain.
 
 ### Larger populations
 
-Seventy-one patients can reveal useful signals, but it is not enough to establish confidence across diverse populations. Regulators typically want evidence from larger groups that better represent the people who may eventually receive the treatment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41587-024-02143-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">A small-molecule TNIK inhibitor targets fibrosis in...by F Ren · 2025 · Cited by 322 — We identify TRAF2- and NCK-interacting kina...</span></span></span>
+Seventy-one patients can reveal useful signals, but it is not enough to establish confidence across diverse populations. Regulators typically want evidence from larger groups that better represent the people who may eventually receive the treatment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41587-024-02143-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">A small-molecule TNIK inhibitor targets fibrosis in...by F Ren · 2025 · Cited by 322 — We identify TRAF2- and NCK-interacting kina...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KyUDHnePu6M" title="Story of Rentosertib ISM001-055" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KyUDHnePu6M" target="_blank" rel="noopener noreferrer">Story of Rentosertib ISM001-055</a></p><p class="youtube-embed-meta">Channel: Insilico Medicine &middot; Views: 2.0K &middot; Uploaded: March 2025 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KyUDHnePu6M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KyUDHnePu6M">Open on YouTube</a></p></div></div></div>
 
 ### Longer observation periods
 
-Pulmonary fibrosis is a chronic disease. A treatment that appears helpful over twelve weeks may not necessarily remain effective over a year or more. Long-term safety questions also become clearer only after extended exposure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41587-024-02143-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">A small-molecule TNIK inhibitor targets fibrosis in...by F Ren · 2025 · Cited by 322 — We identify TRAF2- and NCK-interacting kina...</span></span></span>
+Pulmonary fibrosis is a chronic disease. A treatment that appears helpful over twelve weeks may not necessarily remain effective over a year or more. Long-term safety questions also become clearer only after extended exposure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41587-024-02143-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">A small-molecule TNIK inhibitor targets fibrosis in...by F Ren · 2025 · Cited by 322 — We identify TRAF2- and NCK-interacting kina...</span></span></span>
 
 ### Clinically meaningful outcomes
 
-Biomarkers and lung-function measurements matter, but regulators ultimately care about outcomes that improve patients' lives. The key question is whether treatment changes disease progression, quality of life, hospitalisation rates or survival in a meaningful way. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ajmc.com/view/ai-derived-therapy-for-ipf-shows-potential-in-phase-2a-trial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ajmc.com">[AJMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ajmc.com</span><span class="citation-popover-snippet">AI-Derived Therapy for IPF Shows Potential in Phase 2a TrialJun 14, 2025 — Rentosertib, an AI-discovered TNIK inhibitor, showed safet...</span></span></span>
+Biomarkers and lung-function measurements matter, but regulators ultimately care about outcomes that improve patients' lives. The key question is whether treatment changes disease progression, quality of life, hospitalisation rates or survival in a meaningful way.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ajmc.com/view/ai-derived-therapy-for-ipf-shows-potential-in-phase-2a-trial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ajmc.com">[AJMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ajmc.com</span><span class="citation-popover-snippet">AI-Derived Therapy for IPF Shows Potential in Phase 2a TrialJun 14, 2025 — Rentosertib, an AI-discovered TNIK inhibitor, showed safet...</span></span></span>
 
 ### Reproducibility
 
-One successful study is important. Multiple successful studies are far more convincing. Replication remains one of the most powerful filters in medicine. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41587-024-02143-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">A small-molecule TNIK inhibitor targets fibrosis in...by F Ren · 2025 · Cited by 322 — We identify TRAF2- and NCK-interacting kina...</span></span></span>
+One successful study is important. Multiple successful studies are far more convincing. Replication remains one of the most powerful filters in medicine.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41587-024-02143-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">A small-molecule TNIK inhibitor targets fibrosis in...by F Ren · 2025 · Cited by 322 — We identify TRAF2- and NCK-interacting kina...</span></span></span>
 
 This is why the clinical-trial bottleneck remains central even in an era of increasingly capable AI. Discovery can become faster without making biological reality any less demanding.
 
@@ -372,209 +372,209 @@ This is why the clinical-trial bottleneck remains central even in an era of incr
 
 Rentosertib highlights both the strength and the limitation of current AI optimism.
 
-The strength is that AI appears capable of contributing meaningfully to the generation of new therapeutic ideas. The progression from target discovery to a phase 2a signal suggests that AI can do more than automate paperwork or analyse existing compounds. It may help identify genuinely novel biological opportunities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41587-024-02143-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">A small-molecule TNIK inhibitor targets fibrosis in...by F Ren · 2025 · Cited by 322 — We identify TRAF2- and NCK-interacting kina...</span></span></span>
+The strength is that AI appears capable of contributing meaningfully to the generation of new therapeutic ideas. The progression from target discovery to a phase 2a signal suggests that AI can do more than automate paperwork or analyse existing compounds. It may help identify genuinely novel biological opportunities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41587-024-02143-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">A small-molecule TNIK inhibitor targets fibrosis in...by F Ren · 2025 · Cited by 322 — We identify TRAF2- and NCK-interacting kina...</span></span></span>
 
 The limitation is that no known AI system has eliminated the need for human evidence.
 
-Even if future models become dramatically better at predicting protein structures, molecular interactions and disease pathways, patients still live inside extraordinarily complex biological systems. Clinical trials remain necessary because prediction and reality are not the same thing. Rentosertib's story reinforces that principle rather than overturning it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41587-024-02143-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">A small-molecule TNIK inhibitor targets fibrosis in...by F Ren · 2025 · Cited by 322 — We identify TRAF2- and NCK-interacting kina...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41587-024-02143-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">A small-molecule TNIK inhibitor targets fibrosis in...by F Ren · 2025 · Cited by 322 — We identify TRAF2- and NCK-interacting kina...</span></span></span>
+Even if future models become dramatically better at predicting protein structures, molecular interactions and disease pathways, patients still live inside extraordinarily complex biological systems. Clinical trials remain necessary because prediction and reality are not the same thing. Rentosertib's story reinforces that principle rather than overturning it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41587-024-02143-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">A small-molecule TNIK inhibitor targets fibrosis in...by F Ren · 2025 · Cited by 322 — We identify TRAF2- and NCK-interacting kina...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41587-024-02143-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">A small-molecule TNIK inhibitor targets fibrosis in...by F Ren · 2025 · Cited by 322 — We identify TRAF2- and NCK-interacting kina...</span></span></span>
 
 In that sense, rentosertib may ultimately be remembered less as the first AI-discovered drug and more as the first widely observed demonstration of where AI's real contribution begins and ends. It can accelerate the search for possibilities. It can help scientists explore larger regions of biological space. It can reduce some of the blind trial-and-error that has historically slowed drug discovery.
 
 But the final test still happens in patients.
 
-The significance of rentosertib is that it has reached that test and produced results serious enough to keep going. For the broader vision of AI-driven scientific acceleration, that is a meaningful milestone. It is not yet a revolution, but it is one of the clearest pieces of evidence that the larger possibility is no longer purely theoretical. Nature <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S157018082500199X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">AI-driven target discovery and clinical development of...by DH Wang · 2025 · Cited by 2 — In conclusion, rentosertib has of...</span></span></span>
+The significance of rentosertib is that it has reached that test and produced results serious enough to keep going. For the broader vision of AI-driven scientific acceleration, that is a meaningful milestone. It is not yet a revolution, but it is one of the clearest pieces of evidence that the larger possibility is no longer purely theoretical. Nature<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S157018082500199X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">AI-driven target discovery and clinical development of...by DH Wang · 2025 · Cited by 2 — In conclusion, rentosertib has of...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wrUU0MrMzIQ" title="How a Drug Candidate for Rare Diseases Could Be the Key to Living Longer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wrUU0MrMzIQ" target="_blank" rel="noopener noreferrer">How a Drug Candidate for Rare Diseases Could Be the Key to Living Longer</a></p><p class="youtube-embed-meta">Channel: Insilico Medicine &middot; Views: 246 &middot; Uploaded: February 2025 &middot; Length: 16 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wrUU0MrMzIQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wrUU0MrMzIQ">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What rentosertib really proves about AI medicine. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What rentosertib really proves about AI medicine. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Drug+Hunters+by+Donald+R.+Kirsch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Drug Hunters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=czyCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Drug Hunters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Drug+Hunters+by+Donald+R.+Kirsch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Drug Hunters">The Drug Hunters</a>
-        </h4>
-        <p class="fr-book-author">By Donald R. Kirsch, Ogi Ogas</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Drug+Hunters+by+Donald+R.+Kirsch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Drug Hunters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=czyCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Drug Hunters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Drug+Hunters+by+Donald+R.+Kirsch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Drug Hunters">The Drug Hunters</a>
+</h4>
+<p class="fr-book-author">By Donald R. Kirsch, Ogi Ogas</p>
         
-        <p class="fr-book-desc">Helps interpret what it means for any AI-originated drug to move from discovery into human evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Drug+Hunters+by+Donald+R.+Kirsch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps interpret what it means for any AI-originated drug to move from discovery into human evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Drug+Hunters+by+Donald+R.+Kirsch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Deep+Medicine+by+Eric+Topol&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Deep Medicine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_EFlDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Deep Medicine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Deep+Medicine+by+Eric+Topol&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Deep Medicine">Deep Medicine</a>
-        </h4>
-        <p class="fr-book-author">By Eric Topol</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Deep+Medicine+by+Eric+Topol&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Deep Medicine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_EFlDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Deep Medicine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Deep+Medicine+by+Eric+Topol&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Deep Medicine">Deep Medicine</a>
+</h4>
+<p class="fr-book-author">By Eric Topol</p>
         
-        <p class="fr-book-desc">Places rentosertib within the larger question of whether AI can produce clinically meaningful medicine.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Deep+Medicine+by+Eric+Topol&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places rentosertib within the larger question of whether AI can produce clinically meaningful medicine.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Deep+Medicine+by+Eric+Topol&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Billion-Dollar+Molecule+by+Barry+Werth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Billion-Dollar Molecule on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Pw4_sKSwizYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Billion-Dollar Molecule" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Billion-Dollar+Molecule+by+Barry+Werth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Billion-Dollar Molecule">The Billion-Dollar Molecule</a>
-        </h4>
-        <p class="fr-book-author">By Barry Werth</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Billion-Dollar+Molecule+by+Barry+Werth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Billion-Dollar Molecule on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Pw4_sKSwizYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Billion-Dollar Molecule" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Billion-Dollar+Molecule+by+Barry+Werth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Billion-Dollar Molecule">The Billion-Dollar Molecule</a>
+</h4>
+<p class="fr-book-author">By Barry Werth</p>
         
-        <p class="fr-book-desc">Explains why a promising molecule still faces financing, testing and approval hurdles.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Billion-Dollar+Molecule+by+Barry+Werth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why a promising molecule still faces financing, testing and approval hurdles.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Billion-Dollar+Molecule+by+Barry+Werth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Life+Force+by+Tony+Robbins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Life Force on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oAtAEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Life Force" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Life+Force+by+Tony+Robbins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Life Force">Life Force</a>
-        </h4>
-        <p class="fr-book-author">By Tony Robbins, Peter H. Diamandis</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Life+Force+by+Tony+Robbins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Life Force on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oAtAEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Life Force" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Life+Force+by+Tony+Robbins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Life Force">Life Force</a>
+</h4>
+<p class="fr-book-author">By Tony Robbins, Peter H. Diamandis</p>
         
-        <p class="fr-book-desc">Connects experimental regenerative and longevity medicine to public expectations, though less directly technical.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Life+Force+by+Tony+Robbins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Connects experimental regenerative and longevity medicine to public expectations, though less directly technical.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Life+Force+by+Tony+Robbins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Drug+Hunters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Drug Hunters</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Deep+Medicine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Deep Medicine</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Billion+Dollar+Molecule&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Billion Dollar Molecule</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Drug+Hunters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Drug Hunters</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Deep+Medicine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Deep Medicine</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Billion+Dollar+Molecule&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Billion Dollar Molecule</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rentosertib-what-rentosertib-really-proves-about-ai-medicine-ai-bloom-abundance-superintelligenc-medical-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster -book -books" data-ebay-reference="rentosertib-what-rentosertib-really-proves-about-ai-medicine-ai-bloom-abundance-superintelligenc-medical-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Human Anatomy model body MAJOR ORGANS A2 laminated medical doctor biology poster"><img src="{{ '/assets/images/marketplace-covers/a22ae66f5fa7967cd507.jpg' | relative_url }}" alt="Listing image for Human Anatomy model body MAJOR ORGANS A2 laminated medical doctor biology poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rentosertib-what-rentosertib-really-proves-about-ai-medicine-ai-bloom-abundance-superintelligenc-medical-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster -book -books" data-ebay-reference="rentosertib-what-rentosertib-really-proves-about-ai-medicine-ai-bloom-abundance-superintelligenc-medical-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer">Human Anatomy model body MAJOR ORGANS A2 laminated medical doctor biology poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rentosertib-what-rentosertib-really-proves-about-ai-medicine-ai-bloom-abundance-superintelligenc-medical-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster -book -books" data-ebay-reference="rentosertib-what-rentosertib-really-proves-about-ai-medicine-ai-bloom-abundance-superintelligenc-medical-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: medical poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rentosertib-what-rentosertib-really-proves-about-ai-medicine-ai-bloom-abundance-superintelligenc-medical-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster -book -books" data-ebay-reference="rentosertib-what-rentosertib-really-proves-about-ai-medicine-ai-bloom-abundance-superintelligenc-medical-poster-book-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rentosertib-what-rentosertib-really-proves-about-ai-medicine-ai-bloom-abundance-superintelligenc-medical-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster -book -books" data-ebay-reference="rentosertib-what-rentosertib-really-proves-about-ai-medicine-ai-bloom-abundance-superintelligenc-medical-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Human Anatomy model body MAJOR ORGANS A2 laminated medical doctor biology poster"><img src="{{ '/assets/images/marketplace-covers/a22ae66f5fa7967cd507.jpg' | relative_url }}" alt="Listing image for Human Anatomy model body MAJOR ORGANS A2 laminated medical doctor biology poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rentosertib-what-rentosertib-really-proves-about-ai-medicine-ai-bloom-abundance-superintelligenc-medical-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster -book -books" data-ebay-reference="rentosertib-what-rentosertib-really-proves-about-ai-medicine-ai-bloom-abundance-superintelligenc-medical-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer">Human Anatomy model body MAJOR ORGANS A2 laminated medical doctor biology poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rentosertib-what-rentosertib-really-proves-about-ai-medicine-ai-bloom-abundance-superintelligenc-medical-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster -book -books" data-ebay-reference="rentosertib-what-rentosertib-really-proves-about-ai-medicine-ai-bloom-abundance-superintelligenc-medical-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: medical poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rentosertib-what-rentosertib-really-proves-about-ai-medicine-ai-bloom-abundance-superintelligenc-medical-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster -book -books" data-ebay-reference="rentosertib-what-rentosertib-really-proves-about-ai-medicine-ai-bloom-abundance-superintelligenc-medical-poster-book-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rentosertib-what-rentosertib-really-proves-about-ai-medicine-ai-bloom-abundance-superintelligenc-medical-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster -book -books" data-ebay-reference="rentosertib-what-rentosertib-really-proves-about-ai-medicine-ai-bloom-abundance-superintelligenc-medical-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Foot Reflexology Poster Human Anatomy Educational Student Medical Poster A5 - A3"><img src="{{ '/assets/images/marketplace-covers/a7985f22cf7ddbd5dd27.jpg' | relative_url }}" alt="Listing image for Foot Reflexology Poster Human Anatomy Educational Student Medical Poster A5 - A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rentosertib-what-rentosertib-really-proves-about-ai-medicine-ai-bloom-abundance-superintelligenc-medical-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster -book -books" data-ebay-reference="rentosertib-what-rentosertib-really-proves-about-ai-medicine-ai-bloom-abundance-superintelligenc-medical-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer">Foot Reflexology Poster Human Anatomy Educational Student Medical Poster A5 - A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rentosertib-what-rentosertib-really-proves-about-ai-medicine-ai-bloom-abundance-superintelligenc-medical-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster -book -books" data-ebay-reference="rentosertib-what-rentosertib-really-proves-about-ai-medicine-ai-bloom-abundance-superintelligenc-medical-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: medical poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rentosertib-what-rentosertib-really-proves-about-ai-medicine-ai-bloom-abundance-superintelligenc-medical-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster -book -books" data-ebay-reference="rentosertib-what-rentosertib-really-proves-about-ai-medicine-ai-bloom-abundance-superintelligenc-medical-poster-book-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rentosertib-what-rentosertib-really-proves-about-ai-medicine-ai-bloom-abundance-superintelligenc-medical-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster -book -books" data-ebay-reference="rentosertib-what-rentosertib-really-proves-about-ai-medicine-ai-bloom-abundance-superintelligenc-medical-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Foot Reflexology Poster Human Anatomy Educational Student Medical Poster A5 - A3"><img src="{{ '/assets/images/marketplace-covers/a7985f22cf7ddbd5dd27.jpg' | relative_url }}" alt="Listing image for Foot Reflexology Poster Human Anatomy Educational Student Medical Poster A5 - A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rentosertib-what-rentosertib-really-proves-about-ai-medicine-ai-bloom-abundance-superintelligenc-medical-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster -book -books" data-ebay-reference="rentosertib-what-rentosertib-really-proves-about-ai-medicine-ai-bloom-abundance-superintelligenc-medical-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer">Foot Reflexology Poster Human Anatomy Educational Student Medical Poster A5 - A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rentosertib-what-rentosertib-really-proves-about-ai-medicine-ai-bloom-abundance-superintelligenc-medical-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster -book -books" data-ebay-reference="rentosertib-what-rentosertib-really-proves-about-ai-medicine-ai-bloom-abundance-superintelligenc-medical-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: medical poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rentosertib-what-rentosertib-really-proves-about-ai-medicine-ai-bloom-abundance-superintelligenc-medical-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster -book -books" data-ebay-reference="rentosertib-what-rentosertib-really-proves-about-ai-medicine-ai-bloom-abundance-superintelligenc-medical-poster-book-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rentosertib-what-rentosertib-really-proves-about-ai-medicine-ai-bloom-abundance-superintelligenc-medical-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster -book -books" data-ebay-reference="rentosertib-what-rentosertib-really-proves-about-ai-medicine-ai-bloom-abundance-superintelligenc-medical-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Human Skin Anatomy Medical Poster Doctor Educational Decor Poster A5 A4 A3"><img src="{{ '/assets/images/marketplace-covers/0ff56561933ecc767077.jpg' | relative_url }}" alt="Listing image for Human Skin Anatomy Medical Poster Doctor Educational Decor Poster A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rentosertib-what-rentosertib-really-proves-about-ai-medicine-ai-bloom-abundance-superintelligenc-medical-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster -book -books" data-ebay-reference="rentosertib-what-rentosertib-really-proves-about-ai-medicine-ai-bloom-abundance-superintelligenc-medical-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer">Human Skin Anatomy Medical Poster Doctor Educational Decor Poster A5 A4 A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rentosertib-what-rentosertib-really-proves-about-ai-medicine-ai-bloom-abundance-superintelligenc-medical-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster -book -books" data-ebay-reference="rentosertib-what-rentosertib-really-proves-about-ai-medicine-ai-bloom-abundance-superintelligenc-medical-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: medical poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rentosertib-what-rentosertib-really-proves-about-ai-medicine-ai-bloom-abundance-superintelligenc-medical-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster -book -books" data-ebay-reference="rentosertib-what-rentosertib-really-proves-about-ai-medicine-ai-bloom-abundance-superintelligenc-medical-poster-book-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rentosertib-what-rentosertib-really-proves-about-ai-medicine-ai-bloom-abundance-superintelligenc-medical-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster -book -books" data-ebay-reference="rentosertib-what-rentosertib-really-proves-about-ai-medicine-ai-bloom-abundance-superintelligenc-medical-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Human Skin Anatomy Medical Poster Doctor Educational Decor Poster A5 A4 A3"><img src="{{ '/assets/images/marketplace-covers/0ff56561933ecc767077.jpg' | relative_url }}" alt="Listing image for Human Skin Anatomy Medical Poster Doctor Educational Decor Poster A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rentosertib-what-rentosertib-really-proves-about-ai-medicine-ai-bloom-abundance-superintelligenc-medical-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster -book -books" data-ebay-reference="rentosertib-what-rentosertib-really-proves-about-ai-medicine-ai-bloom-abundance-superintelligenc-medical-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer">Human Skin Anatomy Medical Poster Doctor Educational Decor Poster A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rentosertib-what-rentosertib-really-proves-about-ai-medicine-ai-bloom-abundance-superintelligenc-medical-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster -book -books" data-ebay-reference="rentosertib-what-rentosertib-really-proves-about-ai-medicine-ai-bloom-abundance-superintelligenc-medical-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: medical poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rentosertib-what-rentosertib-really-proves-about-ai-medicine-ai-bloom-abundance-superintelligenc-medical-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster -book -books" data-ebay-reference="rentosertib-what-rentosertib-really-proves-about-ai-medicine-ai-bloom-abundance-superintelligenc-medical-poster-book-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rentosertib-what-rentosertib-really-proves-about-ai-medicine-ai-bloom-abundance-superintelligenc-medical-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster -book -books" data-ebay-reference="rentosertib-what-rentosertib-really-proves-about-ai-medicine-ai-bloom-abundance-superintelligenc-medical-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage St John Ambulance Medical Anatomical Wall Chart Large Poster Paper/Cloth"><img src="{{ '/assets/images/marketplace-covers/c5ddf8724b31ccb6afd1.jpg' | relative_url }}" alt="Listing image for Vintage St John Ambulance Medical Anatomical Wall Chart Large Poster Paper/Cloth" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rentosertib-what-rentosertib-really-proves-about-ai-medicine-ai-bloom-abundance-superintelligenc-medical-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster -book -books" data-ebay-reference="rentosertib-what-rentosertib-really-proves-about-ai-medicine-ai-bloom-abundance-superintelligenc-medical-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer">Vintage St John Ambulance Medical Anatomical Wall Chart Large Poster Paper/Cloth</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rentosertib-what-rentosertib-really-proves-about-ai-medicine-ai-bloom-abundance-superintelligenc-medical-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster -book -books" data-ebay-reference="rentosertib-what-rentosertib-really-proves-about-ai-medicine-ai-bloom-abundance-superintelligenc-medical-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: medical poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rentosertib-what-rentosertib-really-proves-about-ai-medicine-ai-bloom-abundance-superintelligenc-medical-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster -book -books" data-ebay-reference="rentosertib-what-rentosertib-really-proves-about-ai-medicine-ai-bloom-abundance-superintelligenc-medical-poster-book-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rentosertib-what-rentosertib-really-proves-about-ai-medicine-ai-bloom-abundance-superintelligenc-medical-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster -book -books" data-ebay-reference="rentosertib-what-rentosertib-really-proves-about-ai-medicine-ai-bloom-abundance-superintelligenc-medical-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rentosertib-what-rentosertib-really-proves-about-ai-medicine-ai-bloom-abundance-superintelligenc-medical-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster -book -books" data-ebay-reference="rentosertib-what-rentosertib-really-proves-about-ai-medicine-ai-bloom-abundance-superintelligenc-medical-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage St John Ambulance Medical Anatomical Wall Chart Large Poster Paper/Cloth"><img src="{{ '/assets/images/marketplace-covers/c5ddf8724b31ccb6afd1.jpg' | relative_url }}" alt="Listing image for Vintage St John Ambulance Medical Anatomical Wall Chart Large Poster Paper/Cloth" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rentosertib-what-rentosertib-really-proves-about-ai-medicine-ai-bloom-abundance-superintelligenc-medical-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster -book -books" data-ebay-reference="rentosertib-what-rentosertib-really-proves-about-ai-medicine-ai-bloom-abundance-superintelligenc-medical-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer">Vintage St John Ambulance Medical Anatomical Wall Chart Large Poster Paper/Cloth</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rentosertib-what-rentosertib-really-proves-about-ai-medicine-ai-bloom-abundance-superintelligenc-medical-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster -book -books" data-ebay-reference="rentosertib-what-rentosertib-really-proves-about-ai-medicine-ai-bloom-abundance-superintelligenc-medical-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: medical poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rentosertib-what-rentosertib-really-proves-about-ai-medicine-ai-bloom-abundance-superintelligenc-medical-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster -book -books" data-ebay-reference="rentosertib-what-rentosertib-really-proves-about-ai-medicine-ai-bloom-abundance-superintelligenc-medical-poster-book-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rentosertib-what-rentosertib-really-proves-about-ai-medicine-ai-bloom-abundance-superintelligenc-medical-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster -book -books" data-ebay-reference="rentosertib-what-rentosertib-really-proves-about-ai-medicine-ai-bloom-abundance-superintelligenc-medical-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -590,7 +590,7 @@ The significance of rentosertib is that it has reached that test and produced re
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -610,7 +610,7 @@ The significance of rentosertib is that it has reached that test and produced re
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -642,7 +642,7 @@ The significance of rentosertib is that it has reached that test and produced re
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -694,7 +694,7 @@ The significance of rentosertib is that it has reached that test and produced re
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -739,7 +739,7 @@ The significance of rentosertib is that it has reached that test and produced re
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -780,143 +780,143 @@ The significance of rentosertib is that it has reached that test and produced re
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41591-025-03743-2" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41591-025-03743-2</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A generative AI-discovered TNIK inhibitor for idiopathic...by Z Xu · 2025 · Cited by 110 — A first-in-class AI-generated small-mol...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41591-025-03743-2" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41591-025-03743-2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A generative AI-discovered TNIK inhibitor for idiopathic...by Z Xu · 2025 · Cited by 110 — A first-in-class AI-generated small-mol...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S157018082500199X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S157018082500199X</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AI-driven target discovery and clinical development of...by DH Wang · 2025 · Cited by 2 — In conclusion, rentosertib has of...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S157018082500199X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S157018082500199X</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI-driven target discovery and clinical development of...by DH Wang · 2025 · Cited by 2 — In conclusion, rentosertib has of...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41587-024-02143-0" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41587-024-02143-0</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A small-molecule TNIK inhibitor targets fibrosis in...by F Ren · 2025 · Cited by 322 — We identify TRAF2- and NCK-interacting kina...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41587-024-02143-0" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41587-024-02143-0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A small-molecule TNIK inhibitor targets fibrosis in...by F Ren · 2025 · Cited by 322 — We identify TRAF2- and NCK-interacting kina...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reruption.com  
-   Link: <a href="https://reruption.com/en/knowledge/industry-cases/insilico-medicine-ai-drug-to-phase-ii-in-30-months" target="_blank" rel="noopener noreferrer nofollow">https://reruption.com/en/knowledge/industry-cases/insilico-medicine-ai-drug-to-phase-ii-in-30-months</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Insilico Medicine: AI Drug to Phase II in 30 MonthsInsilico Medicine harnessed generative AI and deep learning via Pharma.AI to...</p></details>
+   Link:<a href="https://reruption.com/en/knowledge/industry-cases/insilico-medicine-ai-drug-to-phase-ii-in-30-months" target="_blank" rel="noopener noreferrer nofollow">https://reruption.com/en/knowledge/industry-cases/insilico-medicine-ai-drug-to-phase-ii-in-30-months</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Insilico Medicine: AI Drug to Phase II in 30 MonthsInsilico Medicine harnessed generative AI and deep learning via Pharma.AI to...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: insilico.com  
-   Link: <a href="https://insilico.com/casestudy" target="_blank" rel="noopener noreferrer nofollow">https://insilico.com/casestudy</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Case Study: Insilico&#x27;s Transformation&quot;A generative AI-discovered TNIK inhibitor for idiopathic pulmonary fibrosis: a randomized phase 2a...</p></details>
+   Link:<a href="https://insilico.com/casestudy" target="_blank" rel="noopener noreferrer nofollow">https://insilico.com/casestudy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Case Study: Insilico&#x27;s Transformation&quot;A generative AI-discovered TNIK inhibitor for idiopathic pulmonary fibrosis: a randomized phase 2a...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ajmc.com  
-   Link: <a href="https://www.ajmc.com/view/ai-derived-therapy-for-ipf-shows-potential-in-phase-2a-trial" target="_blank" rel="noopener noreferrer nofollow">https://www.ajmc.com/view/ai-derived-therapy-for-ipf-shows-potential-in-phase-2a-trial</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AI-Derived Therapy for IPF Shows Potential in Phase 2a TrialJun 14, 2025 — Rentosertib, an AI-discovered TNIK inhibitor, showed safet...</p></details>
+   Link:<a href="https://www.ajmc.com/view/ai-derived-therapy-for-ipf-shows-potential-in-phase-2a-trial" target="_blank" rel="noopener noreferrer nofollow">https://www.ajmc.com/view/ai-derived-therapy-for-ipf-shows-potential-in-phase-2a-trial</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI-Derived Therapy for IPF Shows Potential in Phase 2a TrialJun 14, 2025 — Rentosertib, an AI-discovered TNIK inhibitor, showed safet...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: insilico.com  
-   Link: <a href="https://insilico.com/interactive/drugs/rentosertib" target="_blank" rel="noopener noreferrer nofollow">https://insilico.com/interactive/drugs/rentosertib</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Insilico MedicineRentosertibRentosertib is a potentially first-in-class small molecule developed utilizing generative AI. By inhibiting T...</p></details>
+   Link:<a href="https://insilico.com/interactive/drugs/rentosertib" target="_blank" rel="noopener noreferrer nofollow">https://insilico.com/interactive/drugs/rentosertib</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Insilico MedicineRentosertibRentosertib is a potentially first-in-class small molecule developed utilizing generative AI. By inhibiting T...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: insilico.com  
-   Link: <a href="https://insilico.com/news/pdmncgky51-insilicos-rentosertib-inhalation-solutio" target="_blank" rel="noopener noreferrer nofollow">https://insilico.com/news/pdmncgky51-insilicos-rentosertib-inhalation-solutio</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Insilico&#x27;s Rentosertib Inhalation Solution Receives IND...4 days ago — Following positive Phase IIa results for oral Rentosertib in GENE...</p></details>
+   Link:<a href="https://insilico.com/news/pdmncgky51-insilicos-rentosertib-inhalation-solutio" target="_blank" rel="noopener noreferrer nofollow">https://insilico.com/news/pdmncgky51-insilicos-rentosertib-inhalation-solutio</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Insilico&#x27;s Rentosertib Inhalation Solution Receives IND...4 days ago — Following positive Phase IIa results for oral Rentosertib in GENE...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: insilico.com  
    Title: tnrecuxsc1 insilico announces nature medicine publi  
-   Link: <a href="https://insilico.com/news/tnrecuxsc1-insilico-announces-nature-medicine-publi" target="_blank" rel="noopener noreferrer nofollow">https://insilico.com/news/tnrecuxsc1-insilico-announces-nature-medicine-publi</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Insilico Announces Nature Medicine Publication of Phase...3 Jun 2025 — On June 3, 2025, the industry&#x27;s first proof-of-concept clinical v...</p></details>
+   Link:<a href="https://insilico.com/news/tnrecuxsc1-insilico-announces-nature-medicine-publi" target="_blank" rel="noopener noreferrer nofollow">https://insilico.com/news/tnrecuxsc1-insilico-announces-nature-medicine-publi</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Insilico Announces Nature Medicine Publication of Phase...3 Jun 2025 — On June 3, 2025, the industry&#x27;s first proof-of-concept clinical v...</p></details>
    Published: June 3, 2025  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: insilico.com  
-   Link: <a href="https://insilico.com/pipeline_target_targetx" target="_blank" rel="noopener noreferrer nofollow">https://insilico.com/pipeline_target_targetx</a>  
+   Link:<a href="https://insilico.com/pipeline_target_targetx" target="_blank" rel="noopener noreferrer nofollow">https://insilico.com/pipeline_target_targetx</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: insilico.com  
-   Link: <a href="https://insilico.com/poster_ism001-055_efficacy" target="_blank" rel="noopener noreferrer nofollow">https://insilico.com/poster_ism001-055_efficacy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ISM001-055 EFFICACYA novel AI-designed TNIK inhibitor, improves lung function in patients with idiopathic pulmonary fibrosis: results fro...</p></details>
+   Link:<a href="https://insilico.com/poster_ism001-055_efficacy" target="_blank" rel="noopener noreferrer nofollow">https://insilico.com/poster_ism001-055_efficacy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ISM001-055 EFFICACYA novel AI-designed TNIK inhibitor, improves lung function in patients with idiopathic pulmonary fibrosis: results fro...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: How a Drug Candidate for Rare Diseases Could Be the Key to Living Longer  
-   Link: <a href="https://www.youtube.com/watch?v=wrUU0MrMzIQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wrUU0MrMzIQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Insilico Medicine Documentary: A breakthrough milestone in AI-powered drug discovery reached...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=wrUU0MrMzIQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wrUU0MrMzIQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Insilico Medicine Documentary: A breakthrough milestone in AI-powered drug discovery reached...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=AOJfkDu5nC4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AOJfkDu5nC4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Future of Medicine: An Introduction to Insilico...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=AOJfkDu5nC4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AOJfkDu5nC4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Future of Medicine: An Introduction to Insilico...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: prnewswire.com  
-   Link: <a href="https://www.prnewswire.com/news-releases/insilico-medicine-announces-nature-medicine-publication-of-phase-iia-results-evaluating-rentosertib-the-novel-tnik-inhibitor-for-idiopathic-pulmonary-fibrosis-ipf-discovered-and-designed-with-a-pioneering-ai-approach-302472070.html" target="_blank" rel="noopener noreferrer nofollow">https://www.prnewswire.com/news-releases/insilico-medicine-announces-nature-medicine-publication-of-phase-iia-results-evaluating-rentosertib-the-novel-tnik-inhibitor-for-idiopathic-pulmonary-fibrosis-ipf-discovered-and-designed-with-a-pioneering-ai-approach-302472070.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Insilico Medicine Announces Nature...3 Jun 2025 — Insilico Medicine and collaborators reported promising safety and efficacy results fro...</p></details>
+   Link:<a href="https://www.prnewswire.com/news-releases/insilico-medicine-announces-nature-medicine-publication-of-phase-iia-results-evaluating-rentosertib-the-novel-tnik-inhibitor-for-idiopathic-pulmonary-fibrosis-ipf-discovered-and-designed-with-a-pioneering-ai-approach-302472070.html" target="_blank" rel="noopener noreferrer nofollow">https://www.prnewswire.com/news-releases/insilico-medicine-announces-nature-medicine-publication-of-phase-iia-results-evaluating-rentosertib-the-novel-tnik-inhibitor-for-idiopathic-pulmonary-fibrosis-ipf-discovered-and-designed-with-a-pioneering-ai-approach-302472070.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Insilico Medicine Announces Nature...3 Jun 2025 — Insilico Medicine and collaborators reported promising safety and efficacy results fro...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Rentosertib" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rentosertib</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>RentosertibRentosertib (also known as ISM001‑055 and INS018_055) is an investigational new drug that is being evaluated for the treatm...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Rentosertib" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rentosertib</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RentosertibRentosertib (also known as ISM001‑055 and INS018_055) is an investigational new drug that is being evaluated for the treatm...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: ispeboston.org  
    Title: insilico medicine touts ai driven drug discovery  
-   Link: <a href="https://www.ispeboston.org/insilico-medicine-touts-ai-driven-drug-discovery/" target="_blank" rel="noopener noreferrer nofollow">https://www.ispeboston.org/insilico-medicine-touts-ai-driven-drug-discovery/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In IPF, activation of TNIK drives...Read more...</p></details>
+   Link:<a href="https://www.ispeboston.org/insilico-medicine-touts-ai-driven-drug-discovery/" target="_blank" rel="noopener noreferrer nofollow">https://www.ispeboston.org/insilico-medicine-touts-ai-driven-drug-discovery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In IPF, activation of TNIK drives...Read more...</p></details>
 
 ### Additional References
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: communities.springernature.com  
    Title: ai meets ipf taking an ai designed drug from target discovery to phase iia  
-   Link: <a href="https://communities.springernature.com/posts/ai-meets-ipf-taking-an-ai-designed-drug-from-target-discovery-to-phase-iia" target="_blank" rel="noopener noreferrer nofollow">https://communities.springernature.com/posts/ai-meets-ipf-taking-an-ai-designed-drug-from-target-discovery-to-phase-iia</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Research Communities by Springer NatureTaking an AI-Designed Drug from Target Discovery to Phase IIa3 Jun 2025 — The Phase 2a trial resul...</p></details>
+   Link:<a href="https://communities.springernature.com/posts/ai-meets-ipf-taking-an-ai-designed-drug-from-target-discovery-to-phase-iia" target="_blank" rel="noopener noreferrer nofollow">https://communities.springernature.com/posts/ai-meets-ipf-taking-an-ai-designed-drug-from-target-discovery-to-phase-iia</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Research Communities by Springer NatureTaking an AI-Designed Drug from Target Discovery to Phase IIa3 Jun 2025 — The Phase 2a trial resul...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: pulmonaryfibrosis.org  
-   Link: <a href="https://www.pulmonaryfibrosis.org/patients-caregivers/medical-and-support-resources/clinical-trials-[education" target="_blank" rel="noopener noreferrer nofollow">https://www.pulmonaryfibrosis.org/patients-caregivers/medical-and-support-resources/clinical-trials-[education</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>INS018_055The goal of this clinical trial is to learn about INS018_055 in adults with IPF. The primary objective is to evaluate the safet...</p></details>
+   Link:<a href="https://www.pulmonaryfibrosis.org/patients-caregivers/medical-and-support-resources/clinical-trials-[education" target="_blank" rel="noopener noreferrer nofollow">https://www.pulmonaryfibrosis.org/patients-caregivers/medical-and-support-resources/clinical-trials-[education</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>INS018_055The goal of this clinical trial is to learn about INS018_055 in adults with IPF. The primary objective is to evaluate the safet...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: delta.larvol.com  
-   Link: <a href="https://delta.larvol.com/Products/?ProductId=166deedd-89a6-4968-869f-6ccb340498de" target="_blank" rel="noopener noreferrer nofollow">https://delta.larvol.com/Products/?ProductId=166deedd-89a6-4968-869f-6ccb340498de</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(INS018_055) / Insilico MedicineInsilico&#x27;s Rentosertib Inhalation Solution Receives IND Clearance for the World&#x27;s First AI-Driven Candida...</p></details>
+   Link:<a href="https://delta.larvol.com/Products/?ProductId=166deedd-89a6-4968-869f-6ccb340498de" target="_blank" rel="noopener noreferrer nofollow">https://delta.larvol.com/Products/?ProductId=166deedd-89a6-4968-869f-6ccb340498de</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(INS018_055) / Insilico MedicineInsilico&#x27;s Rentosertib Inhalation Solution Receives IND Clearance for the World&#x27;s First AI-Driven Candida...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/chemistry-ai_first-drug-discovered-and-designed-by-ai-activity-7420332061145817088-ZbJj" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/chemistry-ai_first-drug-discovered-and-designed-by-ai-activity-7420332061145817088-ZbJj</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI-designed drug Rentosertib passes Phase 2a trials in...22 Jan 2026 — First drug discovered and designed by AI! Rentosertib passed Phas...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/chemistry-ai_first-drug-discovered-and-designed-by-ai-activity-7420332061145817088-ZbJj" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/chemistry-ai_first-drug-discovered-and-designed-by-ai-activity-7420332061145817088-ZbJj</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI-designed drug Rentosertib passes Phase 2a trials in...22 Jan 2026 — First drug discovered and designed by AI! Rentosertib passed Phas...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: drugdiscoverytrends.com  
    Title: insilicos ai designed rentosertib shows promise in first phase 2a trial results  
-   Link: <a href="https://www.drugdiscoverytrends.com/insilicos-ai-designed-rentosertib-shows-promise-in-first-phase-2a-trial-results/" target="_blank" rel="noopener noreferrer nofollow">https://www.drugdiscoverytrends.com/insilicos-ai-designed-rentosertib-shows-promise-in-first-phase-2a-trial-results/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Insilico&#x27;s rentosertib clears a phase 2a hurdleJun 5, 2025 — An AI-designed drug, rentosertib, from Insilico Medicine improved lung funct...</p></details>
+   Link:<a href="https://www.drugdiscoverytrends.com/insilicos-ai-designed-rentosertib-shows-promise-in-first-phase-2a-trial-results/" target="_blank" rel="noopener noreferrer nofollow">https://www.drugdiscoverytrends.com/insilicos-ai-designed-rentosertib-shows-promise-in-first-phase-2a-trial-results/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Insilico&#x27;s rentosertib clears a phase 2a hurdleJun 5, 2025 — An AI-designed drug, rentosertib, from Insilico Medicine improved lung funct...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: gmdpacademy.org  
-   Link: <a href="https://gmdpacademy.org/news/a-new-milestone-in-medicines-ai-discovered-rentosertib-advances-to-phase-2a/" target="_blank" rel="noopener noreferrer nofollow">https://gmdpacademy.org/news/a-new-milestone-in-medicines-ai-discovered-rentosertib-advances-to-phase-2a/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI-Discovered Rentosertib Advances to Phase 2aJun 10, 2025 — Rentosertib, as a first-in-class TNIK inhibitor, represents a new therapeuti...</p></details>
+   Link:<a href="https://gmdpacademy.org/news/a-new-milestone-in-medicines-ai-discovered-rentosertib-advances-to-phase-2a/" target="_blank" rel="noopener noreferrer nofollow">https://gmdpacademy.org/news/a-new-milestone-in-medicines-ai-discovered-rentosertib-advances-to-phase-2a/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI-Discovered Rentosertib Advances to Phase 2aJun 10, 2025 — Rentosertib, as a first-in-class TNIK inhibitor, represents a new therapeuti...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: rarediseaseadvisor.com  
    Title: ai discovered drug demonstrates initial safety tolerability ipf  
-   Link: <a href="https://www.rarediseaseadvisor.com/news/ai-discovered-drug-demonstrates-initial-safety-tolerability-ipf/" target="_blank" rel="noopener noreferrer nofollow">https://www.rarediseaseadvisor.com/news/ai-discovered-drug-demonstrates-initial-safety-tolerability-ipf/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI-Discovered Drug Shows Initial Safety and Tolerability in...9 Jun 2025 — Rentosertib, an AI-developed drug, has demonstrated initial s...</p></details>
+   Link:<a href="https://www.rarediseaseadvisor.com/news/ai-discovered-drug-demonstrates-initial-safety-tolerability-ipf/" target="_blank" rel="noopener noreferrer nofollow">https://www.rarediseaseadvisor.com/news/ai-discovered-drug-demonstrates-initial-safety-tolerability-ipf/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI-Discovered Drug Shows Initial Safety and Tolerability in...9 Jun 2025 — Rentosertib, an AI-developed drug, has demonstrated initial s...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: prnewswire.com  
-   Link: <a href="https://www.prnewswire.com/news-releases/insilicos-rentosertib-inhalation-solution-receives-ind-clearance-for-the-worlds-first-ai-driven-candidate-to-enter-direct-to-lung-clinical-study-302755747.html" target="_blank" rel="noopener noreferrer nofollow">https://www.prnewswire.com/news-releases/insilicos-rentosertib-inhalation-solution-receives-ind-clearance-for-the-worlds-first-ai-driven-candidate-to-enter-direct-to-lung-clinical-study-302755747.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SIS-IPF with good tolerability, a favorable PK profile, and dose-dependent...Read more...</p></details>
+   Link:<a href="https://www.prnewswire.com/news-releases/insilicos-rentosertib-inhalation-solution-receives-ind-clearance-for-the-worlds-first-ai-driven-candidate-to-enter-direct-to-lung-clinical-study-302755747.html" target="_blank" rel="noopener noreferrer nofollow">https://www.prnewswire.com/news-releases/insilicos-rentosertib-inhalation-solution-receives-ind-clearance-for-the-worlds-first-ai-driven-candidate-to-enter-direct-to-lung-clinical-study-302755747.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SIS-IPF with good tolerability, a favorable PK profile, and dose-dependent...Read more...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: intuitionlabs.ai  
    Title: ins018 055 phase iia results first ai designed drug  
-   Link: <a href="https://intuitionlabs.ai/pdfs/ins018-055-phase-iia-results-first-ai-designed-drug.pdf" target="_blank" rel="noopener noreferrer nofollow">https://intuitionlabs.ai/pdfs/ins018-055-phase-iia-results-first-ai-designed-drug.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>INS018_055 Phase IIa Results: First AI-Designed DrugApr 18, 2026 — As Insilico&#x27;s July 2023 announcement states, bringing INS018_055 into...</p></details>
+   Link:<a href="https://intuitionlabs.ai/pdfs/ins018-055-phase-iia-results-first-ai-designed-drug.pdf" target="_blank" rel="noopener noreferrer nofollow">https://intuitionlabs.ai/pdfs/ins018-055-phase-iia-results-first-ai-designed-drug.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>INS018_055 Phase IIa Results: First AI-Designed DrugApr 18, 2026 — As Insilico&#x27;s July 2023 announcement states, bringing INS018_055 into...</p></details>
    Published: July 2023  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: drugtargetreview.com  
    Title: first ai designed drug rentosertib named by usan  
-   Link: <a href="https://www.drugtargetreview.com/news/157365/first-ai-designed-drug-rentosertib-named-by-usan/" target="_blank" rel="noopener noreferrer nofollow">https://www.drugtargetreview.com/news/157365/first-ai-designed-drug-rentosertib-named-by-usan/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>First AI-designed drug, Rentosertib, officially named by...Mar 14, 2025 — Insilico Medicine&#x27;s AI-designed drug for idiopathic pulmonary...</p></details>
+   Link:<a href="https://www.drugtargetreview.com/news/157365/first-ai-designed-drug-rentosertib-named-by-usan/" target="_blank" rel="noopener noreferrer nofollow">https://www.drugtargetreview.com/news/157365/first-ai-designed-drug-rentosertib-named-by-usan/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>First AI-designed drug, Rentosertib, officially named by...Mar 14, 2025 — Insilico Medicine&#x27;s AI-designed drug for idiopathic pulmonary...</p></details>

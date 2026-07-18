@@ -288,21 +288,21 @@ image: /assets/images/AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0_ireland_data_716
 
 ## Introduction
 
-Ireland has emerged as a flashpoint in the broader tensions between rapid digital infrastructure growth and climate and [energy]({{ 'energy/' | relative_url }}) system limits. Its unusually high concentration of large data‑centre projects — driven in part by multinational technology investment and the need for cloud and AI computing capacity — is creating a palpable clash between grid capacity constraints, climate law obligations, and national energy policy choices. This dispute matters not only for Ireland’s climate targets and electricity system but also as an early indicator of the kinds of governance challenges that can arise when compute‑intensive infrastructure intersects with clean‑energy transitions elsewhere. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/technology/2026/may/28/irish-datacentres-household-bills-electricity" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Between 2015 and 2023, this demand added an average of €360 to each household&#x27;s electricity bill, totaling €715 million. The report argue...</span></span></span>
+Ireland has emerged as a flashpoint in the broader tensions between rapid digital infrastructure growth and climate and [energy]({{ 'energy/' | relative_url }}) system limits. Its unusually high concentration of large data‑centre projects — driven in part by multinational technology investment and the need for cloud and AI computing capacity — is creating a palpable clash between grid capacity constraints, climate law obligations, and national energy policy choices. This dispute matters not only for Ireland’s climate targets and electricity system but also as an early indicator of the kinds of governance challenges that can arise when compute‑intensive infrastructure intersects with clean‑energy transitions elsewhere.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/technology/2026/may/28/irish-datacentres-household-bills-electricity" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Between 2015 and 2023, this demand added an average of €360 to each household&#x27;s electricity bill, totaling €715 million. The report argue...</span></span></span>
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0_ireland_data_716ee8-Illustration-1-dark.svg" | relative_url }}" alt="Ireland Case illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0_ireland_data_716ee8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0_ireland_data_716ee8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Ireland Became a Data‑Centre Flashpoint
 
-For more than a decade, Ireland has positioned itself as a premier European hub for data centres. The country’s favourable tax regime, availability of skilled ICT labour, and proximity to European markets made it especially attractive for hyperscale data operators. As a result, data centres have grown from a small niche into a cornerstone of Ireland’s digital economy, now consuming an outsized share of national electricity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.irishtimes.com/environment/climate-crisis/2026/04/02/data-centre-expansion-policy-prolongs-reliance-on-fossil-fuels/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: irishtimes.com">[The Irish Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">irishtimes.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+For more than a decade, Ireland has positioned itself as a premier European hub for data centres. The country’s favourable tax regime, availability of skilled ICT labour, and proximity to European markets made it especially attractive for hyperscale data operators. As a result, data centres have grown from a small niche into a cornerstone of Ireland’s digital economy, now consuming an outsized share of national electricity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.irishtimes.com/environment/climate-crisis/2026/04/02/data-centre-expansion-policy-prolongs-reliance-on-fossil-fuels/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: irishtimes.com">[The Irish Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">irishtimes.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
-* **Rapid growth in electricity use:** Data centres accounted for roughly 22 per cent of Ireland’s electricity consumption in 2025 — far above the EU average — and projections suggested that figure could rise further if unchecked. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.irishtimes.com/environment/climate-crisis/2026/04/02/data-centre-expansion-policy-prolongs-reliance-on-fossil-fuels/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: irishtimes.com">[The Irish Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">irishtimes.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-* **Infrastructure lag:** This expansion outpaced planning and upgrades to the national grid, leading to bottlenecks where planned facilities have planning approval but no secure electricity supply. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.irishtimes.com/environment/climate-crisis/2026/04/02/data-centre-expansion-policy-prolongs-reliance-on-fossil-fuels/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: irishtimes.com">[The Irish Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">irishtimes.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+* **Rapid growth in electricity use:** Data centres accounted for roughly 22 per cent of Ireland’s electricity consumption in 2025 — far above the EU average — and projections suggested that figure could rise further if unchecked.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.irishtimes.com/environment/climate-crisis/2026/04/02/data-centre-expansion-policy-prolongs-reliance-on-fossil-fuels/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: irishtimes.com">[The Irish Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">irishtimes.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+* **Infrastructure lag:** This expansion outpaced planning and upgrades to the national grid, leading to bottlenecks where planned facilities have planning approval but no secure electricity supply.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.irishtimes.com/environment/climate-crisis/2026/04/02/data-centre-expansion-policy-prolongs-reliance-on-fossil-fuels/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: irishtimes.com">[The Irish Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">irishtimes.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 </div>
 
-These dynamics created a uniquely acute intersection of digital demand and energy scarcity. Unlike larger [power]({{ 'power/' | relative_url }}) systems where demand growth can be more smoothly absorbed, Ireland’s smaller grid makes the impact of hyperscale loads immediately visible, prompting intense debate about how to balance economic growth with climate and electricity system goals. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.energyireland.ie/energy-demand-and-data-centres-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: energyireland.ie">[energyireland.ie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">energyireland.ie</span><span class="citation-popover-title">Energy demand and data centres – Energy Ireland</span><span class="citation-popover-snippet">January 5, 2026...</span><span class="citation-popover-meta">Published: January 5, 2026</span></span></span>
+These dynamics created a uniquely acute intersection of digital demand and energy scarcity. Unlike larger [power]({{ 'power/' | relative_url }}) systems where demand growth can be more smoothly absorbed, Ireland’s smaller grid makes the impact of hyperscale loads immediately visible, prompting intense debate about how to balance economic growth with climate and electricity system goals.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.energyireland.ie/energy-demand-and-data-centres-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: energyireland.ie">[energyireland.ie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">energyireland.ie</span><span class="citation-popover-title">Energy demand and data centres – Energy Ireland</span><span class="citation-popover-snippet">January 5, 2026...</span><span class="citation-popover-meta">Published: January 5, 2026</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mEAdigVp50M" title="Ireland data centres: Electricity consumption puts pressure on energy grid" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mEAdigVp50M" target="_blank" rel="noopener noreferrer">Ireland data centres: Electricity consumption puts pressure on energy grid</a></p><p class="youtube-embed-meta">Channel: Al Jazeera English &middot; Views: 18.6K &middot; Uploaded: August 2025 &middot; Length: 2 minutes 42 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mEAdigVp50M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mEAdigVp50M">Open on YouTube</a></p></div></div></div>
 
@@ -314,31 +314,31 @@ The policy dispute in Ireland centres on how to permit and manage new data centr
 
 ### New Connection Rules from the Energy Regulator
 
-In December 2025, the Commission for Regulation of Utilities (CRU) published an updated “Large Energy Users Connection Policy” for data centre developers. This policy marks a shift from an informal moratorium on new grid connections towards a more structured — but contested — framework. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.energyireland.ie/irelands-new-large-energy-users-leus-connection-policy-what-it-means-for-the-irish-energy-sector/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: energyireland.ie">[energyireland.ie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">energyireland.ie</span><span class="citation-popover-snippet">March 24, 2026...</span><span class="citation-popover-meta">Published: March 24, 2026</span></span></span>
+In December 2025, the Commission for Regulation of Utilities (CRU) published an updated “Large Energy Users Connection Policy” for data centre developers. This policy marks a shift from an informal moratorium on new grid connections towards a more structured — but contested — framework.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.energyireland.ie/irelands-new-large-energy-users-leus-connection-policy-what-it-means-for-the-irish-energy-sector/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: energyireland.ie">[energyireland.ie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">energyireland.ie</span><span class="citation-popover-snippet">March 24, 2026...</span><span class="citation-popover-meta">Published: March 24, 2026</span></span></span>
 
 Under the new rules:
 
-* A new data centre above a size threshold must provide **on‑site dispatchable generation or storage** sized to meet its peak demand, to avoid adding directly to grid load. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.energyireland.ie/energy-demand-and-data-centres-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: energyireland.ie">[energyireland.ie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">energyireland.ie</span><span class="citation-popover-title">Energy demand and data centres – Energy Ireland</span><span class="citation-popover-snippet">January 5, 2026...</span><span class="citation-popover-meta">Published: January 5, 2026</span></span></span>
-* A phased transition is allowed in which a centre must match a majority of its annual electricity needs with new renewable energy within several years. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.irishtimes.com/environment/climate-crisis/2026/04/02/data-centre-expansion-policy-prolongs-reliance-on-fossil-fuels/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: irishtimes.com">[The Irish Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">irishtimes.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+* A new data centre above a size threshold must provide **on‑site dispatchable generation or storage** sized to meet its peak demand, to avoid adding directly to grid load.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.energyireland.ie/energy-demand-and-data-centres-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: energyireland.ie">[energyireland.ie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">energyireland.ie</span><span class="citation-popover-title">Energy demand and data centres – Energy Ireland</span><span class="citation-popover-snippet">January 5, 2026...</span><span class="citation-popover-meta">Published: January 5, 2026</span></span></span>
+* A phased transition is allowed in which a centre must match a majority of its annual electricity needs with new renewable energy within several years.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.irishtimes.com/environment/climate-crisis/2026/04/02/data-centre-expansion-policy-prolongs-reliance-on-fossil-fuels/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: irishtimes.com">[The Irish Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">irishtimes.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-This reflects a policy attempt to decouple new demand from burdens on the national electricity system. However, it also embeds a **practical reliance on fossil fuels** in the near term because only natural gas‑fired or otherwise dispatchable generation can scale rapidly enough to match these large, inflexible loads. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.irishtimes.com/environment/climate-crisis/2026/04/02/data-centre-expansion-policy-prolongs-reliance-on-fossil-fuels/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: irishtimes.com">[The Irish Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">irishtimes.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+This reflects a policy attempt to decouple new demand from burdens on the national electricity system. However, it also embeds a **practical reliance on fossil fuels** in the near term because only natural gas‑fired or otherwise dispatchable generation can scale rapidly enough to match these large, inflexible loads.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.irishtimes.com/environment/climate-crisis/2026/04/02/data-centre-expansion-policy-prolongs-reliance-on-fossil-fuels/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: irishtimes.com">[The Irish Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">irishtimes.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0_ireland_data_716ee8-Illustration-2-dark.svg" | relative_url }}" alt="Ireland Case illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0_ireland_data_716ee8-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0_ireland_data_716ee8-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Legal Challenge and Climate Law
 
-Environmental groups have mounted formal legal action against the CRU’s connection policy, arguing that it **breaches Ireland’s climate law** and broader European obligations. Lawyers for Friends of the Irish Environment, Friends of the Earth Ireland, and ClientEarth secured High Court leave to challenge the rules on grounds that they would [lock in]({{ 'lock-in/' | relative_url }}) increased greenhouse‑gas emissions and reliance on fossil gas. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.irishtimes.com/environment/climate-crisis/2026/04/02/data-centre-expansion-policy-prolongs-reliance-on-fossil-fuels/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: irishtimes.com">[The Irish Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">irishtimes.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Environmental groups have mounted formal legal action against the CRU’s connection policy, arguing that it **breaches Ireland’s climate law** and broader European obligations. Lawyers for Friends of the Irish Environment, Friends of the Earth Ireland, and ClientEarth secured High Court leave to challenge the rules on grounds that they would [lock in]({{ 'lock-in/' | relative_url }}) increased greenhouse‑gas emissions and reliance on fossil gas.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.irishtimes.com/environment/climate-crisis/2026/04/02/data-centre-expansion-policy-prolongs-reliance-on-fossil-fuels/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: irishtimes.com">[The Irish Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">irishtimes.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 Critics argue:
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
-* The CRU lacks explicit authority under climate legislation to consider emissions impacts in connection decisions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sinnfein.ie/news/supreme-court-ruling-leaves-cru-data-centre-policy-legally-untenable-boylan/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sinnfein.ie">[sinnfein.ie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sinnfein.ie</span><span class="citation-popover-title">Supreme Court ruling leaves CRU data centre policy legally untenable</span><span class="citation-popover-snippet">Boylan - Sinn FéinFebruary 4, 2026...</span><span class="citation-popover-meta">Published: February 4, 2026</span></span></span>
-* The policy’s emissions consequences have not been thoroughly evaluated against legally binding carbon budgets. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.friendsoftheearth.ie/news/government-new-plan-risks-reserving-renewables-for-data-cent/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: friendsoftheearth.ie">[Friends of the Earth]</a><span class="citation-popover" role="note"><span class="citation-popover-source">friendsoftheearth.ie</span><span class="citation-popover-snippet">Friends of the EarthGovernment New Plan Risks Reserving Renewables for Data Centres Instead of Irish Homes and Businesses &#124; Friends of th...</span></span></span>
-* Allowing new fossil‑fuel‑based generation to support compute infrastructure undermines broader decarbonisation targets. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.irishtimes.com/environment/climate-crisis/2026/04/02/data-centre-expansion-policy-prolongs-reliance-on-fossil-fuels/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: irishtimes.com">[The Irish Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">irishtimes.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+* The CRU lacks explicit authority under climate legislation to consider emissions impacts in connection decisions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sinnfein.ie/news/supreme-court-ruling-leaves-cru-data-centre-policy-legally-untenable-boylan/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sinnfein.ie">[sinnfein.ie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sinnfein.ie</span><span class="citation-popover-title">Supreme Court ruling leaves CRU data centre policy legally untenable</span><span class="citation-popover-snippet">Boylan - Sinn FéinFebruary 4, 2026...</span><span class="citation-popover-meta">Published: February 4, 2026</span></span></span>
+* The policy’s emissions consequences have not been thoroughly evaluated against legally binding carbon budgets.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.friendsoftheearth.ie/news/government-new-plan-risks-reserving-renewables-for-data-cent/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: friendsoftheearth.ie">[Friends of the Earth]</a><span class="citation-popover" role="note"><span class="citation-popover-source">friendsoftheearth.ie</span><span class="citation-popover-snippet">Friends of the EarthGovernment New Plan Risks Reserving Renewables for Data Centres Instead of Irish Homes and Businesses &#124; Friends of th...</span></span></span>
+* Allowing new fossil‑fuel‑based generation to support compute infrastructure undermines broader decarbonisation targets.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.irishtimes.com/environment/climate-crisis/2026/04/02/data-centre-expansion-policy-prolongs-reliance-on-fossil-fuels/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: irishtimes.com">[The Irish Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">irishtimes.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 </div>
 
-Proponents of the policy and government stress its role in providing regulatory clarity and enabling continued digital infrastructure investment, which supports jobs and economic activity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.ie/en/department-of-enterprise-tourism-and-employment/press-releases/government-publishes-large-energy-user-action-plan-leap-laying-the-foundation-for-future-investments-in-energy-intensive-sectors/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gov.ie">[gov.ie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gov.ie</span><span class="citation-popover-snippet">ernment publishes Large Energy User Action Plan (LEAP), laying the foundation for future investments in energy intensive sectorsJanuar...</span></span></span>
+Proponents of the policy and government stress its role in providing regulatory clarity and enabling continued digital infrastructure investment, which supports jobs and economic activity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.ie/en/department-of-enterprise-tourism-and-employment/press-releases/government-publishes-large-energy-user-action-plan-leap-laying-the-foundation-for-future-investments-in-energy-intensive-sectors/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gov.ie">[gov.ie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gov.ie</span><span class="citation-popover-snippet">ernment publishes Large Energy User Action Plan (LEAP), laying the foundation for future investments in energy intensive sectorsJanuar...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/w1KIQmLMQ6Q" title="Ireland struggles to manage power for its many data centers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=w1KIQmLMQ6Q" target="_blank" rel="noopener noreferrer">Ireland struggles to manage power for its many data centers</a></p><p class="youtube-embed-meta">Channel: AP Archive &middot; Views: 381 &middot; Uploaded: December 2024 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=w1KIQmLMQ6Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=w1KIQmLMQ6Q">Open on YouTube</a></p></div></div></div>
 
@@ -346,204 +346,204 @@ Proponents of the policy and government stress its role in providing regulatory 
 
 Ireland’s experience highlights several governance challenges that can arise when fast‑growing AI and cloud infrastructure meets physical energy limits and climate law:
 
-* **Grid planning must keep pace with demand growth:** Ireland’s bottleneck illustrates that if energy system upgrades lag behind compute build‑outs, tensions emerge not only around capacity but also around how new demand is met. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.irishtimes.com/environment/climate-crisis/2026/04/02/data-centre-expansion-policy-prolongs-reliance-on-fossil-fuels/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: irishtimes.com">[The Irish Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">irishtimes.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-* **Climate law integration:** Regulatory frameworks that disconnect electricity connection decisions from climate obligations risk legal challenges and policy incoherence, especially when national carbon targets are codified in law. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.irishtimes.com/environment/climate-crisis/2026/04/02/data-centre-expansion-policy-prolongs-reliance-on-fossil-fuels/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: irishtimes.com">[The Irish Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">irishtimes.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-* **Balance of incentives:** Strategies that essentially presuppose intensive new load growth without matching commitments to renewable energy or clearer accounting for emissions may erode public support and undermine broader energy transitions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.friendsoftheearth.ie/news/government-new-plan-risks-reserving-renewables-for-data-cent/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: friendsoftheearth.ie">[Friends of the Earth]</a><span class="citation-popover" role="note"><span class="citation-popover-source">friendsoftheearth.ie</span><span class="citation-popover-snippet">Friends of the EarthGovernment New Plan Risks Reserving Renewables for Data Centres Instead of Irish Homes and Businesses &#124; Friends of th...</span></span></span>
-* **Strategic renewables deployment:** Prioritising renewable capacity in ways that also addresses household and essential service needs, rather than ring‑fencing it for private energy parks, could help align compute growth with broader social and climate goals. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.friendsoftheearth.ie/news/government-new-plan-risks-reserving-renewables-for-data-cent/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: friendsoftheearth.ie">[Friends of the Earth]</a><span class="citation-popover" role="note"><span class="citation-popover-source">friendsoftheearth.ie</span><span class="citation-popover-snippet">Friends of the EarthGovernment New Plan Risks Reserving Renewables for Data Centres Instead of Irish Homes and Businesses &#124; Friends of th...</span></span></span>
+* **Grid planning must keep pace with demand growth:** Ireland’s bottleneck illustrates that if energy system upgrades lag behind compute build‑outs, tensions emerge not only around capacity but also around how new demand is met.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.irishtimes.com/environment/climate-crisis/2026/04/02/data-centre-expansion-policy-prolongs-reliance-on-fossil-fuels/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: irishtimes.com">[The Irish Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">irishtimes.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+* **Climate law integration:** Regulatory frameworks that disconnect electricity connection decisions from climate obligations risk legal challenges and policy incoherence, especially when national carbon targets are codified in law.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.irishtimes.com/environment/climate-crisis/2026/04/02/data-centre-expansion-policy-prolongs-reliance-on-fossil-fuels/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: irishtimes.com">[The Irish Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">irishtimes.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+* **Balance of incentives:** Strategies that essentially presuppose intensive new load growth without matching commitments to renewable energy or clearer accounting for emissions may erode public support and undermine broader energy transitions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.friendsoftheearth.ie/news/government-new-plan-risks-reserving-renewables-for-data-cent/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: friendsoftheearth.ie">[Friends of the Earth]</a><span class="citation-popover" role="note"><span class="citation-popover-source">friendsoftheearth.ie</span><span class="citation-popover-snippet">Friends of the EarthGovernment New Plan Risks Reserving Renewables for Data Centres Instead of Irish Homes and Businesses &#124; Friends of th...</span></span></span>
+* **Strategic renewables deployment:** Prioritising renewable capacity in ways that also addresses household and essential service needs, rather than ring‑fencing it for private energy parks, could help align compute growth with broader social and climate goals.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.friendsoftheearth.ie/news/government-new-plan-risks-reserving-renewables-for-data-cent/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: friendsoftheearth.ie">[Friends of the Earth]</a><span class="citation-popover" role="note"><span class="citation-popover-source">friendsoftheearth.ie</span><span class="citation-popover-snippet">Friends of the EarthGovernment New Plan Risks Reserving Renewables for Data Centres Instead of Irish Homes and Businesses &#124; Friends of th...</span></span></span>
 
-As digital economies expand and demand for AI compute intensifies worldwide, Ireland’s policy and legal clash offers an early case study of the governance challenges that arise when strategic compute infrastructure pushes against physical grid limits and climate commitments. Ensuring that energy transitions and climate law support — rather than get outpaced by — data centre build‑outs will be central to maintaining both economic competitiveness and climate credibility. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/technology/2026/may/28/irish-datacentres-household-bills-electricity" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Between 2015 and 2023, this demand added an average of €360 to each household&#x27;s electricity bill, totaling €715 million. The report argue...</span></span></span>
+As digital economies expand and demand for AI compute intensifies worldwide, Ireland’s policy and legal clash offers an early case study of the governance challenges that arise when strategic compute infrastructure pushes against physical grid limits and climate commitments. Ensuring that energy transitions and climate law support — rather than get outpaced by — data centre build‑outs will be central to maintaining both economic competitiveness and climate credibility.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/technology/2026/may/28/irish-datacentres-household-bills-electricity" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Between 2015 and 2023, this demand added an average of €360 to each household&#x27;s electricity bill, totaling €715 million. The report argue...</span></span></span>
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0_ireland_data_716ee8-Illustration-3-dark.svg" | relative_url }}" alt="Ireland Case illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0_ireland_data_716ee8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0_ireland_data_716ee8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When data centres strain a small grid. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When data centres strain a small grid. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Pragmatic+Programmer+by+Andrew+Hunt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Pragmatic Programmer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5wBQEp6ruIAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Pragmatic Programmer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Pragmatic+Programmer+by+Andrew+Hunt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Pragmatic Programmer">The Pragmatic Programmer</a>
-        </h4>
-        <p class="fr-book-author">By Andrew Hunt, David Thomas</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Emphasises debugging, problem-solving and independent reasoning rather than accepting solutions blindly.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Pragmatic+Programmer+by+Andrew+Hunt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Pragmatic+Programmer+by+Andrew+Hunt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Pragmatic Programmer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5wBQEp6ruIAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Pragmatic Programmer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Pragmatic+Programmer+by+Andrew+Hunt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Pragmatic Programmer">The Pragmatic Programmer</a>
+</h4>
+<p class="fr-book-author">By Andrew Hunt, David Thomas</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Emphasises debugging, problem-solving and independent reasoning rather than accepting solutions blindly.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Pragmatic+Programmer+by+Andrew+Hunt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Coming Wave on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b0y5zwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Coming Wave" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Coming Wave">The Coming Wave</a>
-        </h4>
-        <p class="fr-book-author">By Mustafa Suleyman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Coming Wave on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b0y5zwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Coming Wave" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Coming Wave">The Coming Wave</a>
+</h4>
+<p class="fr-book-author">By Mustafa Suleyman</p>
         
-        <p class="fr-book-desc">Directly addresses whether advanced AI can deliver broad civilisational benefits while remaining governable.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses whether advanced AI can deliver broad civilisational benefits while remaining governable.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human Compatible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BKVPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Human Compatible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human Compatible">Human Compatible</a>
-        </h4>
-        <p class="fr-book-author">By Stuart Russell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human Compatible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BKVPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Human Compatible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human Compatible">Human Compatible</a>
+</h4>
+<p class="fr-book-author">By Stuart Russell</p>
         
-        <p class="fr-book-desc">Explores how powerful AI could advance humanity if aligned with human values.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how powerful AI could advance humanity if aligned with human values.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Think+Like+a+Programmer+by+V.+Anton+Spraul&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Think Like a Programmer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=r6XiBUBERG8C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Think Like a Programmer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Think+Like+a+Programmer+by+V.+Anton+Spraul&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Think Like a Programmer">Think Like a Programmer</a>
-        </h4>
-        <p class="fr-book-author">By V. Anton Spraul</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Think+Like+a+Programmer+by+V.+Anton+Spraul&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Think Like a Programmer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=r6XiBUBERG8C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Think Like a Programmer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Think+Like+a+Programmer+by+V.+Anton+Spraul&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Think Like a Programmer">Think Like a Programmer</a>
+</h4>
+<p class="fr-book-author">By V. Anton Spraul</p>
         
-        <p class="fr-book-desc">Directly focuses on the thinking habits developed through debugging and troubleshooting.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Think+Like+a+Programmer+by+V.+Anton+Spraul&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly focuses on the thinking habits developed through debugging and troubleshooting.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Think+Like+a+Programmer+by+V.+Anton+Spraul&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Pragmatic+Programmer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Pragmatic Programmer</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Coming+Wave&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Coming Wave</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+Compatible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human Compatible</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Pragmatic+Programmer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Pragmatic Programmer</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Coming+Wave&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Coming Wave</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+Compatible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human Compatible</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Ireland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-data-centres-strain-a-small-grid-ireland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Ireland map print" data-ebay-reference="when-data-centres-strain-a-small-grid-ireland-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kitchin 1777 Map Ireland Provinces Counties XL Wall Art Canvas Print"><img src="https://i.ebayimg.com/images/g/GIwAAOSwyfNnR3Ew/s-l225.jpg" alt="Listing image for Kitchin 1777 Map Ireland Provinces Counties XL Wall Art Canvas Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Ireland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-data-centres-strain-a-small-grid-ireland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Ireland map print" data-ebay-reference="when-data-centres-strain-a-small-grid-ireland-map-print" target="_blank" rel="sponsored noopener noreferrer">Kitchin 1777 Map Ireland Provinces Counties XL Wall Art Canvas Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Ireland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-data-centres-strain-a-small-grid-ireland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Ireland map print" data-ebay-reference="when-data-centres-strain-a-small-grid-ireland-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Ireland map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Ireland map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Ireland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-data-centres-strain-a-small-grid-ireland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Ireland map print" data-ebay-reference="when-data-centres-strain-a-small-grid-ireland-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Ireland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-data-centres-strain-a-small-grid-ireland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Ireland map print" data-ebay-reference="when-data-centres-strain-a-small-grid-ireland-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kitchin 1777 Map Ireland Provinces Counties XL Wall Art Canvas Print"><img src="https://i.ebayimg.com/images/g/GIwAAOSwyfNnR3Ew/s-l225.jpg" alt="Listing image for Kitchin 1777 Map Ireland Provinces Counties XL Wall Art Canvas Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Ireland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-data-centres-strain-a-small-grid-ireland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Ireland map print" data-ebay-reference="when-data-centres-strain-a-small-grid-ireland-map-print" target="_blank" rel="sponsored noopener noreferrer">Kitchin 1777 Map Ireland Provinces Counties XL Wall Art Canvas Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Ireland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-data-centres-strain-a-small-grid-ireland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Ireland map print" data-ebay-reference="when-data-centres-strain-a-small-grid-ireland-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Ireland map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Ireland map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Ireland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-data-centres-strain-a-small-grid-ireland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Ireland map print" data-ebay-reference="when-data-centres-strain-a-small-grid-ireland-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Ireland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-data-centres-strain-a-small-grid-ireland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Ireland map print" data-ebay-reference="when-data-centres-strain-a-small-grid-ireland-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for IRELAND map A3 geographical physical political atlas wall poster print"><img src="https://i.ebayimg.com/images/g/4kEAAMXQ71xRX1DA/s-l225.jpg" alt="Listing image for IRELAND map A3 geographical physical political atlas wall poster print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Ireland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-data-centres-strain-a-small-grid-ireland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Ireland map print" data-ebay-reference="when-data-centres-strain-a-small-grid-ireland-map-print" target="_blank" rel="sponsored noopener noreferrer">IRELAND map A3 geographical physical political atlas wall poster print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Ireland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-data-centres-strain-a-small-grid-ireland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Ireland map print" data-ebay-reference="when-data-centres-strain-a-small-grid-ireland-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Ireland map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Ireland map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Ireland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-data-centres-strain-a-small-grid-ireland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Ireland map print" data-ebay-reference="when-data-centres-strain-a-small-grid-ireland-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Ireland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-data-centres-strain-a-small-grid-ireland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Ireland map print" data-ebay-reference="when-data-centres-strain-a-small-grid-ireland-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for IRELAND map A3 geographical physical political atlas wall poster print"><img src="https://i.ebayimg.com/images/g/4kEAAMXQ71xRX1DA/s-l225.jpg" alt="Listing image for IRELAND map A3 geographical physical political atlas wall poster print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Ireland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-data-centres-strain-a-small-grid-ireland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Ireland map print" data-ebay-reference="when-data-centres-strain-a-small-grid-ireland-map-print" target="_blank" rel="sponsored noopener noreferrer">IRELAND map A3 geographical physical political atlas wall poster print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Ireland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-data-centres-strain-a-small-grid-ireland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Ireland map print" data-ebay-reference="when-data-centres-strain-a-small-grid-ireland-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Ireland map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Ireland map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Ireland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-data-centres-strain-a-small-grid-ireland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Ireland map print" data-ebay-reference="when-data-centres-strain-a-small-grid-ireland-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Ireland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-data-centres-strain-a-small-grid-ireland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Ireland map print" data-ebay-reference="when-data-centres-strain-a-small-grid-ireland-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dublin Ireland Black Map Art Print Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/9l8AAeSw~3docxYk/s-l225.jpg" alt="Listing image for Dublin Ireland Black Map Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Ireland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-data-centres-strain-a-small-grid-ireland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Ireland map print" data-ebay-reference="when-data-centres-strain-a-small-grid-ireland-map-print" target="_blank" rel="sponsored noopener noreferrer">Dublin Ireland Black Map Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Ireland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-data-centres-strain-a-small-grid-ireland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Ireland map print" data-ebay-reference="when-data-centres-strain-a-small-grid-ireland-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Ireland map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Ireland map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Ireland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-data-centres-strain-a-small-grid-ireland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Ireland map print" data-ebay-reference="when-data-centres-strain-a-small-grid-ireland-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Ireland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-data-centres-strain-a-small-grid-ireland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Ireland map print" data-ebay-reference="when-data-centres-strain-a-small-grid-ireland-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dublin Ireland Black Map Art Print Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/9l8AAeSw~3docxYk/s-l225.jpg" alt="Listing image for Dublin Ireland Black Map Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Ireland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-data-centres-strain-a-small-grid-ireland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Ireland map print" data-ebay-reference="when-data-centres-strain-a-small-grid-ireland-map-print" target="_blank" rel="sponsored noopener noreferrer">Dublin Ireland Black Map Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Ireland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-data-centres-strain-a-small-grid-ireland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Ireland map print" data-ebay-reference="when-data-centres-strain-a-small-grid-ireland-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Ireland map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Ireland map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Ireland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-data-centres-strain-a-small-grid-ireland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Ireland map print" data-ebay-reference="when-data-centres-strain-a-small-grid-ireland-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Ireland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-data-centres-strain-a-small-grid-ireland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Ireland map print" data-ebay-reference="when-data-centres-strain-a-small-grid-ireland-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for United Kingdom UK Map Northern Ireland Map Wall Poster Print Optional Laminated"><img src="https://i.ebayimg.com/images/g/yd4AAeSwJBpoxU6j/s-l225.jpg" alt="Listing image for United Kingdom UK Map Northern Ireland Map Wall Poster Print Optional Laminated" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Ireland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-data-centres-strain-a-small-grid-ireland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Ireland map print" data-ebay-reference="when-data-centres-strain-a-small-grid-ireland-map-print" target="_blank" rel="sponsored noopener noreferrer">United Kingdom UK Map Northern Ireland Map Wall Poster Print Optional Laminated</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Ireland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-data-centres-strain-a-small-grid-ireland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Ireland map print" data-ebay-reference="when-data-centres-strain-a-small-grid-ireland-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Ireland map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Ireland map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Ireland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-data-centres-strain-a-small-grid-ireland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Ireland map print" data-ebay-reference="when-data-centres-strain-a-small-grid-ireland-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Ireland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-data-centres-strain-a-small-grid-ireland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Ireland map print" data-ebay-reference="when-data-centres-strain-a-small-grid-ireland-map-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Ireland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-data-centres-strain-a-small-grid-ireland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Ireland map print" data-ebay-reference="when-data-centres-strain-a-small-grid-ireland-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for United Kingdom UK Map Northern Ireland Map Wall Poster Print Optional Laminated"><img src="https://i.ebayimg.com/images/g/yd4AAeSwJBpoxU6j/s-l225.jpg" alt="Listing image for United Kingdom UK Map Northern Ireland Map Wall Poster Print Optional Laminated" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Ireland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-data-centres-strain-a-small-grid-ireland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Ireland map print" data-ebay-reference="when-data-centres-strain-a-small-grid-ireland-map-print" target="_blank" rel="sponsored noopener noreferrer">United Kingdom UK Map Northern Ireland Map Wall Poster Print Optional Laminated</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Ireland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-data-centres-strain-a-small-grid-ireland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Ireland map print" data-ebay-reference="when-data-centres-strain-a-small-grid-ireland-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Ireland map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Ireland map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Ireland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-data-centres-strain-a-small-grid-ireland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Ireland map print" data-ebay-reference="when-data-centres-strain-a-small-grid-ireland-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Ireland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-data-centres-strain-a-small-grid-ireland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Ireland map print" data-ebay-reference="when-data-centres-strain-a-small-grid-ireland-map-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -559,7 +559,7 @@ As digital economies expand and demand for AI compute intensifies worldwide, Ire
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -579,7 +579,7 @@ As digital economies expand and demand for AI compute intensifies worldwide, Ire
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -611,7 +611,7 @@ As digital economies expand and demand for AI compute intensifies worldwide, Ire
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -663,7 +663,7 @@ As digital economies expand and demand for AI compute intensifies worldwide, Ire
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -708,7 +708,7 @@ As digital economies expand and demand for AI compute intensifies worldwide, Ire
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -749,162 +749,162 @@ As digital economies expand and demand for AI compute intensifies worldwide, Ire
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: energyireland.ie  
    Title: Energy demand and data centres – Energy Ireland  
-   Link: <a href="https://www.energyireland.ie/energy-demand-and-data-centres-2/" target="_blank" rel="noopener noreferrer nofollow">https://www.energyireland.ie/energy-demand-and-data-centres-2/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>January 5, 2026...</p></details>
+   Link:<a href="https://www.energyireland.ie/energy-demand-and-data-centres-2/" target="_blank" rel="noopener noreferrer nofollow">https://www.energyireland.ie/energy-demand-and-data-centres-2/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>January 5, 2026...</p></details>
    Published: January 5, 2026  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: energyireland.ie  
-   Link: <a href="https://www.energyireland.ie/irelands-new-large-energy-users-leus-connection-policy-what-it-means-for-the-irish-energy-sector/" target="_blank" rel="noopener noreferrer nofollow">https://www.energyireland.ie/irelands-new-large-energy-users-leus-connection-policy-what-it-means-for-the-irish-energy-sector/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>March 24, 2026...</p></details>
+   Link:<a href="https://www.energyireland.ie/irelands-new-large-energy-users-leus-connection-policy-what-it-means-for-the-irish-energy-sector/" target="_blank" rel="noopener noreferrer nofollow">https://www.energyireland.ie/irelands-new-large-energy-users-leus-connection-policy-what-it-means-for-the-irish-energy-sector/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>March 24, 2026...</p></details>
    Published: March 24, 2026  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: sinnfein.ie  
    Title: Supreme Court ruling leaves CRU data centre policy legally untenable  
-   Link: <a href="https://sinnfein.ie/news/supreme-court-ruling-leaves-cru-data-centre-policy-legally-untenable-boylan/" target="_blank" rel="noopener noreferrer nofollow">https://sinnfein.ie/news/supreme-court-ruling-leaves-cru-data-centre-policy-legally-untenable-boylan/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Boylan - Sinn FéinFebruary 4, 2026...</p></details>
+   Link:<a href="https://sinnfein.ie/news/supreme-court-ruling-leaves-cru-data-centre-policy-legally-untenable-boylan/" target="_blank" rel="noopener noreferrer nofollow">https://sinnfein.ie/news/supreme-court-ruling-leaves-cru-data-centre-policy-legally-untenable-boylan/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Boylan - Sinn FéinFebruary 4, 2026...</p></details>
    Published: February 4, 2026  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: gov.ie  
-   Link: <a href="https://www.gov.ie/en/department-of-enterprise-tourism-and-employment/press-releases/government-publishes-large-energy-user-action-plan-leap-laying-the-foundation-for-future-investments-in-energy-intensive-sectors/" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.ie/en/department-of-enterprise-tourism-and-employment/press-releases/government-publishes-large-energy-user-action-plan-leap-laying-the-foundation-for-future-investments-in-energy-intensive-sectors/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ernment publishes Large Energy User Action Plan (LEAP), laying the foundation for future investments in energy intensive sectorsJanuar...</p></details>
+   Link:<a href="https://www.gov.ie/en/department-of-enterprise-tourism-and-employment/press-releases/government-publishes-large-energy-user-action-plan-leap-laying-the-foundation-for-future-investments-in-energy-intensive-sectors/" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.ie/en/department-of-enterprise-tourism-and-employment/press-releases/government-publishes-large-energy-user-action-plan-leap-laying-the-foundation-for-future-investments-in-energy-intensive-sectors/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ernment publishes Large Energy User Action Plan (LEAP), laying the foundation for future investments in energy intensive sectorsJanuar...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: clientearth.org  
-   Link: <a href="https://www.clientearth.org/latest/press-office/irish-energy-regulator-sued-over-latest-data-centre-decision-amidst-climate-and-energy-concerns/" target="_blank" rel="noopener noreferrer nofollow">https://www.clientearth.org/latest/press-office/irish-energy-regulator-sued-over-latest-data-centre-decision-amidst-climate-and-energy-concerns/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Irish energy regulator sued over latest data centre decision amidst climate and energy concerns | ClientEarthApril 27, 2026 — IRISH ENERG...</p></details>
+   Link:<a href="https://www.clientearth.org/latest/press-office/irish-energy-regulator-sued-over-latest-data-centre-decision-amidst-climate-and-energy-concerns/" target="_blank" rel="noopener noreferrer nofollow">https://www.clientearth.org/latest/press-office/irish-energy-regulator-sued-over-latest-data-centre-decision-amidst-climate-and-energy-concerns/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Irish energy regulator sued over latest data centre decision amidst climate and energy concerns | ClientEarthApril 27, 2026 — IRISH ENERG...</p></details>
    Published: April 27, 2026  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: sinnfein.ie  
    Title: Government’s reckless approach to data centres places energy security at risk  
-   Link: <a href="https://sinnfein.ie/news/governments-reckless-approach-to-data-centres-places-energy-security-at-risk-pa-daly-td/" target="_blank" rel="noopener noreferrer nofollow">https://sinnfein.ie/news/governments-reckless-approach-to-data-centres-places-energy-security-at-risk-pa-daly-td/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pa Daly TD - Sinn FéinFebruary 26, 2026 — GOVERNMENT’S RECKLESS APPROACH TO DATA CENTRES PLACES ENERGY SECURITY AT RISK – PA DALY TD 26 F...</p></details>
+   Link:<a href="https://sinnfein.ie/news/governments-reckless-approach-to-data-centres-places-energy-security-at-risk-pa-daly-td/" target="_blank" rel="noopener noreferrer nofollow">https://sinnfein.ie/news/governments-reckless-approach-to-data-centres-places-energy-security-at-risk-pa-daly-td/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pa Daly TD - Sinn FéinFebruary 26, 2026 — GOVERNMENT’S RECKLESS APPROACH TO DATA CENTRES PLACES ENERGY SECURITY AT RISK – PA DALY TD 26 F...</p></details>
    Published: February 26, 2026  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: labour.ie  
    Title: Government’s limp data centre regulations will cost working families  
-   Link: <a href="https://labour.ie/news/2025/07/10/governments-limp-data-centre-regulations-will-cost-working-families/" target="_blank" rel="noopener noreferrer nofollow">https://labour.ie/news/2025/07/10/governments-limp-data-centre-regulations-will-cost-working-families/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Labour PartyJuly 10, 2025 — GOVERNMENT’S LIMP DATA CENTRE REGULATIONS WILL COST WORKING FAMILIES Image CIARÁN AHERN 10 July 2025 GOVE...</p></details>
+   Link:<a href="https://labour.ie/news/2025/07/10/governments-limp-data-centre-regulations-will-cost-working-families/" target="_blank" rel="noopener noreferrer nofollow">https://labour.ie/news/2025/07/10/governments-limp-data-centre-regulations-will-cost-working-families/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Labour PartyJuly 10, 2025 — GOVERNMENT’S LIMP DATA CENTRE REGULATIONS WILL COST WORKING FAMILIES Image CIARÁN AHERN 10 July 2025 GOVE...</p></details>
    Published: July 10, 2025  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: labour.ie  
    Title: Ahern Welcomes ABP Refusal of Gas Guzzling Data Centre  
-   Link: <a href="https://labour.ie/news/2025/03/03/ahern-welcomes-abp-refusal-of-gas-guzzling-data-centre/" target="_blank" rel="noopener noreferrer nofollow">https://labour.ie/news/2025/03/03/ahern-welcomes-abp-refusal-of-gas-guzzling-data-centre/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Labour PartyMarch 3, 2025 — AHERN WELCOMES ABP REFUSAL OF GAS GUZZLING DATA CENTRE Image CIARÁN AHERN 03 March 2025 AHERN WELCOMES AB...</p></details>
+   Link:<a href="https://labour.ie/news/2025/03/03/ahern-welcomes-abp-refusal-of-gas-guzzling-data-centre/" target="_blank" rel="noopener noreferrer nofollow">https://labour.ie/news/2025/03/03/ahern-welcomes-abp-refusal-of-gas-guzzling-data-centre/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Labour PartyMarch 3, 2025 — AHERN WELCOMES ABP REFUSAL OF GAS GUZZLING DATA CENTRE Image CIARÁN AHERN 03 March 2025 AHERN WELCOMES AB...</p></details>
    Published: March 3, 2025  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: gov.ie  
    Title: www.gov.ie Energy  
-   Link: <a href="https://www.gov.ie/en/department-of-climate-energy-and-the-environment/policies/energy/" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.ie/en/department-of-climate-energy-and-the-environment/policies/energy/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>12, 2020 — Policy ENERGY * From: Department of Climate, Energy and the Environment * Published on: 12 June 2020 * Last updated on: 22 Oct...</p></details>
+   Link:<a href="https://www.gov.ie/en/department-of-climate-energy-and-the-environment/policies/energy/" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.ie/en/department-of-climate-energy-and-the-environment/policies/energy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>12, 2020 — Policy ENERGY * From: Department of Climate, Energy and the Environment * Published on: 12 June 2020 * Last updated on: 22 Oct...</p></details>
    Published: June 2020  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/technology/2026/may/28/irish-datacentres-household-bills-electricity" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2026/may/28/irish-datacentres-household-bills-electricity</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Between 2015 and 2023, this demand added an average of €360 to each household&#x27;s electricity bill, totaling €715 million. The report argue...</p></details>
+   Link:<a href="https://www.theguardian.com/technology/2026/may/28/irish-datacentres-household-bills-electricity" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2026/may/28/irish-datacentres-household-bills-electricity</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Between 2015 and 2023, this demand added an average of €360 to each household&#x27;s electricity bill, totaling €715 million. The report argue...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: irishtimes.com  
-   Link: <a href="https://www.irishtimes.com/environment/climate-crisis/2026/04/02/data-centre-expansion-policy-prolongs-reliance-on-fossil-fuels/" target="_blank" rel="noopener noreferrer nofollow">https://www.irishtimes.com/environment/climate-crisis/2026/04/02/data-centre-expansion-policy-prolongs-reliance-on-fossil-fuels/</a>  
+   Link:<a href="https://www.irishtimes.com/environment/climate-crisis/2026/04/02/data-centre-expansion-policy-prolongs-reliance-on-fossil-fuels/" target="_blank" rel="noopener noreferrer nofollow">https://www.irishtimes.com/environment/climate-crisis/2026/04/02/data-centre-expansion-policy-prolongs-reliance-on-fossil-fuels/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: irishtimes.com  
-   Link: <a href="https://www.irishtimes.com/opinion/editorials/2026/01/15/the-irish-times-view-on-data-centres-questions-still-to-be-answered/" target="_blank" rel="noopener noreferrer nofollow">https://www.irishtimes.com/opinion/editorials/2026/01/15/the-irish-times-view-on-data-centres-questions-still-to-be-answered/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Irish TimesThe Irish Times view on data centres: questions still to be answered – The Irish TimesJanuary 15, 2026...</p></details>
+   Link:<a href="https://www.irishtimes.com/opinion/editorials/2026/01/15/the-irish-times-view-on-data-centres-questions-still-to-be-answered/" target="_blank" rel="noopener noreferrer nofollow">https://www.irishtimes.com/opinion/editorials/2026/01/15/the-irish-times-view-on-data-centres-questions-still-to-be-answered/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Irish TimesThe Irish Times view on data centres: questions still to be answered – The Irish TimesJanuary 15, 2026...</p></details>
    Published: January 15, 2026  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: irishtimes.com  
-   Link: <a href="https://www.irishtimes.com/ireland/2025/10/13/data-centres-costing-56bn-have-planning-approval-but-no-power-industry-warns/" target="_blank" rel="noopener noreferrer nofollow">https://www.irishtimes.com/ireland/2025/10/13/data-centres-costing-56bn-have-planning-approval-but-no-power-industry-warns/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Irish TimesData centres costing €5.6bn have planning approval but no electricity, industry warns – The Irish TimesOctober 13, 2025...</p></details>
+   Link:<a href="https://www.irishtimes.com/ireland/2025/10/13/data-centres-costing-56bn-have-planning-approval-but-no-power-industry-warns/" target="_blank" rel="noopener noreferrer nofollow">https://www.irishtimes.com/ireland/2025/10/13/data-centres-costing-56bn-have-planning-approval-but-no-power-industry-warns/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Irish TimesData centres costing €5.6bn have planning approval but no electricity, industry warns – The Irish TimesOctober 13, 2025...</p></details>
    Published: October 13, 2025  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: irishtimes.com  
-   Link: <a href="https://www.irishtimes.com/ireland/2026/04/28/environmental-groups-granted-leave-to-challenge-data-centre-policy/" target="_blank" rel="noopener noreferrer nofollow">https://www.irishtimes.com/ireland/2026/04/28/environmental-groups-granted-leave-to-challenge-data-centre-policy/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Irish TimesEnvironmental groups granted leave to challenge data centre policy – The Irish TimesApril 28, 2026...</p></details>
+   Link:<a href="https://www.irishtimes.com/ireland/2026/04/28/environmental-groups-granted-leave-to-challenge-data-centre-policy/" target="_blank" rel="noopener noreferrer nofollow">https://www.irishtimes.com/ireland/2026/04/28/environmental-groups-granted-leave-to-challenge-data-centre-policy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Irish TimesEnvironmental groups granted leave to challenge data centre policy – The Irish TimesApril 28, 2026...</p></details>
    Published: April 28, 2026  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: friendsoftheearth.ie  
-   Link: <a href="https://www.friendsoftheearth.ie/news/government-new-plan-risks-reserving-renewables-for-data-cent/" target="_blank" rel="noopener noreferrer nofollow">https://www.friendsoftheearth.ie/news/government-new-plan-risks-reserving-renewables-for-data-cent/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Friends of the EarthGovernment New Plan Risks Reserving Renewables for Data Centres Instead of Irish Homes and Businesses | Friends of th...</p></details>
+   Link:<a href="https://www.friendsoftheearth.ie/news/government-new-plan-risks-reserving-renewables-for-data-cent/" target="_blank" rel="noopener noreferrer nofollow">https://www.friendsoftheearth.ie/news/government-new-plan-risks-reserving-renewables-for-data-cent/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Friends of the EarthGovernment New Plan Risks Reserving Renewables for Data Centres Instead of Irish Homes and Businesses | Friends of th...</p></details>
 
 ### Additional References
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: decisis.ie  
-   Link: <a href="https://decisis.ie/judicial-review-of-data-centre-planning-permission-refused-as-climate-law-arguments-and-bat-roost-concerns-rejected" target="_blank" rel="noopener noreferrer nofollow">https://decisis.ie/judicial-review-of-data-centre-planning-permission-refused-as-climate-law-arguments-and-bat-roost-concerns-rejected</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 26, 2026 — JUDICIAL REVIEW OF DATA CENTRE PLANNING PERMISSION REFUSED AS CLIMATE LAW ARGUMENTS AND BAT ROOST CONCERNS REJECTED The Hi...</p></details>
+   Link:<a href="https://decisis.ie/judicial-review-of-data-centre-planning-permission-refused-as-climate-law-arguments-and-bat-roost-concerns-rejected" target="_blank" rel="noopener noreferrer nofollow">https://decisis.ie/judicial-review-of-data-centre-planning-permission-refused-as-climate-law-arguments-and-bat-roost-concerns-rejected</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 26, 2026 — JUDICIAL REVIEW OF DATA CENTRE PLANNING PERMISSION REFUSED AS CLIMATE LAW ARGUMENTS AND BAT ROOST CONCERNS REJECTED The Hi...</p></details>
    Published: May 26, 2026  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: irishtimes.com  
-   Link: <a href="https://www.irishtimes.com/special-reports/2026/04/30/solving-the-data-centre-sustainability-equation/" target="_blank" rel="noopener noreferrer nofollow">https://www.irishtimes.com/special-reports/2026/04/30/solving-the-data-centre-sustainability-equation/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>April 30, 2026 — HIGH COURT RULING PAVES WAY FOR GREEN DATA CENTRES, BUT FOSSIL FUEL CONCERNS REMAIN SOME ESTIMATE THAT DATA CENTRES MAY...</p></details>
+   Link:<a href="https://www.irishtimes.com/special-reports/2026/04/30/solving-the-data-centre-sustainability-equation/" target="_blank" rel="noopener noreferrer nofollow">https://www.irishtimes.com/special-reports/2026/04/30/solving-the-data-centre-sustainability-equation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>April 30, 2026 — HIGH COURT RULING PAVES WAY FOR GREEN DATA CENTRES, BUT FOSSIL FUEL CONCERNS REMAIN SOME ESTIMATE THAT DATA CENTRES MAY...</p></details>
    Published: April 30, 2026  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: Tech Policy Press  
    Title: What Ireland’s Data Center Crisis Means for the EU’s AI Sovereignty Plans  
-   Link: <a href="https://techpolicy.press/what-irelands-data-center-crisis-means-for-the-eus-ai-sovereignty-plans" target="_blank" rel="noopener noreferrer nofollow">https://techpolicy.press/what-irelands-data-center-crisis-means-for-the-eus-ai-sovereignty-plans</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>December 31, 2025 — Louis Boyd-Madsen traces how a model of unregulated digital growth has outpaced energy planning in Ireland, and why i...</p></details>
+   Link:<a href="https://techpolicy.press/what-irelands-data-center-crisis-means-for-the-eus-ai-sovereignty-plans" target="_blank" rel="noopener noreferrer nofollow">https://techpolicy.press/what-irelands-data-center-crisis-means-for-the-eus-ai-sovereignty-plans</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>December 31, 2025 — Louis Boyd-Madsen traces how a model of unregulated digital growth has outpaced energy planning in Ireland, and why i...</p></details>
    Published: December 31, 2025  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: breakingnews.ie  
    Title: Rising data centre demand offsetting green power gains, watchdog warns  
-   Link: <a href="https://www.breakingnews.ie/ireland/rising-data-centre-demand-offsetting-green-power-gains-watchdog-warns-1899166.html" target="_blank" rel="noopener noreferrer nofollow">https://www.breakingnews.ie/ireland/rising-data-centre-demand-offsetting-green-power-gains-watchdog-warns-1899166.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 13, 2026 — ireland RISING DATA CENTRE DEMAND OFFSETTING GREEN POWER GAINS, WATCHDOG WARNS 13/05/2026 - 06:39 AM Image: Rising Data Ce...</p></details>
+   Link:<a href="https://www.breakingnews.ie/ireland/rising-data-centre-demand-offsetting-green-power-gains-watchdog-warns-1899166.html" target="_blank" rel="noopener noreferrer nofollow">https://www.breakingnews.ie/ireland/rising-data-centre-demand-offsetting-green-power-gains-watchdog-warns-1899166.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 13, 2026 — ireland RISING DATA CENTRE DEMAND OFFSETTING GREEN POWER GAINS, WATCHDOG WARNS 13/05/2026 - 06:39 AM Image: Rising Data Ce...</p></details>
    Published: May 13, 2026  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: siliconrepublic.com  
    Title: Ireland hopes to grow data centre investments with new LEAP strategy  
-   Link: <a href="https://www.siliconrepublic.com/business/ireland-leap-data-centres-electricity-energy-growth" target="_blank" rel="noopener noreferrer nofollow">https://www.siliconrepublic.com/business/ireland-leap-data-centres-electricity-energy-growth</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>January 31, 2026 — By reducing constraints, Ireland hopes to invite energy-intensive companies, including data centres, to invest in the...</p></details>
+   Link:<a href="https://www.siliconrepublic.com/business/ireland-leap-data-centres-electricity-energy-growth" target="_blank" rel="noopener noreferrer nofollow">https://www.siliconrepublic.com/business/ireland-leap-data-centres-electricity-energy-growth</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>January 31, 2026 — By reducing constraints, Ireland hopes to invite energy-intensive companies, including data centres, to invest in the...</p></details>
    Published: January 31, 2026  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: williamfry.com  
    Title: CR U Publishes Long Awaited Final Policy on Data Centre Connections  
-   Link: <a href="https://www.williamfry.com/knowledge/cru-publishes-long-awaited-final-policy-on-data-centre-connections/" target="_blank" rel="noopener noreferrer nofollow">https://www.williamfry.com/knowledge/cru-publishes-long-awaited-final-policy-on-data-centre-connections/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CRU Publishes Long Awaited Final Policy on Data Centre ConnectionsDecember 31, 2025 — Since 2015, Ireland&#x27;s annual data centre electricit...</p></details>
+   Link:<a href="https://www.williamfry.com/knowledge/cru-publishes-long-awaited-final-policy-on-data-centre-connections/" target="_blank" rel="noopener noreferrer nofollow">https://www.williamfry.com/knowledge/cru-publishes-long-awaited-final-policy-on-data-centre-connections/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CRU Publishes Long Awaited Final Policy on Data Centre ConnectionsDecember 31, 2025 — Since 2015, Ireland&#x27;s annual data centre electricit...</p></details>
    Published: December 31, 2025  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: funds-europe.com  
    Title: Schroders Greencoat launches green digital infrastructure platform  
-   Link: <a href="https://funds-europe.com/schroders-greencoat-launches-green-digital-infrastructure-platform/" target="_blank" rel="noopener noreferrer nofollow">https://funds-europe.com/schroders-greencoat-launches-green-digital-infrastructure-platform/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>March 31, 2026 — Schroders Greencoat, the energy transition infrastructure manager of Schroders Capital, has launched a green digital inf...</p></details>
+   Link:<a href="https://funds-europe.com/schroders-greencoat-launches-green-digital-infrastructure-platform/" target="_blank" rel="noopener noreferrer nofollow">https://funds-europe.com/schroders-greencoat-launches-green-digital-infrastructure-platform/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>March 31, 2026 — Schroders Greencoat, the energy transition infrastructure manager of Schroders Capital, has launched a green digital inf...</p></details>
    Published: March 31, 2026  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: kpmg.com  
    Title: Ireland’s data centre policy reset: Europe digital infrastructure  
-   Link: <a href="https://kpmg.com/ie/en/insights/energy-utilities-telecoms/irelands-data-centre-policy-reset.html" target="_blank" rel="noopener noreferrer nofollow">https://kpmg.com/ie/en/insights/energy-utilities-telecoms/irelands-data-centre-policy-reset.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>February 28, 2026 — Data centres have become an important pillar of Ireland&#x27;s digital economy, placing Dublin at the centre of Europe&#x27;s d...</p></details>
+   Link:<a href="https://kpmg.com/ie/en/insights/energy-utilities-telecoms/irelands-data-centre-policy-reset.html" target="_blank" rel="noopener noreferrer nofollow">https://kpmg.com/ie/en/insights/energy-utilities-telecoms/irelands-data-centre-policy-reset.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>February 28, 2026 — Data centres have become an important pillar of Ireland&#x27;s digital economy, placing Dublin at the centre of Europe&#x27;s d...</p></details>
    Published: February 28, 2026  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: addleshawgoddard.com  
-   Link: <a href="https://www.addleshawgoddard.com/en/insights/insights-briefings/2025/real-estate/future-data-centres-ireland/" target="_blank" rel="noopener noreferrer nofollow">https://www.addleshawgoddard.com/en/insights/insights-briefings/2025/real-estate/future-data-centres-ireland/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>THE FUTURE OF DATA CENTRES IN IRELANDOctober 31, 2025 — Data centre development has become a significant industry in Ireland over the las...</p></details>
+   Link:<a href="https://www.addleshawgoddard.com/en/insights/insights-briefings/2025/real-estate/future-data-centres-ireland/" target="_blank" rel="noopener noreferrer nofollow">https://www.addleshawgoddard.com/en/insights/insights-briefings/2025/real-estate/future-data-centres-ireland/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THE FUTURE OF DATA CENTRES IN IRELANDOctober 31, 2025 — Data centre development has become a significant industry in Ireland over the las...</p></details>
    Published: October 31, 2025  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: pinsentmasons.com  
    Title: Data centre projects in Ireland face legal challenge impact  
-   Link: <a href="https://www.pinsentmasons.com/out-law/news/data-centre-projects-in-ireland-face-legal-challenge-impact" target="_blank" rel="noopener noreferrer nofollow">https://www.pinsentmasons.com/out-law/news/data-centre-projects-in-ireland-face-legal-challenge-impact</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>March 31, 2026 — Data centre development in Ireland could stall as a result of legal action lodged by environmental activists, experts ha...</p></details>
+   Link:<a href="https://www.pinsentmasons.com/out-law/news/data-centre-projects-in-ireland-face-legal-challenge-impact" target="_blank" rel="noopener noreferrer nofollow">https://www.pinsentmasons.com/out-law/news/data-centre-projects-in-ireland-face-legal-challenge-impact</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>March 31, 2026 — Data centre development in Ireland could stall as a result of legal action lodged by environmental activists, experts ha...</p></details>
    Published: March 31, 2026

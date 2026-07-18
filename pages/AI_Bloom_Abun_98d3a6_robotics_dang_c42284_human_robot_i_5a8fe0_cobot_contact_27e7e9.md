@@ -282,15 +282,15 @@ Traditional industrial robots operate behind physical guards. Safety barriers, l
 
 ISO/TS 15066 (supplementing ISO 10218) describes four interoperable modes of collaborative operation, each serving to prevent dangerous contact through distinct mechanisms:<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.robolist.ai/industry-knowledge/cobot/force-limited-safety-iso-ts-15066" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: robolist.ai">[robolist.ai]</a><span class="citation-popover" role="note"><span class="citation-popover-source">robolist.ai</span><span class="citation-popover-title">force limited safety iso ts 15066</span><span class="citation-popover-snippet">ISO/TS 15066 in Practice: Cobot Force and Pressure Limits Explained — Robolist.aiMay 12, 2026...</span><span class="citation-popover-meta">Published: May 12, 2026</span></span></span>
 
-**1. Safety‑rated monitored stop (SMS)** <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mdpi.com/2218-6581/14/4/41" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[mdpi.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-title">Perception and Computation for Speed and Separation Monitoring Architectures</span><span class="citation-popover-snippet">SAFETY-RATED MONITORED STOP As previously mentioned, safety-rated monitor stop defines a safe stop state in which the robot actions are s...</span></span></span>
+**1. Safety‑rated monitored stop (SMS)**<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mdpi.com/2218-6581/14/4/41" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[mdpi.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-title">Perception and Computation for Speed and Separation Monitoring Architectures</span><span class="citation-popover-snippet">SAFETY-RATED MONITORED STOP As previously mentioned, safety-rated monitor stop defines a safe stop state in which the robot actions are s...</span></span></span>
 
 In this basic mode, the robot **halts motion whenever a human enters the designated collaborative workspace**. Presence sensors such as *light curtains*, *area scanners* or *pressure mats* detect when someone crosses into a zone, and the robot immediately enters a safety‑certified stop. Because motion ceases before a human is close enough to be struck, **contact does not occur** during collaborative operation.[Robotomated]
 
-**2. Hand guiding** <span class="citation-chip-wrap"><a class="citation-chip" href="https://studylib.net/doc/27627297/iso-ts-15066-2016-en-" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: studylib.net">[studylib.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">studylib.net</span><span class="citation-popover-title">8 5.5.3 Hand guiding</span><span class="citation-popover-snippet">ISO/TS 15066: Collaborative Robot Safety SpecificationFebruary 15, 2016 — 7 5.5.2 Safety-rated monitored stop...</span><span class="citation-popover-meta">Published: February 15, 2016</span></span></span>
+**2. Hand guiding**<span class="citation-chip-wrap"><a class="citation-chip" href="https://studylib.net/doc/27627297/iso-ts-15066-2016-en-" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: studylib.net">[studylib.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">studylib.net</span><span class="citation-popover-title">8 5.5.3 Hand guiding</span><span class="citation-popover-snippet">ISO/TS 15066: Collaborative Robot Safety SpecificationFebruary 15, 2016 — 7 5.5.2 Safety-rated monitored stop...</span><span class="citation-popover-meta">Published: February 15, 2016</span></span></span>
 
 Here, the robot only moves under **direct human [control]({{ 'control/' | relative_url }})**. The operator physically guides the robot’s motions using a purpose‑built enable switch or guiding device. Because the robot’s motion reflects the operator’s intent at every moment, the risk of unintended impact is minimised. This mode is typically used during programming or setup rather than continuous production.[Robotomated]
 
-**3. Speed and separation monitoring (SSM)** <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nist.gov/publications/testbed-evaluation-speed-and-separation-monitoring-human-robot-collaborative" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nist.gov">[nist.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nist.gov</span><span class="citation-popover-title">testbed evaluation speed and separation monitoring human robot collaborative</span><span class="citation-popover-snippet">A Testbed for Evaluation of Speed and Separation Monitoring in a Human Robot Collaborative Environment &#124; NISTMarch 29, 2012...</span><span class="citation-popover-meta">Published: March 29, 2012</span></span></span>
+**3. Speed and separation monitoring (SSM)**<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nist.gov/publications/testbed-evaluation-speed-and-separation-monitoring-human-robot-collaborative" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nist.gov">[nist.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nist.gov</span><span class="citation-popover-title">testbed evaluation speed and separation monitoring human robot collaborative</span><span class="citation-popover-snippet">A Testbed for Evaluation of Speed and Separation Monitoring in a Human Robot Collaborative Environment &#124; NISTMarch 29, 2012...</span><span class="citation-popover-meta">Published: March 29, 2012</span></span></span>
 
 SSM is a **dynamic control method**: the robot continuously measures the **distance to the nearest human** using safety‑rated sensors such as laser scanners or depth cameras. As a person approaches:
 
@@ -341,194 +341,194 @@ To prevent dangerous contact in shared human–robot workspaces, cobots rely on 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_human_robot_i_5a8fe0_cobot_contact_27e7e9-Illustration-3-dark.svg" | relative_url }}" alt="Contact Safety illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_human_robot_i_5a8fe0_cobot_contact_27e7e9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_human_robot_i_5a8fe0_cobot_contact_27e7e9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How close is too close for cobots?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How close is too close for cobots?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+Robotics+by+John+J.+Craig&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to Robotics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uDNSAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Introduction to Robotics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Introduction+to+Robotics+by+John+J.+Craig&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Robotics">Introduction to Robotics</a>
-        </h4>
-        <p class="fr-book-author">By John J. Craig</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+Robotics+by+John+J.+Craig&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to Robotics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uDNSAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Introduction to Robotics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Introduction+to+Robotics+by+John+J.+Craig&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Robotics">Introduction to Robotics</a>
+</h4>
+<p class="fr-book-author">By John J. Craig</p>
         
-        <p class="fr-book-desc">Gives technical grounding in robot motion, control and manipulators relevant to cobot safety.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Introduction+to+Robotics+by+John+J.+Craig&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Gives technical grounding in robot motion, control and manipulators relevant to cobot safety.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Introduction+to+Robotics+by+John+J.+Craig&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+%2B+Machine+by+Paul+R.+Daugherty&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human + Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wpY4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Human + Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Human+%2B+Machine+by+Paul+R.+Daugherty&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human + Machine">Human + Machine</a>
-        </h4>
-        <p class="fr-book-author">By Paul R. Daugherty, H. James Wilson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+%2B+Machine+by+Paul+R.+Daugherty&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human + Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wpY4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Human + Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Human+%2B+Machine+by+Paul+R.+Daugherty&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human + Machine">Human + Machine</a>
+</h4>
+<p class="fr-book-author">By Paul R. Daugherty, H. James Wilson</p>
         
-        <p class="fr-book-desc">Provides accessible context for collaborative systems where humans and machines share tasks.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Human+%2B+Machine+by+Paul+R.+Daugherty&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides accessible context for collaborative systems where humans and machines share tasks.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Human+%2B+Machine+by+Paul+R.+Daugherty&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Design+of+Everyday+Things+by+Don+Norman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Design of Everyday Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qBfRDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Design of Everyday Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Design+of+Everyday+Things+by+Don+Norman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Design of Everyday Things">The Design of Everyday Things</a>
-        </h4>
-        <p class="fr-book-author">By Don Norman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Design+of+Everyday+Things+by+Don+Norman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Design of Everyday Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qBfRDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Design of Everyday Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Design+of+Everyday+Things+by+Don+Norman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Design of Everyday Things">The Design of Everyday Things</a>
+</h4>
+<p class="fr-book-author">By Don Norman</p>
         
-        <p class="fr-book-desc">Human-centred design principles are central to making cobot movement and intent understandable.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Design+of+Everyday+Things+by+Don+Norman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Human-centred design principles are central to making cobot movement and intent understandable.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Design+of+Everyday+Things+by+Don+Norman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Robotics%2C+Vision+and+Control+by+Peter+Corke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Robotics, Vision and Control on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6-kLBwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Robotics, Vision and Control" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Robotics%2C+Vision+and+Control+by+Peter+Corke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Robotics, Vision and Control">Robotics, Vision and Control</a>
-        </h4>
-        <p class="fr-book-author">By Peter Corke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Robotics%2C+Vision+and+Control+by+Peter+Corke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Robotics, Vision and Control on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6-kLBwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Robotics, Vision and Control" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Robotics%2C+Vision+and+Control+by+Peter+Corke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Robotics, Vision and Control">Robotics, Vision and Control</a>
+</h4>
+<p class="fr-book-author">By Peter Corke</p>
         
-        <p class="fr-book-desc">Explains sensing, control and robot behaviour that underpin safe shared workspaces.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Robotics%2C+Vision+and+Control+by+Peter+Corke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains sensing, control and robot behaviour that underpin safe shared workspaces.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Robotics%2C+Vision+and+Control+by+Peter+Corke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=to+Robotics+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to Robotics books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+%2B+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human + Machine</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Design+of+Everyday+Things&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Design of Everyday Things</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=to+Robotics+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to Robotics books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+%2B+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human + Machine</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Design+of+Everyday+Things&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Design of Everyday Things</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+safety+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-close-is-too-close-for-cobots-robot-safety-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot safety sign" data-ebay-reference="how-close-is-too-close-for-cobots-robot-safety-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for &#x27;Battle-Ready Robot&#x27; Suction Cup Car Window Sign (CG00037670)"><img src="https://i.ebayimg.com/images/g/KsIAAeSwgIhqJ6rK/s-l225.jpg" alt="Listing image for &#x27;Battle-Ready Robot&#x27; Suction Cup Car Window Sign (CG00037670)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+safety+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-close-is-too-close-for-cobots-robot-safety-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot safety sign" data-ebay-reference="how-close-is-too-close-for-cobots-robot-safety-sign" target="_blank" rel="sponsored noopener noreferrer">&#x27;Battle-Ready Robot&#x27; Suction Cup Car Window Sign (CG00037670)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+safety+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-close-is-too-close-for-cobots-robot-safety-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot safety sign" data-ebay-reference="how-close-is-too-close-for-cobots-robot-safety-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot safety sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: robot safety sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+safety+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-close-is-too-close-for-cobots-robot-safety-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot safety sign" data-ebay-reference="how-close-is-too-close-for-cobots-robot-safety-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+safety+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-close-is-too-close-for-cobots-robot-safety-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot safety sign" data-ebay-reference="how-close-is-too-close-for-cobots-robot-safety-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for &#x27;Battle-Ready Robot&#x27; Suction Cup Car Window Sign (CG00037670)"><img src="https://i.ebayimg.com/images/g/KsIAAeSwgIhqJ6rK/s-l225.jpg" alt="Listing image for &#x27;Battle-Ready Robot&#x27; Suction Cup Car Window Sign (CG00037670)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+safety+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-close-is-too-close-for-cobots-robot-safety-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot safety sign" data-ebay-reference="how-close-is-too-close-for-cobots-robot-safety-sign" target="_blank" rel="sponsored noopener noreferrer">&#x27;Battle-Ready Robot&#x27; Suction Cup Car Window Sign (CG00037670)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+safety+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-close-is-too-close-for-cobots-robot-safety-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot safety sign" data-ebay-reference="how-close-is-too-close-for-cobots-robot-safety-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot safety sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: robot safety sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+safety+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-close-is-too-close-for-cobots-robot-safety-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot safety sign" data-ebay-reference="how-close-is-too-close-for-cobots-robot-safety-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+safety+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-close-is-too-close-for-cobots-robot-safety-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot safety sign" data-ebay-reference="how-close-is-too-close-for-cobots-robot-safety-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Robot Moves Without Warning Keep Away Danger OSHA / ANSI Aluminum METAL Sign"><img src="https://i.ebayimg.com/images/g/zF4AAOSwJq1ZZs5b/s-l225.jpg" alt="Listing image for Robot Moves Without Warning Keep Away Danger OSHA / ANSI Aluminum METAL Sign" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+safety+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-close-is-too-close-for-cobots-robot-safety-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot safety sign" data-ebay-reference="how-close-is-too-close-for-cobots-robot-safety-sign" target="_blank" rel="sponsored noopener noreferrer">Robot Moves Without Warning Keep Away Danger OSHA / ANSI Aluminum METAL Sign</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+safety+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-close-is-too-close-for-cobots-robot-safety-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot safety sign" data-ebay-reference="how-close-is-too-close-for-cobots-robot-safety-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot safety sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: robot safety sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+safety+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-close-is-too-close-for-cobots-robot-safety-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot safety sign" data-ebay-reference="how-close-is-too-close-for-cobots-robot-safety-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+safety+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-close-is-too-close-for-cobots-robot-safety-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot safety sign" data-ebay-reference="how-close-is-too-close-for-cobots-robot-safety-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Robot Moves Without Warning Keep Away Danger OSHA / ANSI Aluminum METAL Sign"><img src="https://i.ebayimg.com/images/g/zF4AAOSwJq1ZZs5b/s-l225.jpg" alt="Listing image for Robot Moves Without Warning Keep Away Danger OSHA / ANSI Aluminum METAL Sign" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+safety+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-close-is-too-close-for-cobots-robot-safety-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot safety sign" data-ebay-reference="how-close-is-too-close-for-cobots-robot-safety-sign" target="_blank" rel="sponsored noopener noreferrer">Robot Moves Without Warning Keep Away Danger OSHA / ANSI Aluminum METAL Sign</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+safety+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-close-is-too-close-for-cobots-robot-safety-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot safety sign" data-ebay-reference="how-close-is-too-close-for-cobots-robot-safety-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot safety sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: robot safety sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+safety+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-close-is-too-close-for-cobots-robot-safety-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot safety sign" data-ebay-reference="how-close-is-too-close-for-cobots-robot-safety-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+safety+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-close-is-too-close-for-cobots-robot-safety-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot safety sign" data-ebay-reference="how-close-is-too-close-for-cobots-robot-safety-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for &#x27;Futuristic Robot&#x27; Suction Cup Car Window Sign (CG00037802)"><img src="https://i.ebayimg.com/images/g/HwkAAeSwtWRqJ6qG/s-l225.jpg" alt="Listing image for &#x27;Futuristic Robot&#x27; Suction Cup Car Window Sign (CG00037802)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+safety+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-close-is-too-close-for-cobots-robot-safety-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot safety sign" data-ebay-reference="how-close-is-too-close-for-cobots-robot-safety-sign" target="_blank" rel="sponsored noopener noreferrer">&#x27;Futuristic Robot&#x27; Suction Cup Car Window Sign (CG00037802)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+safety+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-close-is-too-close-for-cobots-robot-safety-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot safety sign" data-ebay-reference="how-close-is-too-close-for-cobots-robot-safety-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot safety sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: robot safety sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+safety+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-close-is-too-close-for-cobots-robot-safety-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot safety sign" data-ebay-reference="how-close-is-too-close-for-cobots-robot-safety-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+safety+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-close-is-too-close-for-cobots-robot-safety-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot safety sign" data-ebay-reference="how-close-is-too-close-for-cobots-robot-safety-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for &#x27;Futuristic Robot&#x27; Suction Cup Car Window Sign (CG00037802)"><img src="https://i.ebayimg.com/images/g/HwkAAeSwtWRqJ6qG/s-l225.jpg" alt="Listing image for &#x27;Futuristic Robot&#x27; Suction Cup Car Window Sign (CG00037802)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+safety+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-close-is-too-close-for-cobots-robot-safety-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot safety sign" data-ebay-reference="how-close-is-too-close-for-cobots-robot-safety-sign" target="_blank" rel="sponsored noopener noreferrer">&#x27;Futuristic Robot&#x27; Suction Cup Car Window Sign (CG00037802)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+safety+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-close-is-too-close-for-cobots-robot-safety-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot safety sign" data-ebay-reference="how-close-is-too-close-for-cobots-robot-safety-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot safety sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: robot safety sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+safety+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-close-is-too-close-for-cobots-robot-safety-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot safety sign" data-ebay-reference="how-close-is-too-close-for-cobots-robot-safety-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+safety+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-close-is-too-close-for-cobots-robot-safety-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot safety sign" data-ebay-reference="how-close-is-too-close-for-cobots-robot-safety-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Caution Sign - Robot Operating Do Not Enter Authorized Only - 10x14 OSHA Sign"><img src="https://i.ebayimg.com/images/g/89sAAOSw94Fj3VTX/s-l225.jpg" alt="Listing image for Caution Sign - Robot Operating Do Not Enter Authorized Only - 10x14 OSHA Sign" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+safety+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-close-is-too-close-for-cobots-robot-safety-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot safety sign" data-ebay-reference="how-close-is-too-close-for-cobots-robot-safety-sign" target="_blank" rel="sponsored noopener noreferrer">Caution Sign - Robot Operating Do Not Enter Authorized Only - 10x14 OSHA Sign</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+safety+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-close-is-too-close-for-cobots-robot-safety-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot safety sign" data-ebay-reference="how-close-is-too-close-for-cobots-robot-safety-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot safety sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: robot safety sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+safety+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-close-is-too-close-for-cobots-robot-safety-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot safety sign" data-ebay-reference="how-close-is-too-close-for-cobots-robot-safety-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+safety+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-close-is-too-close-for-cobots-robot-safety-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot safety sign" data-ebay-reference="how-close-is-too-close-for-cobots-robot-safety-sign" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+safety+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-close-is-too-close-for-cobots-robot-safety-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot safety sign" data-ebay-reference="how-close-is-too-close-for-cobots-robot-safety-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Caution Sign - Robot Operating Do Not Enter Authorized Only - 10x14 OSHA Sign"><img src="https://i.ebayimg.com/images/g/89sAAOSw94Fj3VTX/s-l225.jpg" alt="Listing image for Caution Sign - Robot Operating Do Not Enter Authorized Only - 10x14 OSHA Sign" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+safety+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-close-is-too-close-for-cobots-robot-safety-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot safety sign" data-ebay-reference="how-close-is-too-close-for-cobots-robot-safety-sign" target="_blank" rel="sponsored noopener noreferrer">Caution Sign - Robot Operating Do Not Enter Authorized Only - 10x14 OSHA Sign</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+safety+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-close-is-too-close-for-cobots-robot-safety-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot safety sign" data-ebay-reference="how-close-is-too-close-for-cobots-robot-safety-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot safety sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: robot safety sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+safety+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-close-is-too-close-for-cobots-robot-safety-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot safety sign" data-ebay-reference="how-close-is-too-close-for-cobots-robot-safety-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+safety+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-close-is-too-close-for-cobots-robot-safety-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot safety sign" data-ebay-reference="how-close-is-too-close-for-cobots-robot-safety-sign" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -544,7 +544,7 @@ To prevent dangerous contact in shared human–robot workspaces, cobots rely on 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -564,7 +564,7 @@ To prevent dangerous contact in shared human–robot workspaces, cobots rely on 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -596,7 +596,7 @@ To prevent dangerous contact in shared human–robot workspaces, cobots rely on 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -648,7 +648,7 @@ To prevent dangerous contact in shared human–robot workspaces, cobots rely on 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -693,7 +693,7 @@ To prevent dangerous contact in shared human–robot workspaces, cobots rely on 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -734,125 +734,125 @@ To prevent dangerous contact in shared human–robot workspaces, cobots rely on 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: robolist.ai  
    Title: force limited safety iso ts 15066  
-   Link: <a href="https://www.robolist.ai/industry-knowledge/cobot/force-limited-safety-iso-ts-15066" target="_blank" rel="noopener noreferrer nofollow">https://www.robolist.ai/industry-knowledge/cobot/force-limited-safety-iso-ts-15066</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ISO/TS 15066 in Practice: Cobot Force and Pressure Limits Explained — Robolist.aiMay 12, 2026...</p></details>
+   Link:<a href="https://www.robolist.ai/industry-knowledge/cobot/force-limited-safety-iso-ts-15066" target="_blank" rel="noopener noreferrer nofollow">https://www.robolist.ai/industry-knowledge/cobot/force-limited-safety-iso-ts-15066</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ISO/TS 15066 in Practice: Cobot Force and Pressure Limits Explained — Robolist.aiMay 12, 2026...</p></details>
    Published: May 12, 2026  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: robotomated.com  
    Title: robot safety standards iso 10218  
-   Link: <a href="https://robotomated.com/learn/guides/robot-safety-standards-iso-10218" target="_blank" rel="noopener noreferrer nofollow">https://robotomated.com/learn/guides/robot-safety-standards-iso-10218</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Robot Safety Standards: ISO 10218 and ISO/TS 15066 Explained | Robotomated...</p></details>
+   Link:<a href="https://robotomated.com/learn/guides/robot-safety-standards-iso-10218" target="_blank" rel="noopener noreferrer nofollow">https://robotomated.com/learn/guides/robot-safety-standards-iso-10218</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Robot Safety Standards: ISO 10218 and ISO/TS 15066 Explained | Robotomated...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: standards.iteh.ai  
-   Link: <a href="https://standards.iteh.ai/catalog/standards/iso/6856348f-7de9-4e6e-b903-d1ffd1e8c54c/iso-ts-15066-2016" target="_blank" rel="noopener noreferrer nofollow">https://standards.iteh.ai/catalog/standards/iso/6856348f-7de9-4e6e-b903-d1ffd1e8c54c/iso-ts-15066-2016</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>iTeh StandardsISO/TS 15066:2016 - Collaborative Robots Safety and Standards GuideFebruary 3, 2016...</p></details>
+   Link:<a href="https://standards.iteh.ai/catalog/standards/iso/6856348f-7de9-4e6e-b903-d1ffd1e8c54c/iso-ts-15066-2016" target="_blank" rel="noopener noreferrer nofollow">https://standards.iteh.ai/catalog/standards/iso/6856348f-7de9-4e6e-b903-d1ffd1e8c54c/iso-ts-15066-2016</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>iTeh StandardsISO/TS 15066:2016 - Collaborative Robots Safety and Standards GuideFebruary 3, 2016...</p></details>
    Published: February 3, 2016  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: robotomated.com  
    Title: cobot safety assessment guide  
-   Link: <a href="https://robotomated.com/learn/manufacturing/cobot-safety-assessment-guide" target="_blank" rel="noopener noreferrer nofollow">https://robotomated.com/learn/manufacturing/cobot-safety-assessment-guide</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cobot Safety Assessment: ISO/TS 15066 and Risk Reduction in Practice | Robotomated...</p></details>
+   Link:<a href="https://robotomated.com/learn/manufacturing/cobot-safety-assessment-guide" target="_blank" rel="noopener noreferrer nofollow">https://robotomated.com/learn/manufacturing/cobot-safety-assessment-guide</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cobot Safety Assessment: ISO/TS 15066 and Risk Reduction in Practice | Robotomated...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nist.gov  
    Title: testbed evaluation speed and separation monitoring human robot collaborative  
-   Link: <a href="https://www.nist.gov/publications/testbed-evaluation-speed-and-separation-monitoring-human-robot-collaborative" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/publications/testbed-evaluation-speed-and-separation-monitoring-human-robot-collaborative</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Testbed for Evaluation of Speed and Separation Monitoring in a Human Robot Collaborative Environment | NISTMarch 29, 2012...</p></details>
+   Link:<a href="https://www.nist.gov/publications/testbed-evaluation-speed-and-separation-monitoring-human-robot-collaborative" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/publications/testbed-evaluation-speed-and-separation-monitoring-human-robot-collaborative</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Testbed for Evaluation of Speed and Separation Monitoring in a Human Robot Collaborative Environment | NISTMarch 29, 2012...</p></details>
    Published: March 29, 2012  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCImplementing Speed and Separation Monitoring in Collaborative Robot Workcells  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5117641/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5117641/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>April 1, 2017...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5117641/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5117641/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>April 1, 2017...</p></details>
    Published: April 1, 2017  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nist.gov  
    Title: Marvel, Richard J. Norcross  
-   Link: <a href="https://www.nist.gov/publications/implementing-speed-and-separation-monitoring-collaborative-robot-workcells" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/publications/implementing-speed-and-separation-monitoring-collaborative-robot-workcells</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Implementing Speed and Separation Monitoring in Collaborative Robot Workcells | NISTAugust 1, 2016 — IMPLEMENTING SPEED AND SEPARATION MO...</p></details>
+   Link:<a href="https://www.nist.gov/publications/implementing-speed-and-separation-monitoring-collaborative-robot-workcells" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/publications/implementing-speed-and-separation-monitoring-collaborative-robot-workcells</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Implementing Speed and Separation Monitoring in Collaborative Robot Workcells | NISTAugust 1, 2016 — IMPLEMENTING SPEED AND SEPARATION MO...</p></details>
    Published: August 1, 2016  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: engineeringservice.net  
    Title: collaborative robot application guide  
-   Link: <a href="https://engineeringservice.net/knowledge/collaborative-robot-application-guide" target="_blank" rel="noopener noreferrer nofollow">https://engineeringservice.net/knowledge/collaborative-robot-application-guide</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Engineering ServiceCollaborative Robot Deployment &amp; ISO/TS 15066 FAQs | Engineering Service...</p></details>
+   Link:<a href="https://engineeringservice.net/knowledge/collaborative-robot-application-guide" target="_blank" rel="noopener noreferrer nofollow">https://engineeringservice.net/knowledge/collaborative-robot-application-guide</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Engineering ServiceCollaborative Robot Deployment &amp; ISO/TS 15066 FAQs | Engineering Service...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: roboticsystemsauthority.com  
-   Link: <a href="https://roboticsystemsauthority.com/collaborative-robots-cobots-overview" target="_blank" rel="noopener noreferrer nofollow">https://roboticsystemsauthority.com/collaborative-robots-cobots-overview</a>  
+   Link:<a href="https://roboticsystemsauthority.com/collaborative-robots-cobots-overview" target="_blank" rel="noopener noreferrer nofollow">https://roboticsystemsauthority.com/collaborative-robots-cobots-overview</a>  
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: mdpi.com  
    Title: Perception and Computation for Speed and Separation Monitoring Architectures  
-   Link: <a href="https://www.mdpi.com/2218-6581/14/4/41" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2218-6581/14/4/41</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SAFETY-RATED MONITORED STOP As previously mentioned, safety-rated monitor stop defines a safe stop state in which the robot actions are s...</p></details>
+   Link:<a href="https://www.mdpi.com/2218-6581/14/4/41" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2218-6581/14/4/41</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SAFETY-RATED MONITORED STOP As previously mentioned, safety-rated monitor stop defines a safe stop state in which the robot actions are s...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: automate.org  
-   Link: <a href="https://www.automate.org/[robotics" target="_blank" rel="noopener noreferrer nofollow">https://www.automate.org/[robotics</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Anandan, Contributing Editor 08/27/2019 11 minutes Collaborative robots, cobots, or even cobotics… whatever you ca...</p></details>
+   Link:<a href="https://www.automate.org/[robotics" target="_blank" rel="noopener noreferrer nofollow">https://www.automate.org/[robotics</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Anandan, Contributing Editor 08/27/2019 11 minutes Collaborative robots, cobots, or even cobotics… whatever you ca...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: roboticsbiz.com  
    Title: four types of safety methods in human robot collaboration hrc  
-   Link: <a href="https://roboticsbiz.com/four-types-of-safety-methods-in-human-robot-collaboration-hrc/" target="_blank" rel="noopener noreferrer nofollow">https://roboticsbiz.com/four-types-of-safety-methods-in-human-robot-collaboration-hrc/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Four types of safety methods in human-robot collaboration (HRC) - RoboticsBizMarch 9, 2021 — To prevent this, it is important to identify...</p></details>
+   Link:<a href="https://roboticsbiz.com/four-types-of-safety-methods-in-human-robot-collaboration-hrc/" target="_blank" rel="noopener noreferrer nofollow">https://roboticsbiz.com/four-types-of-safety-methods-in-human-robot-collaboration-hrc/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Four types of safety methods in human-robot collaboration (HRC) - RoboticsBizMarch 9, 2021 — To prevent this, it is important to identify...</p></details>
    Published: March 9, 2021  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: machinebuilding.net  
    Title: isots 15066 robots and robotic devices collaborative robots  
-   Link: <a href="https://www.machinebuilding.net/isots-15066-robots-and-robotic-devices---collaborative-robots" target="_blank" rel="noopener noreferrer nofollow">https://www.machinebuilding.net/isots-15066-robots-and-robotic-devices---collaborative-robots</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ISO/TS 15066, Robots and robotic devices - Collaborative robots | Machine BuildingMarch 8, 2017 — As it is only a Technical Specification...</p></details>
+   Link:<a href="https://www.machinebuilding.net/isots-15066-robots-and-robotic-devices---collaborative-robots" target="_blank" rel="noopener noreferrer nofollow">https://www.machinebuilding.net/isots-15066-robots-and-robotic-devices---collaborative-robots</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ISO/TS 15066, Robots and robotic devices - Collaborative robots | Machine BuildingMarch 8, 2017 — As it is only a Technical Specification...</p></details>
    Published: March 8, 2017  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: isa.org  
    Title: Take a safe approach to collaborative robots  
-   Link: <a href="https://www.isa.org/intech-home/2017/july-august/features/take-a-safe-approach-to-collaborative-robots" target="_blank" rel="noopener noreferrer nofollow">https://www.isa.org/intech-home/2017/july-august/features/take-a-safe-approach-to-collaborative-robots</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FOUR METHODS OF COLLABORATIVE OPERATION Under the ANSI/RIA 15.06 and ISO 10218 harmonized robot safety standards and the new TS 15066...</p></details>
+   Link:<a href="https://www.isa.org/intech-home/2017/july-august/features/take-a-safe-approach-to-collaborative-robots" target="_blank" rel="noopener noreferrer nofollow">https://www.isa.org/intech-home/2017/july-august/features/take-a-safe-approach-to-collaborative-robots</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FOUR METHODS OF COLLABORATIVE OPERATION Under the ANSI/RIA 15.06 and ISO 10218 harmonized robot safety standards and the new TS 15066...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: plantengineering.com  
    Title: Four types of collaborative robot operation  
-   Link: <a href="https://www.plantengineering.com/articles/four-types-of-collaborative-robot-operation/" target="_blank" rel="noopener noreferrer nofollow">https://www.plantengineering.com/articles/four-types-of-collaborative-robot-operation/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Plant EngineeringNovember 20, 2019 — Nov 20, 2019 Robotics FOUR TYPES OF COLLABORATIVE ROBOT OPERATION The ISO 10218-1 safety standard cl...</p></details>
+   Link:<a href="https://www.plantengineering.com/articles/four-types-of-collaborative-robot-operation/" target="_blank" rel="noopener noreferrer nofollow">https://www.plantengineering.com/articles/four-types-of-collaborative-robot-operation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Plant EngineeringNovember 20, 2019 — Nov 20, 2019 Robotics FOUR TYPES OF COLLABORATIVE ROBOT OPERATION The ISO 10218-1 safety standard cl...</p></details>
    Published: November 20, 2019  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: techbriefs.com  
    Title: It also defines and discusses safet  
-   Link: <a href="https://www.techbriefs.com/component/content/article/tb/pub/features/articles/34385?start=1" target="_blank" rel="noopener noreferrer nofollow">https://www.techbriefs.com/component/content/article/tb/pub/features/articles/34385?start=1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Guide to Collaborative Robot Safety - Tech BriefsMay 1, 2019 — This article discusses industry standards, project stages, and solutions...</p></details>
+   Link:<a href="https://www.techbriefs.com/component/content/article/tb/pub/features/articles/34385?start=1" target="_blank" rel="noopener noreferrer nofollow">https://www.techbriefs.com/component/content/article/tb/pub/features/articles/34385?start=1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Guide to Collaborative Robot Safety - Tech BriefsMay 1, 2019 — This article discusses industry standards, project stages, and solutions...</p></details>
    Published: May 1, 2019  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: automate.org  
    Title: iso ts 15066 explained  
-   Link: <a href="https://www.automate.org/robotics/tech-papers/iso-ts-15066-explained" target="_blank" rel="noopener noreferrer nofollow">https://www.automate.org/robotics/tech-papers/iso-ts-15066-explained</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tech Papers: ISO/TS 15066 Explained | RobotiqMay 25, 2016 — TECH PAPERS ISO/TS 15066 EXPLAINED By Robotiq 05/25/2016 8 minutes ISO/TS 150...</p></details>
+   Link:<a href="https://www.automate.org/robotics/tech-papers/iso-ts-15066-explained" target="_blank" rel="noopener noreferrer nofollow">https://www.automate.org/robotics/tech-papers/iso-ts-15066-explained</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tech Papers: ISO/TS 15066 Explained | RobotiqMay 25, 2016 — TECH PAPERS ISO/TS 15066 EXPLAINED By Robotiq 05/25/2016 8 minutes ISO/TS 150...</p></details>
    Published: May 25, 2016  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: Collaborative Robot Force & Pressure Testing | Cobot Safety w/ Tom Chaldecott  
-   Link: <a href="https://www.youtube.com/watch?v=gp3FN14WP5Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gp3FN14WP5Y</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CRB 1300 robot with speed and separation monitoring...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=gp3FN14WP5Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gp3FN14WP5Y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CRB 1300 robot with speed and separation monitoring...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: studylib.net  
    Title: 8 5.5.3 Hand guiding  
-   Link: <a href="https://studylib.net/doc/27627297/iso-ts-15066-2016-en-" target="_blank" rel="noopener noreferrer nofollow">https://studylib.net/doc/27627297/iso-ts-15066-2016-en-</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ISO/TS 15066: Collaborative Robot Safety SpecificationFebruary 15, 2016 — 7 5.5.2 Safety-rated monitored stop...</p></details>
+   Link:<a href="https://studylib.net/doc/27627297/iso-ts-15066-2016-en-" target="_blank" rel="noopener noreferrer nofollow">https://studylib.net/doc/27627297/iso-ts-15066-2016-en-</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ISO/TS 15066: Collaborative Robot Safety SpecificationFebruary 15, 2016 — 7 5.5.2 Safety-rated monitored stop...</p></details>
    Published: February 15, 2016

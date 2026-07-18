@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ai-bloom-abun-98d3a6-ai-medicine-l/
 description: Focused pages that expand on Access gap.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: AI_Bloom_Abun_98d3a6_ai_medicine_l_7c4177_ai_longevity_2c00fe
 parent_title: Access gap
@@ -16,7 +16,7 @@ parent_permalink: /access-gap/
 
 # Explore Topics in Access gap
 
-The following pages expand on the main **[Access gap]({{ '/access-gap/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Access gap]({{ '/access-gap/' | relative_url }})** page and cover its key branches in.
 
 - [Rich First]({{ '/rich-first/' | relative_url }})
 - [Public Systems]({{ '/public-systems/' | relative_url }})

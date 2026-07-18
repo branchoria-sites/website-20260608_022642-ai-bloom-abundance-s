@@ -269,28 +269,28 @@ image: /assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_industrial_ro_ee
 
 ## Introduction
 
-Boston Dynamics’ Spot robot has become one of the most visible examples of AI-enabled machines taking over dangerous inspection work in industrial environments. Rather than sending workers into areas with combustible gases, high temperatures, confined spaces, heavy machinery or offshore hazards, companies increasingly use quadruped robots to collect data, detect anomalies and perform routine inspection rounds. The technology remains far from a fully autonomous industrial workforce, but it offers a concrete example of how AI and [robotics]({{ 'robotics/' | relative_url }}) can reduce human exposure to hazardous conditions while maintaining critical infrastructure. In the broader AI bloom discussion, Spot matters less because it is a robot dog and more because it demonstrates a practical pathway toward removing people from some of the most dangerous forms of labour while preserving industrial output and safety. <span class="citation-chip-wrap"><a class="citation-chip" href="https://bostondynamics.com/solutions/inspection/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bostondynamics.com">[Boston Dynamics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bostondynamics.com</span><span class="citation-popover-snippet">Boston DynamicsIndustrial Inspection SolutionsSpot is the new standard for industrial inspection. Automate both routine and hazardous ins...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/BostonDynamicsOfficial/posts/recently-cognite-and-aker-bp-asa-one-of-europes-largest-independent-oil-and-gas-/2874979862594193/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Boston Dynamics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">recently cognite and aker bp asa one of europes largest independent oil and gas</span><span class="citation-popover-snippet">Boston Dynamics13 Feb 2020 — Recently Cognite and Aker BP ASA, one of Europe’s largest independent oil and gas companies, have been testi...</span></span></span>
+Boston Dynamics’ Spot robot has become one of the most visible examples of AI-enabled machines taking over dangerous inspection work in industrial environments. Rather than sending workers into areas with combustible gases, high temperatures, confined spaces, heavy machinery or offshore hazards, companies increasingly use quadruped robots to collect data, detect anomalies and perform routine inspection rounds. The technology remains far from a fully autonomous industrial workforce, but it offers a concrete example of how AI and [robotics]({{ 'robotics/' | relative_url }}) can reduce human exposure to hazardous conditions while maintaining critical infrastructure. In the broader AI bloom discussion, Spot matters less because it is a robot dog and more because it demonstrates a practical pathway toward removing people from some of the most dangerous forms of labour while preserving industrial output and safety.<span class="citation-chip-wrap"><a class="citation-chip" href="https://bostondynamics.com/solutions/inspection/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bostondynamics.com">[Boston Dynamics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bostondynamics.com</span><span class="citation-popover-snippet">Boston DynamicsIndustrial Inspection SolutionsSpot is the new standard for industrial inspection. Automate both routine and hazardous ins...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/BostonDynamicsOfficial/posts/recently-cognite-and-aker-bp-asa-one-of-europes-largest-independent-oil-and-gas-/2874979862594193/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Boston Dynamics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">recently cognite and aker bp asa one of europes largest independent oil and gas</span><span class="citation-popover-snippet">Boston Dynamics13 Feb 2020 — Recently Cognite and Aker BP ASA, one of Europe’s largest independent oil and gas companies, have been testi...</span></span></span>
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_industrial_ro_ee64fb_spot_robot_in_fd4066-Illustration-1-dark.svg" | relative_url }}" alt="Spot Inspections illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_industrial_ro_ee64fb_spot_robot_in_fd4066-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_industrial_ro_ee64fb_spot_robot_in_fd4066-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Industrial inspections have emerged as one of the earliest large-scale uses of mobile AI robotics because the incentives are unusually strong. Preventing a refinery shutdown, identifying a gas leak before an accident, or reducing personnel exposure on offshore platforms can justify substantial investment. Spot deployments therefore provide a useful real-world case study of how AI-enabled robotics moves from laboratory demonstrations into economically valuable and safety-critical work. <span class="citation-chip-wrap"><a class="citation-chip" href="https://bostondynamics.com/solutions/inspection/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bostondynamics.com">[Boston Dynamics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bostondynamics.com</span><span class="citation-popover-snippet">Boston DynamicsIndustrial Inspection SolutionsSpot is the new standard for industrial inspection. Automate both routine and hazardous ins...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://offshore.nridigital.com/offshore_technology_focus_sep23/case-studies-robotics-oil-gas-industry" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: offshore.nridigital.com">[2offshore.nridigital.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">offshore.nridigital.com</span><span class="citation-popover-title">case studies robotics oil gas industry</span><span class="citation-popover-snippet">Ensuring the safety of employees working in hazardous locations is essential for an...Read more...</span></span></span>
+Industrial inspections have emerged as one of the earliest large-scale uses of mobile AI robotics because the incentives are unusually strong. Preventing a refinery shutdown, identifying a gas leak before an accident, or reducing personnel exposure on offshore platforms can justify substantial investment. Spot deployments therefore provide a useful real-world case study of how AI-enabled robotics moves from laboratory demonstrations into economically valuable and safety-critical work.<span class="citation-chip-wrap"><a class="citation-chip" href="https://bostondynamics.com/solutions/inspection/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bostondynamics.com">[Boston Dynamics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bostondynamics.com</span><span class="citation-popover-snippet">Boston DynamicsIndustrial Inspection SolutionsSpot is the new standard for industrial inspection. Automate both routine and hazardous ins...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://offshore.nridigital.com/offshore_technology_focus_sep23/case-studies-robotics-oil-gas-industry" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: offshore.nridigital.com">[2offshore.nridigital.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">offshore.nridigital.com</span><span class="citation-popover-title">case studies robotics oil gas industry</span><span class="citation-popover-snippet">Ensuring the safety of employees working in hazardous locations is essential for an...Read more...</span></span></span>
 
 ## Why Hazardous Inspection Work Fits Spot's Capabilities
 
 Many industrial facilities require workers to spend hours walking inspection routes, checking gauges, listening for unusual sounds, monitoring equipment temperatures and looking for signs of deterioration. The work is often repetitive but takes place in environments where mistakes can be costly.
 
-Spot's design is particularly suited to these settings because it can traverse stairs, uneven surfaces, grates and industrial obstacles that are difficult for wheeled robots. Equipped with cameras and specialised sensor packages, it can follow predefined routes while collecting operational data from hundreds of inspection points. Rather than replacing entire maintenance teams, the robot functions as a mobile sensing platform that extends [human oversight]({{ 'human-oversight/' | relative_url }}) into hazardous locations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://bostondynamics.com/solutions/inspection/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bostondynamics.com">[Boston Dynamics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bostondynamics.com</span><span class="citation-popover-snippet">Boston DynamicsIndustrial Inspection SolutionsSpot is the new standard for industrial inspection. Automate both routine and hazardous ins...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/BostonDynamicsOfficial/posts/recently-cognite-and-aker-bp-asa-one-of-europes-largest-independent-oil-and-gas-/2874979862594193/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Boston Dynamics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">recently cognite and aker bp asa one of europes largest independent oil and gas</span><span class="citation-popover-snippet">Boston Dynamics13 Feb 2020 — Recently Cognite and Aker BP ASA, one of Europe’s largest independent oil and gas companies, have been testi...</span></span></span>
+Spot's design is particularly suited to these settings because it can traverse stairs, uneven surfaces, grates and industrial obstacles that are difficult for wheeled robots. Equipped with cameras and specialised sensor packages, it can follow predefined routes while collecting operational data from hundreds of inspection points. Rather than replacing entire maintenance teams, the robot functions as a mobile sensing platform that extends [human oversight]({{ 'human-oversight/' | relative_url }}) into hazardous locations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://bostondynamics.com/solutions/inspection/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bostondynamics.com">[Boston Dynamics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bostondynamics.com</span><span class="citation-popover-snippet">Boston DynamicsIndustrial Inspection SolutionsSpot is the new standard for industrial inspection. Automate both routine and hazardous ins...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/BostonDynamicsOfficial/posts/recently-cognite-and-aker-bp-asa-one-of-europes-largest-independent-oil-and-gas-/2874979862594193/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Boston Dynamics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">recently cognite and aker bp asa one of europes largest independent oil and gas</span><span class="citation-popover-snippet">Boston Dynamics13 Feb 2020 — Recently Cognite and Aker BP ASA, one of Europe’s largest independent oil and gas companies, have been testi...</span></span></span>
 
-The practical goal is often not complete autonomy. Instead, companies seek to reduce the frequency with which workers must enter potentially dangerous areas while increasing the amount of data collected between maintenance visits. This shift turns inspections from periodic manual observations into more continuous monitoring. <span class="citation-chip-wrap"><a class="citation-chip" href="https://bostondynamics.com/solutions/inspection/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bostondynamics.com">[Boston Dynamics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bostondynamics.com</span><span class="citation-popover-snippet">Boston DynamicsIndustrial Inspection SolutionsSpot is the new standard for industrial inspection. Automate both routine and hazardous ins...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/BostonDynamicsOfficial/posts/recently-cognite-and-aker-bp-asa-one-of-europes-largest-independent-oil-and-gas-/2874979862594193/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Boston Dynamics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">recently cognite and aker bp asa one of europes largest independent oil and gas</span><span class="citation-popover-snippet">Boston Dynamics13 Feb 2020 — Recently Cognite and Aker BP ASA, one of Europe’s largest independent oil and gas companies, have been testi...</span></span></span>
+The practical goal is often not complete autonomy. Instead, companies seek to reduce the frequency with which workers must enter potentially dangerous areas while increasing the amount of data collected between maintenance visits. This shift turns inspections from periodic manual observations into more continuous monitoring.<span class="citation-chip-wrap"><a class="citation-chip" href="https://bostondynamics.com/solutions/inspection/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bostondynamics.com">[Boston Dynamics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bostondynamics.com</span><span class="citation-popover-snippet">Boston DynamicsIndustrial Inspection SolutionsSpot is the new standard for industrial inspection. Automate both routine and hazardous ins...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/BostonDynamicsOfficial/posts/recently-cognite-and-aker-bp-asa-one-of-europes-largest-independent-oil-and-gas-/2874979862594193/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Boston Dynamics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">recently cognite and aker bp asa one of europes largest independent oil and gas</span><span class="citation-popover-snippet">Boston Dynamics13 Feb 2020 — Recently Cognite and Aker BP ASA, one of Europe’s largest independent oil and gas companies, have been testi...</span></span></span>
 
 ## Deployment in Refineries and Offshore Sites
 
 ### BP's Offshore Trials
 
-One of the best-known industrial deployments involved BP's testing of Spot on offshore oil platforms and refinery sites. The company initially evaluated the robot's mobility and sensing capabilities in simulated oil-and-gas environments before expanding trials into real operating facilities. The robot was used to read gauges, inspect equipment, map facilities and help identify methane leaks. A major motivation was reducing the number of personnel required to enter hazardous areas offshore. <span class="citation-chip-wrap"><a class="citation-chip" href="https://bostondynamics.com/solutions/inspection/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bostondynamics.com">[Boston Dynamics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bostondynamics.com</span><span class="citation-popover-snippet">Boston DynamicsIndustrial Inspection SolutionsSpot is the new standard for industrial inspection. Automate both routine and hazardous ins...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://safety4sea.com/bp-deploys-robot-on-offshore-oil-rig-to-enhance-safety/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: safety4sea.com">[2SAFETY4SEA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">safety4sea.com</span><span class="citation-popover-title">bp deploys robot on offshore oil rig to enhance safety</span><span class="citation-popover-snippet">BP deploys robot on offshore oil rig to enhance safety16 Nov 2020 — Oil major BP has deployed Boston Dynamics&#x27; robot &#x27;Spot&#x27; on...</span></span></span>
+One of the best-known industrial deployments involved BP's testing of Spot on offshore oil platforms and refinery sites. The company initially evaluated the robot's mobility and sensing capabilities in simulated oil-and-gas environments before expanding trials into real operating facilities. The robot was used to read gauges, inspect equipment, map facilities and help identify methane leaks. A major motivation was reducing the number of personnel required to enter hazardous areas offshore.<span class="citation-chip-wrap"><a class="citation-chip" href="https://bostondynamics.com/solutions/inspection/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bostondynamics.com">[Boston Dynamics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bostondynamics.com</span><span class="citation-popover-snippet">Boston DynamicsIndustrial Inspection SolutionsSpot is the new standard for industrial inspection. Automate both routine and hazardous ins...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://safety4sea.com/bp-deploys-robot-on-offshore-oil-rig-to-enhance-safety/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: safety4sea.com">[2SAFETY4SEA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">safety4sea.com</span><span class="citation-popover-title">bp deploys robot on offshore oil rig to enhance safety</span><span class="citation-popover-snippet">BP deploys robot on offshore oil rig to enhance safety16 Nov 2020 — Oil major BP has deployed Boston Dynamics&#x27; robot &#x27;Spot&#x27; on...</span></span></span>
 
-BP reported that after successful testing in its Whiting refinery near Chicago, confidence in the system increased sufficiently to support offshore deployment. The progression from controlled trials to live industrial environments illustrates an important pattern in [industrial robotics]({{ 'industrial-robotics/' | relative_url }}): companies generally adopt robots gradually, first validating mobility and reliability before trusting them with operational inspections. <span class="citation-chip-wrap"><a class="citation-chip" href="https://bostondynamics.com/solutions/inspection/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bostondynamics.com">[Boston Dynamics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bostondynamics.com</span><span class="citation-popover-snippet">Boston DynamicsIndustrial Inspection SolutionsSpot is the new standard for industrial inspection. Automate both routine and hazardous ins...</span></span></span>
+BP reported that after successful testing in its Whiting refinery near Chicago, confidence in the system increased sufficiently to support offshore deployment. The progression from controlled trials to live industrial environments illustrates an important pattern in [industrial robotics]({{ 'industrial-robotics/' | relative_url }}): companies generally adopt robots gradually, first validating mobility and reliability before trusting them with operational inspections.<span class="citation-chip-wrap"><a class="citation-chip" href="https://bostondynamics.com/solutions/inspection/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bostondynamics.com">[Boston Dynamics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bostondynamics.com</span><span class="citation-popover-snippet">Boston DynamicsIndustrial Inspection SolutionsSpot is the new standard for industrial inspection. Automate both routine and hazardous ins...</span></span></span>
 
-Offshore facilities are particularly attractive environments for robotic inspection because they combine high labour costs, difficult access and significant safety risks. Every reduction in human exposure can lower operational risk while potentially reducing the number of personnel required on site. <span class="citation-chip-wrap"><a class="citation-chip" href="https://safety4sea.com/bp-deploys-robot-on-offshore-oil-rig-to-enhance-safety/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: safety4sea.com">[SAFETY4SEA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">safety4sea.com</span><span class="citation-popover-title">bp deploys robot on offshore oil rig to enhance safety</span><span class="citation-popover-snippet">BP deploys robot on offshore oil rig to enhance safety16 Nov 2020 — Oil major BP has deployed Boston Dynamics&#x27; robot &#x27;Spot&#x27; on...</span></span></span>
+Offshore facilities are particularly attractive environments for robotic inspection because they combine high labour costs, difficult access and significant safety risks. Every reduction in human exposure can lower operational risk while potentially reducing the number of personnel required on site.<span class="citation-chip-wrap"><a class="citation-chip" href="https://safety4sea.com/bp-deploys-robot-on-offshore-oil-rig-to-enhance-safety/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: safety4sea.com">[SAFETY4SEA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">safety4sea.com</span><span class="citation-popover-title">bp deploys robot on offshore oil rig to enhance safety</span><span class="citation-popover-snippet">BP deploys robot on offshore oil rig to enhance safety16 Nov 2020 — Oil major BP has deployed Boston Dynamics&#x27; robot &#x27;Spot&#x27; on...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/iubgWPHsuWM" title="High Voltage Spot Inspections at National Grid | Boston Dynamics" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=iubgWPHsuWM" target="_blank" rel="noopener noreferrer">High Voltage Spot Inspections at National Grid | Boston Dynamics</a></p><p class="youtube-embed-meta">Channel: Boston Dynamics &middot; Views: 331.0K &middot; Uploaded: October 2021 &middot; Length: 2 minutes 11 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=iubgWPHsuWM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=iubgWPHsuWM">Open on YouTube</a></p></div></div></div>
 
@@ -298,15 +298,15 @@ Offshore facilities are particularly attractive environments for robotic inspect
 
 Chevron worked with Boston Dynamics on safety features that allow Spot to operate in electrically classified industrial zones where explosive gases may be present. In these environments, even a small spark can pose a serious risk.
 
-To address this problem, Spot can be equipped with gas-detection systems that automatically trigger protective shutdown behaviour when explosive gases are detected. Boston Dynamics describes this capability as enabling autonomous operation in hazardous industrial locations where conventional robotic deployments would face stricter constraints. The goal is not merely automation for efficiency, but safe automation in environments where ignition risks matter. <span class="citation-chip-wrap"><a class="citation-chip" href="https://bostondynamics.com/solutions/inspection/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bostondynamics.com">[Boston Dynamics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bostondynamics.com</span><span class="citation-popover-snippet">Boston DynamicsIndustrial Inspection SolutionsSpot is the new standard for industrial inspection. Automate both routine and hazardous ins...</span></span></span>
+To address this problem, Spot can be equipped with gas-detection systems that automatically trigger protective shutdown behaviour when explosive gases are detected. Boston Dynamics describes this capability as enabling autonomous operation in hazardous industrial locations where conventional robotic deployments would face stricter constraints. The goal is not merely automation for efficiency, but safe automation in environments where ignition risks matter.<span class="citation-chip-wrap"><a class="citation-chip" href="https://bostondynamics.com/solutions/inspection/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bostondynamics.com">[Boston Dynamics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bostondynamics.com</span><span class="citation-popover-snippet">Boston DynamicsIndustrial Inspection SolutionsSpot is the new standard for industrial inspection. Automate both routine and hazardous ins...</span></span></span>
 
 This illustrates a broader challenge in industrial robotics: mobility and AI are only part of the problem. Real deployment requires integration with stringent industrial safety standards, regulatory requirements and risk-management systems.
 
 ### LNG, Power and Process Industries
 
-The same inspection model has spread beyond oil production. Woodside [Energy]({{ 'energy/' | relative_url }}) deployed Spot at its Pluto liquefied natural gas facility in Australia to conduct routine inspections and support regulatory visual checks of electrical equipment. The company stated that the programme reduces operator exposure to hazards while expanding data collection throughout the site. <span class="citation-chip-wrap"><a class="citation-chip" href="https://bostondynamics.com/solutions/inspection/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bostondynamics.com">[Boston Dynamics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bostondynamics.com</span><span class="citation-popover-snippet">Boston DynamicsIndustrial Inspection SolutionsSpot is the new standard for industrial inspection. Automate both routine and hazardous ins...</span></span></span>
+The same inspection model has spread beyond oil production. Woodside [Energy]({{ 'energy/' | relative_url }}) deployed Spot at its Pluto liquefied natural gas facility in Australia to conduct routine inspections and support regulatory visual checks of electrical equipment. The company stated that the programme reduces operator exposure to hazards while expanding data collection throughout the site.<span class="citation-chip-wrap"><a class="citation-chip" href="https://bostondynamics.com/solutions/inspection/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bostondynamics.com">[Boston Dynamics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bostondynamics.com</span><span class="citation-popover-snippet">Boston DynamicsIndustrial Inspection SolutionsSpot is the new standard for industrial inspection. Automate both routine and hazardous ins...</span></span></span>
 
-At Vienna's Simmering [power]({{ 'power/' | relative_url }}) plant, Spot performs autonomous inspections designed to identify technical faults and monitor equipment health. The deployment demonstrates how the technology is moving from pilot projects into routine operational roles inside critical infrastructure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://bostondynamics.com/solutions/inspection/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bostondynamics.com">[Boston Dynamics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bostondynamics.com</span><span class="citation-popover-snippet">Boston DynamicsIndustrial Inspection SolutionsSpot is the new standard for industrial inspection. Automate both routine and hazardous ins...</span></span></span>
+At Vienna's Simmering [power]({{ 'power/' | relative_url }}) plant, Spot performs autonomous inspections designed to identify technical faults and monitor equipment health. The deployment demonstrates how the technology is moving from pilot projects into routine operational roles inside critical infrastructure.<span class="citation-chip-wrap"><a class="citation-chip" href="https://bostondynamics.com/solutions/inspection/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bostondynamics.com">[Boston Dynamics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bostondynamics.com</span><span class="citation-popover-snippet">Boston DynamicsIndustrial Inspection SolutionsSpot is the new standard for industrial inspection. Automate both routine and hazardous ins...</span></span></span>
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_industrial_ro_ee64fb_spot_robot_in_fd4066-Illustration-2-dark.svg" | relative_url }}" alt="Spot Inspections illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_industrial_ro_ee64fb_spot_robot_in_fd4066-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_industrial_ro_ee64fb_spot_robot_in_fd4066-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Sensors and AI for Anomaly Detection
@@ -319,11 +319,11 @@ Spot deployments typically use combinations of:
 * Thermal imaging cameras for heat monitoring.
 * Acoustic sensors for identifying leaks or unusual equipment sounds.
 * Gas sensors for detecting hazardous emissions.
-* AI software that compares observations against expected operating conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://bostondynamics.com/solutions/inspection/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bostondynamics.com">[Boston Dynamics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bostondynamics.com</span><span class="citation-popover-snippet">Boston DynamicsIndustrial Inspection SolutionsSpot is the new standard for industrial inspection. Automate both routine and hazardous ins...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/BostonDynamicsOfficial/posts/recently-cognite-and-aker-bp-asa-one-of-europes-largest-independent-oil-and-gas-/2874979862594193/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Boston Dynamics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">recently cognite and aker bp asa one of europes largest independent oil and gas</span><span class="citation-popover-snippet">Boston Dynamics13 Feb 2020 — Recently Cognite and Aker BP ASA, one of Europe’s largest independent oil and gas companies, have been testi...</span></span></span>
+* AI software that compares observations against expected operating conditions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://bostondynamics.com/solutions/inspection/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bostondynamics.com">[Boston Dynamics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bostondynamics.com</span><span class="citation-popover-snippet">Boston DynamicsIndustrial Inspection SolutionsSpot is the new standard for industrial inspection. Automate both routine and hazardous ins...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/BostonDynamicsOfficial/posts/recently-cognite-and-aker-bp-asa-one-of-europes-largest-independent-oil-and-gas-/2874979862594193/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Boston Dynamics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">recently cognite and aker bp asa one of europes largest independent oil and gas</span><span class="citation-popover-snippet">Boston Dynamics13 Feb 2020 — Recently Cognite and Aker BP ASA, one of Europe’s largest independent oil and gas companies, have been testi...</span></span></span>
 
-At Cargill's Amsterdam facility, Spot uses thermal imaging, acoustic monitoring and visual inspection tools to identify overheating equipment, gas leaks and other operational risks. The robot conducts large numbers of inspection rounds that would otherwise require significant staff time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://bostondynamics.com/solutions/inspection/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bostondynamics.com">[Boston Dynamics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bostondynamics.com</span><span class="citation-popover-snippet">Boston DynamicsIndustrial Inspection SolutionsSpot is the new standard for industrial inspection. Automate both routine and hazardous ins...</span></span></span>
+At Cargill's Amsterdam facility, Spot uses thermal imaging, acoustic monitoring and visual inspection tools to identify overheating equipment, gas leaks and other operational risks. The robot conducts large numbers of inspection rounds that would otherwise require significant staff time.<span class="citation-chip-wrap"><a class="citation-chip" href="https://bostondynamics.com/solutions/inspection/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bostondynamics.com">[Boston Dynamics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bostondynamics.com</span><span class="citation-popover-snippet">Boston DynamicsIndustrial Inspection SolutionsSpot is the new standard for industrial inspection. Automate both routine and hazardous ins...</span></span></span>
 
-The anomaly-detection aspect is especially significant. Traditional inspections often depend on workers noticing subtle warning signs during periodic rounds. AI-supported systems can compare new observations against historical data and flag unusual conditions that deserve attention. The robot effectively becomes part of a larger predictive-maintenance system rather than merely a remote-controlled camera platform. <span class="citation-chip-wrap"><a class="citation-chip" href="https://bostondynamics.com/solutions/inspection/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bostondynamics.com">[Boston Dynamics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bostondynamics.com</span><span class="citation-popover-snippet">Boston DynamicsIndustrial Inspection SolutionsSpot is the new standard for industrial inspection. Automate both routine and hazardous ins...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/BostonDynamicsOfficial/posts/recently-cognite-and-aker-bp-asa-one-of-europes-largest-independent-oil-and-gas-/2874979862594193/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Boston Dynamics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">recently cognite and aker bp asa one of europes largest independent oil and gas</span><span class="citation-popover-snippet">Boston Dynamics13 Feb 2020 — Recently Cognite and Aker BP ASA, one of Europe’s largest independent oil and gas companies, have been testi...</span></span></span>
+The anomaly-detection aspect is especially significant. Traditional inspections often depend on workers noticing subtle warning signs during periodic rounds. AI-supported systems can compare new observations against historical data and flag unusual conditions that deserve attention. The robot effectively becomes part of a larger predictive-maintenance system rather than merely a remote-controlled camera platform.<span class="citation-chip-wrap"><a class="citation-chip" href="https://bostondynamics.com/solutions/inspection/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bostondynamics.com">[Boston Dynamics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bostondynamics.com</span><span class="citation-popover-snippet">Boston DynamicsIndustrial Inspection SolutionsSpot is the new standard for industrial inspection. Automate both routine and hazardous ins...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/BostonDynamicsOfficial/posts/recently-cognite-and-aker-bp-asa-one-of-europes-largest-independent-oil-and-gas-/2874979862594193/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Boston Dynamics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">recently cognite and aker bp asa one of europes largest independent oil and gas</span><span class="citation-popover-snippet">Boston Dynamics13 Feb 2020 — Recently Cognite and Aker BP ASA, one of Europe’s largest independent oil and gas companies, have been testi...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/H-df4_VNEvk" title="Spot at Chevron | Boston Dynamics" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=H-df4_VNEvk" target="_blank" rel="noopener noreferrer">Spot at Chevron | Boston Dynamics</a></p><p class="youtube-embed-meta">Channel: Boston Dynamics &middot; Views: 199.2K &middot; Uploaded: February 2024 &middot; Length: 3 minutes 59 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=H-df4_VNEvk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=H-df4_VNEvk">Open on YouTube</a></p></div></div></div>
 
@@ -331,17 +331,17 @@ The anomaly-detection aspect is especially significant. Traditional inspections 
 
 Gas detection is one of the clearest examples of the technology's value.
 
-Boston Dynamics has described a deployment in which Spot autonomously identified a combustible gas plume from a pinhole leak during an inspection mission. Small leaks can be difficult for humans to detect during routine rounds but may escalate into major safety incidents if left unresolved. Early detection therefore provides both safety and economic benefits. <span class="citation-chip-wrap"><a class="citation-chip" href="https://bostondynamics.com/solutions/inspection/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bostondynamics.com">[Boston Dynamics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bostondynamics.com</span><span class="citation-popover-snippet">Boston DynamicsIndustrial Inspection SolutionsSpot is the new standard for industrial inspection. Automate both routine and hazardous ins...</span></span></span>
+Boston Dynamics has described a deployment in which Spot autonomously identified a combustible gas plume from a pinhole leak during an inspection mission. Small leaks can be difficult for humans to detect during routine rounds but may escalate into major safety incidents if left unresolved. Early detection therefore provides both safety and economic benefits.<span class="citation-chip-wrap"><a class="citation-chip" href="https://bostondynamics.com/solutions/inspection/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bostondynamics.com">[Boston Dynamics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bostondynamics.com</span><span class="citation-popover-snippet">Boston DynamicsIndustrial Inspection SolutionsSpot is the new standard for industrial inspection. Automate both routine and hazardous ins...</span></span></span>
 
-For industries handling hydrocarbons, chemicals or industrial gases, this capability addresses one of the most persistent operational risks. It also demonstrates how AI-enabled inspection differs from simple automation. The goal is not merely collecting more sensor readings; it is identifying meaningful anomalies before humans would normally discover them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://bostondynamics.com/solutions/inspection/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bostondynamics.com">[Boston Dynamics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bostondynamics.com</span><span class="citation-popover-snippet">Boston DynamicsIndustrial Inspection SolutionsSpot is the new standard for industrial inspection. Automate both routine and hazardous ins...</span></span></span>
+For industries handling hydrocarbons, chemicals or industrial gases, this capability addresses one of the most persistent operational risks. It also demonstrates how AI-enabled inspection differs from simple automation. The goal is not merely collecting more sensor readings; it is identifying meaningful anomalies before humans would normally discover them.<span class="citation-chip-wrap"><a class="citation-chip" href="https://bostondynamics.com/solutions/inspection/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bostondynamics.com">[Boston Dynamics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bostondynamics.com</span><span class="citation-popover-snippet">Boston DynamicsIndustrial Inspection SolutionsSpot is the new standard for industrial inspection. Automate both routine and hazardous ins...</span></span></span>
 
 ## What Changes for Workers
 
 One common misconception is that Spot primarily exists to replace maintenance workers. Current deployments suggest a more limited but still significant shift.
 
-Workers continue to perform repairs, maintenance planning, equipment diagnosis and safety oversight. The robot instead absorbs parts of the inspection process that involve repetitive movement through potentially hazardous environments. At Cargill's Amsterdam site, the company explicitly framed the deployment as moving employees toward more data-driven and higher-level operational roles rather than eliminating human involvement altogether. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cargill.com/2025/cargill-deploys-ai-powered-robot-dog-spot-at-amsterdam-facilit" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cargill.com">[Cargill]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cargill.com</span><span class="citation-popover-snippet">Cargill Deploys AI-Powered Robot Dog &#x27;Spot&#x27; at...Spot performs ~10,000 autonomous inspections weekly, detecting equipment and saf...</span></span></span>
+Workers continue to perform repairs, maintenance planning, equipment diagnosis and safety oversight. The robot instead absorbs parts of the inspection process that involve repetitive movement through potentially hazardous environments. At Cargill's Amsterdam site, the company explicitly framed the deployment as moving employees toward more data-driven and higher-level operational roles rather than eliminating human involvement altogether.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cargill.com/2025/cargill-deploys-ai-powered-robot-dog-spot-at-amsterdam-facilit" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cargill.com">[Cargill]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cargill.com</span><span class="citation-popover-snippet">Cargill Deploys AI-Powered Robot Dog &#x27;Spot&#x27; at...Spot performs ~10,000 autonomous inspections weekly, detecting equipment and saf...</span></span></span>
 
-The technology therefore changes the composition of work more than it eliminates work outright. New responsibilities emerge around robot supervision, mission planning, data interpretation and predictive maintenance. At the same time, organisations may require fewer personnel to spend large portions of their shifts walking inspection routes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://bostondynamics.com/solutions/inspection/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bostondynamics.com">[Boston Dynamics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bostondynamics.com</span><span class="citation-popover-snippet">Boston DynamicsIndustrial Inspection SolutionsSpot is the new standard for industrial inspection. Automate both routine and hazardous ins...</span></span></span>
+The technology therefore changes the composition of work more than it eliminates work outright. New responsibilities emerge around robot supervision, mission planning, data interpretation and predictive maintenance. At the same time, organisations may require fewer personnel to spend large portions of their shifts walking inspection routes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://bostondynamics.com/solutions/inspection/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bostondynamics.com">[Boston Dynamics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bostondynamics.com</span><span class="citation-popover-snippet">Boston DynamicsIndustrial Inspection SolutionsSpot is the new standard for industrial inspection. Automate both routine and hazardous ins...</span></span></span>
 
 This transition captures one of the central tensions in the broader AI abundance debate. If AI systems increasingly perform dangerous, repetitive and physically taxing tasks, society could gain both productivity and safety benefits. But the distribution of those benefits depends on [retraining]({{ 'retraining/' | relative_url }}), labour-market adaptation and whether workers share in the gains created by automation.
 
@@ -350,213 +350,213 @@ This transition captures one of the central tensions in the broader AI abundance
 
 Spot's visibility can create the impression that fully autonomous industrial operations are already commonplace. The reality is more constrained.
 
-Most deployments remain focused on inspection rather than repair. Robots can identify anomalies, but human specialists are usually required to diagnose root causes and perform corrective actions. Facilities also need digital infrastructure, mapping systems, maintenance support and operational procedures that many industrial sites still lack. <span class="citation-chip-wrap"><a class="citation-chip" href="https://bostondynamics.com/solutions/inspection/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bostondynamics.com">[Boston Dynamics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bostondynamics.com</span><span class="citation-popover-snippet">Boston DynamicsIndustrial Inspection SolutionsSpot is the new standard for industrial inspection. Automate both routine and hazardous ins...</span></span></span>
+Most deployments remain focused on inspection rather than repair. Robots can identify anomalies, but human specialists are usually required to diagnose root causes and perform corrective actions. Facilities also need digital infrastructure, mapping systems, maintenance support and operational procedures that many industrial sites still lack.<span class="citation-chip-wrap"><a class="citation-chip" href="https://bostondynamics.com/solutions/inspection/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bostondynamics.com">[Boston Dynamics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bostondynamics.com</span><span class="citation-popover-snippet">Boston DynamicsIndustrial Inspection SolutionsSpot is the new standard for industrial inspection. Automate both routine and hazardous ins...</span></span></span>
 
-Reliability remains another challenge. Industrial environments contain dust, moisture, vibration, changing layouts and unpredictable obstacles. Long-term autonomy requires robust localisation, navigation and mission-management systems. Research projects such as AutoInspect have focused specifically on enabling extended autonomous inspection missions across mines, chemical plants, nuclear facilities and other complex environments, highlighting how much engineering is required beyond the robot itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2404.12785" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Auto Inspect: Towards Long-Term Autonomous Industrial Inspection</span><span class="citation-popover-snippet">arXiv Auto Inspect: Towards Long-Term Autonomous Industrial Inspection</span></span></span>
+Reliability remains another challenge. Industrial environments contain dust, moisture, vibration, changing layouts and unpredictable obstacles. Long-term autonomy requires robust localisation, navigation and mission-management systems. Research projects such as AutoInspect have focused specifically on enabling extended autonomous inspection missions across mines, chemical plants, nuclear facilities and other complex environments, highlighting how much engineering is required beyond the robot itself.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2404.12785" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Auto Inspect: Towards Long-Term Autonomous Industrial Inspection</span><span class="citation-popover-snippet">arXiv Auto Inspect: Towards Long-Term Autonomous Industrial Inspection</span></span></span>
 
-There are also economic constraints. While inspection robots can generate returns through improved safety and reduced downtime, not every facility can justify deployment costs. Adoption has therefore been strongest in industries where failures are exceptionally expensive or hazardous. <span class="citation-chip-wrap"><a class="citation-chip" href="https://bostondynamics.com/solutions/inspection/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bostondynamics.com">[Boston Dynamics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bostondynamics.com</span><span class="citation-popover-snippet">Boston DynamicsIndustrial Inspection SolutionsSpot is the new standard for industrial inspection. Automate both routine and hazardous ins...</span></span></span>
+There are also economic constraints. While inspection robots can generate returns through improved safety and reduced downtime, not every facility can justify deployment costs. Adoption has therefore been strongest in industries where failures are exceptionally expensive or hazardous.<span class="citation-chip-wrap"><a class="citation-chip" href="https://bostondynamics.com/solutions/inspection/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bostondynamics.com">[Boston Dynamics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bostondynamics.com</span><span class="citation-popover-snippet">Boston DynamicsIndustrial Inspection SolutionsSpot is the new standard for industrial inspection. Automate both routine and hazardous ins...</span></span></span>
 
 ## Why Spot Matters in the Larger AI Bloom Story
 
 The broader significance of Spot is not that a single robot platform will transform industry. It is that hazardous inspection work provides a tangible example of a larger possibility: advanced AI systems gradually taking over tasks that are dirty, dangerous, physically exhausting or difficult for humans to perform continuously.
 
-In the optimistic AI bloom scenario, the long-term goal is not merely higher industrial efficiency. It is a world in which fewer people need to risk injury, toxic exposure or fatal accidents to maintain the infrastructure that supports modern civilisation. Spot's deployment in refineries, offshore facilities, power plants and processing sites represents an early, limited version of that transition. <span class="citation-chip-wrap"><a class="citation-chip" href="https://bostondynamics.com/solutions/inspection/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bostondynamics.com">[Boston Dynamics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bostondynamics.com</span><span class="citation-popover-snippet">Boston DynamicsIndustrial Inspection SolutionsSpot is the new standard for industrial inspection. Automate both routine and hazardous ins...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/BostonDynamicsOfficial/posts/recently-cognite-and-aker-bp-asa-one-of-europes-largest-independent-oil-and-gas-/2874979862594193/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Boston Dynamics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">recently cognite and aker bp asa one of europes largest independent oil and gas</span><span class="citation-popover-snippet">Boston Dynamics13 Feb 2020 — Recently Cognite and Aker BP ASA, one of Europe’s largest independent oil and gas companies, have been testi...</span></span></span>
+In the optimistic AI bloom scenario, the long-term goal is not merely higher industrial efficiency. It is a world in which fewer people need to risk injury, toxic exposure or fatal accidents to maintain the infrastructure that supports modern civilisation. Spot's deployment in refineries, offshore facilities, power plants and processing sites represents an early, limited version of that transition.<span class="citation-chip-wrap"><a class="citation-chip" href="https://bostondynamics.com/solutions/inspection/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bostondynamics.com">[Boston Dynamics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bostondynamics.com</span><span class="citation-popover-snippet">Boston DynamicsIndustrial Inspection SolutionsSpot is the new standard for industrial inspection. Automate both routine and hazardous ins...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/BostonDynamicsOfficial/posts/recently-cognite-and-aker-bp-asa-one-of-europes-largest-independent-oil-and-gas-/2874979862594193/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Boston Dynamics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">recently cognite and aker bp asa one of europes largest independent oil and gas</span><span class="citation-popover-snippet">Boston Dynamics13 Feb 2020 — Recently Cognite and Aker BP ASA, one of Europe’s largest independent oil and gas companies, have been testi...</span></span></span>
 
 The technology also highlights an important pattern likely to recur across AI-enabled robotics. Adoption begins not with science-fiction visions of general-purpose robots, but with narrow tasks where the value proposition is obvious: keeping people away from danger, gathering more information and reducing costly failures. If those systems become more capable, reliable and affordable over time, they may expand from inspection into broader categories of hazardous work.
 
-That future is not guaranteed. Technical limitations, labour concerns, regulatory requirements and concentration of technological power all remain important questions. Yet Spot's industrial deployments provide one of the clearest real-world demonstrations that AI-enabled robotics can already remove some human exposure to dangerous environments while preserving essential economic activity. In a debate often dominated by distant speculation, that is a concrete and measurable change happening now. <span class="citation-chip-wrap"><a class="citation-chip" href="https://bostondynamics.com/solutions/inspection/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bostondynamics.com">[Boston Dynamics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bostondynamics.com</span><span class="citation-popover-snippet">Boston DynamicsIndustrial Inspection SolutionsSpot is the new standard for industrial inspection. Automate both routine and hazardous ins...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://offshore.nridigital.com/offshore_technology_focus_sep23/case-studies-robotics-oil-gas-industry" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: offshore.nridigital.com">[3Boston Dynamics 3Boston]</a><span class="citation-popover" role="note"><span class="citation-popover-source">offshore.nridigital.com</span><span class="citation-popover-title">case studies robotics oil gas industry</span><span class="citation-popover-snippet">Ensuring the safety of employees working in hazardous locations is essential for an...Read more...</span></span></span>
+That future is not guaranteed. Technical limitations, labour concerns, regulatory requirements and concentration of technological power all remain important questions. Yet Spot's industrial deployments provide one of the clearest real-world demonstrations that AI-enabled robotics can already remove some human exposure to dangerous environments while preserving essential economic activity. In a debate often dominated by distant speculation, that is a concrete and measurable change happening now.<span class="citation-chip-wrap"><a class="citation-chip" href="https://bostondynamics.com/solutions/inspection/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bostondynamics.com">[Boston Dynamics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bostondynamics.com</span><span class="citation-popover-snippet">Boston DynamicsIndustrial Inspection SolutionsSpot is the new standard for industrial inspection. Automate both routine and hazardous ins...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://offshore.nridigital.com/offshore_technology_focus_sep23/case-studies-robotics-oil-gas-industry" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: offshore.nridigital.com">[3Boston Dynamics 3Boston]</a><span class="citation-popover" role="note"><span class="citation-popover-source">offshore.nridigital.com</span><span class="citation-popover-title">case studies robotics oil gas industry</span><span class="citation-popover-snippet">Ensuring the safety of employees working in hazardous locations is essential for an...Read more...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VVpgsd9Jsw0" title="Predictably Spot-On Industrial Inspection | Boston Dynamics" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VVpgsd9Jsw0" target="_blank" rel="noopener noreferrer">Predictably Spot-On Industrial Inspection | Boston Dynamics</a></p><p class="youtube-embed-meta">Channel: Boston Dynamics &middot; Views: 85.6K &middot; Uploaded: February 2024 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VVpgsd9Jsw0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VVpgsd9Jsw0">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Spot Robots Reduce Risk in Hazardous Work. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Spot Robots Reduce Risk in Hazardous Work. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Rise+of+the+Robots+by+Martin+Ford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Rise of the Robots on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=auvHEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Rise of the Robots" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Rise+of+the+Robots+by+Martin+Ford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rise of the Robots">Rise of the Robots</a>
-        </h4>
-        <p class="fr-book-author">By Martin Ford</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Rise+of+the+Robots+by+Martin+Ford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Rise of the Robots on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=auvHEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Rise of the Robots" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Rise+of+the+Robots+by+Martin+Ford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rise of the Robots">Rise of the Robots</a>
+</h4>
+<p class="fr-book-author">By Martin Ford</p>
         
-        <p class="fr-book-desc">Places inspection robots within the wider replacement of risky human labour.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Rise+of+the+Robots+by+Martin+Ford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places inspection robots within the wider replacement of risky human labour.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Rise+of+the+Robots+by+Martin+Ford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+%2B+Machine+by+Paul+R.+Daugherty&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human + Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wpY4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Human + Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Human+%2B+Machine+by+Paul+R.+Daugherty&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human + Machine">Human + Machine</a>
-        </h4>
-        <p class="fr-book-author">By Paul R. Daugherty, H. James Wilson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+%2B+Machine+by+Paul+R.+Daugherty&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human + Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wpY4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Human + Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Human+%2B+Machine+by+Paul+R.+Daugherty&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human + Machine">Human + Machine</a>
+</h4>
+<p class="fr-book-author">By Paul R. Daugherty, H. James Wilson</p>
         
-        <p class="fr-book-desc">Explains how robots can change worker roles from hazardous inspection to supervision and analysis.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Human+%2B+Machine+by+Paul+R.+Daugherty&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how robots can change worker roles from hazardous inspection to supervision and analysis.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Human+%2B+Machine+by+Paul+R.+Daugherty&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Rule+of+the+Robots+by+Martin+Ford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Rule of the Robots on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eF82EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Rule of the Robots" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Rule+of+the+Robots+by+Martin+Ford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rule of the Robots">Rule of the Robots</a>
-        </h4>
-        <p class="fr-book-author">By Martin Ford</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Rule+of+the+Robots+by+Martin+Ford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Rule of the Robots on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eF82EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Rule of the Robots" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Rule+of+the+Robots+by+Martin+Ford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rule of the Robots">Rule of the Robots</a>
+</h4>
+<p class="fr-book-author">By Martin Ford</p>
         
-        <p class="fr-book-desc">Explains the rise of autonomous robots in practical work settings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Rule+of+the+Robots+by+Martin+Ford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains the rise of autonomous robots in practical work settings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Rule+of+the+Robots+by+Martin+Ford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Robotics%2C+Vision+and+Control+by+Peter+Corke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Robotics, Vision and Control on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6-kLBwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Robotics, Vision and Control" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Robotics%2C+Vision+and+Control+by+Peter+Corke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Robotics, Vision and Control">Robotics, Vision and Control</a>
-        </h4>
-        <p class="fr-book-author">By Peter Corke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Robotics%2C+Vision+and+Control+by+Peter+Corke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Robotics, Vision and Control on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6-kLBwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Robotics, Vision and Control" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Robotics%2C+Vision+and+Control+by+Peter+Corke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Robotics, Vision and Control">Robotics, Vision and Control</a>
+</h4>
+<p class="fr-book-author">By Peter Corke</p>
         
-        <p class="fr-book-desc">Covers sensing and control ideas behind inspection robots like quadrupeds.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Robotics%2C+Vision+and+Control+by+Peter+Corke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers sensing and control ideas behind inspection robots like quadrupeds.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Robotics%2C+Vision+and+Control+by+Peter+Corke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Rise+of+the+Robots&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Rise of the Robots</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+%2B+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human + Machine</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Rule+of+the+Robots&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Rule of the Robots</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Rise+of+the+Robots&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Rise of the Robots</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+%2B+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human + Machine</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Rule+of+the+Robots&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Rule of the Robots</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+dog+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-spot-robots-reduce-risk-in-hazardous-work-robot-dog-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot dog model" data-ebay-reference="how-spot-robots-reduce-risk-in-hazardous-work-robot-dog-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Robot Dream Goodbye Puppy Dog Cute Action Figure Model Doll Toy Destop Car Gift"><img src="https://i.ebayimg.com/images/g/vgkAAeSwzoJo7Kdw/s-l225.jpg" alt="Listing image for Robot Dream Goodbye Puppy Dog Cute Action Figure Model Doll Toy Destop Car Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+dog+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-spot-robots-reduce-risk-in-hazardous-work-robot-dog-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot dog model" data-ebay-reference="how-spot-robots-reduce-risk-in-hazardous-work-robot-dog-model" target="_blank" rel="sponsored noopener noreferrer">Robot Dream Goodbye Puppy Dog Cute Action Figure Model Doll Toy Destop Car Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+dog+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-spot-robots-reduce-risk-in-hazardous-work-robot-dog-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot dog model" data-ebay-reference="how-spot-robots-reduce-risk-in-hazardous-work-robot-dog-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot dog model">Search <span data-ebay-domain-label>eBay.co.uk</span>: robot dog model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+dog+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-spot-robots-reduce-risk-in-hazardous-work-robot-dog-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot dog model" data-ebay-reference="how-spot-robots-reduce-risk-in-hazardous-work-robot-dog-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+dog+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-spot-robots-reduce-risk-in-hazardous-work-robot-dog-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot dog model" data-ebay-reference="how-spot-robots-reduce-risk-in-hazardous-work-robot-dog-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Robot Dream Goodbye Puppy Dog Cute Action Figure Model Doll Toy Destop Car Gift"><img src="https://i.ebayimg.com/images/g/vgkAAeSwzoJo7Kdw/s-l225.jpg" alt="Listing image for Robot Dream Goodbye Puppy Dog Cute Action Figure Model Doll Toy Destop Car Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+dog+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-spot-robots-reduce-risk-in-hazardous-work-robot-dog-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot dog model" data-ebay-reference="how-spot-robots-reduce-risk-in-hazardous-work-robot-dog-model" target="_blank" rel="sponsored noopener noreferrer">Robot Dream Goodbye Puppy Dog Cute Action Figure Model Doll Toy Destop Car Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+dog+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-spot-robots-reduce-risk-in-hazardous-work-robot-dog-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot dog model" data-ebay-reference="how-spot-robots-reduce-risk-in-hazardous-work-robot-dog-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot dog model">Search<span data-ebay-domain-label>eBay.co.uk</span>: robot dog model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+dog+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-spot-robots-reduce-risk-in-hazardous-work-robot-dog-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot dog model" data-ebay-reference="how-spot-robots-reduce-risk-in-hazardous-work-robot-dog-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+dog+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-spot-robots-reduce-risk-in-hazardous-work-robot-dog-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot dog model" data-ebay-reference="how-spot-robots-reduce-risk-in-hazardous-work-robot-dog-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 13 Action Figure Titan Multi-Jointed Movable Shapeshift Robot T13 Action"><img src="https://i.ebayimg.com/images/g/NjYAAeSwsotp5LA1/s-l225.jpg" alt="Listing image for 13 Action Figure Titan Multi-Jointed Movable Shapeshift Robot T13 Action" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+dog+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-spot-robots-reduce-risk-in-hazardous-work-robot-dog-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot dog model" data-ebay-reference="how-spot-robots-reduce-risk-in-hazardous-work-robot-dog-model" target="_blank" rel="sponsored noopener noreferrer">13 Action Figure Titan Multi-Jointed Movable Shapeshift Robot T13 Action</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+dog+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-spot-robots-reduce-risk-in-hazardous-work-robot-dog-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot dog model" data-ebay-reference="how-spot-robots-reduce-risk-in-hazardous-work-robot-dog-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot dog model">Search <span data-ebay-domain-label>eBay.co.uk</span>: robot dog model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+dog+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-spot-robots-reduce-risk-in-hazardous-work-robot-dog-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot dog model" data-ebay-reference="how-spot-robots-reduce-risk-in-hazardous-work-robot-dog-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+dog+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-spot-robots-reduce-risk-in-hazardous-work-robot-dog-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot dog model" data-ebay-reference="how-spot-robots-reduce-risk-in-hazardous-work-robot-dog-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 13 Action Figure Titan Multi-Jointed Movable Shapeshift Robot T13 Action"><img src="https://i.ebayimg.com/images/g/NjYAAeSwsotp5LA1/s-l225.jpg" alt="Listing image for 13 Action Figure Titan Multi-Jointed Movable Shapeshift Robot T13 Action" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+dog+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-spot-robots-reduce-risk-in-hazardous-work-robot-dog-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot dog model" data-ebay-reference="how-spot-robots-reduce-risk-in-hazardous-work-robot-dog-model" target="_blank" rel="sponsored noopener noreferrer">13 Action Figure Titan Multi-Jointed Movable Shapeshift Robot T13 Action</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+dog+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-spot-robots-reduce-risk-in-hazardous-work-robot-dog-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot dog model" data-ebay-reference="how-spot-robots-reduce-risk-in-hazardous-work-robot-dog-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot dog model">Search<span data-ebay-domain-label>eBay.co.uk</span>: robot dog model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+dog+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-spot-robots-reduce-risk-in-hazardous-work-robot-dog-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot dog model" data-ebay-reference="how-spot-robots-reduce-risk-in-hazardous-work-robot-dog-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+dog+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-spot-robots-reduce-risk-in-hazardous-work-robot-dog-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot dog model" data-ebay-reference="how-spot-robots-reduce-risk-in-hazardous-work-robot-dog-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Voice Control Robot Dog MultiFunctional Touching Smart Sensor Dog Model Toy NEW"><img src="https://i.ebayimg.com/images/g/kbwAAeSw4ZFpZGor/s-l225.jpg" alt="Listing image for Voice Control Robot Dog MultiFunctional Touching Smart Sensor Dog Model Toy NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+dog+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-spot-robots-reduce-risk-in-hazardous-work-robot-dog-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot dog model" data-ebay-reference="how-spot-robots-reduce-risk-in-hazardous-work-robot-dog-model" target="_blank" rel="sponsored noopener noreferrer">Voice Control Robot Dog MultiFunctional Touching Smart Sensor Dog Model Toy NEW</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+dog+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-spot-robots-reduce-risk-in-hazardous-work-robot-dog-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot dog model" data-ebay-reference="how-spot-robots-reduce-risk-in-hazardous-work-robot-dog-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot dog model">Search <span data-ebay-domain-label>eBay.co.uk</span>: robot dog model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+dog+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-spot-robots-reduce-risk-in-hazardous-work-robot-dog-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot dog model" data-ebay-reference="how-spot-robots-reduce-risk-in-hazardous-work-robot-dog-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+dog+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-spot-robots-reduce-risk-in-hazardous-work-robot-dog-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot dog model" data-ebay-reference="how-spot-robots-reduce-risk-in-hazardous-work-robot-dog-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Voice Control Robot Dog MultiFunctional Touching Smart Sensor Dog Model Toy NEW"><img src="https://i.ebayimg.com/images/g/kbwAAeSw4ZFpZGor/s-l225.jpg" alt="Listing image for Voice Control Robot Dog MultiFunctional Touching Smart Sensor Dog Model Toy NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+dog+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-spot-robots-reduce-risk-in-hazardous-work-robot-dog-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot dog model" data-ebay-reference="how-spot-robots-reduce-risk-in-hazardous-work-robot-dog-model" target="_blank" rel="sponsored noopener noreferrer">Voice Control Robot Dog MultiFunctional Touching Smart Sensor Dog Model Toy NEW</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+dog+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-spot-robots-reduce-risk-in-hazardous-work-robot-dog-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot dog model" data-ebay-reference="how-spot-robots-reduce-risk-in-hazardous-work-robot-dog-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot dog model">Search<span data-ebay-domain-label>eBay.co.uk</span>: robot dog model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+dog+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-spot-robots-reduce-risk-in-hazardous-work-robot-dog-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot dog model" data-ebay-reference="how-spot-robots-reduce-risk-in-hazardous-work-robot-dog-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+dog+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-spot-robots-reduce-risk-in-hazardous-work-robot-dog-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot dog model" data-ebay-reference="how-spot-robots-reduce-risk-in-hazardous-work-robot-dog-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3D Printed Die-cast Resin War Scene Model Resin Standing Robot Dog"><img src="https://i.ebayimg.com/images/g/9cgAAeSwYzpo5NpI/s-l225.jpg" alt="Listing image for 3D Printed Die-cast Resin War Scene Model Resin Standing Robot Dog" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+dog+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-spot-robots-reduce-risk-in-hazardous-work-robot-dog-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot dog model" data-ebay-reference="how-spot-robots-reduce-risk-in-hazardous-work-robot-dog-model" target="_blank" rel="sponsored noopener noreferrer">3D Printed Die-cast Resin War Scene Model Resin Standing Robot Dog</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+dog+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-spot-robots-reduce-risk-in-hazardous-work-robot-dog-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot dog model" data-ebay-reference="how-spot-robots-reduce-risk-in-hazardous-work-robot-dog-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot dog model">Search <span data-ebay-domain-label>eBay.co.uk</span>: robot dog model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+dog+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-spot-robots-reduce-risk-in-hazardous-work-robot-dog-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot dog model" data-ebay-reference="how-spot-robots-reduce-risk-in-hazardous-work-robot-dog-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+dog+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-spot-robots-reduce-risk-in-hazardous-work-robot-dog-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot dog model" data-ebay-reference="how-spot-robots-reduce-risk-in-hazardous-work-robot-dog-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+dog+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-spot-robots-reduce-risk-in-hazardous-work-robot-dog-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot dog model" data-ebay-reference="how-spot-robots-reduce-risk-in-hazardous-work-robot-dog-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3D Printed Die-cast Resin War Scene Model Resin Standing Robot Dog"><img src="https://i.ebayimg.com/images/g/9cgAAeSwYzpo5NpI/s-l225.jpg" alt="Listing image for 3D Printed Die-cast Resin War Scene Model Resin Standing Robot Dog" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+dog+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-spot-robots-reduce-risk-in-hazardous-work-robot-dog-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot dog model" data-ebay-reference="how-spot-robots-reduce-risk-in-hazardous-work-robot-dog-model" target="_blank" rel="sponsored noopener noreferrer">3D Printed Die-cast Resin War Scene Model Resin Standing Robot Dog</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+dog+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-spot-robots-reduce-risk-in-hazardous-work-robot-dog-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot dog model" data-ebay-reference="how-spot-robots-reduce-risk-in-hazardous-work-robot-dog-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot dog model">Search<span data-ebay-domain-label>eBay.co.uk</span>: robot dog model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+dog+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-spot-robots-reduce-risk-in-hazardous-work-robot-dog-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot dog model" data-ebay-reference="how-spot-robots-reduce-risk-in-hazardous-work-robot-dog-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+dog+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-spot-robots-reduce-risk-in-hazardous-work-robot-dog-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot dog model" data-ebay-reference="how-spot-robots-reduce-risk-in-hazardous-work-robot-dog-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -572,7 +572,7 @@ That future is not guaranteed. Technical limitations, labour concerns, regulator
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -592,7 +592,7 @@ That future is not guaranteed. Technical limitations, labour concerns, regulator
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -624,7 +624,7 @@ That future is not guaranteed. Technical limitations, labour concerns, regulator
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -676,7 +676,7 @@ That future is not guaranteed. Technical limitations, labour concerns, regulator
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -721,7 +721,7 @@ That future is not guaranteed. Technical limitations, labour concerns, regulator
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -762,194 +762,194 @@ That future is not guaranteed. Technical limitations, labour concerns, regulator
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: offshore.nridigital.com  
    Title: case studies robotics oil gas industry  
-   Link: <a href="https://offshore.nridigital.com/offshore_technology_focus_sep23/case-studies-robotics-oil-gas-industry" target="_blank" rel="noopener noreferrer nofollow">https://offshore.nridigital.com/offshore_technology_focus_sep23/case-studies-robotics-oil-gas-industry</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ensuring the safety of employees working in hazardous locations is essential for an...Read more...</p></details>
+   Link:<a href="https://offshore.nridigital.com/offshore_technology_focus_sep23/case-studies-robotics-oil-gas-industry" target="_blank" rel="noopener noreferrer nofollow">https://offshore.nridigital.com/offshore_technology_focus_sep23/case-studies-robotics-oil-gas-industry</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ensuring the safety of employees working in hazardous locations is essential for an...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: arxiv.org  
    Title: arXiv Auto Inspect: Towards Long-Term Autonomous Industrial Inspection  
-   Link: <a href="https://arxiv.org/abs/2404.12785" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2404.12785</a>  
+   Link:<a href="https://arxiv.org/abs/2404.12785" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2404.12785</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: safety4sea.com  
    Title: bp deploys robot on offshore oil rig to enhance safety  
-   Link: <a href="https://safety4sea.com/bp-deploys-robot-on-offshore-oil-rig-to-enhance-safety/" target="_blank" rel="noopener noreferrer nofollow">https://safety4sea.com/bp-deploys-robot-on-offshore-oil-rig-to-enhance-safety/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>BP deploys robot on offshore oil rig to enhance safety16 Nov 2020 — Oil major BP has deployed Boston Dynamics&#x27; robot &#x27;Spot&#x27; on...</p></details>
+   Link:<a href="https://safety4sea.com/bp-deploys-robot-on-offshore-oil-rig-to-enhance-safety/" target="_blank" rel="noopener noreferrer nofollow">https://safety4sea.com/bp-deploys-robot-on-offshore-oil-rig-to-enhance-safety/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BP deploys robot on offshore oil rig to enhance safety16 Nov 2020 — Oil major BP has deployed Boston Dynamics&#x27; robot &#x27;Spot&#x27; on...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: cargill.com  
-   Link: <a href="https://www.cargill.com/2025/cargill-deploys-ai-powered-robot-dog-spot-at-amsterdam-facilit" target="_blank" rel="noopener noreferrer nofollow">https://www.cargill.com/2025/cargill-deploys-ai-powered-robot-dog-spot-at-amsterdam-facilit</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cargill Deploys AI-Powered Robot Dog &#x27;Spot&#x27; at...Spot performs ~10,000 autonomous inspections weekly, detecting equipment and saf...</p></details>
+   Link:<a href="https://www.cargill.com/2025/cargill-deploys-ai-powered-robot-dog-spot-at-amsterdam-facilit" target="_blank" rel="noopener noreferrer nofollow">https://www.cargill.com/2025/cargill-deploys-ai-powered-robot-dog-spot-at-amsterdam-facilit</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cargill Deploys AI-Powered Robot Dog &#x27;Spot&#x27; at...Spot performs ~10,000 autonomous inspections weekly, detecting equipment and saf...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: boston.com  
-   Link: <a href="https://www.boston.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.boston.com/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Local breaking news, sports, weather, and things...What Boston cares about right now: Get breaking updates on news, sports, and weather...</p></details>
+   Link:<a href="https://www.boston.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.boston.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Local breaking news, sports, weather, and things...What Boston cares about right now: Get breaking updates on news, sports, and weather...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: boston.gov  
    Title: homepage bostongov  
-   Link: <a href="https://www.boston.gov/homepage-bostongov" target="_blank" rel="noopener noreferrer nofollow">https://www.boston.gov/homepage-bostongov</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>HomepageWelcome to the official homepage for the City of Boston...</p></details>
+   Link:<a href="https://www.boston.gov/homepage-bostongov" target="_blank" rel="noopener noreferrer nofollow">https://www.boston.gov/homepage-bostongov</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>HomepageWelcome to the official homepage for the City of Boston...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: bostondynamics.com  
-   Link: <a href="https://bostondynamics.com/solutions/inspection/" target="_blank" rel="noopener noreferrer nofollow">https://bostondynamics.com/solutions/inspection/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Boston DynamicsIndustrial Inspection SolutionsSpot is the new standard for industrial inspection. Automate both routine and hazardous ins...</p></details>
+   Link:<a href="https://bostondynamics.com/solutions/inspection/" target="_blank" rel="noopener noreferrer nofollow">https://bostondynamics.com/solutions/inspection/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Boston DynamicsIndustrial Inspection SolutionsSpot is the new standard for industrial inspection. Automate both routine and hazardous ins...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: bostondynamics.com  
-   Link: <a href="https://bostondynamics.com/industry/energy-natural-resources/" target="_blank" rel="noopener noreferrer nofollow">https://bostondynamics.com/industry/energy-natural-resources/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Boston DynamicsEnergy &amp; Natural ResourcesSpot is a reliable robotic solution for the energy and natural resources sector. Perform inspect...</p></details>
+   Link:<a href="https://bostondynamics.com/industry/energy-natural-resources/" target="_blank" rel="noopener noreferrer nofollow">https://bostondynamics.com/industry/energy-natural-resources/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Boston DynamicsEnergy &amp; Natural ResourcesSpot is a reliable robotic solution for the energy and natural resources sector. Perform inspect...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: bostondynamics.com  
    Title: Boston Dynamics Spot®  
-   Link: <a href="https://bostondynamics.com/products/spot/" target="_blank" rel="noopener noreferrer nofollow">https://bostondynamics.com/products/spot/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Boston DynamicsSpot® - The Agile Mobile RobotAs a dynamic sensing platform, Spot provides valuable insights into routine operations, site...</p></details>
+   Link:<a href="https://bostondynamics.com/products/spot/" target="_blank" rel="noopener noreferrer nofollow">https://bostondynamics.com/products/spot/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Boston DynamicsSpot® - The Agile Mobile RobotAs a dynamic sensing platform, Spot provides valuable insights into routine operations, site...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: bostondynamics.com  
-   Link: <a href="https://bostondynamics.com/case-studies/bp/" target="_blank" rel="noopener noreferrer nofollow">https://bostondynamics.com/case-studies/bp/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ploy Spot offshore...</p></details>
+   Link:<a href="https://bostondynamics.com/case-studies/bp/" target="_blank" rel="noopener noreferrer nofollow">https://bostondynamics.com/case-studies/bp/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ploy Spot offshore...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: bostondynamics.com  
-   Link: <a href="https://bostondynamics.com/webinars/from-deployment-to-insights-automating-inspection-with-spot/" target="_blank" rel="noopener noreferrer nofollow">https://bostondynamics.com/webinars/from-deployment-to-insights-automating-inspection-with-spot/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Boston DynamicsFrom Deployment to InsightsAutomating Inspection with Spot. Nearly 2,000 Spot® robots have been deployed at customer sites...</p></details>
+   Link:<a href="https://bostondynamics.com/webinars/from-deployment-to-insights-automating-inspection-with-spot/" target="_blank" rel="noopener noreferrer nofollow">https://bostondynamics.com/webinars/from-deployment-to-insights-automating-inspection-with-spot/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Boston DynamicsFrom Deployment to InsightsAutomating Inspection with Spot. Nearly 2,000 Spot® robots have been deployed at customer sites...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: bostondynamics.com  
-   Link: <a href="https://bostondynamics.com/case-studies/meet-chevrons-new-energy-watchdog/" target="_blank" rel="noopener noreferrer nofollow">https://bostondynamics.com/case-studies/meet-chevrons-new-energy-watchdog/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>“The gas detector helps get people more...Read more...</p></details>
+   Link:<a href="https://bostondynamics.com/case-studies/meet-chevrons-new-energy-watchdog/" target="_blank" rel="noopener noreferrer nofollow">https://bostondynamics.com/case-studies/meet-chevrons-new-energy-watchdog/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>“The gas detector helps get people more...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: bostondynamics.com  
-   Link: <a href="https://bostondynamics.com/case-studies/woodside-energy-integrates-spot-for-enhanced-safety-at-lng-facility/" target="_blank" rel="noopener noreferrer nofollow">https://bostondynamics.com/case-studies/woodside-energy-integrates-spot-for-enhanced-safety-at-lng-facility/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Boston DynamicsWoodside Energy Integrates Spot at LNG FacilityThe program uses Boston Dynamics&#x27; Spot robot to conduct routine inspections...</p></details>
+   Link:<a href="https://bostondynamics.com/case-studies/woodside-energy-integrates-spot-for-enhanced-safety-at-lng-facility/" target="_blank" rel="noopener noreferrer nofollow">https://bostondynamics.com/case-studies/woodside-energy-integrates-spot-for-enhanced-safety-at-lng-facility/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Boston DynamicsWoodside Energy Integrates Spot at LNG FacilityThe program uses Boston Dynamics&#x27; Spot robot to conduct routine inspections...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: bostondynamics.com  
-   Link: <a href="https://bostondynamics.com/case-studies/spot-makes-austrias-largest-power-plant-safer/" target="_blank" rel="noopener noreferrer nofollow">https://bostondynamics.com/case-studies/spot-makes-austrias-largest-power-plant-safer/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It is the first quadruped robot used in Europe for routine power plant...Read more...</p></details>
+   Link:<a href="https://bostondynamics.com/case-studies/spot-makes-austrias-largest-power-plant-safer/" target="_blank" rel="noopener noreferrer nofollow">https://bostondynamics.com/case-studies/spot-makes-austrias-largest-power-plant-safer/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It is the first quadruped robot used in Europe for routine power plant...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: bostondynamics.com  
-   Link: <a href="https://bostondynamics.com/case-studies/spot-at-cargill/" target="_blank" rel="noopener noreferrer nofollow">https://bostondynamics.com/case-studies/spot-at-cargill/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Boston DynamicsSpot at CargillSpot&#x27;s thermal camera measures surface temperature and can identify hot spots that could represent mechanic...</p></details>
+   Link:<a href="https://bostondynamics.com/case-studies/spot-at-cargill/" target="_blank" rel="noopener noreferrer nofollow">https://bostondynamics.com/case-studies/spot-at-cargill/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Boston DynamicsSpot at CargillSpot&#x27;s thermal camera measures surface temperature and can identify hot spots that could represent mechanic...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: bostondynamics.com  
-   Link: <a href="https://bostondynamics.com/case-studies/spot-at-j-power/" target="_blank" rel="noopener noreferrer nofollow">https://bostondynamics.com/case-studies/spot-at-j-power/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spot at J-POWERCase Study •. 5 min read. Spot at J-POWER. Early detection of... It can also perform acoustic analysis, measure gas conce...</p></details>
+   Link:<a href="https://bostondynamics.com/case-studies/spot-at-j-power/" target="_blank" rel="noopener noreferrer nofollow">https://bostondynamics.com/case-studies/spot-at-j-power/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spot at J-POWERCase Study •. 5 min read. Spot at J-POWER. Early detection of... It can also perform acoustic analysis, measure gas conce...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: bostondynamics.com  
-   Link: <a href="https://bostondynamics.com/blog/autonomous-detection-of-combustible-gas-leaks/" target="_blank" rel="noopener noreferrer nofollow">https://bostondynamics.com/blog/autonomous-detection-of-combustible-gas-leaks/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Boston DynamicsAutonomous Detection of Combustible Gas LeaksDuring an autonomous inspection round, Spot detected a plume of combustible g...</p></details>
+   Link:<a href="https://bostondynamics.com/blog/autonomous-detection-of-combustible-gas-leaks/" target="_blank" rel="noopener noreferrer nofollow">https://bostondynamics.com/blog/autonomous-detection-of-combustible-gas-leaks/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Boston DynamicsAutonomous Detection of Combustible Gas LeaksDuring an autonomous inspection round, Spot detected a plume of combustible g...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: world-grain.com  
    Title: 21927 cargill amsterdam deploys safety robot  
-   Link: <a href="https://www.world-grain.com/articles/21927-cargill-amsterdam-deploys-safety-robot" target="_blank" rel="noopener noreferrer nofollow">https://www.world-grain.com/articles/21927-cargill-amsterdam-deploys-safety-robot</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cargill Amsterdam deploys safety robot6 Oct 2025 — Operators program Spot&#x27;s missions by manually driving the robot to specific inspection...</p></details>
+   Link:<a href="https://www.world-grain.com/articles/21927-cargill-amsterdam-deploys-safety-robot" target="_blank" rel="noopener noreferrer nofollow">https://www.world-grain.com/articles/21927-cargill-amsterdam-deploys-safety-robot</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cargill Amsterdam deploys safety robot6 Oct 2025 — Operators program Spot&#x27;s missions by manually driving the robot to specific inspection...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Boston" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Boston</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BostonBoston (/bɒstən/) is the capital and most populous city of the U.S. state of Massachusetts. It serves as a cultural and financia...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Boston" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Boston</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BostonBoston (/bɒstən/) is the capital and most populous city of the U.S. state of Massachusetts. It serves as a cultural and financia...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: bostondynamics.com  
-   Link: <a href="https://bostondynamics.com/case-studies/" target="_blank" rel="noopener noreferrer nofollow">https://bostondynamics.com/case-studies/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Case StudiesDiscover robotics case studies on our solutions at work. Our customers share success stories from starting out to scaling rob...</p></details>
+   Link:<a href="https://bostondynamics.com/case-studies/" target="_blank" rel="noopener noreferrer nofollow">https://bostondynamics.com/case-studies/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Case StudiesDiscover robotics case studies on our solutions at work. Our customers share success stories from starting out to scaling rob...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
    Title: recently cognite and aker bp asa one of europes largest independent oil and gas  
-   Link: <a href="https://www.facebook.com/BostonDynamicsOfficial/posts/recently-cognite-and-aker-bp-asa-one-of-europes-largest-independent-oil-and-gas-/2874979862594193/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BostonDynamicsOfficial/posts/recently-cognite-and-aker-bp-asa-one-of-europes-largest-independent-oil-and-gas-/2874979862594193/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Boston Dynamics13 Feb 2020 — Recently Cognite and Aker BP ASA, one of Europe’s largest independent oil and gas companies, have been testi...</p></details>
+   Link:<a href="https://www.facebook.com/BostonDynamicsOfficial/posts/recently-cognite-and-aker-bp-asa-one-of-europes-largest-independent-oil-and-gas-/2874979862594193/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BostonDynamicsOfficial/posts/recently-cognite-and-aker-bp-asa-one-of-europes-largest-independent-oil-and-gas-/2874979862594193/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Boston Dynamics13 Feb 2020 — Recently Cognite and Aker BP ASA, one of Europe’s largest independent oil and gas companies, have been testi...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: interestingengineering.com  
-   Link: <a href="https://interestingengineering.com/innovation/boston-dynamics-robot-dog-spot-will-soon-start-working-on-oil-rigs" target="_blank" rel="noopener noreferrer nofollow">https://interestingengineering.com/innovation/boston-dynamics-robot-dog-spot-will-soon-start-working-on-oil-rigs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Boston Dynamics&#x27; Robot Dog Spot Will Soon Start Working...Boston Dynamics&#x27; infamous robot dog, Spot is going to be a part of the work te...</p></details>
+   Link:<a href="https://interestingengineering.com/innovation/boston-dynamics-robot-dog-spot-will-soon-start-working-on-oil-rigs" target="_blank" rel="noopener noreferrer nofollow">https://interestingengineering.com/innovation/boston-dynamics-robot-dog-spot-will-soon-start-working-on-oil-rigs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Boston Dynamics&#x27; Robot Dog Spot Will Soon Start Working...Boston Dynamics&#x27; infamous robot dog, Spot is going to be a part of the work te...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: linkedin.com  
    Title: nick green 3648bb24a spot at cargill activity 7340797962404454402 yEbq  
-   Link: <a href="https://www.linkedin.com/posts/nick-green-3648bb24a_spot-at-cargill-activity-7340797962404454402-yEbq" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/nick-green-3648bb24a_spot-at-cargill-activity-7340797962404454402-yEbq</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cargill uses Spot for autonomous inspections | Nick Green...17 Jun 2025 — Cargill&#x27;s Amsterdam plant is using Spot to automate inspection...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/nick-green-3648bb24a_spot-at-cargill-activity-7340797962404454402-yEbq" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/nick-green-3648bb24a_spot-at-cargill-activity-7340797962404454402-yEbq</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cargill uses Spot for autonomous inspections | Nick Green...17 Jun 2025 — Cargill&#x27;s Amsterdam plant is using Spot to automate inspection...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: ibj-online.com  
    Title: cargill deploys ai robot dog spot to enhance safety reliability and innovation  
-   Link: <a href="https://www.ibj-online.com/cargill-deploys-ai-robot-dog-spot-to-enhance-safety-reliability-and-innovation/4303" target="_blank" rel="noopener noreferrer nofollow">https://www.ibj-online.com/cargill-deploys-ai-robot-dog-spot-to-enhance-safety-reliability-and-innovation/4303</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cargill deploys AI robot dog &#x27;Spot&#x27; to enhance safety...7 Oct 2025 — The AI-powered robot uses advanced sensors and real-time data coll...</p></details>
+   Link:<a href="https://www.ibj-online.com/cargill-deploys-ai-robot-dog-spot-to-enhance-safety-reliability-and-innovation/4303" target="_blank" rel="noopener noreferrer nofollow">https://www.ibj-online.com/cargill-deploys-ai-robot-dog-spot-to-enhance-safety-reliability-and-innovation/4303</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cargill deploys AI robot dog &#x27;Spot&#x27; to enhance safety...7 Oct 2025 — The AI-powered robot uses advanced sensors and real-time data coll...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: shell.com  
-   Link: <a href="https://www.shell.com/what-we-do/digitalisation/robotics.html" target="_blank" rel="noopener noreferrer nofollow">https://www.shell.com/what-we-do/digitalisation/robotics.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>in the Energy Industry27 Oct 2025 — Find out how robots help Shell to minimise risk exposure of the staff, increase operational efficienc...</p></details>
+   Link:<a href="https://www.shell.com/what-we-do/digitalisation/robotics.html" target="_blank" rel="noopener noreferrer nofollow">https://www.shell.com/what-we-do/digitalisation/robotics.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>in the Energy Industry27 Oct 2025 — Find out how robots help Shell to minimise risk exposure of the staff, increase operational efficienc...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/place/Boston" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Boston</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Boston | History, Population, Map, Climate, &amp; FactsBoston, city, capital of the commonwealth of Massachusetts, and seat of Suffolk county...</p></details>
+   Link:<a href="https://www.britannica.com/place/Boston" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Boston</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Boston | History, Population, Map, Climate, &amp; FactsBoston, city, capital of the commonwealth of Massachusetts, and seat of Suffolk county...</p></details>
 
 ### Additional References
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: meetboston.com  
-   Link: <a href="https://www.meetboston.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.meetboston.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Meet Boston | Your Official Guide to BostonPlan the perfect vacation and discover everything Boston has to offer. Use our itinerary build...</p></details>
+   Link:<a href="https://www.meetboston.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.meetboston.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Meet Boston | Your Official Guide to BostonPlan the perfect vacation and discover everything Boston has to offer. Use our itinerary build...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: bostonglobe.com  
-   Link: <a href="https://www.bostonglobe.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.bostonglobe.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Boston GlobeNew England&#x27;s largest, award–winning news organization delivering trusted news, analysis, and insight for more than 150 y...</p></details>
+   Link:<a href="https://www.bostonglobe.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.bostonglobe.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Boston GlobeNew England&#x27;s largest, award–winning news organization delivering trusted news, analysis, and insight for more than 150 y...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: bu.edu  
-   Link: <a href="https://www.bu.edu/homepage-alt/" target="_blank" rel="noopener noreferrer nofollow">https://www.bu.edu/homepage-alt/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Boston UniversityBoston University: HomepageBoston University is a leading private research institution with two primary campuses in the...</p></details>
+   Link:<a href="https://www.bu.edu/homepage-alt/" target="_blank" rel="noopener noreferrer nofollow">https://www.bu.edu/homepage-alt/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Boston UniversityBoston University: HomepageBoston University is a leading private research institution with two primary campuses in the...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: visitboston.com  
-   Link: <a href="https://visitboston.com/" target="_blank" rel="noopener noreferrer nofollow">https://visitboston.com/</a>  
+   Link:<a href="https://visitboston.com/" target="_blank" rel="noopener noreferrer nofollow">https://visitboston.com/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=H-df4_VNEvk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=H-df4_VNEvk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spot at Chevron | Boston DynamicsWorking on operation Robotics and trying to put Technologies in people&#x27;s hands out in the field that wou...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=H-df4_VNEvk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=H-df4_VNEvk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spot at Chevron | Boston DynamicsWorking on operation Robotics and trying to put Technologies in people&#x27;s hands out in the field that wou...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: downtownboston.org  
    Title: The Official Downtown Boston Alliance Website  
-   Link: <a href="https://www.downtownboston.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.downtownboston.org/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Things to doDowntownboston.org is your single stop for information on Boston shopping, nightlife, dining, where to stay, history and culture...</p></details>
+   Link:<a href="https://www.downtownboston.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.downtownboston.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Things to doDowntownboston.org is your single stop for information on Boston shopping, nightlife, dining, where to stay, history and culture...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/bridgeheadsolutions_spot-robot-dog-inspects-cargills-food-factory-activity-7343616958241685504-DaRA" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/bridgeheadsolutions_spot-robot-dog-inspects-cargills-food-factory-activity-7343616958241685504-DaRA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>gauges, and identifying potential safety hazards—helping to prevent...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/bridgeheadsolutions_spot-robot-dog-inspects-cargills-food-factory-activity-7343616958241685504-DaRA" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/bridgeheadsolutions_spot-robot-dog-inspects-cargills-food-factory-activity-7343616958241685504-DaRA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>gauges, and identifying potential safety hazards—helping to prevent...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/EnergyRoboticsGmbH/videos/watch-webinar-on-demand-driving-efficiency-in-oil-gas/537014445628378/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/EnergyRoboticsGmbH/videos/watch-webinar-on-demand-driving-efficiency-in-oil-gas/537014445628378/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>tps://www.energy- robotics.com/webinars/driving-efficiency-in-oil...</p></details>
+   Link:<a href="https://www.facebook.com/EnergyRoboticsGmbH/videos/watch-webinar-on-demand-driving-efficiency-in-oil-gas/537014445628378/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/EnergyRoboticsGmbH/videos/watch-webinar-on-demand-driving-efficiency-in-oil-gas/537014445628378/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>tps://www.energy- robotics.com/webinars/driving-efficiency-in-oil...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: pomorobotics.com  
    Title: Improving Asset Management & Inspections  
-   Link: <a href="https://www.pomorobotics.com/robots/spot/" target="_blank" rel="noopener noreferrer nofollow">https://www.pomorobotics.com/robots/spot/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>An architecture project in London has been using Boston Dynamics&#x27; four-legged robot, Spot, to gather data from a construction site and...</p></details>
+   Link:<a href="https://www.pomorobotics.com/robots/spot/" target="_blank" rel="noopener noreferrer nofollow">https://www.pomorobotics.com/robots/spot/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An architecture project in London has been using Boston Dynamics&#x27; four-legged robot, Spot, to gather data from a construction site and...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: offshore-technology.com  
    Title: robotics operations oil gas  
-   Link: <a href="https://www.offshore-technology.com/analyst-comment/robotics-operations-oil-gas/" target="_blank" rel="noopener noreferrer nofollow">https://www.offshore-technology.com/analyst-comment/robotics-operations-oil-gas/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Robotics transforming operations in the oil and gas sector23 Jan 2026 — Companies such as Equinor, Shell, BP, Chevron, TotalEnergies, Rep...</p></details>
+   Link:<a href="https://www.offshore-technology.com/analyst-comment/robotics-operations-oil-gas/" target="_blank" rel="noopener noreferrer nofollow">https://www.offshore-technology.com/analyst-comment/robotics-operations-oil-gas/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Robotics transforming operations in the oil and gas sector23 Jan 2026 — Companies such as Equinor, Shell, BP, Chevron, TotalEnergies, Rep...</p></details>

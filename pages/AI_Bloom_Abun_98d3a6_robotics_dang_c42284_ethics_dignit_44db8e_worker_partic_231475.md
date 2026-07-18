@@ -270,13 +270,13 @@ image: /assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_ethics_dignit_44
 Robot automation is often presented as a technical or economic decision: a company installs machines, productivity rises, and workers adapt. Yet one of the most important ethical questions is who gets a voice before those decisions are made. Worker participation in robot deployment is not mainly about slowing innovation. It is about whether people affected by automation retain agency, recognition and influence over changes that reshape their daily working lives.
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_ethics_dignit_44db8e_worker_partic_231475-Illustration-1-dark.svg" | relative_url }}" alt="Worker Participation illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_ethics_dignit_44db8e_worker_partic_231475-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_ethics_dignit_44db8e_worker_partic_231475-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This matters both in today's factories, warehouses and service workplaces and in broader discussions about an AI-enabled future. If advanced [robotics]({{ 'robotics/' | relative_url }}) eventually removes much dangerous, repetitive or physically exhausting labour, that could support a more flourishing society. But the route to that future matters. Automation imposed without consultation can leave workers feeling replaceable and controlled. Automation designed with worker involvement is more likely to preserve dignity, improve trust and produce systems that actually work in practice. Research across human-robot collaboration, workplace governance and occupational safety increasingly suggests that participation is not a peripheral concern. It is part of what makes automation ethically legitimate. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2949882126000265" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Human-robot collaboration at work: A review of workers&#x27;...by S Skavron · 2026 · Cited by 2 — At the organisational level, w...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S2949882126000265" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Human-robot collaboration at work: A review of workers&#x27;...by S Skavron · 2026 · Cited by 2 — At the organisational level, w...</span></span></span>
+This matters both in today's factories, warehouses and service workplaces and in broader discussions about an AI-enabled future. If advanced [robotics]({{ 'robotics/' | relative_url }}) eventually removes much dangerous, repetitive or physically exhausting labour, that could support a more flourishing society. But the route to that future matters. Automation imposed without consultation can leave workers feeling replaceable and controlled. Automation designed with worker involvement is more likely to preserve dignity, improve trust and produce systems that actually work in practice. Research across human-robot collaboration, workplace governance and occupational safety increasingly suggests that participation is not a peripheral concern. It is part of what makes automation ethically legitimate.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2949882126000265" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Human-robot collaboration at work: A review of workers&#x27;...by S Skavron · 2026 · Cited by 2 — At the organisational level, w...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S2949882126000265" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Human-robot collaboration at work: A review of workers&#x27;...by S Skavron · 2026 · Cited by 2 — At the organisational level, w...</span></span></span>
 
 ## Why Worker Voice Matters Beyond Efficiency
 
 Many debates about automation focus on jobs gained or lost. Workers, however, often raise a different concern: loss of [control]({{ 'control/' | relative_url }}) over how work is organised. A robot may not eliminate a role entirely, yet it can still reduce autonomy if workers are forced to match machine timings, follow rigid instructions or accept decisions made without their input.
 
-Studies of workplace robotics repeatedly find that implementation choices shape workers' experiences as much as the technology itself. Researchers reviewing human-robot collaboration note that communication practices, implementation strategies and inclusion in decision-making strongly influence whether workers experience automation as supportive or alienating. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2949882126000265" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Human-robot collaboration at work: A review of workers&#x27;...by S Skavron · 2026 · Cited by 2 — At the organisational level, w...</span></span></span>
+Studies of workplace robotics repeatedly find that implementation choices shape workers' experiences as much as the technology itself. Researchers reviewing human-robot collaboration note that communication practices, implementation strategies and inclusion in decision-making strongly influence whether workers experience automation as supportive or alienating.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2949882126000265" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Human-robot collaboration at work: A review of workers&#x27;...by S Skavron · 2026 · Cited by 2 — At the organisational level, w...</span></span></span>
 
 This is especially important because workers possess knowledge that managers and technology vendors often lack. Front-line employees understand informal workflows, bottlenecks, safety risks and practical realities that may not appear in technical specifications. Participation therefore serves two purposes at once:
 
@@ -291,7 +291,7 @@ The strongest participation models move beyond consultation after decisions have
 
 ### Designing the System With Workers Rather Than For Them
 
-In human-centred robotics, co-design means involving workers in identifying problems, evaluating possible robotic solutions and testing prototypes before full deployment. Researchers studying collaborative robotics increasingly argue that workers should participate in the design and deployment of human-robot work configurations because technical performance, safety and wellbeing are tightly connected. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2949882126000265" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Human-robot collaboration at work: A review of workers&#x27;...by S Skavron · 2026 · Cited by 2 — At the organisational level, w...</span></span></span>
+In human-centred robotics, co-design means involving workers in identifying problems, evaluating possible robotic solutions and testing prototypes before full deployment. Researchers studying collaborative robotics increasingly argue that workers should participate in the design and deployment of human-robot work configurations because technical performance, safety and wellbeing are tightly connected.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2949882126000265" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Human-robot collaboration at work: A review of workers&#x27;...by S Skavron · 2026 · Cited by 2 — At the organisational level, w...</span></span></span>
 
 This can include:
 
@@ -313,7 +313,7 @@ Such approaches recognise that the workplace is a socio-technical system. A robo
 
 One common source of resistance is what workers sometimes experience as an automation surprise: major technological changes announced after key decisions have already been made.
 
-Evidence from manufacturing studies suggests that successful human-robot collaboration often requires ongoing adaptation rather than a one-off installation process. Researchers examining Industry 5.0 transitions describe implementation as a continuing negotiation between efficiency goals, worker wellbeing and organisational realities rather than a straightforward technical upgrade. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2949882126000265" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Human-robot collaboration at work: A review of workers&#x27;...by S Skavron · 2026 · Cited by 2 — At the organisational level, w...</span></span></span>
+Evidence from manufacturing studies suggests that successful human-robot collaboration often requires ongoing adaptation rather than a one-off installation process. Researchers examining Industry 5.0 transitions describe implementation as a continuing negotiation between efficiency goals, worker wellbeing and organisational realities rather than a straightforward technical upgrade.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2949882126000265" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Human-robot collaboration at work: A review of workers&#x27;...by S Skavron · 2026 · Cited by 2 — At the organisational level, w...</span></span></span>
 
 When workers are involved earlier, organisations can identify problems before they become sources of conflict. This may reduce fear, improve adoption and help employees understand how their roles will change.
 
@@ -323,7 +323,7 @@ Not every participation programme genuinely shifts [power]({{ 'power/' | relativ
 
 ### Collective Representation
 
-Trade unions, works councils and employee committees have historically provided channels through which workers can influence technological change. Research on digitalisation and worker voice suggests that institutions representing workers can affect how advanced technologies are introduced and governed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.econstor.eu/bitstream/10419/249341/1/GLO-DP-1038.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: econstor.eu">[Econstor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">econstor.eu</span><span class="citation-popover-title">GLO DP 1038</span><span class="citation-popover-snippet">Robots, Digitalization, and Worker Voiceby F Belloc · 2022 · Cited by 12 — In this paper, we study whether the firm-level adoptio...</span></span></span>
+Trade unions, works councils and employee committees have historically provided channels through which workers can influence technological change. Research on digitalisation and worker voice suggests that institutions representing workers can affect how advanced technologies are introduced and governed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.econstor.eu/bitstream/10419/249341/1/GLO-DP-1038.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: econstor.eu">[Econstor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">econstor.eu</span><span class="citation-popover-title">GLO DP 1038</span><span class="citation-popover-snippet">Robots, Digitalization, and Worker Voiceby F Belloc · 2022 · Cited by 12 — In this paper, we study whether the firm-level adoptio...</span></span></span>
 
 Collective representation becomes particularly important when individual workers fear speaking openly about concerns regarding workload, surveillance or job redesign.
 
@@ -332,7 +332,7 @@ Collective representation becomes particularly important when individual workers
 
 Robots are often introduced partly to improve safety. Yet workers frequently notice risks that designers overlook.
 
-European workplace safety research on advanced robotics highlights the importance of involving employees when evaluating occupational safety and health impacts. Case studies show that implementation decisions influence not only productivity but also stress levels, ergonomics and workplace wellbeing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://healthy-workplaces.osha.europa.eu/sites/hwc/files/hwc/publication/Advanced-robotic-automation-case-studies-summary_en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: healthy-workplaces.osha.europa.eu">[healthy-workplaces.osha.europa.eu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">healthy-workplaces.osha.europa.eu</span><span class="citation-popover-snippet">Advanced robotic automation: comparative case study reportMay 29, 2023 — This document summarises the results of 11 case studies on the i...</span><span class="citation-popover-meta">Published: May 29, 2023</span></span></span>
+European workplace safety research on advanced robotics highlights the importance of involving employees when evaluating occupational safety and health impacts. Case studies show that implementation decisions influence not only productivity but also stress levels, ergonomics and workplace wellbeing.<span class="citation-chip-wrap"><a class="citation-chip" href="https://healthy-workplaces.osha.europa.eu/sites/hwc/files/hwc/publication/Advanced-robotic-automation-case-studies-summary_en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: healthy-workplaces.osha.europa.eu">[healthy-workplaces.osha.europa.eu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">healthy-workplaces.osha.europa.eu</span><span class="citation-popover-snippet">Advanced robotic automation: comparative case study reportMay 29, 2023 — This document summarises the results of 11 case studies on the i...</span><span class="citation-popover-meta">Published: May 29, 2023</span></span></span>
 
 A participatory assessment typically asks workers:
 
@@ -355,7 +355,7 @@ Participation matters most when automation changes job content.
 
 A robot that removes repetitive lifting may create opportunities for workers to focus on quality control, troubleshooting or customer-facing tasks. But if redesign decisions occur without worker input, employees may instead inherit more monitoring duties, tighter performance targets or less meaningful work.
 
-Research on meaningful work and robotics argues that preserving autonomy, skill development and opportunities for judgement is crucial if automation is to enhance rather than diminish work quality. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1007/s13347-019-00377-4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Springer LinkRobots in the Workplace: a Threat to—or Opportunity for...by J Smids · 2020 · Cited by 445 — The paper investigates both wa...</span></span></span>
+Research on meaningful work and robotics argues that preserving autonomy, skill development and opportunities for judgement is crucial if automation is to enhance rather than diminish work quality.<span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1007/s13347-019-00377-4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Springer LinkRobots in the Workplace: a Threat to—or Opportunity for...by J Smids · 2020 · Cited by 445 — The paper investigates both wa...</span></span></span>
 
 ## When Participation Improves Human-Robot Collaboration
 
@@ -363,14 +363,14 @@ Several studies of collaborative robots, or "cobots", illustrate why worker invo
 
 ### Factory Workers Asking for More Adaptive Robots
 
-A study of automotive assembly-line workers using a robotic prototype found that employees often felt constrained by rigid machine behaviour. Workers reported that predefined robotic actions reduced flexibility and interfered with their own preferred working methods. Rather than rejecting automation entirely, they asked for robots that could adapt more effectively to human needs and varying work rhythms. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1606.03846" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">User Experience of a Smart Factory Robot: Assembly Line Workers Demand Adaptive RobotsJune 13, 2016...</span><span class="citation-popover-meta">Published: June 13, 2016</span></span></span>
+A study of automotive assembly-line workers using a robotic prototype found that employees often felt constrained by rigid machine behaviour. Workers reported that predefined robotic actions reduced flexibility and interfered with their own preferred working methods. Rather than rejecting automation entirely, they asked for robots that could adapt more effectively to human needs and varying work rhythms.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1606.03846" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">User Experience of a Smart Factory Robot: Assembly Line Workers Demand Adaptive RobotsJune 13, 2016...</span><span class="citation-popover-meta">Published: June 13, 2016</span></span></span>
 
 This is a revealing finding. The problem was not simply the presence of a robot. It was the absence of sufficient worker influence over how the collaboration was designed.
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_ethics_dignit_44db8e_worker_partic_231475-Illustration-3-dark.svg" | relative_url }}" alt="Worker Participation illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_ethics_dignit_44db8e_worker_partic_231475-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_ethics_dignit_44db8e_worker_partic_231475-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Lessons From Early Cobot Deployments
 
-Research on collaborative robots in manufacturing found that many deployments initially assigned robots narrow repetitive tasks while workers performed loading, unloading and error correction. In these settings, collaboration often remained shallow, limiting opportunities for workers to shape workflows or develop new capabilities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/340527842_Working_Together_with_Collaborative_Robots_in_Flexible_Manufacturing_Systems_An_Exploratory_Study" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Working Together with Collaborative Robots in Flexible</span><span class="citation-popover-snippet">Working Together with Collaborative Robots in Flexible...April 9, 2020 — 9 Apr 2020 — Cobots were shallowly introduced to pr...</span><span class="citation-popover-meta">Published: April 9, 2020</span></span></span>
+Research on collaborative robots in manufacturing found that many deployments initially assigned robots narrow repetitive tasks while workers performed loading, unloading and error correction. In these settings, collaboration often remained shallow, limiting opportunities for workers to shape workflows or develop new capabilities.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/340527842_Working_Together_with_Collaborative_Robots_in_Flexible_Manufacturing_Systems_An_Exploratory_Study" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Working Together with Collaborative Robots in Flexible</span><span class="citation-popover-snippet">Working Together with Collaborative Robots in Flexible...April 9, 2020 — 9 Apr 2020 — Cobots were shallowly introduced to pr...</span><span class="citation-popover-meta">Published: April 9, 2020</span></span></span>
 
 This highlights a broader ethical question. Is automation being used to augment human capabilities or merely to reorganise workers around machine requirements?
 
@@ -380,11 +380,11 @@ The distinction matters because AI bloom narratives often imagine robotics liber
 
 Trust is frequently discussed as a technical challenge: can workers trust a robot to operate safely? But social trust may be equally important.
 
-Employees are more likely to trust automation when they understand why it is being introduced, how decisions were made and whether their concerns influenced outcomes. Research on technology governance increasingly links trust to procedural fairness rather than technical performance alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://laborcenter.berkeley.edu/data-algorithms-at-work/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: laborcenter.berkeley.edu">[UC Berkeley Labor Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">laborcenter.berkeley.edu</span><span class="citation-popover-title">data algorithms at work</span><span class="citation-popover-snippet">UC Berkeley Labor CenterData and Algorithms at Work: The Case for Worker...3 Nov 2021 — Ultimately, the goal is that workers fully parti...</span></span></span>
+Employees are more likely to trust automation when they understand why it is being introduced, how decisions were made and whether their concerns influenced outcomes. Research on technology governance increasingly links trust to procedural fairness rather than technical performance alone.<span class="citation-chip-wrap"><a class="citation-chip" href="https://laborcenter.berkeley.edu/data-algorithms-at-work/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: laborcenter.berkeley.edu">[UC Berkeley Labor Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">laborcenter.berkeley.edu</span><span class="citation-popover-title">data algorithms at work</span><span class="citation-popover-snippet">UC Berkeley Labor CenterData and Algorithms at Work: The Case for Worker...3 Nov 2021 — Ultimately, the goal is that workers fully parti...</span></span></span>
 
 A worker may accept substantial workplace change if the process feels fair. Conversely, even a technically successful system can generate resentment if workers feel excluded.
 
-This becomes especially relevant as AI systems increasingly combine robotics with algorithmic management. The International Labour Organization has warned that AI is being used not only to automate tasks but also managerial functions, creating new concerns about surveillance, autonomy and control. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ilo.org/publications/revolutionizing-health-and-safety-role-ai-and-digitalization-work" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ilo.org">[International Labour Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ilo.org</span><span class="citation-popover-title">revolutionizing health and safety role ai and digitalization work</span><span class="citation-popover-snippet">International Labour OrganizationThe role of AI and digitalization at work23 Apr 2025 — Digitalization and automation are transforming mi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ilo.org/publications/revolutionizing-health-and-safety-role-ai-and-digitalization-work" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ilo.org">[International Labour Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ilo.org</span><span class="citation-popover-title">revolutionizing health and safety role ai and digitalization work</span><span class="citation-popover-snippet">International Labour OrganizationThe role of AI and digitalization at work23 Apr 2025 — Digitalization and automation are transforming mi...</span></span></span>
+This becomes especially relevant as AI systems increasingly combine robotics with algorithmic management. The International Labour Organization has warned that AI is being used not only to automate tasks but also managerial functions, creating new concerns about surveillance, autonomy and control.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ilo.org/publications/revolutionizing-health-and-safety-role-ai-and-digitalization-work" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ilo.org">[International Labour Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ilo.org</span><span class="citation-popover-title">revolutionizing health and safety role ai and digitalization work</span><span class="citation-popover-snippet">International Labour OrganizationThe role of AI and digitalization at work23 Apr 2025 — Digitalization and automation are transforming mi...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ilo.org/publications/revolutionizing-health-and-safety-role-ai-and-digitalization-work" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ilo.org">[International Labour Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ilo.org</span><span class="citation-popover-title">revolutionizing health and safety role ai and digitalization work</span><span class="citation-popover-snippet">International Labour OrganizationThe role of AI and digitalization at work23 Apr 2025 — Digitalization and automation are transforming mi...</span></span></span>
 
 Worker participation can act as a safeguard against these risks by creating opportunities to challenge intrusive monitoring, unrealistic productivity targets or opaque decision-making systems before they become embedded.
 
@@ -394,7 +394,7 @@ Worker participation can act as a safeguard against these risks by creating oppo
 
 Organisations that aim to preserve dignity during automation tend to share several characteristics.
 
-They communicate early rather than presenting automation as a completed decision. They explain the goals of deployment, including safety, quality or workload reduction objectives. They provide workers with opportunities to influence implementation details. They invest in [retraining]({{ 'retraining/' | relative_url }}) and career development rather than treating labour displacement as an external problem. And they evaluate success using measures beyond productivity alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://healthy-workplaces.osha.europa.eu/sites/hwc/files/hwc/publication/Advanced-robotic-automation-case-studies-summary_en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: healthy-workplaces.osha.europa.eu">[healthy-workplaces.osha.europa.eu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">healthy-workplaces.osha.europa.eu</span><span class="citation-popover-snippet">Advanced robotic automation: comparative case study reportMay 29, 2023 — This document summarises the results of 11 case studies on the i...</span><span class="citation-popover-meta">Published: May 29, 2023</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S2949882126000265" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect Importantly]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Human-robot collaboration at work: A review of workers&#x27;...by S Skavron · 2026 · Cited by 2 — At the organisational level, w...</span></span></span>, dignity-preserving implementation does not require rejecting automation. In many industries, workers themselves often support robots that remove dangerous lifting, repetitive strain injuries or hazardous exposures. The ethical issue is whether workers participate in defining the terms of that transition. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ilo.org/publications/revolutionizing-health-and-safety-role-ai-and-digitalization-work" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ilo.org">[International Labour Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ilo.org</span><span class="citation-popover-title">revolutionizing health and safety role ai and digitalization work</span><span class="citation-popover-snippet">International Labour OrganizationThe role of AI and digitalization at work23 Apr 2025 — Digitalization and automation are transforming mi...</span></span></span>
+They communicate early rather than presenting automation as a completed decision. They explain the goals of deployment, including safety, quality or workload reduction objectives. They provide workers with opportunities to influence implementation details. They invest in [retraining]({{ 'retraining/' | relative_url }}) and career development rather than treating labour displacement as an external problem. And they evaluate success using measures beyond productivity alone.<span class="citation-chip-wrap"><a class="citation-chip" href="https://healthy-workplaces.osha.europa.eu/sites/hwc/files/hwc/publication/Advanced-robotic-automation-case-studies-summary_en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: healthy-workplaces.osha.europa.eu">[healthy-workplaces.osha.europa.eu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">healthy-workplaces.osha.europa.eu</span><span class="citation-popover-snippet">Advanced robotic automation: comparative case study reportMay 29, 2023 — This document summarises the results of 11 case studies on the i...</span><span class="citation-popover-meta">Published: May 29, 2023</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S2949882126000265" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect Importantly]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Human-robot collaboration at work: A review of workers&#x27;...by S Skavron · 2026 · Cited by 2 — At the organisational level, w...</span></span></span>, dignity-preserving implementation does not require rejecting automation. In many industries, workers themselves often support robots that remove dangerous lifting, repetitive strain injuries or hazardous exposures. The ethical issue is whether workers participate in defining the terms of that transition.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ilo.org/publications/revolutionizing-health-and-safety-role-ai-and-digitalization-work" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ilo.org">[International Labour Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ilo.org</span><span class="citation-popover-title">revolutionizing health and safety role ai and digitalization work</span><span class="citation-popover-snippet">International Labour OrganizationThe role of AI and digitalization at work23 Apr 2025 — Digitalization and automation are transforming mi...</span></span></span>
 
 ## Why This Question Matters for an AI-Abundant Future
 
@@ -407,194 +407,194 @@ Worker participation is one of the mechanisms that connects technological capabi
 A future in which robots remove drudgery while workers retain voice, influence and recognition is ethically different from one in which efficiency gains are achieved through exclusion and control. The distinction may prove as important to human flourishing as the technologies themselves.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Worker Involvement Shapes Robot Automation Ethically. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Worker Involvement Shapes Robot Automation Ethically. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+%2B+Machine+by+Paul+R.+Daugherty&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human + Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wpY4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Human + Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Human+%2B+Machine+by+Paul+R.+Daugherty&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human + Machine">Human + Machine</a>
-        </h4>
-        <p class="fr-book-author">By Paul R. Daugherty, H. James Wilson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+%2B+Machine+by+Paul+R.+Daugherty&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human + Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wpY4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Human + Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Human+%2B+Machine+by+Paul+R.+Daugherty&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human + Machine">Human + Machine</a>
+</h4>
+<p class="fr-book-author">By Paul R. Daugherty, H. James Wilson</p>
         
-        <p class="fr-book-desc">Supports the idea that automation works best when humans are actively included in redesigning processes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Human+%2B+Machine+by+Paul+R.+Daugherty&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports the idea that automation works best when humans are actively included in redesigning processes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Human+%2B+Machine+by+Paul+R.+Daugherty&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Automation+and+the+Future+of+Work+by+Aaron+Benanav&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Automation and the Future of Work on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mDf_DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Automation and the Future of Work" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Automation+and+the+Future+of+Work+by+Aaron+Benanav&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Automation and the Future of Work">Automation and the Future of Work</a>
-        </h4>
-        <p class="fr-book-author">By Aaron Benanav</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Automation+and+the+Future+of+Work+by+Aaron+Benanav&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Automation and the Future of Work on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mDf_DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Automation and the Future of Work" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Automation+and+the+Future+of+Work+by+Aaron+Benanav&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Automation and the Future of Work">Automation and the Future of Work</a>
+</h4>
+<p class="fr-book-author">By Aaron Benanav</p>
         
-        <p class="fr-book-desc">Discusses how automation policy can preserve human welfare rather than simply maximise efficiency.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Automation+and+the+Future+of+Work+by+Aaron+Benanav&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses how automation policy can preserve human welfare rather than simply maximise efficiency.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Automation+and+the+Future+of+Work+by+Aaron+Benanav&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Rise+of+the+Robots+by+Martin+Ford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Rise of the Robots on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=auvHEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Rise of the Robots" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Rise+of+the+Robots+by+Martin+Ford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rise of the Robots">Rise of the Robots</a>
-        </h4>
-        <p class="fr-book-author">By Martin Ford</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Rise+of+the+Robots+by+Martin+Ford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Rise of the Robots on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=auvHEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Rise of the Robots" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Rise+of+the+Robots+by+Martin+Ford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rise of the Robots">Rise of the Robots</a>
+</h4>
+<p class="fr-book-author">By Martin Ford</p>
         
-        <p class="fr-book-desc">Explains the disruptive labour-market consequences of robotics and AI.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Rise+of+the+Robots+by+Martin+Ford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains the disruptive labour-market consequences of robotics and AI.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Rise+of+the+Robots+by+Martin+Ford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Technology+Trap+by+Carl+Benedikt+Frey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Technology Trap on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xXGODwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Technology Trap" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Technology+Trap+by+Carl+Benedikt+Frey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Technology Trap">The Technology Trap</a>
-        </h4>
-        <p class="fr-book-author">By Carl Benedikt Frey</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Technology+Trap+by+Carl+Benedikt+Frey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Technology Trap on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xXGODwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Technology Trap" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Technology+Trap+by+Carl+Benedikt+Frey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Technology Trap">The Technology Trap</a>
+</h4>
+<p class="fr-book-author">By Carl Benedikt Frey</p>
         
-        <p class="fr-book-desc">Shows how technology adoption affects workers differently depending on institutions and bargaining power.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Technology+Trap+by+Carl+Benedikt+Frey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how technology adoption affects workers differently depending on institutions and bargaining power.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Technology+Trap+by+Carl+Benedikt+Frey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+%2B+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human + Machine</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Automation+and+the+Future+of+Work&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Automation and the Future of Work</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Rise+of+the+Robots&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Rise of the Robots</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+%2B+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human + Machine</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Automation+and+the+Future+of+Work&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Automation and the Future of Work</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Rise+of+the+Robots&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Rise of the Robots</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-worker-involvement-shapes-robot-automation-ethically-robot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot figure" data-ebay-reference="how-worker-involvement-shapes-robot-automation-ethically-robot-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Titan 13 Articulated Action Figure - Poseable Robot Toy"><img src="https://i.ebayimg.com/images/g/BkgAAeSw8Ghp7erM/s-l225.jpg" alt="Listing image for Titan 13 Articulated Action Figure - Poseable Robot Toy" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-worker-involvement-shapes-robot-automation-ethically-robot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot figure" data-ebay-reference="how-worker-involvement-shapes-robot-automation-ethically-robot-figure" target="_blank" rel="sponsored noopener noreferrer">Titan 13 Articulated Action Figure - Poseable Robot Toy</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-worker-involvement-shapes-robot-automation-ethically-robot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot figure" data-ebay-reference="how-worker-involvement-shapes-robot-automation-ethically-robot-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: robot figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-worker-involvement-shapes-robot-automation-ethically-robot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot figure" data-ebay-reference="how-worker-involvement-shapes-robot-automation-ethically-robot-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-worker-involvement-shapes-robot-automation-ethically-robot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot figure" data-ebay-reference="how-worker-involvement-shapes-robot-automation-ethically-robot-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Titan 13 Articulated Action Figure - Poseable Robot Toy"><img src="https://i.ebayimg.com/images/g/BkgAAeSw8Ghp7erM/s-l225.jpg" alt="Listing image for Titan 13 Articulated Action Figure - Poseable Robot Toy" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-worker-involvement-shapes-robot-automation-ethically-robot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot figure" data-ebay-reference="how-worker-involvement-shapes-robot-automation-ethically-robot-figure" target="_blank" rel="sponsored noopener noreferrer">Titan 13 Articulated Action Figure - Poseable Robot Toy</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-worker-involvement-shapes-robot-automation-ethically-robot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot figure" data-ebay-reference="how-worker-involvement-shapes-robot-automation-ethically-robot-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot figure">Search<span data-ebay-domain-label>eBay.co.uk</span>: robot figure</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-worker-involvement-shapes-robot-automation-ethically-robot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot figure" data-ebay-reference="how-worker-involvement-shapes-robot-automation-ethically-robot-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-worker-involvement-shapes-robot-automation-ethically-robot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot figure" data-ebay-reference="how-worker-involvement-shapes-robot-automation-ethically-robot-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Transforming Car Robot Toy One Step Deformation Action Figure Anime Model Toy"><img src="https://i.ebayimg.com/images/g/FbkAAeSwdJBp9lem/s-l225.jpg" alt="Listing image for Transforming Car Robot Toy One Step Deformation Action Figure Anime Model Toy" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-worker-involvement-shapes-robot-automation-ethically-robot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot figure" data-ebay-reference="how-worker-involvement-shapes-robot-automation-ethically-robot-figure" target="_blank" rel="sponsored noopener noreferrer">Transforming Car Robot Toy One Step Deformation Action Figure Anime Model Toy</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-worker-involvement-shapes-robot-automation-ethically-robot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot figure" data-ebay-reference="how-worker-involvement-shapes-robot-automation-ethically-robot-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: robot figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-worker-involvement-shapes-robot-automation-ethically-robot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot figure" data-ebay-reference="how-worker-involvement-shapes-robot-automation-ethically-robot-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-worker-involvement-shapes-robot-automation-ethically-robot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot figure" data-ebay-reference="how-worker-involvement-shapes-robot-automation-ethically-robot-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Transforming Car Robot Toy One Step Deformation Action Figure Anime Model Toy"><img src="https://i.ebayimg.com/images/g/FbkAAeSwdJBp9lem/s-l225.jpg" alt="Listing image for Transforming Car Robot Toy One Step Deformation Action Figure Anime Model Toy" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-worker-involvement-shapes-robot-automation-ethically-robot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot figure" data-ebay-reference="how-worker-involvement-shapes-robot-automation-ethically-robot-figure" target="_blank" rel="sponsored noopener noreferrer">Transforming Car Robot Toy One Step Deformation Action Figure Anime Model Toy</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-worker-involvement-shapes-robot-automation-ethically-robot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot figure" data-ebay-reference="how-worker-involvement-shapes-robot-automation-ethically-robot-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot figure">Search<span data-ebay-domain-label>eBay.co.uk</span>: robot figure</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-worker-involvement-shapes-robot-automation-ethically-robot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot figure" data-ebay-reference="how-worker-involvement-shapes-robot-automation-ethically-robot-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-worker-involvement-shapes-robot-automation-ethically-robot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot figure" data-ebay-reference="how-worker-involvement-shapes-robot-automation-ethically-robot-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Tobot V Galaxy Detectives 8&quot; Transform Figure Boys Toy Car Truck Vehicle Robot"><img src="https://i.ebayimg.com/images/g/7CIAAOSwdTlnJHrd/s-l225.jpg" alt="Listing image for Tobot V Galaxy Detectives 8&quot; Transform Figure Boys Toy Car Truck Vehicle Robot" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-worker-involvement-shapes-robot-automation-ethically-robot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot figure" data-ebay-reference="how-worker-involvement-shapes-robot-automation-ethically-robot-figure" target="_blank" rel="sponsored noopener noreferrer">Tobot V Galaxy Detectives 8&quot; Transform Figure Boys Toy Car Truck Vehicle Robot</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-worker-involvement-shapes-robot-automation-ethically-robot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot figure" data-ebay-reference="how-worker-involvement-shapes-robot-automation-ethically-robot-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: robot figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-worker-involvement-shapes-robot-automation-ethically-robot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot figure" data-ebay-reference="how-worker-involvement-shapes-robot-automation-ethically-robot-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-worker-involvement-shapes-robot-automation-ethically-robot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot figure" data-ebay-reference="how-worker-involvement-shapes-robot-automation-ethically-robot-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Tobot V Galaxy Detectives 8&quot; Transform Figure Boys Toy Car Truck Vehicle Robot"><img src="https://i.ebayimg.com/images/g/7CIAAOSwdTlnJHrd/s-l225.jpg" alt="Listing image for Tobot V Galaxy Detectives 8&quot; Transform Figure Boys Toy Car Truck Vehicle Robot" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-worker-involvement-shapes-robot-automation-ethically-robot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot figure" data-ebay-reference="how-worker-involvement-shapes-robot-automation-ethically-robot-figure" target="_blank" rel="sponsored noopener noreferrer">Tobot V Galaxy Detectives 8&quot; Transform Figure Boys Toy Car Truck Vehicle Robot</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-worker-involvement-shapes-robot-automation-ethically-robot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot figure" data-ebay-reference="how-worker-involvement-shapes-robot-automation-ethically-robot-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot figure">Search<span data-ebay-domain-label>eBay.co.uk</span>: robot figure</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-worker-involvement-shapes-robot-automation-ethically-robot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot figure" data-ebay-reference="how-worker-involvement-shapes-robot-automation-ethically-robot-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-worker-involvement-shapes-robot-automation-ethically-robot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot figure" data-ebay-reference="how-worker-involvement-shapes-robot-automation-ethically-robot-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Titan 13 Articulated Action Figure - Poseable 3D Printed Robot Toy"><img src="https://i.ebayimg.com/images/g/wigAAOSw0JlnVdKL/s-l225.jpg" alt="Listing image for Titan 13 Articulated Action Figure - Poseable 3D Printed Robot Toy" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-worker-involvement-shapes-robot-automation-ethically-robot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot figure" data-ebay-reference="how-worker-involvement-shapes-robot-automation-ethically-robot-figure" target="_blank" rel="sponsored noopener noreferrer">Titan 13 Articulated Action Figure - Poseable 3D Printed Robot Toy</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-worker-involvement-shapes-robot-automation-ethically-robot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot figure" data-ebay-reference="how-worker-involvement-shapes-robot-automation-ethically-robot-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: robot figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-worker-involvement-shapes-robot-automation-ethically-robot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot figure" data-ebay-reference="how-worker-involvement-shapes-robot-automation-ethically-robot-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-worker-involvement-shapes-robot-automation-ethically-robot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot figure" data-ebay-reference="how-worker-involvement-shapes-robot-automation-ethically-robot-figure" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-worker-involvement-shapes-robot-automation-ethically-robot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot figure" data-ebay-reference="how-worker-involvement-shapes-robot-automation-ethically-robot-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Titan 13 Articulated Action Figure - Poseable 3D Printed Robot Toy"><img src="https://i.ebayimg.com/images/g/wigAAOSw0JlnVdKL/s-l225.jpg" alt="Listing image for Titan 13 Articulated Action Figure - Poseable 3D Printed Robot Toy" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-worker-involvement-shapes-robot-automation-ethically-robot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot figure" data-ebay-reference="how-worker-involvement-shapes-robot-automation-ethically-robot-figure" target="_blank" rel="sponsored noopener noreferrer">Titan 13 Articulated Action Figure - Poseable 3D Printed Robot Toy</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-worker-involvement-shapes-robot-automation-ethically-robot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot figure" data-ebay-reference="how-worker-involvement-shapes-robot-automation-ethically-robot-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot figure">Search<span data-ebay-domain-label>eBay.co.uk</span>: robot figure</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-worker-involvement-shapes-robot-automation-ethically-robot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot figure" data-ebay-reference="how-worker-involvement-shapes-robot-automation-ethically-robot-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-worker-involvement-shapes-robot-automation-ethically-robot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot figure" data-ebay-reference="how-worker-involvement-shapes-robot-automation-ethically-robot-figure" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -610,7 +610,7 @@ A future in which robots remove drudgery while workers retain voice, influence a
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -630,7 +630,7 @@ A future in which robots remove drudgery while workers retain voice, influence a
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -662,7 +662,7 @@ A future in which robots remove drudgery while workers retain voice, influence a
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -714,7 +714,7 @@ A future in which robots remove drudgery while workers retain voice, influence a
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -759,7 +759,7 @@ A future in which robots remove drudgery while workers retain voice, influence a
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -800,158 +800,158 @@ A future in which robots remove drudgery while workers retain voice, influence a
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2949882126000265" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2949882126000265</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Human-robot collaboration at work: A review of workers&#x27;...by S Skavron · 2026 · Cited by 2 — At the organisational level, w...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S2949882126000265" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2949882126000265</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Human-robot collaboration at work: A review of workers&#x27;...by S Skavron · 2026 · Cited by 2 — At the organisational level, w...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: sciencedirect.com  
    Title: ScienceDirect Realising human-robot collaboration in manufacturing?  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S004016252500280X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S004016252500280X</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>TC Callari · 2025 · Cited by 22 — To this end, workers should be involved in the effective design and deployment of human-robot w...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S004016252500280X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S004016252500280X</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>TC Callari · 2025 · Cited by 22 — To this end, workers should be involved in the effective design and deployment of human-robot w...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: laborcenter.berkeley.edu  
    Title: data algorithms at work  
-   Link: <a href="https://laborcenter.berkeley.edu/data-algorithms-at-work/" target="_blank" rel="noopener noreferrer nofollow">https://laborcenter.berkeley.edu/data-algorithms-at-work/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UC Berkeley Labor CenterData and Algorithms at Work: The Case for Worker...3 Nov 2021 — Ultimately, the goal is that workers fully parti...</p></details>
+   Link:<a href="https://laborcenter.berkeley.edu/data-algorithms-at-work/" target="_blank" rel="noopener noreferrer nofollow">https://laborcenter.berkeley.edu/data-algorithms-at-work/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UC Berkeley Labor CenterData and Algorithms at Work: The Case for Worker...3 Nov 2021 — Ultimately, the goal is that workers fully parti...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: econstor.eu  
    Title: GLO DP 1038  
-   Link: <a href="https://www.econstor.eu/bitstream/10419/249341/1/GLO-DP-1038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.econstor.eu/bitstream/10419/249341/1/GLO-DP-1038.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Robots, Digitalization, and Worker Voiceby F Belloc · 2022 · Cited by 12 — In this paper, we study whether the firm-level adoptio...</p></details>
+   Link:<a href="https://www.econstor.eu/bitstream/10419/249341/1/GLO-DP-1038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.econstor.eu/bitstream/10419/249341/1/GLO-DP-1038.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Robots, Digitalization, and Worker Voiceby F Belloc · 2022 · Cited by 12 — In this paper, we study whether the firm-level adoptio...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: healthy-workplaces.osha.europa.eu  
-   Link: <a href="https://healthy-workplaces.osha.europa.eu/sites/hwc/files/hwc/publication/Advanced-robotic-automation-case-studies-summary_en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://healthy-workplaces.osha.europa.eu/sites/hwc/files/hwc/publication/Advanced-robotic-automation-case-studies-summary_en.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Advanced robotic automation: comparative case study reportMay 29, 2023 — This document summarises the results of 11 case studies on the i...</p></details>
+   Link:<a href="https://healthy-workplaces.osha.europa.eu/sites/hwc/files/hwc/publication/Advanced-robotic-automation-case-studies-summary_en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://healthy-workplaces.osha.europa.eu/sites/hwc/files/hwc/publication/Advanced-robotic-automation-case-studies-summary_en.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Advanced robotic automation: comparative case study reportMay 29, 2023 — This document summarises the results of 11 case studies on the i...</p></details>
    Published: May 29, 2023  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1007/s13347-019-00377-4" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s13347-019-00377-4</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Springer LinkRobots in the Workplace: a Threat to—or Opportunity for...by J Smids · 2020 · Cited by 445 — The paper investigates both wa...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1007/s13347-019-00377-4" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s13347-019-00377-4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Springer LinkRobots in the Workplace: a Threat to—or Opportunity for...by J Smids · 2020 · Cited by 445 — The paper investigates both wa...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/1606.03846" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1606.03846</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>User Experience of a Smart Factory Robot: Assembly Line Workers Demand Adaptive RobotsJune 13, 2016...</p></details>
+   Link:<a href="https://arxiv.org/abs/1606.03846" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1606.03846</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>User Experience of a Smart Factory Robot: Assembly Line Workers Demand Adaptive RobotsJune 13, 2016...</p></details>
    Published: June 13, 2016  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: researchgate.net  
    Title: Research Gate Working Together with Collaborative Robots in Flexible  
-   Link: <a href="https://www.researchgate.net/publication/340527842_Working_Together_with_Collaborative_Robots_in_Flexible_Manufacturing_Systems_An_Exploratory_Study" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/340527842_Working_Together_with_Collaborative_Robots_in_Flexible_Manufacturing_Systems_An_Exploratory_Study</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Working Together with Collaborative Robots in Flexible...April 9, 2020 — 9 Apr 2020 — Cobots were shallowly introduced to pr...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/340527842_Working_Together_with_Collaborative_Robots_in_Flexible_Manufacturing_Systems_An_Exploratory_Study" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/340527842_Working_Together_with_Collaborative_Robots_in_Flexible_Manufacturing_Systems_An_Exploratory_Study</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Working Together with Collaborative Robots in Flexible...April 9, 2020 — 9 Apr 2020 — Cobots were shallowly introduced to pr...</p></details>
    Published: April 9, 2020  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/343602742_Employees%27_Perceptions_of_the_Implementation_of_Robotics_Artificial_Intelligence_and_Automation_RAIA_on_Job_Satisfaction_Job_Security_and_Employability" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/343602742_Employees%27_Perceptions_of_the_Implementation_of_Robotics_Artificial_Intelligence_and_Automation_RAIA_on_Job_Satisfaction_Job_Security_and_Employability</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>mentation of robotics, artificial [intelligence](&amp;#123;&amp;#123; &#x27;intelligence/&#x27; | relative_url &amp;#125;&amp;#125;) (AI), and automation (RAIA)Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/343602742_Employees%27_Perceptions_of_the_Implementation_of_Robotics_Artificial_Intelligence_and_Automation_RAIA_on_Job_Satisfaction_Job_Security_and_Employability" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/343602742_Employees%27_Perceptions_of_the_Implementation_of_Robotics_Artificial_Intelligence_and_Automation_RAIA_on_Job_Satisfaction_Job_Security_and_Employability</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>mentation of robotics, artificial [intelligence](&amp;#123;&amp;#123; &#x27;intelligence/&#x27; | relative_url &amp;#125;&amp;#125;) (AI), and automation (RAIA)Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: link.springer.com  
    Title: case-study: One collaborative robot in cooperation with two workers.Read more  
-   Link: <a href="https://link.springer.com/article/10.1007/s10845-023-02137-w" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10845-023-02137-w</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>robots in manufacturing and assembly systemsby A Keshvarparast · 2024 · Cited by 289 — Refining dynamics identification for co-bots: Case...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1007/s10845-023-02137-w" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10845-023-02137-w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>robots in manufacturing and assembly systemsby A Keshvarparast · 2024 · Cited by 289 — Refining dynamics identification for co-bots: Case...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0040162524004463" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0040162524004463</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Working with robots: Trends and future directionsby S Wang · 2025 · Cited by 30 — This study aims to review and consolidate the extant li...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0040162524004463" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0040162524004463</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Working with robots: Trends and future directionsby S Wang · 2025 · Cited by 30 — This study aims to review and consolidate the extant li...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: ilo.org  
    Title: revolutionizing health and safety role ai and digitalization work  
-   Link: <a href="https://www.ilo.org/publications/revolutionizing-health-and-safety-role-ai-and-digitalization-work" target="_blank" rel="noopener noreferrer nofollow">https://www.ilo.org/publications/revolutionizing-health-and-safety-role-ai-and-digitalization-work</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>International Labour OrganizationThe role of AI and digitalization at work23 Apr 2025 — Digitalization and automation are transforming mi...</p></details>
+   Link:<a href="https://www.ilo.org/publications/revolutionizing-health-and-safety-role-ai-and-digitalization-work" target="_blank" rel="noopener noreferrer nofollow">https://www.ilo.org/publications/revolutionizing-health-and-safety-role-ai-and-digitalization-work</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>International Labour OrganizationThe role of AI and digitalization at work23 Apr 2025 — Digitalization and automation are transforming mi...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: ilo.org  
    Title: International Labour Organization Artificial intelligence  
-   Link: <a href="https://www.ilo.org/topics-and-sectors/artificial-intelligence" target="_blank" rel="noopener noreferrer nofollow">https://www.ilo.org/topics-and-sectors/artificial-intelligence</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>International Labour OrganizationArtificial intelligenceApril 23, 2024 — The first is directed at automating tasks that workers perform...</p></details>
+   Link:<a href="https://www.ilo.org/topics-and-sectors/artificial-intelligence" target="_blank" rel="noopener noreferrer nofollow">https://www.ilo.org/topics-and-sectors/artificial-intelligence</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>International Labour OrganizationArtificial intelligenceApril 23, 2024 — The first is directed at automating tasks that workers perform...</p></details>
    Published: April 23, 2024  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: webapps.ilo.org  
-   Link: <a href="https://webapps.ilo.org/static/english/intserv/working-papers/wp170/index.html" target="_blank" rel="noopener noreferrer nofollow">https://webapps.ilo.org/static/english/intserv/working-papers/wp170/index.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Systems at Work: A Changing Psychosocial...AI Systems at Work. A Changing Psychosocial Work Environment. Tahmina Karimova. Abstract. The...</p></details>
+   Link:<a href="https://webapps.ilo.org/static/english/intserv/working-papers/wp170/index.html" target="_blank" rel="noopener noreferrer nofollow">https://webapps.ilo.org/static/english/intserv/working-papers/wp170/index.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Systems at Work: A Changing Psychosocial...AI Systems at Work. A Changing Psychosocial Work Environment. Tahmina Karimova. Abstract. The...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: ilo.org  
    Title: ai driven intrusive surveillance and loss autonomy work linked psychosocial  
-   Link: <a href="https://www.ilo.org/resource/news/ai-driven-intrusive-surveillance-and-loss-autonomy-work-linked-psychosocial" target="_blank" rel="noopener noreferrer nofollow">https://www.ilo.org/resource/news/ai-driven-intrusive-surveillance-and-loss-autonomy-work-linked-psychosocial</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>International Labour OrganizationAI-driven intrusive surveillance and loss of autonomy at...30 Apr 2026 — The findings are based on new...</p></details>
+   Link:<a href="https://www.ilo.org/resource/news/ai-driven-intrusive-surveillance-and-loss-autonomy-work-linked-psychosocial" target="_blank" rel="noopener noreferrer nofollow">https://www.ilo.org/resource/news/ai-driven-intrusive-surveillance-and-loss-autonomy-work-linked-psychosocial</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>International Labour OrganizationAI-driven intrusive surveillance and loss of autonomy at...30 Apr 2026 — The findings are based on new...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: ilo.org  
    Title: International Labour Organization AI Systems at Work A very short  
-   Link: <a href="https://www.ilo.org/sites/default/files/2026-05/9789220434086_PDF_Web_EN.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ilo.org/sites/default/files/2026-05/9789220434086_PDF_Web_EN.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>International Labour OrganizationAI Systems at WorkA very short introduction to advanced robotics, AI-based AM and smart digital systems...</p></details>
+   Link:<a href="https://www.ilo.org/sites/default/files/2026-05/9789220434086_PDF_Web_EN.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ilo.org/sites/default/files/2026-05/9789220434086_PDF_Web_EN.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>International Labour OrganizationAI Systems at WorkA very short introduction to advanced robotics, AI-based AM and smart digital systems...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: ifr.org  
    Title: Case Studies  
-   Link: <a href="https://ifr.org/case-studies/case-studies-collaborative-robots" target="_blank" rel="noopener noreferrer nofollow">https://ifr.org/case-studies/case-studies-collaborative-robots</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Collaborative RobotsCollaborative industrial robots are designed to perform tasks in collaboration with workers in industrial sectors.Rea...</p></details>
+   Link:<a href="https://ifr.org/case-studies/case-studies-collaborative-robots" target="_blank" rel="noopener noreferrer nofollow">https://ifr.org/case-studies/case-studies-collaborative-robots</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Collaborative RobotsCollaborative industrial robots are designed to perform tasks in collaboration with workers in industrial sectors.Rea...</p></details>
 
 ### Additional References
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: humanresourcesonline.net  
-   Link: <a href="https://www.humanresourcesonline.net/ilo-details-the-role-of-ai-in-improving-workplace-safety-health-risks-across-industries" target="_blank" rel="noopener noreferrer nofollow">https://www.humanresourcesonline.net/ilo-details-the-role-of-ai-in-improving-workplace-safety-health-risks-across-industries</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ILO details the role of AI in improving workplace safety &amp;...25 Apr 2025 — Automation and advanced robotics are revolutionising workplac...</p></details>
+   Link:<a href="https://www.humanresourcesonline.net/ilo-details-the-role-of-ai-in-improving-workplace-safety-health-risks-across-industries" target="_blank" rel="noopener noreferrer nofollow">https://www.humanresourcesonline.net/ilo-details-the-role-of-ai-in-improving-workplace-safety-health-risks-across-industries</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ILO details the role of AI in improving workplace safety &amp;...25 Apr 2025 — Automation and advanced robotics are revolutionising workplac...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
    Title: the report of ilo director general gilbert f houngbo to ilc2026 examines how ai  
-   Link: <a href="https://www.facebook.com/ILO.ORG/posts/the-report-of-ilo-director-general-gilbert-f-houngbo-to-ilc2026-examines-how-ai-/1404261365067176/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ILO.ORG/posts/the-report-of-ilo-director-general-gilbert-f-houngbo-to-ilc2026-examines-how-ai-/1404261365067176/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The report of ILO Director-General Gilbert F Houngbo...The report of ILO Director-General Gilbert F Houngbo to #ILC2026 examines how #AI...</p></details>
+   Link:<a href="https://www.facebook.com/ILO.ORG/posts/the-report-of-ilo-director-general-gilbert-f-houngbo-to-ilc2026-examines-how-ai-/1404261365067176/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ILO.ORG/posts/the-report-of-ilo-director-general-gilbert-f-houngbo-to-ilc2026-examines-how-ai-/1404261365067176/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The report of ILO Director-General Gilbert F Houngbo...The report of ILO Director-General Gilbert F Houngbo to #ILC2026 examines how #AI...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: iuk-business-connect.org.uk  
-   Link: <a href="https://iuk-business-connect.org.uk/wp-content/uploads/2024/07/NMIS-Findings-Report-July-2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://iuk-business-connect.org.uk/wp-content/uploads/2024/07/NMIS-Findings-Report-July-2024.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>alysis based on data from international datasets and workshops conducted from...Read more...</p></details>
+   Link:<a href="https://iuk-business-connect.org.uk/wp-content/uploads/2024/07/NMIS-Findings-Report-July-2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://iuk-business-connect.org.uk/wp-content/uploads/2024/07/NMIS-Findings-Report-July-2024.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>alysis based on data from international datasets and workshops conducted from...Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: safety4sea.com  
    Title: ilo how digitalization and automation shape workplaces  
-   Link: <a href="https://safety4sea.com/ilo-how-digitalization-and-automation-shape-workplaces/" target="_blank" rel="noopener noreferrer nofollow">https://safety4sea.com/ilo-how-digitalization-and-automation-shape-workplaces/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ILO: How digitalization and automation shape workplaces29 Apr 2025 — A new ILO report examines how AI, digitalization, robotics, and auto...</p></details>
+   Link:<a href="https://safety4sea.com/ilo-how-digitalization-and-automation-shape-workplaces/" target="_blank" rel="noopener noreferrer nofollow">https://safety4sea.com/ilo-how-digitalization-and-automation-shape-workplaces/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ILO: How digitalization and automation shape workplaces29 Apr 2025 — A new ILO report examines how AI, digitalization, robotics, and auto...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: repositum.tuwien.at  
    Title: at Collaborative Robotics in Industry 5.0  
-   Link: <a href="https://repositum.tuwien.at/bitstream/20.500.12708/17416/1/Doyle-Kent%20Mary%20-%202021%20-%20Collaborative%20robotics%20in%20industry%2050.pdf" target="_blank" rel="noopener noreferrer nofollow">https://repositum.tuwien.at/bitstream/20.500.12708/17416/1/Doyle-Kent%20Mary%20-%202021%20-%20Collaborative%20robotics%20in%20industry%2050.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by M Doyle-Kent · 2021 · Cited by 32 — Collaborative Robotics in Industry 5.0. Carried out for the purpose of obtaining Dr.-Stud...</p></details>
+   Link:<a href="https://repositum.tuwien.at/bitstream/20.500.12708/17416/1/Doyle-Kent%20Mary%20-%202021%20-%20Collaborative%20robotics%20in%20industry%2050.pdf" target="_blank" rel="noopener noreferrer nofollow">https://repositum.tuwien.at/bitstream/20.500.12708/17416/1/Doyle-Kent%20Mary%20-%202021%20-%20Collaborative%20robotics%20in%20industry%2050.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by M Doyle-Kent · 2021 · Cited by 32 — Collaborative Robotics in Industry 5.0. Carried out for the purpose of obtaining Dr.-Stud...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/09585192.2022.2043925" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/09585192.2022.2043925</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The role of robotization in work design: a comparative case...by HA Berkers · 2023 · Cited by 77 — In this comparative case study, we ex...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/09585192.2022.2043925" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/09585192.2022.2043925</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The role of robotization in work design: a comparative case...by HA Berkers · 2023 · Cited by 77 — In this comparative case study, we ex...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=ewmoMwmwq3U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ewmoMwmwq3U</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Robots Will Replace Factory Workers by 2028 — No One Voted on It...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ewmoMwmwq3U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ewmoMwmwq3U</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Robots Will Replace Factory Workers by 2028 — No One Voted on It...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
    Title: Lifelong Robot Adaptation with Task-Driven Co-Design and Integration  
-   Link: <a href="https://www.youtube.com/watch?v=Tv4rmWFn0D4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Tv4rmWFn0D4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI, job quality and worker voice: Conditions for mutual gains in the digital economy...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Tv4rmWFn0D4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Tv4rmWFn0D4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI, job quality and worker voice: Conditions for mutual gains in the digital economy...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: oecd.org  
    Title: 2247ce58 en  
-   Link: <a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2023/03/the-impact-of-ai-on-the-workplace-evidence-from-oecd-case-studies-of-ai-implementation_b4c2c6ee/2247ce58-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2023/03/the-impact-of-ai-on-the-workplace-evidence-from-oecd-case-studies-of-ai-implementation_b4c2c6ee/2247ce58-en.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Evidence from OECD case studies of AI implementationby A Milanez · 2023 · Cited by 133 — However, across all case studies, there is good...</p></details>
+   Link:<a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2023/03/the-impact-of-ai-on-the-workplace-evidence-from-oecd-case-studies-of-ai-implementation_b4c2c6ee/2247ce58-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2023/03/the-impact-of-ai-on-the-workplace-evidence-from-oecd-case-studies-of-ai-implementation_b4c2c6ee/2247ce58-en.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Evidence from OECD case studies of AI implementationby A Milanez · 2023 · Cited by 133 — However, across all case studies, there is good...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41598-025-86255-w" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-025-86255-w</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Human–robot interactions and experiences of staff...by V Macalupu · 2025 · Cited by 28 — This study investigates how 34 staff interacted...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41598-025-86255-w" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-025-86255-w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Human–robot interactions and experiences of staff...by V Macalupu · 2025 · Cited by 28 — This study investigates how 34 staff interacted...</p></details>

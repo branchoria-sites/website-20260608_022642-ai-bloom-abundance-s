@@ -278,7 +278,7 @@ image: /assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_gnome_materia_2d
 GNoME's most important achievement was not that it found hundreds of thousands of revolutionary new materials. It was that it dramatically expanded the map of materials that scientists can explore.
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_gnome_materia_2df6a0_stable_not_us_070e3d-Illustration-1-dark.svg" | relative_url }}" alt="Stable vs useful illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_gnome_materia_2df6a0_stable_not_us_070e3d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_gnome_materia_2df6a0_stable_not_us_070e3d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-That distinction matters. When Google DeepMind reported roughly 381,000 predicted stable materials among more than 2 million candidate crystal structures, many headlines implied that a vast new catalogue of batteries, superconductors and clean-[energy]({{ 'energy/' | relative_url }}) technologies had effectively been discovered. In reality, "stable" is only one filter in a long process that determines whether a material becomes useful. A crystal can be thermodynamically stable and still be impossible to manufacture at scale, too expensive to use, unsafe, fragile, inefficient or simply worse than existing alternatives. Nature <span class="citation-chip-wrap"><a class="citation-chip" href="https://deepmind.google/blog/millions-of-new-materials-discovered-with-deep-learning/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deepmind.google">[Google DeepMind]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deepmind.google</span><span class="citation-popover-title">millions of new materials discovered with deep learning</span><span class="citation-popover-snippet">Google DeepMindMillions of new materials discovered with deep learning29 Nov 2023 — AI tool GNoME finds 2.2 million new crystals, includi...</span></span></span>
+That distinction matters. When Google DeepMind reported roughly 381,000 predicted stable materials among more than 2 million candidate crystal structures, many headlines implied that a vast new catalogue of batteries, superconductors and clean-[energy]({{ 'energy/' | relative_url }}) technologies had effectively been discovered. In reality, "stable" is only one filter in a long process that determines whether a material becomes useful. A crystal can be thermodynamically stable and still be impossible to manufacture at scale, too expensive to use, unsafe, fragile, inefficient or simply worse than existing alternatives. Nature<span class="citation-chip-wrap"><a class="citation-chip" href="https://deepmind.google/blog/millions-of-new-materials-discovered-with-deep-learning/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deepmind.google">[Google DeepMind]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deepmind.google</span><span class="citation-popover-title">millions of new materials discovered with deep learning</span><span class="citation-popover-snippet">Google DeepMindMillions of new materials discovered with deep learning29 Nov 2023 — AI tool GNoME finds 2.2 million new crystals, includi...</span></span></span>
 
 For the wider AI bloom argument, this is a useful reality check. AI may greatly accelerate scientific search, but many of civilisation's bottlenecks sit beyond prediction. The path from a promising computational result to a technology that changes everyday life still runs through synthesis, testing, engineering, economics and deployment.
 
@@ -286,9 +286,9 @@ For the wider AI bloom argument, this is a useful reality check. AI may greatly 
 
 The central misunderstanding is that GNoME predicted usefulness. It did not.
 
-GNoME was trained to predict whether proposed crystal structures are likely to be thermodynamically stable. In materials science, stability usually means that a particular arrangement of atoms is unlikely to spontaneously decompose into a more energetically favourable combination of substances. Researchers often describe this using the "convex hull" of stable phases. Materials that lie on or near that hull are considered promising candidates for existence in the real world. <span class="citation-chip-wrap"><a class="citation-chip" href="https://docs.materialsproject.org/frequently-asked-questions/glossary-of-terms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: docs.materialsproject.org">[docs.materialsproject.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">docs.materialsproject.org</span><span class="citation-popover-title">glossary of terms</span><span class="citation-popover-snippet">18 Aug 2025 — A measure of a material&#x27;s thermodynamic stability.... A material which lies &quot;on the convex hull&quot; is predicted to be thermo...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://bartel.cems.umn.edu/sites/bartel.cems.umn.edu/files/2022-07/bartel.bartel_2022-j.mater_.sci_.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bartel.cems.umn.edu">[2bartel.cems.umn.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bartel.cems.umn.edu</span><span class="citation-popover-snippet">t lie above the DEf = 0 (or equivalent reference state) are neces- sarily unstable.Read more...</span></span></span>
+GNoME was trained to predict whether proposed crystal structures are likely to be thermodynamically stable. In materials science, stability usually means that a particular arrangement of atoms is unlikely to spontaneously decompose into a more energetically favourable combination of substances. Researchers often describe this using the "convex hull" of stable phases. Materials that lie on or near that hull are considered promising candidates for existence in the real world.<span class="citation-chip-wrap"><a class="citation-chip" href="https://docs.materialsproject.org/frequently-asked-questions/glossary-of-terms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: docs.materialsproject.org">[docs.materialsproject.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">docs.materialsproject.org</span><span class="citation-popover-title">glossary of terms</span><span class="citation-popover-snippet">18 Aug 2025 — A measure of a material&#x27;s thermodynamic stability.... A material which lies &quot;on the convex hull&quot; is predicted to be thermo...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://bartel.cems.umn.edu/sites/bartel.cems.umn.edu/files/2022-07/bartel.bartel_2022-j.mater_.sci_.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bartel.cems.umn.edu">[2bartel.cems.umn.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bartel.cems.umn.edu</span><span class="citation-popover-snippet">t lie above the DEf = 0 (or equivalent reference state) are neces- sarily unstable.Read more...</span></span></span>
 
-The achievement was impressive because the search space is enormous. GNoME identified roughly 381,000 structures predicted to be stable, expanding the known catalogue of stable inorganic materials by roughly an order of magnitude. Hundreds have already been experimentally realised, providing evidence that the system is finding genuine possibilities rather than random noise. Nature PubMed But stability is a narrow criterion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://newscenter.lbl.gov/2023/11/29/google-deepmind-new-compounds-materials-project/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newscenter.lbl.gov">[newscenter.lbl.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newscenter.lbl.gov</span><span class="citation-popover-title">google deepmind new compounds materials project</span><span class="citation-popover-snippet">Berkeley Lab News CenterGoogle DeepMind Adds Nearly 400000 New Compounds to...29 Nov 2023 — GNoME researchers ultimately produced 2.2 mi...</span></span></span>
+The achievement was impressive because the search space is enormous. GNoME identified roughly 381,000 structures predicted to be stable, expanding the known catalogue of stable inorganic materials by roughly an order of magnitude. Hundreds have already been experimentally realised, providing evidence that the system is finding genuine possibilities rather than random noise. Nature PubMed But stability is a narrow criterion.<span class="citation-chip-wrap"><a class="citation-chip" href="https://newscenter.lbl.gov/2023/11/29/google-deepmind-new-compounds-materials-project/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newscenter.lbl.gov">[newscenter.lbl.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newscenter.lbl.gov</span><span class="citation-popover-title">google deepmind new compounds materials project</span><span class="citation-popover-snippet">Berkeley Lab News CenterGoogle DeepMind Adds Nearly 400000 New Compounds to...29 Nov 2023 — GNoME researchers ultimately produced 2.2 mi...</span></span></span>
 
 A useful analogy is drug [discovery]({{ 'discovery/' | relative_url }}). Imagine an AI that could generate millions of molecules unlikely to fall apart chemically. That would be valuable, but it would not mean millions of medicines had been discovered. The molecules would still need to prove effective, safe, manufacturable and commercially viable. Materials discovery faces a similar problem.
 
@@ -325,15 +325,15 @@ This is why researchers often describe materials discovery as a funnel rather th
 
 One of the biggest gaps between prediction and reality is synthesis.
 
-A material can appear stable in calculations yet remain extremely difficult to make in practice. Theoretical stability often assumes ideal conditions that may be hard to reproduce in laboratories or factories. Some compounds require unusual temperatures, pressures, precursor chemicals or growth processes. Others may form unwanted competing phases during production. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/an-ai-dreamed-up-380000-new-materials-the-next-challenge-is-making-them" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Google Deep Mind&#x27;s AI Dreamed Up 380,000 New Materials</span><span class="citation-popover-snippet">The Next Challenge Is Making ThemNovember 29, 2023 — Google DeepMind developed an AI program, GNoME, which has predicted 380,000 new stab...</span><span class="citation-popover-meta">Published: November 29, 2023</span></span></span>
+A material can appear stable in calculations yet remain extremely difficult to make in practice. Theoretical stability often assumes ideal conditions that may be hard to reproduce in laboratories or factories. Some compounds require unusual temperatures, pressures, precursor chemicals or growth processes. Others may form unwanted competing phases during production.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/an-ai-dreamed-up-380000-new-materials-the-next-challenge-is-making-them" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Google Deep Mind&#x27;s AI Dreamed Up 380,000 New Materials</span><span class="citation-popover-snippet">The Next Challenge Is Making ThemNovember 29, 2023 — Google DeepMind developed an AI program, GNoME, which has predicted 380,000 new stab...</span><span class="citation-popover-meta">Published: November 29, 2023</span></span></span>
 
-Researchers in the field increasingly distinguish between *stability* and *synthesizability* — the probability that a material can actually be created reliably. Recent work has focused specifically on developing AI systems that estimate synthesizability because stability predictions alone are not enough to identify realistic targets. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1803.01932" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Generalized convex hull construction for materials discovery</span><span class="citation-popover-snippet">arXiv Generalized convex hull construction for materials discovery</span></span></span>
+Researchers in the field increasingly distinguish between *stability* and *synthesizability* — the probability that a material can actually be created reliably. Recent work has focused specifically on developing AI systems that estimate synthesizability because stability predictions alone are not enough to identify realistic targets.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1803.01932" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Generalized convex hull construction for materials discovery</span><span class="citation-popover-snippet">arXiv Generalized convex hull construction for materials discovery</span></span></span>
 
 The challenge becomes even larger when moving from laboratory-scale production to industrial manufacturing.
 
 A material that can be produced in milligram quantities under tightly controlled conditions may still be useless for batteries, semiconductors or energy infrastructure if production cannot be scaled economically.
 
-This is one reason the experimental [validation]({{ 'validation/' | relative_url }}) numbers, although impressive, remain much smaller than the total catalogue. Hundreds of successful syntheses are meaningful evidence. They are not evidence that hundreds of thousands of practical materials are ready for deployment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-023-06735-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Scaling deep learning for materials discoveryby A Merchant · 2023 · Cited by 1611 — b, Exploration enabled by GNoME has led to 381...</span></span></span>
+This is one reason the experimental [validation]({{ 'validation/' | relative_url }}) numbers, although impressive, remain much smaller than the total catalogue. Hundreds of successful syntheses are meaningful evidence. They are not evidence that hundreds of thousands of practical materials are ready for deployment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-023-06735-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Scaling deep learning for materials discoveryby A Merchant · 2023 · Cited by 1611 — b, Exploration enabled by GNoME has led to 381...</span></span></span>
 
 ## The hidden bottleneck: property testing
 
@@ -347,7 +347,7 @@ This is where the comparison with AlphaFold becomes imperfect.
 
 Protein structure prediction solved a specific scientific problem that biologists had struggled with for decades. But knowing a protein structure is often directly useful for further biological investigation.
 
-Materials science is more multidimensional. A crystal's usefulness depends on many interacting properties. Stability is only one of them. Researchers still need to measure conductivity, strength, thermal behaviour, corrosion resistance, toxicity, manufacturability and many other factors before understanding whether a candidate matters. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/content/article/materials-predicting-ai-deepmind-could-revolutionize-electronics-batteries-and-solar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">Materials-predicting AI from DeepMind could revolutionize...29 Nov 2023 — External benchmarks suggest GNoME&#x27;s success rate at pre...</span></span></span>
+Materials science is more multidimensional. A crystal's usefulness depends on many interacting properties. Stability is only one of them. Researchers still need to measure conductivity, strength, thermal behaviour, corrosion resistance, toxicity, manufacturability and many other factors before understanding whether a candidate matters.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/content/article/materials-predicting-ai-deepmind-could-revolutionize-electronics-batteries-and-solar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">Materials-predicting AI from DeepMind could revolutionize...29 Nov 2023 — External benchmarks suggest GNoME&#x27;s success rate at pre...</span></span></span>
 
 As a result, the number of potentially valuable materials can remain very large long after stability has been established.
 
@@ -385,13 +385,13 @@ GNoME highlights a broader pattern likely to appear throughout AI-enabled scienc
 
 Prediction is becoming cheaper faster than validation.
 
-Machine-learning systems can now generate enormous numbers of hypotheses in fields ranging from biology to chemistry to materials science. But experimental testing remains constrained by physical reality. Laboratories require equipment, materials, energy, time and skilled researchers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/d41586-023-03745-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Google AI and robots join forces to build new materials29 Nov 2023 — Tool from Google DeepMind predicts nearly 400000 stable substa...</span></span></span>
+Machine-learning systems can now generate enormous numbers of hypotheses in fields ranging from biology to chemistry to materials science. But experimental testing remains constrained by physical reality. Laboratories require equipment, materials, energy, time and skilled researchers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/d41586-023-03745-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Google AI and robots join forces to build new materials29 Nov 2023 — Tool from Google DeepMind predicts nearly 400000 stable substa...</span></span></span>
 
 This creates a new imbalance.
 
 Instead of scientists struggling to find promising candidates, they increasingly struggle to evaluate the flood of possibilities produced by computational systems.
 
-Some researchers argue that the next major challenge is therefore not generating more candidates but improving the entire downstream pipeline: robotic laboratories, automated synthesis, high-throughput testing and better methods for identifying which predictions deserve attention first. Nature <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.chemistryworld.com/news/robotic-chemistry-lab-joins-forces-with-google-ai-to-predict-then-make-new-inorganic-materials/4018575.article" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chemistryworld.com">[Chemistry World]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chemistryworld.com</span><span class="citation-popover-snippet">Robotic chemistry lab joins forces with Google AI to predict...30 Nov 2023 — They showed that, by improving the Gnome algorithm through...</span></span></span>
+Some researchers argue that the next major challenge is therefore not generating more candidates but improving the entire downstream pipeline: robotic laboratories, automated synthesis, high-throughput testing and better methods for identifying which predictions deserve attention first. Nature<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.chemistryworld.com/news/robotic-chemistry-lab-joins-forces-with-google-ai-to-predict-then-make-new-inorganic-materials/4018575.article" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chemistryworld.com">[Chemistry World]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chemistryworld.com</span><span class="citation-popover-snippet">Robotic chemistry lab joins forces with Google AI to predict...30 Nov 2023 — They showed that, by improving the Gnome algorithm through...</span></span></span>
 
 In that sense, GNoME may have shifted the bottleneck rather than removed it.
 
@@ -417,7 +417,7 @@ A candidate material typically passes through several filters:
 
 Failure can occur at every stage.
 
-The overwhelming majority of candidates will never reach the end of this funnel. That is normal. The value of systems like GNoME comes from increasing the number of potentially promising starting points and reducing the time spent searching blindly. Nature <span class="citation-chip-wrap"><a class="citation-chip" href="https://deepmind.google/blog/millions-of-new-materials-discovered-with-deep-learning/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deepmind.google">[Google DeepMind]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deepmind.google</span><span class="citation-popover-title">millions of new materials discovered with deep learning</span><span class="citation-popover-snippet">Google DeepMindMillions of new materials discovered with deep learning29 Nov 2023 — AI tool GNoME finds 2.2 million new crystals, includi...</span></span></span>
+The overwhelming majority of candidates will never reach the end of this funnel. That is normal. The value of systems like GNoME comes from increasing the number of potentially promising starting points and reducing the time spent searching blindly. Nature<span class="citation-chip-wrap"><a class="citation-chip" href="https://deepmind.google/blog/millions-of-new-materials-discovered-with-deep-learning/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deepmind.google">[Google DeepMind]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deepmind.google</span><span class="citation-popover-title">millions of new materials discovered with deep learning</span><span class="citation-popover-snippet">Google DeepMindMillions of new materials discovered with deep learning29 Nov 2023 — AI tool GNoME finds 2.2 million new crystals, includi...</span></span></span>
 
 For advocates of AI-driven scientific acceleration, this remains significant. If future systems can generate better candidates, predict more useful properties, guide synthesis and automate experimentation, the entire discovery pipeline could speed up. But the key word is *could*. GNoME demonstrates an expansion of possibility space, not the immediate arrival of material abundance.
 
@@ -426,194 +426,194 @@ The deeper lesson is that scientific discovery is not a single bottleneck. AI ma
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-q8EFTbg1VM" title="Google&#x27;s GNoME AI Model: Reshaping Industries with Material Discoveries" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-q8EFTbg1VM" target="_blank" rel="noopener noreferrer">Google&#x27;s GNoME AI Model: Reshaping Industries with Material Discoveries</a></p><p class="youtube-embed-meta">Channel: AI Breakthroughs &middot; Views: 3.2K &middot; Uploaded: January 2024 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-q8EFTbg1VM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-q8EFTbg1VM">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why stable materials are not enough. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why stable materials are not enough. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Stuff+Matters+by+Mark+Miodownik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Stuff Matters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_5yUAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Stuff Matters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Stuff+Matters+by+Mark+Miodownik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Stuff Matters">Stuff Matters</a>
-        </h4>
-        <p class="fr-book-author">By Mark Miodownik</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Stuff+Matters+by+Mark+Miodownik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Stuff Matters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_5yUAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Stuff Matters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Stuff+Matters+by+Mark+Miodownik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Stuff Matters">Stuff Matters</a>
+</h4>
+<p class="fr-book-author">By Mark Miodownik</p>
         
-        <p class="fr-book-desc">Explains why physical properties, usability and context matter beyond basic stability.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Stuff+Matters+by+Mark+Miodownik&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why physical properties, usability and context matter beyond basic stability.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Stuff+Matters+by+Mark+Miodownik&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Alchemy+of+Us+by+Ainissa+Ramirez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Alchemy of Us on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KM_XDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Alchemy of Us" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Alchemy+of+Us+by+Ainissa+Ramirez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Alchemy of Us">The Alchemy of Us</a>
-        </h4>
-        <p class="fr-book-author">By Ainissa Ramirez</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Alchemy+of+Us+by+Ainissa+Ramirez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Alchemy of Us on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KM_XDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Alchemy of Us" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Alchemy+of+Us+by+Ainissa+Ramirez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Alchemy of Us">The Alchemy of Us</a>
+</h4>
+<p class="fr-book-author">By Ainissa Ramirez</p>
         
-        <p class="fr-book-desc">Shows how useful materials become valuable only when they change real systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Alchemy+of+Us+by+Ainissa+Ramirez&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how useful materials become valuable only when they change real systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Alchemy+of+Us+by+Ainissa+Ramirez&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Innovation+Works+by+Matt+Ridley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Innovation Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AqLhyAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How Innovation Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+Innovation+Works+by+Matt+Ridley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Innovation Works">How Innovation Works</a>
-        </h4>
-        <p class="fr-book-author">By Matt Ridley</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Innovation+Works+by+Matt+Ridley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Innovation Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AqLhyAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How Innovation Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+Innovation+Works+by+Matt+Ridley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Innovation Works">How Innovation Works</a>
+</h4>
+<p class="fr-book-author">By Matt Ridley</p>
         
-        <p class="fr-book-desc">Helps explain why discovery is only one step before deployment and impact.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+Innovation+Works+by+Matt+Ridley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps explain why discovery is only one step before deployment and impact.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+Innovation+Works+by+Matt+Ridley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Knowledge+Machine+by+Michael+Strevens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Knowledge Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=f4aQEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Knowledge Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Knowledge+Machine+by+Michael+Strevens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Knowledge Machine">The Knowledge Machine</a>
-        </h4>
-        <p class="fr-book-author">By Michael Strevens</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Knowledge+Machine+by+Michael+Strevens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Knowledge Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=f4aQEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Knowledge Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Knowledge+Machine+by+Michael+Strevens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Knowledge Machine">The Knowledge Machine</a>
+</h4>
+<p class="fr-book-author">By Michael Strevens</p>
         
-        <p class="fr-book-desc">Reinforces the distinction between plausible prediction and useful confirmed knowledge.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Knowledge+Machine+by+Michael+Strevens&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Reinforces the distinction between plausible prediction and useful confirmed knowledge.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Knowledge+Machine+by+Michael+Strevens&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Stuff+Matters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Stuff Matters</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Alchemy+of+Us&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Alchemy of Us</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Innovation+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Innovation Works</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Stuff+Matters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Stuff Matters</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Alchemy+of+Us&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Alchemy of Us</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Innovation+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Innovation Works</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=molecule+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stable-vs-useful-why-stable-materials-are-not-enough-ai-bloom-abundance-superintelligence-and-hu-molecule-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="molecule model" data-ebay-reference="stable-vs-useful-why-stable-materials-are-not-enough-ai-bloom-abundance-superintelligence-and-hu-molecule-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mid Century Modern Atomic Molecule Model Sculpture – Vintage Science Decor"><img src="{{ '/assets/images/marketplace-covers/d1713c23b41f250bcdf7.jpg' | relative_url }}" alt="Listing image for Mid Century Modern Atomic Molecule Model Sculpture – Vintage Science Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=molecule+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stable-vs-useful-why-stable-materials-are-not-enough-ai-bloom-abundance-superintelligence-and-hu-molecule-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="molecule model" data-ebay-reference="stable-vs-useful-why-stable-materials-are-not-enough-ai-bloom-abundance-superintelligence-and-hu-molecule-model" target="_blank" rel="sponsored noopener noreferrer">Mid Century Modern Atomic Molecule Model Sculpture – Vintage Science Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=molecule+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stable-vs-useful-why-stable-materials-are-not-enough-ai-bloom-abundance-superintelligence-and-hu-molecule-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="molecule model" data-ebay-reference="stable-vs-useful-why-stable-materials-are-not-enough-ai-bloom-abundance-superintelligence-and-hu-molecule-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for molecule model">Search <span data-ebay-domain-label>eBay.co.uk</span>: molecule model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=molecule+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stable-vs-useful-why-stable-materials-are-not-enough-ai-bloom-abundance-superintelligence-and-hu-molecule-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="molecule model" data-ebay-reference="stable-vs-useful-why-stable-materials-are-not-enough-ai-bloom-abundance-superintelligence-and-hu-molecule-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=molecule+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stable-vs-useful-why-stable-materials-are-not-enough-ai-bloom-abundance-superintelligence-and-hu-molecule-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="molecule model" data-ebay-reference="stable-vs-useful-why-stable-materials-are-not-enough-ai-bloom-abundance-superintelligence-and-hu-molecule-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mid Century Modern Atomic Molecule Model Sculpture – Vintage Science Decor"><img src="{{ '/assets/images/marketplace-covers/d1713c23b41f250bcdf7.jpg' | relative_url }}" alt="Listing image for Mid Century Modern Atomic Molecule Model Sculpture – Vintage Science Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=molecule+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stable-vs-useful-why-stable-materials-are-not-enough-ai-bloom-abundance-superintelligence-and-hu-molecule-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="molecule model" data-ebay-reference="stable-vs-useful-why-stable-materials-are-not-enough-ai-bloom-abundance-superintelligence-and-hu-molecule-model" target="_blank" rel="sponsored noopener noreferrer">Mid Century Modern Atomic Molecule Model Sculpture – Vintage Science Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=molecule+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stable-vs-useful-why-stable-materials-are-not-enough-ai-bloom-abundance-superintelligence-and-hu-molecule-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="molecule model" data-ebay-reference="stable-vs-useful-why-stable-materials-are-not-enough-ai-bloom-abundance-superintelligence-and-hu-molecule-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for molecule model">Search<span data-ebay-domain-label>eBay.co.uk</span>: molecule model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=molecule+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stable-vs-useful-why-stable-materials-are-not-enough-ai-bloom-abundance-superintelligence-and-hu-molecule-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="molecule model" data-ebay-reference="stable-vs-useful-why-stable-materials-are-not-enough-ai-bloom-abundance-superintelligence-and-hu-molecule-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=molecule+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stable-vs-useful-why-stable-materials-are-not-enough-ai-bloom-abundance-superintelligence-and-hu-molecule-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="molecule model" data-ebay-reference="stable-vs-useful-why-stable-materials-are-not-enough-ai-bloom-abundance-superintelligence-and-hu-molecule-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1950’s Bakelite Molecule Model Set Made By Catalin, Waltham Abbey"><img src="{{ '/assets/images/marketplace-covers/08d0ac402bdf47ed4c63.jpg' | relative_url }}" alt="Listing image for 1950’s Bakelite Molecule Model Set Made By Catalin, Waltham Abbey" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=molecule+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stable-vs-useful-why-stable-materials-are-not-enough-ai-bloom-abundance-superintelligence-and-hu-molecule-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="molecule model" data-ebay-reference="stable-vs-useful-why-stable-materials-are-not-enough-ai-bloom-abundance-superintelligence-and-hu-molecule-model" target="_blank" rel="sponsored noopener noreferrer">1950’s Bakelite Molecule Model Set Made By Catalin, Waltham Abbey</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=molecule+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stable-vs-useful-why-stable-materials-are-not-enough-ai-bloom-abundance-superintelligence-and-hu-molecule-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="molecule model" data-ebay-reference="stable-vs-useful-why-stable-materials-are-not-enough-ai-bloom-abundance-superintelligence-and-hu-molecule-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for molecule model">Search <span data-ebay-domain-label>eBay.co.uk</span>: molecule model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=molecule+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stable-vs-useful-why-stable-materials-are-not-enough-ai-bloom-abundance-superintelligence-and-hu-molecule-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="molecule model" data-ebay-reference="stable-vs-useful-why-stable-materials-are-not-enough-ai-bloom-abundance-superintelligence-and-hu-molecule-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=molecule+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stable-vs-useful-why-stable-materials-are-not-enough-ai-bloom-abundance-superintelligence-and-hu-molecule-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="molecule model" data-ebay-reference="stable-vs-useful-why-stable-materials-are-not-enough-ai-bloom-abundance-superintelligence-and-hu-molecule-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1950’s Bakelite Molecule Model Set Made By Catalin, Waltham Abbey"><img src="{{ '/assets/images/marketplace-covers/08d0ac402bdf47ed4c63.jpg' | relative_url }}" alt="Listing image for 1950’s Bakelite Molecule Model Set Made By Catalin, Waltham Abbey" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=molecule+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stable-vs-useful-why-stable-materials-are-not-enough-ai-bloom-abundance-superintelligence-and-hu-molecule-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="molecule model" data-ebay-reference="stable-vs-useful-why-stable-materials-are-not-enough-ai-bloom-abundance-superintelligence-and-hu-molecule-model" target="_blank" rel="sponsored noopener noreferrer">1950’s Bakelite Molecule Model Set Made By Catalin, Waltham Abbey</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=molecule+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stable-vs-useful-why-stable-materials-are-not-enough-ai-bloom-abundance-superintelligence-and-hu-molecule-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="molecule model" data-ebay-reference="stable-vs-useful-why-stable-materials-are-not-enough-ai-bloom-abundance-superintelligence-and-hu-molecule-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for molecule model">Search<span data-ebay-domain-label>eBay.co.uk</span>: molecule model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=molecule+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stable-vs-useful-why-stable-materials-are-not-enough-ai-bloom-abundance-superintelligence-and-hu-molecule-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="molecule model" data-ebay-reference="stable-vs-useful-why-stable-materials-are-not-enough-ai-bloom-abundance-superintelligence-and-hu-molecule-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=molecule+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stable-vs-useful-why-stable-materials-are-not-enough-ai-bloom-abundance-superintelligence-and-hu-molecule-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="molecule model" data-ebay-reference="stable-vs-useful-why-stable-materials-are-not-enough-ai-bloom-abundance-superintelligence-and-hu-molecule-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DMT Spirit Molecule Model Psychedelic Science Stick and Ball Chemisty Molecular"><img src="{{ '/assets/images/marketplace-covers/658b0700fe2825e2a397.jpg' | relative_url }}" alt="Listing image for DMT Spirit Molecule Model Psychedelic Science Stick and Ball Chemisty Molecular" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=molecule+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stable-vs-useful-why-stable-materials-are-not-enough-ai-bloom-abundance-superintelligence-and-hu-molecule-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="molecule model" data-ebay-reference="stable-vs-useful-why-stable-materials-are-not-enough-ai-bloom-abundance-superintelligence-and-hu-molecule-model" target="_blank" rel="sponsored noopener noreferrer">DMT Spirit Molecule Model Psychedelic Science Stick and Ball Chemisty Molecular</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=molecule+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stable-vs-useful-why-stable-materials-are-not-enough-ai-bloom-abundance-superintelligence-and-hu-molecule-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="molecule model" data-ebay-reference="stable-vs-useful-why-stable-materials-are-not-enough-ai-bloom-abundance-superintelligence-and-hu-molecule-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for molecule model">Search <span data-ebay-domain-label>eBay.co.uk</span>: molecule model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=molecule+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stable-vs-useful-why-stable-materials-are-not-enough-ai-bloom-abundance-superintelligence-and-hu-molecule-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="molecule model" data-ebay-reference="stable-vs-useful-why-stable-materials-are-not-enough-ai-bloom-abundance-superintelligence-and-hu-molecule-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=molecule+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stable-vs-useful-why-stable-materials-are-not-enough-ai-bloom-abundance-superintelligence-and-hu-molecule-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="molecule model" data-ebay-reference="stable-vs-useful-why-stable-materials-are-not-enough-ai-bloom-abundance-superintelligence-and-hu-molecule-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DMT Spirit Molecule Model Psychedelic Science Stick and Ball Chemisty Molecular"><img src="{{ '/assets/images/marketplace-covers/658b0700fe2825e2a397.jpg' | relative_url }}" alt="Listing image for DMT Spirit Molecule Model Psychedelic Science Stick and Ball Chemisty Molecular" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=molecule+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stable-vs-useful-why-stable-materials-are-not-enough-ai-bloom-abundance-superintelligence-and-hu-molecule-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="molecule model" data-ebay-reference="stable-vs-useful-why-stable-materials-are-not-enough-ai-bloom-abundance-superintelligence-and-hu-molecule-model" target="_blank" rel="sponsored noopener noreferrer">DMT Spirit Molecule Model Psychedelic Science Stick and Ball Chemisty Molecular</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=molecule+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stable-vs-useful-why-stable-materials-are-not-enough-ai-bloom-abundance-superintelligence-and-hu-molecule-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="molecule model" data-ebay-reference="stable-vs-useful-why-stable-materials-are-not-enough-ai-bloom-abundance-superintelligence-and-hu-molecule-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for molecule model">Search<span data-ebay-domain-label>eBay.co.uk</span>: molecule model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=molecule+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stable-vs-useful-why-stable-materials-are-not-enough-ai-bloom-abundance-superintelligence-and-hu-molecule-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="molecule model" data-ebay-reference="stable-vs-useful-why-stable-materials-are-not-enough-ai-bloom-abundance-superintelligence-and-hu-molecule-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=molecule+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stable-vs-useful-why-stable-materials-are-not-enough-ai-bloom-abundance-superintelligence-and-hu-molecule-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="molecule model" data-ebay-reference="stable-vs-useful-why-stable-materials-are-not-enough-ai-bloom-abundance-superintelligence-and-hu-molecule-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Molecular Model Kit (238pcs), Chemistry Molecule Science Gifts for Ochem6574"><img src="{{ '/assets/images/marketplace-covers/2046bcd7c4df67485a0f.jpg' | relative_url }}" alt="Listing image for Molecular Model Kit (238pcs), Chemistry Molecule Science Gifts for Ochem6574" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=molecule+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stable-vs-useful-why-stable-materials-are-not-enough-ai-bloom-abundance-superintelligence-and-hu-molecule-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="molecule model" data-ebay-reference="stable-vs-useful-why-stable-materials-are-not-enough-ai-bloom-abundance-superintelligence-and-hu-molecule-model" target="_blank" rel="sponsored noopener noreferrer">Molecular Model Kit (238pcs), Chemistry Molecule Science Gifts for Ochem6574</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=molecule+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stable-vs-useful-why-stable-materials-are-not-enough-ai-bloom-abundance-superintelligence-and-hu-molecule-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="molecule model" data-ebay-reference="stable-vs-useful-why-stable-materials-are-not-enough-ai-bloom-abundance-superintelligence-and-hu-molecule-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for molecule model">Search <span data-ebay-domain-label>eBay.co.uk</span>: molecule model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=molecule+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stable-vs-useful-why-stable-materials-are-not-enough-ai-bloom-abundance-superintelligence-and-hu-molecule-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="molecule model" data-ebay-reference="stable-vs-useful-why-stable-materials-are-not-enough-ai-bloom-abundance-superintelligence-and-hu-molecule-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=molecule+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stable-vs-useful-why-stable-materials-are-not-enough-ai-bloom-abundance-superintelligence-and-hu-molecule-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="molecule model" data-ebay-reference="stable-vs-useful-why-stable-materials-are-not-enough-ai-bloom-abundance-superintelligence-and-hu-molecule-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=molecule+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stable-vs-useful-why-stable-materials-are-not-enough-ai-bloom-abundance-superintelligence-and-hu-molecule-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="molecule model" data-ebay-reference="stable-vs-useful-why-stable-materials-are-not-enough-ai-bloom-abundance-superintelligence-and-hu-molecule-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Molecular Model Kit (238pcs), Chemistry Molecule Science Gifts for Ochem6574"><img src="{{ '/assets/images/marketplace-covers/2046bcd7c4df67485a0f.jpg' | relative_url }}" alt="Listing image for Molecular Model Kit (238pcs), Chemistry Molecule Science Gifts for Ochem6574" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=molecule+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stable-vs-useful-why-stable-materials-are-not-enough-ai-bloom-abundance-superintelligence-and-hu-molecule-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="molecule model" data-ebay-reference="stable-vs-useful-why-stable-materials-are-not-enough-ai-bloom-abundance-superintelligence-and-hu-molecule-model" target="_blank" rel="sponsored noopener noreferrer">Molecular Model Kit (238pcs), Chemistry Molecule Science Gifts for Ochem6574</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=molecule+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stable-vs-useful-why-stable-materials-are-not-enough-ai-bloom-abundance-superintelligence-and-hu-molecule-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="molecule model" data-ebay-reference="stable-vs-useful-why-stable-materials-are-not-enough-ai-bloom-abundance-superintelligence-and-hu-molecule-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for molecule model">Search<span data-ebay-domain-label>eBay.co.uk</span>: molecule model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=molecule+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stable-vs-useful-why-stable-materials-are-not-enough-ai-bloom-abundance-superintelligence-and-hu-molecule-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="molecule model" data-ebay-reference="stable-vs-useful-why-stable-materials-are-not-enough-ai-bloom-abundance-superintelligence-and-hu-molecule-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=molecule+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stable-vs-useful-why-stable-materials-are-not-enough-ai-bloom-abundance-superintelligence-and-hu-molecule-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="molecule model" data-ebay-reference="stable-vs-useful-why-stable-materials-are-not-enough-ai-bloom-abundance-superintelligence-and-hu-molecule-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -629,7 +629,7 @@ The deeper lesson is that scientific discovery is not a single bottleneck. AI ma
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -649,7 +649,7 @@ The deeper lesson is that scientific discovery is not a single bottleneck. AI ma
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -681,7 +681,7 @@ The deeper lesson is that scientific discovery is not a single bottleneck. AI ma
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -733,7 +733,7 @@ The deeper lesson is that scientific discovery is not a single bottleneck. AI ma
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -778,7 +778,7 @@ The deeper lesson is that scientific discovery is not a single bottleneck. AI ma
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -819,143 +819,143 @@ The deeper lesson is that scientific discovery is not a single bottleneck. AI ma
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41586-023-06735-9" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-023-06735-9</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Scaling deep learning for materials discoveryby A Merchant · 2023 · Cited by 1611 — b, Exploration enabled by GNoME has led to 381...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41586-023-06735-9" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-023-06735-9</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scaling deep learning for materials discoveryby A Merchant · 2023 · Cited by 1611 — b, Exploration enabled by GNoME has led to 381...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: deepmind.google  
    Title: millions of new materials discovered with deep learning  
-   Link: <a href="https://deepmind.google/blog/millions-of-new-materials-discovered-with-deep-learning/" target="_blank" rel="noopener noreferrer nofollow">https://deepmind.google/blog/millions-of-new-materials-discovered-with-deep-learning/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Google DeepMindMillions of new materials discovered with deep learning29 Nov 2023 — AI tool GNoME finds 2.2 million new crystals, includi...</p></details>
+   Link:<a href="https://deepmind.google/blog/millions-of-new-materials-discovered-with-deep-learning/" target="_blank" rel="noopener noreferrer nofollow">https://deepmind.google/blog/millions-of-new-materials-discovered-with-deep-learning/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google DeepMindMillions of new materials discovered with deep learning29 Nov 2023 — AI tool GNoME finds 2.2 million new crystals, includi...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: docs.materialsproject.org  
    Title: glossary of terms  
-   Link: <a href="https://docs.materialsproject.org/frequently-asked-questions/glossary-of-terms" target="_blank" rel="noopener noreferrer nofollow">https://docs.materialsproject.org/frequently-asked-questions/glossary-of-terms</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>18 Aug 2025 — A measure of a material&#x27;s thermodynamic stability.... A material which lies &quot;on the convex hull&quot; is predicted to be thermo...</p></details>
+   Link:<a href="https://docs.materialsproject.org/frequently-asked-questions/glossary-of-terms" target="_blank" rel="noopener noreferrer nofollow">https://docs.materialsproject.org/frequently-asked-questions/glossary-of-terms</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>18 Aug 2025 — A measure of a material&#x27;s thermodynamic stability.... A material which lies &quot;on the convex hull&quot; is predicted to be thermo...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: bartel.cems.umn.edu  
-   Link: <a href="https://bartel.cems.umn.edu/sites/bartel.cems.umn.edu/files/2022-07/bartel.bartel_2022-j.mater_.sci_.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bartel.cems.umn.edu/sites/bartel.cems.umn.edu/files/2022-07/bartel.bartel_2022-j.mater_.sci_.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>t lie above the DEf = 0 (or equivalent reference state) are neces- sarily unstable.Read more...</p></details>
+   Link:<a href="https://bartel.cems.umn.edu/sites/bartel.cems.umn.edu/files/2022-07/bartel.bartel_2022-j.mater_.sci_.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bartel.cems.umn.edu/sites/bartel.cems.umn.edu/files/2022-07/bartel.bartel_2022-j.mater_.sci_.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>t lie above the DEf = 0 (or equivalent reference state) are neces- sarily unstable.Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: time.com  
    Title: deepmind gnome ai materials  
-   Link: <a href="https://time.com/6340681/deepmind-gnome-ai-materials/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6340681/deepmind-gnome-ai-materials/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DeepMind AI Breakthrough Could Help Battery and Chip...Nov 29, 2023 — Google DeepMind took the 381,000 materials that are most likely to...</p></details>
+   Link:<a href="https://time.com/6340681/deepmind-gnome-ai-materials/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6340681/deepmind-gnome-ai-materials/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DeepMind AI Breakthrough Could Help Battery and Chip...Nov 29, 2023 — Google DeepMind took the 381,000 materials that are most likely to...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: wired.com  
    Title: Google Deep Mind's AI Dreamed Up 380,000 New Materials  
-   Link: <a href="https://www.wired.com/story/an-ai-dreamed-up-380000-new-materials-the-next-challenge-is-making-them" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/an-ai-dreamed-up-380000-new-materials-the-next-challenge-is-making-them</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Next Challenge Is Making ThemNovember 29, 2023 — Google DeepMind developed an AI program, GNoME, which has predicted 380,000 new stab...</p></details>
+   Link:<a href="https://www.wired.com/story/an-ai-dreamed-up-380000-new-materials-the-next-challenge-is-making-them" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/an-ai-dreamed-up-380000-new-materials-the-next-challenge-is-making-them</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Next Challenge Is Making ThemNovember 29, 2023 — Google DeepMind developed an AI program, GNoME, which has predicted 380,000 new stab...</p></details>
    Published: November 29, 2023  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: arxiv.org  
    Title: arXiv Generalized convex hull construction for materials discovery  
-   Link: <a href="https://arxiv.org/abs/1803.01932" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1803.01932</a>  
+   Link:<a href="https://arxiv.org/abs/1803.01932" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1803.01932</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: arxiv.org  
    Title: arXiv A Synthesizability-Guided Pipeline for Materials Discovery  
-   Link: <a href="https://arxiv.org/abs/2511.01790" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2511.01790</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Synthesizability-Guided Pipeline for Materials DiscoveryNovember 3, 2025...</p></details>
+   Link:<a href="https://arxiv.org/abs/2511.01790" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2511.01790</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Synthesizability-Guided Pipeline for Materials DiscoveryNovember 3, 2025...</p></details>
    Published: November 3, 2025  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/d41586-023-03745-5" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/d41586-023-03745-5</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Google AI and robots join forces to build new materials29 Nov 2023 — Tool from Google DeepMind predicts nearly 400000 stable substa...</p></details>
+   Link:<a href="https://www.nature.com/articles/d41586-023-03745-5" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/d41586-023-03745-5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google AI and robots join forces to build new materials29 Nov 2023 — Tool from Google DeepMind predicts nearly 400000 stable substa...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s42256-025-01055-1" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s42256-025-01055-1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A framework to evaluate machine learning crystal stability...by J Riebesell · 2025 · Cited by 164 — This energy is then used to make a p...</p></details>
+   Link:<a href="https://www.nature.com/articles/s42256-025-01055-1" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s42256-025-01055-1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A framework to evaluate machine learning crystal stability...by J Riebesell · 2025 · Cited by 164 — This energy is then used to make a p...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: next-gen.materialsproject.org  
    Title: mp 29104  
-   Link: <a href="https://next-gen.materialsproject.org/materials/mp-29104/" target="_blank" rel="noopener noreferrer nofollow">https://next-gen.materialsproject.org/materials/mp-29104/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ExplorerContributed computational or experimental data can be uploaded and shared with other users of Materials Project via the MPContrib...</p></details>
+   Link:<a href="https://next-gen.materialsproject.org/materials/mp-29104/" target="_blank" rel="noopener noreferrer nofollow">https://next-gen.materialsproject.org/materials/mp-29104/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ExplorerContributed computational or experimental data can be uploaded and shared with other users of Materials Project via the MPContrib...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: newscenter.lbl.gov  
    Title: google deepmind new compounds materials project  
-   Link: <a href="https://newscenter.lbl.gov/2023/11/29/google-deepmind-new-compounds-materials-project/" target="_blank" rel="noopener noreferrer nofollow">https://newscenter.lbl.gov/2023/11/29/google-deepmind-new-compounds-materials-project/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Berkeley Lab News CenterGoogle DeepMind Adds Nearly 400000 New Compounds to...29 Nov 2023 — GNoME researchers ultimately produced 2.2 mi...</p></details>
+   Link:<a href="https://newscenter.lbl.gov/2023/11/29/google-deepmind-new-compounds-materials-project/" target="_blank" rel="noopener noreferrer nofollow">https://newscenter.lbl.gov/2023/11/29/google-deepmind-new-compounds-materials-project/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Berkeley Lab News CenterGoogle DeepMind Adds Nearly 400000 New Compounds to...29 Nov 2023 — GNoME researchers ultimately produced 2.2 mi...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/38030720/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/38030720/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Scaling deep learning for materials discoveryby A Merchant · 2023 · Cited by 1900 — Of the stable structures, 736 have already been...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/38030720/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/38030720/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scaling deep learning for materials discoveryby A Merchant · 2023 · Cited by 1900 — Of the stable structures, 736 have already been...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: science.org  
-   Link: <a href="https://www.science.org/content/article/materials-predicting-ai-deepmind-could-revolutionize-electronics-batteries-and-solar" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/content/article/materials-predicting-ai-deepmind-could-revolutionize-electronics-batteries-and-solar</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Materials-predicting AI from DeepMind could revolutionize...29 Nov 2023 — External benchmarks suggest GNoME&#x27;s success rate at pre...</p></details>
+   Link:<a href="https://www.science.org/content/article/materials-predicting-ai-deepmind-could-revolutionize-electronics-batteries-and-solar" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/content/article/materials-predicting-ai-deepmind-could-revolutionize-electronics-batteries-and-solar</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Materials-predicting AI from DeepMind could revolutionize...29 Nov 2023 — External benchmarks suggest GNoME&#x27;s success rate at pre...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: chemistryworld.com  
-   Link: <a href="https://www.chemistryworld.com/news/robotic-chemistry-lab-joins-forces-with-google-ai-to-predict-then-make-new-inorganic-materials/4018575.article" target="_blank" rel="noopener noreferrer nofollow">https://www.chemistryworld.com/news/robotic-chemistry-lab-joins-forces-with-google-ai-to-predict-then-make-new-inorganic-materials/4018575.article</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Robotic chemistry lab joins forces with Google AI to predict...30 Nov 2023 — They showed that, by improving the Gnome algorithm through...</p></details>
+   Link:<a href="https://www.chemistryworld.com/news/robotic-chemistry-lab-joins-forces-with-google-ai-to-predict-then-make-new-inorganic-materials/4018575.article" target="_blank" rel="noopener noreferrer nofollow">https://www.chemistryworld.com/news/robotic-chemistry-lab-joins-forces-with-google-ai-to-predict-then-make-new-inorganic-materials/4018575.article</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Robotic chemistry lab joins forces with Google AI to predict...30 Nov 2023 — They showed that, by improving the Gnome algorithm through...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: github.com  
-   Link: <a href="https://github.com/google-deepmind/materials_discovery" target="_blank" rel="noopener noreferrer nofollow">https://github.com/google-deepmind/materials_discovery</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>GNoMEWith results recently published, this repository serves to share the discovery of 381,000 novel stable materials with the wider mate...</p></details>
+   Link:<a href="https://github.com/google-deepmind/materials_discovery" target="_blank" rel="noopener noreferrer nofollow">https://github.com/google-deepmind/materials_discovery</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GNoMEWith results recently published, this repository serves to share the discovery of 381,000 novel stable materials with the wider mate...</p></details>
 
 ### Additional References
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Futurology/comments/186y2ny/deepminds_gnome_discovering_over_2_million_new/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Futurology/comments/186y2ny/deepminds_gnome_discovering_over_2_million_new/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DeepMind&#x27;s GNoME: Discovering Over 2 Million New...DeepMind&#x27;s GNoME: Discovering Over 2 Million New Materials Including 380,000 Stable C...</p></details>
+   Link:<a href="https://www.reddit.com/r/Futurology/comments/186y2ny/deepminds_gnome_discovering_over_2_million_new/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Futurology/comments/186y2ny/deepminds_gnome_discovering_over_2_million_new/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DeepMind&#x27;s GNoME: Discovering Over 2 Million New...DeepMind&#x27;s GNoME: Discovering Over 2 Million New Materials Including 380,000 Stable C...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40shibilahammad/how-ai-is-supercharging-materials-science-inside-deepminds-breakthrough-materials-discovery-a4515395be88" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40shibilahammad/how-ai-is-supercharging-materials-science-inside-deepminds-breakthrough-materials-discovery-a4515395be88</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Inside DeepMind&#x27;s Breakthrough Materials Discovery Engine.In a paper published in Nature, DeepMind researchers revealed that GNoME discov...</p></details>
+   Link:<a href="https://medium.com/%40shibilahammad/how-ai-is-supercharging-materials-science-inside-deepminds-breakthrough-materials-discovery-a4515395be88" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40shibilahammad/how-ai-is-supercharging-materials-science-inside-deepminds-breakthrough-materials-discovery-a4515395be88</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Inside DeepMind&#x27;s Breakthrough Materials Discovery Engine.In a paper published in Nature, DeepMind researchers revealed that GNoME discov...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/physorg/posts/crystallographic-[disorder" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/physorg/posts/crystallographic-[disorder</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Limitations of AI-based material predictionCrystallographic disorder poses a significant challenge for AI-based material prediction, ofte...</p></details>
+   Link:<a href="https://www.facebook.com/physorg/posts/crystallographic-[disorder" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/physorg/posts/crystallographic-[disorder</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Limitations of AI-based material predictionCrystallographic disorder poses a significant challenge for AI-based material prediction, ofte...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: pepr-diadem.fr  
-   Link: <a href="https://www.pepr-diadem.fr/2023/12/01/gnome-artificial-intelligence-and-the-autonomous-a-lab-laboratory-combine-to-discover-new-crystals/" target="_blank" rel="noopener noreferrer nofollow">https://www.pepr-diadem.fr/2023/12/01/gnome-artificial-intelligence-and-the-autonomous-a-lab-laboratory-combine-to-discover-new-crystals/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>GNoME artificial intelligence and the autonomous A-lab...1 Dec 2023 — GNoME uses a combination of two deep learning models to predict th...</p></details>
+   Link:<a href="https://www.pepr-diadem.fr/2023/12/01/gnome-artificial-intelligence-and-the-autonomous-a-lab-laboratory-combine-to-discover-new-crystals/" target="_blank" rel="noopener noreferrer nofollow">https://www.pepr-diadem.fr/2023/12/01/gnome-artificial-intelligence-and-the-autonomous-a-lab-laboratory-combine-to-discover-new-crystals/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GNoME artificial intelligence and the autonomous A-lab...1 Dec 2023 — GNoME uses a combination of two deep learning models to predict th...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: matsci.org  
-   Link: <a href="https://matsci.org/t/the-theory-calculation-behind-energy-above-hull-how-to-calculate-for-quarternary-structures/59743" target="_blank" rel="noopener noreferrer nofollow">https://matsci.org/t/the-theory-calculation-behind-energy-above-hull-how-to-calculate-for-quarternary-structures/59743</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Materials Science Community DiscourseThe theory/calculation behind energy-above-hull19 Dec 2024 — The convex hull algorithm calculates th...</p></details>
+   Link:<a href="https://matsci.org/t/the-theory-calculation-behind-energy-above-hull-how-to-calculate-for-quarternary-structures/59743" target="_blank" rel="noopener noreferrer nofollow">https://matsci.org/t/the-theory-calculation-behind-energy-above-hull-how-to-calculate-for-quarternary-structures/59743</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Materials Science Community DiscourseThe theory/calculation behind energy-above-hull19 Dec 2024 — The convex hull algorithm calculates th...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/singularity/comments/18dcgal/what_are_the_first_realworld_effects_well_see/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/singularity/comments/18dcgal/what_are_the_first_realworld_effects_well_see/</a>  
+   Link:<a href="https://www.reddit.com/r/singularity/comments/18dcgal/what_are_the_first_realworld_effects_well_see/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/singularity/comments/18dcgal/what_are_the_first_realworld_effects_well_see/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: indico.cern.ch  
-   Link: <a href="https://indico.cern.ch/event/1364455/contributions/6126740/attachments/2924189/5132928/Novick_Hull_Poster.pdf" target="_blank" rel="noopener noreferrer nofollow">https://indico.cern.ch/event/1364455/contributions/6126740/attachments/2924189/5132928/Novick_Hull_Poster.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Convex Hulls into Active LearningStability prediction is accelerated by treating the convex hull as a probabilistic object, allowing for...</p></details>
+   Link:<a href="https://indico.cern.ch/event/1364455/contributions/6126740/attachments/2924189/5132928/Novick_Hull_Poster.pdf" target="_blank" rel="noopener noreferrer nofollow">https://indico.cern.ch/event/1364455/contributions/6126740/attachments/2924189/5132928/Novick_Hull_Poster.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Convex Hulls into Active LearningStability prediction is accelerated by treating the convex hull as a probabilistic object, allowing for...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=YPo_5jdCPxo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YPo_5jdCPxo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Convex Hull Analysis: Evaluating Materials StabilityThe goal of stable materials is to be a material that can actually be synthesizable s...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=YPo_5jdCPxo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YPo_5jdCPxo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Convex Hull Analysis: Evaluating Materials StabilityThe goal of stable materials is to be a material that can actually be synthesizable s...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: arstechnica.com  
    Title: googles deepmind finds 2 2m crystal structures in materials science win  
-   Link: <a href="https://arstechnica.com/ai/2023/11/googles-deepmind-finds-2-2m-crystal-structures-in-materials-science-win/" target="_blank" rel="noopener noreferrer nofollow">https://arstechnica.com/ai/2023/11/googles-deepmind-finds-2-2m-crystal-structures-in-materials-science-win/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Google&#x27;s DeepMind finds 2.2M crystal structures in...29 Nov 2023 — The researchers plan to make 381,000 of the most promising structures...</p></details>
+   Link:<a href="https://arstechnica.com/ai/2023/11/googles-deepmind-finds-2-2m-crystal-structures-in-materials-science-win/" target="_blank" rel="noopener noreferrer nofollow">https://arstechnica.com/ai/2023/11/googles-deepmind-finds-2-2m-crystal-structures-in-materials-science-win/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google&#x27;s DeepMind finds 2.2M crystal structures in...29 Nov 2023 — The researchers plan to make 381,000 of the most promising structures...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/figure/a-Calculated-band-structure-of-Fe-2-O-3-from-the-Materials-Project-b-a-schematic-of_fig2_299417226" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/a-Calculated-band-structure-of-Fe-2-O-3-from-the-Materials-Project-b-a-schematic-of_fig2_299417226</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>mited by persistent characterization bottlenecks in materials discovery, where...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/figure/a-Calculated-band-structure-of-Fe-2-O-3-from-the-Materials-Project-b-a-schematic-of_fig2_299417226" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/a-Calculated-band-structure-of-Fe-2-O-3-from-the-Materials-Project-b-a-schematic-of_fig2_299417226</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>mited by persistent characterization bottlenecks in materials discovery, where...Read more...</p></details>

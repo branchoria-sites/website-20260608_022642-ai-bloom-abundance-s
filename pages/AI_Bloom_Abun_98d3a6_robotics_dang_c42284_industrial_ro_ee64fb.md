@@ -319,9 +319,9 @@ The most widespread industrial deployments today are not humanoid robots replaci
 
 Modern inspection robots combine cameras, thermal imaging, acoustic sensors, gas detectors and AI software capable of recognising anomalies. Rather than merely collecting footage, these systems can flag unusual temperatures, detect leaks, read gauges and compare current conditions against historical baselines. This moves inspection work from periodic human observation toward continuous monitoring.
 
-Boston Dynamics' quadruped robot Spot has become one of the most visible examples. Energy companies including bp and Chevron have deployed Spot-based systems for inspections in refineries and offshore environments, using robots to identify hazards and collect operational data while reducing human exposure to dangerous conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://bostondynamics.com/case-studies/bp/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bostondynamics.com">[Boston Dynamics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bostondynamics.com</span><span class="citation-popover-snippet">ploy Spot offshore...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://bostondynamics.com/case-studies/bp/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bostondynamics.com">[Boston Dynamics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bostondynamics.com</span><span class="citation-popover-snippet">ploy Spot offshore...</span></span></span>
+Boston Dynamics' quadruped robot Spot has become one of the most visible examples. Energy companies including bp and Chevron have deployed Spot-based systems for inspections in refineries and offshore environments, using robots to identify hazards and collect operational data while reducing human exposure to dangerous conditions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://bostondynamics.com/case-studies/bp/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bostondynamics.com">[Boston Dynamics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bostondynamics.com</span><span class="citation-popover-snippet">ploy Spot offshore...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://bostondynamics.com/case-studies/bp/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bostondynamics.com">[Boston Dynamics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bostondynamics.com</span><span class="citation-popover-snippet">ploy Spot offshore...</span></span></span>
 
-At Cargill's Amsterdam facility, Spot performs routine inspections and safety checks as part of a broader effort to develop more autonomous industrial operations. Workers remain involved, but increasingly focus on maintenance planning and higher-level decision-making rather than walking repetitive inspection routes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://bostondynamics.com/case-studies/bp/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bostondynamics.com">[Boston Dynamics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bostondynamics.com</span><span class="citation-popover-snippet">ploy Spot offshore...</span></span></span>
+At Cargill's Amsterdam facility, Spot performs routine inspections and safety checks as part of a broader effort to develop more autonomous industrial operations. Workers remain involved, but increasingly focus on maintenance planning and higher-level decision-making rather than walking repetitive inspection routes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://bostondynamics.com/case-studies/bp/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bostondynamics.com">[Boston Dynamics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bostondynamics.com</span><span class="citation-popover-snippet">ploy Spot offshore...</span></span></span>
 
 The broader pattern is significant. AI does not merely replace a worker's physical movement through a facility. It increasingly performs the cognitive task of noticing what matters.
 
@@ -329,7 +329,7 @@ The broader pattern is significant. AI does not merely replace a worker's physic
 
 Industrial inspection has traditionally relied heavily on visual observation and manual reporting. AI systems increasingly add another layer: automated anomaly detection.
 
-In oil and gas facilities, mobile robots equipped with specialised sensors can identify combustible gas leaks during autonomous inspection rounds. These systems are designed to detect small leaks before they become larger safety threats. <span class="citation-chip-wrap"><a class="citation-chip" href="https://bostondynamics.com/case-studies/bp/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bostondynamics.com">[Boston Dynamics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bostondynamics.com</span><span class="citation-popover-snippet">ploy Spot offshore...</span></span></span>
+In oil and gas facilities, mobile robots equipped with specialised sensors can identify combustible gas leaks during autonomous inspection rounds. These systems are designed to detect small leaks before they become larger safety threats.<span class="citation-chip-wrap"><a class="citation-chip" href="https://bostondynamics.com/case-studies/bp/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bostondynamics.com">[Boston Dynamics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bostondynamics.com</span><span class="citation-popover-snippet">ploy Spot offshore...</span></span></span>
 
 The practical benefit is not only that workers spend less time in hazardous zones. Continuous monitoring can catch problems between scheduled inspections, potentially reducing the chance of catastrophic failures.
 
@@ -341,17 +341,17 @@ This is one reason industrial robotics matters within the larger AI bloom narrat
 
 Mining provides one of the clearest examples of hazardous work being partially transferred from humans to machines.
 
-Heavy vehicle accidents remain one of the leading causes of mining fatalities. Research from the US National Institute for Occupational Safety and Health has found that powered haulage equipment accounts for roughly half of mining fatalities in many years. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.cdc.gov/www_cdc_gov/niosh/mining/strategicplan/HaulTruckRoadmap2020.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.cdc.gov">[CDC Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.cdc.gov</span><span class="citation-popover-snippet">CDC ArchiveHaul Truck Research Roadmap Report 2020 &#124; MiningRecently, 50% (14 of 28) of the fatal accidents in 2017 and 48% (13 of 27) in...</span></span></span>
+Heavy vehicle accidents remain one of the leading causes of mining fatalities. Research from the US National Institute for Occupational Safety and Health has found that powered haulage equipment accounts for roughly half of mining fatalities in many years.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.cdc.gov/www_cdc_gov/niosh/mining/strategicplan/HaulTruckRoadmap2020.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.cdc.gov">[CDC Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.cdc.gov</span><span class="citation-popover-snippet">CDC ArchiveHaul Truck Research Roadmap Report 2020 &#124; MiningRecently, 50% (14 of 28) of the fatal accidents in 2017 and 48% (13 of 27) in...</span></span></span>
 
 Because of this, [autonomous haulage]({{ 'autonomous-haulage/' | relative_url }}) systems have become a major focus.
 
 These systems use AI, GPS, sensors and centralised fleet management software to operate massive mining trucks with reduced or eliminated onboard human drivers. Instead of navigating dangerous routes through dust, poor visibility and heavy traffic, workers increasingly supervise fleets remotely.
 
-Rio Tinto reported that its autonomous haul truck operations had recorded zero injuries attributable to the autonomous trucks after deployment, while continuing to expand its fleet. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.globalminingreview.com/mining/30012018/rio-tinto-reaches-autonomous-truck-fleet-milestone/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalminingreview.com">[globalminingreview.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalminingreview.com</span><span class="citation-popover-snippet">Rio Tinto reaches autonomous truck milestone30 Jan 2018 — There have been zero injuries attributed to autonomous haul trucks since deploy...</span></span></span>
+Rio Tinto reported that its autonomous haul truck operations had recorded zero injuries attributable to the autonomous trucks after deployment, while continuing to expand its fleet.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.globalminingreview.com/mining/30012018/rio-tinto-reaches-autonomous-truck-fleet-milestone/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalminingreview.com">[globalminingreview.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalminingreview.com</span><span class="citation-popover-snippet">Rio Tinto reaches autonomous truck milestone30 Jan 2018 — There have been zero injuries attributed to autonomous haul trucks since deploy...</span></span></span>
 
 Komatsu announced in 2026 that its FrontRunner Autonomous Haulage System had surpassed 1,000 commissioned autonomous ultra-class trucks, highlighting both productivity and safety improvements as major drivers of adoption. [コマツ 企業サイト]
 
-Academic and industry studies consistently identify the same mechanism: reducing the number of people physically present around large moving equipment lowers exposure to some of the most dangerous hazards in mining. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1007/s42461-025-01394-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">A Juxtaposition of Autonomous Haulage Systems in China...by X Chen · 2025 · Cited by 1 — Enhancing Mine Safety: By reducing huma...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scholarlyreview.org/article/124875-the-impact-of-autonomous-vehicles-on-mining-operations-enhancing-safety-and-productivity-through-technological-advancements.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scholarlyreview.org">[2scholarlyreview.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scholarlyreview.org</span><span class="citation-popover-snippet">The impact of autonomous vehicles on mining operationsby D Kaur · Cited by 4 — human intervention, significantly reducing the risk to wor...</span></span></span>
+Academic and industry studies consistently identify the same mechanism: reducing the number of people physically present around large moving equipment lowers exposure to some of the most dangerous hazards in mining.<span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1007/s42461-025-01394-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">A Juxtaposition of Autonomous Haulage Systems in China...by X Chen · 2025 · Cited by 1 — Enhancing Mine Safety: By reducing huma...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scholarlyreview.org/article/124875-the-impact-of-autonomous-vehicles-on-mining-operations-enhancing-safety-and-productivity-through-technological-advancements.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scholarlyreview.org">[2scholarlyreview.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scholarlyreview.org</span><span class="citation-popover-snippet">The impact of autonomous vehicles on mining operationsby D Kaur · Cited by 4 — human intervention, significantly reducing the risk to wor...</span></span></span>
 
 ### From Remote Control to Autonomous Mining
 
@@ -366,7 +366,7 @@ Mining automation is progressing through several stages:
 
 </div>
 
-Researchers are increasingly exploring multi-robot systems capable of operating in abandoned or structurally unstable underground environments that would be difficult or dangerous for human workers to access. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2509.16267" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Underground Multi-robot Systems at Work: a revolution in mining</span><span class="citation-popover-snippet">Underground Multi-robot Systems at Work: a revolution in miningSeptember 18, 2025...</span><span class="citation-popover-meta">Published: September 18, 2025</span></span></span>
+Researchers are increasingly exploring multi-robot systems capable of operating in abandoned or structurally unstable underground environments that would be difficult or dangerous for human workers to access.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2509.16267" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Underground Multi-robot Systems at Work: a revolution in mining</span><span class="citation-popover-snippet">Underground Multi-robot Systems at Work: a revolution in miningSeptember 18, 2025...</span><span class="citation-popover-meta">Published: September 18, 2025</span></span></span>
 
 If these systems mature, they could make previously inaccessible resources reachable while reducing human exposure to cave-ins, toxic atmospheres and confined spaces.
 
@@ -386,11 +386,11 @@ Quadruped robots and drones are increasingly used to:
 * Inspect elevated structures.
 * Generate digital site maps.
 * Compare construction progress against design models.
-* Identify safety hazards. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aibusiness.com/automation/boston-dynamics-robot-dog-spot-inspects-for-safety-hazards" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aibusiness.com">[aibusiness.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aibusiness.com</span><span class="citation-popover-title">boston dynamics robot dog spot inspects for safety hazards</span><span class="citation-popover-snippet">Boston Dynamics Robot Dog Spot Inspects for Safety...Jun 24, 2025 — The updated system expands Spot&#x27;s ability to identify potential safe...</span></span></span>
+* Identify safety hazards.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aibusiness.com/automation/boston-dynamics-robot-dog-spot-inspects-for-safety-hazards" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aibusiness.com">[aibusiness.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aibusiness.com</span><span class="citation-popover-title">boston dynamics robot dog spot inspects for safety hazards</span><span class="citation-popover-snippet">Boston Dynamics Robot Dog Spot Inspects for Safety...Jun 24, 2025 — The updated system expands Spot&#x27;s ability to identify potential safe...</span></span></span>
 
 </div>
 
-AI research is also moving toward automated safety inspections. Recent work has demonstrated systems that combine autonomous navigation, vision-language models and large language models to identify hazards and generate inspection reports based on safety regulations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2509.16267" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Underground Multi-robot Systems at Work: a revolution in mining</span><span class="citation-popover-snippet">Underground Multi-robot Systems at Work: a revolution in miningSeptember 18, 2025...</span><span class="citation-popover-meta">Published: September 18, 2025</span></span></span>
+AI research is also moving toward automated safety inspections. Recent work has demonstrated systems that combine autonomous navigation, vision-language models and large language models to identify hazards and generate inspection reports based on safety regulations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2509.16267" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Underground Multi-robot Systems at Work: a revolution in mining</span><span class="citation-popover-snippet">Underground Multi-robot Systems at Work: a revolution in miningSeptember 18, 2025...</span><span class="citation-popover-meta">Published: September 18, 2025</span></span></span>
 
 The significance extends beyond efficiency. Construction safety inspections are often reactive and labour-intensive. AI-enabled robotic inspection could eventually allow sites to identify risks continuously rather than only during scheduled reviews.
 
@@ -442,7 +442,7 @@ Key technical requirements include:
 
 </div>
 
-Projects such as AutoInspect have focused specifically on long-duration autonomous inspections in industrial facilities including chemical plants, mines and nuclear environments, demonstrating the importance of sustained reliability rather than short demonstrations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2509.16267" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Underground Multi-robot Systems at Work: a revolution in mining</span><span class="citation-popover-snippet">Underground Multi-robot Systems at Work: a revolution in miningSeptember 18, 2025...</span><span class="citation-popover-meta">Published: September 18, 2025</span></span></span>
+Projects such as AutoInspect have focused specifically on long-duration autonomous inspections in industrial facilities including chemical plants, mines and nuclear environments, demonstrating the importance of sustained reliability rather than short demonstrations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2509.16267" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Underground Multi-robot Systems at Work: a revolution in mining</span><span class="citation-popover-snippet">Underground Multi-robot Systems at Work: a revolution in miningSeptember 18, 2025...</span><span class="citation-popover-meta">Published: September 18, 2025</span></span></span>
 
 This is one reason why industrial robotics often advances more slowly than [public AI]({{ 'public-ai/' | relative_url }}) hype suggests. Physical reality is unforgiving.
 
@@ -486,194 +486,194 @@ The larger question is whether automation helps create a society where technolog
 Industrial robotics already demonstrates that machines can perform some dangerous tasks once considered inseparable from human labour. Whether that becomes a foundation for wider human flourishing depends less on the robots themselves than on the institutions, incentives and social choices that shape how the technology is deployed.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How AI Robots Are Reducing Risk in Dangerous Industries. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How AI Robots Are Reducing Risk in Dangerous Industries. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human Compatible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BKVPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Human Compatible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human Compatible">Human Compatible</a>
-        </h4>
-        <p class="fr-book-author">By Stuart Russell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human Compatible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BKVPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Human Compatible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human Compatible">Human Compatible</a>
+</h4>
+<p class="fr-book-author">By Stuart Russell</p>
         
-        <p class="fr-book-desc">Explores how powerful AI could advance humanity if aligned with human values.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how powerful AI could advance humanity if aligned with human values.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Coming Wave on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b0y5zwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Coming Wave" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Coming Wave">The Coming Wave</a>
-        </h4>
-        <p class="fr-book-author">By Mustafa Suleyman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Coming Wave on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b0y5zwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Coming Wave" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Coming Wave">The Coming Wave</a>
+</h4>
+<p class="fr-book-author">By Mustafa Suleyman</p>
         
-        <p class="fr-book-desc">Directly addresses whether advanced AI can deliver broad civilisational benefits while remaining governable.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses whether advanced AI can deliver broad civilisational benefits while remaining governable.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Entrepreneurial+State+by+Mariana+Mazzucato&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Entrepreneurial State on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eawzDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Entrepreneurial State" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Entrepreneurial+State+by+Mariana+Mazzucato&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Entrepreneurial State">The Entrepreneurial State</a>
-        </h4>
-        <p class="fr-book-author">By Mariana Mazzucato</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Entrepreneurial+State+by+Mariana+Mazzucato&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Entrepreneurial State on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eawzDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Entrepreneurial State" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Entrepreneurial+State+by+Mariana+Mazzucato&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Entrepreneurial State">The Entrepreneurial State</a>
+</h4>
+<p class="fr-book-author">By Mariana Mazzucato</p>
         
-        <p class="fr-book-desc">Strong fit for treating AI as public infrastructure.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Entrepreneurial+State+by+Mariana+Mazzucato&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strong fit for treating AI as public infrastructure.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Entrepreneurial+State+by+Mariana+Mazzucato&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Power+and+Progress+by+Daron+Acemoglu&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Power and Progress on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Y4Jr0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Power and Progress" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Power+and+Progress+by+Daron+Acemoglu&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Power and Progress">Power and Progress</a>
-        </h4>
-        <p class="fr-book-author">By Daron Acemoglu, Simon Johnson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Power+and+Progress+by+Daron+Acemoglu&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Power and Progress on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Y4Jr0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Power and Progress" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Power+and+Progress+by+Daron+Acemoglu&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Power and Progress">Power and Progress</a>
+</h4>
+<p class="fr-book-author">By Daron Acemoglu, Simon Johnson</p>
         
-        <p class="fr-book-desc">Explores how societies can share gains from transformative technologies.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Power+and+Progress+by+Daron+Acemoglu&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how societies can share gains from transformative technologies.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Power+and+Progress+by+Daron+Acemoglu&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+Compatible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human Compatible</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Coming+Wave&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Coming Wave</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Entrepreneurial+State&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Entrepreneurial State</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+Compatible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human Compatible</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Coming+Wave&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Coming Wave</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Entrepreneurial+State&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Entrepreneurial State</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=industrial+robot+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ai-robots-are-reducing-risk-in-dangerous-industries-industrial-robot-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="industrial robot model" data-ebay-reference="how-ai-robots-are-reducing-risk-in-dangerous-industries-industrial-robot-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:10 Welding Industrial Robotic Arm Simulator 6-Axis Arm Model Teaching Aid xr"><img src="https://i.ebayimg.com/images/g/Jw4AAeSw3uFp5OcQ/s-l225.jpg" alt="Listing image for 1:10 Welding Industrial Robotic Arm Simulator 6-Axis Arm Model Teaching Aid xr" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=industrial+robot+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ai-robots-are-reducing-risk-in-dangerous-industries-industrial-robot-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="industrial robot model" data-ebay-reference="how-ai-robots-are-reducing-risk-in-dangerous-industries-industrial-robot-model" target="_blank" rel="sponsored noopener noreferrer">1:10 Welding Industrial Robotic Arm Simulator 6-Axis Arm Model Teaching Aid xr</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=industrial+robot+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ai-robots-are-reducing-risk-in-dangerous-industries-industrial-robot-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="industrial robot model" data-ebay-reference="how-ai-robots-are-reducing-risk-in-dangerous-industries-industrial-robot-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for industrial robot model">Search <span data-ebay-domain-label>eBay.co.uk</span>: industrial robot model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=industrial+robot+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ai-robots-are-reducing-risk-in-dangerous-industries-industrial-robot-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="industrial robot model" data-ebay-reference="how-ai-robots-are-reducing-risk-in-dangerous-industries-industrial-robot-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=industrial+robot+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ai-robots-are-reducing-risk-in-dangerous-industries-industrial-robot-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="industrial robot model" data-ebay-reference="how-ai-robots-are-reducing-risk-in-dangerous-industries-industrial-robot-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:10 Welding Industrial Robotic Arm Simulator 6-Axis Arm Model Teaching Aid xr"><img src="https://i.ebayimg.com/images/g/Jw4AAeSw3uFp5OcQ/s-l225.jpg" alt="Listing image for 1:10 Welding Industrial Robotic Arm Simulator 6-Axis Arm Model Teaching Aid xr" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=industrial+robot+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ai-robots-are-reducing-risk-in-dangerous-industries-industrial-robot-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="industrial robot model" data-ebay-reference="how-ai-robots-are-reducing-risk-in-dangerous-industries-industrial-robot-model" target="_blank" rel="sponsored noopener noreferrer">1:10 Welding Industrial Robotic Arm Simulator 6-Axis Arm Model Teaching Aid xr</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=industrial+robot+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ai-robots-are-reducing-risk-in-dangerous-industries-industrial-robot-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="industrial robot model" data-ebay-reference="how-ai-robots-are-reducing-risk-in-dangerous-industries-industrial-robot-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for industrial robot model">Search<span data-ebay-domain-label>eBay.co.uk</span>: industrial robot model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=industrial+robot+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ai-robots-are-reducing-risk-in-dangerous-industries-industrial-robot-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="industrial robot model" data-ebay-reference="how-ai-robots-are-reducing-risk-in-dangerous-industries-industrial-robot-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=industrial+robot+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ai-robots-are-reducing-risk-in-dangerous-industries-industrial-robot-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="industrial robot model" data-ebay-reference="how-ai-robots-are-reducing-risk-in-dangerous-industries-industrial-robot-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:6 UR Industrial Robot Arm Six-axis Simulation Rotatable Scene Model 1PC *"><img src="https://i.ebayimg.com/images/g/4iYAAOSwTfBmp70L/s-l225.jpg" alt="Listing image for 1:6 UR Industrial Robot Arm Six-axis Simulation Rotatable Scene Model 1PC *" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=industrial+robot+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ai-robots-are-reducing-risk-in-dangerous-industries-industrial-robot-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="industrial robot model" data-ebay-reference="how-ai-robots-are-reducing-risk-in-dangerous-industries-industrial-robot-model" target="_blank" rel="sponsored noopener noreferrer">1:6 UR Industrial Robot Arm Six-axis Simulation Rotatable Scene Model 1PC *</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=industrial+robot+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ai-robots-are-reducing-risk-in-dangerous-industries-industrial-robot-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="industrial robot model" data-ebay-reference="how-ai-robots-are-reducing-risk-in-dangerous-industries-industrial-robot-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for industrial robot model">Search <span data-ebay-domain-label>eBay.co.uk</span>: industrial robot model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=industrial+robot+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ai-robots-are-reducing-risk-in-dangerous-industries-industrial-robot-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="industrial robot model" data-ebay-reference="how-ai-robots-are-reducing-risk-in-dangerous-industries-industrial-robot-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=industrial+robot+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ai-robots-are-reducing-risk-in-dangerous-industries-industrial-robot-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="industrial robot model" data-ebay-reference="how-ai-robots-are-reducing-risk-in-dangerous-industries-industrial-robot-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:6 UR Industrial Robot Arm Six-axis Simulation Rotatable Scene Model 1PC *"><img src="https://i.ebayimg.com/images/g/4iYAAOSwTfBmp70L/s-l225.jpg" alt="Listing image for 1:6 UR Industrial Robot Arm Six-axis Simulation Rotatable Scene Model 1PC *" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=industrial+robot+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ai-robots-are-reducing-risk-in-dangerous-industries-industrial-robot-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="industrial robot model" data-ebay-reference="how-ai-robots-are-reducing-risk-in-dangerous-industries-industrial-robot-model" target="_blank" rel="sponsored noopener noreferrer">1:6 UR Industrial Robot Arm Six-axis Simulation Rotatable Scene Model 1PC *</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=industrial+robot+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ai-robots-are-reducing-risk-in-dangerous-industries-industrial-robot-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="industrial robot model" data-ebay-reference="how-ai-robots-are-reducing-risk-in-dangerous-industries-industrial-robot-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for industrial robot model">Search<span data-ebay-domain-label>eBay.co.uk</span>: industrial robot model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=industrial+robot+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ai-robots-are-reducing-risk-in-dangerous-industries-industrial-robot-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="industrial robot model" data-ebay-reference="how-ai-robots-are-reducing-risk-in-dangerous-industries-industrial-robot-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=industrial+robot+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ai-robots-are-reducing-risk-in-dangerous-industries-industrial-robot-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="industrial robot model" data-ebay-reference="how-ai-robots-are-reducing-risk-in-dangerous-industries-industrial-robot-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ABB YUMI Industrial Robot Six Axis Arm 3D Model 1:4 *"><img src="https://i.ebayimg.com/images/g/3xsAAOSwVJ9mmb9u/s-l225.jpg" alt="Listing image for ABB YUMI Industrial Robot Six Axis Arm 3D Model 1:4 *" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=industrial+robot+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ai-robots-are-reducing-risk-in-dangerous-industries-industrial-robot-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="industrial robot model" data-ebay-reference="how-ai-robots-are-reducing-risk-in-dangerous-industries-industrial-robot-model" target="_blank" rel="sponsored noopener noreferrer">ABB YUMI Industrial Robot Six Axis Arm 3D Model 1:4 *</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=industrial+robot+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ai-robots-are-reducing-risk-in-dangerous-industries-industrial-robot-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="industrial robot model" data-ebay-reference="how-ai-robots-are-reducing-risk-in-dangerous-industries-industrial-robot-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for industrial robot model">Search <span data-ebay-domain-label>eBay.co.uk</span>: industrial robot model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=industrial+robot+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ai-robots-are-reducing-risk-in-dangerous-industries-industrial-robot-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="industrial robot model" data-ebay-reference="how-ai-robots-are-reducing-risk-in-dangerous-industries-industrial-robot-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=industrial+robot+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ai-robots-are-reducing-risk-in-dangerous-industries-industrial-robot-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="industrial robot model" data-ebay-reference="how-ai-robots-are-reducing-risk-in-dangerous-industries-industrial-robot-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ABB YUMI Industrial Robot Six Axis Arm 3D Model 1:4 *"><img src="https://i.ebayimg.com/images/g/3xsAAOSwVJ9mmb9u/s-l225.jpg" alt="Listing image for ABB YUMI Industrial Robot Six Axis Arm 3D Model 1:4 *" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=industrial+robot+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ai-robots-are-reducing-risk-in-dangerous-industries-industrial-robot-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="industrial robot model" data-ebay-reference="how-ai-robots-are-reducing-risk-in-dangerous-industries-industrial-robot-model" target="_blank" rel="sponsored noopener noreferrer">ABB YUMI Industrial Robot Six Axis Arm 3D Model 1:4 *</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=industrial+robot+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ai-robots-are-reducing-risk-in-dangerous-industries-industrial-robot-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="industrial robot model" data-ebay-reference="how-ai-robots-are-reducing-risk-in-dangerous-industries-industrial-robot-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for industrial robot model">Search<span data-ebay-domain-label>eBay.co.uk</span>: industrial robot model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=industrial+robot+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ai-robots-are-reducing-risk-in-dangerous-industries-industrial-robot-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="industrial robot model" data-ebay-reference="how-ai-robots-are-reducing-risk-in-dangerous-industries-industrial-robot-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=industrial+robot+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ai-robots-are-reducing-risk-in-dangerous-industries-industrial-robot-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="industrial robot model" data-ebay-reference="how-ai-robots-are-reducing-risk-in-dangerous-industries-industrial-robot-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 6-Axis Industrial Mechanical Robot Arm Model Aluminum Manipulator Only Frame New"><img src="https://i.ebayimg.com/images/g/ICQAAOSwC1BoCy28/s-l225.jpg" alt="Listing image for 6-Axis Industrial Mechanical Robot Arm Model Aluminum Manipulator Only Frame New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=industrial+robot+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ai-robots-are-reducing-risk-in-dangerous-industries-industrial-robot-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="industrial robot model" data-ebay-reference="how-ai-robots-are-reducing-risk-in-dangerous-industries-industrial-robot-model" target="_blank" rel="sponsored noopener noreferrer">6-Axis Industrial Mechanical Robot Arm Model Aluminum Manipulator Only Frame New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=industrial+robot+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ai-robots-are-reducing-risk-in-dangerous-industries-industrial-robot-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="industrial robot model" data-ebay-reference="how-ai-robots-are-reducing-risk-in-dangerous-industries-industrial-robot-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for industrial robot model">Search <span data-ebay-domain-label>eBay.co.uk</span>: industrial robot model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=industrial+robot+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ai-robots-are-reducing-risk-in-dangerous-industries-industrial-robot-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="industrial robot model" data-ebay-reference="how-ai-robots-are-reducing-risk-in-dangerous-industries-industrial-robot-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=industrial+robot+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ai-robots-are-reducing-risk-in-dangerous-industries-industrial-robot-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="industrial robot model" data-ebay-reference="how-ai-robots-are-reducing-risk-in-dangerous-industries-industrial-robot-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=industrial+robot+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ai-robots-are-reducing-risk-in-dangerous-industries-industrial-robot-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="industrial robot model" data-ebay-reference="how-ai-robots-are-reducing-risk-in-dangerous-industries-industrial-robot-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 6-Axis Industrial Mechanical Robot Arm Model Aluminum Manipulator Only Frame New"><img src="https://i.ebayimg.com/images/g/ICQAAOSwC1BoCy28/s-l225.jpg" alt="Listing image for 6-Axis Industrial Mechanical Robot Arm Model Aluminum Manipulator Only Frame New" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=industrial+robot+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ai-robots-are-reducing-risk-in-dangerous-industries-industrial-robot-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="industrial robot model" data-ebay-reference="how-ai-robots-are-reducing-risk-in-dangerous-industries-industrial-robot-model" target="_blank" rel="sponsored noopener noreferrer">6-Axis Industrial Mechanical Robot Arm Model Aluminum Manipulator Only Frame New</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=industrial+robot+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ai-robots-are-reducing-risk-in-dangerous-industries-industrial-robot-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="industrial robot model" data-ebay-reference="how-ai-robots-are-reducing-risk-in-dangerous-industries-industrial-robot-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for industrial robot model">Search<span data-ebay-domain-label>eBay.co.uk</span>: industrial robot model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=industrial+robot+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ai-robots-are-reducing-risk-in-dangerous-industries-industrial-robot-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="industrial robot model" data-ebay-reference="how-ai-robots-are-reducing-risk-in-dangerous-industries-industrial-robot-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=industrial+robot+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ai-robots-are-reducing-risk-in-dangerous-industries-industrial-robot-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="industrial robot model" data-ebay-reference="how-ai-robots-are-reducing-risk-in-dangerous-industries-industrial-robot-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -689,7 +689,7 @@ Industrial robotics already demonstrates that machines can perform some dangerou
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -709,7 +709,7 @@ Industrial robotics already demonstrates that machines can perform some dangerou
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -741,7 +741,7 @@ Industrial robotics already demonstrates that machines can perform some dangerou
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -793,7 +793,7 @@ Industrial robotics already demonstrates that machines can perform some dangerou
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -838,7 +838,7 @@ Industrial robotics already demonstrates that machines can perform some dangerou
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -879,173 +879,173 @@ Industrial robotics already demonstrates that machines can perform some dangerou
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: archive.cdc.gov  
-   Link: <a href="https://archive.cdc.gov/www_cdc_gov/niosh/mining/strategicplan/HaulTruckRoadmap2020.html" target="_blank" rel="noopener noreferrer nofollow">https://archive.cdc.gov/www_cdc_gov/niosh/mining/strategicplan/HaulTruckRoadmap2020.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CDC ArchiveHaul Truck Research Roadmap Report 2020 | MiningRecently, 50% (14 of 28) of the fatal accidents in 2017 and 48% (13 of 27) in...</p></details>
+   Link:<a href="https://archive.cdc.gov/www_cdc_gov/niosh/mining/strategicplan/HaulTruckRoadmap2020.html" target="_blank" rel="noopener noreferrer nofollow">https://archive.cdc.gov/www_cdc_gov/niosh/mining/strategicplan/HaulTruckRoadmap2020.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CDC ArchiveHaul Truck Research Roadmap Report 2020 | MiningRecently, 50% (14 of 28) of the fatal accidents in 2017 and 48% (13 of 27) in...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: globalminingreview.com  
-   Link: <a href="https://www.globalminingreview.com/mining/30012018/rio-tinto-reaches-autonomous-truck-fleet-milestone/" target="_blank" rel="noopener noreferrer nofollow">https://www.globalminingreview.com/mining/30012018/rio-tinto-reaches-autonomous-truck-fleet-milestone/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Rio Tinto reaches autonomous truck milestone30 Jan 2018 — There have been zero injuries attributed to autonomous haul trucks since deploy...</p></details>
+   Link:<a href="https://www.globalminingreview.com/mining/30012018/rio-tinto-reaches-autonomous-truck-fleet-milestone/" target="_blank" rel="noopener noreferrer nofollow">https://www.globalminingreview.com/mining/30012018/rio-tinto-reaches-autonomous-truck-fleet-milestone/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rio Tinto reaches autonomous truck milestone30 Jan 2018 — There have been zero injuries attributed to autonomous haul trucks since deploy...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: komatsu.jp  
-   Link: <a href="https://www.komatsu.jp/en/newsroom/2026/20260422" target="_blank" rel="noopener noreferrer nofollow">https://www.komatsu.jp/en/newsroom/2026/20260422</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>コマツ 企業サイト- FrontRunner Autonomous Haulage System continues to...22 Apr 2026 — - FrontRunner Autonomous Haulage System continues to creat...</p></details>
+   Link:<a href="https://www.komatsu.jp/en/newsroom/2026/20260422" target="_blank" rel="noopener noreferrer nofollow">https://www.komatsu.jp/en/newsroom/2026/20260422</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>コマツ 企業サイト- FrontRunner Autonomous Haulage System continues to...22 Apr 2026 — - FrontRunner Autonomous Haulage System continues to creat...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1007/s42461-025-01394-y" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s42461-025-01394-y</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Juxtaposition of Autonomous Haulage Systems in China...by X Chen · 2025 · Cited by 1 — Enhancing Mine Safety: By reducing huma...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1007/s42461-025-01394-y" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s42461-025-01394-y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Juxtaposition of Autonomous Haulage Systems in China...by X Chen · 2025 · Cited by 1 — Enhancing Mine Safety: By reducing huma...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: scholarlyreview.org  
-   Link: <a href="https://www.scholarlyreview.org/article/124875-the-impact-of-autonomous-vehicles-on-mining-operations-enhancing-safety-and-productivity-through-technological-advancements.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scholarlyreview.org/article/124875-the-impact-of-autonomous-vehicles-on-mining-operations-enhancing-safety-and-productivity-through-technological-advancements.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The impact of autonomous vehicles on mining operationsby D Kaur · Cited by 4 — human intervention, significantly reducing the risk to wor...</p></details>
+   Link:<a href="https://www.scholarlyreview.org/article/124875-the-impact-of-autonomous-vehicles-on-mining-operations-enhancing-safety-and-productivity-through-technological-advancements.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scholarlyreview.org/article/124875-the-impact-of-autonomous-vehicles-on-mining-operations-enhancing-safety-and-productivity-through-technological-advancements.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The impact of autonomous vehicles on mining operationsby D Kaur · Cited by 4 — human intervention, significantly reducing the risk to wor...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: arxiv.org  
    Title: arXiv Underground Multi-robot Systems at Work: a revolution in mining  
-   Link: <a href="https://arxiv.org/abs/2509.16267" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2509.16267</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Underground Multi-robot Systems at Work: a revolution in miningSeptember 18, 2025...</p></details>
+   Link:<a href="https://arxiv.org/abs/2509.16267" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2509.16267</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Underground Multi-robot Systems at Work: a revolution in miningSeptember 18, 2025...</p></details>
    Published: September 18, 2025  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2512.13974" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2512.13974</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Autonomous Construction-Site Safety Inspection Using Mobile Robots: A Multilayer VLM-LLM PipelineDecember 16, 2025...</p></details>
+   Link:<a href="https://arxiv.org/abs/2512.13974" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2512.13974</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Autonomous Construction-Site Safety Inspection Using Mobile Robots: A Multilayer VLM-LLM PipelineDecember 16, 2025...</p></details>
    Published: December 16, 2025  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: arxiv.org  
    Title: arXiv Auto Inspect: Towards Long-Term Autonomous Industrial Inspection  
-   Link: <a href="https://arxiv.org/abs/2404.12785" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2404.12785</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AutoInspect: Towards Long-Term Autonomous Industrial InspectionApril 19, 2024...</p></details>
+   Link:<a href="https://arxiv.org/abs/2404.12785" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2404.12785</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AutoInspect: Towards Long-Term Autonomous Industrial InspectionApril 19, 2024...</p></details>
    Published: April 19, 2024  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: boston.com  
-   Link: <a href="https://www.boston.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.boston.com/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Local breaking news, sports, weather, and things...What Boston cares about right now: Get breaking updates on news, sports, and weather...</p></details>
+   Link:<a href="https://www.boston.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.boston.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Local breaking news, sports, weather, and things...What Boston cares about right now: Get breaking updates on news, sports, and weather...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: boston.com  
-   Link: <a href="https://www.boston.com/news/local-news/2026/05/20/how-hot-are-boston-public-school-classrooms-today/" target="_blank" rel="noopener noreferrer nofollow">https://www.boston.com/news/local-news/2026/05/20/how-hot-are-boston-public-school-classrooms-today/</a>  
+   Link:<a href="https://www.boston.com/news/local-news/2026/05/20/how-hot-are-boston-public-school-classrooms-today/" target="_blank" rel="noopener noreferrer nofollow">https://www.boston.com/news/local-news/2026/05/20/how-hot-are-boston-public-school-classrooms-today/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: stacks.cdc.gov  
    Title: cdc 148735 DS1  
-   Link: <a href="https://stacks.cdc.gov/view/cdc/148735/cdc_148735_DS1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://stacks.cdc.gov/view/cdc/148735/cdc_148735_DS1.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A hybrid or combination...Read more...</p></details>
+   Link:<a href="https://stacks.cdc.gov/view/cdc/148735/cdc_148735_DS1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://stacks.cdc.gov/view/cdc/148735/cdc_148735_DS1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A hybrid or combination...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: automate.org  
    Title: the role of robotics in improving safety and efficiency in mining operations 70  
-   Link: <a href="https://www.automate.org/robotics/news/the-role-of-robotics-in-improving-safety-and-efficiency-in-mining-operations-70" target="_blank" rel="noopener noreferrer nofollow">https://www.automate.org/robotics/news/the-role-of-robotics-in-improving-safety-and-efficiency-in-mining-operations-70</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The role of robotics in improving safety and efficiency...24 Mar 2025 — Autonomous robots help humans avoid risky mining activities by p...</p></details>
+   Link:<a href="https://www.automate.org/robotics/news/the-role-of-robotics-in-improving-safety-and-efficiency-in-mining-operations-70" target="_blank" rel="noopener noreferrer nofollow">https://www.automate.org/robotics/news/the-role-of-robotics-in-improving-safety-and-efficiency-in-mining-operations-70</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The role of robotics in improving safety and efficiency...24 Mar 2025 — Autonomous robots help humans avoid risky mining activities by p...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: bostondynamics.com  
-   Link: <a href="https://bostondynamics.com/case-studies/bp/" target="_blank" rel="noopener noreferrer nofollow">https://bostondynamics.com/case-studies/bp/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ploy Spot offshore...</p></details>
+   Link:<a href="https://bostondynamics.com/case-studies/bp/" target="_blank" rel="noopener noreferrer nofollow">https://bostondynamics.com/case-studies/bp/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ploy Spot offshore...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: bostondynamics.com  
-   Link: <a href="https://bostondynamics.com/case-studies/meet-chevrons-new-energy-watchdog/" target="_blank" rel="noopener noreferrer nofollow">https://bostondynamics.com/case-studies/meet-chevrons-new-energy-watchdog/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Meet Chevron&#x27;s New Energy WatchdogThe new safety feature allows Chevron to use Spot autonomously in hazardous locations and electrically...</p></details>
+   Link:<a href="https://bostondynamics.com/case-studies/meet-chevrons-new-energy-watchdog/" target="_blank" rel="noopener noreferrer nofollow">https://bostondynamics.com/case-studies/meet-chevrons-new-energy-watchdog/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Meet Chevron&#x27;s New Energy WatchdogThe new safety feature allows Chevron to use Spot autonomously in hazardous locations and electrically...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: bostondynamics.com  
    Title: spot at cargill  
-   Link: <a href="https://bostondynamics.com/case-studies/spot-at-cargill/" target="_blank" rel="noopener noreferrer nofollow">https://bostondynamics.com/case-studies/spot-at-cargill/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Boston DynamicsSpot at Cargill10 Jun 2025 — Cargill Amsterdam Multiseed enlists Spot to inspect machines, conduct safety checks as part o...</p></details>
+   Link:<a href="https://bostondynamics.com/case-studies/spot-at-cargill/" target="_blank" rel="noopener noreferrer nofollow">https://bostondynamics.com/case-studies/spot-at-cargill/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Boston DynamicsSpot at Cargill10 Jun 2025 — Cargill Amsterdam Multiseed enlists Spot to inspect machines, conduct safety checks as part o...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: bostondynamics.com  
-   Link: <a href="https://bostondynamics.com/blog/autonomous-detection-of-combustible-gas-leaks/" target="_blank" rel="noopener noreferrer nofollow">https://bostondynamics.com/blog/autonomous-detection-of-combustible-gas-leaks/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Boston DynamicsAutonomous Detection of Combustible Gas LeaksAutonomously detecting pinhole leaks as part of Spot&#x27;s routine maintenance ro...</p></details>
+   Link:<a href="https://bostondynamics.com/blog/autonomous-detection-of-combustible-gas-leaks/" target="_blank" rel="noopener noreferrer nofollow">https://bostondynamics.com/blog/autonomous-detection-of-combustible-gas-leaks/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Boston DynamicsAutonomous Detection of Combustible Gas LeaksAutonomously detecting pinhole leaks as part of Spot&#x27;s routine maintenance ro...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: bostondynamics.com  
-   Link: <a href="https://bostondynamics.com/case-studies/spot-makes-austrias-largest-power-plant-safer/" target="_blank" rel="noopener noreferrer nofollow">https://bostondynamics.com/case-studies/spot-makes-austrias-largest-power-plant-safer/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It is the first quadruped robot used in Europe for routine power plant...Read more...</p></details>
+   Link:<a href="https://bostondynamics.com/case-studies/spot-makes-austrias-largest-power-plant-safer/" target="_blank" rel="noopener noreferrer nofollow">https://bostondynamics.com/case-studies/spot-makes-austrias-largest-power-plant-safer/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It is the first quadruped robot used in Europe for routine power plant...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: bostondynamics.com  
-   Link: <a href="https://bostondynamics.com/solutions/inspection/" target="_blank" rel="noopener noreferrer nofollow">https://bostondynamics.com/solutions/inspection/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Industrial Inspection SolutionsSpot is the new standard for industrial inspection. Automate both routine and hazardous inspections, power...</p></details>
+   Link:<a href="https://bostondynamics.com/solutions/inspection/" target="_blank" rel="noopener noreferrer nofollow">https://bostondynamics.com/solutions/inspection/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Industrial Inspection SolutionsSpot is the new standard for industrial inspection. Automate both routine and hazardous inspections, power...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: bostondynamics.com  
-   Link: <a href="https://bostondynamics.com/video/predictably-spot-on-industrial-inspection/" target="_blank" rel="noopener noreferrer nofollow">https://bostondynamics.com/video/predictably-spot-on-industrial-inspection/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Predictably Spot-On Industrial InspectionIn this keynote presentation, our product experts share the details of Orbit fleet management so...</p></details>
+   Link:<a href="https://bostondynamics.com/video/predictably-spot-on-industrial-inspection/" target="_blank" rel="noopener noreferrer nofollow">https://bostondynamics.com/video/predictably-spot-on-industrial-inspection/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Predictably Spot-On Industrial InspectionIn this keynote presentation, our product experts share the details of Orbit fleet management so...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: bostondynamics.com  
-   Link: <a href="https://bostondynamics.com/case-studies/" target="_blank" rel="noopener noreferrer nofollow">https://bostondynamics.com/case-studies/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Case StudiesDiscover robotics case studies on our solutions at work. Our customers share success stories from starting out to scaling rob...</p></details>
+   Link:<a href="https://bostondynamics.com/case-studies/" target="_blank" rel="noopener noreferrer nofollow">https://bostondynamics.com/case-studies/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Case StudiesDiscover robotics case studies on our solutions at work. Our customers share success stories from starting out to scaling rob...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: bostondynamics.com  
-   Link: <a href="https://bostondynamics.com/case-studies/woodside-energy-integrates-spot-for-enhanced-safety-at-lng-facility/" target="_blank" rel="noopener noreferrer nofollow">https://bostondynamics.com/case-studies/woodside-energy-integrates-spot-for-enhanced-safety-at-lng-facility/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Woodside Energy Integrates Spot at LNG FacilityThe program uses Boston Dynamics&#x27; Spot robot to conduct routine inspections at Pluto LNG...</p></details>
+   Link:<a href="https://bostondynamics.com/case-studies/woodside-energy-integrates-spot-for-enhanced-safety-at-lng-facility/" target="_blank" rel="noopener noreferrer nofollow">https://bostondynamics.com/case-studies/woodside-energy-integrates-spot-for-enhanced-safety-at-lng-facility/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Woodside Energy Integrates Spot at LNG FacilityThe program uses Boston Dynamics&#x27; Spot robot to conduct routine inspections at Pluto LNG...</p></details>
 
 ### Additional References
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12783740/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12783740/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>challenges and roadmap for humanoid robots in...by T Uthai · 2025 · Cited by 4 — The construction industry faces pressing challenges, in...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12783740/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12783740/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>challenges and roadmap for humanoid robots in...by T Uthai · 2025 · Cited by 4 — The construction industry faces pressing challenges, in...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/143679539/The_Role_of_Robotics_and_Automation_in_Enhancing_Safety_and_Efficiency_in_Mining" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/143679539/The_Role_of_Robotics_and_Automation_in_Enhancing_Safety_and_Efficiency_in_Mining</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>afety by reducing the exposure of the miner to hazardous conditions and enhance...Read more...</p></details>
+   Link:<a href="https://www.academia.edu/143679539/The_Role_of_Robotics_and_Automation_in_Enhancing_Safety_and_Efficiency_in_Mining" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/143679539/The_Role_of_Robotics_and_Automation_in_Enhancing_Safety_and_Efficiency_in_Mining</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>afety by reducing the exposure of the miner to hazardous conditions and enhance...Read more...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: aibusiness.com  
    Title: boston dynamics robot dog spot inspects for safety hazards  
-   Link: <a href="https://aibusiness.com/automation/boston-dynamics-robot-dog-spot-inspects-for-safety-hazards" target="_blank" rel="noopener noreferrer nofollow">https://aibusiness.com/automation/boston-dynamics-robot-dog-spot-inspects-for-safety-hazards</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Boston Dynamics Robot Dog Spot Inspects for Safety...Jun 24, 2025 — The updated system expands Spot&#x27;s ability to identify potential safe...</p></details>
+   Link:<a href="https://aibusiness.com/automation/boston-dynamics-robot-dog-spot-inspects-for-safety-hazards" target="_blank" rel="noopener noreferrer nofollow">https://aibusiness.com/automation/boston-dynamics-robot-dog-spot-inspects-for-safety-hazards</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Boston Dynamics Robot Dog Spot Inspects for Safety...Jun 24, 2025 — The updated system expands Spot&#x27;s ability to identify potential safe...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: beamdata.ai  
    Title: ai mineral exploration autonomous mining labor automation  
-   Link: <a href="https://beamdata.ai/ai-mineral-exploration-autonomous-mining-labor-automation/" target="_blank" rel="noopener noreferrer nofollow">https://beamdata.ai/ai-mineral-exploration-autonomous-mining-labor-automation/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bridging the Labor Gap in Mining with AI-Powered...14 Jul 2025 — Discover how AI-powered autonomous equipment and digital are changing A...</p></details>
+   Link:<a href="https://beamdata.ai/ai-mineral-exploration-autonomous-mining-labor-automation/" target="_blank" rel="noopener noreferrer nofollow">https://beamdata.ai/ai-mineral-exploration-autonomous-mining-labor-automation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bridging the Labor Gap in Mining with AI-Powered...14 Jul 2025 — Discover how AI-powered autonomous equipment and digital are changing A...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: botasys.com  
    Title: robots doing dangerous jobs  
-   Link: <a href="https://botasys.com/post/robots-doing-dangerous-jobs/" target="_blank" rel="noopener noreferrer nofollow">https://botasys.com/post/robots-doing-dangerous-jobs/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>10 Real-World Examples31 Mar 2025 — Robots are taking on hazardous jobs like bomb disposal and mining, keeping workers safe while improvi...</p></details>
+   Link:<a href="https://botasys.com/post/robots-doing-dangerous-jobs/" target="_blank" rel="noopener noreferrer nofollow">https://botasys.com/post/robots-doing-dangerous-jobs/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>10 Real-World Examples31 Mar 2025 — Robots are taking on hazardous jobs like bomb disposal and mining, keeping workers safe while improvi...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: buildingpointsoutheast.com  
-   Link: <a href="https://www.buildingpointsoutheast.com/blog/robotics-for-safety-and-risk-mitigation" target="_blank" rel="noopener noreferrer nofollow">https://www.buildingpointsoutheast.com/blog/robotics-for-safety-and-risk-mitigation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Using Robotics in Hazardous Construction TasksExplore the use of robotics in hazardous construction tasks. Learn how robots improve safet...</p></details>
+   Link:<a href="https://www.buildingpointsoutheast.com/blog/robotics-for-safety-and-risk-mitigation" target="_blank" rel="noopener noreferrer nofollow">https://www.buildingpointsoutheast.com/blog/robotics-for-safety-and-risk-mitigation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Using Robotics in Hazardous Construction TasksExplore the use of robotics in hazardous construction tasks. Learn how robots improve safet...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: discoveryalert.com.au  
    Title: revolutionizing mining autonomous technologies 2025 safety productivity  
-   Link: <a href="https://discoveryalert.com.au/revolutionizing-mining-autonomous-technologies-2025-safety-productivity/" target="_blank" rel="noopener noreferrer nofollow">https://discoveryalert.com.au/revolutionizing-mining-autonomous-technologies-2025-safety-productivity/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Autonomous Mining: Transforming Trucks and Drilling...14 Oct 2025 — Discover how autonomous trucks and drilling systems in mining are re...</p></details>
+   Link:<a href="https://discoveryalert.com.au/revolutionizing-mining-autonomous-technologies-2025-safety-productivity/" target="_blank" rel="noopener noreferrer nofollow">https://discoveryalert.com.au/revolutionizing-mining-autonomous-technologies-2025-safety-productivity/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Autonomous Mining: Transforming Trucks and Drilling...14 Oct 2025 — Discover how autonomous trucks and drilling systems in mining are re...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: dronesplusrobotics.com  
    Title: heavy industry robotics ai safety  
-   Link: <a href="https://www.dronesplusrobotics.com/post/heavy-industry-robotics-ai-safety" target="_blank" rel="noopener noreferrer nofollow">https://www.dronesplusrobotics.com/post/heavy-industry-robotics-ai-safety</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Safer Machines...12 May 2026 — Robots improve safety in heavy industry by entering hazardous areas first, inspecting unstable or con...</p></details>
+   Link:<a href="https://www.dronesplusrobotics.com/post/heavy-industry-robotics-ai-safety" target="_blank" rel="noopener noreferrer nofollow">https://www.dronesplusrobotics.com/post/heavy-industry-robotics-ai-safety</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why Safer Machines...12 May 2026 — Robots improve safety in heavy industry by entering hazardous areas first, inspecting unstable or con...</p></details>
    Published: May 2026  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: eaconmining.com.au  
    Title: details126 493  
-   Link: <a href="https://www.eaconmining.com.au/content/details126_493.html" target="_blank" rel="noopener noreferrer nofollow">https://www.eaconmining.com.au/content/details126_493.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Global Rise of Autonomous Mining12 Mar 2026 — Rio Tinto took a major step towards large-scale automation in 2012 with the introductio...</p></details>
+   Link:<a href="https://www.eaconmining.com.au/content/details126_493.html" target="_blank" rel="noopener noreferrer nofollow">https://www.eaconmining.com.au/content/details126_493.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Global Rise of Autonomous Mining12 Mar 2026 — Rio Tinto took a major step towards large-scale automation in 2012 with the introductio...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: energy-robotics.com  
-   Link: <a href="https://www.energy-robotics.com/industries/inspection-oil-gas" target="_blank" rel="noopener noreferrer nofollow">https://www.energy-robotics.com/industries/inspection-oil-gas</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Robotic Inspection in the Oil &amp; Gas IndustryRevolutionize your oil and gas inspections with autonomous robots and drones at on-and offsho...</p></details>
+   Link:<a href="https://www.energy-robotics.com/industries/inspection-oil-gas" target="_blank" rel="noopener noreferrer nofollow">https://www.energy-robotics.com/industries/inspection-oil-gas</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Robotic Inspection in the Oil &amp; Gas IndustryRevolutionize your oil and gas inspections with autonomous robots and drones at on-and offsho...</p></details>

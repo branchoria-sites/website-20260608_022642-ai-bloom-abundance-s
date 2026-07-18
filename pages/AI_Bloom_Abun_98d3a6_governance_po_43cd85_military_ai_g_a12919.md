@@ -288,260 +288,260 @@ image: /assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_military_ai_g_a1
 
 ## Introduction
 
-Artificial [intelligence]({{ 'intelligence/' | relative_url }}) (AI) is transforming not only civilian life but also the conduct of war. From automated surveillance to decision‑support systems and lethal autonomous weapons, militaries are integrating AI in ways that could reshape strategic competition, battlefield ethics, and global security. These developments raise profound governance challenges: traditional legal frameworks and international norms lag behind technological advance, accountability for life‑and‑death decisions becomes murky, and an accelerating arms race could destabilise peace and constrain broader human flourishing. This page explores how AI is being applied in military contexts, why governance matters urgently, and the specific obstacles states and societies face in managing these emerging capabilities responsibly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://jurnal.itscience.org/index.php/brilliance/article/view/6925" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jurnal.itscience.org">[jurnal.itscience.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jurnal.itscience.org</span><span class="citation-popover-snippet">genceSeptember 17, 2025...</span><span class="citation-popover-meta">Published: September 17, 2025</span></span></span>
+Artificial [intelligence]({{ 'intelligence/' | relative_url }}) (AI) is transforming not only civilian life but also the conduct of war. From automated surveillance to decision‑support systems and lethal autonomous weapons, militaries are integrating AI in ways that could reshape strategic competition, battlefield ethics, and global security. These developments raise profound governance challenges: traditional legal frameworks and international norms lag behind technological advance, accountability for life‑and‑death decisions becomes murky, and an accelerating arms race could destabilise peace and constrain broader human flourishing. This page explores how AI is being applied in military contexts, why governance matters urgently, and the specific obstacles states and societies face in managing these emerging capabilities responsibly.<span class="citation-chip-wrap"><a class="citation-chip" href="https://jurnal.itscience.org/index.php/brilliance/article/view/6925" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jurnal.itscience.org">[jurnal.itscience.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jurnal.itscience.org</span><span class="citation-popover-snippet">genceSeptember 17, 2025...</span><span class="citation-popover-meta">Published: September 17, 2025</span></span></span>
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_military_ai_g_a12919-Illustration-1-dark.svg" | relative_url }}" alt="Military AI illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_military_ai_g_a12919-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_military_ai_g_a12919-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How AI Is Used in Military Operations
 
-AI already enhances a wide range of military functions, from intelligence analysis and logistics to mission planning and air defence. Modern systems can process massive amounts of sensor data more quickly than human analysts, detect patterns in complex environments, and support commanders with predictive insights. In some cases, autonomous systems such as drone swarms or automated air‑defence platforms operate with limited human input, creating tactical advantages in speed and efficiency. <span class="citation-chip-wrap"><a class="citation-chip" href="https://jurnal.itscience.org/index.php/brilliance/article/view/6925" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jurnal.itscience.org">[jurnal.itscience.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jurnal.itscience.org</span><span class="citation-popover-snippet">genceSeptember 17, 2025...</span><span class="citation-popover-meta">Published: September 17, 2025</span></span></span>
+AI already enhances a wide range of military functions, from intelligence analysis and logistics to mission planning and air defence. Modern systems can process massive amounts of sensor data more quickly than human analysts, detect patterns in complex environments, and support commanders with predictive insights. In some cases, autonomous systems such as drone swarms or automated air‑defence platforms operate with limited human input, creating tactical advantages in speed and efficiency.<span class="citation-chip-wrap"><a class="citation-chip" href="https://jurnal.itscience.org/index.php/brilliance/article/view/6925" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jurnal.itscience.org">[jurnal.itscience.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jurnal.itscience.org</span><span class="citation-popover-snippet">genceSeptember 17, 2025...</span><span class="citation-popover-meta">Published: September 17, 2025</span></span></span>
 
-Yet this integration goes beyond mere tools. Large language models (LLMs), originally developed for civilian use, are being deployed in intelligence synthesis, operational planning, and information operations, blurring the lines between analytic support and direct influence on strategic decisions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ojs.stanford.edu/ojs/index.php/grace/article/view/4337" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ojs.stanford.edu">[ojs.stanford.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ojs.stanford.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Yet this integration goes beyond mere tools. Large language models (LLMs), originally developed for civilian use, are being deployed in intelligence synthesis, operational planning, and information operations, blurring the lines between analytic support and direct influence on strategic decisions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ojs.stanford.edu/ojs/index.php/grace/article/view/4337" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ojs.stanford.edu">[ojs.stanford.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ojs.stanford.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 ## Key Risks and Governance Challenges
 
 ### Arms Race Dynamics and Strategic Instability
 
-AI’s transformative potential in warfare is driving competition among major powers. As states innovate to secure strategic advantages, integration of AI into command‑and‑[control]({{ 'control/' | relative_url }}) systems and autonomous platforms risks cascading pressure to accelerate development and deployment. Without robust governance, this arms race could heighten geopolitical instability and reduce incentives for restraint. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sipri.org/publications/2025/sipri-insights-peace-and-security/advancing-governance-nexus-artificial-intelligence-and-nuclear-weapons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sipri.org">[SIPRI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sipri.org</span><span class="citation-popover-snippet">Advancing Governance at the Nexus of Artificial Intelligence and Nuclear Weapons &#124; SIPRI...</span></span></span>
+AI’s transformative potential in warfare is driving competition among major powers. As states innovate to secure strategic advantages, integration of AI into command‑and‑[control]({{ 'control/' | relative_url }}) systems and autonomous platforms risks cascading pressure to accelerate development and deployment. Without robust governance, this arms race could heighten geopolitical instability and reduce incentives for restraint.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sipri.org/publications/2025/sipri-insights-peace-and-security/advancing-governance-nexus-artificial-intelligence-and-nuclear-weapons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sipri.org">[SIPRI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sipri.org</span><span class="citation-popover-snippet">Advancing Governance at the Nexus of Artificial Intelligence and Nuclear Weapons &#124; SIPRI...</span></span></span>
 
-The risk is not limited to peer competitors. Dual‑use AI tools are increasingly accessible, raising the possibility that non‑state actors could exploit advanced capabilities outside established legal and normative frameworks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jiia.or.jp/eng/report/2026/03/strategic_comment_2026-6.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jiia.or.jp">[jiia.or.jp]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jiia.or.jp</span><span class="citation-popover-title">strategic comment 2026 6</span><span class="citation-popover-snippet">JIIA Strategic Comments (2026-6) Racing Ahead, Falling Apart: Middle Powers and the Future of Military AI Governance &#124; Research Findings...</span></span></span>
+The risk is not limited to peer competitors. Dual‑use AI tools are increasingly accessible, raising the possibility that non‑state actors could exploit advanced capabilities outside established legal and normative frameworks.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jiia.or.jp/eng/report/2026/03/strategic_comment_2026-6.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jiia.or.jp">[jiia.or.jp]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jiia.or.jp</span><span class="citation-popover-title">strategic comment</span><span class="citation-popover-snippet">JIIA Strategic Comments (2026-6) Racing Ahead, Falling Apart: Middle Powers and the Future of Military AI Governance &#124; Research Findings...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ThHlrE_4qGU" title="Can AI in military operations really be ethical? | The Stream" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ThHlrE_4qGU" target="_blank" rel="noopener noreferrer">Can AI in military operations really be ethical? | The Stream</a></p><p class="youtube-embed-meta">Channel: Al Jazeera English &middot; Views: 8.8K &middot; Uploaded: March 2026 &middot; Length: 25 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ThHlrE_4qGU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ThHlrE_4qGU">Open on YouTube</a></p></div></div></div>
 
 ### Erosion of Human Oversight
 
-A central governance concern is the potential loss of meaningful human control over coercive decisions, especially when lethal force is at stake. Autonomous weapon systems (AWS) that can identify and engage targets without real‑time human intervention challenge long‑standing legal and ethical principles that assume human judgment in decisions to use lethal force. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.globalsecurity.org/military/systems/ai-risks.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalsecurity.org">[Global Security]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalsecurity.org</span><span class="citation-popover-title">Global Security Risks and Hazards of Military AI</span><span class="citation-popover-snippet">Global Security Risks and Hazards of Military AI</span></span></span>
+A central governance concern is the potential loss of meaningful human control over coercive decisions, especially when lethal force is at stake. Autonomous weapon systems (AWS) that can identify and engage targets without real‑time human intervention challenge long‑standing legal and ethical principles that assume human judgment in decisions to use lethal force.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.globalsecurity.org/military/systems/ai-risks.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalsecurity.org">[Global Security]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalsecurity.org</span><span class="citation-popover-title">Global Security Risks and Hazards of Military AI</span><span class="citation-popover-snippet">Global Security Risks and Hazards of Military AI</span></span></span>
 
-The so‑called “accountability gap” arises when no clear human actor can be held responsible for the consequences of AI‑driven actions, undermining accountability under international humanitarian law. Determining whether a commander, developer, manufacturer, or operator bears responsibility becomes increasingly complex when opaque algorithms influence critical outcomes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ojs.stanford.edu/ojs/index.php/grace/article/view/4337" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ojs.stanford.edu">[ojs.stanford.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ojs.stanford.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The so‑called “accountability gap” arises when no clear human actor can be held responsible for the consequences of AI‑driven actions, undermining accountability under international humanitarian law. Determining whether a commander, developer, manufacturer, or operator bears responsibility becomes increasingly complex when opaque algorithms influence critical outcomes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ojs.stanford.edu/ojs/index.php/grace/article/view/4337" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ojs.stanford.edu">[ojs.stanford.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ojs.stanford.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 ### Technical Opacity and Unpredictability
 
-Many AI systems rely on machine learning models known for “black box” behaviour: it can be difficult even for developers to explain why a system produced a given output. In military contexts, this opacity can undermine trust and make it harder to predict how AI will behave in novel or high‑pressure scenarios, increasing the risk of unintended escalation or operational failure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.globalsecurity.org/military/systems/ai-risks.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalsecurity.org">[Global Security]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalsecurity.org</span><span class="citation-popover-title">Global Security Risks and Hazards of Military AI</span><span class="citation-popover-snippet">Global Security Risks and Hazards of Military AI</span></span></span>
+Many AI systems rely on machine learning models known for “black box” behaviour: it can be difficult even for developers to explain why a system produced a given output. In military contexts, this opacity can undermine trust and make it harder to predict how AI will behave in novel or high‑pressure scenarios, increasing the risk of unintended escalation or operational failure.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.globalsecurity.org/military/systems/ai-risks.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalsecurity.org">[Global Security]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalsecurity.org</span><span class="citation-popover-title">Global Security Risks and Hazards of Military AI</span><span class="citation-popover-snippet">Global Security Risks and Hazards of Military AI</span></span></span>
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_military_ai_g_a12919-Illustration-2-dark.svg" | relative_url }}" alt="Military AI illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_military_ai_g_a12919-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_military_ai_g_a12919-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Interoperability and Vulnerabilities
 
-AI‑enabled military networks and decision‑support systems depend on complex technical infrastructures. These systems can be vulnerable to data poisoning, adversarial manipulation, and cyber‑attack, exposing not only single nations but coalition partners to security risks if governance and [resilience]({{ 'resilience/' | relative_url }}) measures are inadequate. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jiia.or.jp/eng/report/2026/03/strategic_comment_2026-6.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jiia.or.jp">[jiia.or.jp]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jiia.or.jp</span><span class="citation-popover-title">strategic comment 2026 6</span><span class="citation-popover-snippet">JIIA Strategic Comments (2026-6) Racing Ahead, Falling Apart: Middle Powers and the Future of Military AI Governance &#124; Research Findings...</span></span></span>
+AI‑enabled military networks and decision‑support systems depend on complex technical infrastructures. These systems can be vulnerable to data poisoning, adversarial manipulation, and cyber‑attack, exposing not only single nations but coalition partners to security risks if governance and [resilience]({{ 'resilience/' | relative_url }}) measures are inadequate.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jiia.or.jp/eng/report/2026/03/strategic_comment_2026-6.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jiia.or.jp">[jiia.or.jp]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jiia.or.jp</span><span class="citation-popover-title">strategic comment</span><span class="citation-popover-snippet">JIIA Strategic Comments (2026-6) Racing Ahead, Falling Apart: Middle Powers and the Future of Military AI Governance &#124; Research Findings...</span></span></span>
 
 ## International Efforts and Norm‑Building
 
 ### Attempts at Global Rules
 
-The longstanding forum for arms control, the UN Convention on Certain Conventional Weapons (CCW), has hosted discussions on autonomous weapons and AI in warfare, but progress toward binding agreements has been slow and contested. States differ sharply on definitions of prohibited systems and the degree of human control required. <span class="citation-chip-wrap"><a class="citation-chip" href="https://international-review.icrc.org/articles/stepping-back-from-brink-regulation-of-autonomous-weapons-systems-913" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: international-review.icrc.org">[International Review of the Red Cross]</a><span class="citation-popover" role="note"><span class="citation-popover-source">international-review.icrc.org</span><span class="citation-popover-snippet">International Review of the Red CrossStepping back from the brink: Why multilateral regulation of autonomy in weapons systems is difficul...</span></span></span>
+The longstanding forum for arms control, the UN Convention on Certain Conventional Weapons (CCW), has hosted discussions on autonomous weapons and AI in warfare, but progress toward binding agreements has been slow and contested. States differ sharply on definitions of prohibited systems and the degree of human control required.<span class="citation-chip-wrap"><a class="citation-chip" href="https://international-review.icrc.org/articles/stepping-back-from-brink-regulation-of-autonomous-weapons-systems-913" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: international-review.icrc.org">[International Review of the Red Cross]</a><span class="citation-popover" role="note"><span class="citation-popover-source">international-review.icrc.org</span><span class="citation-popover-snippet">International Review of the Red CrossStepping back from the brink: Why multilateral regulation of autonomy in weapons systems is difficul...</span></span></span>
 
-Separate multilateral initiatives, such as the Responsible AI in the Military Domain meeting in Seoul and the adoption of a ‘Blueprint for Action’ by dozens of countries, signal growing recognition of the problem and tentative steps toward normative convergence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41928-024-01275-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-title">Scientific challenges in governing military AI &#124; Nature Electronics</span><span class="citation-popover-snippet">Scientific challenges in governing military AI &#124; Nature ElectronicsNovember 4, 2024...</span><span class="citation-popover-meta">Published: November 4, 2024</span></span></span>
+Separate multilateral initiatives, such as the Responsible AI in the Military Domain meeting in Seoul and the adoption of a ‘Blueprint for Action’ by dozens of countries, signal growing recognition of the problem and tentative steps toward normative convergence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41928-024-01275-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-title">Scientific challenges in governing military AI &#124; Nature Electronics</span><span class="citation-popover-snippet">Scientific challenges in governing military AI &#124; Nature ElectronicsNovember 4, 2024...</span><span class="citation-popover-meta">Published: November 4, 2024</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wopyt6Z2GFs" title="Is AI changing US military warfare? | This is America" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wopyt6Z2GFs" target="_blank" rel="noopener noreferrer">Is AI changing US military warfare? | This is America</a></p><p class="youtube-embed-meta">Channel: Al Jazeera English &middot; Views: 51.8K &middot; Uploaded: May 2026 &middot; Length: 26 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wopyt6Z2GFs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wopyt6Z2GFs">Open on YouTube</a></p></div></div></div>
 
 ### National and Regional Governance
 
-In the absence of robust global law, some states are developing their own policies. For example, the UK’s Ministry of Defence has explored strategic risks and opportunities related to military AI, while Australia has adopted a policy emphasising [human oversight]({{ 'human-oversight/' | relative_url }}) and compliance with international law. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.uk/government/publications/strategic-competition-in-the-age-of-ai-emerging-risks-and-opportunities-from-military-use-of-artificial-intelligence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Strategic competition in the age of AI</span><span class="citation-popover-snippet">emerging risks and opportunities from military use of artificial intelligence - GOV.UKOctober 8, 2024...</span><span class="citation-popover-meta">Published: October 8, 2024</span></span></span>
+In the absence of robust global law, some states are developing their own policies. For example, the UK’s Ministry of Defence has explored strategic risks and opportunities related to military AI, while Australia has adopted a policy emphasising [human oversight]({{ 'human-oversight/' | relative_url }}) and compliance with international law.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.uk/government/publications/strategic-competition-in-the-age-of-ai-emerging-risks-and-opportunities-from-military-use-of-artificial-intelligence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Strategic competition in the age of AI</span><span class="citation-popover-snippet">emerging risks and opportunities from military use of artificial intelligence - GOV.UKOctober 8, 2024...</span><span class="citation-popover-meta">Published: October 8, 2024</span></span></span>
 
-However, approaches vary widely. Some defence establishments prioritise rapid deployment and competitive advantage, potentially at the cost of robust ethical governance, while others emphasise restraint, risk assessment, and lawful operation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theverge.com/ai-artificial-intelligence/937028/military-ai-warfare-red-lines" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theverge.com">[The Verge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theverge.com</span><span class="citation-popover-title">The Verge AI warfare is already here</span><span class="citation-popover-snippet">Initially viewed as futuristic, lethal autonomous weapon systems (LAWS) are now increasingly present in real-world applications. The tran...</span></span></span>
+However, approaches vary widely. Some defence establishments prioritise rapid deployment and competitive advantage, potentially at the cost of robust ethical governance, while others emphasise restraint, risk assessment, and lawful operation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theverge.com/ai-artificial-intelligence/937028/military-ai-warfare-red-lines" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theverge.com">[The Verge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theverge.com</span><span class="citation-popover-title">The Verge AI warfare is already here</span><span class="citation-popover-snippet">Initially viewed as futuristic, lethal autonomous weapon systems (LAWS) are now increasingly present in real-world applications. The tran...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lvhigiI_b1Y" title="EU Warns AI Arms Race Has Begun | “Algorithms Are The New Weapons”" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lvhigiI_b1Y" target="_blank" rel="noopener noreferrer">EU Warns AI Arms Race Has Begun | “Algorithms Are The New Weapons”</a></p><p class="youtube-embed-meta">Channel: The Financial Express &middot; Views: 145 &middot; Uploaded: May 2026 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lvhigiI_b1Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lvhigiI_b1Y">Open on YouTube</a></p></div></div></div>
 
 ## Emerging Norms: Meaningful Human Control and Beyond
 
-A central theme among analysts and practitioners is preserving “meaningful human control” over the use of force—a principle that humans should retain decisive authority in life‑and‑death decisions. Clarifying what constitutes meaningful control across AI’s lifecycle—from research and development to operational deployment—is a recurring governance challenge. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s42256-026-01231-x.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Re-thinking human–machine interaction and the governance of AI in the military domain &#124; Nature Machine IntelligenceMay 11, 2026...</span><span class="citation-popover-meta">Published: May 11, 2026</span></span></span>
+A central theme among analysts and practitioners is preserving “meaningful human control” over the use of force—a principle that humans should retain decisive authority in life‑and‑death decisions. Clarifying what constitutes meaningful control across AI’s lifecycle—from research and development to operational deployment—is a recurring governance challenge.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s42256-026-01231-x.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Re-thinking human–machine interaction and the governance of AI in the military domain &#124; Nature Machine IntelligenceMay 11, 2026...</span><span class="citation-popover-meta">Published: May 11, 2026</span></span></span>
 
-Beyond human control, proposals for governance frameworks emphasise multi‑layered strategies, combining testing standards, evaluation protocols, and international confidence‑building measures to manage complex AI‑enabled military systems responsibly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://jurnal.itscience.org/index.php/brilliance/article/view/6925" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jurnal.itscience.org">[jurnal.itscience.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jurnal.itscience.org</span><span class="citation-popover-snippet">genceSeptember 17, 2025...</span><span class="citation-popover-meta">Published: September 17, 2025</span></span></span>
+Beyond human control, proposals for governance frameworks emphasise multi‑layered strategies, combining testing standards, evaluation protocols, and international confidence‑building measures to manage complex AI‑enabled military systems responsibly.<span class="citation-chip-wrap"><a class="citation-chip" href="https://jurnal.itscience.org/index.php/brilliance/article/view/6925" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jurnal.itscience.org">[jurnal.itscience.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jurnal.itscience.org</span><span class="citation-popover-snippet">genceSeptember 17, 2025...</span><span class="citation-popover-meta">Published: September 17, 2025</span></span></span>
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_military_ai_g_a12919-Illustration-3-dark.svg" | relative_url }}" alt="Military AI illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_military_ai_g_a12919-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_military_ai_g_a12919-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why This Matters for AI Bloom
 
-From the perspective of long‑term flourishing, the militarisation of AI tests societies’ capacity to govern powerful technologies where stakes are existential. Without effective oversight, AI integration into warfare could normalise opaque decision‑making, erode international norms against indiscriminate violence, and channel technical innovation toward conflict rather than collective human development. Conversely, robust governance could help ensure that gains from AI—such as improved defence of civilian populations or de‑escalation tools—are realised without triggering destabilising arms dynamics. <span class="citation-chip-wrap"><a class="citation-chip" href="https://carnegieendowment.org/research/2024/07/governing-military-ai-amid-a-geopolitical-minefield?center=russia-eurasia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: carnegieendowment.org">[Carnegie Endowment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">carnegieendowment.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+From the perspective of long‑term flourishing, the militarisation of AI tests societies’ capacity to govern powerful technologies where stakes are existential. Without effective oversight, AI integration into warfare could normalise opaque decision‑making, erode international norms against indiscriminate violence, and channel technical innovation toward conflict rather than collective human development. Conversely, robust governance could help ensure that gains from AI—such as improved defence of civilian populations or de‑escalation tools—are realised without triggering destabilising arms dynamics.<span class="citation-chip-wrap"><a class="citation-chip" href="https://carnegieendowment.org/research/2024/07/governing-military-ai-amid-a-geopolitical-minefield?center=russia-eurasia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: carnegieendowment.org">[Carnegie Endowment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">carnegieendowment.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-By foregrounding accountability, maintaining human judgement where it matters most, and fostering international cooperation on norms and safeguards, governance efforts can mitigate the strategic risks of military AI while preserving the broader potential of AI to contribute to human security and flourishing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ojs.stanford.edu/ojs/index.php/grace/article/view/4337" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ojs.stanford.edu">[ojs.stanford.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ojs.stanford.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+By foregrounding accountability, maintaining human judgement where it matters most, and fostering international cooperation on norms and safeguards, governance efforts can mitigate the strategic risks of military AI while preserving the broader potential of AI to contribute to human security and flourishing.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ojs.stanford.edu/ojs/index.php/grace/article/view/4337" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ojs.stanford.edu">[ojs.stanford.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ojs.stanford.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Balancing AI Power and Global Security Risks. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Balancing AI Power and Global Security Risks. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Army of None on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sjMsDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Army of None" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Army of None">Army of None</a>
-        </h4>
-        <p class="fr-book-author">By Paul Scharre</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Army of None on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sjMsDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Army of None" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Army of None">Army of None</a>
+</h4>
+<p class="fr-book-author">By Paul Scharre</p>
         
-        <p class="fr-book-desc">Directly covers AI in warfare, arms-race dynamics and human control.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly covers AI in warfare, arms-race dynamics and human control.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Coming Wave on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b0y5zwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Coming Wave" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Coming Wave">The Coming Wave</a>
-        </h4>
-        <p class="fr-book-author">By Mustafa Suleyman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Coming Wave on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b0y5zwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Coming Wave" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Coming Wave">The Coming Wave</a>
+</h4>
+<p class="fr-book-author">By Mustafa Suleyman</p>
         
-        <p class="fr-book-desc">Explores containment of powerful technologies including state and security risks.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores containment of powerful technologies including state and security risks.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Perfect+Weapon+by+David+E.+Sanger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Perfect Weapon on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=tVFXDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Perfect Weapon" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Perfect+Weapon+by+David+E.+Sanger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Perfect Weapon">The Perfect Weapon</a>
-        </h4>
-        <p class="fr-book-author">By David E. Sanger</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Perfect+Weapon+by+David+E.+Sanger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Perfect Weapon on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=tVFXDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Perfect Weapon" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Perfect+Weapon+by+David+E.+Sanger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Perfect Weapon">The Perfect Weapon</a>
+</h4>
+<p class="fr-book-author">By David E. Sanger</p>
         
-        <p class="fr-book-desc">Provides context on digital warfare, escalation and state competition.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Perfect+Weapon+by+David+E.+Sanger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context on digital warfare, escalation and state competition.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Perfect+Weapon+by+David+E.+Sanger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Age+of+A.I.%3A+And+Our+Human+Future+by+Henry+Kissinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Age of A.I.: And Our Human Future on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Age+of+A.I.%3A+And+Our+Human+Future+by+Henry+Kissinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Age of A.I.: And Our Human Future">The Age of A.I.: And Our Human Future</a>
-        </h4>
-        <p class="fr-book-author">By Henry Kissinger</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Age+of+A.I.%3A+And+Our+Human+Future+by+Henry+Kissinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Age of A.I.: And Our Human Future on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Age+of+A.I.%3A+And+Our+Human+Future+by+Henry+Kissinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Age of A.I.: And Our Human Future">The Age of A.I.: And Our Human Future</a>
+</h4>
+<p class="fr-book-author">By Henry Kissinger</p>
         
-        <p class="fr-book-desc">Addresses AI, national strategy and global order.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Age+of+A.I.%3A+And+Our+Human+Future+by+Henry+Kissinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses AI, national strategy and global order.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Age+of+A.I.%3A+And+Our+Human+Future+by+Henry+Kissinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Army+of+None&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Army of None</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Coming+Wave&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Coming Wave</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Perfect+Weapon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Perfect Weapon</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Army+of+None&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Army of None</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Coming+Wave&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Coming Wave</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Perfect+Weapon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Perfect Weapon</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balancing-ai-power-and-global-security-risks-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="balancing-ai-power-and-global-security-risks-military-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:72 MQ-1 Predator Drone Diecast Model – Modern Military UAV Replica"><img src="https://i.ebayimg.com/images/g/OqkAAeSw01doiOtq/s-l225.jpg" alt="Listing image for 1:72 MQ-1 Predator Drone Diecast Model – Modern Military UAV Replica" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balancing-ai-power-and-global-security-risks-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="balancing-ai-power-and-global-security-risks-military-drone-model" target="_blank" rel="sponsored noopener noreferrer">1:72 MQ-1 Predator Drone Diecast Model – Modern Military UAV Replica</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balancing-ai-power-and-global-security-risks-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="balancing-ai-power-and-global-security-risks-military-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military drone model">Search <span data-ebay-domain-label>eBay.co.uk</span>: military drone model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balancing-ai-power-and-global-security-risks-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="balancing-ai-power-and-global-security-risks-military-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balancing-ai-power-and-global-security-risks-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="balancing-ai-power-and-global-security-risks-military-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:72 MQ-1 Predator Drone Diecast Model – Modern Military UAV Replica"><img src="https://i.ebayimg.com/images/g/OqkAAeSw01doiOtq/s-l225.jpg" alt="Listing image for 1:72 MQ-1 Predator Drone Diecast Model – Modern Military UAV Replica" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balancing-ai-power-and-global-security-risks-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="balancing-ai-power-and-global-security-risks-military-drone-model" target="_blank" rel="sponsored noopener noreferrer">1:72 MQ-1 Predator Drone Diecast Model – Modern Military UAV Replica</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balancing-ai-power-and-global-security-risks-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="balancing-ai-power-and-global-security-risks-military-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military drone model">Search<span data-ebay-domain-label>eBay.co.uk</span>: military drone model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balancing-ai-power-and-global-security-risks-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="balancing-ai-power-and-global-security-risks-military-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balancing-ai-power-and-global-security-risks-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="balancing-ai-power-and-global-security-risks-military-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1/72 1/64 Scale Heavy Air Strike Drone Military Armed Unpainted Figures Model"><img src="https://i.ebayimg.com/images/g/pFwAAeSwYudqDAsJ/s-l225.jpg" alt="Listing image for 1/72 1/64 Scale Heavy Air Strike Drone Military Armed Unpainted Figures Model" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balancing-ai-power-and-global-security-risks-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="balancing-ai-power-and-global-security-risks-military-drone-model" target="_blank" rel="sponsored noopener noreferrer">1/72 1/64 Scale Heavy Air Strike Drone Military Armed Unpainted Figures Model</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balancing-ai-power-and-global-security-risks-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="balancing-ai-power-and-global-security-risks-military-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military drone model">Search <span data-ebay-domain-label>eBay.co.uk</span>: military drone model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balancing-ai-power-and-global-security-risks-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="balancing-ai-power-and-global-security-risks-military-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balancing-ai-power-and-global-security-risks-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="balancing-ai-power-and-global-security-risks-military-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1/72 1/64 Scale Heavy Air Strike Drone Military Armed Unpainted Figures Model"><img src="https://i.ebayimg.com/images/g/pFwAAeSwYudqDAsJ/s-l225.jpg" alt="Listing image for 1/72 1/64 Scale Heavy Air Strike Drone Military Armed Unpainted Figures Model" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balancing-ai-power-and-global-security-risks-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="balancing-ai-power-and-global-security-risks-military-drone-model" target="_blank" rel="sponsored noopener noreferrer">1/72 1/64 Scale Heavy Air Strike Drone Military Armed Unpainted Figures Model</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balancing-ai-power-and-global-security-risks-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="balancing-ai-power-and-global-security-risks-military-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military drone model">Search<span data-ebay-domain-label>eBay.co.uk</span>: military drone model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balancing-ai-power-and-global-security-risks-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="balancing-ai-power-and-global-security-risks-military-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balancing-ai-power-and-global-security-risks-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="balancing-ai-power-and-global-security-risks-military-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:72 MQ-1 Predator Drone Reconnaissance UAV Alloy Military Aircraft Model Gift"><img src="https://i.ebayimg.com/images/g/JkoAAeSwNylqCtnd/s-l225.jpg" alt="Listing image for 1:72 MQ-1 Predator Drone Reconnaissance UAV Alloy Military Aircraft Model Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balancing-ai-power-and-global-security-risks-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="balancing-ai-power-and-global-security-risks-military-drone-model" target="_blank" rel="sponsored noopener noreferrer">1:72 MQ-1 Predator Drone Reconnaissance UAV Alloy Military Aircraft Model Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balancing-ai-power-and-global-security-risks-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="balancing-ai-power-and-global-security-risks-military-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military drone model">Search <span data-ebay-domain-label>eBay.co.uk</span>: military drone model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balancing-ai-power-and-global-security-risks-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="balancing-ai-power-and-global-security-risks-military-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balancing-ai-power-and-global-security-risks-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="balancing-ai-power-and-global-security-risks-military-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:72 MQ-1 Predator Drone Reconnaissance UAV Alloy Military Aircraft Model Gift"><img src="https://i.ebayimg.com/images/g/JkoAAeSwNylqCtnd/s-l225.jpg" alt="Listing image for 1:72 MQ-1 Predator Drone Reconnaissance UAV Alloy Military Aircraft Model Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balancing-ai-power-and-global-security-risks-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="balancing-ai-power-and-global-security-risks-military-drone-model" target="_blank" rel="sponsored noopener noreferrer">1:72 MQ-1 Predator Drone Reconnaissance UAV Alloy Military Aircraft Model Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balancing-ai-power-and-global-security-risks-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="balancing-ai-power-and-global-security-risks-military-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military drone model">Search<span data-ebay-domain-label>eBay.co.uk</span>: military drone model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balancing-ai-power-and-global-security-risks-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="balancing-ai-power-and-global-security-risks-military-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balancing-ai-power-and-global-security-risks-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="balancing-ai-power-and-global-security-risks-military-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1/72 1/64 Scale Heavy Air Strike Drone Military Armed Unpainted Figures Model"><img src="https://i.ebayimg.com/images/g/-ocAAeSwXbZqBsHx/s-l225.jpg" alt="Listing image for 1/72 1/64 Scale Heavy Air Strike Drone Military Armed Unpainted Figures Model" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balancing-ai-power-and-global-security-risks-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="balancing-ai-power-and-global-security-risks-military-drone-model" target="_blank" rel="sponsored noopener noreferrer">1/72 1/64 Scale Heavy Air Strike Drone Military Armed Unpainted Figures Model</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balancing-ai-power-and-global-security-risks-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="balancing-ai-power-and-global-security-risks-military-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military drone model">Search <span data-ebay-domain-label>eBay.co.uk</span>: military drone model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balancing-ai-power-and-global-security-risks-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="balancing-ai-power-and-global-security-risks-military-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balancing-ai-power-and-global-security-risks-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="balancing-ai-power-and-global-security-risks-military-drone-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balancing-ai-power-and-global-security-risks-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="balancing-ai-power-and-global-security-risks-military-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1/72 1/64 Scale Heavy Air Strike Drone Military Armed Unpainted Figures Model"><img src="https://i.ebayimg.com/images/g/-ocAAeSwXbZqBsHx/s-l225.jpg" alt="Listing image for 1/72 1/64 Scale Heavy Air Strike Drone Military Armed Unpainted Figures Model" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balancing-ai-power-and-global-security-risks-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="balancing-ai-power-and-global-security-risks-military-drone-model" target="_blank" rel="sponsored noopener noreferrer">1/72 1/64 Scale Heavy Air Strike Drone Military Armed Unpainted Figures Model</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balancing-ai-power-and-global-security-risks-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="balancing-ai-power-and-global-security-risks-military-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military drone model">Search<span data-ebay-domain-label>eBay.co.uk</span>: military drone model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balancing-ai-power-and-global-security-risks-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="balancing-ai-power-and-global-security-risks-military-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balancing-ai-power-and-global-security-risks-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="balancing-ai-power-and-global-security-risks-military-drone-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -557,7 +557,7 @@ By foregrounding accountability, maintaining human judgement where it matters mo
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -577,7 +577,7 @@ By foregrounding accountability, maintaining human judgement where it matters mo
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -609,7 +609,7 @@ By foregrounding accountability, maintaining human judgement where it matters mo
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -661,7 +661,7 @@ By foregrounding accountability, maintaining human judgement where it matters mo
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -706,7 +706,7 @@ By foregrounding accountability, maintaining human judgement where it matters mo
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -747,126 +747,126 @@ By foregrounding accountability, maintaining human judgement where it matters mo
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: jurnal.itscience.org  
-   Link: <a href="https://jurnal.itscience.org/index.php/brilliance/article/view/6925" target="_blank" rel="noopener noreferrer nofollow">https://jurnal.itscience.org/index.php/brilliance/article/view/6925</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>genceSeptember 17, 2025...</p></details>
+   Link:<a href="https://jurnal.itscience.org/index.php/brilliance/article/view/6925" target="_blank" rel="noopener noreferrer nofollow">https://jurnal.itscience.org/index.php/brilliance/article/view/6925</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>genceSeptember 17, 2025...</p></details>
    Published: September 17, 2025  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ojs.stanford.edu  
-   Link: <a href="https://ojs.stanford.edu/ojs/index.php/grace/article/view/4337" target="_blank" rel="noopener noreferrer nofollow">https://ojs.stanford.edu/ojs/index.php/grace/article/view/4337</a>  
+   Link:<a href="https://ojs.stanford.edu/ojs/index.php/grace/article/view/4337" target="_blank" rel="noopener noreferrer nofollow">https://ojs.stanford.edu/ojs/index.php/grace/article/view/4337</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: sipri.org  
-   Link: <a href="https://www.sipri.org/publications/2025/sipri-insights-peace-and-security/advancing-governance-nexus-artificial-intelligence-and-nuclear-weapons" target="_blank" rel="noopener noreferrer nofollow">https://www.sipri.org/publications/2025/sipri-insights-peace-and-security/advancing-governance-nexus-artificial-intelligence-and-nuclear-weapons</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Advancing Governance at the Nexus of Artificial Intelligence and Nuclear Weapons | SIPRI...</p></details>
+   Link:<a href="https://www.sipri.org/publications/2025/sipri-insights-peace-and-security/advancing-governance-nexus-artificial-intelligence-and-nuclear-weapons" target="_blank" rel="noopener noreferrer nofollow">https://www.sipri.org/publications/2025/sipri-insights-peace-and-security/advancing-governance-nexus-artificial-intelligence-and-nuclear-weapons</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Advancing Governance at the Nexus of Artificial Intelligence and Nuclear Weapons | SIPRI...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: jiia.or.jp  
    Title: strategic comment 2026 6  
-   Link: <a href="https://www.jiia.or.jp/eng/report/2026/03/strategic_comment_2026-6.html" target="_blank" rel="noopener noreferrer nofollow">https://www.jiia.or.jp/eng/report/2026/03/strategic_comment_2026-6.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>JIIA Strategic Comments (2026-6) Racing Ahead, Falling Apart: Middle Powers and the Future of Military [AI Governance](&amp;#123;&amp;#123; &#x27;ai-governance/&#x27; | relative_url &amp;#125;&amp;#125;) | Research Findings...</p></details>
+   Link:<a href="https://www.jiia.or.jp/eng/report/2026/03/strategic_comment_2026-6.html" target="_blank" rel="noopener noreferrer nofollow">https://www.jiia.or.jp/eng/report/2026/03/strategic_comment_2026-6.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>JIIA Strategic Comments (2026-6) Racing Ahead, Falling Apart: Middle Powers and the Future of Military [AI Governance](&amp;#123;&amp;#123; &#x27;ai-governance/&#x27; | relative_url &amp;#125;&amp;#125;) | Research Findings...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nature.com  
    Title: Scientific challenges in governing military AI | Nature Electronics  
-   Link: <a href="https://www.nature.com/articles/s41928-024-01275-0" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41928-024-01275-0</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Scientific challenges in governing military AI | Nature ElectronicsNovember 4, 2024...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41928-024-01275-0" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41928-024-01275-0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scientific challenges in governing military AI | Nature ElectronicsNovember 4, 2024...</p></details>
    Published: November 4, 2024  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: GOV.UK  
    Title: Strategic competition in the age of AI  
-   Link: <a href="https://www.gov.uk/government/publications/strategic-competition-in-the-age-of-ai-emerging-risks-and-opportunities-from-military-use-of-artificial-intelligence" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/strategic-competition-in-the-age-of-ai-emerging-risks-and-opportunities-from-military-use-of-artificial-intelligence</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>emerging risks and opportunities from military use of artificial intelligence - GOV.UKOctober 8, 2024...</p></details>
+   Link:<a href="https://www.gov.uk/government/publications/strategic-competition-in-the-age-of-ai-emerging-risks-and-opportunities-from-military-use-of-artificial-intelligence" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/strategic-competition-in-the-age-of-ai-emerging-risks-and-opportunities-from-military-use-of-artificial-intelligence</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>emerging risks and opportunities from military use of artificial intelligence - GOV.UKOctober 8, 2024...</p></details>
    Published: October 8, 2024  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s42256-026-01231-x.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s42256-026-01231-x.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Re-thinking human–machine interaction and the governance of AI in the military domain | Nature Machine IntelligenceMay 11, 2026...</p></details>
+   Link:<a href="https://www.nature.com/articles/s42256-026-01231-x.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s42256-026-01231-x.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Re-thinking human–machine interaction and the governance of AI in the military domain | Nature Machine IntelligenceMay 11, 2026...</p></details>
    Published: May 11, 2026  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: carnegieendowment.org  
-   Link: <a href="https://carnegieendowment.org/research/2024/07/governing-military-ai-amid-a-geopolitical-minefield?center=russia-eurasia" target="_blank" rel="noopener noreferrer nofollow">https://carnegieendowment.org/research/2024/07/governing-military-ai-amid-a-geopolitical-minefield?center=russia-eurasia</a>  
+   Link:<a href="https://carnegieendowment.org/research/2024/07/governing-military-ai-amid-a-geopolitical-minefield?center=russia-eurasia" target="_blank" rel="noopener noreferrer nofollow">https://carnegieendowment.org/research/2024/07/governing-military-ai-amid-a-geopolitical-minefield?center=russia-eurasia</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: globalsecurity.org  
    Title: Global Security Risks and Hazards of Military AI  
-   Link: <a href="https://www.globalsecurity.org/military/systems/ai-risks.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.globalsecurity.org/military/systems/ai-risks.htm</a>  
+   Link:<a href="https://www.globalsecurity.org/military/systems/ai-risks.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.globalsecurity.org/military/systems/ai-risks.htm</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: international-review.icrc.org  
-   Link: <a href="https://international-review.icrc.org/articles/stepping-back-from-brink-regulation-of-autonomous-weapons-systems-913" target="_blank" rel="noopener noreferrer nofollow">https://international-review.icrc.org/articles/stepping-back-from-brink-regulation-of-autonomous-weapons-systems-913</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>International Review of the Red CrossStepping back from the brink: Why multilateral regulation of autonomy in weapons systems is difficul...</p></details>
+   Link:<a href="https://international-review.icrc.org/articles/stepping-back-from-brink-regulation-of-autonomous-weapons-systems-913" target="_blank" rel="noopener noreferrer nofollow">https://international-review.icrc.org/articles/stepping-back-from-brink-regulation-of-autonomous-weapons-systems-913</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>International Review of the Red CrossStepping back from the brink: Why multilateral regulation of autonomy in weapons systems is difficul...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: theverge.com  
    Title: The Verge AI warfare is already here  
-   Link: <a href="https://www.theverge.com/ai-artificial-intelligence/937028/military-ai-warfare-red-lines" target="_blank" rel="noopener noreferrer nofollow">https://www.theverge.com/ai-artificial-intelligence/937028/military-ai-warfare-red-lines</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Initially viewed as futuristic, lethal autonomous weapon systems (LAWS) are now increasingly present in real-world applications. The tran...</p></details>
+   Link:<a href="https://www.theverge.com/ai-artificial-intelligence/937028/military-ai-warfare-red-lines" target="_blank" rel="noopener noreferrer nofollow">https://www.theverge.com/ai-artificial-intelligence/937028/military-ai-warfare-red-lines</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Initially viewed as futuristic, lethal autonomous weapon systems (LAWS) are now increasingly present in real-world applications. The tran...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: globalchallenges.org  
-   Link: <a href="https://globalchallenges.org/gcr-2026/artificial-intelligence/" target="_blank" rel="noopener noreferrer nofollow">https://globalchallenges.org/gcr-2026/artificial-intelligence/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Artificial Intelligence - Global Challenges FoundationARTIFICIAL INTELLIGENCE Artificial intelligence (AI) is rapidly reshaping military...</p></details>
+   Link:<a href="https://globalchallenges.org/gcr-2026/artificial-intelligence/" target="_blank" rel="noopener noreferrer nofollow">https://globalchallenges.org/gcr-2026/artificial-intelligence/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Artificial Intelligence - Global Challenges FoundationARTIFICIAL INTELLIGENCE Artificial intelligence (AI) is rapidly reshaping military...</p></details>
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: cambridge.org  
-   Link: <a href="https://www.cambridge.org/core/product/E7C9191E43799181AA72F5835618A45D/core-reader" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/product/E7C9191E43799181AA72F5835618A45D/core-reader</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI governance for military decision-making: A proposal for managing complexity | Cambridge Forum on AI: Law and Governance | Cambridge Co...</p></details>
+   Link:<a href="https://www.cambridge.org/core/product/E7C9191E43799181AA72F5835618A45D/core-reader" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/product/E7C9191E43799181AA72F5835618A45D/core-reader</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI governance for military decision-making: A proposal for managing complexity | Cambridge Forum on AI: Law and Governance | Cambridge Co...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: asser.nl  
-   Link: <a href="https://www.asser.nl/dilema/research/dilema-statement" target="_blank" rel="noopener noreferrer nofollow">https://www.asser.nl/dilema/research/dilema-statement</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DILEMA Statement on the Global Governance of Artificial Intelligence in the MilitaryDILEMA STATEMENT ON THE GLOBAL GOVERNANCE OF ARTIFICI...</p></details>
+   Link:<a href="https://www.asser.nl/dilema/research/dilema-statement" target="_blank" rel="noopener noreferrer nofollow">https://www.asser.nl/dilema/research/dilema-statement</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DILEMA Statement on the Global Governance of Artificial Intelligence in the MilitaryDILEMA STATEMENT ON THE GLOBAL GOVERNANCE OF ARTIFICI...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: aigovref.com  
-   Link: <a href="https://aigovref.com/military-ai" target="_blank" rel="noopener noreferrer nofollow">https://aigovref.com/military-ai</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Military AI &amp; Autonomous Weapons | AI Governance ReferenceMILITARY AI &amp; AUTONOMOUS WEAPONS Comprehensive guide to the governance of artif...</p></details>
+   Link:<a href="https://aigovref.com/military-ai" target="_blank" rel="noopener noreferrer nofollow">https://aigovref.com/military-ai</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Military AI &amp; Autonomous Weapons | AI Governance ReferenceMILITARY AI &amp; AUTONOMOUS WEAPONS Comprehensive guide to the governance of artif...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: theaustralian.com.au  
-   Link: <a href="https://www.theaustralian.com.au/nation/defence/defence-orders-safetyfirst-ai-rollout-with-riskbased-controls/news-story/1507624699e8733c9996228baa05038e" target="_blank" rel="noopener noreferrer nofollow">https://www.theaustralian.com.au/nation/defence/defence-orders-safetyfirst-ai-rollout-with-riskbased-controls/news-story/1507624699e8733c9996228baa05038e</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The document emphasizes expanding AI use to enable faster, better-informed decision-making and attain an “asymmetric advantage” in warfar...</p></details>
+   Link:<a href="https://www.theaustralian.com.au/nation/defence/defence-orders-safetyfirst-ai-rollout-with-riskbased-controls/news-story/1507624699e8733c9996228baa05038e" target="_blank" rel="noopener noreferrer nofollow">https://www.theaustralian.com.au/nation/defence/defence-orders-safetyfirst-ai-rollout-with-riskbased-controls/news-story/1507624699e8733c9996228baa05038e</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The document emphasizes expanding AI use to enable faster, better-informed decision-making and attain an “asymmetric advantage” in warfar...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: kiplinger.com  
-   Link: <a href="https://www.kiplinger.com/politics/warfare-revolution-how-the-military-uses-ai" target="_blank" rel="noopener noreferrer nofollow">https://www.kiplinger.com/politics/warfare-revolution-how-the-military-uses-ai</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>military. With an annual budget nearing $1 trillion, the Pentagon is aggressively integrating AI into both combat operations and administ...</p></details>
+   Link:<a href="https://www.kiplinger.com/politics/warfare-revolution-how-the-military-uses-ai" target="_blank" rel="noopener noreferrer nofollow">https://www.kiplinger.com/politics/warfare-revolution-how-the-military-uses-ai</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>military. With an annual budget nearing $1 trillion, the Pentagon is aggressively integrating AI into both combat operations and administ...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: sciencedirect.com  
    Title: Ethics of autonomous weapons systems and its applicability to any AI systems  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0308596120300458" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0308596120300458</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;ScienceDirectETHICS OF AUTONOMOUS WEAPONS SYSTEMS AND ITS APPLICABILITY TO ANY AI SYSTEMS [https://doi.org/10.1016/j.telpol.2020.101953Get...&quot;](https://doi.org/10.1016/j.telpol.2020.101953Get...&quot;)...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0308596120300458" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0308596120300458</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;ScienceDirectETHICS OF AUTONOMOUS WEAPONS SYSTEMS AND ITS APPLICABILITY TO ANY AI SYSTEMS [https://doi.org/10.1016/j.telpol.2020.101953Get...&quot;](https://doi.org/10.1016/j.telpol.2020.101953Get...&quot;)...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: lordslibrary.parliament.uk  
    Title: uk A I in Weapon Systems Committee report: Proceed with caution  
-   Link: <a href="https://lordslibrary.parliament.uk/ai-in-weapon-systems-committee-report-proceed-with-caution/" target="_blank" rel="noopener noreferrer nofollow">https://lordslibrary.parliament.uk/ai-in-weapon-systems-committee-report-proceed-with-caution/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>in Weapon Systems Committee report: Proceed with caution - House of Lords LibraryApril 10, 2024 — AI IN WEAPON SYSTEMS COMMITTEE REPORT...</p></details>
+   Link:<a href="https://lordslibrary.parliament.uk/ai-in-weapon-systems-committee-report-proceed-with-caution/" target="_blank" rel="noopener noreferrer nofollow">https://lordslibrary.parliament.uk/ai-in-weapon-systems-committee-report-proceed-with-caution/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>in Weapon Systems Committee report: Proceed with caution - House of Lords LibraryApril 10, 2024 — AI IN WEAPON SYSTEMS COMMITTEE REPORT...</p></details>
    Published: April 10, 2024  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: EU Warns AI Arms Race Has Begun | “Algorithms Are The New Weapons”  
-   Link: <a href="https://www.youtube.com/watch?v=lvhigiI_b1Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lvhigiI_b1Y</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Beyond Drones and Autonomous Weapons: Are We Winning the AI War? | WP Intelligence Briefing...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=lvhigiI_b1Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lvhigiI_b1Y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Beyond Drones and Autonomous Weapons: Are We Winning the AI War? | WP Intelligence Briefing...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: The Pentagon and Silicon Valley: The Future of AI in National Defense  
-   Link: <a href="https://www.youtube.com/watch?v=5aamTwLomAM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5aamTwLomAM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>EU Warns AI Arms Race Has Begun | “Algorithms Are The New Weapons”...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=5aamTwLomAM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5aamTwLomAM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>EU Warns AI Arms Race Has Begun | “Algorithms Are The New Weapons”...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
    Title: Can AI in military operations really be ethical? | The Stream  
-   Link: <a href="https://www.youtube.com/watch?v=ThHlrE_4qGU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ThHlrE_4qGU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Pentagon and Silicon Valley: The Future of AI in National Defense...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ThHlrE_4qGU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ThHlrE_4qGU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Pentagon and Silicon Valley: The Future of AI in National Defense...</p></details>

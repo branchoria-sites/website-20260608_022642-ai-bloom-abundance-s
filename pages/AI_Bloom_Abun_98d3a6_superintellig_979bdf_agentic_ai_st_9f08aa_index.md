@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ai-bloom-abun-98d3a6-superintellig/
 description: Focused pages that expand on Agentic Risks.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: AI_Bloom_Abun_98d3a6_superintellig_979bdf_agentic_ai_st_9f08aa
 parent_title: Agentic Risks
@@ -16,7 +16,7 @@ parent_permalink: /agentic-risks/
 
 # Explore Topics in Agentic Risks
 
-The following pages expand on the main **[Agentic Risks]({{ '/agentic-risks/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Agentic Risks]({{ '/agentic-risks/' | relative_url }})** page and cover its key branches in.
 
 - [Evaluation Awareness]({{ '/evaluation-awareness/' | relative_url }})
 - [Anthropic Misalignment]({{ '/anthropic-misalignment/' | relative_url }})

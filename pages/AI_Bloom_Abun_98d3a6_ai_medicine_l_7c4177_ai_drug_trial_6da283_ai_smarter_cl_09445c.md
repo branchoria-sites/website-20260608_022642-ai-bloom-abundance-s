@@ -284,7 +284,7 @@ A major reason for failure is biological variation. Two people with the same dia
 
 Traditional trial design often treats diseases as larger and more uniform categories than they really are. AI systems offer a way to identify hidden patterns inside these populations and create more targeted studies.
 
-This shift is especially important for precision medicine, where therapies are increasingly designed for specific molecular characteristics rather than broad disease labels. Researchers and regulators have increasingly explored AI and machine learning tools as ways to improve recruitment, stratification and trial design rather than simply analysing results after the fact. U.S. Food and Drug Administration <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12711520/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by C Fang · 2025 · Cited by 7 — First, AI enhances patient stratification and recruitment—crucial steps in trial initiation. Natural l...</span></span></span>
+This shift is especially important for precision medicine, where therapies are increasingly designed for specific molecular characteristics rather than broad disease labels. Researchers and regulators have increasingly explored AI and machine learning tools as ways to improve recruitment, stratification and trial design rather than simply analysing results after the fact. U.S. Food and Drug Administration<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12711520/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by C Fang · 2025 · Cited by 7 — First, AI enhances patient stratification and recruitment—crucial steps in trial initiation. Natural l...</span></span></span>
 
 ## Finding the right patients instead of searching blindly
 
@@ -298,9 +298,9 @@ Traditionally, this often requires manual review of medical records. AI systems 
 
 In oncology, where targeted therapies increasingly depend on genetic biomarkers, AI-based matching systems are already being tested.
 
-Researchers have reported systems that automatically analyse structured medical records and unstructured clinical notes to identify eligible trial participants. Several studies have shown high accuracy rates when AI is used as a screening aid, allowing staff to focus on promising candidates rather than reviewing thousands of records manually. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12711520/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by C Fang · 2025 · Cited by 7 — First, AI enhances patient stratification and recruitment—crucial steps in trial initiation. Natural l...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12711520/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by C Fang · 2025 · Cited by 7 — First, AI enhances patient stratification and recruitment—crucial steps in trial initiation. Natural l...</span></span></span>
+Researchers have reported systems that automatically analyse structured medical records and unstructured clinical notes to identify eligible trial participants. Several studies have shown high accuracy rates when AI is used as a screening aid, allowing staff to focus on promising candidates rather than reviewing thousands of records manually.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12711520/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by C Fang · 2025 · Cited by 7 — First, AI enhances patient stratification and recruitment—crucial steps in trial initiation. Natural l...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12711520/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by C Fang · 2025 · Cited by 7 — First, AI enhances patient stratification and recruitment—crucial steps in trial initiation. Natural l...</span></span></span>
 
-Recent systems such as TrialMatchAI and MatchMiner-AI combine large language models with clinical databases and trial eligibility rules. Rather than replacing clinicians, these tools are designed to narrow vast search spaces and explain why particular patients appear eligible. In reported evaluations, they showed strong performance in biomarker-driven cancer trial matching. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41467-026-70509-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">TrialMatchAI: an end-to-end AI-powered clinical trial...by M Abdallah · 2026 · Cited by 5 — We present TrialMatchAI, an AI-powered...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2505.08508" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
+Recent systems such as TrialMatchAI and MatchMiner-AI combine large language models with clinical databases and trial eligibility rules. Rather than replacing clinicians, these tools are designed to narrow vast search spaces and explain why particular patients appear eligible. In reported evaluations, they showed strong performance in biomarker-driven cancer trial matching.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41467-026-70509-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">TrialMatchAI: an end-to-end AI-powered clinical trial...by M Abdallah · 2026 · Cited by 5 — We present TrialMatchAI, an AI-powered...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2505.08508" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
 
 The practical significance is easy to miss. If a potentially life-saving trial can identify eligible patients in weeks rather than months, the entire development timeline may shorten. Patients may also gain access to experimental therapies that would otherwise remain hidden inside fragmented healthcare systems.
 
@@ -310,7 +310,7 @@ The larger opportunity is that healthcare systems already contain enormous amoun
 
 Electronic health records contain laboratory results, imaging scans, diagnoses, medication histories and physician observations. Much of this information sits in formats that are difficult to search efficiently.
 
-Natural language processing, a branch of AI focused on extracting meaning from text, can help convert clinical notes into searchable research data. This could make trial recruitment more continuous and proactive rather than relying on researchers manually searching for participants after a study launches. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12711520/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by C Fang · 2025 · Cited by 7 — First, AI enhances patient stratification and recruitment—crucial steps in trial initiation. Natural l...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.oncology-central.com/podcasts/how-is-artificial-intelligence-changing-clinical-trial-feasibility-and-recruitment/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oncology-central.com">[Oncology Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oncology-central.com</span><span class="citation-popover-snippet">How is artificial intelligence changing clinical trial feasibility...7 Jan 2020 — Deep 6 as the name suggests uses AI on clinical data t...</span></span></span>
+Natural language processing, a branch of AI focused on extracting meaning from text, can help convert clinical notes into searchable research data. This could make trial recruitment more continuous and proactive rather than relying on researchers manually searching for participants after a study launches.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12711520/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by C Fang · 2025 · Cited by 7 — First, AI enhances patient stratification and recruitment—crucial steps in trial initiation. Natural l...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.oncology-central.com/podcasts/how-is-artificial-intelligence-changing-clinical-trial-feasibility-and-recruitment/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oncology-central.com">[Oncology Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oncology-central.com</span><span class="citation-popover-snippet">How is artificial intelligence changing clinical trial feasibility...7 Jan 2020 — Deep 6 as the name suggests uses AI on clinical data t...</span></span></span>
 
 If successful, this could gradually transform healthcare systems into much more responsive research networks.
 
@@ -330,7 +330,7 @@ A biomarker is a measurable indicator of disease or treatment response. Traditio
 
 Digital biomarkers extend this idea using wearable devices, smartphones, sensors and software systems that continuously collect information about movement, speech, cognition, sleep patterns or physiological changes.
 
-Machine learning models can analyse these large streams of data and potentially detect changes that humans might miss. Researchers are particularly interested in neurological diseases, where progression can be gradual and difficult to measure using conventional methods. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12711520/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by C Fang · 2025 · Cited by 7 — First, AI enhances patient stratification and recruitment—crucial steps in trial initiation. Natural l...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S0956566323003299" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect If digital biomarkers prove reliable]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The convergence of traditional and digital biomarkers...by SS Arya · 2023 · Cited by 187 — This review brings together conventional and...</span></span></span>, smaller proof-of-concept studies may reveal whether a treatment is affecting disease progression long before traditional endpoints become visible.
+Machine learning models can analyse these large streams of data and potentially detect changes that humans might miss. Researchers are particularly interested in neurological diseases, where progression can be gradual and difficult to measure using conventional methods.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12711520/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by C Fang · 2025 · Cited by 7 — First, AI enhances patient stratification and recruitment—crucial steps in trial initiation. Natural l...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S0956566323003299" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect If digital biomarkers prove reliable]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The convergence of traditional and digital biomarkers...by SS Arya · 2023 · Cited by 187 — This review brings together conventional and...</span></span></span>, smaller proof-of-concept studies may reveal whether a treatment is affecting disease progression long before traditional endpoints become visible.
 
 That could allow companies to abandon weak candidates earlier while advancing promising ones more quickly.
 
@@ -340,7 +340,7 @@ Another possibility is identifying disease at earlier stages, allowing trials to
 
 This is particularly important in conditions such as Alzheimer's disease, Parkinson's disease and some cancers, where irreversible biological changes may occur years before diagnosis.
 
-Researchers have reported AI-assisted approaches that identify potential disease signals long before conventional detection. Examples include AI-enhanced blood tests for Parkinson's disease risk prediction and imaging models designed to identify pancreatic cancer-associated abnormalities before clinicians typically recognise them. These systems remain under [validation]({{ 'validation/' | relative_url }}), but they illustrate a broader shift: AI may increasingly help define who enters trials and when interventions are tested. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/society/article/2024/jun/18/ai-enhanced-blood-test-may-detect-parkinsons-years-before-onset" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian AI-enhanced blood test may detect Parkinson&#x27;s years before onset</span><span class="citation-popover-snippet">This predictive test, if validated in larger populations, could become accessible within two years using existing NHS laboratory equipmen...</span></span></span>
+Researchers have reported AI-assisted approaches that identify potential disease signals long before conventional detection. Examples include AI-enhanced blood tests for Parkinson's disease risk prediction and imaging models designed to identify pancreatic cancer-associated abnormalities before clinicians typically recognise them. These systems remain under [validation]({{ 'validation/' | relative_url }}), but they illustrate a broader shift: AI may increasingly help define who enters trials and when interventions are tested.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/society/article/2024/jun/18/ai-enhanced-blood-test-may-detect-parkinsons-years-before-onset" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian AI-enhanced blood test may detect Parkinson&#x27;s years before onset</span><span class="citation-popover-snippet">This predictive test, if validated in larger populations, could become accessible within two years using existing NHS laboratory equipmen...</span></span></span>
 
 For diseases where treatments work best before extensive damage occurs, earlier identification could be as important as discovering new drugs themselves.
 
@@ -383,7 +383,7 @@ Machine learning systems can detect patterns without understanding underlying bi
 
 An AI model may appear highly predictive during development but fail when applied in a different hospital, country or patient population.
 
-Regulators have repeatedly emphasised transparency, validation, reliability and [human oversight]({{ 'human-oversight/' | relative_url }}) for AI systems used in drug development and regulatory decision-making. The concern is not merely technical accuracy but whether researchers can understand why a model reached a conclusion and whether that conclusion remains valid in real-world settings. U.S. Food and Drug Administration <span class="citation-chip-wrap"><a class="citation-chip" href="https://realtime-eclinical.com/2025/02/06/the-fdas-draft-guidance-for-ai-in-clinical-trials-implications-for-sites-and-amcs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: realtime-eclinical.com">[RealTime]</a><span class="citation-popover" role="note"><span class="citation-popover-source">realtime-eclinical.com</span><span class="citation-popover-snippet">The FDA&#x27;s Draft Guidance for AI in Clinical TrialsFeb 6, 2025 — The guidance addresses how AI can improve trial design, streamline regula...</span></span></span>
+Regulators have repeatedly emphasised transparency, validation, reliability and [human oversight]({{ 'human-oversight/' | relative_url }}) for AI systems used in drug development and regulatory decision-making. The concern is not merely technical accuracy but whether researchers can understand why a model reached a conclusion and whether that conclusion remains valid in real-world settings. U.S. Food and Drug Administration<span class="citation-chip-wrap"><a class="citation-chip" href="https://realtime-eclinical.com/2025/02/06/the-fdas-draft-guidance-for-ai-in-clinical-trials-implications-for-sites-and-amcs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: realtime-eclinical.com">[RealTime]</a><span class="citation-popover" role="note"><span class="citation-popover-source">realtime-eclinical.com</span><span class="citation-popover-snippet">The FDA&#x27;s Draft Guidance for AI in Clinical TrialsFeb 6, 2025 — The guidance addresses how AI can improve trial design, streamline regula...</span></span></span>
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_medicine_l_7c4177_ai_drug_trial_6da283_ai_smarter_cl_09445c-Illustration-3-dark.svg" | relative_url }}" alt="Smarter trials illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_medicine_l_7c4177_ai_drug_trial_6da283_ai_smarter_cl_09445c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_medicine_l_7c4177_ai_drug_trial_6da283_ai_smarter_cl_09445c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Better optimisation can optimise the wrong thing
@@ -402,7 +402,7 @@ The strongest versions of these systems are unlikely to replace clinicians, tria
 
 Instead, many emerging approaches use AI as a screening and decision-support layer.
 
-Recent trial-matching systems increasingly provide explanations, evidence traces and human-review workflows rather than making fully automated decisions. In several studies, the best performance came from hybrid systems where AI rapidly narrowed possibilities and human experts made final eligibility assessments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12711520/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by C Fang · 2025 · Cited by 7 — First, AI enhances patient stratification and recruitment—crucial steps in trial initiation. Natural l...</span></span></span>
+Recent trial-matching systems increasingly provide explanations, evidence traces and human-review workflows rather than making fully automated decisions. In several studies, the best performance came from hybrid systems where AI rapidly narrowed possibilities and human experts made final eligibility assessments.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12711520/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by C Fang · 2025 · Cited by 7 — First, AI enhances patient stratification and recruitment—crucial steps in trial initiation. Natural l...</span></span></span>
 
 This hybrid model may prove more durable than visions of fully automated clinical research.
 
@@ -423,194 +423,194 @@ That does not guarantee a future of radical [longevity]({{ 'longevity/' | relati
 For the broader AI bloom argument, that may be one of the most consequential possibilities. A civilisation that learns faster about human health gains more than efficiency. It gains a greater ability to reduce suffering, extend healthy life and turn scientific possibility into lived reality.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can AI fix the trial bottleneck itself. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can AI fix the trial bottleneck itself. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Deep+Medicine+by+Eric+Topol&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Deep Medicine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_EFlDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Deep Medicine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Deep+Medicine+by+Eric+Topol&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Deep Medicine">Deep Medicine</a>
-        </h4>
-        <p class="fr-book-author">By Eric Topol</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Deep+Medicine+by+Eric+Topol&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Deep Medicine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_EFlDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Deep Medicine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Deep+Medicine+by+Eric+Topol&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Deep Medicine">Deep Medicine</a>
+</h4>
+<p class="fr-book-author">By Eric Topol</p>
         
-        <p class="fr-book-desc">Covers AI&#x27;s potential to improve diagnosis, decision support and healthcare workflows including evidence generation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Deep+Medicine+by+Eric+Topol&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers AI&#x27;s potential to improve diagnosis, decision support and healthcare workflows including evidence generation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Deep+Medicine+by+Eric+Topol&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Pharma+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Pharma on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CbzQwAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Bad Pharma" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bad+Pharma+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Pharma">Bad Pharma</a>
-        </h4>
-        <p class="fr-book-author">By Ben Goldacre</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Pharma+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Pharma on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CbzQwAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Bad Pharma" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Bad+Pharma+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Pharma">Bad Pharma</a>
+</h4>
+<p class="fr-book-author">By Ben Goldacre</p>
         
-        <p class="fr-book-desc">Explains trial distortions and why better evidence systems matter as much as better molecules.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bad+Pharma+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains trial distortions and why better evidence systems matter as much as better molecules.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Bad+Pharma+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Drug+Hunters+by+Donald+R.+Kirsch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Drug Hunters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=czyCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Drug Hunters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Drug+Hunters+by+Donald+R.+Kirsch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Drug Hunters">The Drug Hunters</a>
-        </h4>
-        <p class="fr-book-author">By Donald R. Kirsch, Ogi Ogas</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Drug+Hunters+by+Donald+R.+Kirsch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Drug Hunters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=czyCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Drug Hunters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Drug+Hunters+by+Donald+R.+Kirsch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Drug Hunters">The Drug Hunters</a>
+</h4>
+<p class="fr-book-author">By Donald R. Kirsch, Ogi Ogas</p>
         
-        <p class="fr-book-desc">Shows where AI-assisted clinical trial improvements fit in the larger drug-development pipeline.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Drug+Hunters+by+Donald+R.+Kirsch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows where AI-assisted clinical trial improvements fit in the larger drug-development pipeline.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Drug+Hunters+by+Donald+R.+Kirsch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Patient+Will+See+You+Now+by+Eric+J.+Topol&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Patient Will See You Now on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Patient+Will+See+You+Now+by+Eric+J.+Topol&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Patient Will See You Now">The Patient Will See You Now</a>
-        </h4>
-        <p class="fr-book-author">By Eric J. Topol</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Patient+Will+See+You+Now+by+Eric+J.+Topol&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Patient Will See You Now on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Patient+Will+See+You+Now+by+Eric+J.+Topol&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Patient Will See You Now">The Patient Will See You Now</a>
+</h4>
+<p class="fr-book-author">By Eric J. Topol</p>
         
-        <p class="fr-book-desc">Explores data-rich medicine and patient selection, both central to smarter trial design.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Patient+Will+See+You+Now+by+Eric+J.+Topol&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores data-rich medicine and patient selection, both central to smarter trial design.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Patient+Will+See+You+Now+by+Eric+J.+Topol&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Deep+Medicine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Deep Medicine</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Pharma&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Pharma</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Drug+Hunters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Drug Hunters</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Deep+Medicine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Deep Medicine</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Pharma&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Pharma</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Drug+Hunters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Drug Hunters</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=smarter-trials-can-ai-fix-the-trial-bottleneck-itself-ai-bloom-abundance-superintelligence-and-h-medical-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster -book -books" data-ebay-reference="smarter-trials-can-ai-fix-the-trial-bottleneck-itself-ai-bloom-abundance-superintelligence-and-h-medical-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Human Anatomy model body MAJOR ORGANS A2 laminated medical doctor biology poster"><img src="{{ '/assets/images/marketplace-covers/a22ae66f5fa7967cd507.jpg' | relative_url }}" alt="Listing image for Human Anatomy model body MAJOR ORGANS A2 laminated medical doctor biology poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=smarter-trials-can-ai-fix-the-trial-bottleneck-itself-ai-bloom-abundance-superintelligence-and-h-medical-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster -book -books" data-ebay-reference="smarter-trials-can-ai-fix-the-trial-bottleneck-itself-ai-bloom-abundance-superintelligence-and-h-medical-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer">Human Anatomy model body MAJOR ORGANS A2 laminated medical doctor biology poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=smarter-trials-can-ai-fix-the-trial-bottleneck-itself-ai-bloom-abundance-superintelligence-and-h-medical-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster -book -books" data-ebay-reference="smarter-trials-can-ai-fix-the-trial-bottleneck-itself-ai-bloom-abundance-superintelligence-and-h-medical-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: medical poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=smarter-trials-can-ai-fix-the-trial-bottleneck-itself-ai-bloom-abundance-superintelligence-and-h-medical-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster -book -books" data-ebay-reference="smarter-trials-can-ai-fix-the-trial-bottleneck-itself-ai-bloom-abundance-superintelligence-and-h-medical-poster-book-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=smarter-trials-can-ai-fix-the-trial-bottleneck-itself-ai-bloom-abundance-superintelligence-and-h-medical-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster -book -books" data-ebay-reference="smarter-trials-can-ai-fix-the-trial-bottleneck-itself-ai-bloom-abundance-superintelligence-and-h-medical-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Human Anatomy model body MAJOR ORGANS A2 laminated medical doctor biology poster"><img src="{{ '/assets/images/marketplace-covers/a22ae66f5fa7967cd507.jpg' | relative_url }}" alt="Listing image for Human Anatomy model body MAJOR ORGANS A2 laminated medical doctor biology poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=smarter-trials-can-ai-fix-the-trial-bottleneck-itself-ai-bloom-abundance-superintelligence-and-h-medical-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster -book -books" data-ebay-reference="smarter-trials-can-ai-fix-the-trial-bottleneck-itself-ai-bloom-abundance-superintelligence-and-h-medical-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer">Human Anatomy model body MAJOR ORGANS A2 laminated medical doctor biology poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=smarter-trials-can-ai-fix-the-trial-bottleneck-itself-ai-bloom-abundance-superintelligence-and-h-medical-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster -book -books" data-ebay-reference="smarter-trials-can-ai-fix-the-trial-bottleneck-itself-ai-bloom-abundance-superintelligence-and-h-medical-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: medical poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=smarter-trials-can-ai-fix-the-trial-bottleneck-itself-ai-bloom-abundance-superintelligence-and-h-medical-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster -book -books" data-ebay-reference="smarter-trials-can-ai-fix-the-trial-bottleneck-itself-ai-bloom-abundance-superintelligence-and-h-medical-poster-book-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=smarter-trials-can-ai-fix-the-trial-bottleneck-itself-ai-bloom-abundance-superintelligence-and-h-medical-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster -book -books" data-ebay-reference="smarter-trials-can-ai-fix-the-trial-bottleneck-itself-ai-bloom-abundance-superintelligence-and-h-medical-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Human Skin Anatomy Medical Poster Doctor Educational Decor Poster A5 A4 A3"><img src="{{ '/assets/images/marketplace-covers/0ff56561933ecc767077.jpg' | relative_url }}" alt="Listing image for Human Skin Anatomy Medical Poster Doctor Educational Decor Poster A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=smarter-trials-can-ai-fix-the-trial-bottleneck-itself-ai-bloom-abundance-superintelligence-and-h-medical-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster -book -books" data-ebay-reference="smarter-trials-can-ai-fix-the-trial-bottleneck-itself-ai-bloom-abundance-superintelligence-and-h-medical-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer">Human Skin Anatomy Medical Poster Doctor Educational Decor Poster A5 A4 A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=smarter-trials-can-ai-fix-the-trial-bottleneck-itself-ai-bloom-abundance-superintelligence-and-h-medical-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster -book -books" data-ebay-reference="smarter-trials-can-ai-fix-the-trial-bottleneck-itself-ai-bloom-abundance-superintelligence-and-h-medical-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: medical poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=smarter-trials-can-ai-fix-the-trial-bottleneck-itself-ai-bloom-abundance-superintelligence-and-h-medical-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster -book -books" data-ebay-reference="smarter-trials-can-ai-fix-the-trial-bottleneck-itself-ai-bloom-abundance-superintelligence-and-h-medical-poster-book-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=smarter-trials-can-ai-fix-the-trial-bottleneck-itself-ai-bloom-abundance-superintelligence-and-h-medical-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster -book -books" data-ebay-reference="smarter-trials-can-ai-fix-the-trial-bottleneck-itself-ai-bloom-abundance-superintelligence-and-h-medical-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Human Skin Anatomy Medical Poster Doctor Educational Decor Poster A5 A4 A3"><img src="{{ '/assets/images/marketplace-covers/0ff56561933ecc767077.jpg' | relative_url }}" alt="Listing image for Human Skin Anatomy Medical Poster Doctor Educational Decor Poster A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=smarter-trials-can-ai-fix-the-trial-bottleneck-itself-ai-bloom-abundance-superintelligence-and-h-medical-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster -book -books" data-ebay-reference="smarter-trials-can-ai-fix-the-trial-bottleneck-itself-ai-bloom-abundance-superintelligence-and-h-medical-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer">Human Skin Anatomy Medical Poster Doctor Educational Decor Poster A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=smarter-trials-can-ai-fix-the-trial-bottleneck-itself-ai-bloom-abundance-superintelligence-and-h-medical-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster -book -books" data-ebay-reference="smarter-trials-can-ai-fix-the-trial-bottleneck-itself-ai-bloom-abundance-superintelligence-and-h-medical-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: medical poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=smarter-trials-can-ai-fix-the-trial-bottleneck-itself-ai-bloom-abundance-superintelligence-and-h-medical-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster -book -books" data-ebay-reference="smarter-trials-can-ai-fix-the-trial-bottleneck-itself-ai-bloom-abundance-superintelligence-and-h-medical-poster-book-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=smarter-trials-can-ai-fix-the-trial-bottleneck-itself-ai-bloom-abundance-superintelligence-and-h-medical-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster -book -books" data-ebay-reference="smarter-trials-can-ai-fix-the-trial-bottleneck-itself-ai-bloom-abundance-superintelligence-and-h-medical-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Human Brain Anatomy Poster Medical Doctor Anatomical Educational Poster A5-A1"><img src="{{ '/assets/images/marketplace-covers/d252c9d704756e344b96.jpg' | relative_url }}" alt="Listing image for Human Brain Anatomy Poster Medical Doctor Anatomical Educational Poster A5-A1" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=smarter-trials-can-ai-fix-the-trial-bottleneck-itself-ai-bloom-abundance-superintelligence-and-h-medical-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster -book -books" data-ebay-reference="smarter-trials-can-ai-fix-the-trial-bottleneck-itself-ai-bloom-abundance-superintelligence-and-h-medical-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer">Human Brain Anatomy Poster Medical Doctor Anatomical Educational Poster A5-A1</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=smarter-trials-can-ai-fix-the-trial-bottleneck-itself-ai-bloom-abundance-superintelligence-and-h-medical-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster -book -books" data-ebay-reference="smarter-trials-can-ai-fix-the-trial-bottleneck-itself-ai-bloom-abundance-superintelligence-and-h-medical-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: medical poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=smarter-trials-can-ai-fix-the-trial-bottleneck-itself-ai-bloom-abundance-superintelligence-and-h-medical-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster -book -books" data-ebay-reference="smarter-trials-can-ai-fix-the-trial-bottleneck-itself-ai-bloom-abundance-superintelligence-and-h-medical-poster-book-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=smarter-trials-can-ai-fix-the-trial-bottleneck-itself-ai-bloom-abundance-superintelligence-and-h-medical-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster -book -books" data-ebay-reference="smarter-trials-can-ai-fix-the-trial-bottleneck-itself-ai-bloom-abundance-superintelligence-and-h-medical-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Human Brain Anatomy Poster Medical Doctor Anatomical Educational Poster A5-A1"><img src="{{ '/assets/images/marketplace-covers/d252c9d704756e344b96.jpg' | relative_url }}" alt="Listing image for Human Brain Anatomy Poster Medical Doctor Anatomical Educational Poster A5-A1" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=smarter-trials-can-ai-fix-the-trial-bottleneck-itself-ai-bloom-abundance-superintelligence-and-h-medical-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster -book -books" data-ebay-reference="smarter-trials-can-ai-fix-the-trial-bottleneck-itself-ai-bloom-abundance-superintelligence-and-h-medical-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer">Human Brain Anatomy Poster Medical Doctor Anatomical Educational Poster A5-A1</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=smarter-trials-can-ai-fix-the-trial-bottleneck-itself-ai-bloom-abundance-superintelligence-and-h-medical-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster -book -books" data-ebay-reference="smarter-trials-can-ai-fix-the-trial-bottleneck-itself-ai-bloom-abundance-superintelligence-and-h-medical-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: medical poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=smarter-trials-can-ai-fix-the-trial-bottleneck-itself-ai-bloom-abundance-superintelligence-and-h-medical-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster -book -books" data-ebay-reference="smarter-trials-can-ai-fix-the-trial-bottleneck-itself-ai-bloom-abundance-superintelligence-and-h-medical-poster-book-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=smarter-trials-can-ai-fix-the-trial-bottleneck-itself-ai-bloom-abundance-superintelligence-and-h-medical-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster -book -books" data-ebay-reference="smarter-trials-can-ai-fix-the-trial-bottleneck-itself-ai-bloom-abundance-superintelligence-and-h-medical-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HUMAN ANATOMY CHIROPRACTIC EDUCATIONAL STUDENT MEDICAL POSTER PRINTS A4 A3 A2"><img src="{{ '/assets/images/marketplace-covers/a0a9999a1c91b938ba61.jpg' | relative_url }}" alt="Listing image for HUMAN ANATOMY CHIROPRACTIC EDUCATIONAL STUDENT MEDICAL POSTER PRINTS A4 A3 A2" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=smarter-trials-can-ai-fix-the-trial-bottleneck-itself-ai-bloom-abundance-superintelligence-and-h-medical-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster -book -books" data-ebay-reference="smarter-trials-can-ai-fix-the-trial-bottleneck-itself-ai-bloom-abundance-superintelligence-and-h-medical-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer">HUMAN ANATOMY CHIROPRACTIC EDUCATIONAL STUDENT MEDICAL POSTER PRINTS A4 A3 A2</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=smarter-trials-can-ai-fix-the-trial-bottleneck-itself-ai-bloom-abundance-superintelligence-and-h-medical-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster -book -books" data-ebay-reference="smarter-trials-can-ai-fix-the-trial-bottleneck-itself-ai-bloom-abundance-superintelligence-and-h-medical-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: medical poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=smarter-trials-can-ai-fix-the-trial-bottleneck-itself-ai-bloom-abundance-superintelligence-and-h-medical-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster -book -books" data-ebay-reference="smarter-trials-can-ai-fix-the-trial-bottleneck-itself-ai-bloom-abundance-superintelligence-and-h-medical-poster-book-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=smarter-trials-can-ai-fix-the-trial-bottleneck-itself-ai-bloom-abundance-superintelligence-and-h-medical-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster -book -books" data-ebay-reference="smarter-trials-can-ai-fix-the-trial-bottleneck-itself-ai-bloom-abundance-superintelligence-and-h-medical-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=smarter-trials-can-ai-fix-the-trial-bottleneck-itself-ai-bloom-abundance-superintelligence-and-h-medical-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster -book -books" data-ebay-reference="smarter-trials-can-ai-fix-the-trial-bottleneck-itself-ai-bloom-abundance-superintelligence-and-h-medical-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HUMAN ANATOMY CHIROPRACTIC EDUCATIONAL STUDENT MEDICAL POSTER PRINTS A4 A3 A2"><img src="{{ '/assets/images/marketplace-covers/a0a9999a1c91b938ba61.jpg' | relative_url }}" alt="Listing image for HUMAN ANATOMY CHIROPRACTIC EDUCATIONAL STUDENT MEDICAL POSTER PRINTS A4 A3 A2" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=smarter-trials-can-ai-fix-the-trial-bottleneck-itself-ai-bloom-abundance-superintelligence-and-h-medical-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster -book -books" data-ebay-reference="smarter-trials-can-ai-fix-the-trial-bottleneck-itself-ai-bloom-abundance-superintelligence-and-h-medical-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer">HUMAN ANATOMY CHIROPRACTIC EDUCATIONAL STUDENT MEDICAL POSTER PRINTS A4 A3 A2</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=smarter-trials-can-ai-fix-the-trial-bottleneck-itself-ai-bloom-abundance-superintelligence-and-h-medical-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster -book -books" data-ebay-reference="smarter-trials-can-ai-fix-the-trial-bottleneck-itself-ai-bloom-abundance-superintelligence-and-h-medical-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: medical poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=smarter-trials-can-ai-fix-the-trial-bottleneck-itself-ai-bloom-abundance-superintelligence-and-h-medical-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster -book -books" data-ebay-reference="smarter-trials-can-ai-fix-the-trial-bottleneck-itself-ai-bloom-abundance-superintelligence-and-h-medical-poster-book-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=smarter-trials-can-ai-fix-the-trial-bottleneck-itself-ai-bloom-abundance-superintelligence-and-h-medical-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster -book -books" data-ebay-reference="smarter-trials-can-ai-fix-the-trial-bottleneck-itself-ai-bloom-abundance-superintelligence-and-h-medical-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -626,7 +626,7 @@ For the broader AI bloom argument, that may be one of the most consequential pos
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -646,7 +646,7 @@ For the broader AI bloom argument, that may be one of the most consequential pos
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -678,7 +678,7 @@ For the broader AI bloom argument, that may be one of the most consequential pos
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -730,7 +730,7 @@ For the broader AI bloom argument, that may be one of the most consequential pos
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -775,7 +775,7 @@ For the broader AI bloom argument, that may be one of the most consequential pos
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -816,164 +816,164 @@ For the broader AI bloom argument, that may be one of the most consequential pos
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: fda.gov  
-   Link: <a href="https://www.fda.gov/media/167973/download" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/media/167973/download</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Food and Drug AdministrationUsing Artificial [Intelligence](&amp;#123;&amp;#123; &#x27;intelligence/&#x27; | relative_url &amp;#125;&amp;#125;) &amp; Machine Learning in the...participant&#x27;s clinical outcome based on baseline c...</p></details>
+   Link:<a href="https://www.fda.gov/media/167973/download" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/media/167973/download</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Food and Drug AdministrationUsing Artificial [Intelligence](&amp;#123;&amp;#123; &#x27;intelligence/&#x27; | relative_url &amp;#125;&amp;#125;) &amp; Machine Learning in the...participant&#x27;s clinical outcome based on baseline c...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10493153/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10493153/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Coming of Age of AI/ML in Drug Discovery, Development...by SK Niazi · 2023 · Cited by 186 — AI/ML gathers data from previous clinical tr...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10493153/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10493153/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Coming of Age of AI/ML in Drug Discovery, Development...by SK Niazi · 2023 · Cited by 186 — AI/ML gathers data from previous clinical tr...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7382632/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7382632/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluation of an artificial intelligence clinical trial matching...by M Alexander · 2020 · Cited by 90 — The AI-based clinical trial...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7382632/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7382632/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluation of an artificial intelligence clinical trial matching...by M Alexander · 2020 · Cited by 90 — The AI-based clinical trial...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12711520/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12711520/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by C Fang · 2025 · Cited by 7 — First, AI enhances patient stratification and recruitment—crucial steps in trial initiation. Natural l...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12711520/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12711520/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by C Fang · 2025 · Cited by 7 — First, AI enhances patient stratification and recruitment—crucial steps in trial initiation. Natural l...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11491624/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11491624/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>intelligence for optimizing recruitment and retention in...by X Lu · 2024 · Cited by 62 — Applying AI to recruitment in clinical trials...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11491624/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11491624/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>intelligence for optimizing recruitment and retention in...by X Lu · 2024 · Cited by 62 — Applying AI to recruitment in clinical trials...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41467-026-70509-w" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41467-026-70509-w</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>TrialMatchAI: an end-to-end AI-powered clinical trial...by M Abdallah · 2026 · Cited by 5 — We present TrialMatchAI, an AI-powered...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41467-026-70509-w" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41467-026-70509-w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>TrialMatchAI: an end-to-end AI-powered clinical trial...by M Abdallah · 2026 · Cited by 5 — We present TrialMatchAI, an AI-powered...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2505.08508" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2505.08508</a>  
+   Link:<a href="https://arxiv.org/abs/2505.08508" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2505.08508</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: arxiv.org  
    Title: arXiv Match Miner-AI: An Open-Source Solution for Cancer Clinical Trial Matching  
-   Link: <a href="https://arxiv.org/abs/2412.17228" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2412.17228</a>  
+   Link:<a href="https://arxiv.org/abs/2412.17228" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2412.17228</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: oncology-central.com  
-   Link: <a href="https://www.oncology-central.com/podcasts/how-is-artificial-intelligence-changing-clinical-trial-feasibility-and-recruitment/" target="_blank" rel="noopener noreferrer nofollow">https://www.oncology-central.com/podcasts/how-is-artificial-intelligence-changing-clinical-trial-feasibility-and-recruitment/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How is artificial intelligence changing clinical trial feasibility...7 Jan 2020 — Deep 6 as the name suggests uses AI on clinical data t...</p></details>
+   Link:<a href="https://www.oncology-central.com/podcasts/how-is-artificial-intelligence-changing-clinical-trial-feasibility-and-recruitment/" target="_blank" rel="noopener noreferrer nofollow">https://www.oncology-central.com/podcasts/how-is-artificial-intelligence-changing-clinical-trial-feasibility-and-recruitment/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How is artificial intelligence changing clinical trial feasibility...7 Jan 2020 — Deep 6 as the name suggests uses AI on clinical data t...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10934426/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10934426/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Machine Learning and Digital Biomarkers Can Detect Early...by A Chudzik · 2024 · Cited by 134 — This review explores “digital biomark...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10934426/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10934426/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Machine Learning and Digital Biomarkers Can Detect Early...by A Chudzik · 2024 · Cited by 134 — This review explores “digital biomark...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0956566323003299" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0956566323003299</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The convergence of traditional and digital biomarkers...by SS Arya · 2023 · Cited by 187 — This review brings together conventional and...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0956566323003299" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0956566323003299</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The convergence of traditional and digital biomarkers...by SS Arya · 2023 · Cited by 187 — This review brings together conventional and...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: fda.gov  
    Title: artificial intelligence software medical device  
-   Link: <a href="https://www.fda.gov/medical-devices/software-medical-device-samd/artificial-intelligence-software-medical-device" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/medical-devices/software-medical-device-samd/artificial-intelligence-software-medical-device</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Food and Drug AdministrationArtificial Intelligence in Software as a Medical DeviceMar 25, 2025 — AI/ML technologies have the potential t...</p></details>
+   Link:<a href="https://www.fda.gov/medical-devices/software-medical-device-samd/artificial-intelligence-software-medical-device" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/medical-devices/software-medical-device-samd/artificial-intelligence-software-medical-device</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Food and Drug AdministrationArtificial Intelligence in Software as a Medical DeviceMar 25, 2025 — AI/ML technologies have the potential t...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2511.05696" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2511.05696</a>  
+   Link:<a href="https://arxiv.org/abs/2511.05696" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2511.05696</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1386505625003582" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1386505625003582</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Artificial intelligence in clinical trials: A comprehensive...by DB Olawade · 2025 · Cited by 11 — Analysis of relevant studies demonstr...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S1386505625003582" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1386505625003582</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Artificial intelligence in clinical trials: A comprehensive...by DB Olawade · 2025 · Cited by 11 — Analysis of relevant studies demonstr...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1386505625001170" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1386505625001170</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Electronic Health Record based recruitment support systemsby M Vaterkowski · 2025 · Cited by 5 — This scoping review focused on articles...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S1386505625001170" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1386505625001170</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Electronic Health Record based recruitment support systemsby M Vaterkowski · 2025 · Cited by 5 — This scoping review focused on articles...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41746-023-00767-1" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41746-023-00767-1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Evidence from ClinicalTrials.gov on the growth of Digital...by L Masanneck · 2023 · Cited by 95 — This study analyzed the recent evoluti...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41746-023-00767-1" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41746-023-00767-1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Evidence from ClinicalTrials.gov on the growth of Digital...by L Masanneck · 2023 · Cited by 95 — This study analyzed the recent evoluti...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2503.00863v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2503.00863v1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Systematic Literature Review on Clinical Trial Eligibility...2 Mar 2025 — The capability of NLP methods to parse and interpret eligibili...</p></details>
+   Link:<a href="https://arxiv.org/html/2503.00863v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2503.00863v1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Systematic Literature Review on Clinical Trial Eligibility...2 Mar 2025 — The capability of NLP methods to parse and interpret eligibili...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: theguardian.com  
    Title: The Guardian AI-enhanced blood test may detect Parkinson's years before onset  
-   Link: <a href="https://www.theguardian.com/society/article/2024/jun/18/ai-enhanced-blood-test-may-detect-parkinsons-years-before-onset" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/society/article/2024/jun/18/ai-enhanced-blood-test-may-detect-parkinsons-years-before-onset</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This predictive test, if validated in larger populations, could become accessible within two years using existing NHS laboratory equipmen...</p></details>
+   Link:<a href="https://www.theguardian.com/society/article/2024/jun/18/ai-enhanced-blood-test-may-detect-parkinsons-years-before-onset" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/society/article/2024/jun/18/ai-enhanced-blood-test-may-detect-parkinsons-years-before-onset</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This predictive test, if validated in larger populations, could become accessible within two years using existing NHS laboratory equipmen...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: realtime-eclinical.com  
-   Link: <a href="https://realtime-eclinical.com/2025/02/06/the-fdas-draft-guidance-for-ai-in-clinical-trials-implications-for-sites-and-amcs/" target="_blank" rel="noopener noreferrer nofollow">https://realtime-eclinical.com/2025/02/06/the-fdas-draft-guidance-for-ai-in-clinical-trials-implications-for-sites-and-amcs/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The FDA&#x27;s Draft Guidance for AI in Clinical TrialsFeb 6, 2025 — The guidance addresses how AI can improve trial design, streamline regula...</p></details>
+   Link:<a href="https://realtime-eclinical.com/2025/02/06/the-fdas-draft-guidance-for-ai-in-clinical-trials-implications-for-sites-and-amcs/" target="_blank" rel="noopener noreferrer nofollow">https://realtime-eclinical.com/2025/02/06/the-fdas-draft-guidance-for-ai-in-clinical-trials-implications-for-sites-and-amcs/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The FDA&#x27;s Draft Guidance for AI in Clinical TrialsFeb 6, 2025 — The guidance addresses how AI can improve trial design, streamline regula...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: fda.gov  
-   Link: <a href="https://www.fda.gov/medical-devices/software-medical-device-samd/artificial-intelligence-enabled-medical-devices" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/medical-devices/software-medical-device-samd/artificial-intelligence-enabled-medical-devices</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Artificial Intelligence-Enabled Medical DevicesThe AI-Enabled Medical Device List is a resource intended to identify AI-enabled medical d...</p></details>
+   Link:<a href="https://www.fda.gov/medical-devices/software-medical-device-samd/artificial-intelligence-enabled-medical-devices" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/medical-devices/software-medical-device-samd/artificial-intelligence-enabled-medical-devices</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Artificial Intelligence-Enabled Medical DevicesThe AI-Enabled Medical Device List is a resource intended to identify AI-enabled medical d...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: fda.gov  
    Title: role artificial intelligence clinical trial design and research dr elzarrad  
-   Link: <a href="https://www.fda.gov/drugs/news-events-human-drugs/role-artificial-intelligence-clinical-trial-design-and-research-dr-elzarrad" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/drugs/news-events-human-drugs/role-artificial-intelligence-clinical-trial-design-and-research-dr-elzarrad</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Role of Artificial Intelligence in Clinical Trial Design...30 May 2024 — AI has been explored already and used in part of a clinical...</p></details>
+   Link:<a href="https://www.fda.gov/drugs/news-events-human-drugs/role-artificial-intelligence-clinical-trial-design-and-research-dr-elzarrad" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/drugs/news-events-human-drugs/role-artificial-intelligence-clinical-trial-design-and-research-dr-elzarrad</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Role of Artificial Intelligence in Clinical Trial Design...30 May 2024 — AI has been explored already and used in part of a clinical...</p></details>
    Published: May 2024  
 
 ### Additional References
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: smartbridge.com  
-   Link: <a href="https://smartbridge.com/ai-in-clinical-trials-accelerating-drug-development/" target="_blank" rel="noopener noreferrer nofollow">https://smartbridge.com/ai-in-clinical-trials-accelerating-drug-development/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI in Clinical Trials: Accelerating Drug Development2 days ago — Learn how pharma teams use AI in clinical trials to speed enrollment, op...</p></details>
+   Link:<a href="https://smartbridge.com/ai-in-clinical-trials-accelerating-drug-development/" target="_blank" rel="noopener noreferrer nofollow">https://smartbridge.com/ai-in-clinical-trials-accelerating-drug-development/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI in Clinical Trials: Accelerating Drug Development2 days ago — Learn how pharma teams use AI in clinical trials to speed enrollment, op...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/893501663/Transforming-Cancer-Clinical-Trials-The-Integral-Role-of-Artificial-Intelligence-in-Electronic-Health-Records-for-Efficient-Patient-Recruitment" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/893501663/Transforming-Cancer-Clinical-Trials-The-Integral-Role-of-Artificial-Intelligence-in-Electronic-Health-Records-for-Efficient-Patient-Recruitment</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI in EHRs for Cancer Trial Recruitment | PDFAI&#x27;s ability to quickly process and interpret EHR data significantly accelerates the timelin...</p></details>
+   Link:<a href="https://www.scribd.com/document/893501663/Transforming-Cancer-Clinical-Trials-The-Integral-Role-of-Artificial-Intelligence-in-Electronic-Health-Records-for-Efficient-Patient-Recruitment" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/893501663/Transforming-Cancer-Clinical-Trials-The-Integral-Role-of-Artificial-Intelligence-in-Electronic-Health-Records-for-Efficient-Patient-Recruitment</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI in EHRs for Cancer Trial Recruitment | PDFAI&#x27;s ability to quickly process and interpret EHR data significantly accelerates the timelin...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/amanda-martin-ba-cssgb-acrp-gcp-b1090341_digital-biomarkers-are-reshaping-how-evidence-activity-7361906536614445056-mc4Y" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/amanda-martin-ba-cssgb-acrp-gcp-b1090341_digital-biomarkers-are-reshaping-how-evidence-activity-7361906536614445056-mc4Y</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How AI and digital biomarkers are changing clinical trialsFor healthcare and pharma: New AI-powered screening centres to boost early dete...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/amanda-martin-ba-cssgb-acrp-gcp-b1090341_digital-biomarkers-are-reshaping-how-evidence-activity-7361906536614445056-mc4Y" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/amanda-martin-ba-cssgb-acrp-gcp-b1090341_digital-biomarkers-are-reshaping-how-evidence-activity-7361906536614445056-mc4Y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How AI and digital biomarkers are changing clinical trialsFor healthcare and pharma: New AI-powered screening centres to boost early dete...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: livescience.com  
-   Link: <a href="https://www.livescience.com/health/cancer/new-ai-model-spots-pancreatic-cancer-up-to-3-years-earlier-than-human-doctors-in-test" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/health/cancer/new-ai-model-spots-pancreatic-cancer-up-to-3-years-earlier-than-human-doctors-in-test</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Researchers tested REDMOD on almost 2,000 CT scans previously deemed &quot;normal,&quot; and the AI successfully identified structural abnormalitie...</p></details>
+   Link:<a href="https://www.livescience.com/health/cancer/new-ai-model-spots-pancreatic-cancer-up-to-3-years-earlier-than-human-doctors-in-test" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/health/cancer/new-ai-model-spots-pancreatic-cancer-up-to-3-years-earlier-than-human-doctors-in-test</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Researchers tested REDMOD on almost 2,000 CT scans previously deemed &quot;normal,&quot; and the AI successfully identified structural abnormalitie...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: veranahealth.com  
-   Link: <a href="https://veranahealth.com/clinical-research-solutions/patient-recruitment/" target="_blank" rel="noopener noreferrer nofollow">https://veranahealth.com/clinical-research-solutions/patient-recruitment/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Verana Health&#x27;s Patient Recruitment SolutionsOur AI algorithms predict which patient populations and regions are most likely to participa...</p></details>
+   Link:<a href="https://veranahealth.com/clinical-research-solutions/patient-recruitment/" target="_blank" rel="noopener noreferrer nofollow">https://veranahealth.com/clinical-research-solutions/patient-recruitment/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Verana Health&#x27;s Patient Recruitment SolutionsOur AI algorithms predict which patient populations and regions are most likely to participa...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: trialx.com  
-   Link: <a href="https://trialx.com/how-trialx-ai-powered-clinical-trial-matching-leverages-ehr-data-to-identify-eligible-patients-efficiently/" target="_blank" rel="noopener noreferrer nofollow">https://trialx.com/how-trialx-ai-powered-clinical-trial-matching-leverages-ehr-data-to-identify-eligible-patients-efficiently/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How TrialX AI-Powered Clinical Trial Matching Leverages...9 Apr 2026 — These research shows how EHR data and AI are being used in real-w...</p></details>
+   Link:<a href="https://trialx.com/how-trialx-ai-powered-clinical-trial-matching-leverages-ehr-data-to-identify-eligible-patients-efficiently/" target="_blank" rel="noopener noreferrer nofollow">https://trialx.com/how-trialx-ai-powered-clinical-trial-matching-leverages-ehr-data-to-identify-eligible-patients-efficiently/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How TrialX AI-Powered Clinical Trial Matching Leverages...9 Apr 2026 — These research shows how EHR data and AI are being used in real-w...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: pathai.com  
-   Link: <a href="https://www.pathai.com/news/pathais-aim-mash-ai-assist-becomes-first-ai-powered-pathology-tool-to-receive-fda-qualification-for-mash-clinical-trials" target="_blank" rel="noopener noreferrer nofollow">https://www.pathai.com/news/pathais-aim-mash-ai-assist-becomes-first-ai-powered-pathology-tool-to-receive-fda-qualification-for-mash-clinical-trials</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PathAI&#x27;s AIM-MASH AI Assist Becomes First AI-Powered...Dec 9, 2025 — PathAI&#x27;s AIM-MASH AI Assist1 Becomes First AI-Powered Pathology Too...</p></details>
+   Link:<a href="https://www.pathai.com/news/pathais-aim-mash-ai-assist-becomes-first-ai-powered-pathology-tool-to-receive-fda-qualification-for-mash-clinical-trials" target="_blank" rel="noopener noreferrer nofollow">https://www.pathai.com/news/pathais-aim-mash-ai-assist-becomes-first-ai-powered-pathology-tool-to-receive-fda-qualification-for-mash-clinical-trials</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PathAI&#x27;s AIM-MASH AI Assist Becomes First AI-Powered...Dec 9, 2025 — PathAI&#x27;s AIM-MASH AI Assist1 Becomes First AI-Powered Pathology Too...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: hoganlovells.com  
-   Link: <a href="https://www.hoganlovells.com/en/publications/fdas-evolving-regulatory-framework-for-ai-use-in-drug-device-clinical-trials-and-research" target="_blank" rel="noopener noreferrer nofollow">https://www.hoganlovells.com/en/publications/fdas-evolving-regulatory-framework-for-ai-use-in-drug-device-clinical-trials-and-research</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FDA&#x27;s evolving regulatory framework for AI use in drug &amp;...13 Jan 2025 — FDA previously discussed digital twins in its May 2023 discussi...</p></details>
+   Link:<a href="https://www.hoganlovells.com/en/publications/fdas-evolving-regulatory-framework-for-ai-use-in-drug-device-clinical-trials-and-research" target="_blank" rel="noopener noreferrer nofollow">https://www.hoganlovells.com/en/publications/fdas-evolving-regulatory-framework-for-ai-use-in-drug-device-clinical-trials-and-research</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FDA&#x27;s evolving regulatory framework for AI use in drug &amp;...13 Jan 2025 — FDA previously discussed digital twins in its May 2023 discussi...</p></details>
    Published: May 2023  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: gmdpacademy.org  
    Title: fda recognizes ai mls role in advancing drug development and clinical trials  
-   Link: <a href="https://gmdpacademy.org/news/fda-recognizes-ai-mls-role-in-advancing-drug-development-and-clinical-trials/" target="_blank" rel="noopener noreferrer nofollow">https://gmdpacademy.org/news/fda-recognizes-ai-mls-role-in-advancing-drug-development-and-clinical-trials/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI/ML in Drug Development: FDA Recognizes Role...10 Sept 2024 — By improving patient selection, AI/ML models can help ensure that clinic...</p></details>
+   Link:<a href="https://gmdpacademy.org/news/fda-recognizes-ai-mls-role-in-advancing-drug-development-and-clinical-trials/" target="_blank" rel="noopener noreferrer nofollow">https://gmdpacademy.org/news/fda-recognizes-ai-mls-role-in-advancing-drug-development-and-clinical-trials/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI/ML in Drug Development: FDA Recognizes Role...10 Sept 2024 — By improving patient selection, AI/ML models can help ensure that clinic...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: ovid.com  
    Title: jama.2024.21451~fda perspective on the regulation of artificial intelligence  
-   Link: <a href="https://www.ovid.com/journals/jama/pdf/10.1001/jama.2024.21451~fda-perspective-on-the-regulation-of-artificial-intelligence" target="_blank" rel="noopener noreferrer nofollow">https://www.ovid.com/journals/jama/pdf/10.1001/jama.2024.21451~fda-perspective-on-the-regulation-of-artificial-intelligence</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FDA Perspective on the Regulation of Artificial Intelligence...by HJ Warraich · 2025 · Cited by 279 — • Predict an individual participan...</p></details>
+   Link:<a href="https://www.ovid.com/journals/jama/pdf/10.1001/jama.2024.21451~fda-perspective-on-the-regulation-of-artificial-intelligence" target="_blank" rel="noopener noreferrer nofollow">https://www.ovid.com/journals/jama/pdf/10.1001/jama.2024.21451~fda-perspective-on-the-regulation-of-artificial-intelligence</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FDA Perspective on the Regulation of Artificial Intelligence...by HJ Warraich · 2025 · Cited by 279 — • Predict an individual participan...</p></details>

@@ -278,7 +278,7 @@ If some populations are underrepresented in training data, receive fewer tests, 
 
 Medical AI depends on data. Electronic health records, medical images, insurance claims, laboratory results, and genomic databases provide the raw material from which algorithms learn patterns. The problem is that these datasets are not neutral snapshots of human health.
 
-Many healthcare datasets are built from large hospitals, academic medical centres, insured populations, or regions with stronger healthcare infrastructure. People who struggle to access care often generate fewer records in the first place. Those records may also be less complete because diagnoses occur later, follow-up visits are less frequent, and preventive screening is less common. Researchers have repeatedly warned that these patterns can make machine-learning systems less reliable for underrepresented populations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8515002/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAddressing bias in big data and AI for health care</span><span class="citation-popover-snippet">This can result in misdiagnosing certain...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9931338/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCSources of bias in artificial intelligence that perpetuate</span><span class="citation-popover-snippet">by LA Celi · 2022 · Cited by 610 — The lack of diverse digital datasets for ML algorithms can amplify systematic underrepresentation o...</span></span></span>
+Many healthcare datasets are built from large hospitals, academic medical centres, insured populations, or regions with stronger healthcare infrastructure. People who struggle to access care often generate fewer records in the first place. Those records may also be less complete because diagnoses occur later, follow-up visits are less frequent, and preventive screening is less common. Researchers have repeatedly warned that these patterns can make machine-learning systems less reliable for underrepresented populations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8515002/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAddressing bias in big data and AI for health care</span><span class="citation-popover-snippet">This can result in misdiagnosing certain...Read more...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9931338/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCSources of bias in artificial intelligence that perpetuate</span><span class="citation-popover-snippet">by LA Celi · 2022 · Cited by 610 — The lack of diverse digital datasets for ML algorithms can amplify systematic underrepresentation o...</span></span></span>
 
 The bias can emerge through several pathways:
 
@@ -288,7 +288,7 @@ The bias can emerge through several pathways:
 * **Measurement bias:** health conditions may be recorded differently across populations.
 * **Label bias:** the “ground truth” used to train models can reflect past clinical decisions that were themselves uneven.
 * **Access bias:** people who receive more tests create richer datasets, making it easier for algorithms to learn from them.
-* **Historical bias:** datasets inherit inequalities that already exist in healthcare systems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11542778/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Bias in medical AI: Implications for clinical decision-makingby JL Cross · 2024 · Cited by 535 — We discuss potential biases that can...</span></span></span>
+* **Historical bias:** datasets inherit inequalities that already exist in healthcare systems.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11542778/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Bias in medical AI: Implications for clinical decision-makingby JL Cross · 2024 · Cited by 535 — We discuss potential biases that can...</span></span></span>
 
 </div>
 
@@ -300,11 +300,11 @@ That distinction matters because healthcare is not like a recommendation system 
 
 One of the most influential demonstrations of this problem came from research on AI systems used to analyse chest radiographs.
 
-In 2021, researchers examined multiple chest X-ray classification models across several major datasets. They focused on a particularly important failure mode: underdiagnosis. Instead of asking whether overall accuracy was high, they asked which patients were most likely to have disease incorrectly labelled as absent. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41591-021-01595-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Underdiagnosis bias of artificial intelligence algorithms...by L Seyyed-Kalantari · 2021 · Cited by 1052 — Here, we examine algori...</span></span></span>
+In 2021, researchers examined multiple chest X-ray classification models across several major datasets. They focused on a particularly important failure mode: underdiagnosis. Instead of asking whether overall accuracy was high, they asked which patients were most likely to have disease incorrectly labelled as absent.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41591-021-01595-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Underdiagnosis bias of artificial intelligence algorithms...by L Seyyed-Kalantari · 2021 · Cited by 1052 — Here, we examine algori...</span></span></span>
 
 The results were troubling.
 
-Across different datasets and institutions, the researchers found systematic underdiagnosis for historically underserved populations. Certain groups were more likely to receive false-negative results, meaning the AI system was more likely to classify a sick patient as healthy. The disparities appeared across multiple pathologies and persisted even when researchers examined different datasets and modelling approaches. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41746-023-00858-z" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Nat. Med. 27...Read more...</span></span></span>
+Across different datasets and institutions, the researchers found systematic underdiagnosis for historically underserved populations. Certain groups were more likely to receive false-negative results, meaning the AI system was more likely to classify a sick patient as healthy. The disparities appeared across multiple pathologies and persisted even when researchers examined different datasets and modelling approaches.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41746-023-00858-z" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Nat. Med. 27...Read more...</span></span></span>
 
 The significance of the study was not merely that bias existed. Researchers already suspected that. The striking finding was that the problem remained visible across different datasets and models, suggesting that unequal performance was deeply connected to the structure of the underlying data rather than a single defective algorithm.
 
@@ -329,11 +329,11 @@ Consider two patients with similar underlying illness:
 
 The first patient's condition is more likely to be identified, labelled, and recorded. The second patient's condition may remain partially invisible in the dataset.
 
-When machine-learning systems are trained on those records, they can learn patterns associated with healthcare access rather than health itself. Researchers describe this as a major source of bias in healthcare AI. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0000022" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">Sources of bias in artificial intelligence that perpetuate...by LA Celi · 2022 · Cited by 614 — Here, we describe the landscape of A...</span></span></span>
+When machine-learning systems are trained on those records, they can learn patterns associated with healthcare access rather than health itself. Researchers describe this as a major source of bias in healthcare AI. PMC<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0000022" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">Sources of bias in artificial intelligence that perpetuate...by LA Celi · 2022 · Cited by 614 — Here, we describe the landscape of A...</span></span></span>
 
-The problem becomes even more complicated when datasets use proxies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41591-023-02608-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[nature.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">The value of standards for health datasets in artificial...by A Arora · 2023 · Cited by 353 — However, a growing body of evidence has hi...</span></span></span>
+The problem becomes even more complicated when datasets use proxies.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41591-023-02608-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[nature.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">The value of standards for health datasets in artificial...by A Arora · 2023 · Cited by 353 — However, a growing body of evidence has hi...</span></span></span>
 
-A famous example came from a widely used healthcare risk algorithm studied by Ziad Obermeyer and colleagues. The system attempted to identify patients needing additional care management. Instead of predicting illness directly, it used future healthcare spending as a proxy for health need. Because Black patients historically received less medical spending for equivalent illness levels, the algorithm learned to treat them as lower risk. Researchers estimated that correcting the bias would dramatically increase the proportion of Black patients identified for additional support. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/science.aax2342" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">find evidence of racial bias in one widely used algorithm, such that Black patients assigned the same level of risk by the algorithm are...</span></span></span>
+A famous example came from a widely used healthcare risk algorithm studied by Ziad Obermeyer and colleagues. The system attempted to identify patients needing additional care management. Instead of predicting illness directly, it used future healthcare spending as a proxy for health need. Because Black patients historically received less medical spending for equivalent illness levels, the algorithm learned to treat them as lower risk. Researchers estimated that correcting the bias would dramatically increase the proportion of Black patients identified for additional support.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/science.aax2342" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">find evidence of racial bias in one widely used algorithm, such that Black patients assigned the same level of risk by the algorithm are...</span></span></span>
 
 The algorithm was not explicitly programmed to discriminate. The bias emerged because historical spending patterns reflected unequal healthcare access.
 
@@ -346,11 +346,11 @@ The problem extends beyond healthcare records.
 
 Many medical imaging datasets contain far more examples from certain populations than others. Dermatology has become a frequently cited example because skin conditions can appear differently across skin tones.
 
-Researchers have warned that machine-learning systems trained predominantly on lighter-skinned patients may perform less reliably for darker-skinned populations. Underrepresentation in dermatological datasets creates a risk that algorithms will miss or misclassify conditions that present differently across diverse populations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.probiologists.com/article/racial-underrepresentation-in-dermatological-datasets-leads-to-biased-machine-learning-models-and-inequitable-healthcare" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: probiologists.com">[probiologists.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">probiologists.com</span><span class="citation-popover-snippet">Journal of Biomed Researchby G Kleinberg · 2022 · Cited by 62 — This review explores the extent, causes, possible solutions, and overall...</span></span></span>
+Researchers have warned that machine-learning systems trained predominantly on lighter-skinned patients may perform less reliably for darker-skinned populations. Underrepresentation in dermatological datasets creates a risk that algorithms will miss or misclassify conditions that present differently across diverse populations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.probiologists.com/article/racial-underrepresentation-in-dermatological-datasets-leads-to-biased-machine-learning-models-and-inequitable-healthcare" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: probiologists.com">[probiologists.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">probiologists.com</span><span class="citation-popover-snippet">Journal of Biomed Researchby G Kleinberg · 2022 · Cited by 62 — This review explores the extent, causes, possible solutions, and overall...</span></span></span>
 
 Genomic medicine faces related challenges.
 
-Large genetic databases remain heavily weighted toward people of European ancestry. As a result, predictive tools built from those datasets may generalise less effectively to other populations. Reviews of medical-device and health-equity research have repeatedly highlighted this concern, especially for polygenic risk scores that attempt to estimate future disease risk from genetic information. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2589750025000032" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Weighing the benefits and risks of collecting race...by A Fiske · 2025 · Cited by 13 — This Viewpoint weighs the risks of c...</span></span></span>
+Large genetic databases remain heavily weighted toward people of European ancestry. As a result, predictive tools built from those datasets may generalise less effectively to other populations. Reviews of medical-device and health-equity research have repeatedly highlighted this concern, especially for polygenic risk scores that attempt to estimate future disease risk from genetic information.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2589750025000032" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Weighing the benefits and risks of collecting race...by A Fiske · 2025 · Cited by 13 — This Viewpoint weighs the risks of c...</span></span></span>
 
 These examples reveal a recurring pattern: when representation gaps exist in the underlying data, prediction gaps often follow.
 
@@ -364,11 +364,11 @@ In reality, average performance can conceal substantial differences between grou
 
 Imagine a diagnostic model that achieves 95% accuracy overall. That figure sounds impressive. But if performance is 98% for one population and 85% for another, the average masks a clinically important disparity.
 
-Researchers increasingly argue that healthcare AI should be evaluated not only on aggregate performance but also on subgroup outcomes. This includes examining results across race, sex, age, socioeconomic status, disability, language background, and combinations of those characteristics. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8515002/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAddressing bias in big data and AI for health care</span><span class="citation-popover-snippet">This can result in misdiagnosing certain...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S2589750025000032" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Weighing the benefits and risks of collecting race...by A Fiske · 2025 · Cited by 13 — This Viewpoint weighs the risks of c...</span></span></span>
+Researchers increasingly argue that healthcare AI should be evaluated not only on aggregate performance but also on subgroup outcomes. This includes examining results across race, sex, age, socioeconomic status, disability, language background, and combinations of those characteristics.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8515002/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAddressing bias in big data and AI for health care</span><span class="citation-popover-snippet">This can result in misdiagnosing certain...Read more...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S2589750025000032" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Weighing the benefits and risks of collecting race...by A Fiske · 2025 · Cited by 13 — This Viewpoint weighs the risks of c...</span></span></span>
 
 Intersectional analysis is especially important.
 
-The 2021 chest X-ray study found some of the highest underdiagnosis rates in intersectional groups that combined multiple forms of disadvantage. More recent research on medical imaging foundation models reported similar patterns, with elevated underdiagnosis rates for groups such as Black women compared with broader population averages. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">First published in 1869, Nature is the world&#x27;s leading multidisciplinary science journal. Nature publishes the finest peer-reviewed...</span></span></span>
+The 2021 chest X-ray study found some of the highest underdiagnosis rates in intersectional groups that combined multiple forms of disadvantage. More recent research on medical imaging foundation models reported similar patterns, with elevated underdiagnosis rates for groups such as Black women compared with broader population averages.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">First published in 1869, Nature is the world&#x27;s leading multidisciplinary science journal. Nature publishes the finest peer-reviewed...</span></span></span>
 
 A model may therefore appear equitable when comparing broad categories while still failing particular subpopulations.
 
@@ -377,7 +377,7 @@ A model may therefore appear equitable when comparing broad categories while sti
 
 One lesson from recent research is that fairness cannot be treated as a final quality-[control]({{ 'control/' | relative_url }}) step.
 
-Researchers increasingly recommend testing for unequal outcomes throughout development and deployment rather than after a system reaches clinical use. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2589750025000032" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Weighing the benefits and risks of collecting race...by A Fiske · 2025 · Cited by 13 — This Viewpoint weighs the risks of c...</span></span></span>
+Researchers increasingly recommend testing for unequal outcomes throughout development and deployment rather than after a system reaches clinical use.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2589750025000032" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Weighing the benefits and risks of collecting race...by A Fiske · 2025 · Cited by 13 — This Viewpoint weighs the risks of c...</span></span></span>
 
 Several approaches are becoming more common:
 
@@ -385,19 +385,19 @@ Several approaches are becoming more common:
 
 Instead of reporting only overall accuracy, developers examine false-positive and false-negative rates for different populations.
 
-This helps identify situations where one group experiences substantially more missed diagnoses than another. The chest X-ray underdiagnosis studies are examples of this approach. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41467-024-52003-3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">more...</span></span></span>
+This helps identify situations where one group experiences substantially more missed diagnoses than another. The chest X-ray underdiagnosis studies are examples of this approach.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41467-024-52003-3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">more...</span></span></span>
 
 ### Testing on multiple datasets
 
 Models often perform well on the institution where they were trained but degrade elsewhere.
 
-Evaluating systems across hospitals, regions, and patient populations can reveal whether apparent performance depends on narrow training conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0000022" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">Sources of bias in artificial intelligence that perpetuate...by LA Celi · 2022 · Cited by 614 — Here, we describe the landscape of A...</span></span></span>
+Evaluating systems across hospitals, regions, and patient populations can reveal whether apparent performance depends on narrow training conditions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0000022" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">Sources of bias in artificial intelligence that perpetuate...by LA Celi · 2022 · Cited by 614 — Here, we describe the landscape of A...</span></span></span>
 
 ### Improving dataset diversity
 
 Researchers increasingly argue that better representation during data collection is one of the most important fairness interventions.
 
-That may involve recruiting more diverse participants, collecting data from underserved regions, or ensuring that demographic information is available for auditing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2589750025000032" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Weighing the benefits and risks of collecting race...by A Fiske · 2025 · Cited by 13 — This Viewpoint weighs the risks of c...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S2589750024002243" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Tackling algorithmic bias and promoting transparency in...by JE Alderman · 2025 · Cited by 157 — Biases in the outputs of a...</span></span></span>
+That may involve recruiting more diverse participants, collecting data from underserved regions, or ensuring that demographic information is available for auditing.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2589750025000032" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Weighing the benefits and risks of collecting race...by A Fiske · 2025 · Cited by 13 — This Viewpoint weighs the risks of c...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S2589750024002243" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Tackling algorithmic bias and promoting transparency in...by JE Alderman · 2025 · Cited by 157 — Biases in the outputs of a...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/B9ODkoaP3EM" title="Addressing Algorithmic Bias: Fostering Fair and Inclusive Healthcare - Marija Siddik - WTM24" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=B9ODkoaP3EM" target="_blank" rel="noopener noreferrer">Addressing Algorithmic Bias: Fostering Fair and Inclusive Healthcare - Marija Siddik - WTM24</a></p><p class="youtube-embed-meta">Channel: Women Techmakers Belfast &middot; Views: 128 &middot; Uploaded: July 2024 &middot; Length: 29 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=B9ODkoaP3EM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=B9ODkoaP3EM">Open on YouTube</a></p></div></div></div>
 
@@ -405,7 +405,7 @@ That may involve recruiting more diverse participants, collecting data from unde
 
 Bias may emerge only after systems are introduced into real clinical environments.
 
-Healthcare populations change over time, disease patterns shift, and hospital workflows evolve. Ongoing monitoring can identify performance drift that was not visible during development. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9931338/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCSources of bias in artificial intelligence that perpetuate</span><span class="citation-popover-snippet">by LA Celi · 2022 · Cited by 610 — The lack of diverse digital datasets for ML algorithms can amplify systematic underrepresentation o...</span></span></span>
+Healthcare populations change over time, disease patterns shift, and hospital workflows evolve. Ongoing monitoring can identify performance drift that was not visible during development.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9931338/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCSources of bias in artificial intelligence that perpetuate</span><span class="citation-popover-snippet">by LA Celi · 2022 · Cited by 610 — The lack of diverse digital datasets for ML algorithms can amplify systematic underrepresentation o...</span></span></span>
 
 ## The deeper challenge for an AI longevity future
 
@@ -419,197 +419,197 @@ This matters directly to the wider question of AI-guided [longevity]({{ 'longevi
 
 That outcome is not inevitable. Better datasets, stronger auditing, transparent reporting, fairness testing, and broader healthcare access can reduce the risk. But the evidence from chest X-ray systems, healthcare risk algorithms, dermatology datasets, and genomic prediction tools suggests that unequal representation is not a peripheral technical issue.
 
-It is one of the mechanisms through which a technology designed to extend healthy life could end up extending it unevenly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2589750025000032" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Weighing the benefits and risks of collecting race...by A Fiske · 2025 · Cited by 13 — This Viewpoint weighs the risks of c...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41746-025-01503-7" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Bias recognition and mitigation strategies in artificial...by F Hasanzadeh · 2025 · Cited by 253 — This review examines the origins of b...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/34893776/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">bias of artificial intelligence algorithms...by L Seyyed-Kalantari · 2021 · Cited by 1051 — Here, we examine algorithmic underdiagnosis...</span></span></span>
+It is one of the mechanisms through which a technology designed to extend healthy life could end up extending it unevenly.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2589750025000032" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Weighing the benefits and risks of collecting race...by A Fiske · 2025 · Cited by 13 — This Viewpoint weighs the risks of c...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41746-025-01503-7" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Bias recognition and mitigation strategies in artificial...by F Hasanzadeh · 2025 · Cited by 253 — This review examines the origins of b...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/34893776/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">bias of artificial intelligence algorithms...by L Seyyed-Kalantari · 2021 · Cited by 1051 — Here, we examine algorithmic underdiagnosis...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Who gets missed by medical AI?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Who gets missed by medical AI?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Algorithms+of+Oppression+by+Safiya+Umoja+Noble&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Algorithms of Oppression on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=g8OSDgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Algorithms of Oppression" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Algorithms+of+Oppression+by+Safiya+Umoja+Noble&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Algorithms of Oppression">Algorithms of Oppression</a>
-        </h4>
-        <p class="fr-book-author">By Safiya Umoja Noble</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Algorithms+of+Oppression+by+Safiya+Umoja+Noble&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Algorithms of Oppression on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=g8OSDgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Algorithms of Oppression" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Algorithms+of+Oppression+by+Safiya+Umoja+Noble&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Algorithms of Oppression">Algorithms of Oppression</a>
+</h4>
+<p class="fr-book-author">By Safiya Umoja Noble</p>
         
-        <p class="fr-book-desc">Frames how data systems can reproduce inequality.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Algorithms+of+Oppression+by+Safiya+Umoja+Noble&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Frames how data systems can reproduce inequality.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Algorithms+of+Oppression+by+Safiya+Umoja+Noble&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Invisible+Women+by+Caroline+Criado+Perez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Invisible Women on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=MKZYDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Invisible Women" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Invisible+Women+by+Caroline+Criado+Perez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Invisible Women">Invisible Women</a>
-        </h4>
-        <p class="fr-book-author">By Caroline Criado Perez</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Invisible+Women+by+Caroline+Criado+Perez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Invisible Women on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=MKZYDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Invisible Women" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Invisible+Women+by+Caroline+Criado+Perez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Invisible Women">Invisible Women</a>
+</h4>
+<p class="fr-book-author">By Caroline Criado Perez</p>
         
-        <p class="fr-book-desc">Explains how missing data can produce harmful design and policy failures.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Invisible+Women+by+Caroline+Criado+Perez&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how missing data can produce harmful design and policy failures.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Invisible+Women+by+Caroline+Criado+Perez&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Deep+Medicine+by+Eric+Topol&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Deep Medicine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_EFlDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Deep Medicine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Deep+Medicine+by+Eric+Topol&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Deep Medicine">Deep Medicine</a>
-        </h4>
-        <p class="fr-book-author">By Eric Topol</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Deep+Medicine+by+Eric+Topol&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Deep Medicine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_EFlDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Deep Medicine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Deep+Medicine+by+Eric+Topol&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Deep Medicine">Deep Medicine</a>
+</h4>
+<p class="fr-book-author">By Eric Topol</p>
         
-        <p class="fr-book-desc">Explains the promise and risks of AI in clinical care.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Deep+Medicine+by+Eric+Topol&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains the promise and risks of AI in clinical care.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Deep+Medicine+by+Eric+Topol&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Weapons+of+Math+Destruction+by+Cathy+O%27Neil&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Weapons of Math Destruction on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CxD-DAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Weapons of Math Destruction" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Weapons+of+Math+Destruction+by+Cathy+O%27Neil&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Weapons of Math Destruction">Weapons of Math Destruction</a>
-        </h4>
-        <p class="fr-book-author">By Cathy O&#x27;Neil</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Weapons+of+Math+Destruction+by+Cathy+O%27Neil&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Weapons of Math Destruction on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CxD-DAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Weapons of Math Destruction" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Weapons+of+Math+Destruction+by+Cathy+O%27Neil&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Weapons of Math Destruction">Weapons of Math Destruction</a>
+</h4>
+<p class="fr-book-author">By Cathy O&#x27;Neil</p>
         
-        <p class="fr-book-desc">Directly relevant to hidden bias and unequal algorithmic outcomes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Weapons+of+Math+Destruction+by+Cathy+O%27Neil&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly relevant to hidden bias and unequal algorithmic outcomes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Weapons+of+Math+Destruction+by+Cathy+O%27Neil&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Algorithms+of+Oppression&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Algorithms of Oppression</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Invisible+Women&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Invisible Women</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Deep+Medicine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Deep Medicine</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Algorithms+of+Oppression&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Algorithms of Oppression</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Invisible+Women&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Invisible Women</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Deep+Medicine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Deep Medicine</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-missed-by-medical-ai-medical-ai-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical AI poster" data-ebay-reference="who-gets-missed-by-medical-ai-medical-ai-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Soviet Russian Poster First Aid Medical Kit AI Army Forces, Military AV 18x24&quot;"><img src="https://i.ebayimg.com/images/g/YaIAAOSwnDdho66g/s-l225.jpg" alt="Listing image for Soviet Russian Poster First Aid Medical Kit AI Army Forces, Military AV 18x24&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-missed-by-medical-ai-medical-ai-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical AI poster" data-ebay-reference="who-gets-missed-by-medical-ai-medical-ai-poster" target="_blank" rel="sponsored noopener noreferrer">Soviet Russian Poster First Aid Medical Kit AI Army Forces, Military AV 18x24&quot;</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-missed-by-medical-ai-medical-ai-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical AI poster" data-ebay-reference="who-gets-missed-by-medical-ai-medical-ai-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical AI poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: medical AI poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-missed-by-medical-ai-medical-ai-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical AI poster" data-ebay-reference="who-gets-missed-by-medical-ai-medical-ai-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-missed-by-medical-ai-medical-ai-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical AI poster" data-ebay-reference="who-gets-missed-by-medical-ai-medical-ai-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Soviet Russian Poster First Aid Medical Kit AI Army Forces, Military AV 18x24&quot;"><img src="https://i.ebayimg.com/images/g/YaIAAOSwnDdho66g/s-l225.jpg" alt="Listing image for Soviet Russian Poster First Aid Medical Kit AI Army Forces, Military AV 18x24&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-missed-by-medical-ai-medical-ai-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical AI poster" data-ebay-reference="who-gets-missed-by-medical-ai-medical-ai-poster" target="_blank" rel="sponsored noopener noreferrer">Soviet Russian Poster First Aid Medical Kit AI Army Forces, Military AV 18x24&quot;</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-missed-by-medical-ai-medical-ai-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical AI poster" data-ebay-reference="who-gets-missed-by-medical-ai-medical-ai-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical AI poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: medical AI poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-missed-by-medical-ai-medical-ai-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical AI poster" data-ebay-reference="who-gets-missed-by-medical-ai-medical-ai-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-missed-by-medical-ai-medical-ai-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical AI poster" data-ebay-reference="who-gets-missed-by-medical-ai-medical-ai-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Soviet Poster ORIGINAL First Aid kit Medical AI-2 NBC Chernobyl stalker USSR"><img src="https://i.ebayimg.com/images/g/zqYAAOSwtPReNyg8/s-l225.jpg" alt="Listing image for Soviet Poster ORIGINAL First Aid kit Medical AI-2 NBC Chernobyl stalker USSR" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-missed-by-medical-ai-medical-ai-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical AI poster" data-ebay-reference="who-gets-missed-by-medical-ai-medical-ai-poster" target="_blank" rel="sponsored noopener noreferrer">Soviet Poster ORIGINAL First Aid kit Medical AI-2 NBC Chernobyl stalker USSR</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-missed-by-medical-ai-medical-ai-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical AI poster" data-ebay-reference="who-gets-missed-by-medical-ai-medical-ai-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical AI poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: medical AI poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-missed-by-medical-ai-medical-ai-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical AI poster" data-ebay-reference="who-gets-missed-by-medical-ai-medical-ai-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-missed-by-medical-ai-medical-ai-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical AI poster" data-ebay-reference="who-gets-missed-by-medical-ai-medical-ai-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Soviet Poster ORIGINAL First Aid kit Medical AI-2 NBC Chernobyl stalker USSR"><img src="https://i.ebayimg.com/images/g/zqYAAOSwtPReNyg8/s-l225.jpg" alt="Listing image for Soviet Poster ORIGINAL First Aid kit Medical AI-2 NBC Chernobyl stalker USSR" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-missed-by-medical-ai-medical-ai-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical AI poster" data-ebay-reference="who-gets-missed-by-medical-ai-medical-ai-poster" target="_blank" rel="sponsored noopener noreferrer">Soviet Poster ORIGINAL First Aid kit Medical AI-2 NBC Chernobyl stalker USSR</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-missed-by-medical-ai-medical-ai-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical AI poster" data-ebay-reference="who-gets-missed-by-medical-ai-medical-ai-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical AI poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: medical AI poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-missed-by-medical-ai-medical-ai-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical AI poster" data-ebay-reference="who-gets-missed-by-medical-ai-medical-ai-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-missed-by-medical-ai-medical-ai-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical AI poster" data-ebay-reference="who-gets-missed-by-medical-ai-medical-ai-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Soviet Russian Poster First Aid Individual Medical Kit AI Military Army 18x24&quot;"><img src="https://i.ebayimg.com/images/g/poYAAOSw1Gpho6Qv/s-l225.jpg" alt="Listing image for Soviet Russian Poster First Aid Individual Medical Kit AI Military Army 18x24&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-missed-by-medical-ai-medical-ai-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical AI poster" data-ebay-reference="who-gets-missed-by-medical-ai-medical-ai-poster" target="_blank" rel="sponsored noopener noreferrer">Soviet Russian Poster First Aid Individual Medical Kit AI Military Army 18x24&quot;</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-missed-by-medical-ai-medical-ai-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical AI poster" data-ebay-reference="who-gets-missed-by-medical-ai-medical-ai-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical AI poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: medical AI poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-missed-by-medical-ai-medical-ai-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical AI poster" data-ebay-reference="who-gets-missed-by-medical-ai-medical-ai-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-missed-by-medical-ai-medical-ai-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical AI poster" data-ebay-reference="who-gets-missed-by-medical-ai-medical-ai-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Soviet Russian Poster First Aid Individual Medical Kit AI Military Army 18x24&quot;"><img src="https://i.ebayimg.com/images/g/poYAAOSw1Gpho6Qv/s-l225.jpg" alt="Listing image for Soviet Russian Poster First Aid Individual Medical Kit AI Military Army 18x24&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-missed-by-medical-ai-medical-ai-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical AI poster" data-ebay-reference="who-gets-missed-by-medical-ai-medical-ai-poster" target="_blank" rel="sponsored noopener noreferrer">Soviet Russian Poster First Aid Individual Medical Kit AI Military Army 18x24&quot;</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-missed-by-medical-ai-medical-ai-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical AI poster" data-ebay-reference="who-gets-missed-by-medical-ai-medical-ai-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical AI poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: medical AI poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-missed-by-medical-ai-medical-ai-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical AI poster" data-ebay-reference="who-gets-missed-by-medical-ai-medical-ai-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-missed-by-medical-ai-medical-ai-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical AI poster" data-ebay-reference="who-gets-missed-by-medical-ai-medical-ai-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Soviet Russian Poster First Aid Individual Medical Kit AI Military 24x36&quot;"><img src="https://i.ebayimg.com/images/g/poYAAOSw1Gpho6Qv/s-l225.jpg" alt="Listing image for Soviet Russian Poster First Aid Individual Medical Kit AI Military 24x36&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-missed-by-medical-ai-medical-ai-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical AI poster" data-ebay-reference="who-gets-missed-by-medical-ai-medical-ai-poster" target="_blank" rel="sponsored noopener noreferrer">Soviet Russian Poster First Aid Individual Medical Kit AI Military 24x36&quot;</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-missed-by-medical-ai-medical-ai-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical AI poster" data-ebay-reference="who-gets-missed-by-medical-ai-medical-ai-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical AI poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: medical AI poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-missed-by-medical-ai-medical-ai-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical AI poster" data-ebay-reference="who-gets-missed-by-medical-ai-medical-ai-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-missed-by-medical-ai-medical-ai-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical AI poster" data-ebay-reference="who-gets-missed-by-medical-ai-medical-ai-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-missed-by-medical-ai-medical-ai-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical AI poster" data-ebay-reference="who-gets-missed-by-medical-ai-medical-ai-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Soviet Russian Poster First Aid Individual Medical Kit AI Military 24x36&quot;"><img src="https://i.ebayimg.com/images/g/poYAAOSw1Gpho6Qv/s-l225.jpg" alt="Listing image for Soviet Russian Poster First Aid Individual Medical Kit AI Military 24x36&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-missed-by-medical-ai-medical-ai-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical AI poster" data-ebay-reference="who-gets-missed-by-medical-ai-medical-ai-poster" target="_blank" rel="sponsored noopener noreferrer">Soviet Russian Poster First Aid Individual Medical Kit AI Military 24x36&quot;</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-missed-by-medical-ai-medical-ai-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical AI poster" data-ebay-reference="who-gets-missed-by-medical-ai-medical-ai-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical AI poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: medical AI poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-missed-by-medical-ai-medical-ai-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical AI poster" data-ebay-reference="who-gets-missed-by-medical-ai-medical-ai-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-missed-by-medical-ai-medical-ai-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical AI poster" data-ebay-reference="who-gets-missed-by-medical-ai-medical-ai-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -625,7 +625,7 @@ It is one of the mechanisms through which a technology designed to extend health
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -645,7 +645,7 @@ It is one of the mechanisms through which a technology designed to extend health
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -677,7 +677,7 @@ It is one of the mechanisms through which a technology designed to extend health
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -729,7 +729,7 @@ It is one of the mechanisms through which a technology designed to extend health
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -774,7 +774,7 @@ It is one of the mechanisms through which a technology designed to extend health
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -815,176 +815,176 @@ It is one of the mechanisms through which a technology designed to extend health
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCAddressing bias in big data and AI for health care  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8515002/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8515002/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>This can result in misdiagnosing certain...Read more...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8515002/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8515002/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This can result in misdiagnosing certain...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCSources of bias in artificial intelligence that perpetuate  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9931338/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9931338/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by LA Celi · 2022 · Cited by 610 — The lack of diverse digital datasets for ML algorithms can amplify systematic underrepresentation o...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9931338/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9931338/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by LA Celi · 2022 · Cited by 610 — The lack of diverse digital datasets for ML algorithms can amplify systematic underrepresentation o...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11542778/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11542778/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bias in medical AI: Implications for clinical decision-makingby JL Cross · 2024 · Cited by 535 — We discuss potential biases that can...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11542778/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11542778/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bias in medical AI: Implications for clinical decision-makingby JL Cross · 2024 · Cited by 535 — We discuss potential biases that can...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: journals.plos.org  
-   Link: <a href="https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0000022" target="_blank" rel="noopener noreferrer nofollow">https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0000022</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sources of bias in artificial intelligence that perpetuate...by LA Celi · 2022 · Cited by 614 — Here, we describe the landscape of A...</p></details>
+   Link:<a href="https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0000022" target="_blank" rel="noopener noreferrer nofollow">https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0000022</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sources of bias in artificial intelligence that perpetuate...by LA Celi · 2022 · Cited by 614 — Here, we describe the landscape of A...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41591-021-01595-0" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41591-021-01595-0</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Underdiagnosis bias of artificial intelligence algorithms...by L Seyyed-Kalantari · 2021 · Cited by 1052 — Here, we examine algori...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41591-021-01595-0" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41591-021-01595-0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Underdiagnosis bias of artificial intelligence algorithms...by L Seyyed-Kalantari · 2021 · Cited by 1052 — Here, we examine algori...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: probiologists.com  
-   Link: <a href="https://www.probiologists.com/article/racial-underrepresentation-in-dermatological-datasets-leads-to-biased-machine-learning-models-and-inequitable-healthcare" target="_blank" rel="noopener noreferrer nofollow">https://www.probiologists.com/article/racial-underrepresentation-in-dermatological-datasets-leads-to-biased-machine-learning-models-and-inequitable-healthcare</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Journal of Biomed Researchby G Kleinberg · 2022 · Cited by 62 — This review explores the extent, causes, possible solutions, and overall...</p></details>
+   Link:<a href="https://www.probiologists.com/article/racial-underrepresentation-in-dermatological-datasets-leads-to-biased-machine-learning-models-and-inequitable-healthcare" target="_blank" rel="noopener noreferrer nofollow">https://www.probiologists.com/article/racial-underrepresentation-in-dermatological-datasets-leads-to-biased-machine-learning-models-and-inequitable-healthcare</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Journal of Biomed Researchby G Kleinberg · 2022 · Cited by 62 — This review explores the extent, causes, possible solutions, and overall...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2589750025000032" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2589750025000032</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Weighing the benefits and risks of collecting race...by A Fiske · 2025 · Cited by 13 — This Viewpoint weighs the risks of c...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S2589750025000032" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2589750025000032</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Weighing the benefits and risks of collecting race...by A Fiske · 2025 · Cited by 13 — This Viewpoint weighs the risks of c...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2589750024002243" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2589750024002243</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Tackling algorithmic bias and promoting transparency in...by JE Alderman · 2025 · Cited by 157 — Biases in the outputs of a...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S2589750024002243" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2589750024002243</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tackling algorithmic bias and promoting transparency in...by JE Alderman · 2025 · Cited by 157 — Biases in the outputs of a...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2514664524015674" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2514664524015674</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fairness in AI for healthcareby S Carey · 2024 · Cited by 25 — We discuss the problem of bias in healthcare and AI, and go on to highligh...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S2514664524015674" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2514664524015674</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fairness in AI for healthcareby S Carey · 2024 · Cited by 25 — We discuss the problem of bias in healthcare and AI, and go on to highligh...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41746-023-00858-z" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41746-023-00858-z</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nat. Med. 27...Read more...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41746-023-00858-z" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41746-023-00858-z</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nat. Med. 27...Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>First published in 1869, Nature is the world&#x27;s leading multidisciplinary science journal. Nature publishes the finest peer-reviewed...</p></details>
+   Link:<a href="https://www.nature.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>First published in 1869, Nature is the world&#x27;s leading multidisciplinary science journal. Nature publishes the finest peer-reviewed...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41467-024-52003-3" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41467-024-52003-3</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41467-024-52003-3" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41467-024-52003-3</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41746-025-01503-7" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41746-025-01503-7</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bias recognition and mitigation strategies in artificial...by F Hasanzadeh · 2025 · Cited by 253 — This review examines the origins of b...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41746-025-01503-7" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41746-025-01503-7</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bias recognition and mitigation strategies in artificial...by F Hasanzadeh · 2025 · Cited by 253 — This review examines the origins of b...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41591-023-02608-w" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41591-023-02608-w</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The value of standards for health datasets in artificial...by A Arora · 2023 · Cited by 353 — However, a growing body of evidence has hi...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41591-023-02608-w" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41591-023-02608-w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The value of standards for health datasets in artificial...by A Arora · 2023 · Cited by 353 — However, a growing body of evidence has hi...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41591-024-02838-6" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41591-024-02838-6</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nat. Med. 27, 2176–...Read more...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41591-024-02838-6" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41591-024-02838-6</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nat. Med. 27, 2176–...Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/d41586-019-03228-6" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/d41586-019-03228-6</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Millions of black people affected by racial bias in health-...by H Ledford · 2019 · Cited by 305 — Study reveals rampant racism in decis...</p></details>
+   Link:<a href="https://www.nature.com/articles/d41586-019-03228-6" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/d41586-019-03228-6</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Millions of black people affected by racial bias in health-...by H Ledford · 2019 · Cited by 305 — Study reveals rampant racism in decis...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1386505625002680" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1386505625002680</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bridging the digital divide: artificial intelligence as a...by A Osonuga · 2025 · Cited by 49 — This comprehensive narrative review aime...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S1386505625002680" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1386505625002680</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bridging the digital divide: artificial intelligence as a...by A Osonuga · 2025 · Cited by 49 — This comprehensive narrative review aime...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2688115225002693" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2688115225002693</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding and Addressing Bias in Artificial...by EE Abbott · 2026 · Cited by 1 — These biases, inadvertently embedded in AI algorith...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S2688115225002693" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2688115225002693</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding and Addressing Bias in Artificial...by EE Abbott · 2026 · Cited by 1 — These biases, inadvertently embedded in AI algorith...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/34893776/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/34893776/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>bias of artificial intelligence algorithms...by L Seyyed-Kalantari · 2021 · Cited by 1051 — Here, we examine algorithmic underdiagnosis...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/34893776/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/34893776/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>bias of artificial intelligence algorithms...by L Seyyed-Kalantari · 2021 · Cited by 1051 — Here, we examine algorithmic underdiagnosis...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: science.org  
-   Link: <a href="https://www.science.org/doi/10.1126/science.aax2342" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/science.aax2342</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>find evidence of racial bias in one widely used algorithm, such that Black patients assigned the same level of risk by the algorithm are...</p></details>
+   Link:<a href="https://www.science.org/doi/10.1126/science.aax2342" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/science.aax2342</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>find evidence of racial bias in one widely used algorithm, such that Black patients assigned the same level of risk by the algorithm are...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/31649194/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/31649194/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>racial bias in an algorithm used to manage the...by Z Obermeyer · 2019 · Cited by 9128 — We show that a widely used algorithm, typical o...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/31649194/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/31649194/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>racial bias in an algorithm used to manage the...by Z Obermeyer · 2019 · Cited by 9128 — We show that a widely used algorithm, typical o...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/39488857/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/39488857/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI in healthcare exacerbates ethnic and racial disparitiesby SA Hussain · 2025 · Cited by 52 — This scoping review examined racial and et...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/39488857/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/39488857/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI in healthcare exacerbates ethnic and racial disparitiesby SA Hussain · 2025 · Cited by 52 — This scoping review examined racial and et...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: Wikipedia  
    Title: Artificial intelligence  
-   Link: <a href="https://en.wikipedia.org/wiki/Artificial_intelligence" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Artificial_intelligence</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Artificial intelligenceArtificial intelligence (AI) is the capability of computational systems to perform tasks typically associated w...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Artificial_intelligence" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Artificial_intelligence</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Artificial intelligenceArtificial intelligence (AI) is the capability of computational systems to perform tasks typically associated w...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: x.com  
-   Link: <a href="https://x.com/NatureMedicine/status/1474047774417211401" target="_blank" rel="noopener noreferrer nofollow">https://x.com/NatureMedicine/status/1474047774417211401</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>#AI algorithms trained using chest...23 Dec 2021 — #AI algorithms trained using chest X-rays consistently underdiagnose pulmonary abnorm...</p></details>
+   Link:<a href="https://x.com/NatureMedicine/status/1474047774417211401" target="_blank" rel="noopener noreferrer nofollow">https://x.com/NatureMedicine/status/1474047774417211401</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>#AI algorithms trained using chest...23 Dec 2021 — #AI algorithms trained using chest X-rays consistently underdiagnose pulmonary abnorm...</p></details>
 
 ### Additional References
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: onwork.edu.au  
-   Link: <a href="https://onwork.edu.au/bibitem/2019-Obermeyer%2CZiad-Powers%2CBrian-etal-Dissecting%2Bracial%2Bbias%2Bin%2Ban%2Balgorithm%2Bused%2Bto%2Bmanage%2Bthe%2Bhealth%2Bof%2Bpopulations/" target="_blank" rel="noopener noreferrer nofollow">https://onwork.edu.au/bibitem/2019-Obermeyer%2CZiad-Powers%2CBrian-etal-Dissecting%2Bracial%2Bbias%2Bin%2Ban%2Balgorithm%2Bused%2Bto%2Bmanage%2Bthe%2Bhealth%2Bof%2Bpopulations/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dissecting racial bias in an algorithm used to manage the...by Z Obermeyer · 2019 · Cited by 9304 — We show that a widely used algorithm...</p></details>
+   Link:<a href="https://onwork.edu.au/bibitem/2019-Obermeyer%2CZiad-Powers%2CBrian-etal-Dissecting%2Bracial%2Bbias%2Bin%2Ban%2Balgorithm%2Bused%2Bto%2Bmanage%2Bthe%2Bhealth%2Bof%2Bpopulations/" target="_blank" rel="noopener noreferrer nofollow">https://onwork.edu.au/bibitem/2019-Obermeyer%2CZiad-Powers%2CBrian-etal-Dissecting%2Bracial%2Bbias%2Bin%2Ban%2Balgorithm%2Bused%2Bto%2Bmanage%2Bthe%2Bhealth%2Bof%2Bpopulations/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dissecting racial bias in an algorithm used to manage the...by Z Obermeyer · 2019 · Cited by 9304 — We show that a widely used algorithm...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/356949367_Underdiagnosis_bias_of_artificial_intelligence_algorithms_applied_to_chest_radiographs_in_under-served_patient_populations" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/356949367_Underdiagnosis_bias_of_artificial_intelligence_algorithms_applied_to_chest_radiographs_in_under-served_patient_populations</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Underdiagnosis bias of artificial intelligence algorithms...10 Dec 2021 — Here, we examine algorithmic underdiagnosis in chest X-ray pat...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/356949367_Underdiagnosis_bias_of_artificial_intelligence_algorithms_applied_to_chest_radiographs_in_under-served_patient_populations" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/356949367_Underdiagnosis_bias_of_artificial_intelligence_algorithms_applied_to_chest_radiographs_in_under-served_patient_populations</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Underdiagnosis bias of artificial intelligence algorithms...10 Dec 2021 — Here, we examine algorithmic underdiagnosis in chest X-ray pat...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/jacreator_aiengineering-responsibleai-fairnessinml-activity-7436094639964573696-5JaE" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/jacreator_aiengineering-responsibleai-fairnessinml-activity-7436094639964573696-5JaE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Underdiagnosis Bias in Chest X-rays: Fairness...Spent the last few week diving deep into one of the most important fairness papers in...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/jacreator_aiengineering-responsibleai-fairnessinml-activity-7436094639964573696-5JaE" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/jacreator_aiengineering-responsibleai-fairnessinml-activity-7436094639964573696-5JaE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI Underdiagnosis Bias in Chest X-rays: Fairness...Spent the last few week diving deep into one of the most important fairness papers in...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: partners4healthequity.org  
-   Link: <a href="https://www.partners4healthequity.org/resource-library/racial-bias-found-major-health-care-risk-algorithm" target="_blank" rel="noopener noreferrer nofollow">https://www.partners4healthequity.org/resource-library/racial-bias-found-major-health-care-risk-algorithm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Racial bias found in a major health care risk algorithmA study published Thursday in Science has found that a health care risk-prediction...</p></details>
+   Link:<a href="https://www.partners4healthequity.org/resource-library/racial-bias-found-major-health-care-risk-algorithm" target="_blank" rel="noopener noreferrer nofollow">https://www.partners4healthequity.org/resource-library/racial-bias-found-major-health-care-risk-algorithm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Racial bias found in a major health care risk algorithmA study published Thursday in Science has found that a health care risk-prediction...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: delfina.com  
-   Link: <a href="https://www.delfina.com/resource/racial-bias-in-healthcare-ai-applications" target="_blank" rel="noopener noreferrer nofollow">https://www.delfina.com/resource/racial-bias-in-healthcare-ai-applications</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Racial bias in healthcare AI applicationsRacial bias in algorithms results from the use of clinical data that encodes racial inequities i...</p></details>
+   Link:<a href="https://www.delfina.com/resource/racial-bias-in-healthcare-ai-applications" target="_blank" rel="noopener noreferrer nofollow">https://www.delfina.com/resource/racial-bias-in-healthcare-ai-applications</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Racial bias in healthcare AI applicationsRacial bias in algorithms results from the use of clinical data that encodes racial inequities i...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: rrapp.spia.princeton.edu  
-   Link: <a href="https://rrapp.spia.princeton.edu/an-algorithm-designed-to-predict-health-care-costs-as-a-proxy-for-health-needs-critically-underestimates-the-needs-of-black-patients-with-life-threatening-consequences/" target="_blank" rel="noopener noreferrer nofollow">https://rrapp.spia.princeton.edu/an-algorithm-designed-to-predict-health-care-costs-as-a-proxy-for-health-needs-critically-underestimates-the-needs-of-black-patients-with-life-threatening-consequences/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>risk, automating racism - RRAPP11 Oct 2020 — An algorithm designed to predict health care costs as a proxy for health needs critically un...</p></details>
+   Link:<a href="https://rrapp.spia.princeton.edu/an-algorithm-designed-to-predict-health-care-costs-as-a-proxy-for-health-needs-critically-underestimates-the-needs-of-black-patients-with-life-threatening-consequences/" target="_blank" rel="noopener noreferrer nofollow">https://rrapp.spia.princeton.edu/an-algorithm-designed-to-predict-health-care-costs-as-a-proxy-for-health-needs-critically-underestimates-the-needs-of-black-patients-with-life-threatening-consequences/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>risk, automating racism - RRAPP11 Oct 2020 — An algorithm designed to predict health care costs as a proxy for health needs critically un...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: racismandtechnology.center  
-   Link: <a href="https://racismandtechnology.center/2023/02/18/racist-technology-in-action-the-underdiagnosis-bias-in-ai-algorithms-for-health-chest-radiographs/" target="_blank" rel="noopener noreferrer nofollow">https://racismandtechnology.center/2023/02/18/racist-technology-in-action-the-underdiagnosis-bias-in-ai-algorithms-for-health-chest-radiographs/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The “underdiagnosis bias” in AI algorithms for health...Feb 18, 2023 — The authors conducted a systematic study of underdiagnosis bias o...</p></details>
+   Link:<a href="https://racismandtechnology.center/2023/02/18/racist-technology-in-action-the-underdiagnosis-bias-in-ai-algorithms-for-health-chest-radiographs/" target="_blank" rel="noopener noreferrer nofollow">https://racismandtechnology.center/2023/02/18/racist-technology-in-action-the-underdiagnosis-bias-in-ai-algorithms-for-health-chest-radiographs/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The “underdiagnosis bias” in AI algorithms for health...Feb 18, 2023 — The authors conducted a systematic study of underdiagnosis bias o...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: journalistsresource.org  
-   Link: <a href="https://journalistsresource.org/home/research-artificial-intelligence-can-fuel-racial-bias-in-health-care-but-can-mitigate-it-too/" target="_blank" rel="noopener noreferrer nofollow">https://journalistsresource.org/home/research-artificial-intelligence-can-fuel-racial-bias-in-health-care-but-can-mitigate-it-too/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Artificial intelligence exacerbates and mitigates racial bias...Jul 11, 2022 — Several studies show it can also propagate racial biases...</p></details>
+   Link:<a href="https://journalistsresource.org/home/research-artificial-intelligence-can-fuel-racial-bias-in-health-care-but-can-mitigate-it-too/" target="_blank" rel="noopener noreferrer nofollow">https://journalistsresource.org/home/research-artificial-intelligence-can-fuel-racial-bias-in-health-care-but-can-mitigate-it-too/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Artificial intelligence exacerbates and mitigates racial bias...Jul 11, 2022 — Several studies show it can also propagate racial biases...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: healthyml.org  
-   Link: <a href="https://healthyml.org/publication/seyyed-2021-underdiagnosis/" target="_blank" rel="noopener noreferrer nofollow">https://healthyml.org/publication/seyyed-2021-underdiagnosis/</a>  
+   Link:<a href="https://healthyml.org/publication/seyyed-2021-underdiagnosis/" target="_blank" rel="noopener noreferrer nofollow">https://healthyml.org/publication/seyyed-2021-underdiagnosis/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: rrapp.spia.princeton.edu  
-   Link: <a href="https://rrapp.spia.princeton.edu/algorithms-can-replicate-or-remedy-racial-biases-in-healthcare-resource-allocation/" target="_blank" rel="noopener noreferrer nofollow">https://rrapp.spia.princeton.edu/algorithms-can-replicate-or-remedy-racial-biases-in-healthcare-resource-allocation/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>14 Oct 2020 — A healthcare algorithm trained on cost data to predict patients&#x27; health risk score were found to demonstrate algorithm...</p></details>
+   Link:<a href="https://rrapp.spia.princeton.edu/algorithms-can-replicate-or-remedy-racial-biases-in-healthcare-resource-allocation/" target="_blank" rel="noopener noreferrer nofollow">https://rrapp.spia.princeton.edu/algorithms-can-replicate-or-remedy-racial-biases-in-healthcare-resource-allocation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>14 Oct 2020 — A healthcare algorithm trained on cost data to predict patients&#x27; health risk score were found to demonstrate algorithm...</p></details>

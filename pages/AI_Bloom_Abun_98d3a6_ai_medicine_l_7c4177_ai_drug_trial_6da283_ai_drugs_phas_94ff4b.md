@@ -272,7 +272,7 @@ image: /assets/images/AI_Bloom_Abun_98d3a6_ai_medicine_l_7c4177_ai_drug_trial_6d
 AI can now generate drug candidates far faster than traditional pharmaceutical research. Systems trained on biological data can identify targets, propose molecules and predict chemical behaviour in months rather than years. That speed has helped make AI-assisted drug [discovery]({{ 'discovery/' | relative_url }}) one of the most concrete examples behind the broader idea that advanced AI could accelerate science and eventually extend healthy human life.
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_medicine_l_7c4177_ai_drug_trial_6da283_ai_drugs_phas_94ff4b-Illustration-1-dark.svg" | relative_url }}" alt="Phase 2 illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_medicine_l_7c4177_ai_drug_trial_6da283_ai_drugs_phas_94ff4b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_medicine_l_7c4177_ai_drug_trial_6da283_ai_drugs_phas_94ff4b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-But phase 2 clinical trials remain a harsh reality check. This is the stage where a drug must show that it genuinely helps patients with a disease, not merely that it looks promising in a laboratory or appears safe in a small early study. Many AI-designed medicines reach this point carrying impressive computational predictions, yet they still encounter the same obstacle that has defeated drug candidates for decades: human biology is far more complicated than the models used to represent it. Even supporters of AI-driven medicine increasingly acknowledge that faster molecule design does not automatically translate into better clinical outcomes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41591-025-03743-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Estimation of clinical trial success rates and...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0031699725075118" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Leading artificial intelligence–driven drug discovery platformsby M Dharmasivam · 2025 · Cited by 15 — No late-stage outcome...</span></span></span>
+But phase 2 clinical trials remain a harsh reality check. This is the stage where a drug must show that it genuinely helps patients with a disease, not merely that it looks promising in a laboratory or appears safe in a small early study. Many AI-designed medicines reach this point carrying impressive computational predictions, yet they still encounter the same obstacle that has defeated drug candidates for decades: human biology is far more complicated than the models used to represent it. Even supporters of AI-driven medicine increasingly acknowledge that faster molecule design does not automatically translate into better clinical outcomes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41591-025-03743-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Estimation of clinical trial success rates and...Read more...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0031699725075118" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Leading artificial intelligence–driven drug discovery platformsby M Dharmasivam · 2025 · Cited by 15 — No late-stage outcome...</span></span></span>
 
 The result is an important tension within the larger AI bloom story. If AI is eventually going to help humanity overcome disease at scale, it must do more than accelerate drug discovery. It must help medicines survive the point where theoretical biological promise meets real patients.
 
@@ -284,7 +284,7 @@ Phase 2 asks a much harder question: does the drug actually improve the disease?
 
 Typically involving dozens to hundreds of patients, phase 2 trials attempt to establish "proof of concept". Researchers must show that the treatment produces a meaningful benefit, not just a statistically interesting signal. A drug may bind perfectly to its intended target, reach the bloodstream successfully and appear safe, yet still fail because patients do not improve enough.
 
-This is one reason phase 2 has historically been a graveyard for drug development. Analyses of clinical pipelines consistently find that lack of efficacy is among the largest causes of failure, often accounting for around 40–50% of unsuccessful development programmes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11924158/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCProgress, Pitfalls, and Impact of AI‐Driven Clinical Trials</span><span class="citation-popover-snippet">by D Wilczok · 2024 · Cited by 22 — According to a BiopharmaTrend report published in April 2024, eight leading AI drug discovery comp...</span><span class="citation-popover-meta">Published: April 2024</span></span></span>
+This is one reason phase 2 has historically been a graveyard for drug development. Analyses of clinical pipelines consistently find that lack of efficacy is among the largest causes of failure, often accounting for around 40–50% of unsuccessful development programmes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11924158/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCProgress, Pitfalls, and Impact of AI‐Driven Clinical Trials</span><span class="citation-popover-snippet">by D Wilczok · 2024 · Cited by 22 — According to a BiopharmaTrend report published in April 2024, eight leading AI drug discovery comp...</span><span class="citation-popover-meta">Published: April 2024</span></span></span>
 
 For AI-designed drugs, this creates a fundamental challenge. AI often improves the front end of the process: identifying targets, screening compounds and narrowing candidate lists. Phase 2 tests whether those earlier predictions captured enough of reality to matter clinically.
 
@@ -298,7 +298,7 @@ Many diseases involve proteins, pathways or genes that clearly correlate with il
 
 A protein may be involved in disease progression without being a practical intervention point. Blocking it may produce little benefit because other biological pathways compensate for the change. The disease may simply route around the intervention.
 
-This problem existed long before AI, but AI can sometimes make it easier to discover plausible targets faster than researchers can truly validate them. A model may identify a statistically compelling relationship while still missing deeper causal biology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.causaly.com/blog/tackling-drug-discovery-inefficiencies-with-ai" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: causaly.com">[Causaly]</a><span class="citation-popover" role="note"><span class="citation-popover-source">causaly.com</span><span class="citation-popover-snippet">Tackling Drug Discovery Inefficiencies With AIMitigating clinical failures with AI. Overcoming the Toxicity Hurdle... Many precli...</span></span></span>
+This problem existed long before AI, but AI can sometimes make it easier to discover plausible targets faster than researchers can truly validate them. A model may identify a statistically compelling relationship while still missing deeper causal biology.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.causaly.com/blog/tackling-drug-discovery-inefficiencies-with-ai" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: causaly.com">[Causaly]</a><span class="citation-popover" role="note"><span class="citation-popover-source">causaly.com</span><span class="citation-popover-snippet">Tackling Drug Discovery Inefficiencies With AIMitigating clinical failures with AI. Overcoming the Toxicity Hurdle... Many precli...</span></span></span>
 
 ### Human diseases are not single-variable systems
 
@@ -319,7 +319,7 @@ Cancer, autoimmune disorders, neurodegeneration and metabolic diseases all invol
 
 A molecule may behave exactly as predicted against its target while producing little real-world benefit because the disease depends on many other factors the model did not capture.
 
-This is one reason protein structure prediction, although transformative, does not solve drug development on its own. Understanding molecular structure is different from understanding the full behaviour of a living organism. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0031699725075118" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Leading artificial intelligence–driven drug discovery platformsby M Dharmasivam · 2025 · Cited by 15 — No late-stage outcome...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S2095177925000656" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">design insights to explain the failure of drug candidates</span><span class="citation-popover-snippet">The future of pharmaceuticals: Artificial intelligence in drug...by C Fu · 2025 · Cited by 172 — Many clinical trial failur...</span></span></span>
+This is one reason protein structure prediction, although transformative, does not solve drug development on its own. Understanding molecular structure is different from understanding the full behaviour of a living organism.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0031699725075118" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Leading artificial intelligence–driven drug discovery platformsby M Dharmasivam · 2025 · Cited by 15 — No late-stage outcome...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S2095177925000656" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">design insights to explain the failure of drug candidates</span><span class="citation-popover-snippet">The future of pharmaceuticals: Artificial intelligence in drug...by C Fu · 2025 · Cited by 172 — Many clinical trial failur...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/r6R_YzTib6I" title="Can AI Rescue Failed Drugs? The Hidden Patients Inside Clinical Trials | Vin Singh, CEO, BullFrog AI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=r6R_YzTib6I" target="_blank" rel="noopener noreferrer">Can AI Rescue Failed Drugs? The Hidden Patients Inside Clinical Trials | Vin Singh, CEO, BullFrog AI</a></p><p class="youtube-embed-meta">Channel: Progress, Potential, and Possibilities &middot; Views: 2.2K &middot; Uploaded: March 2026 &middot; Length: 43 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=r6R_YzTib6I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=r6R_YzTib6I">Open on YouTube</a></p></div></div></div>
 
@@ -351,7 +351,7 @@ The drug must:
 
 </div>
 
-Many compounds that look excellent computationally fail because the body never delivers enough active drug to the right location, or because unintended effects emerge elsewhere. Researchers often group these challenges under absorption, distribution, metabolism, excretion and toxicity, sometimes abbreviated as ADMET. Poor ADMET properties remain a major cause of failure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0031699725075118" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Leading artificial intelligence–driven drug discovery platformsby M Dharmasivam · 2025 · Cited by 15 — No late-stage outcome...</span></span></span>
+Many compounds that look excellent computationally fail because the body never delivers enough active drug to the right location, or because unintended effects emerge elsewhere. Researchers often group these challenges under absorption, distribution, metabolism, excretion and toxicity, sometimes abbreviated as ADMET. Poor ADMET properties remain a major cause of failure.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0031699725075118" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Leading artificial intelligence–driven drug discovery platformsby M Dharmasivam · 2025 · Cited by 15 — No late-stage outcome...</span></span></span>
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_medicine_l_7c4177_ai_drug_trial_6da283_ai_drugs_phas_94ff4b-Illustration-2-dark.svg" | relative_url }}" alt="Phase 2 illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_medicine_l_7c4177_ai_drug_trial_6da283_ai_drugs_phas_94ff4b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_medicine_l_7c4177_ai_drug_trial_6da283_ai_drugs_phas_94ff4b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why AI does not automatically solve the clinical trial bottleneck
@@ -364,7 +364,7 @@ It is a reality problem.
 
 An AI model may correctly identify a molecule with desirable properties according to available data. Yet the available data may not contain enough information to predict how thousands of interacting biological processes will behave inside a diverse patient population.
 
-Several reviews of AI-driven drug development note that although AI has accelerated candidate generation, there is still little evidence that it has fundamentally changed late-stage clinical success rates. Some analyses explicitly note that AI-discovered drugs have so far shown phase 2 failure rates broadly similar to conventional drugs, while none has yet completed a successful phase 3 pathway leading to approval. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/d41573-025-00208-6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">By. Heather Bowling; Arianna Cocucci; Da Chen Emily Koo &amp; …Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S1359644620300052" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Key indicators of phase transition for clinical trials through...by F Feijoo · 2020 · Cited by 79 — At a very basic level, researchers h...</span></span></span>
+Several reviews of AI-driven drug development note that although AI has accelerated candidate generation, there is still little evidence that it has fundamentally changed late-stage clinical success rates. Some analyses explicitly note that AI-discovered drugs have so far shown phase 2 failure rates broadly similar to conventional drugs, while none has yet completed a successful phase 3 pathway leading to approval.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/d41573-025-00208-6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">By. Heather Bowling; Arianna Cocucci; Da Chen Emily Koo &amp; …Read more...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S1359644620300052" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Key indicators of phase transition for clinical trials through...by F Feijoo · 2020 · Cited by 79 — At a very basic level, researchers h...</span></span></span>
 
 This does not mean AI has failed. It means the easiest part of the pipeline to accelerate may not be the hardest part.
 
@@ -395,13 +395,13 @@ This creates a recurring problem in phase 2. Models may generate highly plausibl
 
 The field is beginning to produce real-world tests rather than theoretical promises.
 
-Insilico Medicine became one of the most closely watched examples after advancing its AI-designed fibrosis treatment into phase 2 trials. The company presented this as evidence that generative AI could move beyond laboratory discovery into clinical [validation]({{ 'validation/' | relative_url }}). Later reports described encouraging phase 2a findings for its fibrosis programme, though the drug still faces the longer path required to establish clinical effectiveness and regulatory approval. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Insilico_Medicine" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Insilico Medicine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Insilico MedicineThe company combines genomics, big data analysis, and deep learning for in silico drug discovery.Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Insilico_Medicine" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Insilico Medicine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Insilico MedicineThe company combines genomics, big data analysis, and deep learning for in silico drug discovery.Read more...</span></span></span>
+Insilico Medicine became one of the most closely watched examples after advancing its AI-designed fibrosis treatment into phase 2 trials. The company presented this as evidence that generative AI could move beyond laboratory discovery into clinical [validation]({{ 'validation/' | relative_url }}). Later reports described encouraging phase 2a findings for its fibrosis programme, though the drug still faces the longer path required to establish clinical effectiveness and regulatory approval.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Insilico_Medicine" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Insilico Medicine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Insilico MedicineThe company combines genomics, big data analysis, and deep learning for in silico drug discovery.Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Insilico_Medicine" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Insilico Medicine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Insilico MedicineThe company combines genomics, big data analysis, and deep learning for in silico drug discovery.Read more...</span></span></span>
 
 These programmes matter because they are among the first opportunities to answer a question that has lingered over the entire sector: does AI merely generate candidates faster, or does it generate better medicines?
 
-So far, the evidence remains incomplete. Industry reviews note that dozens of AI-discovered compounds have entered human testing, but the number that have progressed through advanced efficacy trials remains small. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9293739/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by D Sun · 2022 · Cited by 2082 — Since 40%–50% of clinical failure of drug development is due to lack of clinical efficacy, tremendou...</span></span></span>
+So far, the evidence remains incomplete. Industry reviews note that dozens of AI-discovered compounds have entered human testing, but the number that have progressed through advanced efficacy trials remains small.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9293739/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by D Sun · 2022 · Cited by 2082 — Since 40%–50% of clinical failure of drug development is due to lack of clinical efficacy, tremendou...</span></span></span>
 
-This uncertainty explains why large pharmaceutical companies continue investing heavily in AI while remaining cautious about claims of revolutionary clinical success. Partnerships involving firms such as Eli Lilly and AI-focused drug discovery companies reflect confidence that AI improves parts of the research process, but they do not yet prove that the phase 2 bottleneck has been broken. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/business/healthcare-pharmaceuticals/eli-lilly-extends-partnership-with-insilico-medicine-ai-powered-drug-discovery-2026-03-30/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">This agreement builds upon a prior partnership that began with an AI-based software licensing deal in 2023 and a research collaboration i...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/business/healthcare-pharmaceuticals/eli-lilly-sign-2-billion-deal-ai-drug-development-with-hong-kongs-insilico-2026-03-29/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">pharmaceutical giant Eli Lilly. This partnership could be valued at up to $2.75 billion, including milestone payments. The agreement gran...</span></span></span>
+This uncertainty explains why large pharmaceutical companies continue investing heavily in AI while remaining cautious about claims of revolutionary clinical success. Partnerships involving firms such as Eli Lilly and AI-focused drug discovery companies reflect confidence that AI improves parts of the research process, but they do not yet prove that the phase 2 bottleneck has been broken.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/business/healthcare-pharmaceuticals/eli-lilly-extends-partnership-with-insilico-medicine-ai-powered-drug-discovery-2026-03-30/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">This agreement builds upon a prior partnership that began with an AI-based software licensing deal in 2023 and a research collaboration i...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/business/healthcare-pharmaceuticals/eli-lilly-sign-2-billion-deal-ai-drug-development-with-hong-kongs-insilico-2026-03-29/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">pharmaceutical giant Eli Lilly. This partnership could be valued at up to $2.75 billion, including milestone payments. The agreement gran...</span></span></span>
 
 ## What would count as real progress
 
@@ -431,197 +431,197 @@ Phase 2 remains one of the clearest reminders that scientific acceleration is no
 
 AI may make it vastly easier to generate hypotheses, identify targets and design molecules. Yet the ultimate test is still whether human beings become healthier as a result. The history of drug development shows that nature is full of convincing ideas that fail when tested.
 
-That does not weaken the importance of AI in medicine. It clarifies where the real challenge lies. The future of AI-enabled health breakthroughs depends not only on building systems that can invent drugs, but on building systems that help researchers understand biology deeply enough that more of those inventions survive contact with reality. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s44386-025-00013-6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">failure rate between Phase 1 and BLA. There... AI drugs to face the same failures in the clinic as traditionally developed molecules...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7577280/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Algorithms, such as Nearest-Neighbour</span><span class="citation-popover-snippet">Artificial intelligence in drug discovery and development - PMCby D Paul · 2020 · Cited by 2415 — Even then, nine out of ten therapeut...</span></span></span>
+That does not weaken the importance of AI in medicine. It clarifies where the real challenge lies. The future of AI-enabled health breakthroughs depends not only on building systems that can invent drugs, but on building systems that help researchers understand biology deeply enough that more of those inventions survive contact with reality.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s44386-025-00013-6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">failure rate between Phase 1 and BLA. There... AI drugs to face the same failures in the clinic as traditionally developed molecules...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7577280/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Algorithms, such as Nearest-Neighbour</span><span class="citation-popover-snippet">Artificial intelligence in drug discovery and development - PMCby D Paul · 2020 · Cited by 2415 — Even then, nine out of ten therapeut...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why phase 2 breaks so many AI drugs. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why phase 2 breaks so many AI drugs. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Deep+Medicine+by+Eric+Topol&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Deep Medicine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_EFlDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Deep Medicine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Deep+Medicine+by+Eric+Topol&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Deep Medicine">Deep Medicine</a>
-        </h4>
-        <p class="fr-book-author">By Eric Topol</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Deep+Medicine+by+Eric+Topol&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Deep Medicine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_EFlDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Deep Medicine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Deep+Medicine+by+Eric+Topol&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Deep Medicine">Deep Medicine</a>
+</h4>
+<p class="fr-book-author">By Eric Topol</p>
         
-        <p class="fr-book-desc">Frames why AI-generated therapies still need rigorous proof in real patients.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Deep+Medicine+by+Eric+Topol&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Frames why AI-generated therapies still need rigorous proof in real patients.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Deep+Medicine+by+Eric+Topol&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Pharma+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Pharma on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CbzQwAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Bad Pharma" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bad+Pharma+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Pharma">Bad Pharma</a>
-        </h4>
-        <p class="fr-book-author">By Ben Goldacre</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Pharma+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Pharma on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CbzQwAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Bad Pharma" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Bad+Pharma+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Pharma">Bad Pharma</a>
+</h4>
+<p class="fr-book-author">By Ben Goldacre</p>
         
-        <p class="fr-book-desc">Explains why trial design, evidence quality and publication incentives matter for judging drug success.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bad+Pharma+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why trial design, evidence quality and publication incentives matter for judging drug success.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Bad+Pharma+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Billion-Dollar+Molecule+by+Barry+Werth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Billion-Dollar Molecule on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Pw4_sKSwizYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Billion-Dollar Molecule" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Billion-Dollar+Molecule+by+Barry+Werth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Billion-Dollar Molecule">The Billion-Dollar Molecule</a>
-        </h4>
-        <p class="fr-book-author">By Barry Werth</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Billion-Dollar+Molecule+by+Barry+Werth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Billion-Dollar Molecule on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Pw4_sKSwizYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Billion-Dollar Molecule" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Billion-Dollar+Molecule+by+Barry+Werth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Billion-Dollar Molecule">The Billion-Dollar Molecule</a>
+</h4>
+<p class="fr-book-author">By Barry Werth</p>
         
-        <p class="fr-book-desc">Shows how biological promise can collide with uncertainty, investment pressure and clinical reality.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Billion-Dollar+Molecule+by+Barry+Werth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how biological promise can collide with uncertainty, investment pressure and clinical reality.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Billion-Dollar+Molecule+by+Barry+Werth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Drug+Hunters+by+Donald+R.+Kirsch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Drug Hunters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=czyCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Drug Hunters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Drug+Hunters+by+Donald+R.+Kirsch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Drug Hunters">The Drug Hunters</a>
-        </h4>
-        <p class="fr-book-author">By Donald R. Kirsch, Ogi Ogas</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Drug+Hunters+by+Donald+R.+Kirsch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Drug Hunters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=czyCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Drug Hunters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Drug+Hunters+by+Donald+R.+Kirsch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Drug Hunters">The Drug Hunters</a>
+</h4>
+<p class="fr-book-author">By Donald R. Kirsch, Ogi Ogas</p>
         
-        <p class="fr-book-desc">Directly supports the page&#x27;s focus on why promising drug candidates struggle in human testing.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Drug+Hunters+by+Donald+R.+Kirsch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly supports the page&#x27;s focus on why promising drug candidates struggle in human testing.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Drug+Hunters+by+Donald+R.+Kirsch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Deep+Medicine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Deep Medicine</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Pharma&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Pharma</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Billion+Dollar+Molecule&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Billion Dollar Molecule</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Deep+Medicine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Deep Medicine</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Pharma&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Pharma</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Billion+Dollar+Molecule&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Billion Dollar Molecule</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phase-2-why-phase-2-breaks-so-many-ai-drugs-ai-bloom-abundance-superintelligence-and-humanity-medical-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster -book -books" data-ebay-reference="phase-2-why-phase-2-breaks-so-many-ai-drugs-ai-bloom-abundance-superintelligence-and-humanity-medical-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HUMAN ANATOMY CHIROPRACTIC EDUCATIONAL STUDENT MEDICAL POSTER PRINTS A4 A3 A2"><img src="{{ '/assets/images/marketplace-covers/a0a9999a1c91b938ba61.jpg' | relative_url }}" alt="Listing image for HUMAN ANATOMY CHIROPRACTIC EDUCATIONAL STUDENT MEDICAL POSTER PRINTS A4 A3 A2" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phase-2-why-phase-2-breaks-so-many-ai-drugs-ai-bloom-abundance-superintelligence-and-humanity-medical-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster -book -books" data-ebay-reference="phase-2-why-phase-2-breaks-so-many-ai-drugs-ai-bloom-abundance-superintelligence-and-humanity-medical-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">HUMAN ANATOMY CHIROPRACTIC EDUCATIONAL STUDENT MEDICAL POSTER PRINTS A4 A3 A2</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phase-2-why-phase-2-breaks-so-many-ai-drugs-ai-bloom-abundance-superintelligence-and-humanity-medical-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster -book -books" data-ebay-reference="phase-2-why-phase-2-breaks-so-many-ai-drugs-ai-bloom-abundance-superintelligence-and-humanity-medical-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: medical poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phase-2-why-phase-2-breaks-so-many-ai-drugs-ai-bloom-abundance-superintelligence-and-humanity-medical-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster -book -books" data-ebay-reference="phase-2-why-phase-2-breaks-so-many-ai-drugs-ai-bloom-abundance-superintelligence-and-humanity-medical-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phase-2-why-phase-2-breaks-so-many-ai-drugs-ai-bloom-abundance-superintelligence-and-humanity-medical-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster -book -books" data-ebay-reference="phase-2-why-phase-2-breaks-so-many-ai-drugs-ai-bloom-abundance-superintelligence-and-humanity-medical-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HUMAN ANATOMY CHIROPRACTIC EDUCATIONAL STUDENT MEDICAL POSTER PRINTS A4 A3 A2"><img src="{{ '/assets/images/marketplace-covers/a0a9999a1c91b938ba61.jpg' | relative_url }}" alt="Listing image for HUMAN ANATOMY CHIROPRACTIC EDUCATIONAL STUDENT MEDICAL POSTER PRINTS A4 A3 A2" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phase-2-why-phase-2-breaks-so-many-ai-drugs-ai-bloom-abundance-superintelligence-and-humanity-medical-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster -book -books" data-ebay-reference="phase-2-why-phase-2-breaks-so-many-ai-drugs-ai-bloom-abundance-superintelligence-and-humanity-medical-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">HUMAN ANATOMY CHIROPRACTIC EDUCATIONAL STUDENT MEDICAL POSTER PRINTS A4 A3 A2</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phase-2-why-phase-2-breaks-so-many-ai-drugs-ai-bloom-abundance-superintelligence-and-humanity-medical-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster -book -books" data-ebay-reference="phase-2-why-phase-2-breaks-so-many-ai-drugs-ai-bloom-abundance-superintelligence-and-humanity-medical-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: medical poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phase-2-why-phase-2-breaks-so-many-ai-drugs-ai-bloom-abundance-superintelligence-and-humanity-medical-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster -book -books" data-ebay-reference="phase-2-why-phase-2-breaks-so-many-ai-drugs-ai-bloom-abundance-superintelligence-and-humanity-medical-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phase-2-why-phase-2-breaks-so-many-ai-drugs-ai-bloom-abundance-superintelligence-and-humanity-medical-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster -book -books" data-ebay-reference="phase-2-why-phase-2-breaks-so-many-ai-drugs-ai-bloom-abundance-superintelligence-and-humanity-medical-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Foot Reflexology Poster Human Anatomy Educational Student Medical Poster A5 - A3"><img src="{{ '/assets/images/marketplace-covers/a7985f22cf7ddbd5dd27.jpg' | relative_url }}" alt="Listing image for Foot Reflexology Poster Human Anatomy Educational Student Medical Poster A5 - A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phase-2-why-phase-2-breaks-so-many-ai-drugs-ai-bloom-abundance-superintelligence-and-humanity-medical-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster -book -books" data-ebay-reference="phase-2-why-phase-2-breaks-so-many-ai-drugs-ai-bloom-abundance-superintelligence-and-humanity-medical-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Foot Reflexology Poster Human Anatomy Educational Student Medical Poster A5 - A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phase-2-why-phase-2-breaks-so-many-ai-drugs-ai-bloom-abundance-superintelligence-and-humanity-medical-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster -book -books" data-ebay-reference="phase-2-why-phase-2-breaks-so-many-ai-drugs-ai-bloom-abundance-superintelligence-and-humanity-medical-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: medical poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phase-2-why-phase-2-breaks-so-many-ai-drugs-ai-bloom-abundance-superintelligence-and-humanity-medical-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster -book -books" data-ebay-reference="phase-2-why-phase-2-breaks-so-many-ai-drugs-ai-bloom-abundance-superintelligence-and-humanity-medical-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phase-2-why-phase-2-breaks-so-many-ai-drugs-ai-bloom-abundance-superintelligence-and-humanity-medical-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster -book -books" data-ebay-reference="phase-2-why-phase-2-breaks-so-many-ai-drugs-ai-bloom-abundance-superintelligence-and-humanity-medical-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Foot Reflexology Poster Human Anatomy Educational Student Medical Poster A5 - A3"><img src="{{ '/assets/images/marketplace-covers/a7985f22cf7ddbd5dd27.jpg' | relative_url }}" alt="Listing image for Foot Reflexology Poster Human Anatomy Educational Student Medical Poster A5 - A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phase-2-why-phase-2-breaks-so-many-ai-drugs-ai-bloom-abundance-superintelligence-and-humanity-medical-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster -book -books" data-ebay-reference="phase-2-why-phase-2-breaks-so-many-ai-drugs-ai-bloom-abundance-superintelligence-and-humanity-medical-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Foot Reflexology Poster Human Anatomy Educational Student Medical Poster A5 - A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phase-2-why-phase-2-breaks-so-many-ai-drugs-ai-bloom-abundance-superintelligence-and-humanity-medical-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster -book -books" data-ebay-reference="phase-2-why-phase-2-breaks-so-many-ai-drugs-ai-bloom-abundance-superintelligence-and-humanity-medical-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: medical poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phase-2-why-phase-2-breaks-so-many-ai-drugs-ai-bloom-abundance-superintelligence-and-humanity-medical-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster -book -books" data-ebay-reference="phase-2-why-phase-2-breaks-so-many-ai-drugs-ai-bloom-abundance-superintelligence-and-humanity-medical-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phase-2-why-phase-2-breaks-so-many-ai-drugs-ai-bloom-abundance-superintelligence-and-humanity-medical-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster -book -books" data-ebay-reference="phase-2-why-phase-2-breaks-so-many-ai-drugs-ai-bloom-abundance-superintelligence-and-humanity-medical-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage St John Ambulance Medical Anatomical Wall Chart Large Poster Paper/Cloth"><img src="{{ '/assets/images/marketplace-covers/c5ddf8724b31ccb6afd1.jpg' | relative_url }}" alt="Listing image for Vintage St John Ambulance Medical Anatomical Wall Chart Large Poster Paper/Cloth" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phase-2-why-phase-2-breaks-so-many-ai-drugs-ai-bloom-abundance-superintelligence-and-humanity-medical-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster -book -books" data-ebay-reference="phase-2-why-phase-2-breaks-so-many-ai-drugs-ai-bloom-abundance-superintelligence-and-humanity-medical-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Vintage St John Ambulance Medical Anatomical Wall Chart Large Poster Paper/Cloth</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phase-2-why-phase-2-breaks-so-many-ai-drugs-ai-bloom-abundance-superintelligence-and-humanity-medical-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster -book -books" data-ebay-reference="phase-2-why-phase-2-breaks-so-many-ai-drugs-ai-bloom-abundance-superintelligence-and-humanity-medical-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: medical poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phase-2-why-phase-2-breaks-so-many-ai-drugs-ai-bloom-abundance-superintelligence-and-humanity-medical-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster -book -books" data-ebay-reference="phase-2-why-phase-2-breaks-so-many-ai-drugs-ai-bloom-abundance-superintelligence-and-humanity-medical-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phase-2-why-phase-2-breaks-so-many-ai-drugs-ai-bloom-abundance-superintelligence-and-humanity-medical-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster -book -books" data-ebay-reference="phase-2-why-phase-2-breaks-so-many-ai-drugs-ai-bloom-abundance-superintelligence-and-humanity-medical-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage St John Ambulance Medical Anatomical Wall Chart Large Poster Paper/Cloth"><img src="{{ '/assets/images/marketplace-covers/c5ddf8724b31ccb6afd1.jpg' | relative_url }}" alt="Listing image for Vintage St John Ambulance Medical Anatomical Wall Chart Large Poster Paper/Cloth" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phase-2-why-phase-2-breaks-so-many-ai-drugs-ai-bloom-abundance-superintelligence-and-humanity-medical-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster -book -books" data-ebay-reference="phase-2-why-phase-2-breaks-so-many-ai-drugs-ai-bloom-abundance-superintelligence-and-humanity-medical-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Vintage St John Ambulance Medical Anatomical Wall Chart Large Poster Paper/Cloth</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phase-2-why-phase-2-breaks-so-many-ai-drugs-ai-bloom-abundance-superintelligence-and-humanity-medical-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster -book -books" data-ebay-reference="phase-2-why-phase-2-breaks-so-many-ai-drugs-ai-bloom-abundance-superintelligence-and-humanity-medical-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: medical poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phase-2-why-phase-2-breaks-so-many-ai-drugs-ai-bloom-abundance-superintelligence-and-humanity-medical-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster -book -books" data-ebay-reference="phase-2-why-phase-2-breaks-so-many-ai-drugs-ai-bloom-abundance-superintelligence-and-humanity-medical-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phase-2-why-phase-2-breaks-so-many-ai-drugs-ai-bloom-abundance-superintelligence-and-humanity-medical-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster -book -books" data-ebay-reference="phase-2-why-phase-2-breaks-so-many-ai-drugs-ai-bloom-abundance-superintelligence-and-humanity-medical-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Human Brain Anatomy Poster Medical Doctor Anatomical Educational Poster A5-A1"><img src="{{ '/assets/images/marketplace-covers/d252c9d704756e344b96.jpg' | relative_url }}" alt="Listing image for Human Brain Anatomy Poster Medical Doctor Anatomical Educational Poster A5-A1" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phase-2-why-phase-2-breaks-so-many-ai-drugs-ai-bloom-abundance-superintelligence-and-humanity-medical-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster -book -books" data-ebay-reference="phase-2-why-phase-2-breaks-so-many-ai-drugs-ai-bloom-abundance-superintelligence-and-humanity-medical-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Human Brain Anatomy Poster Medical Doctor Anatomical Educational Poster A5-A1</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phase-2-why-phase-2-breaks-so-many-ai-drugs-ai-bloom-abundance-superintelligence-and-humanity-medical-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster -book -books" data-ebay-reference="phase-2-why-phase-2-breaks-so-many-ai-drugs-ai-bloom-abundance-superintelligence-and-humanity-medical-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: medical poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phase-2-why-phase-2-breaks-so-many-ai-drugs-ai-bloom-abundance-superintelligence-and-humanity-medical-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster -book -books" data-ebay-reference="phase-2-why-phase-2-breaks-so-many-ai-drugs-ai-bloom-abundance-superintelligence-and-humanity-medical-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phase-2-why-phase-2-breaks-so-many-ai-drugs-ai-bloom-abundance-superintelligence-and-humanity-medical-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster -book -books" data-ebay-reference="phase-2-why-phase-2-breaks-so-many-ai-drugs-ai-bloom-abundance-superintelligence-and-humanity-medical-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phase-2-why-phase-2-breaks-so-many-ai-drugs-ai-bloom-abundance-superintelligence-and-humanity-medical-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster -book -books" data-ebay-reference="phase-2-why-phase-2-breaks-so-many-ai-drugs-ai-bloom-abundance-superintelligence-and-humanity-medical-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Human Brain Anatomy Poster Medical Doctor Anatomical Educational Poster A5-A1"><img src="{{ '/assets/images/marketplace-covers/d252c9d704756e344b96.jpg' | relative_url }}" alt="Listing image for Human Brain Anatomy Poster Medical Doctor Anatomical Educational Poster A5-A1" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phase-2-why-phase-2-breaks-so-many-ai-drugs-ai-bloom-abundance-superintelligence-and-humanity-medical-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster -book -books" data-ebay-reference="phase-2-why-phase-2-breaks-so-many-ai-drugs-ai-bloom-abundance-superintelligence-and-humanity-medical-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Human Brain Anatomy Poster Medical Doctor Anatomical Educational Poster A5-A1</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phase-2-why-phase-2-breaks-so-many-ai-drugs-ai-bloom-abundance-superintelligence-and-humanity-medical-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster -book -books" data-ebay-reference="phase-2-why-phase-2-breaks-so-many-ai-drugs-ai-bloom-abundance-superintelligence-and-humanity-medical-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: medical poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phase-2-why-phase-2-breaks-so-many-ai-drugs-ai-bloom-abundance-superintelligence-and-humanity-medical-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster -book -books" data-ebay-reference="phase-2-why-phase-2-breaks-so-many-ai-drugs-ai-bloom-abundance-superintelligence-and-humanity-medical-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phase-2-why-phase-2-breaks-so-many-ai-drugs-ai-bloom-abundance-superintelligence-and-humanity-medical-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster -book -books" data-ebay-reference="phase-2-why-phase-2-breaks-so-many-ai-drugs-ai-bloom-abundance-superintelligence-and-humanity-medical-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -637,7 +637,7 @@ That does not weaken the importance of AI in medicine. It clarifies where the re
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -657,7 +657,7 @@ That does not weaken the importance of AI in medicine. It clarifies where the re
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -689,7 +689,7 @@ That does not weaken the importance of AI in medicine. It clarifies where the re
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -741,7 +741,7 @@ That does not weaken the importance of AI in medicine. It clarifies where the re
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -786,7 +786,7 @@ That does not weaken the importance of AI in medicine. It clarifies where the re
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -827,208 +827,208 @@ That does not weaken the importance of AI in medicine. It clarifies where the re
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41591-025-03743-2" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41591-025-03743-2</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Estimation of clinical trial success rates and...Read more...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41591-025-03743-2" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41591-025-03743-2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Estimation of clinical trial success rates and...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0031699725075118" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0031699725075118</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Leading artificial intelligence–driven drug discovery platformsby M Dharmasivam · 2025 · Cited by 15 — No late-stage outcome...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0031699725075118" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0031699725075118</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Leading artificial intelligence–driven drug discovery platformsby M Dharmasivam · 2025 · Cited by 15 — No late-stage outcome...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCProgress, Pitfalls, and Impact of AI‐Driven Clinical Trials  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11924158/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11924158/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by D Wilczok · 2024 · Cited by 22 — According to a BiopharmaTrend report published in April 2024, eight leading AI drug discovery comp...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11924158/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11924158/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by D Wilczok · 2024 · Cited by 22 — According to a BiopharmaTrend report published in April 2024, eight leading AI drug discovery comp...</p></details>
    Published: April 2024  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9293739/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9293739/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by D Sun · 2022 · Cited by 2082 — Since 40%–50% of clinical failure of drug development is due to lack of clinical efficacy, tremendou...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9293739/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9293739/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by D Sun · 2022 · Cited by 2082 — Since 40%–50% of clinical failure of drug development is due to lack of clinical efficacy, tremendou...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: causaly.com  
-   Link: <a href="https://www.causaly.com/blog/tackling-drug-discovery-inefficiencies-with-ai" target="_blank" rel="noopener noreferrer nofollow">https://www.causaly.com/blog/tackling-drug-discovery-inefficiencies-with-ai</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Tackling Drug Discovery Inefficiencies With AIMitigating clinical failures with AI. Overcoming the Toxicity Hurdle... Many precli...</p></details>
+   Link:<a href="https://www.causaly.com/blog/tackling-drug-discovery-inefficiencies-with-ai" target="_blank" rel="noopener noreferrer nofollow">https://www.causaly.com/blog/tackling-drug-discovery-inefficiencies-with-ai</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tackling Drug Discovery Inefficiencies With AIMitigating clinical failures with AI. Overcoming the Toxicity Hurdle... Many precli...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: sciencedirect.com  
    Title: design insights to explain the failure of drug candidates  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2095177925000656" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2095177925000656</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The future of pharmaceuticals: Artificial intelligence in drug...by C Fu · 2025 · Cited by 172 — Many clinical trial failur...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S2095177925000656" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2095177925000656</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The future of pharmaceuticals: Artificial intelligence in drug...by C Fu · 2025 · Cited by 172 — Many clinical trial failur...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Algorithms, such as Nearest-Neighbour  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7577280/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7577280/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Artificial intelligence in drug discovery and development - PMCby D Paul · 2020 · Cited by 2415 — Even then, nine out of ten therapeut...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7577280/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7577280/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Artificial intelligence in drug discovery and development - PMCby D Paul · 2020 · Cited by 2415 — Even then, nine out of ten therapeut...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: insilico.com  
    Title: first phase2  
-   Link: <a href="https://insilico.com/blog/first_phase2" target="_blank" rel="noopener noreferrer nofollow">https://insilico.com/blog/first_phase2</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Insilico MedicineFirst Generative AI Drug Begins Phase II Trials with Patients1 Jul 2023 — Insilico Medicine has achieved a new milestone...</p></details>
+   Link:<a href="https://insilico.com/blog/first_phase2" target="_blank" rel="noopener noreferrer nofollow">https://insilico.com/blog/first_phase2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Insilico MedicineFirst Generative AI Drug Begins Phase II Trials with Patients1 Jul 2023 — Insilico Medicine has achieved a new milestone...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: insilico.com  
    Title: tnik ipf phase2a  
-   Link: <a href="https://insilico.com/news/tnik-ipf-phase2a" target="_blank" rel="noopener noreferrer nofollow">https://insilico.com/news/tnik-ipf-phase2a</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Insilico MedicineInsilico Medicine announces positive topline results of...Nov 12, 2024 — The results demonstrate that ISM001-055 is saf...</p></details>
+   Link:<a href="https://insilico.com/news/tnik-ipf-phase2a" target="_blank" rel="noopener noreferrer nofollow">https://insilico.com/news/tnik-ipf-phase2a</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Insilico MedicineInsilico Medicine announces positive topline results of...Nov 12, 2024 — The results demonstrate that ISM001-055 is saf...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: insilico.com  
    Title: tnrecuxsc1 insilico announces nature medicine publi  
-   Link: <a href="https://insilico.com/news/tnrecuxsc1-insilico-announces-nature-medicine-publi" target="_blank" rel="noopener noreferrer nofollow">https://insilico.com/news/tnrecuxsc1-insilico-announces-nature-medicine-publi</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Insilico MedicineInsilico Announces Nature Medicine Publication of Phase...3 Jun 2025 — On June 3, 2025, the industry&#x27;s first proof-of-c...</p></details>
+   Link:<a href="https://insilico.com/news/tnrecuxsc1-insilico-announces-nature-medicine-publi" target="_blank" rel="noopener noreferrer nofollow">https://insilico.com/news/tnrecuxsc1-insilico-announces-nature-medicine-publi</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Insilico MedicineInsilico Announces Nature Medicine Publication of Phase...3 Jun 2025 — On June 3, 2025, the industry&#x27;s first proof-of-c...</p></details>
    Published: June 3, 2025  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/business/healthcare-pharmaceuticals/eli-lilly-extends-partnership-with-insilico-medicine-ai-powered-drug-discovery-2026-03-30/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/healthcare-pharmaceuticals/eli-lilly-extends-partnership-with-insilico-medicine-ai-powered-drug-discovery-2026-03-30/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This agreement builds upon a prior partnership that began with an AI-based software licensing deal in 2023 and a research collaboration i...</p></details>
+   Link:<a href="https://www.reuters.com/business/healthcare-pharmaceuticals/eli-lilly-extends-partnership-with-insilico-medicine-ai-powered-drug-discovery-2026-03-30/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/healthcare-pharmaceuticals/eli-lilly-extends-partnership-with-insilico-medicine-ai-powered-drug-discovery-2026-03-30/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This agreement builds upon a prior partnership that began with an AI-based software licensing deal in 2023 and a research collaboration i...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/business/healthcare-pharmaceuticals/eli-lilly-sign-2-billion-deal-ai-drug-development-with-hong-kongs-insilico-2026-03-29/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/healthcare-pharmaceuticals/eli-lilly-sign-2-billion-deal-ai-drug-development-with-hong-kongs-insilico-2026-03-29/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>pharmaceutical giant Eli Lilly. This partnership could be valued at up to $2.75 billion, including milestone payments. The agreement gran...</p></details>
+   Link:<a href="https://www.reuters.com/business/healthcare-pharmaceuticals/eli-lilly-sign-2-billion-deal-ai-drug-development-with-hong-kongs-insilico-2026-03-29/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/healthcare-pharmaceuticals/eli-lilly-sign-2-billion-deal-ai-drug-development-with-hong-kongs-insilico-2026-03-29/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>pharmaceutical giant Eli Lilly. This partnership could be valued at up to $2.75 billion, including milestone payments. The agreement gran...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: insilico.com  
-   Link: <a href="https://insilico.com/casestudy" target="_blank" rel="noopener noreferrer nofollow">https://insilico.com/casestudy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Case Study: Insilico&#x27;s TransformationWith [Rentosertib](&amp;#123;&amp;#123; &#x27;rentosertib/&#x27; | relative_url &amp;#125;&amp;#125;) now finished Phase IIa clinical trial, this event marks the beginning of numerous m...</p></details>
+   Link:<a href="https://insilico.com/casestudy" target="_blank" rel="noopener noreferrer nofollow">https://insilico.com/casestudy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Case Study: Insilico&#x27;s TransformationWith [Rentosertib](&amp;#123;&amp;#123; &#x27;rentosertib/&#x27; | relative_url &amp;#125;&amp;#125;) now finished Phase IIa clinical trial, this event marks the beginning of numerous m...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: insilico.com  
-   Link: <a href="https://insilico.com/news/bnj09h4811-pharmaai-spring-kickoff-2026-drive-the-f" target="_blank" rel="noopener noreferrer nofollow">https://insilico.com/news/bnj09h4811-pharmaai-spring-kickoff-2026-drive-the-f</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spring Kickoff 2026: Drive the Future of...9 Apr 2026 — PandaOmics is Insilico Medicine&#x27;s AI-driven platform for therapeutic target disc...</p></details>
+   Link:<a href="https://insilico.com/news/bnj09h4811-pharmaai-spring-kickoff-2026-drive-the-f" target="_blank" rel="noopener noreferrer nofollow">https://insilico.com/news/bnj09h4811-pharmaai-spring-kickoff-2026-drive-the-f</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spring Kickoff 2026: Drive the Future of...9 Apr 2026 — PandaOmics is Insilico Medicine&#x27;s AI-driven platform for therapeutic target disc...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: insilico.com  
-   Link: <a href="https://insilico.com/phase1" target="_blank" rel="noopener noreferrer nofollow">https://insilico.com/phase1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>From Start to Phase 1 in 30 MonthsFrom Start to Phase 1 in 30 Months: AI-discovered and AI-designed Anti-fibrotic Drug Enters Phase I Cli...</p></details>
+   Link:<a href="https://insilico.com/phase1" target="_blank" rel="noopener noreferrer nofollow">https://insilico.com/phase1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>From Start to Phase 1 in 30 MonthsFrom Start to Phase 1 in 30 Months: AI-discovered and AI-designed Anti-fibrotic Drug Enters Phase I Cli...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: insilico.com  
-   Link: <a href="https://insilico.com/" target="_blank" rel="noopener noreferrer nofollow">https://insilico.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Insilico Medicine: MainNow, says Dr. Levitt, Insilico Medicine is using AI to create an entirely new AI-driven drug discovery pipeline fr...</p></details>
+   Link:<a href="https://insilico.com/" target="_blank" rel="noopener noreferrer nofollow">https://insilico.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Insilico Medicine: MainNow, says Dr. Levitt, Insilico Medicine is using AI to create an entirely new AI-driven drug discovery pipeline fr...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: insilico.com  
-   Link: <a href="https://insilico.com/blog/1112" target="_blank" rel="noopener noreferrer nofollow">https://insilico.com/blog/1112</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Phase 2 Readout Generates Excitement for the Potential...12 Nov 2024 — Another milestone has been reached in Insilico Medicine&#x27;s AI-po...</p></details>
+   Link:<a href="https://insilico.com/blog/1112" target="_blank" rel="noopener noreferrer nofollow">https://insilico.com/blog/1112</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Phase 2 Readout Generates Excitement for the Potential...12 Nov 2024 — Another milestone has been reached in Insilico Medicine&#x27;s AI-po...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: insilico.com  
-   Link: <a href="https://insilico.com/pipeline" target="_blank" rel="noopener noreferrer nofollow">https://insilico.com/pipeline</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PipelineThe rapid progress of internal pipeline demonstrates the generative-AI driven drug discovery capabilities of our Pharma.AI platfo...</p></details>
+   Link:<a href="https://insilico.com/pipeline" target="_blank" rel="noopener noreferrer nofollow">https://insilico.com/pipeline</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PipelineThe rapid progress of internal pipeline demonstrates the generative-AI driven drug discovery capabilities of our Pharma.AI platfo...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/d41573-025-00208-6" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/d41573-025-00208-6</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>By. Heather Bowling; Arianna Cocucci; Da Chen Emily Koo &amp; …Read more...</p></details>
+   Link:<a href="https://www.nature.com/articles/d41573-025-00208-6" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/d41573-025-00208-6</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>By. Heather Bowling; Arianna Cocucci; Da Chen Emily Koo &amp; …Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s44386-025-00013-6" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s44386-025-00013-6</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>failure rate between Phase 1 and BLA. There... AI drugs to face the same failures in the clinic as traditionally developed molecules...</p></details>
+   Link:<a href="https://www.nature.com/articles/s44386-025-00013-6" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s44386-025-00013-6</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>failure rate between Phase 1 and BLA. There... AI drugs to face the same failures in the clinic as traditionally developed molecules...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S1359644620300052" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S1359644620300052</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Key indicators of phase transition for clinical trials through...by F Feijoo · 2020 · Cited by 79 — At a very basic level, researchers h...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S1359644620300052" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S1359644620300052</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Key indicators of phase transition for clinical trials through...by F Feijoo · 2020 · Cited by 79 — At a very basic level, researchers h...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/dictionary/english/phase" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/phase</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionary6 days ago — any stage in a series of events or in a process of development: The project is only...</p></details>
+   Link:<a href="https://dictionary.cambridge.org/dictionary/english/phase" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/phase</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionary6 days ago — any stage in a series of events or in a process of development: The project is only...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: Wikipedia  
    Title: Insilico Medicine  
-   Link: <a href="https://en.wikipedia.org/wiki/Insilico_Medicine" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Insilico_Medicine</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Insilico MedicineThe company combines genomics, big data analysis, and deep learning for in silico drug discovery.Read more...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Insilico_Medicine" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Insilico_Medicine</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Insilico MedicineThe company combines genomics, big data analysis, and deep learning for in silico drug discovery.Read more...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Phase" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Phase</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PhaseScience · State of matter, or phase, one of the distinct forms in which matter can exist · Phase (matter), a region of space thro...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Phase" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Phase</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PhaseScience · State of matter, or phase, one of the distinct forms in which matter can exist · Phase (matter), a region of space thro...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: news-medical.net  
-   Link: <a href="https://www.news-medical.net/news/20250307/Insilico-Medicines-AI-driven-drug-Rentosertib-receives-official-generic-name.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.news-medical.net/news/20250307/Insilico-Medicines-AI-driven-drug-Rentosertib-receives-official-generic-name.aspx</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Insilico Medicine&#x27;s AI-driven drug Rentosertib receives...7 Mar 2025 — Rentosertib (formerly known as ISM001-055) – has been granted an...</p></details>
+   Link:<a href="https://www.news-medical.net/news/20250307/Insilico-Medicines-AI-driven-drug-Rentosertib-receives-official-generic-name.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.news-medical.net/news/20250307/Insilico-Medicines-AI-driven-drug-Rentosertib-receives-official-generic-name.aspx</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Insilico Medicine&#x27;s AI-driven drug Rentosertib receives...7 Mar 2025 — Rentosertib (formerly known as ISM001-055) – has been granted an...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: vocabulary.com  
-   Link: <a href="https://www.vocabulary.com/dictionary/phase" target="_blank" rel="noopener noreferrer nofollow">https://www.vocabulary.com/dictionary/phase</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition, Meaning &amp; SynonymsA phase is a particular period of time, like someone whose &quot;teenage rebellion&quot; phase lasts well into her th...</p></details>
+   Link:<a href="https://www.vocabulary.com/dictionary/phase" target="_blank" rel="noopener noreferrer nofollow">https://www.vocabulary.com/dictionary/phase</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Definition, Meaning &amp; SynonymsA phase is a particular period of time, like someone whose &quot;teenage rebellion&quot; phase lasts well into her th...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: reruption.com  
-   Link: <a href="https://reruption.com/en/knowledge/industry-cases/insilico-medicine-ai-drug-to-phase-ii-in-30-months" target="_blank" rel="noopener noreferrer nofollow">https://reruption.com/en/knowledge/industry-cases/insilico-medicine-ai-drug-to-phase-ii-in-30-months</a>  
+   Link:<a href="https://reruption.com/en/knowledge/industry-cases/insilico-medicine-ai-drug-to-phase-ii-in-30-months" target="_blank" rel="noopener noreferrer nofollow">https://reruption.com/en/knowledge/industry-cases/insilico-medicine-ai-drug-to-phase-ii-in-30-months</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: clinicaltrialsarena.com  
    Title: insilico medicine ins018055 ai  
-   Link: <a href="https://www.clinicaltrialsarena.com/news/insilico-medicine-ins018055-ai/" target="_blank" rel="noopener noreferrer nofollow">https://www.clinicaltrialsarena.com/news/insilico-medicine-ins018055-ai/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Insilico&#x27;s AI drug enters Phase II IPF trialJun 27, 2023 — Insilico plans to investigate its AI-generated INS018_055 in patients with IPF...</p></details>
+   Link:<a href="https://www.clinicaltrialsarena.com/news/insilico-medicine-ins018055-ai/" target="_blank" rel="noopener noreferrer nofollow">https://www.clinicaltrialsarena.com/news/insilico-medicine-ins018055-ai/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Insilico&#x27;s AI drug enters Phase II IPF trialJun 27, 2023 — Insilico plans to investigate its AI-generated INS018_055 in patients with IPF...</p></details>
 
 ### Additional References
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: communities.springernature.com  
-   Link: <a href="https://communities.springernature.com/posts/preliminary-phase-2a-readout-for-a-novel-drug-discovered-and-designed-using-generative-ai-sets-a-major-milestone-in-ai-powered-drug-discovery" target="_blank" rel="noopener noreferrer nofollow">https://communities.springernature.com/posts/preliminary-phase-2a-readout-for-a-novel-drug-discovered-and-designed-using-generative-ai-sets-a-major-milestone-in-ai-powered-drug-discovery</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Phase 2a Readout for a Novel Drug Discovered and...September 23, 2024 — Insilico Medicine&#x27;s AI-designed small molecule inhibitor for the...</p></details>
+   Link:<a href="https://communities.springernature.com/posts/preliminary-phase-2a-readout-for-a-novel-drug-discovered-and-designed-using-generative-ai-sets-a-major-milestone-in-ai-powered-drug-discovery" target="_blank" rel="noopener noreferrer nofollow">https://communities.springernature.com/posts/preliminary-phase-2a-readout-for-a-novel-drug-discovered-and-designed-using-generative-ai-sets-a-major-milestone-in-ai-powered-drug-discovery</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Phase 2a Readout for a Novel Drug Discovered and...September 23, 2024 — Insilico Medicine&#x27;s AI-designed small molecule inhibitor for the...</p></details>
    Published: September 23, 2024  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: asbmb.org  
-   Link: <a href="https://www.asbmb.org/asbmb-today/opinions/031222/90-of-drugs-fail-clinical-trials" target="_blank" rel="noopener noreferrer nofollow">https://www.asbmb.org/asbmb-today/opinions/031222/90-of-drugs-fail-clinical-trials</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>90% of drugs fail clinical trialsMy research team and I believe that this unbalanced drug optimization process may skew drug candidate se...</p></details>
+   Link:<a href="https://www.asbmb.org/asbmb-today/opinions/031222/90-of-drugs-fail-clinical-trials" target="_blank" rel="noopener noreferrer nofollow">https://www.asbmb.org/asbmb-today/opinions/031222/90-of-drugs-fail-clinical-trials</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>90% of drugs fail clinical trialsMy research team and I believe that this unbalanced drug optimization process may skew drug candidate se...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/clinical" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/clinical</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CLINICAL Definition &amp; MeaningThe meaning of CLINICAL is of, relating to, or conducted in or as if in a clinic. How to use clinical in a s...</p></details>
+   Link:<a href="https://www.merriam-webster.com/dictionary/clinical" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/clinical</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CLINICAL Definition &amp; MeaningThe meaning of CLINICAL is of, relating to, or conducted in or as if in a clinic. How to use clinical in a s...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: investopedia.com  
-   Link: <a href="https://www.investopedia.com/eli-lilly-is-diving-deeper-into-ai-drug-discovery-with-expanded-insilico-partnership-11936929" target="_blank" rel="noopener noreferrer nofollow">https://www.investopedia.com/eli-lilly-is-diving-deeper-into-ai-drug-discovery-with-expanded-insilico-partnership-11936929</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Under the deal, Eli Lilly secures exclusive rights to commercialize any successful drugs from Insilico’s pipeline and will work collabora...</p></details>
+   Link:<a href="https://www.investopedia.com/eli-lilly-is-diving-deeper-into-ai-drug-discovery-with-expanded-insilico-partnership-11936929" target="_blank" rel="noopener noreferrer nofollow">https://www.investopedia.com/eli-lilly-is-diving-deeper-into-ai-drug-discovery-with-expanded-insilico-partnership-11936929</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Under the deal, Eli Lilly secures exclusive rights to commercialize any successful drugs from Insilico’s pipeline and will work collabora...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/phase" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/phase</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PHASE Definition &amp; MeaningThe meaning of PHASE is a particular appearance or state in a regularly recurring cycle of changes. How to use...</p></details>
+   Link:<a href="https://www.merriam-webster.com/dictionary/phase" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/phase</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PHASE Definition &amp; MeaningThe meaning of PHASE is a particular appearance or state in a regularly recurring cycle of changes. How to use...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: johnlewis.com  
-   Link: <a href="https://www.johnlewis.com/brand/phase-eight/_/N-1z13tm6" target="_blank" rel="noopener noreferrer nofollow">https://www.johnlewis.com/brand/phase-eight/_/N-1z13tm6</a>  
+   Link:<a href="https://www.johnlewis.com/brand/phase-eight/_/N-1z13tm6" target="_blank" rel="noopener noreferrer nofollow">https://www.johnlewis.com/brand/phase-eight/_/N-1z13tm6</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: htworld.co.uk  
    Title: ai discovered drugs achieved higher success rate than those by humans study  
-   Link: <a href="https://www.htworld.co.uk/news/ai/ai-discovered-drugs-achieved-higher-success-rate-than-those-by-humans-study/" target="_blank" rel="noopener noreferrer nofollow">https://www.htworld.co.uk/news/ai/ai-discovered-drugs-achieved-higher-success-rate-than-those-by-humans-study/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI-discovered drugs achieved higher success rate than...10 May 2024 — AI-discovered drugs in Phase I clinical trials have an 80-90 per c...</p></details>
+   Link:<a href="https://www.htworld.co.uk/news/ai/ai-discovered-drugs-achieved-higher-success-rate-than-those-by-humans-study/" target="_blank" rel="noopener noreferrer nofollow">https://www.htworld.co.uk/news/ai/ai-discovered-drugs-achieved-higher-success-rate-than-those-by-humans-study/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI-discovered drugs achieved higher success rate than...10 May 2024 — AI-discovered drugs in Phase I clinical trials have an 80-90 per c...</p></details>
    Published: May 2024  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: linkedin.com  
    Title: ai biotech 2025 trends discoveries game changing technologies 1s3df  
-   Link: <a href="https://www.linkedin.com/pulse/ai-biotech-2025-trends-discoveries-game-changing-technologies-1s3df" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/ai-biotech-2025-trends-discoveries-game-changing-technologies-1s3df</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI in Biotech: 2025 Trends, Discoveries, and Game...Moreover, there is no significant difference in the Phase 2 trial failure rates betw...</p></details>
+   Link:<a href="https://www.linkedin.com/pulse/ai-biotech-2025-trends-discoveries-game-changing-technologies-1s3df" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/ai-biotech-2025-trends-discoveries-game-changing-technologies-1s3df</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI in Biotech: 2025 Trends, Discoveries, and Game...Moreover, there is no significant difference in the Phase 2 trial failure rates betw...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: europeanpharmaceuticalreview.com  
    Title: first ai generated small molecule drug enters phase ii trial  
-   Link: <a href="https://www.europeanpharmaceuticalreview.com/news/184106/first-ai-generated-small-molecule-drug-enters-phase-ii-trial/" target="_blank" rel="noopener noreferrer nofollow">https://www.europeanpharmaceuticalreview.com/news/184106/first-ai-generated-small-molecule-drug-enters-phase-ii-trial/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>First AI-generated small molecule drug enters Phase II trial29 Jun 2023 — Phase II clinical trials in the US and China are now underway f...</p></details>
+   Link:<a href="https://www.europeanpharmaceuticalreview.com/news/184106/first-ai-generated-small-molecule-drug-enters-phase-ii-trial/" target="_blank" rel="noopener noreferrer nofollow">https://www.europeanpharmaceuticalreview.com/news/184106/first-ai-generated-small-molecule-drug-enters-phase-ii-trial/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>First AI-generated small molecule drug enters Phase II trial29 Jun 2023 — Phase II clinical trials in the US and China are now underway f...</p></details>
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: medium.com  
    Title: how ai is transforming drug discovery in 2026 0d8c7c600428  
-   Link: <a href="https://medium.com/%40unicodeveloper/how-ai-is-transforming-drug-discovery-in-2026-0d8c7c600428" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40unicodeveloper/how-ai-is-transforming-drug-discovery-in-2026-0d8c7c600428</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How AI is Transforming Drug Discovery in 2026... 2026. Insilico Medicine&#x27;s AI-designed drug for idiopathic pulmonary fibrosis completed P...</p></details>
+   Link:<a href="https://medium.com/%40unicodeveloper/how-ai-is-transforming-drug-discovery-in-2026-0d8c7c600428" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40unicodeveloper/how-ai-is-transforming-drug-discovery-in-2026-0d8c7c600428</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How AI is Transforming Drug Discovery in 2026... 2026. Insilico Medicine&#x27;s AI-designed drug for idiopathic pulmonary fibrosis completed P...</p></details>

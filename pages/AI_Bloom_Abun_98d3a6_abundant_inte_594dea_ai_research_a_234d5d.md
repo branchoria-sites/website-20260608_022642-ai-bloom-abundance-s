@@ -291,7 +291,7 @@ image: /assets/images/AI_Bloom_Abun_98d3a6_abundant_inte_594dea_ai_research_a_23
 The strongest case for AI-driven scientific acceleration is not that machines suddenly become lone geniuses. It is that research contains many bottlenecks built around scarce human attention: reading papers, searching for relevant evidence, writing code, analysing results, designing experiments, checking assumptions and coordinating knowledge across increasingly specialised fields. AI research agents aim to reduce those bottlenecks.
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_abundant_inte_594dea_ai_research_a_234d5d-Illustration-1-dark.svg" | relative_url }}" alt="Research Agents illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_abundant_inte_594dea_ai_research_a_234d5d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_abundant_inte_594dea_ai_research_a_234d5d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-In the broader vision of abundant [intelligence]({{ 'intelligence/' | relative_url }}), this matters because scientific progress is one of the main drivers of long-term human flourishing. Faster [discovery]({{ 'discovery/' | relative_url }}) could mean earlier treatments for disease, better energy technologies, more resilient infrastructure, improved climate tools and a larger stock of human knowledge. But the key question is not whether AI can assist science. It already does. The harder question is whether increasingly autonomous research systems can reliably contribute to discovery without producing floods of errors, misleading results or unverified claims. Current evidence suggests real gains are possible, but that human judgement remains central at every serious stage of research. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s44387-025-00019-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Exploring the role of large language models in the scientific...by Y Zhang · 2025 · Cited by 68 — We review how Large Language Mod...</span></span></span>
+In the broader vision of abundant [intelligence]({{ 'intelligence/' | relative_url }}), this matters because scientific progress is one of the main drivers of long-term human flourishing. Faster [discovery]({{ 'discovery/' | relative_url }}) could mean earlier treatments for disease, better energy technologies, more resilient infrastructure, improved climate tools and a larger stock of human knowledge. But the key question is not whether AI can assist science. It already does. The harder question is whether increasingly autonomous research systems can reliably contribute to discovery without producing floods of errors, misleading results or unverified claims. Current evidence suggests real gains are possible, but that human judgement remains central at every serious stage of research.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s44387-025-00019-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Exploring the role of large language models in the scientific...by Y Zhang · 2025 · Cited by 68 — We review how Large Language Mod...</span></span></span>
 
 ## Which parts of research can already be assisted?
 
@@ -299,15 +299,15 @@ Much of scientific work is not a single moment of insight. It is a long chain of
 
 These are precisely the areas where AI systems are already proving useful.
 
-Large language models can summarise bodies of literature, identify related work, suggest experimental controls, explain unfamiliar techniques and generate software code. Scientists increasingly use them as research assistants rather than as sources of final answers. Reviews of AI in science describe applications across hypothesis generation, literature synthesis, data analysis and research planning, especially in fields with large digital datasets. Nature <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1649155/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersAI, agentic models and lab automation for scientific discoveryby T Hartung · 2025 · Cited by 15 — In this review, I merge the su...</span></span></span>
+Large language models can summarise bodies of literature, identify related work, suggest experimental controls, explain unfamiliar techniques and generate software code. Scientists increasingly use them as research assistants rather than as sources of final answers. Reviews of AI in science describe applications across hypothesis generation, literature synthesis, data analysis and research planning, especially in fields with large digital datasets. Nature<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1649155/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersAI, agentic models and lab automation for scientific discoveryby T Hartung · 2025 · Cited by 15 — In this review, I merge the su...</span></span></span>
 
-The attraction is straightforward. Modern science suffers from information overload. Tens of thousands of papers may be published annually in a single subfield. A researcher can easily miss relevant findings outside their immediate speciality. AI systems can rapidly search and connect information across disciplines, creating a first-pass map of a problem that would otherwise take weeks or months to assemble. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dl.acm.org/doi/full/10.1145/3777490.3777511" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dl.acm.org">[ACM Digital Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dl.acm.org</span><span class="citation-popover-snippet">ACM Digital LibraryAgentic AI Framework for Literature Discovery, Filtering...by A Mulla · 2026 — Overall, the study contributes to the...</span></span></span>
+The attraction is straightforward. Modern science suffers from information overload. Tens of thousands of papers may be published annually in a single subfield. A researcher can easily miss relevant findings outside their immediate speciality. AI systems can rapidly search and connect information across disciplines, creating a first-pass map of a problem that would otherwise take weeks or months to assemble.<span class="citation-chip-wrap"><a class="citation-chip" href="https://dl.acm.org/doi/full/10.1145/3777490.3777511" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dl.acm.org">[ACM Digital Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dl.acm.org</span><span class="citation-popover-snippet">ACM Digital LibraryAgentic AI Framework for Literature Discovery, Filtering...by A Mulla · 2026 — Overall, the study contributes to the...</span></span></span>
 
 Software development is another major target. Much contemporary science depends on coding. Researchers write simulation software, statistical pipelines, data-processing tools and machine-learning models. AI coding assistants can often generate working drafts, suggest fixes and automate routine programming tasks. This does not eliminate the need for expert review, but it can reduce time spent on implementation details and allow researchers to focus more attention on scientific questions.
 
-The most visible example of AI accelerating discovery remains protein structure prediction. DeepMind's AlphaFold dramatically improved the ability to predict the three-dimensional structures of proteins, solving a problem that had challenged biology for decades. The AlphaFold database now provides hundreds of millions of predicted structures that researchers can explore without first performing costly laboratory experiments. Scientists use these predictions to narrow possibilities, identify promising targets and accelerate work in areas ranging from disease biology to drug discovery. Nature <span class="citation-chip-wrap"><a class="citation-chip" href="https://alphafold.ebi.ac.uk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alphafold.ebi.ac.uk">[2alphafold.ebi.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alphafold.ebi.ac.uk</span><span class="citation-popover-snippet">AlphaFold Protein Structure DatabaseAlphaFold DB provides open access to over 200 million protein structure predictions to accelerate sci...</span></span></span>
+The most visible example of AI accelerating discovery remains protein structure prediction. DeepMind's AlphaFold dramatically improved the ability to predict the three-dimensional structures of proteins, solving a problem that had challenged biology for decades. The AlphaFold database now provides hundreds of millions of predicted structures that researchers can explore without first performing costly laboratory experiments. Scientists use these predictions to narrow possibilities, identify promising targets and accelerate work in areas ranging from disease biology to drug discovery. Nature<span class="citation-chip-wrap"><a class="citation-chip" href="https://alphafold.ebi.ac.uk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alphafold.ebi.ac.uk">[2alphafold.ebi.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alphafold.ebi.ac.uk</span><span class="citation-popover-snippet">AlphaFold Protein Structure DatabaseAlphaFold DB provides open access to over 200 million protein structure predictions to accelerate sci...</span></span></span>
 
-Importantly, AlphaFold did not replace biology laboratories. Instead, it changed where researchers spend their time. Instead of beginning with a large space of unknown possibilities, scientists can often start with a useful prediction and focus experimental effort on [verification]({{ 'verification/' | relative_url }}) and refinement. That pattern may become a broader model for AI-assisted science: reducing search costs rather than eliminating experimentation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nber.org/papers/w35143" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nber.org">[NBER]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nber.org</span><span class="citation-popover-snippet">How Artificial Intelligence Shapes Science: Evidence from...6 days ago — We study how a frontier AI model affects scientific discove...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.innovationgrowthlab.org/resources/ai-in-science-alphafold-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: innovationgrowthlab.org">[Innovation Growth Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">innovationgrowthlab.org</span><span class="citation-popover-snippet">AI in Science: Evidence of impact from AlphaFold 2In this report, we study and compare the impact of AlphaFold 2 against typical structur...</span></span></span>
+Importantly, AlphaFold did not replace biology laboratories. Instead, it changed where researchers spend their time. Instead of beginning with a large space of unknown possibilities, scientists can often start with a useful prediction and focus experimental effort on [verification]({{ 'verification/' | relative_url }}) and refinement. That pattern may become a broader model for AI-assisted science: reducing search costs rather than eliminating experimentation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nber.org/papers/w35143" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nber.org">[NBER]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nber.org</span><span class="citation-popover-snippet">How Artificial Intelligence Shapes Science: Evidence from...6 days ago — We study how a frontier AI model affects scientific discove...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.innovationgrowthlab.org/resources/ai-in-science-alphafold-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: innovationgrowthlab.org">[Innovation Growth Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">innovationgrowthlab.org</span><span class="citation-popover-snippet">AI in Science: Evidence of impact from AlphaFold 2In this report, we study and compare the impact of AlphaFold 2 against typical structur...</span></span></span>
 
 ## From tools to research agents
 
@@ -315,13 +315,13 @@ A chatbot that answers questions is one thing. A research agent is something mor
 
 Research agents are designed to carry out multi-step scientific tasks with limited supervision. Rather than responding to a single prompt, they can search papers, write code, run simulations, analyse outputs, revise plans and pursue goals across many iterations.
 
-Recent systems increasingly use multi-agent designs. One agent may search literature, another design experiments, another review results and another critique conclusions. The aim is to create something closer to a research workflow than a simple conversational tool. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research.google/blog/accelerating-scientific-breakthroughs-with-an-ai-co-scientist/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.google">[Google Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.google</span><span class="citation-popover-title">accelerating scientific breakthroughs with an ai co scientist</span><span class="citation-popover-snippet">Google ResearchAccelerating scientific breakthroughs with an AI co-scientist19 Feb 2025 — A multi-agent AI system built with Gemini 2.0 a...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-021-03819-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Highly accurate protein structure prediction with AlphaFoldby J Jumper · 2021 · Cited by 49339 — AlphaFold greatly improves the acc...</span></span></span>
+Recent systems increasingly use multi-agent designs. One agent may search literature, another design experiments, another review results and another critique conclusions. The aim is to create something closer to a research workflow than a simple conversational tool.<span class="citation-chip-wrap"><a class="citation-chip" href="https://research.google/blog/accelerating-scientific-breakthroughs-with-an-ai-co-scientist/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.google">[Google Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.google</span><span class="citation-popover-title">accelerating scientific breakthroughs with an ai co scientist</span><span class="citation-popover-snippet">Google ResearchAccelerating scientific breakthroughs with an AI co-scientist19 Feb 2025 — A multi-agent AI system built with Gemini 2.0 a...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-021-03819-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Highly accurate protein structure prediction with AlphaFoldby J Jumper · 2021 · Cited by 49339 — AlphaFold greatly improves the acc...</span></span></span>
 
-Google's AI Co-Scientist project, for example, was introduced as a virtual scientific collaborator intended to help researchers generate hypotheses and research proposals. Rather than merely answering questions, it attempts to explore scientific possibilities and propose directions worth investigating. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research.google/blog/accelerating-scientific-breakthroughs-with-an-ai-co-scientist/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.google">[Google Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.google</span><span class="citation-popover-title">accelerating scientific breakthroughs with an ai co scientist</span><span class="citation-popover-snippet">Google ResearchAccelerating scientific breakthroughs with an AI co-scientist19 Feb 2025 — A multi-agent AI system built with Gemini 2.0 a...</span></span></span>
+Google's AI Co-Scientist project, for example, was introduced as a virtual scientific collaborator intended to help researchers generate hypotheses and research proposals. Rather than merely answering questions, it attempts to explore scientific possibilities and propose directions worth investigating.<span class="citation-chip-wrap"><a class="citation-chip" href="https://research.google/blog/accelerating-scientific-breakthroughs-with-an-ai-co-scientist/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.google">[Google Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.google</span><span class="citation-popover-title">accelerating scientific breakthroughs with an ai co scientist</span><span class="citation-popover-snippet">Google ResearchAccelerating scientific breakthroughs with an AI co-scientist19 Feb 2025 — A multi-agent AI system built with Gemini 2.0 a...</span></span></span>
 
-Similarly, the AI Scientist project developed by researchers including contributors from Sakana AI attempts to automate substantial portions of the scientific process. Published descriptions of the system include literature review, idea generation, experiment planning, software implementation, result analysis and manuscript drafting. Later versions have reportedly generated papers capable of reaching workshop-level peer review standards in machine-learning research. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s42256-026-01183-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Multi-agent AI systems need transparency27 Jan 2026 — These platforms can take an open-ended research question and run a full research cy...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2503.08979" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
+Similarly, the AI Scientist project developed by researchers including contributors from Sakana AI attempts to automate substantial portions of the scientific process. Published descriptions of the system include literature review, idea generation, experiment planning, software implementation, result analysis and manuscript drafting. Later versions have reportedly generated papers capable of reaching workshop-level peer review standards in machine-learning research.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s42256-026-01183-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Multi-agent AI systems need transparency27 Jan 2026 — These platforms can take an open-ended research question and run a full research cy...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2503.08979" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
 
-These systems remain far from autonomous scientific institutions. Most operate in domains where experiments are digital and relatively cheap to run. Machine-learning research is a natural test case because experiments can often be conducted entirely on computers. Extending similar approaches into chemistry, medicine, biology or materials science is significantly harder because real-world experiments involve physical equipment, measurement uncertainty, safety constraints and complex causal systems. Nature <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1649155/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersAI, agentic models and lab automation for scientific discoveryby T Hartung · 2025 · Cited by 15 — In this review, I merge the su...</span></span></span>
+These systems remain far from autonomous scientific institutions. Most operate in domains where experiments are digital and relatively cheap to run. Machine-learning research is a natural test case because experiments can often be conducted entirely on computers. Extending similar approaches into chemistry, medicine, biology or materials science is significantly harder because real-world experiments involve physical equipment, measurement uncertainty, safety constraints and complex causal systems. Nature<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1649155/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersAI, agentic models and lab automation for scientific discoveryby T Hartung · 2025 · Cited by 15 — In this review, I merge the su...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cx7l9ZGFZkw" title="How AI Cracked the Protein Folding Code and Won a Nobel Prize" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cx7l9ZGFZkw" target="_blank" rel="noopener noreferrer">How AI Cracked the Protein Folding Code and Won a Nobel Prize</a></p><p class="youtube-embed-meta">Channel: Quanta Magazine &middot; Views: 668.3K &middot; Uploaded: October 2024 &middot; Length: 22 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cx7l9ZGFZkw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cx7l9ZGFZkw">Open on YouTube</a></p></div></div></div>
 
@@ -331,13 +331,13 @@ Many impressive demonstrations create the impression that AI can simply automate
 
 Finding patterns is not the same as understanding them. Scientific progress depends not only on identifying correlations but also on asking meaningful questions, defining concepts, designing decisive tests and interpreting results within broader theories.
 
-Current AI systems often excel at local optimisation. They can improve an existing procedure, explore nearby possibilities or combine familiar ideas. But generating genuinely transformative scientific questions may require forms of reasoning that remain difficult for today's systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2503.08979" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Current AI systems often excel at local optimisation. They can improve an existing procedure, explore nearby possibilities or combine familiar ideas. But generating genuinely transformative scientific questions may require forms of reasoning that remain difficult for today's systems.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2503.08979" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-One recent study examined tens of thousands of ideas produced by AI research agents and found that the resulting proposals tended to cluster close to existing literature rather than exploring radically different directions. The researchers concluded that current systems appeared better at elaborating known paths than broadening scientific exploration. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2503.08979" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+One recent study examined tens of thousands of ideas produced by AI research agents and found that the resulting proposals tended to cluster close to existing literature rather than exploring radically different directions. The researchers concluded that current systems appeared better at elaborating known paths than broadening scientific exploration.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2503.08979" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 This points to a deeper challenge. Science is not merely a search problem. Researchers often decide which questions matter, which assumptions deserve scrutiny and which anomalies are worth pursuing. Many important discoveries initially looked unpromising or even incorrect. A system optimised to follow established patterns may struggle to recognise such opportunities.
 
-Physical experimentation creates another barrier. In digital domains, thousands of tests can be run cheaply. In medicine, biology or materials science, experiments may require expensive equipment, scarce samples, regulatory approval or years of observation. A research agent may generate many hypotheses, but the real bottleneck may remain [validation]({{ 'validation/' | relative_url }}) in the physical world. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1649155/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersAI, agentic models and lab automation for scientific discoveryby T Hartung · 2025 · Cited by 15 — In this review, I merge the su...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubs.acs.org/doi/10.1021/acsmaterialslett.6c00224" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubs.acs.org">[ACS Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubs.acs.org</span><span class="citation-popover-snippet">ACS PublicationsAI-Generated Hypotheses and the Emergence of Autonomous...1 day ago — A natural next step is therefore to connect automa...</span></span></span>
+Physical experimentation creates another barrier. In digital domains, thousands of tests can be run cheaply. In medicine, biology or materials science, experiments may require expensive equipment, scarce samples, regulatory approval or years of observation. A research agent may generate many hypotheses, but the real bottleneck may remain [validation]({{ 'validation/' | relative_url }}) in the physical world.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1649155/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersAI, agentic models and lab automation for scientific discoveryby T Hartung · 2025 · Cited by 15 — In this review, I merge the su...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pubs.acs.org/doi/10.1021/acsmaterialslett.6c00224" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubs.acs.org">[ACS Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubs.acs.org</span><span class="citation-popover-snippet">ACS PublicationsAI-Generated Hypotheses and the Emergence of Autonomous...1 day ago — A natural next step is therefore to connect automa...</span></span></span>
 
 For this reason, some researchers view the near-term future not as fully autonomous science but as a partnership model in which AI dramatically expands the number of ideas humans can evaluate.
 
@@ -350,9 +350,9 @@ The harder part is determining which ideas are true.
 
 Large language models are known to produce plausible but incorrect statements. In science, such failures can be costly. A mistaken literature summary, fabricated citation, coding error or flawed statistical interpretation can misdirect months of work.
 
-As research agents become more capable, verification becomes increasingly important. Systems that can generate hundreds or thousands of hypotheses create a new challenge: evaluating them reliably. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-026-10265-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Towards end-to-end automation of AI researchby C Lu · 2026 · Cited by 4 — The AI Scientist uses existing foundation models to perfo...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/d41586-026-00899-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">How to build an AI scientist: first peer-reviewed paper spills...Mar 25, 2026 — AI Scientist, an autonomous research tool, first release...</span></span></span>
+As research agents become more capable, verification becomes increasingly important. Systems that can generate hundreds or thousands of hypotheses create a new challenge: evaluating them reliably.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-026-10265-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Towards end-to-end automation of AI researchby C Lu · 2026 · Cited by 4 — The AI Scientist uses existing foundation models to perfo...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/d41586-026-00899-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">How to build an AI scientist: first peer-reviewed paper spills...Mar 25, 2026 — AI Scientist, an autonomous research tool, first release...</span></span></span>
 
-Several emerging research programmes focus explicitly on falsification and checking rather than pure generation. Some agentic-science frameworks attempt to build criticism, self-review and error detection into the research process. The goal is to create systems that do not merely produce answers but actively search for reasons why their own conclusions might be wrong. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2503.08979" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Several emerging research programmes focus explicitly on falsification and checking rather than pure generation. Some agentic-science frameworks attempt to build criticism, self-review and error detection into the research process. The goal is to create systems that do not merely produce answers but actively search for reasons why their own conclusions might be wrong.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2503.08979" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 This emphasis reflects a basic principle of science. Discovery is not simply creativity. It is disciplined error correction. Scientific institutions evolved around replication, peer review, methodological criticism and empirical testing because humans are prone to mistakes and wishful thinking. AI systems inherit many of the same vulnerabilities while adding new ones.
 
@@ -364,13 +364,13 @@ As a result, the most valuable future research agents may not be those that gene
 
 One of the more ambitious visions combines AI agents with laboratory automation.
 
-In a self-driving laboratory, software proposes experiments, robotic systems execute them, sensors collect data and AI models analyse results before planning the next round of tests. This creates a continuous loop of hypothesis generation and experimental refinement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1649155/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersAI, agentic models and lab automation for scientific discoveryby T Hartung · 2025 · Cited by 15 — In this review, I merge the su...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13099841/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Alpha Fold progressed from AF1 to AF2, which achieved</span><span class="citation-popover-snippet">transformative impact of AI-enabled AlphaFold 3 - PMCby C Chakraborty · 2026 · Cited by 1 — The AlphaFold (AF) initiative profoundly impa...</span></span></span>
+In a self-driving laboratory, software proposes experiments, robotic systems execute them, sensors collect data and AI models analyse results before planning the next round of tests. This creates a continuous loop of hypothesis generation and experimental refinement.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1649155/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersAI, agentic models and lab automation for scientific discoveryby T Hartung · 2025 · Cited by 15 — In this review, I merge the su...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13099841/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Alpha Fold progressed from AF1 to AF2, which achieved</span><span class="citation-popover-snippet">transformative impact of AI-enabled AlphaFold 3 - PMCby C Chakraborty · 2026 · Cited by 1 — The AlphaFold (AF) initiative profoundly impa...</span></span></span>
 
 Versions of this approach already exist in specialised fields such as materials science and chemistry. Researchers use automated systems to search vast spaces of possible compounds or experimental conditions more efficiently than traditional trial-and-error methods.
 
 The appeal is obvious. Human researchers cannot manually test millions of possibilities. Automated systems potentially can.
 
-If successful, this approach could help address one of the largest constraints on scientific progress: the mismatch between the number of plausible ideas and the limited capacity available to test them. AI-generated hypotheses combined with automated experimentation could dramatically increase the rate at which scientific possibilities are explored. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1649155/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersAI, agentic models and lab automation for scientific discoveryby T Hartung · 2025 · Cited by 15 — In this review, I merge the su...</span></span></span>
+If successful, this approach could help address one of the largest constraints on scientific progress: the mismatch between the number of plausible ideas and the limited capacity available to test them. AI-generated hypotheses combined with automated experimentation could dramatically increase the rate at which scientific possibilities are explored.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1649155/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersAI, agentic models and lab automation for scientific discoveryby T Hartung · 2025 · Cited by 15 — In this review, I merge the su...</span></span></span>
 
 Yet even here, physical reality imposes limits. Instruments fail. Measurements contain noise. Biological systems behave unpredictably. Laboratory automation can accelerate iteration, but it does not remove the need for careful interpretation or robust scientific standards.
 
@@ -383,7 +383,7 @@ It is about shortening the time between a scientific possibility and a practical
 
 If research agents make it easier to discover new materials, identify drug targets, understand disease mechanisms, improve [energy]({{ 'energy/' | relative_url }}) systems or model complex environments, the effects could compound across decades. Scientific progress often acts as a multiplier for every other form of progress. Better tools make further discoveries easier, creating feedback loops that can accelerate civilisation's development.
 
-Evidence from AlphaFold offers an early illustration. Researchers increasingly treat accurate protein-structure prediction as infrastructure rather than as a specialised achievement. Instead of repeatedly solving the same structural problems, scientists can build on a shared foundation and direct effort towards higher-level questions. Studies examining AlphaFold's impact suggest meaningful effects on research productivity and scientific reach across multiple disciplines. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nber.org/papers/w35143" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nber.org">[NBER]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nber.org</span><span class="citation-popover-snippet">How Artificial Intelligence Shapes Science: Evidence from...6 days ago — We study how a frontier AI model affects scientific discove...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.innovationgrowthlab.org/resources/ai-in-science-alphafold-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: innovationgrowthlab.org">[Innovation Growth Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">innovationgrowthlab.org</span><span class="citation-popover-snippet">AI in Science: Evidence of impact from AlphaFold 2In this report, we study and compare the impact of AlphaFold 2 against typical structur...</span></span></span>
+Evidence from AlphaFold offers an early illustration. Researchers increasingly treat accurate protein-structure prediction as infrastructure rather than as a specialised achievement. Instead of repeatedly solving the same structural problems, scientists can build on a shared foundation and direct effort towards higher-level questions. Studies examining AlphaFold's impact suggest meaningful effects on research productivity and scientific reach across multiple disciplines.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nber.org/papers/w35143" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nber.org">[NBER]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nber.org</span><span class="citation-popover-snippet">How Artificial Intelligence Shapes Science: Evidence from...6 days ago — We study how a frontier AI model affects scientific discove...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.innovationgrowthlab.org/resources/ai-in-science-alphafold-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: innovationgrowthlab.org">[Innovation Growth Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">innovationgrowthlab.org</span><span class="citation-popover-snippet">AI in Science: Evidence of impact from AlphaFold 2In this report, we study and compare the impact of AlphaFold 2 against typical structur...</span></span></span>
 
 The strongest optimistic scenario extends this logic much further. If intelligence itself becomes more abundant, research capacity may no longer be limited mainly by the number of highly trained scientists available at any moment. Small teams could investigate problems that currently require large institutions. Researchers in poorer countries could gain access to sophisticated analytical support. Scientific collaboration across disciplines could become easier.
 
@@ -391,199 +391,199 @@ But none of those outcomes are automatic. Access, governance, openness and insti
 
 The most credible near-term expectation is therefore not autonomous super-science. It is a gradual shift in the economics of research. Literature review, coding, modelling, planning and knowledge synthesis may become cheaper and faster. Human scientists may spend less time on routine cognitive labour and more time deciding which questions matter, which evidence is convincing and which directions deserve society's attention.
 
-That would not end scientific scarcity. But it could loosen one of the oldest constraints on discovery: the limited amount of expert attention available to explore the unknown. Nature <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1649155/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersAI, agentic models and lab automation for scientific discoveryby T Hartung · 2025 · Cited by 15 — In this review, I merge the su...</span></span></span>
+That would not end scientific scarcity. But it could loosen one of the oldest constraints on discovery: the limited amount of expert attention available to explore the unknown. Nature<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1649155/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersAI, agentic models and lab automation for scientific discoveryby T Hartung · 2025 · Cited by 15 — In this review, I merge the su...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dBFm3zm_3l8" title="AI+Science: Accelerating Discovery" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dBFm3zm_3l8" target="_blank" rel="noopener noreferrer">AI+Science: Accelerating Discovery</a></p><p class="youtube-embed-meta">Channel: Stanford HAI &middot; Views: 3.4K &middot; Uploaded: May 2026 &middot; Length: 8 hours 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dBFm3zm_3l8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dBFm3zm_3l8">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Will AI Speed Up Discovery?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Will AI Speed Up Discovery?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Age+of+A.+I.+by+Henry+Kissinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Age of A. I. on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=iBNqzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Age of A. I." loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Age+of+A.+I.+by+Henry+Kissinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Age of A. I.">The Age of A. I.</a>
-        </h4>
-        <p class="fr-book-author">By Henry Kissinger, Eric Schmidt et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Age+of+A.+I.+by+Henry+Kissinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Age of A. I. on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=iBNqzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Age of A. I." loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Age+of+A.+I.+by+Henry+Kissinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Age of A. I.">The Age of A. I.</a>
+</h4>
+<p class="fr-book-author">By Henry Kissinger, Eric Schmidt et al.</p>
         
-        <p class="fr-book-desc">Discusses AI&#x27;s role in expanding scientific and intellectual capabilities.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Age+of+A.+I.+by+Henry+Kissinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses AI&#x27;s role in expanding scientific and intellectual capabilities.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Age+of+A.+I.+by+Henry+Kissinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Co-Intelligence+by+Ethan+Mollick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Co-Intelligence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=r13gEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Co-Intelligence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Co-Intelligence+by+Ethan+Mollick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Co-Intelligence">Co-Intelligence</a>
-        </h4>
-        <p class="fr-book-author">By Ethan Mollick</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Co-Intelligence+by+Ethan+Mollick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Co-Intelligence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=r13gEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Co-Intelligence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Co-Intelligence+by+Ethan+Mollick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Co-Intelligence">Co-Intelligence</a>
+</h4>
+<p class="fr-book-author">By Ethan Mollick</p>
         
-        <p class="fr-book-desc">Shows how AI can augment knowledge work and research productivity.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Co-Intelligence+by+Ethan+Mollick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how AI can augment knowledge work and research productivity.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Co-Intelligence+by+Ethan+Mollick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Genesis+Machine+by+Amy+Webb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Genesis Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=B1QyEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Genesis Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Genesis+Machine+by+Amy+Webb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Genesis Machine">The Genesis Machine</a>
-        </h4>
-        <p class="fr-book-author">By Amy Webb, Andrew Hessel</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Genesis+Machine+by+Amy+Webb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Genesis Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=B1QyEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Genesis Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Genesis+Machine+by+Amy+Webb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Genesis Machine">The Genesis Machine</a>
+</h4>
+<p class="fr-book-author">By Amy Webb, Andrew Hessel</p>
         
-        <p class="fr-book-desc">Explores how AI may accelerate discovery across biology and other sciences.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Genesis+Machine+by+Amy+Webb&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how AI may accelerate discovery across biology and other sciences.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Genesis+Machine+by+Amy+Webb&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Coming Wave on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b0y5zwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Coming Wave" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Coming Wave">The Coming Wave</a>
-        </h4>
-        <p class="fr-book-author">By Mustafa Suleyman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Coming Wave on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b0y5zwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Coming Wave" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Coming Wave">The Coming Wave</a>
+</h4>
+<p class="fr-book-author">By Mustafa Suleyman</p>
         
-        <p class="fr-book-desc">Covers how AI could dramatically increase the pace of innovation and research.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers how AI could dramatically increase the pace of innovation and research.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Age+of+A.+I.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Age of A. I.</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Co+Intelligence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Co Intelligence</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Genesis+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Genesis Machine</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Age+of+A.+I.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Age of A. I.</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Co+Intelligence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Co Intelligence</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Genesis+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Genesis Machine</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=will-ai-speed-up-discovery-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="will-ai-speed-up-discovery-science-lab-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Science Stuff In A Laboratory Chemi Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/C3cAAeSwGTJp2SM6/s-l225.jpg" alt="Listing image for Science Stuff In A Laboratory Chemi Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=will-ai-speed-up-discovery-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="will-ai-speed-up-discovery-science-lab-poster" target="_blank" rel="sponsored noopener noreferrer">Science Stuff In A Laboratory Chemi Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=will-ai-speed-up-discovery-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="will-ai-speed-up-discovery-science-lab-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science lab poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: science lab poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=will-ai-speed-up-discovery-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="will-ai-speed-up-discovery-science-lab-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=will-ai-speed-up-discovery-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="will-ai-speed-up-discovery-science-lab-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Science Stuff In A Laboratory Chemi Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/C3cAAeSwGTJp2SM6/s-l225.jpg" alt="Listing image for Science Stuff In A Laboratory Chemi Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=will-ai-speed-up-discovery-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="will-ai-speed-up-discovery-science-lab-poster" target="_blank" rel="sponsored noopener noreferrer">Science Stuff In A Laboratory Chemi Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=will-ai-speed-up-discovery-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="will-ai-speed-up-discovery-science-lab-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science lab poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: science lab poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=will-ai-speed-up-discovery-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="will-ai-speed-up-discovery-science-lab-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=will-ai-speed-up-discovery-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="will-ai-speed-up-discovery-science-lab-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Love My Lab Science Framed Art Pr Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/nRsAAeSwJk1p2SL~/s-l225.jpg" alt="Listing image for I Love My Lab Science Framed Art Pr Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=will-ai-speed-up-discovery-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="will-ai-speed-up-discovery-science-lab-poster" target="_blank" rel="sponsored noopener noreferrer">I Love My Lab Science Framed Art Pr Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=will-ai-speed-up-discovery-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="will-ai-speed-up-discovery-science-lab-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science lab poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: science lab poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=will-ai-speed-up-discovery-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="will-ai-speed-up-discovery-science-lab-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=will-ai-speed-up-discovery-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="will-ai-speed-up-discovery-science-lab-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Love My Lab Science Framed Art Pr Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/nRsAAeSwJk1p2SL~/s-l225.jpg" alt="Listing image for I Love My Lab Science Framed Art Pr Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=will-ai-speed-up-discovery-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="will-ai-speed-up-discovery-science-lab-poster" target="_blank" rel="sponsored noopener noreferrer">I Love My Lab Science Framed Art Pr Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=will-ai-speed-up-discovery-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="will-ai-speed-up-discovery-science-lab-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science lab poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: science lab poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=will-ai-speed-up-discovery-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="will-ai-speed-up-discovery-science-lab-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=will-ai-speed-up-discovery-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="will-ai-speed-up-discovery-science-lab-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Science Lab Nerd Physical Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/nE4AAeSwtwtpqXVL/s-l225.jpg" alt="Listing image for Science Lab Nerd Physical Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=will-ai-speed-up-discovery-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="will-ai-speed-up-discovery-science-lab-poster" target="_blank" rel="sponsored noopener noreferrer">Science Lab Nerd Physical Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=will-ai-speed-up-discovery-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="will-ai-speed-up-discovery-science-lab-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science lab poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: science lab poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=will-ai-speed-up-discovery-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="will-ai-speed-up-discovery-science-lab-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=will-ai-speed-up-discovery-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="will-ai-speed-up-discovery-science-lab-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Science Lab Nerd Physical Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/nE4AAeSwtwtpqXVL/s-l225.jpg" alt="Listing image for Science Lab Nerd Physical Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=will-ai-speed-up-discovery-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="will-ai-speed-up-discovery-science-lab-poster" target="_blank" rel="sponsored noopener noreferrer">Science Lab Nerd Physical Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=will-ai-speed-up-discovery-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="will-ai-speed-up-discovery-science-lab-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science lab poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: science lab poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=will-ai-speed-up-discovery-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="will-ai-speed-up-discovery-science-lab-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=will-ai-speed-up-discovery-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="will-ai-speed-up-discovery-science-lab-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lab Story Teamwork Science Medical Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/vdAAAeSwppNp2Seu/s-l225.jpg" alt="Listing image for Lab Story Teamwork Science Medical Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=will-ai-speed-up-discovery-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="will-ai-speed-up-discovery-science-lab-poster" target="_blank" rel="sponsored noopener noreferrer">Lab Story Teamwork Science Medical Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=will-ai-speed-up-discovery-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="will-ai-speed-up-discovery-science-lab-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science lab poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: science lab poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=will-ai-speed-up-discovery-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="will-ai-speed-up-discovery-science-lab-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=will-ai-speed-up-discovery-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="will-ai-speed-up-discovery-science-lab-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=will-ai-speed-up-discovery-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="will-ai-speed-up-discovery-science-lab-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lab Story Teamwork Science Medical Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/vdAAAeSwppNp2Seu/s-l225.jpg" alt="Listing image for Lab Story Teamwork Science Medical Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=will-ai-speed-up-discovery-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="will-ai-speed-up-discovery-science-lab-poster" target="_blank" rel="sponsored noopener noreferrer">Lab Story Teamwork Science Medical Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=will-ai-speed-up-discovery-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="will-ai-speed-up-discovery-science-lab-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science lab poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: science lab poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=will-ai-speed-up-discovery-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="will-ai-speed-up-discovery-science-lab-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=will-ai-speed-up-discovery-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="will-ai-speed-up-discovery-science-lab-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -599,7 +599,7 @@ That would not end scientific scarcity. But it could loosen one of the oldest co
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -619,7 +619,7 @@ That would not end scientific scarcity. But it could loosen one of the oldest co
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -651,7 +651,7 @@ That would not end scientific scarcity. But it could loosen one of the oldest co
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -703,7 +703,7 @@ That would not end scientific scarcity. But it could loosen one of the oldest co
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -748,7 +748,7 @@ That would not end scientific scarcity. But it could loosen one of the oldest co
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -789,203 +789,203 @@ That would not end scientific scarcity. But it could loosen one of the oldest co
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s44387-025-00019-5" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s44387-025-00019-5</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring the role of large language models in the scientific...by Y Zhang · 2025 · Cited by 68 — We review how Large Language Mod...</p></details>
+   Link:<a href="https://www.nature.com/articles/s44387-025-00019-5" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s44387-025-00019-5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring the role of large language models in the scientific...by Y Zhang · 2025 · Cited by 68 — We review how Large Language Mod...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2503.08979" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2503.08979</a>  
+   Link:<a href="https://arxiv.org/abs/2503.08979" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2503.08979</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: dl.acm.org  
-   Link: <a href="https://dl.acm.org/doi/full/10.1145/3777490.3777511" target="_blank" rel="noopener noreferrer nofollow">https://dl.acm.org/doi/full/10.1145/3777490.3777511</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ACM Digital LibraryAgentic AI Framework for Literature Discovery, Filtering...by A Mulla · 2026 — Overall, the study contributes to the...</p></details>
+   Link:<a href="https://dl.acm.org/doi/full/10.1145/3777490.3777511" target="_blank" rel="noopener noreferrer nofollow">https://dl.acm.org/doi/full/10.1145/3777490.3777511</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ACM Digital LibraryAgentic AI Framework for Literature Discovery, Filtering...by A Mulla · 2026 — Overall, the study contributes to the...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41586-021-03819-2" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-021-03819-2</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Highly accurate protein structure prediction with AlphaFoldby J Jumper · 2021 · Cited by 49339 — AlphaFold greatly improves the acc...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41586-021-03819-2" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-021-03819-2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Highly accurate protein structure prediction with AlphaFoldby J Jumper · 2021 · Cited by 49339 — AlphaFold greatly improves the acc...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: alphafold.ebi.ac.uk  
-   Link: <a href="https://alphafold.ebi.ac.uk/" target="_blank" rel="noopener noreferrer nofollow">https://alphafold.ebi.ac.uk/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AlphaFold Protein Structure DatabaseAlphaFold DB provides open access to over 200 million protein structure predictions to accelerate sci...</p></details>
+   Link:<a href="https://alphafold.ebi.ac.uk/" target="_blank" rel="noopener noreferrer nofollow">https://alphafold.ebi.ac.uk/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AlphaFold Protein Structure DatabaseAlphaFold DB provides open access to over 200 million protein structure predictions to accelerate sci...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: deepmind.google  
-   Link: <a href="https://deepmind.google/science/alphafold/" target="_blank" rel="noopener noreferrer nofollow">https://deepmind.google/science/alphafold/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Google DeepMindAlphaFold — Google DeepMindAlphaFold has revealed millions of intricate 3D protein structures, and is helping scientists u...</p></details>
+   Link:<a href="https://deepmind.google/science/alphafold/" target="_blank" rel="noopener noreferrer nofollow">https://deepmind.google/science/alphafold/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google DeepMindAlphaFold — Google DeepMindAlphaFold has revealed millions of intricate 3D protein structures, and is helping scientists u...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nber.org  
-   Link: <a href="https://www.nber.org/papers/w35143" target="_blank" rel="noopener noreferrer nofollow">https://www.nber.org/papers/w35143</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How Artificial Intelligence Shapes Science: Evidence from...6 days ago — We study how a frontier AI model affects scientific discove...</p></details>
+   Link:<a href="https://www.nber.org/papers/w35143" target="_blank" rel="noopener noreferrer nofollow">https://www.nber.org/papers/w35143</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Artificial Intelligence Shapes Science: Evidence from...6 days ago — We study how a frontier AI model affects scientific discove...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s42256-026-01183-2" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s42256-026-01183-2</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Multi-agent AI systems need transparency27 Jan 2026 — These platforms can take an open-ended research question and run a full research cy...</p></details>
+   Link:<a href="https://www.nature.com/articles/s42256-026-01183-2" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s42256-026-01183-2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Multi-agent AI systems need transparency27 Jan 2026 — These platforms can take an open-ended research question and run a full research cy...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41586-026-10265-5" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-026-10265-5</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Towards end-to-end automation of AI researchby C Lu · 2026 · Cited by 4 — The AI Scientist uses existing foundation models to perfo...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41586-026-10265-5" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-026-10265-5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Towards end-to-end automation of AI researchby C Lu · 2026 · Cited by 4 — The AI Scientist uses existing foundation models to perfo...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2504.08066" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2504.08066</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The AI Scientist-v2: Workshop-Level Automated Scientific...by Y Yamada · 2025 · Cited by 124 — We introduce The AI Scientist-v2, an end...</p></details>
+   Link:<a href="https://arxiv.org/abs/2504.08066" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2504.08066</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The AI Scientist-v2: Workshop-Level Automated Scientific...by Y Yamada · 2025 · Cited by 124 — We introduce The AI Scientist-v2, an end...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/d41586-026-00899-w" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/d41586-026-00899-w</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to build an AI scientist: first peer-reviewed paper spills...Mar 25, 2026 — AI Scientist, an autonomous research tool, first release...</p></details>
+   Link:<a href="https://www.nature.com/articles/d41586-026-00899-w" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/d41586-026-00899-w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to build an AI scientist: first peer-reviewed paper spills...Mar 25, 2026 — AI Scientist, an autonomous research tool, first release...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: pubs.acs.org  
-   Link: <a href="https://pubs.acs.org/doi/10.1021/acsmaterialslett.6c00224" target="_blank" rel="noopener noreferrer nofollow">https://pubs.acs.org/doi/10.1021/acsmaterialslett.6c00224</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ACS PublicationsAI-Generated Hypotheses and the Emergence of Autonomous...1 day ago — A natural next step is therefore to connect automa...</p></details>
+   Link:<a href="https://pubs.acs.org/doi/10.1021/acsmaterialslett.6c00224" target="_blank" rel="noopener noreferrer nofollow">https://pubs.acs.org/doi/10.1021/acsmaterialslett.6c00224</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ACS PublicationsAI-Generated Hypotheses and the Emergence of Autonomous...1 day ago — A natural next step is therefore to connect automa...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: arxiv.org  
    Title: arXiv AI Research Agents Narrow Scientific Exploration  
-   Link: <a href="https://arxiv.org/abs/2605.27905" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2605.27905</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Research Agents Narrow Scientific ExplorationMay 27, 2026...</p></details>
+   Link:<a href="https://arxiv.org/abs/2605.27905" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2605.27905</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI Research Agents Narrow Scientific ExplorationMay 27, 2026...</p></details>
    Published: May 27, 2026  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: arxiv.org  
    Title: arXiv AIGS: Generating Science from AI-Powered Automated Falsification  
-   Link: <a href="https://arxiv.org/abs/2411.11910" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2411.11910</a>  
+   Link:<a href="https://arxiv.org/abs/2411.11910" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2411.11910</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: pub.sakana.ai  
    Title: The human-.Read more  
-   Link: <a href="https://pub.sakana.ai/ai-scientist-v2/paper/paper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pub.sakana.ai/ai-scientist-v2/paper/paper.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The AI Scientist-v2: Workshop-Level Automated Scientific...8 Apr 2025 — We empirically observed that automated research conducted by The...</p></details>
+   Link:<a href="https://pub.sakana.ai/ai-scientist-v2/paper/paper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pub.sakana.ai/ai-scientist-v2/paper/paper.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The AI Scientist-v2: Workshop-Level Automated Scientific...8 Apr 2025 — We empirically observed that automated research conducted by The...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: nature.com  
    Title: By. Elizabeth Gibney.Read more  
-   Link: <a href="https://www.nature.com/articles/d41586-025-03246-7" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/d41586-025-03246-7</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How AI agents will change research: a scientist&#x27;s guide3 Oct 2025 — Researchers are increasingly turning to artificial-intelligence...</p></details>
+   Link:<a href="https://www.nature.com/articles/d41586-025-03246-7" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/d41586-025-03246-7</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How AI agents will change research: a scientist&#x27;s guide3 Oct 2025 — Researchers are increasingly turning to artificial-intelligence...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2408.06292" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2408.06292</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The AI Scientist: Towards Fully Automated Open-Ended...by C Lu · 2024 · Cited by 926 — This paper presents the first comprehensive frame...</p></details>
+   Link:<a href="https://arxiv.org/abs/2408.06292" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2408.06292</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The AI Scientist: Towards Fully Automated Open-Ended...by C Lu · 2024 · Cited by 926 — This paper presents the first comprehensive frame...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2603.15914v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2603.15914v1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Practical Guide to AI-Assisted Research in Mathematics...16 Mar 2026 — The Agentic Researcher: A Practical Guide to AI-Assisted Resear...</p></details>
+   Link:<a href="https://arxiv.org/html/2603.15914v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2603.15914v1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Practical Guide to AI-Assisted Research in Mathematics...16 Mar 2026 — The Agentic Researcher: A Practical Guide to AI-Assisted Resear...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: nature.com  
    Title: But the advent of large language models  
-   Link: <a href="https://www.nature.com/articles/d41586-025-03713-1" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/d41586-025-03713-1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Google DeepMind won a Nobel prize for AI: can it produce...18 Nov 2025 — The company was created to use AI for world- changing science —...</p></details>
+   Link:<a href="https://www.nature.com/articles/d41586-025-03713-1" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/d41586-025-03713-1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google DeepMind won a Nobel prize for AI: can it produce...18 Nov 2025 — The company was created to use AI for world- changing science —...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: deepmind.google  
    Title: alphafold five years of impact  
-   Link: <a href="https://deepmind.google/blog/alphafold-five-years-of-impact/" target="_blank" rel="noopener noreferrer nofollow">https://deepmind.google/blog/alphafold-five-years-of-impact/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AlphaFold: Five Years of Impact25 Nov 2025 — Five years ago, AlphaFold 2 solved the protein structure prediction problem, unlocking new a...</p></details>
+   Link:<a href="https://deepmind.google/blog/alphafold-five-years-of-impact/" target="_blank" rel="noopener noreferrer nofollow">https://deepmind.google/blog/alphafold-five-years-of-impact/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AlphaFold: Five Years of Impact25 Nov 2025 — Five years ago, AlphaFold 2 solved the protein structure prediction problem, unlocking new a...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: sakana.ai  
-   Link: <a href="https://sakana.ai/ai-scientist-nature/" target="_blank" rel="noopener noreferrer nofollow">https://sakana.ai/ai-scientist-nature/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The AI Scientist: Towards Fully Automated AI Research...26 Mar 2026 — It autonomously generated novel ideas, created and ran experiments...</p></details>
+   Link:<a href="https://sakana.ai/ai-scientist-nature/" target="_blank" rel="noopener noreferrer nofollow">https://sakana.ai/ai-scientist-nature/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The AI Scientist: Towards Fully Automated AI Research...26 Mar 2026 — It autonomously generated novel ideas, created and ran experiments...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1649155/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1649155/full</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersAI, agentic models and lab automation for scientific discoveryby T Hartung · 2025 · Cited by 15 — In this review, I merge the su...</p></details>
+   Link:<a href="https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1649155/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1649155/full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersAI, agentic models and lab automation for scientific discoveryby T Hartung · 2025 · Cited by 15 — In this review, I merge the su...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: innovationgrowthlab.org  
-   Link: <a href="https://www.innovationgrowthlab.org/resources/ai-in-science-alphafold-2" target="_blank" rel="noopener noreferrer nofollow">https://www.innovationgrowthlab.org/resources/ai-in-science-alphafold-2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI in Science: Evidence of impact from AlphaFold 2In this report, we study and compare the impact of AlphaFold 2 against typical structur...</p></details>
+   Link:<a href="https://www.innovationgrowthlab.org/resources/ai-in-science-alphafold-2" target="_blank" rel="noopener noreferrer nofollow">https://www.innovationgrowthlab.org/resources/ai-in-science-alphafold-2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI in Science: Evidence of impact from AlphaFold 2In this report, we study and compare the impact of AlphaFold 2 against typical structur...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: research.google  
    Title: accelerating scientific breakthroughs with an ai co scientist  
-   Link: <a href="https://research.google/blog/accelerating-scientific-breakthroughs-with-an-ai-co-scientist/" target="_blank" rel="noopener noreferrer nofollow">https://research.google/blog/accelerating-scientific-breakthroughs-with-an-ai-co-scientist/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Google ResearchAccelerating scientific breakthroughs with an AI co-scientist19 Feb 2025 — A multi-agent AI system built with Gemini 2.0 a...</p></details>
+   Link:<a href="https://research.google/blog/accelerating-scientific-breakthroughs-with-an-ai-co-scientist/" target="_blank" rel="noopener noreferrer nofollow">https://research.google/blog/accelerating-scientific-breakthroughs-with-an-ai-co-scientist/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google ResearchAccelerating scientific breakthroughs with an AI co-scientist19 Feb 2025 — A multi-agent AI system built with Gemini 2.0 a...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: emergentmind.com  
    Title: ai scientist  
-   Link: <a href="https://www.emergentmind.com/topics/ai-scientist" target="_blank" rel="noopener noreferrer nofollow">https://www.emergentmind.com/topics/ai-scientist</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Autonomous Research AgentFeb 26, 2026 — AI Scientist is an autonomous artificial agent that conducts end-to-end research, from hypothesis...</p></details>
+   Link:<a href="https://www.emergentmind.com/topics/ai-scientist" target="_blank" rel="noopener noreferrer nofollow">https://www.emergentmind.com/topics/ai-scientist</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Autonomous Research AgentFeb 26, 2026 — AI Scientist is an autonomous artificial agent that conducts end-to-end research, from hypothesis...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/juanmateosgarcia_ai-in-science-evidence-of-impact-from-alphafold-activity-7400171948128837632-At73" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/juanmateosgarcia_ai-in-science-evidence-of-impact-from-alphafold-activity-7400171948128837632-At73</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Evidence of impact from AlphaFold 2 | Juan Mateos-GarciaAI in Science: Evidence of impact from AlphaFold 2 There is an ongoing debate abo...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/juanmateosgarcia_ai-in-science-evidence-of-impact-from-alphafold-activity-7400171948128837632-At73" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/juanmateosgarcia_ai-in-science-evidence-of-impact-from-alphafold-activity-7400171948128837632-At73</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Evidence of impact from AlphaFold 2 | Juan Mateos-GarciaAI in Science: Evidence of impact from AlphaFold 2 There is an ongoing debate abo...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: frontiersin.org  
    Title: [Alpha Fold](&#123;&#123; 'alpha-fold/' | relative_url &#125;&#125;) progressed from AF1 to AF2,  
-   Link: <a href="https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2026.1739303/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2026.1739303/full</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The transformative impact of AI-enabled AlphaFold 3by C Chakraborty · Cited by 1 — The AlphaFold (AF) initiative profoundly impacted stru...</p></details>
+   Link:<a href="https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2026.1739303/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2026.1739303/full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The transformative impact of AI-enabled AlphaFold 3by C Chakraborty · Cited by 1 — The AlphaFold (AF) initiative profoundly impacted stru...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: carolynstein.github.io  
-   Link: <a href="https://carolynstein.github.io/files/papers/alphafold.pdf" target="_blank" rel="noopener noreferrer nofollow">https://carolynstein.github.io/files/papers/alphafold.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Artificial Intelligence Shapes Science: Evidence from...by R Hill · 2026 — We study how a frontier AI model affects scientific disco...</p></details>
+   Link:<a href="https://carolynstein.github.io/files/papers/alphafold.pdf" target="_blank" rel="noopener noreferrer nofollow">https://carolynstein.github.io/files/papers/alphafold.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Artificial Intelligence Shapes Science: Evidence from...by R Hill · 2026 — We study how a frontier AI model affects scientific disco...</p></details>
 
 ### Additional References
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/400693038_Beyond_Traditional_AI_A_Comprehensive_Study_of_Agentic_Frameworks_and_Their_Impact" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/400693038_Beyond_Traditional_AI_A_Comprehensive_Study_of_Agentic_Frameworks_and_Their_Impact</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Beyond Traditional AI: A Comprehensive Study of Agentic...21 Mar 2026 — This research examines the fundamental components of agentic AI...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/400693038_Beyond_Traditional_AI_A_Comprehensive_Study_of_Agentic_Frameworks_and_Their_Impact" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/400693038_Beyond_Traditional_AI_A_Comprehensive_Study_of_Agentic_Frameworks_and_Their_Impact</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Beyond Traditional AI: A Comprehensive Study of Agentic...21 Mar 2026 — This research examines the fundamental components of agentic AI...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: iclragenticai.github.io  
-   Link: <a href="https://iclragenticai.github.io/" target="_blank" rel="noopener noreferrer nofollow">https://iclragenticai.github.io/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Agentic AI for Scientific DiscoveryFor AI to contribute effectively, it must generate novel hypotheses, comprehend their applications, qu...</p></details>
+   Link:<a href="https://iclragenticai.github.io/" target="_blank" rel="noopener noreferrer nofollow">https://iclragenticai.github.io/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Agentic AI for Scientific DiscoveryFor AI to contribute effectively, it must generate novel hypotheses, comprehend their applications, qu...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/science/article/2024/may/08/google-deepmind-ai-biology-alphafold" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/article/2024/may/08/google-deepmind-ai-biology-alphafold</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This breakthrough is expected to accelerate research in numerous fields, including antibiotics, cancer therapy, and agriculture. AlphaFol...</p></details>
+   Link:<a href="https://www.theguardian.com/science/article/2024/may/08/google-deepmind-ai-biology-alphafold" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/article/2024/may/08/google-deepmind-ai-biology-alphafold</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This breakthrough is expected to accelerate research in numerous fields, including antibiotics, cancer therapy, and agriculture. AlphaFol...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: github.com  
-   Link: <a href="https://github.com/tsinghua-fib-lab/Awesome-AI-Scientists" target="_blank" rel="noopener noreferrer nofollow">https://github.com/tsinghua-fib-lab/Awesome-AI-Scientists</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>tsinghua-fib-lab/Awesome-AI-ScientistsAutonomous Experiments; AlphaEvolve: A coding agent for scientific and algorithmic discovery, Comp...</p></details>
+   Link:<a href="https://github.com/tsinghua-fib-lab/Awesome-AI-Scientists" target="_blank" rel="noopener noreferrer nofollow">https://github.com/tsinghua-fib-lab/Awesome-AI-Scientists</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>tsinghua-fib-lab/Awesome-AI-ScientistsAutonomous Experiments; AlphaEvolve: A coding agent for scientific and algorithmic discovery, Comp...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: github.com  
-   Link: <a href="https://github.com/HKUST-KnowComp/Awesome-LLM-Scientific-Discovery" target="_blank" rel="noopener noreferrer nofollow">https://github.com/HKUST-KnowComp/Awesome-LLM-Scientific-Discovery</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>HKUST-KnowComp/Awesome-LLM-Scientific-DiscoveryA curated list of pioneering research papers, tools, and resources at the intersection of...</p></details>
+   Link:<a href="https://github.com/HKUST-KnowComp/Awesome-LLM-Scientific-Discovery" target="_blank" rel="noopener noreferrer nofollow">https://github.com/HKUST-KnowComp/Awesome-LLM-Scientific-Discovery</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>HKUST-KnowComp/Awesome-LLM-Scientific-DiscoveryA curated list of pioneering research papers, tools, and resources at the intersection of...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: icr.ac.uk  
-   Link: <a href="https://www.icr.ac.uk/research-and-discoveries/cancer-blogs/detail/the-drug-discoverer/reflecting-on-deepmind-s-alphafold-artificial-intelligence-success-what-s-the-real-significance-for-protein-folding-research-and-drug-discovery" target="_blank" rel="noopener noreferrer nofollow">https://www.icr.ac.uk/research-and-discoveries/cancer-blogs/detail/the-drug-discoverer/reflecting-on-deepmind-s-alphafold-artificial-intelligence-success-what-s-the-real-significance-for-protein-folding-research-and-drug-discovery</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reflecting on DeepMind&#x27;s AlphaFold artificial intelligence...13 Aug 2021 — AlphaFold&#x27;s machine learning methodology has been applied to...</p></details>
+   Link:<a href="https://www.icr.ac.uk/research-and-discoveries/cancer-blogs/detail/the-drug-discoverer/reflecting-on-deepmind-s-alphafold-artificial-intelligence-success-what-s-the-real-significance-for-protein-folding-research-and-drug-discovery" target="_blank" rel="noopener noreferrer nofollow">https://www.icr.ac.uk/research-and-discoveries/cancer-blogs/detail/the-drug-discoverer/reflecting-on-deepmind-s-alphafold-artificial-intelligence-success-what-s-the-real-significance-for-protein-folding-research-and-drug-discovery</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reflecting on DeepMind&#x27;s AlphaFold artificial intelligence...13 Aug 2021 — AlphaFold&#x27;s machine learning methodology has been applied to...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/qmahmoud_open-conference-of-ai-agents-for-science-activity-7371165622941995008-DLE_" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/qmahmoud_open-conference-of-ai-agents-for-science-activity-7371165622941995008-DLE_</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI as primary authors and reviewers at Agents4Science 2025• Advances in large language models and reasoning-enabled AI now enable autonom...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/qmahmoud_open-conference-of-ai-agents-for-science-activity-7371165622941995008-DLE_" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/qmahmoud_open-conference-of-ai-agents-for-science-activity-7371165622941995008-DLE_</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI as primary authors and reviewers at Agents4Science 2025• Advances in large language models and reasoning-enabled AI now enable autonom...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Alpha Fold progressed from AF1 to AF2, which achieved  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13099841/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC13099841/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>transformative impact of AI-enabled AlphaFold 3 - PMCby C Chakraborty · 2026 · Cited by 1 — The AlphaFold (AF) initiative profoundly impa...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13099841/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC13099841/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>transformative impact of AI-enabled AlphaFold 3 - PMCby C Chakraborty · 2026 · Cited by 1 — The AlphaFold (AF) initiative profoundly impa...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/390749726_The_AI_Scientist-v2_Workshop-Level_Automated_Scientific_Discovery_via_Agentic_Tree_Search" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/390749726_The_AI_Scientist-v2_Workshop-Level_Automated_Scientific_Discovery_via_Agentic_Tree_Search</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The AI Scientist-v2: Workshop-Level Automated...14 Apr 2025 — We introduce The AI Scientist-v2, an end-to-end agentic system capab...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/390749726_The_AI_Scientist-v2_Workshop-Level_Automated_Scientific_Discovery_via_Agentic_Tree_Search" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/390749726_The_AI_Scientist-v2_Workshop-Level_Automated_Scientific_Discovery_via_Agentic_Tree_Search</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The AI Scientist-v2: Workshop-Level Automated...14 Apr 2025 — We introduce The AI Scientist-v2, an end-to-end agentic system capab...</p></details>
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1359644626000553" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1359644626000553</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI agents in drug discovery: applications and case studies1 day ago — We provide a conceptual overview of agentic AI architectures and il...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S1359644626000553" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1359644626000553</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI agents in drug discovery: applications and case studies1 day ago — We provide a conceptual overview of agentic AI architectures and il...</p></details>

@@ -269,10 +269,10 @@ image: /assets/images/AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0_ireland_data_716
 
 ## Introduction
 
-Ireland’s new rules for connecting large data centres to the electricity system are an attempt to solve a difficult problem: how to keep expanding digital and AI infrastructure without overwhelming a relatively small and already constrained grid. The solution chosen by regulators is unusual. Rather than simply refusing new projects, Ireland is increasingly requiring large data-centre operators to bring their own dispatchable [power]({{ 'power/' | relative_url }}) generation or storage alongside new grid connections. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cruie-live-96ca64acab2247eca8a850a7e54b-5b34f62.divio-media.com/documents/CRU2025236_Large_Energy_User_connection_policy_decision_paper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cruie-live-96ca64acab2247eca8a850a7e54b-5b34f62.divio-media.com">[cruie-live-96ca64acab2247eca8a850a7e54b-5b34f62.divio-media.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cruie-live-96ca64acab2247eca8a850a7e54b-5b34f62.divio-media.com</span><span class="citation-popover-title">CRU2025236 Large Energy User connection policy decision paper</span><span class="citation-popover-snippet">Large Energy Users Connection Policy12 Dec 2025 — The ability of the data centre applicant to bring onsite dispatchable generation (and/o...</span></span></span>
+Ireland’s new rules for connecting large data centres to the electricity system are an attempt to solve a difficult problem: how to keep expanding digital and AI infrastructure without overwhelming a relatively small and already constrained grid. The solution chosen by regulators is unusual. Rather than simply refusing new projects, Ireland is increasingly requiring large data-centre operators to bring their own dispatchable [power]({{ 'power/' | relative_url }}) generation or storage alongside new grid connections.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cruie-live-96ca64acab2247eca8a850a7e54b-5b34f62.divio-media.com/documents/CRU2025236_Large_Energy_User_connection_policy_decision_paper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cruie-live-96ca64acab2247eca8a850a7e54b-5b34f62.divio-media.com">[cruie-live-96ca64acab2247eca8a850a7e54b-5b34f62.divio-media.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cruie-live-96ca64acab2247eca8a850a7e54b-5b34f62.divio-media.com</span><span class="citation-popover-title">CRU2025236 Large Energy User connection policy decision paper</span><span class="citation-popover-snippet">Large Energy Users Connection Policy12 Dec 2025 — The ability of the data centre applicant to bring onsite dispatchable generation (and/o...</span></span></span>
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0_ireland_data_716ee8_grid_rules_fo_7615a3-Illustration-1-dark.svg" | relative_url }}" alt="Grid Rules illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0_ireland_data_716ee8_grid_rules_fo_7615a3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0_ireland_data_716ee8_grid_rules_fo_7615a3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-That approach could reduce pressure on the grid and make it easier to accommodate growing AI computing demand. But it also creates a tension at the centre of Ireland’s climate debate. In practice, the easiest way to provide large amounts of dispatchable power today is often through gas-fired generation. Critics argue that rules designed to protect the electricity system may therefore encourage new fossil-fuel infrastructure just as Ireland is trying to cut emissions. Supporters counter that reliability constraints are real, and that large AI and cloud facilities cannot run solely on intermittent renewable power with current technology and market structures. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.friendsoftheearth.ie/news/cru-decision-on-data-centres-runs-roughshod-over-climate-obl/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: friendsoftheearth.ie">[Friends of the Earth]</a><span class="citation-popover" role="note"><span class="citation-popover-source">friendsoftheearth.ie</span><span class="citation-popover-title">cru decision on data centres runs roughshod over climate obl</span><span class="citation-popover-snippet">Friends of the EarthCRU decision on data centres runs roughshod over climate...11 Dec 2025 — CRU decision risks putting Ireland back in...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://hannahdaly.ie/2025-12-12-CRU-data-centre-policy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hannahdaly.ie">[Prof. Hannah Daly]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hannahdaly.ie</span><span class="citation-popover-title">2025 12 12 CRU data centre policy</span><span class="citation-popover-snippet">Prof. Hannah DalyA new era of fossil fuels to facilitate data centres?12 Dec 2025 — The CRU&#x27;s new decision on data centre connections is...</span></span></span>
+That approach could reduce pressure on the grid and make it easier to accommodate growing AI computing demand. But it also creates a tension at the centre of Ireland’s climate debate. In practice, the easiest way to provide large amounts of dispatchable power today is often through gas-fired generation. Critics argue that rules designed to protect the electricity system may therefore encourage new fossil-fuel infrastructure just as Ireland is trying to cut emissions. Supporters counter that reliability constraints are real, and that large AI and cloud facilities cannot run solely on intermittent renewable power with current technology and market structures.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.friendsoftheearth.ie/news/cru-decision-on-data-centres-runs-roughshod-over-climate-obl/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: friendsoftheearth.ie">[Friends of the Earth]</a><span class="citation-popover" role="note"><span class="citation-popover-source">friendsoftheearth.ie</span><span class="citation-popover-title">cru decision on data centres runs roughshod over climate obl</span><span class="citation-popover-snippet">Friends of the EarthCRU decision on data centres runs roughshod over climate...11 Dec 2025 — CRU decision risks putting Ireland back in...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://hannahdaly.ie/2025-12-12-CRU-data-centre-policy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hannahdaly.ie">[Prof. Hannah Daly]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hannahdaly.ie</span><span class="citation-popover-title">2025 12 12 CRU data centre policy</span><span class="citation-popover-snippet">Prof. Hannah DalyA new era of fossil fuels to facilitate data centres?12 Dec 2025 — The CRU&#x27;s new decision on data centre connections is...</span></span></span>
 
 ## What the connection rules require
 
@@ -285,11 +285,11 @@ Key requirements include:
 * Dispatchable generation or storage capable of matching a site's maximum import capacity on a de-rated basis.
 * Generation or storage that participates in Ireland’s electricity market rather than functioning solely as emergency backup.
 * The possibility of locating generation on-site or near the data centre rather than directly inside the facility.
-* Increasing expectations that operators procure substantial amounts of new renewable electricity, with policy discussions centring on an 80 per cent renewable matching requirement over time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.arthurcox.com/knowledge/new-connection-policy-for-data-centres-in-ireland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arthurcox.com">[Arthur Cox LLP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arthurcox.com</span><span class="citation-popover-title">new connection policy for data centres in ireland</span><span class="citation-popover-snippet">Arthur Cox LLPNew connection policy for data centres in Ireland16 Dec 2025 — Large data centres must provide dispatchable onsite or proxi...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lexology.com/library/detail.aspx?g=b7d8515c-ce1c-4563-bde6-c3a3abf29469" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lexology.com">[Lexology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lexology.com</span><span class="citation-popover-snippet">Ireland&#x27;s New CRU Large Energy User Connection Policy22 Dec 2025 — For data centres at or above 10 MVA, the CRU requires dispatchable ons...</span></span></span>
+* Increasing expectations that operators procure substantial amounts of new renewable electricity, with policy discussions centring on an 80 per cent renewable matching requirement over time.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.arthurcox.com/knowledge/new-connection-policy-for-data-centres-in-ireland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arthurcox.com">[Arthur Cox LLP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arthurcox.com</span><span class="citation-popover-title">new connection policy for data centres in ireland</span><span class="citation-popover-snippet">Arthur Cox LLPNew connection policy for data centres in Ireland16 Dec 2025 — Large data centres must provide dispatchable onsite or proxi...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lexology.com/library/detail.aspx?g=b7d8515c-ce1c-4563-bde6-c3a3abf29469" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lexology.com">[Lexology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lexology.com</span><span class="citation-popover-snippet">Ireland&#x27;s New CRU Large Energy User Connection Policy22 Dec 2025 — For data centres at or above 10 MVA, the CRU requires dispatchable ons...</span></span></span>
 
 The policy is designed around a governance principle that has become increasingly important in AI infrastructure debates: if a project creates a large new load, it should contribute to solving the energy challenge rather than relying entirely on public infrastructure upgrades.
 
-This matters because Ireland's grid is unusually exposed to concentrated data-centre demand. In a larger continental system, a single hyperscale facility might represent only a small fraction of overall consumption. In Ireland, clusters of data centres can have visible effects on capacity planning, network congestion, and security-of-supply calculations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://gridbeyond.com/cru-unveils-limits-on-data-centre-usage-amid-supply-worries/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gridbeyond.com">[GridBeyond]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gridbeyond.com</span><span class="citation-popover-snippet">CRU unveils limits on data centre usage amid supply worriesEirGrid estimates that by 2028, data centres could account for 29% o...</span></span></span>
+This matters because Ireland's grid is unusually exposed to concentrated data-centre demand. In a larger continental system, a single hyperscale facility might represent only a small fraction of overall consumption. In Ireland, clusters of data centres can have visible effects on capacity planning, network congestion, and security-of-supply calculations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://gridbeyond.com/cru-unveils-limits-on-data-centre-usage-amid-supply-worries/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gridbeyond.com">[GridBeyond]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gridbeyond.com</span><span class="citation-popover-snippet">CRU unveils limits on data centre usage amid supply worriesEirGrid estimates that by 2028, data centres could account for 29% o...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qbsoh7qz6kw" title="The Price Of Power" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qbsoh7qz6kw" target="_blank" rel="noopener noreferrer">The Price Of Power</a></p><p class="youtube-embed-meta">Channel: Kev Collins &middot; Views: 55.4K &middot; Uploaded: March 2026 &middot; Length: 26 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qbsoh7qz6kw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qbsoh7qz6kw">Open on YouTube</a></p></div></div></div>
 
@@ -297,7 +297,7 @@ This matters because Ireland's grid is unusually exposed to concentrated data-ce
 
 The phrase “dispatchable generation” sounds technology-neutral, but current economics and engineering make some options much easier than others.
 
-Dispatchable power means electricity that can be called upon when needed rather than only when weather conditions permit. Grid operators value it because it can respond to demand spikes, renewable fluctuations, or unexpected outages. For a large data centre running AI workloads, cloud services, or critical internet infrastructure, reliability requirements are extremely high. Downtime can be extraordinarily expensive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mhc.ie/latest/insights/cru-sets-out-new-rules-for-data-centre-connections" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mhc.ie">[Mason Hayes Curran]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mhc.ie</span><span class="citation-popover-title">cru sets out new rules for data centre connections</span><span class="citation-popover-snippet">Mason Hayes CurranCRU Due to Set Out New Rules for Data Centre Connections29 Sept 2025 — Dispatchable generation: Applicants must provide...</span></span></span>
+Dispatchable power means electricity that can be called upon when needed rather than only when weather conditions permit. Grid operators value it because it can respond to demand spikes, renewable fluctuations, or unexpected outages. For a large data centre running AI workloads, cloud services, or critical internet infrastructure, reliability requirements are extremely high. Downtime can be extraordinarily expensive.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mhc.ie/latest/insights/cru-sets-out-new-rules-for-data-centre-connections" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mhc.ie">[Mason Hayes Curran]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mhc.ie</span><span class="citation-popover-title">cru sets out new rules for data centre connections</span><span class="citation-popover-snippet">Mason Hayes CurranCRU Due to Set Out New Rules for Data Centre Connections29 Sept 2025 — Dispatchable generation: Applicants must provide...</span></span></span>
 
 The problem is that most renewable generation is not inherently dispatchable.
 
@@ -310,7 +310,7 @@ The problem is that most renewable generation is not inherently dispatchable.
 
 </div>
 
-Natural-gas turbines, by contrast, are commercially mature, scalable, and capable of supplying power whenever required. For many developers, they are the most straightforward way to satisfy dispatchability requirements. That is why environmental groups argue that a formally technology-neutral rule may still create a practical bias towards fossil-fuel infrastructure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://consult.cru.ie/en/system/files/materials/200/294/CRU%20Consultation%20on%20Large%20Energy%20Users%20connection%20policy%20-%20Friends%20of%20the%20Earth%20Submission.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: consult.cru.ie">[CRU Consultation Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">consult.cru.ie</span><span class="citation-popover-snippet">CRU Consultation PortalFriends of the Earth Response to CRU202504 4 April 20254 Apr 2025 — It is our position that a connection policy ap...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://hannahdaly.ie/2025-12-12-CRU-data-centre-policy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hannahdaly.ie">[Prof. Hannah Daly]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hannahdaly.ie</span><span class="citation-popover-title">2025 12 12 CRU data centre policy</span><span class="citation-popover-snippet">Prof. Hannah DalyA new era of fossil fuels to facilitate data centres?12 Dec 2025 — The CRU&#x27;s new decision on data centre connections is...</span></span></span>
+Natural-gas turbines, by contrast, are commercially mature, scalable, and capable of supplying power whenever required. For many developers, they are the most straightforward way to satisfy dispatchability requirements. That is why environmental groups argue that a formally technology-neutral rule may still create a practical bias towards fossil-fuel infrastructure.<span class="citation-chip-wrap"><a class="citation-chip" href="https://consult.cru.ie/en/system/files/materials/200/294/CRU%20Consultation%20on%20Large%20Energy%20Users%20connection%20policy%20-%20Friends%20of%20the%20Earth%20Submission.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: consult.cru.ie">[CRU Consultation Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">consult.cru.ie</span><span class="citation-popover-snippet">CRU Consultation PortalFriends of the Earth Response to CRU202504 4 April 20254 Apr 2025 — It is our position that a connection policy ap...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://hannahdaly.ie/2025-12-12-CRU-data-centre-policy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hannahdaly.ie">[Prof. Hannah Daly]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hannahdaly.ie</span><span class="citation-popover-title">2025 12 12 CRU data centre policy</span><span class="citation-popover-snippet">Prof. Hannah DalyA new era of fossil fuels to facilitate data centres?12 Dec 2025 — The CRU&#x27;s new decision on data centre connections is...</span></span></span>
 
 This is the core contradiction. Ireland is trying to reduce dependence on fossil fuels while simultaneously demanding reliability characteristics that fossil-fuel systems currently provide most easily.
 
@@ -320,7 +320,7 @@ Critics describe this as a hidden fossil subsidy embedded within grid policy. Su
 
 Public discussion often focuses on diesel backup generators because most large data centres already have them. However, the new Irish framework is not primarily about traditional emergency generators.
 
-Emergency diesel systems generally operate only during outages and maintenance testing. They are not designed to participate continuously in electricity markets or provide regular balancing services. The CRU framework instead pushes developers toward generation or storage assets that can actively contribute to system adequacy and wholesale market participation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mhc.ie/latest/insights/cru-sets-out-new-rules-for-data-centre-connections" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mhc.ie">[Mason Hayes Curran]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mhc.ie</span><span class="citation-popover-title">cru sets out new rules for data centre connections</span><span class="citation-popover-snippet">Mason Hayes CurranCRU Due to Set Out New Rules for Data Centre Connections29 Sept 2025 — Dispatchable generation: Applicants must provide...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.arthurcox.com/knowledge/new-connection-policy-for-data-centres-in-ireland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arthurcox.com">[Arthur Cox LLP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arthurcox.com</span><span class="citation-popover-title">new connection policy for data centres in ireland</span><span class="citation-popover-snippet">Arthur Cox LLPNew connection policy for data centres in Ireland16 Dec 2025 — Large data centres must provide dispatchable onsite or proxi...</span></span></span>
+Emergency diesel systems generally operate only during outages and maintenance testing. They are not designed to participate continuously in electricity markets or provide regular balancing services. The CRU framework instead pushes developers toward generation or storage assets that can actively contribute to system adequacy and wholesale market participation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mhc.ie/latest/insights/cru-sets-out-new-rules-for-data-centre-connections" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mhc.ie">[Mason Hayes Curran]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mhc.ie</span><span class="citation-popover-title">cru sets out new rules for data centre connections</span><span class="citation-popover-snippet">Mason Hayes CurranCRU Due to Set Out New Rules for Data Centre Connections29 Sept 2025 — Dispatchable generation: Applicants must provide...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.arthurcox.com/knowledge/new-connection-policy-for-data-centres-in-ireland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arthurcox.com">[Arthur Cox LLP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arthurcox.com</span><span class="citation-popover-title">new connection policy for data centres in ireland</span><span class="citation-popover-snippet">Arthur Cox LLPNew connection policy for data centres in Ireland16 Dec 2025 — Large data centres must provide dispatchable onsite or proxi...</span></span></span>
 
 That distinction matters because it changes the scale of infrastructure involved.
 
@@ -334,10 +334,10 @@ The most important long-term question is whether Ireland’s rules will accelera
 In principle, the policy allows developers to satisfy requirements through combinations of:
 
 * Grid-scale batteries.
-* On-site battery storage. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mhc.ie/latest/insights/large-energy-users-connection-policy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mhc.ie">[mhc.ie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mhc.ie</span><span class="citation-popover-title">large energy users connection policy</span><span class="citation-popover-snippet">Mason Hayes CurranLarge Energy Users Connection Policy20 Feb 2025 — The required generation or storage must be located on or near the dat...</span></span></span>
+* On-site battery storage.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mhc.ie/latest/insights/large-energy-users-connection-policy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mhc.ie">[mhc.ie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mhc.ie</span><span class="citation-popover-title">large energy users connection policy</span><span class="citation-popover-snippet">Mason Hayes CurranLarge Energy Users Connection Policy20 Feb 2025 — The required generation or storage must be located on or near the dat...</span></span></span>
 * Renewable generation paired with storage.
-* Flexible demand management. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lexology.com/library/detail.aspx?g=e73e6b8d-5d58-4a19-98d2-4c5e8fdb818c" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lexology.com">[lexology.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lexology.com</span><span class="citation-popover-snippet">New Irish Large Energy Users Connection Policy7 Jan 2026 — Ability to bring flexible demand onsite. Flexibility of the data centre&#x27;s dema...</span></span></span>
-* Future low-carbon technologies such as hydrogen-fuelled generation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cruie-live-96ca64acab2247eca8a850a7e54b-5b34f62.divio-media.com/documents/CRU2025236_Large_Energy_User_connection_policy_decision_paper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cruie-live-96ca64acab2247eca8a850a7e54b-5b34f62.divio-media.com">[cruie-live-96ca64acab2247eca8a850a7e54b-5b34f62.divio-media.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cruie-live-96ca64acab2247eca8a850a7e54b-5b34f62.divio-media.com</span><span class="citation-popover-title">CRU2025236 Large Energy User connection policy decision paper</span><span class="citation-popover-snippet">Large Energy Users Connection Policy12 Dec 2025 — The ability of the data centre applicant to bring onsite dispatchable generation (and/o...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.arthurcox.com/knowledge/new-connection-policy-for-data-centres-in-ireland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arthurcox.com">[Arthur]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arthurcox.com</span><span class="citation-popover-title">new connection policy for data centres in ireland</span><span class="citation-popover-snippet">Arthur Cox LLPNew connection policy for data centres in Ireland16 Dec 2025 — Large data centres must provide dispatchable onsite or proxi...</span></span></span>
+* Flexible demand management.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lexology.com/library/detail.aspx?g=e73e6b8d-5d58-4a19-98d2-4c5e8fdb818c" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lexology.com">[lexology.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lexology.com</span><span class="citation-popover-snippet">New Irish Large Energy Users Connection Policy7 Jan 2026 — Ability to bring flexible demand onsite. Flexibility of the data centre&#x27;s dema...</span></span></span>
+* Future low-carbon technologies such as hydrogen-fuelled generation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cruie-live-96ca64acab2247eca8a850a7e54b-5b34f62.divio-media.com/documents/CRU2025236_Large_Energy_User_connection_policy_decision_paper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cruie-live-96ca64acab2247eca8a850a7e54b-5b34f62.divio-media.com">[cruie-live-96ca64acab2247eca8a850a7e54b-5b34f62.divio-media.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cruie-live-96ca64acab2247eca8a850a7e54b-5b34f62.divio-media.com</span><span class="citation-popover-title">CRU2025236 Large Energy User connection policy decision paper</span><span class="citation-popover-snippet">Large Energy Users Connection Policy12 Dec 2025 — The ability of the data centre applicant to bring onsite dispatchable generation (and/o...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.arthurcox.com/knowledge/new-connection-policy-for-data-centres-in-ireland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arthurcox.com">[Arthur]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arthurcox.com</span><span class="citation-popover-title">new connection policy for data centres in ireland</span><span class="citation-popover-snippet">Arthur Cox LLPNew connection policy for data centres in Ireland16 Dec 2025 — Large data centres must provide dispatchable onsite or proxi...</span></span></span>
 
 The challenge is scale.
 
@@ -353,7 +353,7 @@ The Irish case therefore functions as an early test of a broader question that m
 
 ## The legal and climate challenge
 
-Environmental organisations have challenged the policy in court, arguing that it risks locking in additional fossil-gas infrastructure and conflicts with Ireland's climate obligations. Friends of the Irish Environment, Friends of the Earth Ireland, and ClientEarth have all criticised the framework and pursued legal action against aspects of the decision-making process. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.friendsoftheirishenvironment.org/news-archive/data-centre-energy-policy-challenged-amid-ai-infrastructure-boom" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: friendsoftheirishenvironment.org">[friendsoftheirishenvironment.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">friendsoftheirishenvironment.org</span><span class="citation-popover-title">data centre energy policy challenged amid ai infrastructure boom</span><span class="citation-popover-snippet">Environmental lawyers were today granted leave by the High Court in their...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rte.ie/news/environment/2026/0323/1564681-data-centre-court/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rte.ie">[RTE.ie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rte.ie</span><span class="citation-popover-title">1564681 data centre court</span><span class="citation-popover-snippet">Environment groups seek to overturn data centre decision23 Mar 2026 — Three environmental groups will seek leave in the High Court to lod...</span></span></span>
+Environmental organisations have challenged the policy in court, arguing that it risks locking in additional fossil-gas infrastructure and conflicts with Ireland's climate obligations. Friends of the Irish Environment, Friends of the Earth Ireland, and ClientEarth have all criticised the framework and pursued legal action against aspects of the decision-making process.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.friendsoftheirishenvironment.org/news-archive/data-centre-energy-policy-challenged-amid-ai-infrastructure-boom" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: friendsoftheirishenvironment.org">[friendsoftheirishenvironment.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">friendsoftheirishenvironment.org</span><span class="citation-popover-title">data centre energy policy challenged amid ai infrastructure boom</span><span class="citation-popover-snippet">Environmental lawyers were today granted leave by the High Court in their...Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rte.ie/news/environment/2026/0323/1564681-data-centre-court/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rte.ie">[RTE.ie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rte.ie</span><span class="citation-popover-title">1564681 data centre court</span><span class="citation-popover-snippet">Environment groups seek to overturn data centre decision23 Mar 2026 — Three environmental groups will seek leave in the High Court to lod...</span></span></span>
 
 Their criticism is not simply that data centres use large amounts of electricity. Rather, it is that the connection framework may encourage a particular pathway for meeting that demand.
 
@@ -362,7 +362,7 @@ The concern has several layers:
 * New gas infrastructure could remain in operation for decades.
 * Emissions impacts may not be fully reflected in connection decisions.
 * Carbon-budget compliance becomes harder if dispatchable capacity is primarily fossil-fuel based.
-* Grid policies may effectively determine future emissions trajectories without being subjected to the same scrutiny as climate policy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.friendsoftheearth.ie/news/cru-decision-on-data-centres-runs-roughshod-over-climate-obl/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: friendsoftheearth.ie">[Friends of the Earth]</a><span class="citation-popover" role="note"><span class="citation-popover-source">friendsoftheearth.ie</span><span class="citation-popover-title">cru decision on data centres runs roughshod over climate obl</span><span class="citation-popover-snippet">Friends of the EarthCRU decision on data centres runs roughshod over climate...11 Dec 2025 — CRU decision risks putting Ireland back in...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://consult.cru.ie/en/system/files/materials/200/294/CRU%20Consultation%20on%20Large%20Energy%20Users%20connection%20policy%20-%20Friends%20of%20the%20Earth%20Submission.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: consult.cru.ie">[CRU Consultation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">consult.cru.ie</span><span class="citation-popover-snippet">CRU Consultation PortalFriends of the Earth Response to CRU202504 4 April 20254 Apr 2025 — It is our position that a connection policy ap...</span></span></span>
+* Grid policies may effectively determine future emissions trajectories without being subjected to the same scrutiny as climate policy.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.friendsoftheearth.ie/news/cru-decision-on-data-centres-runs-roughshod-over-climate-obl/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: friendsoftheearth.ie">[Friends of the Earth]</a><span class="citation-popover" role="note"><span class="citation-popover-source">friendsoftheearth.ie</span><span class="citation-popover-title">cru decision on data centres runs roughshod over climate obl</span><span class="citation-popover-snippet">Friends of the EarthCRU decision on data centres runs roughshod over climate...11 Dec 2025 — CRU decision risks putting Ireland back in...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://consult.cru.ie/en/system/files/materials/200/294/CRU%20Consultation%20on%20Large%20Energy%20Users%20connection%20policy%20-%20Friends%20of%20the%20Earth%20Submission.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: consult.cru.ie">[CRU Consultation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">consult.cru.ie</span><span class="citation-popover-snippet">CRU Consultation PortalFriends of the Earth Response to CRU202504 4 April 20254 Apr 2025 — It is our position that a connection policy ap...</span></span></span>
 
 Supporters of the policy respond that refusing new connections does not eliminate demand for AI and cloud computing. Instead, it may simply move investment elsewhere while leaving unresolved questions about how future digital infrastructure should contribute to grid stability.
 
@@ -382,194 +382,194 @@ Ireland’s connection rules sit directly at that intersection. They are not sim
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3CjEAZvClzQ" title="110MW microgrid developed for Dublin data centre" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3CjEAZvClzQ" target="_blank" rel="noopener noreferrer">110MW microgrid developed for Dublin data centre</a></p><p class="youtube-embed-meta">Channel: Data Centre Solutions &middot; Views: 40 &middot; Uploaded: May 2026 &middot; Length: 20 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3CjEAZvClzQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3CjEAZvClzQ">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can backup power make data centres cleaner?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can backup power make data centres cleaner?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Coming Wave on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b0y5zwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Coming Wave" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Coming Wave">The Coming Wave</a>
-        </h4>
-        <p class="fr-book-author">By Mustafa Suleyman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Coming Wave on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b0y5zwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Coming Wave" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Coming Wave">The Coming Wave</a>
+</h4>
+<p class="fr-book-author">By Mustafa Suleyman</p>
         
-        <p class="fr-book-desc">Directly addresses whether advanced AI can deliver broad civilisational benefits while remaining governable.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses whether advanced AI can deliver broad civilisational benefits while remaining governable.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Alignment Problem on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KGCNEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Alignment Problem" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Alignment Problem">The Alignment Problem</a>
-        </h4>
-        <p class="fr-book-author">By Brian Christian</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Alignment Problem on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KGCNEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Alignment Problem" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Alignment Problem">The Alignment Problem</a>
+</h4>
+<p class="fr-book-author">By Brian Christian</p>
         
-        <p class="fr-book-desc">Explores how learned systems can behave safely in training but fail later.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how learned systems can behave safely in training but fail later.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human Compatible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BKVPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Human Compatible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human Compatible">Human Compatible</a>
-        </h4>
-        <p class="fr-book-author">By Stuart Russell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human Compatible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BKVPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Human Compatible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human Compatible">Human Compatible</a>
+</h4>
+<p class="fr-book-author">By Stuart Russell</p>
         
-        <p class="fr-book-desc">Explores how powerful AI could advance humanity if aligned with human values.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how powerful AI could advance humanity if aligned with human values.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Superintelligence+by+Nick+Bostrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superintelligence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=7_H8AwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Superintelligence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Superintelligence+by+Nick+Bostrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superintelligence">Superintelligence</a>
-        </h4>
-        <p class="fr-book-author">By Nick Bostrom</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Superintelligence+by+Nick+Bostrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superintelligence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=7_H8AwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Superintelligence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Superintelligence+by+Nick+Bostrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superintelligence">Superintelligence</a>
+</h4>
+<p class="fr-book-author">By Nick Bostrom</p>
         
-        <p class="fr-book-desc">Covers deceptive behaviour, strategic goals and control difficulties.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Superintelligence+by+Nick+Bostrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers deceptive behaviour, strategic goals and control difficulties.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Superintelligence+by+Nick+Bostrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Coming+Wave&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Coming Wave</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Alignment+Problem&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Alignment Problem</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+Compatible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human Compatible</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Coming+Wave&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Coming Wave</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Alignment+Problem&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Alignment Problem</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+Compatible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human Compatible</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=battery+storage+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-backup-power-make-data-centres-cleaner-battery-storage-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="battery storage poster" data-ebay-reference="can-backup-power-make-data-centres-cleaner-battery-storage-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1924 Electric Storage Battery Locom Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/CEYAAeSwlQFphiZ5/s-l225.jpg" alt="Listing image for 1924 Electric Storage Battery Locom Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=battery+storage+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-backup-power-make-data-centres-cleaner-battery-storage-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="battery storage poster" data-ebay-reference="can-backup-power-make-data-centres-cleaner-battery-storage-poster" target="_blank" rel="sponsored noopener noreferrer">1924 Electric Storage Battery Locom Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=battery+storage+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-backup-power-make-data-centres-cleaner-battery-storage-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="battery storage poster" data-ebay-reference="can-backup-power-make-data-centres-cleaner-battery-storage-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for battery storage poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: battery storage poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=battery+storage+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-backup-power-make-data-centres-cleaner-battery-storage-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="battery storage poster" data-ebay-reference="can-backup-power-make-data-centres-cleaner-battery-storage-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=battery+storage+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-backup-power-make-data-centres-cleaner-battery-storage-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="battery storage poster" data-ebay-reference="can-backup-power-make-data-centres-cleaner-battery-storage-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1924 Electric Storage Battery Locom Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/CEYAAeSwlQFphiZ5/s-l225.jpg" alt="Listing image for 1924 Electric Storage Battery Locom Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=battery+storage+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-backup-power-make-data-centres-cleaner-battery-storage-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="battery storage poster" data-ebay-reference="can-backup-power-make-data-centres-cleaner-battery-storage-poster" target="_blank" rel="sponsored noopener noreferrer">1924 Electric Storage Battery Locom Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=battery+storage+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-backup-power-make-data-centres-cleaner-battery-storage-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="battery storage poster" data-ebay-reference="can-backup-power-make-data-centres-cleaner-battery-storage-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for battery storage poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: battery storage poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=battery+storage+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-backup-power-make-data-centres-cleaner-battery-storage-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="battery storage poster" data-ebay-reference="can-backup-power-make-data-centres-cleaner-battery-storage-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=battery+storage+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-backup-power-make-data-centres-cleaner-battery-storage-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="battery storage poster" data-ebay-reference="can-backup-power-make-data-centres-cleaner-battery-storage-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage US Poster Stamp The Willard Storage Battery Co. Cleveland, Ohio. U.S.A."><img src="https://i.ebayimg.com/images/g/aUwAAeSw129p6jhK/s-l225.jpg" alt="Listing image for Vintage US Poster Stamp The Willard Storage Battery Co. Cleveland, Ohio. U.S.A." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=battery+storage+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-backup-power-make-data-centres-cleaner-battery-storage-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="battery storage poster" data-ebay-reference="can-backup-power-make-data-centres-cleaner-battery-storage-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage US Poster Stamp The Willard Storage Battery Co. Cleveland, Ohio. U.S.A.</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=battery+storage+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-backup-power-make-data-centres-cleaner-battery-storage-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="battery storage poster" data-ebay-reference="can-backup-power-make-data-centres-cleaner-battery-storage-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for battery storage poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: battery storage poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=battery+storage+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-backup-power-make-data-centres-cleaner-battery-storage-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="battery storage poster" data-ebay-reference="can-backup-power-make-data-centres-cleaner-battery-storage-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=battery+storage+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-backup-power-make-data-centres-cleaner-battery-storage-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="battery storage poster" data-ebay-reference="can-backup-power-make-data-centres-cleaner-battery-storage-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage US Poster Stamp The Willard Storage Battery Co. Cleveland, Ohio. U.S.A."><img src="https://i.ebayimg.com/images/g/aUwAAeSw129p6jhK/s-l225.jpg" alt="Listing image for Vintage US Poster Stamp The Willard Storage Battery Co. Cleveland, Ohio. U.S.A." loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=battery+storage+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-backup-power-make-data-centres-cleaner-battery-storage-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="battery storage poster" data-ebay-reference="can-backup-power-make-data-centres-cleaner-battery-storage-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage US Poster Stamp The Willard Storage Battery Co. Cleveland, Ohio. U.S.A.</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=battery+storage+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-backup-power-make-data-centres-cleaner-battery-storage-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="battery storage poster" data-ebay-reference="can-backup-power-make-data-centres-cleaner-battery-storage-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for battery storage poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: battery storage poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=battery+storage+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-backup-power-make-data-centres-cleaner-battery-storage-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="battery storage poster" data-ebay-reference="can-backup-power-make-data-centres-cleaner-battery-storage-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=battery+storage+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-backup-power-make-data-centres-cleaner-battery-storage-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="battery storage poster" data-ebay-reference="can-backup-power-make-data-centres-cleaner-battery-storage-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FABK3 ADVERT 5X8 EXIDE AIRCRAFT BATTERIES - CHLORIDE ELECTRIC STORAGE CO LTD"><img src="https://i.ebayimg.com/images/g/Cs8AAOSwkidiqBx2/s-l225.jpg" alt="Listing image for FABK3 ADVERT 5X8 EXIDE AIRCRAFT BATTERIES - CHLORIDE ELECTRIC STORAGE CO LTD" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=battery+storage+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-backup-power-make-data-centres-cleaner-battery-storage-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="battery storage poster" data-ebay-reference="can-backup-power-make-data-centres-cleaner-battery-storage-poster" target="_blank" rel="sponsored noopener noreferrer">FABK3 ADVERT 5X8 EXIDE AIRCRAFT BATTERIES - CHLORIDE ELECTRIC STORAGE CO LTD</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=battery+storage+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-backup-power-make-data-centres-cleaner-battery-storage-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="battery storage poster" data-ebay-reference="can-backup-power-make-data-centres-cleaner-battery-storage-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for battery storage poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: battery storage poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=battery+storage+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-backup-power-make-data-centres-cleaner-battery-storage-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="battery storage poster" data-ebay-reference="can-backup-power-make-data-centres-cleaner-battery-storage-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=battery+storage+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-backup-power-make-data-centres-cleaner-battery-storage-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="battery storage poster" data-ebay-reference="can-backup-power-make-data-centres-cleaner-battery-storage-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FABK3 ADVERT 5X8 EXIDE AIRCRAFT BATTERIES - CHLORIDE ELECTRIC STORAGE CO LTD"><img src="https://i.ebayimg.com/images/g/Cs8AAOSwkidiqBx2/s-l225.jpg" alt="Listing image for FABK3 ADVERT 5X8 EXIDE AIRCRAFT BATTERIES - CHLORIDE ELECTRIC STORAGE CO LTD" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=battery+storage+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-backup-power-make-data-centres-cleaner-battery-storage-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="battery storage poster" data-ebay-reference="can-backup-power-make-data-centres-cleaner-battery-storage-poster" target="_blank" rel="sponsored noopener noreferrer">FABK3 ADVERT 5X8 EXIDE AIRCRAFT BATTERIES - CHLORIDE ELECTRIC STORAGE CO LTD</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=battery+storage+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-backup-power-make-data-centres-cleaner-battery-storage-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="battery storage poster" data-ebay-reference="can-backup-power-make-data-centres-cleaner-battery-storage-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for battery storage poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: battery storage poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=battery+storage+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-backup-power-make-data-centres-cleaner-battery-storage-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="battery storage poster" data-ebay-reference="can-backup-power-make-data-centres-cleaner-battery-storage-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=battery+storage+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-backup-power-make-data-centres-cleaner-battery-storage-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="battery storage poster" data-ebay-reference="can-backup-power-make-data-centres-cleaner-battery-storage-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1926 storage battery paten Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/FsEAAeSwOtdphiZ4/s-l225.jpg" alt="Listing image for 1926 storage battery paten Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=battery+storage+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-backup-power-make-data-centres-cleaner-battery-storage-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="battery storage poster" data-ebay-reference="can-backup-power-make-data-centres-cleaner-battery-storage-poster" target="_blank" rel="sponsored noopener noreferrer">1926 storage battery paten Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=battery+storage+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-backup-power-make-data-centres-cleaner-battery-storage-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="battery storage poster" data-ebay-reference="can-backup-power-make-data-centres-cleaner-battery-storage-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for battery storage poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: battery storage poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=battery+storage+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-backup-power-make-data-centres-cleaner-battery-storage-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="battery storage poster" data-ebay-reference="can-backup-power-make-data-centres-cleaner-battery-storage-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=battery+storage+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-backup-power-make-data-centres-cleaner-battery-storage-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="battery storage poster" data-ebay-reference="can-backup-power-make-data-centres-cleaner-battery-storage-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=battery+storage+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-backup-power-make-data-centres-cleaner-battery-storage-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="battery storage poster" data-ebay-reference="can-backup-power-make-data-centres-cleaner-battery-storage-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1926 storage battery paten Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/FsEAAeSwOtdphiZ4/s-l225.jpg" alt="Listing image for 1926 storage battery paten Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=battery+storage+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-backup-power-make-data-centres-cleaner-battery-storage-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="battery storage poster" data-ebay-reference="can-backup-power-make-data-centres-cleaner-battery-storage-poster" target="_blank" rel="sponsored noopener noreferrer">1926 storage battery paten Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=battery+storage+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-backup-power-make-data-centres-cleaner-battery-storage-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="battery storage poster" data-ebay-reference="can-backup-power-make-data-centres-cleaner-battery-storage-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for battery storage poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: battery storage poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=battery+storage+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-backup-power-make-data-centres-cleaner-battery-storage-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="battery storage poster" data-ebay-reference="can-backup-power-make-data-centres-cleaner-battery-storage-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=battery+storage+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-backup-power-make-data-centres-cleaner-battery-storage-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="battery storage poster" data-ebay-reference="can-backup-power-make-data-centres-cleaner-battery-storage-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -585,7 +585,7 @@ Ireland’s connection rules sit directly at that intersection. They are not sim
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -605,7 +605,7 @@ Ireland’s connection rules sit directly at that intersection. They are not sim
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -637,7 +637,7 @@ Ireland’s connection rules sit directly at that intersection. They are not sim
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -689,7 +689,7 @@ Ireland’s connection rules sit directly at that intersection. They are not sim
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -734,7 +734,7 @@ Ireland’s connection rules sit directly at that intersection. They are not sim
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -775,194 +775,194 @@ Ireland’s connection rules sit directly at that intersection. They are not sim
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cruie-live-96ca64acab2247eca8a850a7e54b-5b34f62.divio-media.com  
    Title: CRU2025236 Large Energy User connection policy decision paper  
-   Link: <a href="https://cruie-live-96ca64acab2247eca8a850a7e54b-5b34f62.divio-media.com/documents/CRU2025236_Large_Energy_User_connection_policy_decision_paper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cruie-live-96ca64acab2247eca8a850a7e54b-5b34f62.divio-media.com/documents/CRU2025236_Large_Energy_User_connection_policy_decision_paper.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Large Energy Users Connection Policy12 Dec 2025 — The ability of the data centre applicant to bring onsite dispatchable generation (and/o...</p></details>
+   Link:<a href="https://cruie-live-96ca64acab2247eca8a850a7e54b-5b34f62.divio-media.com/documents/CRU2025236_Large_Energy_User_connection_policy_decision_paper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cruie-live-96ca64acab2247eca8a850a7e54b-5b34f62.divio-media.com/documents/CRU2025236_Large_Energy_User_connection_policy_decision_paper.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Large Energy Users Connection Policy12 Dec 2025 — The ability of the data centre applicant to bring onsite dispatchable generation (and/o...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: cru.ie  
    Title: new electricity connection policy for data centre  
-   Link: <a href="https://www.cru.ie/about-us/news/new-electricity-connection-policy-for-data-centre/" target="_blank" rel="noopener noreferrer nofollow">https://www.cru.ie/about-us/news/new-electricity-connection-policy-for-data-centre/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>new-electricity-connection-policy-for-data-centre18 Feb 2025 — The purpose of this proposed decision paper is to set out a potential path...</p></details>
+   Link:<a href="https://www.cru.ie/about-us/news/new-electricity-connection-policy-for-data-centre/" target="_blank" rel="noopener noreferrer nofollow">https://www.cru.ie/about-us/news/new-electricity-connection-policy-for-data-centre/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>new-electricity-connection-policy-for-data-centre18 Feb 2025 — The purpose of this proposed decision paper is to set out a potential path...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: eversheds-sutherland.com  
    Title: cru decision paper published on large energy users connection policy  
-   Link: <a href="https://www.eversheds-sutherland.com/en/ireland/insights/cru-decision-paper-published-on-large-energy-users-connection-policy" target="_blank" rel="noopener noreferrer nofollow">https://www.eversheds-sutherland.com/en/ireland/insights/cru-decision-paper-published-on-large-energy-users-connection-policy</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>We have summarised the main...Read more...</p></details>
+   Link:<a href="https://www.eversheds-sutherland.com/en/ireland/insights/cru-decision-paper-published-on-large-energy-users-connection-policy" target="_blank" rel="noopener noreferrer nofollow">https://www.eversheds-sutherland.com/en/ireland/insights/cru-decision-paper-published-on-large-energy-users-connection-policy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>We have summarised the main...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arthurcox.com  
    Title: new connection policy for data centres in ireland  
-   Link: <a href="https://www.arthurcox.com/knowledge/new-connection-policy-for-data-centres-in-ireland/" target="_blank" rel="noopener noreferrer nofollow">https://www.arthurcox.com/knowledge/new-connection-policy-for-data-centres-in-ireland/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Arthur Cox LLPNew connection policy for data centres in Ireland16 Dec 2025 — Large data centres must provide dispatchable onsite or proxi...</p></details>
+   Link:<a href="https://www.arthurcox.com/knowledge/new-connection-policy-for-data-centres-in-ireland/" target="_blank" rel="noopener noreferrer nofollow">https://www.arthurcox.com/knowledge/new-connection-policy-for-data-centres-in-ireland/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Arthur Cox LLPNew connection policy for data centres in Ireland16 Dec 2025 — Large data centres must provide dispatchable onsite or proxi...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: lexology.com  
-   Link: <a href="https://www.lexology.com/library/detail.aspx?g=b7d8515c-ce1c-4563-bde6-c3a3abf29469" target="_blank" rel="noopener noreferrer nofollow">https://www.lexology.com/library/detail.aspx?g=b7d8515c-ce1c-4563-bde6-c3a3abf29469</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ireland&#x27;s New CRU Large Energy User Connection Policy22 Dec 2025 — For data centres at or above 10 MVA, the CRU requires dispatchable ons...</p></details>
+   Link:<a href="https://www.lexology.com/library/detail.aspx?g=b7d8515c-ce1c-4563-bde6-c3a3abf29469" target="_blank" rel="noopener noreferrer nofollow">https://www.lexology.com/library/detail.aspx?g=b7d8515c-ce1c-4563-bde6-c3a3abf29469</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ireland&#x27;s New CRU Large Energy User Connection Policy22 Dec 2025 — For data centres at or above 10 MVA, the CRU requires dispatchable ons...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: gridbeyond.com  
-   Link: <a href="https://gridbeyond.com/cru-unveils-limits-on-data-centre-usage-amid-supply-worries/" target="_blank" rel="noopener noreferrer nofollow">https://gridbeyond.com/cru-unveils-limits-on-data-centre-usage-amid-supply-worries/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CRU unveils limits on data centre usage amid supply worriesEirGrid estimates that by 2028, data centres could account for 29% o...</p></details>
+   Link:<a href="https://gridbeyond.com/cru-unveils-limits-on-data-centre-usage-amid-supply-worries/" target="_blank" rel="noopener noreferrer nofollow">https://gridbeyond.com/cru-unveils-limits-on-data-centre-usage-amid-supply-worries/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CRU unveils limits on data centre usage amid supply worriesEirGrid estimates that by 2028, data centres could account for 29% o...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: lexology.com  
-   Link: <a href="https://www.lexology.com/library/detail.aspx?g=e0e7a90f-f7af-4b72-a537-9ebc4ddf8920" target="_blank" rel="noopener noreferrer nofollow">https://www.lexology.com/library/detail.aspx?g=e0e7a90f-f7af-4b72-a537-9ebc4ddf8920</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Data centres and the grid: How recent Irish policy will...Apr 15, 2026 — In this article we look at a number of recent policy developmen...</p></details>
+   Link:<a href="https://www.lexology.com/library/detail.aspx?g=e0e7a90f-f7af-4b72-a537-9ebc4ddf8920" target="_blank" rel="noopener noreferrer nofollow">https://www.lexology.com/library/detail.aspx?g=e0e7a90f-f7af-4b72-a537-9ebc4ddf8920</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Data centres and the grid: How recent Irish policy will...Apr 15, 2026 — In this article we look at a number of recent policy developmen...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: consult.cru.ie  
-   Link: <a href="https://consult.cru.ie/en/system/files/materials/200/294/CRU%20Consultation%20on%20Large%20Energy%20Users%20connection%20policy%20-%20Friends%20of%20the%20Earth%20Submission.pdf" target="_blank" rel="noopener noreferrer nofollow">https://consult.cru.ie/en/system/files/materials/200/294/CRU%20Consultation%20on%20Large%20Energy%20Users%20connection%20policy%20-%20Friends%20of%20the%20Earth%20Submission.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CRU Consultation PortalFriends of the Earth Response to CRU202504 4 April 20254 Apr 2025 — It is our position that a connection policy ap...</p></details>
+   Link:<a href="https://consult.cru.ie/en/system/files/materials/200/294/CRU%20Consultation%20on%20Large%20Energy%20Users%20connection%20policy%20-%20Friends%20of%20the%20Earth%20Submission.pdf" target="_blank" rel="noopener noreferrer nofollow">https://consult.cru.ie/en/system/files/materials/200/294/CRU%20Consultation%20on%20Large%20Energy%20Users%20connection%20policy%20-%20Friends%20of%20the%20Earth%20Submission.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CRU Consultation PortalFriends of the Earth Response to CRU202504 4 April 20254 Apr 2025 — It is our position that a connection policy ap...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: friendsoftheirishenvironment.org  
    Title: data centre energy policy challenged amid ai infrastructure boom  
-   Link: <a href="https://www.friendsoftheirishenvironment.org/news-archive/data-centre-energy-policy-challenged-amid-ai-infrastructure-boom" target="_blank" rel="noopener noreferrer nofollow">https://www.friendsoftheirishenvironment.org/news-archive/data-centre-energy-policy-challenged-amid-ai-infrastructure-boom</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Environmental lawyers were today granted leave by the High Court in their...Read more...</p></details>
+   Link:<a href="https://www.friendsoftheirishenvironment.org/news-archive/data-centre-energy-policy-challenged-amid-ai-infrastructure-boom" target="_blank" rel="noopener noreferrer nofollow">https://www.friendsoftheirishenvironment.org/news-archive/data-centre-energy-policy-challenged-amid-ai-infrastructure-boom</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Environmental lawyers were today granted leave by the High Court in their...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: rte.ie  
    Title: 1564681 data centre court  
-   Link: <a href="https://www.rte.ie/news/environment/2026/0323/1564681-data-centre-court/" target="_blank" rel="noopener noreferrer nofollow">https://www.rte.ie/news/environment/2026/0323/1564681-data-centre-court/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Environment groups seek to overturn data centre decision23 Mar 2026 — Three environmental groups will seek leave in the High Court to lod...</p></details>
+   Link:<a href="https://www.rte.ie/news/environment/2026/0323/1564681-data-centre-court/" target="_blank" rel="noopener noreferrer nofollow">https://www.rte.ie/news/environment/2026/0323/1564681-data-centre-court/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Environment groups seek to overturn data centre decision23 Mar 2026 — Three environmental groups will seek leave in the High Court to lod...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cru.org  
-   Link: <a href="https://www.cru.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.cru.org/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cru is a caring community passionate about connecting people to Jesus Christ. With Cru, you&#x27;ll have local and global opportunities to...</p></details>
+   Link:<a href="https://www.cru.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.cru.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cru is a caring community passionate about connecting people to Jesus Christ. With Cru, you&#x27;ll have local and global opportunities to...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: lexology.com  
-   Link: <a href="https://www.lexology.com/library/detail.aspx?g=78c7dbbe-741e-4053-81ff-261aaf3cd95e" target="_blank" rel="noopener noreferrer nofollow">https://www.lexology.com/library/detail.aspx?g=78c7dbbe-741e-4053-81ff-261aaf3cd95e</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CRU Due to Set Out New Rules for Data Centre ConnectionsSep 29, 2025 — The CRU is expected to propose a new Large Energy Users Connection...</p></details>
+   Link:<a href="https://www.lexology.com/library/detail.aspx?g=78c7dbbe-741e-4053-81ff-261aaf3cd95e" target="_blank" rel="noopener noreferrer nofollow">https://www.lexology.com/library/detail.aspx?g=78c7dbbe-741e-4053-81ff-261aaf3cd95e</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CRU Due to Set Out New Rules for Data Centre ConnectionsSep 29, 2025 — The CRU is expected to propose a new Large Energy Users Connection...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: lexology.com  
-   Link: <a href="https://www.lexology.com/library/detail.aspx?g=e73e6b8d-5d58-4a19-98d2-4c5e8fdb818c" target="_blank" rel="noopener noreferrer nofollow">https://www.lexology.com/library/detail.aspx?g=e73e6b8d-5d58-4a19-98d2-4c5e8fdb818c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>New Irish Large Energy Users Connection Policy7 Jan 2026 — Ability to bring flexible demand onsite. Flexibility of the data centre&#x27;s dema...</p></details>
+   Link:<a href="https://www.lexology.com/library/detail.aspx?g=e73e6b8d-5d58-4a19-98d2-4c5e8fdb818c" target="_blank" rel="noopener noreferrer nofollow">https://www.lexology.com/library/detail.aspx?g=e73e6b8d-5d58-4a19-98d2-4c5e8fdb818c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New Irish Large Energy Users Connection Policy7 Jan 2026 — Ability to bring flexible demand onsite. Flexibility of the data centre&#x27;s dema...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: consult.cru.ie  
    Title: review large energy users connection policy  
-   Link: <a href="https://consult.cru.ie/en/consultation/review-large-energy-users-connection-policy" target="_blank" rel="noopener noreferrer nofollow">https://consult.cru.ie/en/consultation/review-large-energy-users-connection-policy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of Large Energy Users Connection Policy18 Feb 2025 — The purpose of this proposed decision paper is to set out a potential pathway for co...</p></details>
+   Link:<a href="https://consult.cru.ie/en/consultation/review-large-energy-users-connection-policy" target="_blank" rel="noopener noreferrer nofollow">https://consult.cru.ie/en/consultation/review-large-energy-users-connection-policy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of Large Energy Users Connection Policy18 Feb 2025 — The purpose of this proposed decision paper is to set out a potential pathway for co...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: cru.ie  
-   Link: <a href="https://www.cru.ie/about-us/news/the-cru-publishes-its-decision-on-new-electricity-connection-policy-for-data-centres/" target="_blank" rel="noopener noreferrer nofollow">https://www.cru.ie/about-us/news/the-cru-publishes-its-decision-on-new-electricity-connection-policy-for-data-centres/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CRU Publishes its Decision on New Electricity Connection...12 Dec 2025 — New policy updates the existing connection policy and provides...</p></details>
+   Link:<a href="https://www.cru.ie/about-us/news/the-cru-publishes-its-decision-on-new-electricity-connection-policy-for-data-centres/" target="_blank" rel="noopener noreferrer nofollow">https://www.cru.ie/about-us/news/the-cru-publishes-its-decision-on-new-electricity-connection-policy-for-data-centres/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CRU Publishes its Decision on New Electricity Connection...12 Dec 2025 — New policy updates the existing connection policy and provides...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: consult.cru.ie  
    Title: CRU202504 LEU Connection Policy Response  
-   Link: <a href="https://consult.cru.ie/en/system/files/materials/200/321/CRU202504%20LEU%20Connection%20Policy%20Response.pdf" target="_blank" rel="noopener noreferrer nofollow">https://consult.cru.ie/en/system/files/materials/200/321/CRU202504%20LEU%20Connection%20Policy%20Response.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>cru.ieCRU/202504 EirGrid Response4 Apr 2025 — “The Commission has made a proposed decision that data centres connecting to the electricit...</p></details>
+   Link:<a href="https://consult.cru.ie/en/system/files/materials/200/321/CRU202504%20LEU%20Connection%20Policy%20Response.pdf" target="_blank" rel="noopener noreferrer nofollow">https://consult.cru.ie/en/system/files/materials/200/321/CRU202504%20LEU%20Connection%20Policy%20Response.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>cru.ieCRU/202504 EirGrid Response4 Apr 2025 — “The Commission has made a proposed decision that data centres connecting to the electricit...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: consult.cru.ie  
-   Link: <a href="https://consult.cru.ie/en/system/files/materials/200/304/CII%20LEU%20Submission%204th%20April%202025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://consult.cru.ie/en/system/files/materials/200/304/CII%20LEU%20Submission%204th%20April%202025.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Large Energy Users Connection Policy Response by...Role of Data Centres in Ireland&#x27;s Enterprise Strategy to the focus instead on dispatc...</p></details>
+   Link:<a href="https://consult.cru.ie/en/system/files/materials/200/304/CII%20LEU%20Submission%204th%20April%202025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://consult.cru.ie/en/system/files/materials/200/304/CII%20LEU%20Submission%204th%20April%202025.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Large Energy Users Connection Policy Response by...Role of Data Centres in Ireland&#x27;s Enterprise Strategy to the focus instead on dispatc...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: consult.cru.ie  
    Title: CRU202504 Arup IRL Response  
-   Link: <a href="https://consult.cru.ie/en/system/files/materials/200/264/CRU202504-Arup%20IRL%20Response.pdf" target="_blank" rel="noopener noreferrer nofollow">https://consult.cru.ie/en/system/files/materials/200/264/CRU202504-Arup%20IRL%20Response.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>cru.ieCRU202504-Arup IRL Response.pdf3 Apr 2025 — The proposal that all data centres have onsite or proximate generation and/or energy st...</p></details>
+   Link:<a href="https://consult.cru.ie/en/system/files/materials/200/264/CRU202504-Arup%20IRL%20Response.pdf" target="_blank" rel="noopener noreferrer nofollow">https://consult.cru.ie/en/system/files/materials/200/264/CRU202504-Arup%20IRL%20Response.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>cru.ieCRU202504-Arup IRL Response.pdf3 Apr 2025 — The proposal that all data centres have onsite or proximate generation and/or energy st...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: friendsoftheearth.ie  
    Title: cru decision on data centres runs roughshod over climate obl  
-   Link: <a href="https://www.friendsoftheearth.ie/news/cru-decision-on-data-centres-runs-roughshod-over-climate-obl/" target="_blank" rel="noopener noreferrer nofollow">https://www.friendsoftheearth.ie/news/cru-decision-on-data-centres-runs-roughshod-over-climate-obl/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Friends of the EarthCRU decision on data centres runs roughshod over climate...11 Dec 2025 — CRU decision risks putting Ireland back in...</p></details>
+   Link:<a href="https://www.friendsoftheearth.ie/news/cru-decision-on-data-centres-runs-roughshod-over-climate-obl/" target="_blank" rel="noopener noreferrer nofollow">https://www.friendsoftheearth.ie/news/cru-decision-on-data-centres-runs-roughshod-over-climate-obl/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Friends of the EarthCRU decision on data centres runs roughshod over climate...11 Dec 2025 — CRU decision risks putting Ireland back in...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: hannahdaly.ie  
    Title: 2025 12 12 CRU data centre policy  
-   Link: <a href="https://hannahdaly.ie/2025-12-12-CRU-data-centre-policy/" target="_blank" rel="noopener noreferrer nofollow">https://hannahdaly.ie/2025-12-12-CRU-data-centre-policy/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Prof. Hannah DalyA new era of fossil fuels to facilitate data centres?12 Dec 2025 — The CRU&#x27;s new decision on data centre connections is...</p></details>
+   Link:<a href="https://hannahdaly.ie/2025-12-12-CRU-data-centre-policy/" target="_blank" rel="noopener noreferrer nofollow">https://hannahdaly.ie/2025-12-12-CRU-data-centre-policy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Prof. Hannah DalyA new era of fossil fuels to facilitate data centres?12 Dec 2025 — The CRU&#x27;s new decision on data centre connections is...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: mhc.ie  
    Title: cru sets out new rules for data centre connections  
-   Link: <a href="https://www.mhc.ie/latest/insights/cru-sets-out-new-rules-for-data-centre-connections" target="_blank" rel="noopener noreferrer nofollow">https://www.mhc.ie/latest/insights/cru-sets-out-new-rules-for-data-centre-connections</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mason Hayes CurranCRU Due to Set Out New Rules for Data Centre Connections29 Sept 2025 — Dispatchable generation: Applicants must provide...</p></details>
+   Link:<a href="https://www.mhc.ie/latest/insights/cru-sets-out-new-rules-for-data-centre-connections" target="_blank" rel="noopener noreferrer nofollow">https://www.mhc.ie/latest/insights/cru-sets-out-new-rules-for-data-centre-connections</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mason Hayes CurranCRU Due to Set Out New Rules for Data Centre Connections29 Sept 2025 — Dispatchable generation: Applicants must provide...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: mhc.ie  
    Title: large energy users connection policy  
-   Link: <a href="https://www.mhc.ie/latest/insights/large-energy-users-connection-policy" target="_blank" rel="noopener noreferrer nofollow">https://www.mhc.ie/latest/insights/large-energy-users-connection-policy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mason Hayes CurranLarge Energy Users Connection Policy20 Feb 2025 — The required generation or storage must be located on or near the dat...</p></details>
+   Link:<a href="https://www.mhc.ie/latest/insights/large-energy-users-connection-policy" target="_blank" rel="noopener noreferrer nofollow">https://www.mhc.ie/latest/insights/large-energy-users-connection-policy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mason Hayes CurranLarge Energy Users Connection Policy20 Feb 2025 — The required generation or storage must be located on or near the dat...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Ireland" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ireland</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>IrelandIreland is the second-largest island of the British Isles, the third-largest in Europe, and the twentieth-largest in the world...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Ireland" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ireland</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>IrelandIreland is the second-largest island of the British Isles, the third-largest in Europe, and the twentieth-largest in the world...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: ucc.ie  
-   Link: <a href="https://www.ucc.ie/en/epmg/research/other/friendsoftheearth/" target="_blank" rel="noopener noreferrer nofollow">https://www.ucc.ie/en/epmg/research/other/friendsoftheearth/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Friends of the EarthPolicy recommendations include: Enforce stricter power and gas grid connection policies for data centres, requiring a...</p></details>
+   Link:<a href="https://www.ucc.ie/en/epmg/research/other/friendsoftheearth/" target="_blank" rel="noopener noreferrer nofollow">https://www.ucc.ie/en/epmg/research/other/friendsoftheearth/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Friends of the EarthPolicy recommendations include: Enforce stricter power and gas grid connection policies for data centres, requiring a...</p></details>
 
 ### Additional References
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: eirgrid.ie  
-   Link: <a href="https://www.eirgrid.ie/industry/becoming-customer/generator-connections" target="_blank" rel="noopener noreferrer nofollow">https://www.eirgrid.ie/industry/becoming-customer/generator-connections</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Generator Connections | Becoming a CustomerGeneration Facilities Full Technical Criteria Application Form. Some applicants may have chose...</p></details>
+   Link:<a href="https://www.eirgrid.ie/industry/becoming-customer/generator-connections" target="_blank" rel="noopener noreferrer nofollow">https://www.eirgrid.ie/industry/becoming-customer/generator-connections</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Generator Connections | Becoming a CustomerGeneration Facilities Full Technical Criteria Application Form. Some applicants may have chose...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: algoodbody.com  
-   Link: <a href="https://www.algoodbody.com/insights-publications/data-centres-and-the-grid-how-recent-irish-policy-will-shape-the-sectordata-centres-and-the-grid-how-recent-irish-policy-will-shape-the-sector" target="_blank" rel="noopener noreferrer nofollow">https://www.algoodbody.com/insights-publications/data-centres-and-the-grid-how-recent-irish-policy-will-shape-the-sectordata-centres-and-the-grid-how-recent-irish-policy-will-shape-the-sector</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Data centres and the grid: How recent Irish policy will...15 Apr 2026 — In this article we look at a number of recent policy development...</p></details>
+   Link:<a href="https://www.algoodbody.com/insights-publications/data-centres-and-the-grid-how-recent-irish-policy-will-shape-the-sectordata-centres-and-the-grid-how-recent-irish-policy-will-shape-the-sector" target="_blank" rel="noopener noreferrer nofollow">https://www.algoodbody.com/insights-publications/data-centres-and-the-grid-how-recent-irish-policy-will-shape-the-sectordata-centres-and-the-grid-how-recent-irish-policy-will-shape-the-sector</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Data centres and the grid: How recent Irish policy will...15 Apr 2026 — In this article we look at a number of recent policy development...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/eversheds-sutherland-irl_cru2025236largeenergyuserconnectionpolicydecisionpaperpdf-activity-7405229350352285696-UqBe" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/eversheds-sutherland-irl_cru2025236largeenergyuserconnectionpolicydecisionpaperpdf-activity-7405229350352285696-UqBe</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Eversheds Sutherland Ireland&#x27;s Post12 Dec 2025 — The CRU has published its decision on the Large Energy Users Connection Policy which add...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/eversheds-sutherland-irl_cru2025236largeenergyuserconnectionpolicydecisionpaperpdf-activity-7405229350352285696-UqBe" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/eversheds-sutherland-irl_cru2025236largeenergyuserconnectionpolicydecisionpaperpdf-activity-7405229350352285696-UqBe</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eversheds Sutherland Ireland&#x27;s Post12 Dec 2025 — The CRU has published its decision on the Large Energy Users Connection Policy which add...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: philiplee.ie  
-   Link: <a href="https://www.philiplee.ie/re-balancing-the-digital-bargain-irelands-new-cru-large-energy-user-connection-policy/" target="_blank" rel="noopener noreferrer nofollow">https://www.philiplee.ie/re-balancing-the-digital-bargain-irelands-new-cru-large-energy-user-connection-policy/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ireland&#x27;s New CRU Large Energy User Connection Policy22 Dec 2025 — The Decision confirms that the new connection policy applies exclusive...</p></details>
+   Link:<a href="https://www.philiplee.ie/re-balancing-the-digital-bargain-irelands-new-cru-large-energy-user-connection-policy/" target="_blank" rel="noopener noreferrer nofollow">https://www.philiplee.ie/re-balancing-the-digital-bargain-irelands-new-cru-large-energy-user-connection-policy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ireland&#x27;s New CRU Large Energy User Connection Policy22 Dec 2025 — The Decision confirms that the new connection policy applies exclusive...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: byrnewallaceshields.com  
    Title: leap forward in clarity for irelands data centre sector and large energy users  
-   Link: <a href="https://www.byrnewallaceshields.com/news-and-recent-work/publications/leap-forward-in-clarity-for-irelands-data-centre-sector-and-large-energy-users.html" target="_blank" rel="noopener noreferrer nofollow">https://www.byrnewallaceshields.com/news-and-recent-work/publications/leap-forward-in-clarity-for-irelands-data-centre-sector-and-large-energy-users.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEAP Forward in Clarity for Ireland&#x27;s Data Centre Sector...16 Jan 2026 — The recent publication the CRU&#x27;s new Large Energy Users Connect...</p></details>
+   Link:<a href="https://www.byrnewallaceshields.com/news-and-recent-work/publications/leap-forward-in-clarity-for-irelands-data-centre-sector-and-large-energy-users.html" target="_blank" rel="noopener noreferrer nofollow">https://www.byrnewallaceshields.com/news-and-recent-work/publications/leap-forward-in-clarity-for-irelands-data-centre-sector-and-large-energy-users.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEAP Forward in Clarity for Ireland&#x27;s Data Centre Sector...16 Jan 2026 — The recent publication the CRU&#x27;s new Large Energy Users Connect...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: wattcharger.com  
    Title: data centres use 32 of irelands electricity how to stop competing with them  
-   Link: <a href="https://www.wattcharger.com/blog/data-centres-use-32-of-irelands-electricity-how-to-stop-competing-with-them" target="_blank" rel="noopener noreferrer nofollow">https://www.wattcharger.com/blog/data-centres-use-32-of-irelands-electricity-how-to-stop-competing-with-them</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Data Centres Use 32% of Ireland&#x27;s Electricity: How to Stop...In December 2025, the Commission for Regulation of Utilities (CRU) announce...</p></details>
+   Link:<a href="https://www.wattcharger.com/blog/data-centres-use-32-of-irelands-electricity-how-to-stop-competing-with-them" target="_blank" rel="noopener noreferrer nofollow">https://www.wattcharger.com/blog/data-centres-use-32-of-irelands-electricity-how-to-stop-competing-with-them</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Data Centres Use 32% of Ireland&#x27;s Electricity: How to Stop...In December 2025, the Commission for Regulation of Utilities (CRU) announce...</p></details>
    Published: December 2025  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: eaireland.com  
    Title: cru proposed decision on data centre grid connections eai to seek clarity  
-   Link: <a href="https://www.eaireland.com/cru-proposed-decision-on-data-centre-grid-connections-eai-to-seek-clarity/" target="_blank" rel="noopener noreferrer nofollow">https://www.eaireland.com/cru-proposed-decision-on-data-centre-grid-connections-eai-to-seek-clarity/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CRU Proposed Decision on Data Centre Grid Connections4 Apr 2025 — The CRU proposes that all new data centres seeking to connect to the gr...</p></details>
+   Link:<a href="https://www.eaireland.com/cru-proposed-decision-on-data-centre-grid-connections-eai-to-seek-clarity/" target="_blank" rel="noopener noreferrer nofollow">https://www.eaireland.com/cru-proposed-decision-on-data-centre-grid-connections-eai-to-seek-clarity/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CRU Proposed Decision on Data Centre Grid Connections4 Apr 2025 — The CRU proposes that all new data centres seeking to connect to the gr...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: williamfry.com  
    Title: cru publishes long awaited final policy on data centre connections  
-   Link: <a href="https://www.williamfry.com/knowledge/cru-publishes-long-awaited-final-policy-on-data-centre-connections/" target="_blank" rel="noopener noreferrer nofollow">https://www.williamfry.com/knowledge/cru-publishes-long-awaited-final-policy-on-data-centre-connections/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CRU Publishes Long Awaited Final Policy on Data Centre...15 Dec 2025 — The ability of the data centre applicant to bring onsite dispatch...</p></details>
+   Link:<a href="https://www.williamfry.com/knowledge/cru-publishes-long-awaited-final-policy-on-data-centre-connections/" target="_blank" rel="noopener noreferrer nofollow">https://www.williamfry.com/knowledge/cru-publishes-long-awaited-final-policy-on-data-centre-connections/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CRU Publishes Long Awaited Final Policy on Data Centre...15 Dec 2025 — The ability of the data centre applicant to bring onsite dispatch...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: cms.eirgrid.ie  
    Title: Data Centre Connection Offer Process and Policy v2 July 2020  
-   Link: <a href="https://cms.eirgrid.ie/sites/default/files/publications/Data-Centre-Connection-Offer-Process-and-Policy_v2_July-2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cms.eirgrid.ie/sites/default/files/publications/Data-Centre-Connection-Offer-Process-and-Policy_v2_July-2020.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Centre Connection Offer Process and Policy17 Jul 2020 — Flexible demand options in constrained areas. • Ramping rates. • Firm capacity av...</p></details>
+   Link:<a href="https://cms.eirgrid.ie/sites/default/files/publications/Data-Centre-Connection-Offer-Process-and-Policy_v2_July-2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cms.eirgrid.ie/sites/default/files/publications/Data-Centre-Connection-Offer-Process-and-Policy_v2_July-2020.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Centre Connection Offer Process and Policy17 Jul 2020 — Flexible demand options in constrained areas. • Ramping rates. • Firm capacity av...</p></details>
    Published: July 2020  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/pulse/irelands-new-large-energy-users-leu-connection-policy-updates-re24-miaac" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/irelands-new-large-energy-users-leu-connection-policy-updates-re24-miaac</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nnections, ensuring energy security while aligning with Ireland&#x27;s ambitious...Read more...</p></details>
+   Link:<a href="https://www.linkedin.com/pulse/irelands-new-large-energy-users-leu-connection-policy-updates-re24-miaac" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/irelands-new-large-energy-users-leu-connection-policy-updates-re24-miaac</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nnections, ensuring energy security while aligning with Ireland&#x27;s ambitious...Read more...</p></details>

@@ -272,7 +272,7 @@ image: /assets/images/AI_Bloom_Abun_98d3a6_ai_education_8e0228_ai_tutor_guar_a28
 An AI tutor should not say “no” because information is dangerous. It should sometimes refuse because learning is. The moments when students feel stuck, uncertain, or forced to think through a problem are often the moments when durable understanding is formed.
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_education_8e0228_ai_tutor_guar_a28a38_ai_tutor_answ_819ff2-Illustration-1-dark.svg" | relative_url }}" alt="Answer refusal illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_education_8e0228_ai_tutor_guar_a28a38_ai_tutor_answ_819ff2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_education_8e0228_ai_tutor_guar_a28a38_ai_tutor_answ_819ff2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This creates a tension at the centre of AI-assisted [education]({{ 'education/' | relative_url }}). The same systems that can provide instant explanations to millions of learners can also make it effortless to bypass the mental work that education is supposed to develop. Research increasingly suggests that unrestricted answer-giving can improve short-term task completion while weakening independent mastery later. The most promising AI tutors therefore do not simply ask whether an answer is correct. They ask whether providing that answer now would help the student learn. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pnas.org/doi/10.1073/pnas.2422633122" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[pnas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">Generative AI without guardrails can harm learningby H Bastani · 2025 · Cited by 179 — These results suggest that while access to generat...</span></span></span>
+This creates a tension at the centre of AI-assisted [education]({{ 'education/' | relative_url }}). The same systems that can provide instant explanations to millions of learners can also make it effortless to bypass the mental work that education is supposed to develop. Research increasingly suggests that unrestricted answer-giving can improve short-term task completion while weakening independent mastery later. The most promising AI tutors therefore do not simply ask whether an answer is correct. They ask whether providing that answer now would help the student learn.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pnas.org/doi/10.1073/pnas.2422633122" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[pnas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">Generative AI without guardrails can harm learningby H Bastani · 2025 · Cited by 179 — These results suggest that while access to generat...</span></span></span>
 
 Within the broader vision of AI-enabled human flourishing, this distinction matters enormously. If advanced AI is to expand human capability rather than replace it, educational systems must be designed to strengthen judgement, reasoning and skill acquisition. Selective refusal is one of the main tools for doing that.
 
@@ -282,7 +282,7 @@ A common assumption is that more help automatically produces more learning. Educ
 
 When students practise a skill, improvement comes partly from retrieval, trial-and-error, self-explanation and correcting mistakes. These processes feel slower than receiving the solution, but they are often what create lasting competence. If an AI performs the reasoning on the learner's behalf, the student may successfully finish the assignment while learning far less from it.
 
-This concern is no longer only theoretical. A large study of high-school mathematics students found that access to GPT-4 improved performance while the system was available, but students later performed worse when required to work independently. Researchers reported that many learners used the model as a “crutch”, relying on generated solutions rather than developing their own problem-solving skills. The study found that carefully designed safeguards substantially reduced these negative effects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pnas.org/doi/10.1073/pnas.2422633122" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[pnas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">Generative AI without guardrails can harm learningby H Bastani · 2025 · Cited by 179 — These results suggest that while access to generat...</span></span></span> PubMed The risk is subtle because students can feel as if they understand something when they are merely following an explanation. Watching a soluti <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/40560616/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[pubmed.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">AI without guardrails can harm learningby H Bastani · 2025 · Cited by 179 — Without guardrails, students attempt to use GPT-4 as a &quot;crutc...</span></span></span> on unfold is not the same as generating it yourself. An AI that always answers immediately may create an illusion of learning while reducing the amount of genuine cognitive work taking place.
+This concern is no longer only theoretical. A large study of high-school mathematics students found that access to GPT-4 improved performance while the system was available, but students later performed worse when required to work independently. Researchers reported that many learners used the model as a “crutch”, relying on generated solutions rather than developing their own problem-solving skills. The study found that carefully designed safeguards substantially reduced these negative effects.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pnas.org/doi/10.1073/pnas.2422633122" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[pnas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">Generative AI without guardrails can harm learningby H Bastani · 2025 · Cited by 179 — These results suggest that while access to generat...</span></span></span> PubMed The risk is subtle because students can feel as if they understand something when they are merely following an explanation. Watching a soluti<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/40560616/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[pubmed.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">AI without guardrails can harm learningby H Bastani · 2025 · Cited by 179 — Without guardrails, students attempt to use GPT-4 as a &quot;crutc...</span></span></span> on unfold is not the same as generating it yourself. An AI that always answers immediately may create an illusion of learning while reducing the amount of genuine cognitive work taking place.
 
 For advocates of an AI-rich future, this is a significant warning sign. The goal is not simply abundant answers. Search engines already made answers widely available. The stronger promise is abundant understanding: helping far more people acquire expertise, creativity and problem-solving ability. A tutoring system that trains dependency may work against that goal even while appearing useful.
 
@@ -311,7 +311,7 @@ In practice, that might mean:
 
 The objective is not maximum refusal. It is minimum necessary assistance.
 
-This approach is often described as Socratic tutoring because it relies on questions and guided reasoning rather than answer delivery. Studies comparing Socratic-style AI tutors with conventional answer-providing systems have found stronger support for reflection and critical thinking when learners are pushed to generate explanations themselves. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2409.05511v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Enhancing Critical Thinking in Education by means of a...Sep 9, 2024 — Results indicate that the Socratic tutor supports the develo...</span></span></span>
+This approach is often described as Socratic tutoring because it relies on questions and guided reasoning rather than answer delivery. Studies comparing Socratic-style AI tutors with conventional answer-providing systems have found stronger support for reflection and critical thinking when learners are pushed to generate explanations themselves.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2409.05511v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Enhancing Critical Thinking in Education by means of a...Sep 9, 2024 — Results indicate that the Socratic tutor supports the develo...</span></span></span>
 
 A refusal is therefore not a dead end. Ideally it redirects the conversation from “What is the answer?” to “What do you already know, and what is the next thing you can figure out?”
 
@@ -412,7 +412,7 @@ The debate over refusal is increasingly becoming a safety question rather than m
 
 Researchers working on AI tutoring have begun arguing that educational systems need their own category of safety standards. The concern is not primarily harmful content. It is educational harm: systems that quietly undermine learning while appearing helpful.
 
-The SafeTutors benchmark, introduced in 2026, argues that answer over-disclosure, reinforcement of misconceptions and failure to scaffold learning should be treated as serious tutoring risks. Researchers found widespread pedagogical failures across multiple models and observed that problems often became worse over extended conversations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2409.05511v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Enhancing Critical Thinking in Education by means of a...Sep 9, 2024 — Results indicate that the Socratic tutor supports the develo...</span></span></span> 2arXiv
+The SafeTutors benchmark, introduced in 2026, argues that answer over-disclosure, reinforcement of misconceptions and failure to scaffold learning should be treated as serious tutoring risks. Researchers found widespread pedagogical failures across multiple models and observed that problems often became worse over extended conversations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2409.05511v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Enhancing Critical Thinking in Education by means of a...Sep 9, 2024 — Results indicate that the Socratic tutor supports the develo...</span></span></span> 2arXiv
 
 This represents an important shift in perspective.
 
@@ -435,194 +435,194 @@ Selective refusal is one of the mechanisms that makes that outcome more plausibl
 The most effective AI tutor may not be the one that answers every question instantly. It may be the one that understands when an answer would help, when a hint would help more, and when the most valuable response is a temporary refusal that keeps the learner doing the thinking. In that sense, saying “no” is not a failure of the tutor. It is sometimes the moment when the tutor is doing its most important work.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When should an AI tutor say no?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When should an AI tutor say no?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+AI+Classroom+by+Dan+Fitzpatrick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The AI Classroom on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=femd0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The AI Classroom" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+AI+Classroom+by+Dan+Fitzpatrick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The AI Classroom">The AI Classroom</a>
-        </h4>
-        <p class="fr-book-author">By Dan Fitzpatrick, Amanda Fox et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+AI+Classroom+by+Dan+Fitzpatrick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The AI Classroom on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=femd0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The AI Classroom" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+AI+Classroom+by+Dan+Fitzpatrick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The AI Classroom">The AI Classroom</a>
+</h4>
+<p class="fr-book-author">By Dan Fitzpatrick, Amanda Fox et al.</p>
         
-        <p class="fr-book-desc">Useful for educators deciding how AI tools should respond.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+AI+Classroom+by+Dan+Fitzpatrick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for educators deciding how AI tools should respond.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+AI+Classroom+by+Dan+Fitzpatrick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oneWAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
-        </h4>
-        <p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oneWAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
+</h4>
+<p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
         
-        <p class="fr-book-desc">Explains why immediate answers can undermine retrieval and durable mastery.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why immediate answers can undermine retrieval and durable mastery.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why Don&#x27;t Students Like School? on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=DlMlEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why Don&#x27;t Students Like School?" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why Don&#x27;t Students Like School?">Why Don&#x27;t Students Like School?</a>
-        </h4>
-        <p class="fr-book-author">By Daniel T. Willingham</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why Don&#x27;t Students Like School? on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=DlMlEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why Don&#x27;t Students Like School?" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why Don&#x27;t Students Like School?">Why Don&#x27;t Students Like School?</a>
+</h4>
+<p class="fr-book-author">By Daniel T. Willingham</p>
         
-        <p class="fr-book-desc">Clarifies why thinking through problems matters for learning.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Clarifies why thinking through problems matters for learning.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Learning+Happens+by+Paul+A.+Kirschner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Learning Happens on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qhQpygEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How Learning Happens" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+Learning+Happens+by+Paul+A.+Kirschner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Learning Happens">How Learning Happens</a>
-        </h4>
-        <p class="fr-book-author">By Paul A. Kirschner, Carl Hendrick</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Learning+Happens+by+Paul+A.+Kirschner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Learning Happens on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qhQpygEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How Learning Happens" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+Learning+Happens+by+Paul+A.+Kirschner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Learning Happens">How Learning Happens</a>
+</h4>
+<p class="fr-book-author">By Paul A. Kirschner, Carl Hendrick</p>
         
-        <p class="fr-book-desc">Supports staged assistance and productive struggle.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+Learning+Happens+by+Paul+A.+Kirschner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports staged assistance and productive struggle.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+Learning+Happens+by+Paul+A.+Kirschner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+AI+Classroom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The AI Classroom</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why Don&#x27;t Students Like School?</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+AI+Classroom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The AI Classroom</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why Don&#x27;t Students Like School?</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-should-an-ai-tutor-say-no-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="when-should-an-ai-tutor-say-no-educational-robot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 🤖 Wonder Workshop Dash Robot - Award-Winning Interactive Coding Toy for Kids 🤖"><img src="https://i.ebayimg.com/images/g/MiYAAOSwDqJmyxYz/s-l225.jpg" alt="Listing image for 🤖 Wonder Workshop Dash Robot - Award-Winning Interactive Coding Toy for Kids 🤖" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-should-an-ai-tutor-say-no-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="when-should-an-ai-tutor-say-no-educational-robot" target="_blank" rel="sponsored noopener noreferrer">🤖 Wonder Workshop Dash Robot - Award-Winning Interactive Coding Toy for Kids 🤖</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-should-an-ai-tutor-say-no-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="when-should-an-ai-tutor-say-no-educational-robot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational robot">Search <span data-ebay-domain-label>eBay.co.uk</span>: educational robot</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-should-an-ai-tutor-say-no-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="when-should-an-ai-tutor-say-no-educational-robot" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-should-an-ai-tutor-say-no-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="when-should-an-ai-tutor-say-no-educational-robot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 🤖 Wonder Workshop Dash Robot - Award-Winning Interactive Coding Toy for Kids 🤖"><img src="https://i.ebayimg.com/images/g/MiYAAOSwDqJmyxYz/s-l225.jpg" alt="Listing image for 🤖 Wonder Workshop Dash Robot - Award-Winning Interactive Coding Toy for Kids 🤖" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-should-an-ai-tutor-say-no-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="when-should-an-ai-tutor-say-no-educational-robot" target="_blank" rel="sponsored noopener noreferrer">🤖 Wonder Workshop Dash Robot - Award-Winning Interactive Coding Toy for Kids 🤖</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-should-an-ai-tutor-say-no-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="when-should-an-ai-tutor-say-no-educational-robot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational robot">Search<span data-ebay-domain-label>eBay.co.uk</span>: educational robot</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-should-an-ai-tutor-say-no-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="when-should-an-ai-tutor-say-no-educational-robot" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-should-an-ai-tutor-say-no-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="when-should-an-ai-tutor-say-no-educational-robot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 🤖Sphero SPRK+ Educational Robot – STEM Coding &amp; Programming Toy for Kids &amp; Adul"><img src="https://i.ebayimg.com/images/g/6IoAAOSwH95nMPeS/s-l225.jpg" alt="Listing image for 🤖Sphero SPRK+ Educational Robot – STEM Coding &amp; Programming Toy for Kids &amp; Adul" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-should-an-ai-tutor-say-no-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="when-should-an-ai-tutor-say-no-educational-robot" target="_blank" rel="sponsored noopener noreferrer">🤖Sphero SPRK+ Educational Robot – STEM Coding &amp; Programming Toy for Kids &amp; Adul</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-should-an-ai-tutor-say-no-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="when-should-an-ai-tutor-say-no-educational-robot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational robot">Search <span data-ebay-domain-label>eBay.co.uk</span>: educational robot</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-should-an-ai-tutor-say-no-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="when-should-an-ai-tutor-say-no-educational-robot" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-should-an-ai-tutor-say-no-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="when-should-an-ai-tutor-say-no-educational-robot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 🤖Sphero SPRK+ Educational Robot – STEM Coding &amp; Programming Toy for Kids &amp; Adul"><img src="https://i.ebayimg.com/images/g/6IoAAOSwH95nMPeS/s-l225.jpg" alt="Listing image for 🤖Sphero SPRK+ Educational Robot – STEM Coding &amp; Programming Toy for Kids &amp; Adul" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-should-an-ai-tutor-say-no-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="when-should-an-ai-tutor-say-no-educational-robot" target="_blank" rel="sponsored noopener noreferrer">🤖Sphero SPRK+ Educational Robot – STEM Coding &amp; Programming Toy for Kids &amp; Adul</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-should-an-ai-tutor-say-no-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="when-should-an-ai-tutor-say-no-educational-robot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational robot">Search<span data-ebay-domain-label>eBay.co.uk</span>: educational robot</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-should-an-ai-tutor-say-no-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="when-should-an-ai-tutor-say-no-educational-robot" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-should-an-ai-tutor-say-no-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="when-should-an-ai-tutor-say-no-educational-robot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Interactive Educational Drawing Robot Auto Drawing Robot w/ 100 Cards for Kids"><img src="https://i.ebayimg.com/images/g/wagAAeSw-wlqGq-h/s-l225.jpg" alt="Listing image for Interactive Educational Drawing Robot Auto Drawing Robot w/ 100 Cards for Kids" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-should-an-ai-tutor-say-no-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="when-should-an-ai-tutor-say-no-educational-robot" target="_blank" rel="sponsored noopener noreferrer">Interactive Educational Drawing Robot Auto Drawing Robot w/ 100 Cards for Kids</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-should-an-ai-tutor-say-no-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="when-should-an-ai-tutor-say-no-educational-robot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational robot">Search <span data-ebay-domain-label>eBay.co.uk</span>: educational robot</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-should-an-ai-tutor-say-no-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="when-should-an-ai-tutor-say-no-educational-robot" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-should-an-ai-tutor-say-no-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="when-should-an-ai-tutor-say-no-educational-robot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Interactive Educational Drawing Robot Auto Drawing Robot w/ 100 Cards for Kids"><img src="https://i.ebayimg.com/images/g/wagAAeSw-wlqGq-h/s-l225.jpg" alt="Listing image for Interactive Educational Drawing Robot Auto Drawing Robot w/ 100 Cards for Kids" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-should-an-ai-tutor-say-no-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="when-should-an-ai-tutor-say-no-educational-robot" target="_blank" rel="sponsored noopener noreferrer">Interactive Educational Drawing Robot Auto Drawing Robot w/ 100 Cards for Kids</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-should-an-ai-tutor-say-no-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="when-should-an-ai-tutor-say-no-educational-robot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational robot">Search<span data-ebay-domain-label>eBay.co.uk</span>: educational robot</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-should-an-ai-tutor-say-no-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="when-should-an-ai-tutor-say-no-educational-robot" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-should-an-ai-tutor-say-no-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="when-should-an-ai-tutor-say-no-educational-robot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 10-in-1 Electric STEM Building Toy, Educational Activity Robot Toy Gift for Kids"><img src="https://i.ebayimg.com/images/g/1ZEAAeSwDe5qIqx5/s-l225.jpg" alt="Listing image for 10-in-1 Electric STEM Building Toy, Educational Activity Robot Toy Gift for Kids" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-should-an-ai-tutor-say-no-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="when-should-an-ai-tutor-say-no-educational-robot" target="_blank" rel="sponsored noopener noreferrer">10-in-1 Electric STEM Building Toy, Educational Activity Robot Toy Gift for Kids</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-should-an-ai-tutor-say-no-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="when-should-an-ai-tutor-say-no-educational-robot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational robot">Search <span data-ebay-domain-label>eBay.co.uk</span>: educational robot</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-should-an-ai-tutor-say-no-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="when-should-an-ai-tutor-say-no-educational-robot" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-should-an-ai-tutor-say-no-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="when-should-an-ai-tutor-say-no-educational-robot" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-should-an-ai-tutor-say-no-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="when-should-an-ai-tutor-say-no-educational-robot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 10-in-1 Electric STEM Building Toy, Educational Activity Robot Toy Gift for Kids"><img src="https://i.ebayimg.com/images/g/1ZEAAeSwDe5qIqx5/s-l225.jpg" alt="Listing image for 10-in-1 Electric STEM Building Toy, Educational Activity Robot Toy Gift for Kids" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-should-an-ai-tutor-say-no-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="when-should-an-ai-tutor-say-no-educational-robot" target="_blank" rel="sponsored noopener noreferrer">10-in-1 Electric STEM Building Toy, Educational Activity Robot Toy Gift for Kids</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-should-an-ai-tutor-say-no-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="when-should-an-ai-tutor-say-no-educational-robot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational robot">Search<span data-ebay-domain-label>eBay.co.uk</span>: educational robot</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-should-an-ai-tutor-say-no-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="when-should-an-ai-tutor-say-no-educational-robot" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-should-an-ai-tutor-say-no-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="when-should-an-ai-tutor-say-no-educational-robot" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -638,7 +638,7 @@ The most effective AI tutor may not be the one that answers every question insta
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -658,7 +658,7 @@ The most effective AI tutor may not be the one that answers every question insta
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -690,7 +690,7 @@ The most effective AI tutor may not be the one that answers every question insta
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -742,7 +742,7 @@ The most effective AI tutor may not be the one that answers every question insta
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -787,7 +787,7 @@ The most effective AI tutor may not be the one that answers every question insta
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -828,86 +828,86 @@ The most effective AI tutor may not be the one that answers every question insta
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pnas.org  
-   Link: <a href="https://www.pnas.org/doi/10.1073/pnas.2422633122" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/10.1073/pnas.2422633122</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Generative AI without guardrails can harm learningby H Bastani · 2025 · Cited by 179 — These results suggest that while access to generat...</p></details>
+   Link:<a href="https://www.pnas.org/doi/10.1073/pnas.2422633122" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/10.1073/pnas.2422633122</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Generative AI without guardrails can harm learningby H Bastani · 2025 · Cited by 179 — These results suggest that while access to generat...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2409.05511v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2409.05511v1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Enhancing Critical Thinking in Education by means of a...Sep 9, 2024 — Results indicate that the Socratic tutor supports the develo...</p></details>
+   Link:<a href="https://arxiv.org/html/2409.05511v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2409.05511v1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Enhancing Critical Thinking in Education by means of a...Sep 9, 2024 — Results indicate that the Socratic tutor supports the develo...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arxiv.org  
    Title: arXiv Safe Tutors: Benchmarking Pedagogical Safety in AI Tutoring Systems  
-   Link: <a href="https://arxiv.org/abs/2603.17373" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2603.17373</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SafeTutors: Benchmarking Pedagogical Safety in AI Tutoring SystemsMarch 18, 2026...</p></details>
+   Link:<a href="https://arxiv.org/abs/2603.17373" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2603.17373</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SafeTutors: Benchmarking Pedagogical Safety in AI Tutoring SystemsMarch 18, 2026...</p></details>
    Published: March 18, 2026  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2603.17373v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2603.17373v1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Benchmarking Pedagogical Safety in AI Tutoring SystemsMar 18, 2026 — To systematically study this failure mode, we introduce SafeTutors...</p></details>
+   Link:<a href="https://arxiv.org/html/2603.17373v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2603.17373v1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Benchmarking Pedagogical Safety in AI Tutoring SystemsMar 18, 2026 — To systematically study this failure mode, we introduce SafeTutors...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
    Title: We.Read more  
-   Link: <a href="https://arxiv.org/pdf/2603.17373" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2603.17373</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Benchmarking Pedagogical Safety in AI Tutoring Systemsby R Hazra · 2026 — We introduce SAFETUTORS, a benchmark for the joint safety...</p></details>
+   Link:<a href="https://arxiv.org/pdf/2603.17373" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2603.17373</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Benchmarking Pedagogical Safety in AI Tutoring Systemsby R Hazra · 2026 — We introduce SAFETUTORS, a benchmark for the joint safety...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/40560616/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/40560616/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AI without guardrails can harm learningby H Bastani · 2025 · Cited by 179 — Without guardrails, students attempt to use GPT-4 as a &quot;crutc...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/40560616/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/40560616/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI without guardrails can harm learningby H Bastani · 2025 · Cited by 179 — Without guardrails, students attempt to use GPT-4 as a &quot;crutc...</p></details>
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/393011815_Generative_AI_without_guardrails_can_harm_learning_Evidence_from_high_school_mathematics" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/393011815_Generative_AI_without_guardrails_can_harm_learning_Evidence_from_high_school_mathematics</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Generative AI without guardrails can harm learning4 May 2026 — Without guardrails, students attempt to use GPT-4 as a “crutch” duri...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/393011815_Generative_AI_without_guardrails_can_harm_learning_Evidence_from_high_school_mathematics" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/393011815_Generative_AI_without_guardrails_can_harm_learning_Evidence_from_high_school_mathematics</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Generative AI without guardrails can harm learning4 May 2026 — Without guardrails, students attempt to use GPT-4 as a “crutch” duri...</p></details>
    Published: May 2026  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40blessingokpala/ai-in-education-ux-how-khan-academy-is-shaping-human-ai-learning-experiences-9ec3492dbcc7" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40blessingokpala/ai-in-education-ux-how-khan-academy-is-shaping-human-ai-learning-experiences-9ec3492dbcc7</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AI in Education UX: How Khan Academy is Shaping...Socratic Method in UX: Khanmigo often responds with guiding questions instead of solut...</p></details>
+   Link:<a href="https://medium.com/%40blessingokpala/ai-in-education-ux-how-khan-academy-is-shaping-human-ai-learning-experiences-9ec3492dbcc7" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40blessingokpala/ai-in-education-ux-how-khan-academy-is-shaping-human-ai-learning-experiences-9ec3492dbcc7</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI in Education UX: How Khan Academy is Shaping...Socratic Method in UX: Khanmigo often responds with guiding questions instead of solut...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: mentorcruise.com  
-   Link: <a href="https://mentorcruise.com/tutor/safe/" target="_blank" rel="noopener noreferrer nofollow">https://mentorcruise.com/tutor/safe/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Find a SAFe tutorFind a SAFe tutor. Tired of trying to learn about SAFe on your own? Book an online lesson with a qualified tutor to lear...</p></details>
+   Link:<a href="https://mentorcruise.com/tutor/safe/" target="_blank" rel="noopener noreferrer nofollow">https://mentorcruise.com/tutor/safe/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Find a SAFe tutorFind a SAFe tutor. Tired of trying to learn about SAFe on your own? Book an online lesson with a qualified tutor to lear...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/pulse/end-scale-dilemma-meet-khanmigo-ai-tutor-never-tires-farida-bano-woqsc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/end-scale-dilemma-meet-khanmigo-ai-tutor-never-tires-farida-bano-woqsc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Meet Khanmigo, the AI Tutor That Never TiresSocratic Guide: Instead of direct answers, it uses the Socratic method, asking probing questi...</p></details>
+   Link:<a href="https://www.linkedin.com/pulse/end-scale-dilemma-meet-khanmigo-ai-tutor-never-tires-farida-bano-woqsc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/end-scale-dilemma-meet-khanmigo-ai-tutor-never-tires-farida-bano-woqsc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Meet Khanmigo, the AI Tutor That Never TiresSocratic Guide: Instead of direct answers, it uses the Socratic method, asking probing questi...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/hamsa-bastani-4a346955_generative-ai-without-guardrails-can-harm-activity-7343667696540033025-a1Ms" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/hamsa-bastani-4a346955_generative-ai-without-guardrails-can-harm-activity-7343667696540033025-a1Ms</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Out in PNAS today!! | Hamsa BastaniOur research examines the impact of generative AI, specifically GPT-4, on student learning in math edu...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/hamsa-bastani-4a346955_generative-ai-without-guardrails-can-harm-activity-7343667696540033025-a1Ms" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/hamsa-bastani-4a346955_generative-ai-without-guardrails-can-harm-activity-7343667696540033025-a1Ms</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Out in PNAS today!! | Hamsa BastaniOur research examines the impact of generative AI, specifically GPT-4, on student learning in math edu...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/fengchun-miao-5b999077_ai-generativeai-genai-activity-7445087956182302720-H_ZP" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/fengchun-miao-5b999077_ai-generativeai-genai-activity-7445087956182302720-H_ZP</a>  
+   Link:<a href="https://www.linkedin.com/posts/fengchun-miao-5b999077_ai-generativeai-genai-activity-7445087956182302720-H_ZP" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/fengchun-miao-5b999077_ai-generativeai-genai-activity-7445087956182302720-H_ZP</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/showcase/pnas-news/" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/showcase/pnas-news/</a>  
+   Link:<a href="https://www.linkedin.com/showcase/pnas-news/" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/showcase/pnas-news/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: chibe.upenn.edu  
-   Link: <a href="https://chibe.upenn.edu/publications/generative-ai-without-guardrails-can-harm-learning-evidence-from-high-school-mathematics/" target="_blank" rel="noopener noreferrer nofollow">https://chibe.upenn.edu/publications/generative-ai-without-guardrails-can-harm-learning-evidence-from-high-school-mathematics/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI without guardrails can harm learningThis study tested generative AI tutors, showing that design guardrails, or prompts that promote re...</p></details>
+   Link:<a href="https://chibe.upenn.edu/publications/generative-ai-without-guardrails-can-harm-learning-evidence-from-high-school-mathematics/" target="_blank" rel="noopener noreferrer nofollow">https://chibe.upenn.edu/publications/generative-ai-without-guardrails-can-harm-learning-evidence-from-high-school-mathematics/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI without guardrails can harm learningThis study tested generative AI tutors, showing that design guardrails, or prompts that promote re...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/vivienneming_generative-ai-without-guardrails-can-harm-activity-7351030739833978880-teKn" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/vivienneming_generative-ai-without-guardrails-can-harm-activity-7351030739833978880-teKn</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Vivienne Ming&#x27;s PostJul 15, 2025 — Students use &quot;GPT-4 as a &#x27;crutch&#x27; during practice problem sessions, and subsequently perform worse on...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/vivienneming_generative-ai-without-guardrails-can-harm-activity-7351030739833978880-teKn" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/vivienneming_generative-ai-without-guardrails-can-harm-activity-7351030739833978880-teKn</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Vivienne Ming&#x27;s PostJul 15, 2025 — Students use &quot;GPT-4 as a &#x27;crutch&#x27; during practice problem sessions, and subsequently perform worse on...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/smart-staff-room_most-ai-tools-give-students-the-answer-activity-7442506264066084864-CXwK" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/smart-staff-room_most-ai-tools-give-students-the-answer-activity-7442506264066084864-CXwK</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When a student asks &quot;what&#x27;s the answer?&quot; — Khanmigo responds with &quot;What do you already know about this problem?&quot; and guides...Read more...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/smart-staff-room_most-ai-tools-give-students-the-answer-activity-7442506264066084864-CXwK" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/smart-staff-room_most-ai-tools-give-students-the-answer-activity-7442506264066084864-CXwK</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When a student asks &quot;what&#x27;s the answer?&quot; — Khanmigo responds with &quot;What do you already know about this problem?&quot; and guides...Read more...</p></details>

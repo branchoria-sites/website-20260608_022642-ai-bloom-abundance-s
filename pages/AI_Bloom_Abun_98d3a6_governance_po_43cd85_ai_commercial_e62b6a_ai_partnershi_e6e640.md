@@ -280,7 +280,7 @@ The largest frontier AI models require extraordinary levels of spending. Trainin
 
 This has created a distinctive industry structure. Rather than buying AI labs outright, large technology firms often form strategic partnerships with them. The cloud company provides funding, computing resources and commercial distribution. The AI lab provides models, research talent and future technological capabilities.
 
-The Microsoft–OpenAI relationship became the defining example. Microsoft invested billions of dollars into OpenAI while becoming its primary cloud provider and integrating OpenAI technology throughout Azure and Microsoft's software ecosystem. Similar patterns emerged elsewhere. Amazon invested heavily in Anthropic while making Anthropic models available through Amazon Bedrock. Google invested in Anthropic and supplied cloud infrastructure while simultaneously competing against Anthropic through its own Gemini models. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/news-events/news/press-releases/2024/01/ftc-launches-inquiry-generative-ai-investments-partnerships" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">launches inquiry generative ai investments partnerships</span><span class="citation-popover-snippet">Microsoft and OpenAI, Amazon and Anthropic, and Google and Anthropic.Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/technology/article/2024/jul/30/google-anthropic-partnership-cma-ai" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">google anthropic partnership cma ai</span><span class="citation-popover-snippet">UK regulator looks at Google&#x27;s partnership with AnthropicJul 30, 2024 — The Competition and Markets Authority has begun a preliminary inv...</span></span></span>
+The Microsoft–OpenAI relationship became the defining example. Microsoft invested billions of dollars into OpenAI while becoming its primary cloud provider and integrating OpenAI technology throughout Azure and Microsoft's software ecosystem. Similar patterns emerged elsewhere. Amazon invested heavily in Anthropic while making Anthropic models available through Amazon Bedrock. Google invested in Anthropic and supplied cloud infrastructure while simultaneously competing against Anthropic through its own Gemini models.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/news-events/news/press-releases/2024/01/ftc-launches-inquiry-generative-ai-investments-partnerships" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">launches inquiry generative ai investments partnerships</span><span class="citation-popover-snippet">Microsoft and OpenAI, Amazon and Anthropic, and Google and Anthropic.Read more...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/technology/article/2024/jul/30/google-anthropic-partnership-cma-ai" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">google anthropic partnership cma ai</span><span class="citation-popover-snippet">UK regulator looks at Google&#x27;s partnership with AnthropicJul 30, 2024 — The Competition and Markets Authority has begun a preliminary inv...</span></span></span>
 
 These arrangements solve real problems for frontier labs:
 
@@ -307,7 +307,7 @@ Modern AI partnerships are more complicated. A cloud provider may not own a majo
 
 This is why regulators increasingly discuss concepts such as "material influence", "de facto control" and strategic dependency rather than focusing solely on ownership percentages.
 
-The US Federal Trade Commission launched a major inquiry into partnerships involving Microsoft and OpenAI, Amazon and Anthropic, and Google and Anthropic. The FTC argued that cloud providers and AI developers were creating new forms of strategic relationships that could affect competition, access to computing resources and future market structure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.heise.de/en/news/Microsoft-Google-FTC-investigates-AI-partnerships-and-collaborations-10247893.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heise.de">[Heise]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heise.de</span><span class="citation-popover-title">Microsoft Google FTC investigates AI partnerships and collaborations 10247893</span><span class="citation-popover-snippet">Microsoft, Google: FTC investigates AI partnerships and...19 Jan 2025 — The US Federal Trade Commission (FTC) is concerned about collabo...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/news-events/news/press-releases/2024/01/ftc-launches-inquiry-generative-ai-investments-partnerships" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">launches inquiry generative ai investments partnerships</span><span class="citation-popover-snippet">Microsoft and OpenAI, Amazon and Anthropic, and Google and Anthropic.Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/news-events/news/press-releases/2024/01/ftc-launches-inquiry-generative-ai-investments-partnerships" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">launches inquiry generative ai investments partnerships</span><span class="citation-popover-snippet">Microsoft and OpenAI, Amazon and Anthropic, and Google and Anthropic.Read more...</span></span></span>
+The US Federal Trade Commission launched a major inquiry into partnerships involving Microsoft and OpenAI, Amazon and Anthropic, and Google and Anthropic. The FTC argued that cloud providers and AI developers were creating new forms of strategic relationships that could affect competition, access to computing resources and future market structure.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.heise.de/en/news/Microsoft-Google-FTC-investigates-AI-partnerships-and-collaborations-10247893.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heise.de">[Heise]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heise.de</span><span class="citation-popover-title">Microsoft Google FTC investigates AI partnerships and collaborations 10247893</span><span class="citation-popover-snippet">Microsoft, Google: FTC investigates AI partnerships and...19 Jan 2025 — The US Federal Trade Commission (FTC) is concerned about collabo...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/news-events/news/press-releases/2024/01/ftc-launches-inquiry-generative-ai-investments-partnerships" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">launches inquiry generative ai investments partnerships</span><span class="citation-popover-snippet">Microsoft and OpenAI, Amazon and Anthropic, and Google and Anthropic.Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/news-events/news/press-releases/2024/01/ftc-launches-inquiry-generative-ai-investments-partnerships" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">launches inquiry generative ai investments partnerships</span><span class="citation-popover-snippet">Microsoft and OpenAI, Amazon and Anthropic, and Google and Anthropic.Read more...</span></span></span>
 
 Several concerns appear repeatedly in regulatory reviews.
 
@@ -325,7 +325,7 @@ Regulators worry that dependence on a single infrastructure partner could affect
 
 Cloud providers often host and support multiple AI developers simultaneously.
 
-Competition authorities have raised concerns that infrastructure partnerships can create privileged access to commercially sensitive information. A company may gain insight into usage patterns, infrastructure requirements or technical development trajectories of firms that are nominally independent. <span class="citation-chip-wrap"><a class="citation-chip" href="https://techcrunch.com/2025/01/18/ftc-says-partnerships-like-microsoft-openai-raise-antitrust-concerns/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techcrunch.com">[TechCrunch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techcrunch.com</span><span class="citation-popover-title">ftc says partnerships like microsoft openai raise antitrust concerns</span><span class="citation-popover-snippet">FTC says partnerships like Microsoft-OpenAI raise antitrust...18 Jan 2025 — The report focuses on the roles of Microsoft, Amaz...</span></span></span>
+Competition authorities have raised concerns that infrastructure partnerships can create privileged access to commercially sensitive information. A company may gain insight into usage patterns, infrastructure requirements or technical development trajectories of firms that are nominally independent.<span class="citation-chip-wrap"><a class="citation-chip" href="https://techcrunch.com/2025/01/18/ftc-says-partnerships-like-microsoft-openai-raise-antitrust-concerns/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techcrunch.com">[TechCrunch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techcrunch.com</span><span class="citation-popover-title">ftc says partnerships like microsoft openai raise antitrust concerns</span><span class="citation-popover-snippet">FTC says partnerships like Microsoft-OpenAI raise antitrust...18 Jan 2025 — The report focuses on the roles of Microsoft, Amaz...</span></span></span>
 
 Even when strict safeguards exist, regulators worry that information asymmetries could strengthen already dominant firms.
 
@@ -339,11 +339,11 @@ If a major cloud provider receives preferential rights to distribute or integrat
 
 No relationship has attracted more scrutiny than Microsoft's partnership with OpenAI.
 
-The scale of Microsoft's investment, combined with OpenAI's reliance on Azure infrastructure and Microsoft's commercial rights, led regulators on both sides of the Atlantic to examine whether the relationship effectively resembled a merger without an acquisition. The UK's Competition and Markets Authority opened a review specifically to examine whether developments in the partnership had created a relevant merger situation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/cma-seeks-views-on-microsofts-partnership-with-openai" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">cma seeks views on microsofts partnership with openai</span><span class="citation-popover-snippet">CMA seeks views on Microsoft&#x27;s partnership with OpenAIDec 8, 2023 — The CMA is now inviting views on whether the partnership between Micr...</span></span></span>
+The scale of Microsoft's investment, combined with OpenAI's reliance on Azure infrastructure and Microsoft's commercial rights, led regulators on both sides of the Atlantic to examine whether the relationship effectively resembled a merger without an acquisition. The UK's Competition and Markets Authority opened a review specifically to examine whether developments in the partnership had created a relevant merger situation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/cma-seeks-views-on-microsofts-partnership-with-openai" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">cma seeks views on microsofts partnership with openai</span><span class="citation-popover-snippet">CMA seeks views on Microsoft&#x27;s partnership with OpenAIDec 8, 2023 — The CMA is now inviting views on whether the partnership between Micr...</span></span></span>
 
 The debate intensified after OpenAI's board crisis in late 2023. Critics argued that the episode revealed how deeply intertwined the organisations had become. Supporters of the partnership argued the opposite: OpenAI's board demonstrated independent authority by making major decisions without Microsoft's control.
 
-The CMA ultimately concluded that Microsoft did not exercise the level of control required for a merger investigation under UK law. Its final decision found that the partnership did not qualify for review under merger provisions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/cma-cases/microsoft-slash-openai-partnership-merger-inquiry" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Microsoft / Open AI partnership merger inquiry Found not to qualify decision</span><span class="citation-popover-snippet">5 March 2025: The CMA has decided that Microsoft&#x27;s partnership with OpenAI does not qualify for investigation under the merger...Read more...</span><span class="citation-popover-meta">Published: March 2025</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/cma-cases/amazon-slash-anthropic-partnership-merger-inquiry" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">Open source on gov.uk.</span></span></span>
+The CMA ultimately concluded that Microsoft did not exercise the level of control required for a merger investigation under UK law. Its final decision found that the partnership did not qualify for review under merger provisions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/cma-cases/microsoft-slash-openai-partnership-merger-inquiry" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Microsoft / Open AI partnership merger inquiry Found not to qualify decision</span><span class="citation-popover-snippet">5 March 2025: The CMA has decided that Microsoft&#x27;s partnership with OpenAI does not qualify for investigation under the merger...Read more...</span><span class="citation-popover-meta">Published: March 2025</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/cma-cases/amazon-slash-anthropic-partnership-merger-inquiry" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">Open source on gov.uk.</span></span></span>
 
 Yet the case remains important because it exposed a wider policy problem. A partnership can transform an industry's structure even if it falls below existing legal thresholds for control.
 
@@ -353,9 +353,9 @@ The question is no longer simply whether a company owns an AI lab. It is whether
 
 Anthropic illustrates a different model.
 
-Rather than aligning exclusively with one major technology company, Anthropic developed significant relationships with both Amazon and Google. Amazon committed billions of dollars in investment while becoming a major infrastructure partner. Google also invested heavily and supplied cloud services. The arrangements prompted scrutiny from UK and US regulators concerned about how strategic investments and cloud agreements could affect future competition. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/cma-cases/alphabet-inc-google-llc-slash-anthropic-merger-inquiry" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Alphabet Inc</span><span class="citation-popover-snippet">Google LLC) / Anthropic merger inquiry19 November 2024: The CMA has decided that Alphabet&#x27;s partnership with Anthropic does not qualify...</span><span class="citation-popover-meta">Published: November 2024</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/cma-cases/microsoft-slash-inflection-ai-inquiry" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">microsoft slash inflection ai inquiry</span><span class="citation-popover-snippet">/ Inflection inquiryPhase 1. CMA clearance decision. 4 September 2024: The CMA has cleared Microsoft&#x27;s hiring of certain former employees...</span><span class="citation-popover-meta">Published: September 2024</span></span></span>
+Rather than aligning exclusively with one major technology company, Anthropic developed significant relationships with both Amazon and Google. Amazon committed billions of dollars in investment while becoming a major infrastructure partner. Google also invested heavily and supplied cloud services. The arrangements prompted scrutiny from UK and US regulators concerned about how strategic investments and cloud agreements could affect future competition.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/cma-cases/alphabet-inc-google-llc-slash-anthropic-merger-inquiry" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Alphabet Inc</span><span class="citation-popover-snippet">Google LLC) / Anthropic merger inquiry19 November 2024: The CMA has decided that Alphabet&#x27;s partnership with Anthropic does not qualify...</span><span class="citation-popover-meta">Published: November 2024</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/cma-cases/microsoft-slash-inflection-ai-inquiry" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">microsoft slash inflection ai inquiry</span><span class="citation-popover-snippet">/ Inflection inquiryPhase 1. CMA clearance decision. 4 September 2024: The CMA has cleared Microsoft&#x27;s hiring of certain former employees...</span><span class="citation-popover-meta">Published: September 2024</span></span></span>
 
-Regulators eventually concluded that neither the Amazon–Anthropic nor Google–Anthropic partnerships met the legal threshold for merger investigation under UK rules. <span class="citation-chip-wrap"><a class="citation-chip" href="https://uk.practicallaw.thomsonreuters.com/w-044-7449?contextData=%28sc.Default%29&amp;transitionType=Default" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uk.practicallaw.thomsonreuters.com">[Practical Law]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uk.practicallaw.thomsonreuters.com</span><span class="citation-popover-snippet">full text decision finding that Amazon / Anthropic...CMA decides that Amazon / Anthropic partnership does not qualify for investigation...</span></span></span>
+Regulators eventually concluded that neither the Amazon–Anthropic nor Google–Anthropic partnerships met the legal threshold for merger investigation under UK rules.<span class="citation-chip-wrap"><a class="citation-chip" href="https://uk.practicallaw.thomsonreuters.com/w-044-7449?contextData=%28sc.Default%29&amp;transitionType=Default" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uk.practicallaw.thomsonreuters.com">[Practical Law]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uk.practicallaw.thomsonreuters.com</span><span class="citation-popover-snippet">full text decision finding that Amazon / Anthropic...CMA decides that Amazon / Anthropic partnership does not qualify for investigation...</span></span></span>
 
 Even so, the Anthropic case highlights a broader tension.
 
@@ -419,13 +419,13 @@ AI partnerships may require broader tests that examine:
 * Infrastructure dependence.
 * Exclusive supply agreements.
 * Commercial distribution rights.
-* Access to intellectual property. <span class="citation-chip-wrap"><a class="citation-chip" href="https://blogs.microsoft.com/blog/2026/02/27/microsoft-and-openai-joint-statement-on-continuing-partnership/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.microsoft.com">[blogs.microsoft.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.microsoft.com</span><span class="citation-popover-title">and openai joint statement on continuing partnership</span><span class="citation-popover-snippet">Microsoft maintains its exclusive license and access to intellectual property across OpenAI models and...Read more...</span></span></span>
+* Access to intellectual property.<span class="citation-chip-wrap"><a class="citation-chip" href="https://blogs.microsoft.com/blog/2026/02/27/microsoft-and-openai-joint-statement-on-continuing-partnership/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.microsoft.com">[blogs.microsoft.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.microsoft.com</span><span class="citation-popover-title">and openai joint statement on continuing partnership</span><span class="citation-popover-snippet">Microsoft maintains its exclusive license and access to intellectual property across OpenAI models and...Read more...</span></span></span>
 * Long-term contractual leverage.
 * Board observation or governance rights.
 
 </div>
 
-Competition authorities in the UK, United States and elsewhere have increasingly explored these questions through partnership reviews and market studies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/news-events/news/press-releases/2024/01/ftc-launches-inquiry-generative-ai-investments-partnerships" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">launches inquiry generative ai investments partnerships</span><span class="citation-popover-snippet">Microsoft and OpenAI, Amazon and Anthropic, and Google and Anthropic.Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/cma-seeks-views-on-microsofts-partnership-with-openai" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">cma seeks views on microsofts partnership with openai</span><span class="citation-popover-snippet">CMA seeks views on Microsoft&#x27;s partnership with OpenAIDec 8, 2023 — The CMA is now inviting views on whether the partnership between Micr...</span></span></span>
+Competition authorities in the UK, United States and elsewhere have increasingly explored these questions through partnership reviews and market studies.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/news-events/news/press-releases/2024/01/ftc-launches-inquiry-generative-ai-investments-partnerships" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">launches inquiry generative ai investments partnerships</span><span class="citation-popover-snippet">Microsoft and OpenAI, Amazon and Anthropic, and Google and Anthropic.Read more...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/cma-seeks-views-on-microsofts-partnership-with-openai" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">cma seeks views on microsofts partnership with openai</span><span class="citation-popover-snippet">CMA seeks views on Microsoft&#x27;s partnership with OpenAIDec 8, 2023 — The CMA is now inviting views on whether the partnership between Micr...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/QQVhuITEH7o" title="The Fight for AI Market Dominance | CNBC Marathon" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=QQVhuITEH7o" target="_blank" rel="noopener noreferrer">The Fight for AI Market Dominance | CNBC Marathon</a></p><p class="youtube-embed-meta">Channel: CNBC &middot; Views: 167.4K &middot; Uploaded: May 2025 &middot; Length: 1 hour 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=QQVhuITEH7o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=QQVhuITEH7o">Open on YouTube</a></p></div></div></div>
 
@@ -458,194 +458,194 @@ The key governance challenge is therefore not whether partnerships should exist.
 As AI capabilities advance, questions about ownership, influence and dependency may become as important as questions about the technology itself. The future shape of an AI-enabled bloom could depend not only on how intelligent the systems become, but on who ultimately governs the institutions that build them.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When does AI funding become control?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When does AI funding become control?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Big+Nine+by+Amy+Webb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Big Nine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-9RtDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Big Nine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Big+Nine+by+Amy+Webb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Big Nine">The Big Nine</a>
-        </h4>
-        <p class="fr-book-author">By Amy Webb</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Big+Nine+by+Amy+Webb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Big Nine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-9RtDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Big Nine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Big+Nine+by+Amy+Webb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Big Nine">The Big Nine</a>
+</h4>
+<p class="fr-book-author">By Amy Webb</p>
         
-        <p class="fr-book-desc">Addresses concentration of influence among major AI organizations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Big+Nine+by+Amy+Webb&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses concentration of influence among major AI organizations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Big+Nine+by+Amy+Webb&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Power+and+Prediction+by+Ajay+Agrawal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Power and Prediction on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=86lYEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Power and Prediction" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Power+and+Prediction+by+Ajay+Agrawal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Power and Prediction">Power and Prediction</a>
-        </h4>
-        <p class="fr-book-author">By Ajay Agrawal, Joshua Gans et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Power+and+Prediction+by+Ajay+Agrawal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Power and Prediction on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=86lYEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Power and Prediction" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Power+and+Prediction+by+Ajay+Agrawal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Power and Prediction">Power and Prediction</a>
+</h4>
+<p class="fr-book-author">By Ajay Agrawal, Joshua Gans et al.</p>
         
-        <p class="fr-book-desc">Explains incentives driving partnerships and investment in AI infrastructure.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Power+and+Prediction+by+Ajay+Agrawal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains incentives driving partnerships and investment in AI infrastructure.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Power+and+Prediction+by+Ajay+Agrawal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Master+Switch+by+Tim+Wu&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Master Switch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nlnpJl7lNKUC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Master Switch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Master+Switch+by+Tim+Wu&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Master Switch">The Master Switch</a>
-        </h4>
-        <p class="fr-book-author">By Tim Wu</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Master+Switch+by+Tim+Wu&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Master Switch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nlnpJl7lNKUC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Master Switch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Master+Switch+by+Tim+Wu&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Master Switch">The Master Switch</a>
+</h4>
+<p class="fr-book-author">By Tim Wu</p>
         
-        <p class="fr-book-desc">Offers historical parallels for control emerging through infrastructure dominance.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Master+Switch+by+Tim+Wu&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Offers historical parallels for control emerging through infrastructure dominance.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Master+Switch+by+Tim+Wu&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Competition+Overdose+by+Maurice+E.+Stucke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Competition Overdose on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aRG0xgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Competition Overdose" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Competition+Overdose+by+Maurice+E.+Stucke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Competition Overdose">Competition Overdose</a>
-        </h4>
-        <p class="fr-book-author">By Maurice E. Stucke, Ariel Ezrachi</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Competition+Overdose+by+Maurice+E.+Stucke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Competition Overdose on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aRG0xgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Competition Overdose" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Competition+Overdose+by+Maurice+E.+Stucke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Competition Overdose">Competition Overdose</a>
+</h4>
+<p class="fr-book-author">By Maurice E. Stucke, Ariel Ezrachi</p>
         
-        <p class="fr-book-desc">Examines market power and regulatory concerns around concentration.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Competition+Overdose+by+Maurice+E.+Stucke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines market power and regulatory concerns around concentration.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Competition+Overdose+by+Maurice+E.+Stucke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Big+Nine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Big Nine</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Power+and+Prediction&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Power and Prediction</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Master+Switch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Master Switch</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Big+Nine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Big Nine</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Power+and+Prediction&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Power and Prediction</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Master+Switch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Master Switch</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-ai-funding-become-control-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="when-does-ai-funding-become-control-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A.I. Artificial Intelligence Film Poster/Print A3/A4/A5 230gsm Framed"><img src="https://i.ebayimg.com/images/g/FxgAAeSwbvFo3ltn/s-l225.jpg" alt="Listing image for A.I. Artificial Intelligence Film Poster/Print A3/A4/A5 230gsm Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-ai-funding-become-control-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="when-does-ai-funding-become-control-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer">A.I. Artificial Intelligence Film Poster/Print A3/A4/A5 230gsm Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-ai-funding-become-control-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="when-does-ai-funding-become-control-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-ai-funding-become-control-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="when-does-ai-funding-become-control-artificial-intelligence-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-ai-funding-become-control-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="when-does-ai-funding-become-control-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A.I. Artificial Intelligence Film Poster/Print A3/A4/A5 230gsm Framed"><img src="https://i.ebayimg.com/images/g/FxgAAeSwbvFo3ltn/s-l225.jpg" alt="Listing image for A.I. Artificial Intelligence Film Poster/Print A3/A4/A5 230gsm Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-ai-funding-become-control-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="when-does-ai-funding-become-control-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer">A.I. Artificial Intelligence Film Poster/Print A3/A4/A5 230gsm Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-ai-funding-become-control-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="when-does-ai-funding-become-control-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-ai-funding-become-control-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="when-does-ai-funding-become-control-artificial-intelligence-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-ai-funding-become-control-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="when-does-ai-funding-become-control-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Artificial intelligence is no a mat Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/7q0AAeSwc-Fp2SC1/s-l225.jpg" alt="Listing image for Artificial intelligence is no a mat Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-ai-funding-become-control-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="when-does-ai-funding-become-control-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer">Artificial intelligence is no a mat Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-ai-funding-become-control-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="when-does-ai-funding-become-control-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-ai-funding-become-control-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="when-does-ai-funding-become-control-artificial-intelligence-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-ai-funding-become-control-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="when-does-ai-funding-become-control-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Artificial intelligence is no a mat Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/7q0AAeSwc-Fp2SC1/s-l225.jpg" alt="Listing image for Artificial intelligence is no a mat Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-ai-funding-become-control-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="when-does-ai-funding-become-control-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer">Artificial intelligence is no a mat Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-ai-funding-become-control-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="when-does-ai-funding-become-control-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-ai-funding-become-control-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="when-does-ai-funding-become-control-artificial-intelligence-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-ai-funding-become-control-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="when-does-ai-funding-become-control-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A.I. Artificial Intelligence Movie Film Poster Art Print"><img src="https://i.ebayimg.com/images/g/QBAAAOSwKr5m~RI5/s-l225.jpg" alt="Listing image for A.I. Artificial Intelligence Movie Film Poster Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-ai-funding-become-control-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="when-does-ai-funding-become-control-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer">A.I. Artificial Intelligence Movie Film Poster Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-ai-funding-become-control-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="when-does-ai-funding-become-control-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-ai-funding-become-control-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="when-does-ai-funding-become-control-artificial-intelligence-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-ai-funding-become-control-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="when-does-ai-funding-become-control-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A.I. Artificial Intelligence Movie Film Poster Art Print"><img src="https://i.ebayimg.com/images/g/QBAAAOSwKr5m~RI5/s-l225.jpg" alt="Listing image for A.I. Artificial Intelligence Movie Film Poster Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-ai-funding-become-control-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="when-does-ai-funding-become-control-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer">A.I. Artificial Intelligence Movie Film Poster Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-ai-funding-become-control-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="when-does-ai-funding-become-control-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-ai-funding-become-control-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="when-does-ai-funding-become-control-artificial-intelligence-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-ai-funding-become-control-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="when-does-ai-funding-become-control-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A.I. - Artificial Intelligence Movie/Film Poster Art PICTURE / PRINT 9&quot; x 8&quot;"><img src="https://i.ebayimg.com/images/g/d0wAAOSwyPhnmSBl/s-l225.jpg" alt="Listing image for A.I. - Artificial Intelligence Movie/Film Poster Art PICTURE / PRINT 9&quot; x 8&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-ai-funding-become-control-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="when-does-ai-funding-become-control-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer">A.I. - Artificial Intelligence Movie/Film Poster Art PICTURE / PRINT 9&quot; x 8&quot;</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-ai-funding-become-control-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="when-does-ai-funding-become-control-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-ai-funding-become-control-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="when-does-ai-funding-become-control-artificial-intelligence-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-ai-funding-become-control-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="when-does-ai-funding-become-control-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-ai-funding-become-control-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="when-does-ai-funding-become-control-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A.I. - Artificial Intelligence Movie/Film Poster Art PICTURE / PRINT 9&quot; x 8&quot;"><img src="https://i.ebayimg.com/images/g/d0wAAOSwyPhnmSBl/s-l225.jpg" alt="Listing image for A.I. - Artificial Intelligence Movie/Film Poster Art PICTURE / PRINT 9&quot; x 8&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-ai-funding-become-control-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="when-does-ai-funding-become-control-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer">A.I. - Artificial Intelligence Movie/Film Poster Art PICTURE / PRINT 9&quot; x 8&quot;</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-ai-funding-become-control-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="when-does-ai-funding-become-control-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-ai-funding-become-control-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="when-does-ai-funding-become-control-artificial-intelligence-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-ai-funding-become-control-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="when-does-ai-funding-become-control-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -661,7 +661,7 @@ As AI capabilities advance, questions about ownership, influence and dependency 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -681,7 +681,7 @@ As AI capabilities advance, questions about ownership, influence and dependency 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -713,7 +713,7 @@ As AI capabilities advance, questions about ownership, influence and dependency 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -765,7 +765,7 @@ As AI capabilities advance, questions about ownership, influence and dependency 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -810,7 +810,7 @@ As AI capabilities advance, questions about ownership, influence and dependency 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -851,184 +851,184 @@ As AI capabilities advance, questions about ownership, influence and dependency 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: ftc.gov  
    Title: launches inquiry generative ai investments partnerships  
-   Link: <a href="https://www.ftc.gov/news-events/news/press-releases/2024/01/ftc-launches-inquiry-generative-ai-investments-partnerships" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/news-events/news/press-releases/2024/01/ftc-launches-inquiry-generative-ai-investments-partnerships</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Microsoft and OpenAI, Amazon and Anthropic, and Google and Anthropic.Read more...</p></details>
+   Link:<a href="https://www.ftc.gov/news-events/news/press-releases/2024/01/ftc-launches-inquiry-generative-ai-investments-partnerships" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/news-events/news/press-releases/2024/01/ftc-launches-inquiry-generative-ai-investments-partnerships</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Microsoft and OpenAI, Amazon and Anthropic, and Google and Anthropic.Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ftc.gov  
-   Link: <a href="https://www.ftc.gov/system/files/ftc_gov/pdf/p246201_aipartnerships6breport_redacted_0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/system/files/ftc_gov/pdf/p246201_aipartnerships6breport_redacted_0.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionPartnerships Between Cloud Service Providers and AI...4.5.1 - The partnerships offer CSP partners the ability to...</p></details>
+   Link:<a href="https://www.ftc.gov/system/files/ftc_gov/pdf/p246201_aipartnerships6breport_redacted_0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/system/files/ftc_gov/pdf/p246201_aipartnerships6breport_redacted_0.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionPartnerships Between Cloud Service Providers and AI...4.5.1 - The partnerships offer CSP partners the ability to...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: techcrunch.com  
    Title: ftc says partnerships like microsoft openai raise antitrust concerns  
-   Link: <a href="https://techcrunch.com/2025/01/18/ftc-says-partnerships-like-microsoft-openai-raise-antitrust-concerns/" target="_blank" rel="noopener noreferrer nofollow">https://techcrunch.com/2025/01/18/ftc-says-partnerships-like-microsoft-openai-raise-antitrust-concerns/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC says partnerships like Microsoft-OpenAI raise antitrust...18 Jan 2025 — The report focuses on the roles of Microsoft, Amaz...</p></details>
+   Link:<a href="https://techcrunch.com/2025/01/18/ftc-says-partnerships-like-microsoft-openai-raise-antitrust-concerns/" target="_blank" rel="noopener noreferrer nofollow">https://techcrunch.com/2025/01/18/ftc-says-partnerships-like-microsoft-openai-raise-antitrust-concerns/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FTC says partnerships like Microsoft-OpenAI raise antitrust...18 Jan 2025 — The report focuses on the roles of Microsoft, Amaz...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: heise.de  
    Title: Microsoft Google FTC investigates AI partnerships and collaborations 10247893  
-   Link: <a href="https://www.heise.de/en/news/Microsoft-Google-FTC-investigates-AI-partnerships-and-collaborations-10247893.html" target="_blank" rel="noopener noreferrer nofollow">https://www.heise.de/en/news/Microsoft-Google-FTC-investigates-AI-partnerships-and-collaborations-10247893.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Microsoft, Google: FTC investigates AI partnerships and...19 Jan 2025 — The US Federal Trade Commission (FTC) is concerned about collabo...</p></details>
+   Link:<a href="https://www.heise.de/en/news/Microsoft-Google-FTC-investigates-AI-partnerships-and-collaborations-10247893.html" target="_blank" rel="noopener noreferrer nofollow">https://www.heise.de/en/news/Microsoft-Google-FTC-investigates-AI-partnerships-and-collaborations-10247893.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Microsoft, Google: FTC investigates AI partnerships and...19 Jan 2025 — The US Federal Trade Commission (FTC) is concerned about collabo...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: GOV.UK  
    Title: cma seeks views on microsofts partnership with openai  
-   Link: <a href="https://www.gov.uk/government/news/cma-seeks-views-on-microsofts-partnership-with-openai" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/cma-seeks-views-on-microsofts-partnership-with-openai</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CMA seeks views on Microsoft&#x27;s partnership with OpenAIDec 8, 2023 — The CMA is now inviting views on whether the partnership between Micr...</p></details>
+   Link:<a href="https://www.gov.uk/government/news/cma-seeks-views-on-microsofts-partnership-with-openai" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/cma-seeks-views-on-microsofts-partnership-with-openai</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CMA seeks views on Microsoft&#x27;s partnership with OpenAIDec 8, 2023 — The CMA is now inviting views on whether the partnership between Micr...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: GOV.UK  
    Title: Microsoft / Open AI partnership merger inquiry Found not to qualify decision  
-   Link: <a href="https://www.gov.uk/cma-cases/microsoft-slash-openai-partnership-merger-inquiry" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/cma-cases/microsoft-slash-openai-partnership-merger-inquiry</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>5 March 2025: The CMA has decided that Microsoft&#x27;s partnership with OpenAI does not qualify for investigation under the merger...Read more...</p></details>
+   Link:<a href="https://www.gov.uk/cma-cases/microsoft-slash-openai-partnership-merger-inquiry" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/cma-cases/microsoft-slash-openai-partnership-merger-inquiry</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5 March 2025: The CMA has decided that Microsoft&#x27;s partnership with OpenAI does not qualify for investigation under the merger...Read more...</p></details>
    Published: March 2025  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/67c841d6d0fba2f1334cf276/1._MS.OAI_-_Summary.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/67c841d6d0fba2f1334cf276/1._MS.OAI_-_Summary.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Corporation&#x27;s partnership with OpenAI, Inc.The CMA&#x27;s investigation into whether there has been a change in the level of...</p></details>
+   Link:<a href="https://assets.publishing.service.gov.uk/media/67c841d6d0fba2f1334cf276/1._MS.OAI_-_Summary.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/67c841d6d0fba2f1334cf276/1._MS.OAI_-_Summary.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Corporation&#x27;s partnership with OpenAI, Inc.The CMA&#x27;s investigation into whether there has been a change in the level of...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: GOV.UK  
-   Link: <a href="https://www.gov.uk/cma-cases/amazon-slash-anthropic-partnership-merger-inquiry" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/cma-cases/amazon-slash-anthropic-partnership-merger-inquiry</a>  
+   Link:<a href="https://www.gov.uk/cma-cases/amazon-slash-anthropic-partnership-merger-inquiry" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/cma-cases/amazon-slash-anthropic-partnership-merger-inquiry</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: GOV.UK  
    Title: Alphabet Inc  
-   Link: <a href="https://www.gov.uk/cma-cases/alphabet-inc-google-llc-slash-anthropic-merger-inquiry" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/cma-cases/alphabet-inc-google-llc-slash-anthropic-merger-inquiry</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(Google LLC) / Anthropic merger inquiry19 November 2024: The CMA has decided that Alphabet&#x27;s partnership with Anthropic does not qualify...</p></details>
+   Link:<a href="https://www.gov.uk/cma-cases/alphabet-inc-google-llc-slash-anthropic-merger-inquiry" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/cma-cases/alphabet-inc-google-llc-slash-anthropic-merger-inquiry</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(Google LLC) / Anthropic merger inquiry19 November 2024: The CMA has decided that Alphabet&#x27;s partnership with Anthropic does not qualify...</p></details>
    Published: November 2024  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: assets.publishing.service.gov.uk  
    Title: Full text decision  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/6710ba44e84ae1fd8592f52c/Full_text_decision.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/6710ba44e84ae1fd8592f52c/Full_text_decision.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>18 Anthropic response of 6 June 2024 to CMA&#x27;s section 109 notice of 29 May 2024, question 4.Read more...</p></details>
+   Link:<a href="https://assets.publishing.service.gov.uk/media/6710ba44e84ae1fd8592f52c/Full_text_decision.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/6710ba44e84ae1fd8592f52c/Full_text_decision.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>18 Anthropic response of 6 June 2024 to CMA&#x27;s section 109 notice of 29 May 2024, question 4.Read more...</p></details>
    Published: June 2024  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: assets.publishing.service.gov.uk  
    Title: Full text decision  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/676959bae6ff7c8a1fde9d33/Full_text_decision__.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/676959bae6ff7c8a1fde9d33/Full_text_decision__.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Inc.&#x27;s partnership with Anthropic PBC24 Dec 2024 — The CMA first became aware of the rights contained in the Side Letter on 18 April 2024...</p></details>
+   Link:<a href="https://assets.publishing.service.gov.uk/media/676959bae6ff7c8a1fde9d33/Full_text_decision__.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/676959bae6ff7c8a1fde9d33/Full_text_decision__.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Inc.&#x27;s partnership with Anthropic PBC24 Dec 2024 — The CMA first became aware of the rights contained in the Side Letter on 18 April 2024...</p></details>
    Published: April 2024  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: ftc.gov  
    Title: behind ftcs 6b report large ai partnerships investments  
-   Link: <a href="https://www.ftc.gov/policy/advocacy-research/tech-at-ftc/2025/01/behind-ftcs-6b-report-large-ai-partnerships-investments" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/policy/advocacy-research/tech-at-ftc/2025/01/behind-ftcs-6b-report-large-ai-partnerships-investments</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Behind the FTC&#x27;s 6(b) Report on Large AI Partnerships &amp;...17 Jan 2025 — The report provides important insights regarding key partnership...</p></details>
+   Link:<a href="https://www.ftc.gov/policy/advocacy-research/tech-at-ftc/2025/01/behind-ftcs-6b-report-large-ai-partnerships-investments" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/policy/advocacy-research/tech-at-ftc/2025/01/behind-ftcs-6b-report-large-ai-partnerships-investments</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Behind the FTC&#x27;s 6(b) Report on Large AI Partnerships &amp;...17 Jan 2025 — The report provides important insights regarding key partnership...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: blogs.microsoft.com  
    Title: and openai joint statement on continuing partnership  
-   Link: <a href="https://blogs.microsoft.com/blog/2026/02/27/microsoft-and-openai-joint-statement-on-continuing-partnership/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.microsoft.com/blog/2026/02/27/microsoft-and-openai-joint-statement-on-continuing-partnership/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Microsoft maintains its exclusive license and access to intellectual property across OpenAI models and...Read more...</p></details>
+   Link:<a href="https://blogs.microsoft.com/blog/2026/02/27/microsoft-and-openai-joint-statement-on-continuing-partnership/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.microsoft.com/blog/2026/02/27/microsoft-and-openai-joint-statement-on-continuing-partnership/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Microsoft maintains its exclusive license and access to intellectual property across OpenAI models and...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: GOV.UK  
    Title: microsoft slash inflection ai inquiry  
-   Link: <a href="https://www.gov.uk/cma-cases/microsoft-slash-inflection-ai-inquiry" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/cma-cases/microsoft-slash-inflection-ai-inquiry</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>/ Inflection inquiryPhase 1. CMA clearance decision. 4 September 2024: The CMA has cleared Microsoft&#x27;s hiring of certain former employees...</p></details>
+   Link:<a href="https://www.gov.uk/cma-cases/microsoft-slash-inflection-ai-inquiry" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/cma-cases/microsoft-slash-inflection-ai-inquiry</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>/ Inflection inquiryPhase 1. CMA clearance decision. 4 September 2024: The CMA has cleared Microsoft&#x27;s hiring of certain former employees...</p></details>
    Published: September 2024  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: theguardian.com  
    Title: google anthropic partnership cma ai  
-   Link: <a href="https://www.theguardian.com/technology/article/2024/jul/30/google-anthropic-partnership-cma-ai" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/article/2024/jul/30/google-anthropic-partnership-cma-ai</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK regulator looks at Google&#x27;s partnership with AnthropicJul 30, 2024 — The Competition and Markets Authority has begun a preliminary inv...</p></details>
+   Link:<a href="https://www.theguardian.com/technology/article/2024/jul/30/google-anthropic-partnership-cma-ai" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/article/2024/jul/30/google-anthropic-partnership-cma-ai</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK regulator looks at Google&#x27;s partnership with AnthropicJul 30, 2024 — The Competition and Markets Authority has begun a preliminary inv...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: theguardian.com  
    Title: anthropic ai startup uk regulator cma amazon investment  
-   Link: <a href="https://www.theguardian.com/technology/article/2024/aug/08/anthropic-ai-startup-uk-regulator-cma-amazon-investment" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/article/2024/aug/08/anthropic-ai-startup-uk-regulator-cma-amazon-investment</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK regulator to examine $4bn Amazon investment in AI...8 Aug 2024 — Amazon&#x27;s $4bn investment into US artificial intelligence startup Ant...</p></details>
+   Link:<a href="https://www.theguardian.com/technology/article/2024/aug/08/anthropic-ai-startup-uk-regulator-cma-amazon-investment" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/article/2024/aug/08/anthropic-ai-startup-uk-regulator-cma-amazon-investment</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK regulator to examine $4bn Amazon investment in AI...8 Aug 2024 — Amazon&#x27;s $4bn investment into US artificial intelligence startup Ant...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/technology/2025/mar/05/uk-cma-drops-competition-review-microsoft-openai-partnership" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2025/mar/05/uk-cma-drops-competition-review-microsoft-openai-partnership</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Despite Microsoft&#x27;s substantial $13 billion investment in OpenAI and its significant influence since 2019, the CMA concluded that Microso...</p></details>
+   Link:<a href="https://www.theguardian.com/technology/2025/mar/05/uk-cma-drops-competition-review-microsoft-openai-partnership" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2025/mar/05/uk-cma-drops-competition-review-microsoft-openai-partnership</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Despite Microsoft&#x27;s substantial $13 billion investment in OpenAI and its significant influence since 2019, the CMA concluded that Microso...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: uk.practicallaw.thomsonreuters.com  
-   Link: <a href="https://uk.practicallaw.thomsonreuters.com/w-044-7449?contextData=%28sc.Default%29&amp;transitionType=Default" target="_blank" rel="noopener noreferrer nofollow">https://uk.practicallaw.thomsonreuters.com/w-044-7449?contextData=%28sc.Default%29&amp;transitionType=Default</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>full text decision finding that Amazon / Anthropic...CMA decides that Amazon / Anthropic partnership does not qualify for investigation...</p></details>
+   Link:<a href="https://uk.practicallaw.thomsonreuters.com/w-044-7449?contextData=%28sc.Default%29&amp;transitionType=Default" target="_blank" rel="noopener noreferrer nofollow">https://uk.practicallaw.thomsonreuters.com/w-044-7449?contextData=%28sc.Default%29&amp;transitionType=Default</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>full text decision finding that Amazon / Anthropic...CMA decides that Amazon / Anthropic partnership does not qualify for investigation...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: theguardian.com  
    Title: ftc ai inquiry microsoft alphabet amazon  
-   Link: <a href="https://www.theguardian.com/technology/2024/jan/25/ftc-ai-inquiry-microsoft-alphabet-amazon" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2024/jan/25/ftc-ai-inquiry-microsoft-alphabet-amazon</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>US launches inquiry into AI deals by Microsoft, OpenAI...25 Jan 2024 — FTC will examine what rights the tech giants&#x27; investments in AI c...</p></details>
+   Link:<a href="https://www.theguardian.com/technology/2024/jan/25/ftc-ai-inquiry-microsoft-alphabet-amazon" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2024/jan/25/ftc-ai-inquiry-microsoft-alphabet-amazon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>US launches inquiry into AI deals by Microsoft, OpenAI...25 Jan 2024 — FTC will examine what rights the tech giants&#x27; investments in AI c...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: concurrences.com  
    Title: Part VIII  
-   Link: <a href="https://www.concurrences.com/en/review/issues/no-8-2025/on-topic/cloud-and-competition-policy/cloud-and-competition-policy-part-viii-cloud-service-ai-partnerships-the-ftc-s" target="_blank" rel="noopener noreferrer nofollow">https://www.concurrences.com/en/review/issues/no-8-2025/on-topic/cloud-and-competition-policy/cloud-and-competition-policy-part-viii-cloud-service-ai-partnerships-the-ftc-s</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade Commission&#x27;s Section 6(b) Report investigated three partnerships between major cloud service providers...</p></details>
+   Link:<a href="https://www.concurrences.com/en/review/issues/no-8-2025/on-topic/cloud-and-competition-policy/cloud-and-competition-policy-part-viii-cloud-service-ai-partnerships-the-ftc-s" target="_blank" rel="noopener noreferrer nofollow">https://www.concurrences.com/en/review/issues/no-8-2025/on-topic/cloud-and-competition-policy/cloud-and-competition-policy-part-viii-cloud-service-ai-partnerships-the-ftc-s</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade Commission&#x27;s Section 6(b) Report investigated three partnerships between major cloud service providers...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: troutman.com  
-   Link: <a href="https://www.troutman.com/insights/cloud-and-competition-policy-part-viii-cloud-service-ai-partnerships-the-ftcs-section-6b-report-and-its-antitrust-implications-in-the-trump-20-administration/" target="_blank" rel="noopener noreferrer nofollow">https://www.troutman.com/insights/cloud-and-competition-policy-part-viii-cloud-service-ai-partnerships-the-ftcs-section-6b-report-and-its-antitrust-implications-in-the-trump-20-administration/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade Commission&#x27;s Section 6(b) Report investigated three partnerships between major cloud service providers (Alphabet/Google, Am...</p></details>
+   Link:<a href="https://www.troutman.com/insights/cloud-and-competition-policy-part-viii-cloud-service-ai-partnerships-the-ftcs-section-6b-report-and-its-antitrust-implications-in-the-trump-20-administration/" target="_blank" rel="noopener noreferrer nofollow">https://www.troutman.com/insights/cloud-and-competition-policy-part-viii-cloud-service-ai-partnerships-the-ftcs-section-6b-report-and-its-antitrust-implications-in-the-trump-20-administration/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade Commission&#x27;s Section 6(b) Report investigated three partnerships between major cloud service providers (Alphabet/Google, Am...</p></details>
 
 ### Additional References
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: cma-cgm.com  
-   Link: <a href="https://www.cma-cgm.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.cma-cgm.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CMA CGM | EXPERT SUPPORT for all transport needsWith a presence in over 170 countries through more than 400 local agencies, we design and...</p></details>
+   Link:<a href="https://www.cma-cgm.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.cma-cgm.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CMA CGM | EXPERT SUPPORT for all transport needsWith a presence in over 170 countries through more than 400 local agencies, we design and...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/joel-bamford-76593656_amazon-anthropic-partnership-merger-inquiry-activity-7245389776944529410-s1A6" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/joel-bamford-76593656_amazon-anthropic-partnership-merger-inquiry-activity-7245389776944529410-s1A6</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CMA investigates Amazon&#x27;s partnership with AnthropicToday the CMA has announced a further decision in an AI Foundation Model-related merg...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/joel-bamford-76593656_amazon-anthropic-partnership-merger-inquiry-activity-7245389776944529410-s1A6" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/joel-bamford-76593656_amazon-anthropic-partnership-merger-inquiry-activity-7245389776944529410-s1A6</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CMA investigates Amazon&#x27;s partnership with AnthropicToday the CMA has announced a further decision in an AI Foundation Model-related merg...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/pulse/what-key-takeaways-from-our-review-microsoftopenai-joel-bamford-auzre" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/what-key-takeaways-from-our-review-microsoftopenai-joel-bamford-auzre</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What are the key takeaways from our review...The CMA&#x27;s aim with the Microsoft / OpenAI review was to determine whether a potential incre...</p></details>
+   Link:<a href="https://www.linkedin.com/pulse/what-key-takeaways-from-our-review-microsoftopenai-joel-bamford-auzre" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/what-key-takeaways-from-our-review-microsoftopenai-joel-bamford-auzre</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What are the key takeaways from our review...The CMA&#x27;s aim with the Microsoft / OpenAI review was to determine whether a potential incre...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: aifray.com  
-   Link: <a href="https://aifray.com/ftc-releases-staff-report-on-ai-partnerships-investments-collection-of-information-and-innuendo-with-unclear-contours/" target="_blank" rel="noopener noreferrer nofollow">https://aifray.com/ftc-releases-staff-report-on-ai-partnerships-investments-collection-of-information-and-innuendo-with-unclear-contours/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC releases Staff Report on AI Partnerships &amp; Investments17 Jan 2025 — What&#x27;s new: Today the FTC released the Staff Report on AI Partner...</p></details>
+   Link:<a href="https://aifray.com/ftc-releases-staff-report-on-ai-partnerships-investments-collection-of-information-and-innuendo-with-unclear-contours/" target="_blank" rel="noopener noreferrer nofollow">https://aifray.com/ftc-releases-staff-report-on-ai-partnerships-investments-collection-of-information-and-innuendo-with-unclear-contours/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FTC releases Staff Report on AI Partnerships &amp; Investments17 Jan 2025 — What&#x27;s new: Today the FTC released the Staff Report on AI Partner...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: jsm.com  
-   Link: <a href="https://www.jsm.com/publications/2025/when-ai-meets-antitrust-how-a-strategic-ai-partnership-sparked-merger-control-scrutiny/" target="_blank" rel="noopener noreferrer nofollow">https://www.jsm.com/publications/2025/when-ai-meets-antitrust-how-a-strategic-ai-partnership-sparked-merger-control-scrutiny/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How a strategic AI partnership sparked merger control scrutiny30 May 2025 — This legal update explores competition challenges arising fro...</p></details>
+   Link:<a href="https://www.jsm.com/publications/2025/when-ai-meets-antitrust-how-a-strategic-ai-partnership-sparked-merger-control-scrutiny/" target="_blank" rel="noopener noreferrer nofollow">https://www.jsm.com/publications/2025/when-ai-meets-antitrust-how-a-strategic-ai-partnership-sparked-merger-control-scrutiny/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How a strategic AI partnership sparked merger control scrutiny30 May 2025 — This legal update explores competition challenges arising fro...</p></details>
    Published: May 2025  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: datacenterdynamics.com  
    Title: cma launches full scale investigation into amazons partnership with anthropic  
-   Link: <a href="https://www.datacenterdynamics.com/en/news/cma-launches-full-scale-investigation-into-amazons-partnership-with-anthropic/" target="_blank" rel="noopener noreferrer nofollow">https://www.datacenterdynamics.com/en/news/cma-launches-full-scale-investigation-into-amazons-partnership-with-anthropic/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CMA launches full scale investigation into Amazon&#x27;s...9 Aug 2024 — The UK Competitions and Markets Authority (CMA) has launched a &quot;merge...</p></details>
+   Link:<a href="https://www.datacenterdynamics.com/en/news/cma-launches-full-scale-investigation-into-amazons-partnership-with-anthropic/" target="_blank" rel="noopener noreferrer nofollow">https://www.datacenterdynamics.com/en/news/cma-launches-full-scale-investigation-into-amazons-partnership-with-anthropic/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CMA launches full scale investigation into Amazon&#x27;s...9 Aug 2024 — The UK Competitions and Markets Authority (CMA) has launched a &quot;merge...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: news.sky.com  
    Title: amazons 3bn ai anthropic investment investigated by uk regulator 13193450  
-   Link: <a href="https://news.sky.com/story/amazons-3bn-ai-anthropic-investment-investigated-by-uk-regulator-13193450" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/amazons-3bn-ai-anthropic-investment-investigated-by-uk-regulator-13193450</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>sky.comAmazon&#x27;s £3bn AI Anthropic investment investigated by UK...8 Aug 2024 — The UK&#x27;s competition regulator has launched an inquiry in...</p></details>
+   Link:<a href="https://news.sky.com/story/amazons-3bn-ai-anthropic-investment-investigated-by-uk-regulator-13193450" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/amazons-3bn-ai-anthropic-investment-investigated-by-uk-regulator-13193450</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>sky.comAmazon&#x27;s £3bn AI Anthropic investment investigated by UK...8 Aug 2024 — The UK&#x27;s competition regulator has launched an inquiry in...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: inquisitiveminds.bristows.com  
    Title: google anthropic the latest chapter in the cmas scrutiny of generative ai  
-   Link: <a href="https://inquisitiveminds.bristows.com/post/102jnrs/google-anthropic-the-latest-chapter-in-the-cmas-scrutiny-of-generative-ai" target="_blank" rel="noopener noreferrer nofollow">https://inquisitiveminds.bristows.com/post/102jnrs/google-anthropic-the-latest-chapter-in-the-cmas-scrutiny-of-generative-ai</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>bristows.comGoogle/Anthropic: the latest chapter in the CMA&#x27;s scrutiny of...8 Nov 2024 — That same month, the CMA decided that Amazon&#x27;s...</p></details>
+   Link:<a href="https://inquisitiveminds.bristows.com/post/102jnrs/google-anthropic-the-latest-chapter-in-the-cmas-scrutiny-of-generative-ai" target="_blank" rel="noopener noreferrer nofollow">https://inquisitiveminds.bristows.com/post/102jnrs/google-anthropic-the-latest-chapter-in-the-cmas-scrutiny-of-generative-ai</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>bristows.comGoogle/Anthropic: the latest chapter in the CMA&#x27;s scrutiny of...8 Nov 2024 — That same month, the CMA decided that Amazon&#x27;s...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: techmonitor.ai  
    Title: cma dismisses investigation into alphabet deal with ai firm anthropic  
-   Link: <a href="https://www.techmonitor.ai/ai-and-automation/cma-dismisses-investigation-into-alphabet-deal-with-ai-firm-anthropic/" target="_blank" rel="noopener noreferrer nofollow">https://www.techmonitor.ai/ai-and-automation/cma-dismisses-investigation-into-alphabet-deal-with-ai-firm-anthropic/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CMA dismisses investigation into Alphabet&#x27;s deal with AI...20 Nov 2024 — The UK CMA has announced that it will not investigate the partn...</p></details>
+   Link:<a href="https://www.techmonitor.ai/ai-and-automation/cma-dismisses-investigation-into-alphabet-deal-with-ai-firm-anthropic/" target="_blank" rel="noopener noreferrer nofollow">https://www.techmonitor.ai/ai-and-automation/cma-dismisses-investigation-into-alphabet-deal-with-ai-firm-anthropic/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CMA dismisses investigation into Alphabet&#x27;s deal with AI...20 Nov 2024 — The UK CMA has announced that it will not investigate the partn...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: reuters.com  
    Title: democratic us senators question google microsofts ai deals 2025 04 08  
-   Link: <a href="https://www.reuters.com/sustainability/boards-policy-regulation/democratic-us-senators-question-google-microsofts-ai-deals-2025-04-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/sustainability/boards-policy-regulation/democratic-us-senators-question-google-microsofts-ai-deals-2025-04-08/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Democratic US senators question Google and Microsoft&#x27;s...8 Apr 2025 — The letters seek to establish how much the AI companies have paid...</p></details>
+   Link:<a href="https://www.reuters.com/sustainability/boards-policy-regulation/democratic-us-senators-question-google-microsofts-ai-deals-2025-04-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/sustainability/boards-policy-regulation/democratic-us-senators-question-google-microsofts-ai-deals-2025-04-08/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Democratic US senators question Google and Microsoft&#x27;s...8 Apr 2025 — The letters seek to establish how much the AI companies have paid...</p></details>

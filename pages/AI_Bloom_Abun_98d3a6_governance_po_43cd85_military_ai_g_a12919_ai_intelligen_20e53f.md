@@ -280,7 +280,7 @@ Artificial [intelligence]({{ 'intelligence/' | relative_url }}) (AI) is reshapin
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_military_ai_g_a12919_ai_intelligen_20e53f-Illustration-1-dark.svg" | relative_url }}" alt="AI Intelligence illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_military_ai_g_a12919_ai_intelligen_20e53f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_military_ai_g_a12919_ai_intelligen_20e53f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How AI Transforms Military Intelligence Workflows
 
-AI’s value proposition in intelligence analysis stems from its capacity to fuse and interpret multi‑source information at scale. Traditional analysis workflows depend on humans manually correlating reports from satellites, radar, signals, and human intelligence, a process that can take days or weeks. AI systems — often drawing on machine learning, natural language processing and anomaly detection — can automate summarisation, trend spotting and correlation across thousands of disparate inputs. Platforms now in use or development aim to deliver timely intelligence products that support both operational planning and strategic foresight.<span class="citation-chip-wrap"><a class="citation-chip" href="https://systematic.com/us/industries/defense/products/sitaware-suite/sitaware-insight/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: systematic.com">[Systematic A]</a><span class="citation-popover" role="note"><span class="citation-popover-source">systematic.com</span><span class="citation-popover-title">A/SSita Ware Insight: Advanced Decision Support for Commanders</span><span class="citation-popover-snippet">Systematic A/SSitaWare Insight: Advanced Decision Support for Commanders...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://systematic.com/us/industries/defense/products/sitaware-suite/sitaware-insight/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: systematic.com">[S]</a><span class="citation-popover" role="note"><span class="citation-popover-source">systematic.com</span><span class="citation-popover-title">A/SSita Ware Insight: Advanced Decision Support for Commanders</span><span class="citation-popover-snippet">Systematic A/SSitaWare Insight: Advanced Decision Support for Commanders...</span></span></span>
+AI’s value proposition in intelligence analysis stems from its capacity to fuse and interpret multi‑source information at scale. Traditional analysis workflows depend on humans manually correlating reports from satellites, radar, signals, and human intelligence, a process that can take days or weeks. AI systems — often drawing on machine learning, natural language processing and anomaly detection — can automate summarisation, trend spotting and correlation across thousands of disparate inputs. Platforms now in use or development aim to deliver timely intelligence products that support both operational planning and strategic foresight.<span class="citation-chip-wrap"><a class="citation-chip" href="https://systematic.com/us/industries/defense/products/sitaware-suite/sitaware-insight/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: systematic.com">[Systematic A]</a><span class="citation-popover" role="note"><span class="citation-popover-source">systematic.com</span><span class="citation-popover-title">A/SSita Ware Insight: Advanced Decision Support for Commanders</span><span class="citation-popover-snippet">Systematic A/SSitaWare Insight: Advanced Decision Support for Commanders...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://systematic.com/us/industries/defense/products/sitaware-suite/sitaware-insight/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: systematic.com">[S]</a><span class="citation-popover" role="note"><span class="citation-popover-source">systematic.com</span><span class="citation-popover-title">A/SSita Ware Insight: Advanced Decision Support for Commanders</span><span class="citation-popover-snippet">Systematic A/SSitaWare Insight: Advanced Decision Support for Commanders...</span></span></span>
 
 For example, some modern defense analytics platforms prioritise **data fusion**: merging geospatial imagery, sensor feeds, communications intercepts and environmental data into coherent situational pictures. These systems highlight relevant events or anomalies and offer alerts to analysts, reducing the cognitive burden associated with raw data overload. Others target **open‑source intelligence (OSINT)**, converting publicly available media streams into structured insights that deepen understanding of adversary behaviour or emerging socio‑political risks.<span class="citation-chip-wrap"><a class="citation-chip" href="https://defence-solutions.airbus.com/en/solutions/intelligence/fortion-survin-abi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defence-solutions.airbus.com">[defencesolutions]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defence-solutions.airbus.com</span><span class="citation-popover-title">defencesolutions Fortion® Su RVIn ABI &#124; Airbus</span><span class="citation-popover-snippet">defencesolutions Fortion® Su RVIn ABI &#124; Airbus</span></span></span>
 
@@ -321,194 +321,194 @@ In the near term, AI‑driven intelligence analysis and strategic decision suppo
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mKTAYP4oiI8" title="Large Language Models &amp; International Security" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mKTAYP4oiI8" target="_blank" rel="noopener noreferrer">Large Language Models &amp; International Security</a></p><p class="youtube-embed-meta">Channel: United Nations Institute for Disarmament Research &middot; Views: 207 &middot; Uploaded: April 2024 &middot; Length: 1 hour 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mKTAYP4oiI8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mKTAYP4oiI8">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to AI in Military Intelligence and Strategic Planning. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to AI in Military Intelligence and Strategic Planning. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Age+of+A.+I.+by+Henry+Kissinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Age of A. I. on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=iBNqzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Age of A. I." loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Age+of+A.+I.+by+Henry+Kissinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Age of A. I.">The Age of A. I.</a>
-        </h4>
-        <p class="fr-book-author">By Henry Kissinger, Eric Schmidt et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Age+of+A.+I.+by+Henry+Kissinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Age of A. I. on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=iBNqzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Age of A. I." loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Age+of+A.+I.+by+Henry+Kissinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Age of A. I.">The Age of A. I.</a>
+</h4>
+<p class="fr-book-author">By Henry Kissinger, Eric Schmidt et al.</p>
         
-        <p class="fr-book-desc">Addresses AI&#x27;s implications for strategy and world order.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Age+of+A.+I.+by+Henry+Kissinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses AI&#x27;s implications for strategy and world order.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Age+of+A.+I.+by+Henry+Kissinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Army of None on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sjMsDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Army of None" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Army of None">Army of None</a>
-        </h4>
-        <p class="fr-book-author">By Paul Scharre</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Army of None on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sjMsDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Army of None" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Army of None">Army of None</a>
+</h4>
+<p class="fr-book-author">By Paul Scharre</p>
         
-        <p class="fr-book-desc">Directly covers AI-enabled warfare and decision-making risks.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly covers AI-enabled warfare and decision-making risks.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Wired+for+War+by+P.+W.+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Wired for War on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JaiMEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Wired for War" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Wired+for+War+by+P.+W.+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Wired for War">Wired for War</a>
-        </h4>
-        <p class="fr-book-author">By P. W. Singer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Wired+for+War+by+P.+W.+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Wired for War on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JaiMEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Wired for War" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Wired+for+War+by+P.+W.+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Wired for War">Wired for War</a>
+</h4>
+<p class="fr-book-author">By P. W. Singer</p>
         
-        <p class="fr-book-desc">Explores how robotic systems reshape military operations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Wired+for+War+by+P.+W.+Singer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how robotic systems reshape military operations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Wired+for+War+by+P.+W.+Singer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Perfect+Weapon+by+David+E.+Sanger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Perfect Weapon on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=tVFXDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Perfect Weapon" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Perfect+Weapon+by+David+E.+Sanger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Perfect Weapon">The Perfect Weapon</a>
-        </h4>
-        <p class="fr-book-author">By David E. Sanger</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Perfect+Weapon+by+David+E.+Sanger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Perfect Weapon on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=tVFXDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Perfect Weapon" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Perfect+Weapon+by+David+E.+Sanger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Perfect Weapon">The Perfect Weapon</a>
+</h4>
+<p class="fr-book-author">By David E. Sanger</p>
         
-        <p class="fr-book-desc">Relevant to strategic decision-making in technology-enabled conflict.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Perfect+Weapon+by+David+E.+Sanger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to strategic decision-making in technology-enabled conflict.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Perfect+Weapon+by+David+E.+Sanger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Age+of+A.+I.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Age of A. I.</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Army+of+None&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Army of None</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Wired+for+War&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Wired for War</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Age+of+A.+I.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Age of A. I.</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Army+of+None&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Army of None</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Wired+for+War&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Wired for War</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-in-military-intelligence-and-strategic-planning-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="ai-in-military-intelligence-and-strategic-planning-military-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lockheed DC-130A Hercules Drone Controllers-US Navy VC-3 Sqn AA31308 LTD Edition"><img src="https://i.ebayimg.com/images/g/LjUAAeSwLdNoC2uB/s-l225.jpg" alt="Listing image for Lockheed DC-130A Hercules Drone Controllers-US Navy VC-3 Sqn AA31308 LTD Edition" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-in-military-intelligence-and-strategic-planning-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="ai-in-military-intelligence-and-strategic-planning-military-drone-model" target="_blank" rel="sponsored noopener noreferrer">Lockheed DC-130A Hercules Drone Controllers-US Navy VC-3 Sqn AA31308 LTD Edition</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-in-military-intelligence-and-strategic-planning-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="ai-in-military-intelligence-and-strategic-planning-military-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military drone model">Search <span data-ebay-domain-label>eBay.co.uk</span>: military drone model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-in-military-intelligence-and-strategic-planning-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="ai-in-military-intelligence-and-strategic-planning-military-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-in-military-intelligence-and-strategic-planning-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="ai-in-military-intelligence-and-strategic-planning-military-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lockheed DC-130A Hercules Drone Controllers-US Navy VC-3 Sqn AA31308 LTD Edition"><img src="https://i.ebayimg.com/images/g/LjUAAeSwLdNoC2uB/s-l225.jpg" alt="Listing image for Lockheed DC-130A Hercules Drone Controllers-US Navy VC-3 Sqn AA31308 LTD Edition" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-in-military-intelligence-and-strategic-planning-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="ai-in-military-intelligence-and-strategic-planning-military-drone-model" target="_blank" rel="sponsored noopener noreferrer">Lockheed DC-130A Hercules Drone Controllers-US Navy VC-3 Sqn AA31308 LTD Edition</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-in-military-intelligence-and-strategic-planning-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="ai-in-military-intelligence-and-strategic-planning-military-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military drone model">Search<span data-ebay-domain-label>eBay.co.uk</span>: military drone model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-in-military-intelligence-and-strategic-planning-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="ai-in-military-intelligence-and-strategic-planning-military-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-in-military-intelligence-and-strategic-planning-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="ai-in-military-intelligence-and-strategic-planning-military-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Corgi Lockheed DC-130A Hercules Drone Controller- US Navy VC-3 Squadron- LTD Ed."><img src="https://i.ebayimg.com/images/g/ixsAAeSwMilpSAe1/s-l225.jpg" alt="Listing image for Corgi Lockheed DC-130A Hercules Drone Controller- US Navy VC-3 Squadron- LTD Ed." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-in-military-intelligence-and-strategic-planning-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="ai-in-military-intelligence-and-strategic-planning-military-drone-model" target="_blank" rel="sponsored noopener noreferrer">Corgi Lockheed DC-130A Hercules Drone Controller- US Navy VC-3 Squadron- LTD Ed.</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-in-military-intelligence-and-strategic-planning-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="ai-in-military-intelligence-and-strategic-planning-military-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military drone model">Search <span data-ebay-domain-label>eBay.co.uk</span>: military drone model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-in-military-intelligence-and-strategic-planning-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="ai-in-military-intelligence-and-strategic-planning-military-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-in-military-intelligence-and-strategic-planning-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="ai-in-military-intelligence-and-strategic-planning-military-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Corgi Lockheed DC-130A Hercules Drone Controller- US Navy VC-3 Squadron- LTD Ed."><img src="https://i.ebayimg.com/images/g/ixsAAeSwMilpSAe1/s-l225.jpg" alt="Listing image for Corgi Lockheed DC-130A Hercules Drone Controller- US Navy VC-3 Squadron- LTD Ed." loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-in-military-intelligence-and-strategic-planning-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="ai-in-military-intelligence-and-strategic-planning-military-drone-model" target="_blank" rel="sponsored noopener noreferrer">Corgi Lockheed DC-130A Hercules Drone Controller- US Navy VC-3 Squadron- LTD Ed.</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-in-military-intelligence-and-strategic-planning-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="ai-in-military-intelligence-and-strategic-planning-military-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military drone model">Search<span data-ebay-domain-label>eBay.co.uk</span>: military drone model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-in-military-intelligence-and-strategic-planning-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="ai-in-military-intelligence-and-strategic-planning-military-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-in-military-intelligence-and-strategic-planning-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="ai-in-military-intelligence-and-strategic-planning-military-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1/72 Corgi Phantom QF-4B Drone - Some Faults - AA33208"><img src="https://i.ebayimg.com/images/g/mO0AAOSwfZRnm2O1/s-l225.jpg" alt="Listing image for 1/72 Corgi Phantom QF-4B Drone - Some Faults - AA33208" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-in-military-intelligence-and-strategic-planning-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="ai-in-military-intelligence-and-strategic-planning-military-drone-model" target="_blank" rel="sponsored noopener noreferrer">1/72 Corgi Phantom QF-4B Drone - Some Faults - AA33208</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-in-military-intelligence-and-strategic-planning-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="ai-in-military-intelligence-and-strategic-planning-military-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military drone model">Search <span data-ebay-domain-label>eBay.co.uk</span>: military drone model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-in-military-intelligence-and-strategic-planning-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="ai-in-military-intelligence-and-strategic-planning-military-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-in-military-intelligence-and-strategic-planning-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="ai-in-military-intelligence-and-strategic-planning-military-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1/72 Corgi Phantom QF-4B Drone - Some Faults - AA33208"><img src="https://i.ebayimg.com/images/g/mO0AAOSwfZRnm2O1/s-l225.jpg" alt="Listing image for 1/72 Corgi Phantom QF-4B Drone - Some Faults - AA33208" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-in-military-intelligence-and-strategic-planning-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="ai-in-military-intelligence-and-strategic-planning-military-drone-model" target="_blank" rel="sponsored noopener noreferrer">1/72 Corgi Phantom QF-4B Drone - Some Faults - AA33208</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-in-military-intelligence-and-strategic-planning-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="ai-in-military-intelligence-and-strategic-planning-military-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military drone model">Search<span data-ebay-domain-label>eBay.co.uk</span>: military drone model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-in-military-intelligence-and-strategic-planning-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="ai-in-military-intelligence-and-strategic-planning-military-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-in-military-intelligence-and-strategic-planning-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="ai-in-military-intelligence-and-strategic-planning-military-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1/87 /72 Scale Iranian Shahed-136 Suicide Drone (Geran-2) Military Model dioram"><img src="https://i.ebayimg.com/images/g/UB8AAeSwAKZp~0-R/s-l225.jpg" alt="Listing image for 1/87 /72 Scale Iranian Shahed-136 Suicide Drone (Geran-2) Military Model dioram" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-in-military-intelligence-and-strategic-planning-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="ai-in-military-intelligence-and-strategic-planning-military-drone-model" target="_blank" rel="sponsored noopener noreferrer">1/87 /72 Scale Iranian Shahed-136 Suicide Drone (Geran-2) Military Model dioram</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-in-military-intelligence-and-strategic-planning-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="ai-in-military-intelligence-and-strategic-planning-military-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military drone model">Search <span data-ebay-domain-label>eBay.co.uk</span>: military drone model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-in-military-intelligence-and-strategic-planning-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="ai-in-military-intelligence-and-strategic-planning-military-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-in-military-intelligence-and-strategic-planning-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="ai-in-military-intelligence-and-strategic-planning-military-drone-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-in-military-intelligence-and-strategic-planning-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="ai-in-military-intelligence-and-strategic-planning-military-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1/87 /72 Scale Iranian Shahed-136 Suicide Drone (Geran-2) Military Model dioram"><img src="https://i.ebayimg.com/images/g/UB8AAeSwAKZp~0-R/s-l225.jpg" alt="Listing image for 1/87 /72 Scale Iranian Shahed-136 Suicide Drone (Geran-2) Military Model dioram" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-in-military-intelligence-and-strategic-planning-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="ai-in-military-intelligence-and-strategic-planning-military-drone-model" target="_blank" rel="sponsored noopener noreferrer">1/87 /72 Scale Iranian Shahed-136 Suicide Drone (Geran-2) Military Model dioram</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-in-military-intelligence-and-strategic-planning-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="ai-in-military-intelligence-and-strategic-planning-military-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military drone model">Search<span data-ebay-domain-label>eBay.co.uk</span>: military drone model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-in-military-intelligence-and-strategic-planning-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="ai-in-military-intelligence-and-strategic-planning-military-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-in-military-intelligence-and-strategic-planning-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="ai-in-military-intelligence-and-strategic-planning-military-drone-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -524,7 +524,7 @@ In the near term, AI‑driven intelligence analysis and strategic decision suppo
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -544,7 +544,7 @@ In the near term, AI‑driven intelligence analysis and strategic decision suppo
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -576,7 +576,7 @@ In the near term, AI‑driven intelligence analysis and strategic decision suppo
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -628,7 +628,7 @@ In the near term, AI‑driven intelligence analysis and strategic decision suppo
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -673,7 +673,7 @@ In the near term, AI‑driven intelligence analysis and strategic decision suppo
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -714,120 +714,120 @@ In the near term, AI‑driven intelligence analysis and strategic decision suppo
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: armyupress.army.mil  
-   Link: <a href="https://www.armyupress.army.mil/Journals/Military-Review/Online-Exclusive/2025-OLE/Modernizing-Military-Decision-Making/" target="_blank" rel="noopener noreferrer nofollow">https://www.armyupress.army.mil/Journals/Military-Review/Online-Exclusive/2025-OLE/Modernizing-Military-Decision-Making/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Army University PressModernizing Military Decision-Making: Integrating AI into Army Planning...</p></details>
+   Link:<a href="https://www.armyupress.army.mil/Journals/Military-Review/Online-Exclusive/2025-OLE/Modernizing-Military-Decision-Making/" target="_blank" rel="noopener noreferrer nofollow">https://www.armyupress.army.mil/Journals/Military-Review/Online-Exclusive/2025-OLE/Modernizing-Military-Decision-Making/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Army University PressModernizing Military Decision-Making: Integrating AI into Army Planning...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: systematic.com  
    Title: A/SSita Ware Insight: Advanced Decision Support for Commanders  
-   Link: <a href="https://systematic.com/us/industries/defense/products/sitaware-suite/sitaware-insight/" target="_blank" rel="noopener noreferrer nofollow">https://systematic.com/us/industries/defense/products/sitaware-suite/sitaware-insight/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Systematic A/SSitaWare Insight: Advanced Decision Support for Commanders...</p></details>
+   Link:<a href="https://systematic.com/us/industries/defense/products/sitaware-suite/sitaware-insight/" target="_blank" rel="noopener noreferrer nofollow">https://systematic.com/us/industries/defense/products/sitaware-suite/sitaware-insight/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Systematic A/SSitaWare Insight: Advanced Decision Support for Commanders...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2412.03610" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2412.03610</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Use of Artificial Intelligence in Military Intelligence: An Experimental Investigation of Added Value in the Analysis ProcessDec...</p></details>
+   Link:<a href="https://arxiv.org/abs/2412.03610" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2412.03610</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Use of Artificial Intelligence in Military Intelligence: An Experimental Investigation of Added Value in the Analysis ProcessDec...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2505.11311" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2505.11311</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Explaining Strategic Decisions in Multi-Agent Reinforcement Learning for Aerial Combat TacticsMay 16, 2025...</p></details>
+   Link:<a href="https://arxiv.org/abs/2505.11311" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2505.11311</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Explaining Strategic Decisions in Multi-Agent Reinforcement Learning for Aerial Combat TacticsMay 16, 2025...</p></details>
    Published: May 16, 2025  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: defense.info  
    Title: Conversational AI as a Cognitive Accelerator | Defense.info  
-   Link: <a href="https://defense.info/re-shaping-defense-security/2026/04/conversational-ai-as-a-cognitive-accelerator/" target="_blank" rel="noopener noreferrer nofollow">https://defense.info/re-shaping-defense-security/2026/04/conversational-ai-as-a-cognitive-accelerator/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>April 27, 2026 — CONVERSATIONAL AI AS A COGNITIVE ACCELERATOR 04/27/2026 By Murielle Delaporte Article Summary: AI is already embedded in...</p></details>
+   Link:<a href="https://defense.info/re-shaping-defense-security/2026/04/conversational-ai-as-a-cognitive-accelerator/" target="_blank" rel="noopener noreferrer nofollow">https://defense.info/re-shaping-defense-security/2026/04/conversational-ai-as-a-cognitive-accelerator/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>April 27, 2026 — CONVERSATIONAL AI AS A COGNITIVE ACCELERATOR 04/27/2026 By Murielle Delaporte Article Summary: AI is already embedded in...</p></details>
    Published: April 27, 2026  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: iaps.ai  
-   Link: <a href="https://www.iaps.ai/research/ai-decision-support-systems" target="_blank" rel="noopener noreferrer nofollow">https://www.iaps.ai/research/ai-decision-support-systems</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Institute for AI Policy and StrategyAI Decision Support Systems: A Neglected Source of Military AI Risk — Institute for AI Policy and Str...</p></details>
+   Link:<a href="https://www.iaps.ai/research/ai-decision-support-systems" target="_blank" rel="noopener noreferrer nofollow">https://www.iaps.ai/research/ai-decision-support-systems</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Institute for AI Policy and StrategyAI Decision Support Systems: A Neglected Source of Military AI Risk — Institute for AI Policy and Str...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: defence-solutions.airbus.com  
    Title: defencesolutions Fortion® Su RVIn ABI | Airbus  
-   Link: <a href="https://defence-solutions.airbus.com/en/solutions/intelligence/fortion-survin-abi" target="_blank" rel="noopener noreferrer nofollow">https://defence-solutions.airbus.com/en/solutions/intelligence/fortion-survin-abi</a>  
+   Link:<a href="https://defence-solutions.airbus.com/en/solutions/intelligence/fortion-survin-abi" target="_blank" rel="noopener noreferrer nofollow">https://defence-solutions.airbus.com/en/solutions/intelligence/fortion-survin-abi</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: cetas.turing.ac.uk  
-   Link: <a href="https://cetas.turing.ac.uk/publications/ai-and-strategic-decision-making" target="_blank" rel="noopener noreferrer nofollow">https://cetas.turing.ac.uk/publications/ai-and-strategic-decision-making</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Emerging Tech &amp; Security CenterAI and Strategic Decision-Making | Centre for Emerging Technology and SecurityApril 22, 2024...</p></details>
+   Link:<a href="https://cetas.turing.ac.uk/publications/ai-and-strategic-decision-making" target="_blank" rel="noopener noreferrer nofollow">https://cetas.turing.ac.uk/publications/ai-and-strategic-decision-making</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Emerging Tech &amp; Security CenterAI and Strategic Decision-Making | Centre for Emerging Technology and SecurityApril 22, 2024...</p></details>
    Published: April 22, 2024  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: tomshardware.com  
-   Link: <a href="https://www.tomshardware.com/tech-industry/artificial-intelligence/the-pentagon-announces-ai-deals-with-openai-google-microsoft-amazon-nvidia-and-more-llms-to-be-deployed-on-classified-department-of-war-networks-for-lawful-operational-use" target="_blank" rel="noopener noreferrer nofollow">https://www.tomshardware.com/tech-industry/artificial-intelligence/the-pentagon-announces-ai-deals-with-openai-google-microsoft-amazon-nvidia-and-more-llms-to-be-deployed-on-classified-department-of-war-networks-for-lawful-operational-use</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of War has announced partnerships with seven major AI companies — SpaceX, OpenAI, Google, Nvidia, Reflection, Microsoft, and A...</p></details>
+   Link:<a href="https://www.tomshardware.com/tech-industry/artificial-intelligence/the-pentagon-announces-ai-deals-with-openai-google-microsoft-amazon-nvidia-and-more-llms-to-be-deployed-on-classified-department-of-war-networks-for-lawful-operational-use" target="_blank" rel="noopener noreferrer nofollow">https://www.tomshardware.com/tech-industry/artificial-intelligence/the-pentagon-announces-ai-deals-with-openai-google-microsoft-amazon-nvidia-and-more-llms-to-be-deployed-on-classified-department-of-war-networks-for-lawful-operational-use</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of War has announced partnerships with seven major AI companies — SpaceX, OpenAI, Google, Nvidia, Reflection, Microsoft, and A...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: smallwarsjournal.com  
    Title: ai reconfiguration military [power](&#123;&#123; 'power/' | relative_url &#125;&#125;)  
-   Link: <a href="https://smallwarsjournal.com/2026/01/26/ai-reconfiguration-military-power/" target="_blank" rel="noopener noreferrer nofollow">https://smallwarsjournal.com/2026/01/26/ai-reconfiguration-military-power/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Small Wars JournalArtificial Intelligence and a Reconfiguration of Military Power | INSSJanuary 26, 2026...</p></details>
+   Link:<a href="https://smallwarsjournal.com/2026/01/26/ai-reconfiguration-military-power/" target="_blank" rel="noopener noreferrer nofollow">https://smallwarsjournal.com/2026/01/26/ai-reconfiguration-military-power/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Small Wars JournalArtificial Intelligence and a Reconfiguration of Military Power | INSSJanuary 26, 2026...</p></details>
    Published: January 26, 2026  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: defence-solutions.airbus.com  
-   Link: <a href="https://defence-solutions.airbus.com/en/solutions/intelligence/i4d" target="_blank" rel="noopener noreferrer nofollow">https://defence-solutions.airbus.com/en/solutions/intelligence/i4d</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>airbus.comI4D Intelligence for Decision | AirbusI4D INTELLIGENCE: GEOSPATIAL ANALYSIS &amp; MULTI-SOURCE DATA FUSION From strategic monitorin...</p></details>
+   Link:<a href="https://defence-solutions.airbus.com/en/solutions/intelligence/i4d" target="_blank" rel="noopener noreferrer nofollow">https://defence-solutions.airbus.com/en/solutions/intelligence/i4d</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>airbus.comI4D Intelligence for Decision | AirbusI4D INTELLIGENCE: GEOSPATIAL ANALYSIS &amp; MULTI-SOURCE DATA FUSION From strategic monitorin...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: coras.ai  
-   Link: <a href="https://www.coras.ai/" target="_blank" rel="noopener noreferrer nofollow">https://www.coras.ai/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Decision Intelligence Platform for DoD &amp; Federal | CORASTHE ONLY AGENTIC DECISION DOMINANCE PLATFORM IN THE DOW Live &amp; Fully Operation...</p></details>
+   Link:<a href="https://www.coras.ai/" target="_blank" rel="noopener noreferrer nofollow">https://www.coras.ai/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI Decision Intelligence Platform for DoD &amp; Federal | CORASTHE ONLY AGENTIC DECISION DOMINANCE PLATFORM IN THE DOW Live &amp; Fully Operation...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: warmind.ai  
-   Link: <a href="https://www.warmind.ai/" target="_blank" rel="noopener noreferrer nofollow">https://www.warmind.ai/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI-POWERED MILITARY STRATEGY ADVISOR Image WELCOME TO WAR MIND War Mind redefines how military strategists, field commanders, and defense...</p></details>
+   Link:<a href="https://www.warmind.ai/" target="_blank" rel="noopener noreferrer nofollow">https://www.warmind.ai/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI-POWERED MILITARY STRATEGY ADVISOR Image WELCOME TO WAR MIND War Mind redefines how military strategists, field commanders, and defense...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: sipri.org  
-   Link: <a href="https://www.sipri.org/publications/2025/other-publications/autonomous-weapon-systems-and-ai-enabled-decision-support-systems-military-targeting-comparison-and" target="_blank" rel="noopener noreferrer nofollow">https://www.sipri.org/publications/2025/other-publications/autonomous-weapon-systems-and-ai-enabled-decision-support-systems-military-targeting-comparison-and</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AUTONOMOUS WEAPON SYSTEMS AND AI-ENABLED DECISION SUPPORT SYSTEMS IN MILITARY TARGETING: A COMPARISON AND RECOMMENDED POLICY RESPONS...</p></details>
+   Link:<a href="https://www.sipri.org/publications/2025/other-publications/autonomous-weapon-systems-and-ai-enabled-decision-support-systems-military-targeting-comparison-and" target="_blank" rel="noopener noreferrer nofollow">https://www.sipri.org/publications/2025/other-publications/autonomous-weapon-systems-and-ai-enabled-decision-support-systems-military-targeting-comparison-and</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AUTONOMOUS WEAPON SYSTEMS AND AI-ENABLED DECISION SUPPORT SYSTEMS IN MILITARY TARGETING: A COMPARISON AND RECOMMENDED POLICY RESPONS...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/technology/german-army-eyes-ai-tools-expedite-wartime-decision-making-2026-03-25/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/german-army-eyes-ai-tools-expedite-wartime-decision-making-2026-03-25/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Inspired by the Ukrainian military&#x27;s effective use of drones and modern sensors to manage large volumes of battlefield data, Lieutenant G...</p></details>
+   Link:<a href="https://www.reuters.com/technology/german-army-eyes-ai-tools-expedite-wartime-decision-making-2026-03-25/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/german-army-eyes-ai-tools-expedite-wartime-decision-making-2026-03-25/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Inspired by the Ukrainian military&#x27;s effective use of drones and modern sensors to manage large volumes of battlefield data, Lieutenant G...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: knowlesys.com  
-   Link: <a href="https://knowlesys.com/en/articles/54/Intelligence_Driven_Decisions_for_Military_and_Defense_with_Knowlesys_Intelligence_System.html" target="_blank" rel="noopener noreferrer nofollow">https://knowlesys.com/en/articles/54/Intelligence_Driven_Decisions_for_Military_and_Defense_with_Knowlesys_Intelligence_System.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Intelligence Driven Decisions for Military and Defense with Knowlesys Intelligence SystemINTELLIGENCE DRIVEN DECISIONS FOR MILITARY AND D...</p></details>
+   Link:<a href="https://knowlesys.com/en/articles/54/Intelligence_Driven_Decisions_for_Military_and_Defense_with_Knowlesys_Intelligence_System.html" target="_blank" rel="noopener noreferrer nofollow">https://knowlesys.com/en/articles/54/Intelligence_Driven_Decisions_for_Military_and_Defense_with_Knowlesys_Intelligence_System.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Intelligence Driven Decisions for Military and Defense with Knowlesys Intelligence SystemINTELLIGENCE DRIVEN DECISIONS FOR MILITARY AND D...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: defenseinnovationreview.com  
-   Link: <a href="https://defenseinnovationreview.com/operational-integration-of-artificial-intelligence-in-military-decision-making/" target="_blank" rel="noopener noreferrer nofollow">https://defenseinnovationreview.com/operational-integration-of-artificial-intelligence-in-military-decision-making/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>February 12, 2026 — OPERATIONAL INTEGRATION OF ARTIFICIAL INTELLIGENCE IN MILITARY DECISION-MAKING * BY Defense Innovation Review * Febru...</p></details>
+   Link:<a href="https://defenseinnovationreview.com/operational-integration-of-artificial-intelligence-in-military-decision-making/" target="_blank" rel="noopener noreferrer nofollow">https://defenseinnovationreview.com/operational-integration-of-artificial-intelligence-in-military-decision-making/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>February 12, 2026 — OPERATIONAL INTEGRATION OF ARTIFICIAL INTELLIGENCE IN MILITARY DECISION-MAKING * BY Defense Innovation Review * Febru...</p></details>
    Published: February 12, 2026  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: company.coras.ai  
-   Link: <a href="https://company.coras.ai/" target="_blank" rel="noopener noreferrer nofollow">https://company.coras.ai/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Decision Intelligence Platform for DoD &amp; Federal | CORASTHE ONLY AGENTIC DECISION DOMINANCE PLATFORM IN THE DOW Live &amp; Fully Operational...</p></details>
+   Link:<a href="https://company.coras.ai/" target="_blank" rel="noopener noreferrer nofollow">https://company.coras.ai/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Decision Intelligence Platform for DoD &amp; Federal | CORASTHE ONLY AGENTIC DECISION DOMINANCE PLATFORM IN THE DOW Live &amp; Fully Operational...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1007/s13347-026-01114-4" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s13347-026-01114-4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Saying &quot;AI&quot; | Philosophy &amp; Technology | Springer Nature LinkMay 27, 2026 — 2 DECISION SUPPORT A central use of AI in the military is for...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1007/s13347-026-01114-4" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s13347-026-01114-4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Saying &quot;AI&quot; | Philosophy &amp; Technology | Springer Nature LinkMay 27, 2026 — 2 DECISION SUPPORT A central use of AI in the military is for...</p></details>
    Published: May 27, 2026  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: stonehg.ai  
-   Link: <a href="https://stonehg.ai/" target="_blank" rel="noopener noreferrer nofollow">https://stonehg.ai/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stonehenge AI delivers a unified decision intelligence platform for organizations operating in hi...</p></details>
+   Link:<a href="https://stonehg.ai/" target="_blank" rel="noopener noreferrer nofollow">https://stonehg.ai/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stonehenge AI delivers a unified decision intelligence platform for organizations operating in hi...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: toxigon.com  
    Title: How AI Decision Support Systems Are Changing Military D  
-   Link: <a href="https://toxigon.com/ai-decision-support-systems-in-military-decision-making" target="_blank" rel="noopener noreferrer nofollow">https://toxigon.com/ai-decision-support-systems-in-military-decision-making</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 30, 2025 — HOW AI DECISION SUPPORT SYSTEMS ARE CHANGING MILITARY DECISION-MAKING Military Technology Toxigon 2025-05-30 07:41...</p></details>
+   Link:<a href="https://toxigon.com/ai-decision-support-systems-in-military-decision-making" target="_blank" rel="noopener noreferrer nofollow">https://toxigon.com/ai-decision-support-systems-in-military-decision-making</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 30, 2025 — HOW AI DECISION SUPPORT SYSTEMS ARE CHANGING MILITARY DECISION-MAKING Military Technology Toxigon 2025-05-30 07:41...</p></details>
    Published: May 30, 2025

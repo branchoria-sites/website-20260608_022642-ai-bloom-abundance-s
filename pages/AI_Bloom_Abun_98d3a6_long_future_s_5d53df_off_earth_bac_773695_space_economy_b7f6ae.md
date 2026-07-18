@@ -272,7 +272,7 @@ image: /assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df_off_earth_bac_77
 The idea of off-Earth settlements as a backup for civilisation sounds straightforward: if humanity lives in more than one place, a catastrophe on Earth is less likely to end the human story. But the hardest part of that vision is not rockets, habitats, or even survival in hostile environments. It is economics.
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df_off_earth_bac_773695_space_economy_b7f6ae-Illustration-1-dark.svg" | relative_url }}" alt="Economic Sustainability illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df_off_earth_bac_773695_space_economy_b7f6ae-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df_off_earth_bac_773695_space_economy_b7f6ae-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-A settlement that depends on regular shipments from Earth is not really an independent backup. If Earth suffers a severe collapse, war, pandemic, or economic breakdown, those supply chains could fail. The central question is therefore not merely whether people can live on the Moon, Mars, or in orbital habitats for a few years. It is whether they can build economies capable of producing most of what they need themselves, repairing complex systems, and maintaining technological civilisation across generations. The answer remains uncertain, and economic constraints may be among the strongest arguments against viewing near-term space settlements as robust civilisational insurance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/overview-in-situ-resource-utilization/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">overview in situ resource utilization</span><span class="citation-popover-snippet">Overview: In-Situ Resource Utilization26 Jul 2023 — NASA&#x27;s Lunar Surface Innovation Initiative will develop and demonstrate technolog...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/mission/in-situ-resource-utilization-isru/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">in situ resource utilization isru</span><span class="citation-popover-snippet">In-Situ Resource Utilization (ISRU)2 Aug 2024 — ISRU is the harnessing of local natural resources at mission destinations, instead of tak...</span></span></span>
+A settlement that depends on regular shipments from Earth is not really an independent backup. If Earth suffers a severe collapse, war, pandemic, or economic breakdown, those supply chains could fail. The central question is therefore not merely whether people can live on the Moon, Mars, or in orbital habitats for a few years. It is whether they can build economies capable of producing most of what they need themselves, repairing complex systems, and maintaining technological civilisation across generations. The answer remains uncertain, and economic constraints may be among the strongest arguments against viewing near-term space settlements as robust civilisational insurance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/overview-in-situ-resource-utilization/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">overview in situ resource utilization</span><span class="citation-popover-snippet">Overview: In-Situ Resource Utilization26 Jul 2023 — NASA&#x27;s Lunar Surface Innovation Initiative will develop and demonstrate technolog...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/mission/in-situ-resource-utilization-isru/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">in situ resource utilization isru</span><span class="citation-popover-snippet">In-Situ Resource Utilization (ISRU)2 Aug 2024 — ISRU is the harnessing of local natural resources at mission destinations, instead of tak...</span></span></span>
 
 Within broader discussions about AI-enabled abundance and humanity's long-term future, this question matters because advanced AI, [robotics]({{ 'robotics/' | relative_url }}), automation, and accelerated scientific [discovery]({{ 'discovery/' | relative_url }}) could dramatically reduce some of today's barriers. Yet even in optimistic scenarios, resource extraction, manufacturing complexity, energy production, and economic self-sufficiency remain fundamental challenges.
 
@@ -280,7 +280,7 @@ Within broader discussions about AI-enabled abundance and humanity's long-term f
 
 A small outpost can survive while remaining economically dependent. The International Space Station demonstrates that humans can live in space for long periods, but it survives only through continuous support from Earth.
 
-A genuine civilisational backup requires something much more demanding. It must be able to continue functioning if contact with Earth is reduced or lost entirely. That means not only producing food, water, oxygen, and [energy]({{ 'energy/' | relative_url }}), but also replacing machinery, educating new generations, maintaining scientific knowledge, and preserving industrial capabilities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nss.org/wp-content/uploads/2019/03/NSS-Roadmap-to-Space-Settlement-3rd-Ed.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nss.org">[NSS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nss.org</span><span class="citation-popover-snippet">Roadmap to Space SettlementDeveloping and using space resources to reduce humanity&#x27;s reliance on Earth-based resources and industry. •...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/wp-content/uploads/2017/11/journey-to-mars-next-steps-20151008_508.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-snippet">NASA&#x27;s Journey to Mars - Pioneering Next Steps in Space...NASA will have to learn new ways of operating in space, based on self-reli...</span></span></span>
+A genuine civilisational backup requires something much more demanding. It must be able to continue functioning if contact with Earth is reduced or lost entirely. That means not only producing food, water, oxygen, and [energy]({{ 'energy/' | relative_url }}), but also replacing machinery, educating new generations, maintaining scientific knowledge, and preserving industrial capabilities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nss.org/wp-content/uploads/2019/03/NSS-Roadmap-to-Space-Settlement-3rd-Ed.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nss.org">[NSS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nss.org</span><span class="citation-popover-snippet">Roadmap to Space SettlementDeveloping and using space resources to reduce humanity&#x27;s reliance on Earth-based resources and industry. •...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/wp-content/uploads/2017/11/journey-to-mars-next-steps-20151008_508.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-snippet">NASA&#x27;s Journey to Mars - Pioneering Next Steps in Space...NASA will have to learn new ways of operating in space, based on self-reli...</span></span></span>
 
 The challenge is that modern civilisation depends on extraordinarily complex supply chains. A single computer chip requires specialised materials, precision manufacturing equipment, global logistics networks, and layers of scientific expertise. Even advanced nations on Earth depend heavily on international trade for critical components.
 
@@ -290,29 +290,29 @@ This issue creates a tension in many space-settlement visions. A colony may appe
 
 ## In Situ Resource Utilisation Is Necessary but Not Sufficient
 
-The most widely discussed solution is in situ resource utilisation, usually abbreviated to ISRU. The basic idea is simple: instead of transporting everything from Earth, settlements use local materials. NASA and other agencies consider ISRU essential for long-duration lunar and Martian operations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://history.arc.nasa.gov/hist_pdfs/nasa_sp428.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.arc.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.arc.nasa.gov</span><span class="citation-popover-snippet">Ames Research Center ArchivesSPACE RESOURCES and SPACE SETTLEMENTSThis publication contains the technical papers from the five task group...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/overview-in-situ-resource-utilization/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">overview in situ resource utilization</span><span class="citation-popover-snippet">Overview: In-Situ Resource Utilization26 Jul 2023 — NASA&#x27;s Lunar Surface Innovation Initiative will develop and demonstrate technolog...</span></span></span>
+The most widely discussed solution is in situ resource utilisation, usually abbreviated to ISRU. The basic idea is simple: instead of transporting everything from Earth, settlements use local materials. NASA and other agencies consider ISRU essential for long-duration lunar and Martian operations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://history.arc.nasa.gov/hist_pdfs/nasa_sp428.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.arc.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.arc.nasa.gov</span><span class="citation-popover-snippet">Ames Research Center ArchivesSPACE RESOURCES and SPACE SETTLEMENTSThis publication contains the technical papers from the five task group...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/overview-in-situ-resource-utilization/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">overview in situ resource utilization</span><span class="citation-popover-snippet">Overview: In-Situ Resource Utilization26 Jul 2023 — NASA&#x27;s Lunar Surface Innovation Initiative will develop and demonstrate technolog...</span></span></span>
 
 Potential examples include:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Extracting water ice from lunar polar regions.
-* Producing oxygen from lunar regolith. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/268569660_NASA_In-Situ_Resource_Utilization_ISRU_Project_Development_and_Implementation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">From the lunar soil, also referred to as regolith, many vital...Read more...</span></span></span>
+* Producing oxygen from lunar regolith.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/268569660_NASA_In-Situ_Resource_Utilization_ISRU_Project_Development_and_Implementation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">From the lunar soil, also referred to as regolith, many vital...Read more...</span></span></span>
 * Generating methane and oxygen fuel on Mars.
 * Using local soil and rock for construction.
 * Manufacturing structural materials from local minerals.
 
 </div>
 
-These capabilities could dramatically reduce launch costs. Studies of lunar resource utilisation have repeatedly found that local oxygen production alone could eliminate large numbers of expensive cargo missions from Earth. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lpi.usra.edu/lunar_resources/documents/ISRUFinalReportRev15_19_05%20_2_.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lpi.usra.edu">[LPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lpi.usra.edu</span><span class="citation-popover-title">LPINASA In-Situ Resource Utilization (ISRU) Capability</span><span class="citation-popover-snippet">April 17, 2006 — 19 May 2005 — If one assumed a single lander was required for the Lunar oxygen production plant emplacement, ISRU would...</span><span class="citation-popover-meta">Published: April 17, 2006</span></span></span>
+These capabilities could dramatically reduce launch costs. Studies of lunar resource utilisation have repeatedly found that local oxygen production alone could eliminate large numbers of expensive cargo missions from Earth.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lpi.usra.edu/lunar_resources/documents/ISRUFinalReportRev15_19_05%20_2_.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lpi.usra.edu">[LPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lpi.usra.edu</span><span class="citation-popover-title">LPINASA In-Situ Resource Utilization (ISRU) Capability</span><span class="citation-popover-snippet">April 17, 2006 — 19 May 2005 — If one assumed a single lander was required for the Lunar oxygen production plant emplacement, ISRU would...</span><span class="citation-popover-meta">Published: April 17, 2006</span></span></span>
 
-NASA's MOXIE experiment on the Perseverance rover demonstrated that oxygen can be produced from the Martian atmosphere, providing an important proof of concept for future resource production. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/nasas-moxie-experiment-is-making-oxygen-on-mars" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">NASA&#x27;s MOXIE Experiment Is Making Oxygen on Mars</span><span class="citation-popover-snippet">The toaster-sized device on the Mars Perseverance Rover has successfully produced small amounts of oxygen, enough for a person to breathe...</span></span></span>
+NASA's MOXIE experiment on the Perseverance rover demonstrated that oxygen can be produced from the Martian atmosphere, providing an important proof of concept for future resource production.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/nasas-moxie-experiment-is-making-oxygen-on-mars" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">NASA&#x27;s MOXIE Experiment Is Making Oxygen on Mars</span><span class="citation-popover-snippet">The toaster-sized device on the Mars Perseverance Rover has successfully produced small amounts of oxygen, enough for a person to breathe...</span></span></span>
 
 Yet resource extraction is only the first step.
 
 Finding water is not the same as operating a water industry. Producing oxygen is not the same as maintaining a civilisation. Raw materials must be mined, refined, transported, processed, stored, and incorporated into larger manufacturing systems. Each stage requires machinery, maintenance, energy, and technical expertise.
 
-Researchers examining lunar and Martian ISRU repeatedly emphasise that extraction technologies remain early-stage and that scaling them into robust industrial systems presents major engineering and economic challenges. <span class="citation-chip-wrap"><a class="citation-chip" href="https://spj.science.org/doi/10.34133/space.0037" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spj.science.org">[Science Advances]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spj.science.org</span><span class="citation-popover-snippet">Science AdvancesOverview of the Lunar In Situ Resource Utilization...by P Zhang · 2023 · Cited by 167 — In situ resource utilization (IS...</span></span></span> 2arXiv
+Researchers examining lunar and Martian ISRU repeatedly emphasise that extraction technologies remain early-stage and that scaling them into robust industrial systems presents major engineering and economic challenges.<span class="citation-chip-wrap"><a class="citation-chip" href="https://spj.science.org/doi/10.34133/space.0037" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spj.science.org">[Science Advances]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spj.science.org</span><span class="citation-popover-snippet">Science AdvancesOverview of the Lunar In Situ Resource Utilization...by P Zhang · 2023 · Cited by 167 — In situ resource utilization (IS...</span></span></span> 2arXiv
 
 In other words, ISRU may solve part of the import problem without solving the wider problem of economic autonomy.
 
@@ -344,7 +344,7 @@ This creates what economists sometimes call a complexity problem. Modern industr
 
 The problem resembles the challenge faced by isolated societies throughout history, but in a much harsher environment where failures in critical systems can become life-threatening very quickly.
 
-Recent reviews of lunar manufacturing emphasise the importance of additive manufacturing, robotics, and local production methods, but they also note major unresolved issues involving energy requirements, material quality, reliability, and the difficulty of reproducing advanced industrial products entirely from local resources. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2404.00800" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Recent reviews of lunar manufacturing emphasise the importance of additive manufacturing, robotics, and local production methods, but they also note major unresolved issues involving energy requirements, material quality, reliability, and the difficulty of reproducing advanced industrial products entirely from local resources.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2404.00800" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 ## Could Trade Solve the Problem?
 
@@ -363,7 +363,7 @@ Some space advocates envision similar arrangements:
 
 </div>
 
-Under this model, resilience comes from a distributed network rather than isolated independence. NSS <span class="citation-chip-wrap"><a class="citation-chip" href="https://history.arc.nasa.gov/hist_pdfs/nasa_sp428.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.arc.nasa.gov">[Ames Research Center Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.arc.nasa.gov</span><span class="citation-popover-snippet">Ames Research Center ArchivesSPACE RESOURCES and SPACE SETTLEMENTSThis publication contains the technical papers from the five task group...</span></span></span>
+Under this model, resilience comes from a distributed network rather than isolated independence. NSS<span class="citation-chip-wrap"><a class="citation-chip" href="https://history.arc.nasa.gov/hist_pdfs/nasa_sp428.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.arc.nasa.gov">[Ames Research Center Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.arc.nasa.gov</span><span class="citation-popover-snippet">Ames Research Center ArchivesSPACE RESOURCES and SPACE SETTLEMENTSThis publication contains the technical papers from the five task group...</span></span></span>
 
 However, trade creates its own vulnerabilities.
 
@@ -385,10 +385,10 @@ Large populations need:
 
 * Housing.
 * Power generation.
-* Life-support infrastructure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/groups/930540941927100/posts/998203675160826/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Space Settlements: Preparing for Life Beyond EarthThese ultra-advanced habitats combine self-healing materials, artificial weather system...</span></span></span>
+* Life-support infrastructure.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/groups/930540941927100/posts/998203675160826/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Space Settlements: Preparing for Life Beyond EarthThese ultra-advanced habitats combine self-healing materials, artificial weather system...</span></span></span>
 * Medical facilities.
 * Industrial equipment.
-* Food production systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://patentpc.com/blog/the-future-of-space-colonization-market-growth-and-lunar-martian-habitat-trends" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: patentpc.com">[patentpc.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">patentpc.com</span><span class="citation-popover-title">the future of space colonization market growth and lunar martian habitat trends</span><span class="citation-popover-snippet">The Future of Space Colonization: Market Growth and...2 May 2026 — Companies should explore how they can contribute to self-sustaining s...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
+* Food production systems.<span class="citation-chip-wrap"><a class="citation-chip" href="https://patentpc.com/blog/the-future-of-space-colonization-market-growth-and-lunar-martian-habitat-trends" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: patentpc.com">[patentpc.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">patentpc.com</span><span class="citation-popover-title">the future of space colonization market growth and lunar martian habitat trends</span><span class="citation-popover-snippet">The Future of Space Colonization: Market Growth and...2 May 2026 — Companies should explore how they can contribute to self-sustaining s...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 * Transportation networks.
 * [Education]({{ 'education/' | relative_url }}) and governance institutions.
 
@@ -400,7 +400,7 @@ That means resilience is often more expensive than mere survival.
 
 For example, a settlement may technically survive with one oxygen production system. But a genuine civilisational backup would need multiple systems, spare parts, trained operators, and replacement manufacturing capabilities. Each additional layer improves resilience while increasing costs.
 
-This is one reason some critics argue that proposals for self-sustaining colonies often underestimate the industrial scale required. Researchers and commentators who became more sceptical of settlement timelines frequently cite economic and logistical complexity rather than any single technological impossibility. <span class="citation-chip-wrap"><a class="citation-chip" href="https://80000hours.org/podcast/episodes/zach-weinersmith-space-settlement/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 80000hours.org">[80,000 Hours]</a><span class="citation-popover" role="note"><span class="citation-popover-source">80000hours.org</span><span class="citation-popover-title">zach weinersmith space settlement</span><span class="citation-popover-snippet">80,000 HoursZach Weinersmith on how researching his book turned him...14 May 2024 — I spoke with Zach Weinersmith about settling space...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
+This is one reason some critics argue that proposals for self-sustaining colonies often underestimate the industrial scale required. Researchers and commentators who became more sceptical of settlement timelines frequently cite economic and logistical complexity rather than any single technological impossibility.<span class="citation-chip-wrap"><a class="citation-chip" href="https://80000hours.org/podcast/episodes/zach-weinersmith-space-settlement/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 80000hours.org">[80,000 Hours]</a><span class="citation-popover" role="note"><span class="citation-popover-source">80000hours.org</span><span class="citation-popover-title">zach weinersmith space settlement</span><span class="citation-popover-snippet">80,000 HoursZach Weinersmith on how researching his book turned him...14 May 2024 — I spoke with Zach Weinersmith about settling space...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0l5Sv54pgYI" title="The Space Mining Boom - How Resources Will Shape the Future Economy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0l5Sv54pgYI" target="_blank" rel="noopener noreferrer">The Space Mining Boom - How Resources Will Shape the Future Economy</a></p><p class="youtube-embed-meta">Channel: Isaac Arthur &middot; Views: 84.1K &middot; Uploaded: November 2025 &middot; Length: 27 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0l5Sv54pgYI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0l5Sv54pgYI">Open on YouTube</a></p></div></div></div>
 
@@ -415,11 +415,11 @@ Potential mechanisms include:
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Fully autonomous mining operations.
-* AI-managed life-support systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/groups/930540941927100/posts/998203675160826/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Space Settlements: Preparing for Life Beyond EarthThese ultra-advanced habitats combine self-healing materials, artificial weather system...</span></span></span>
+* AI-managed life-support systems.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/groups/930540941927100/posts/998203675160826/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Space Settlements: Preparing for Life Beyond EarthThese ultra-advanced habitats combine self-healing materials, artificial weather system...</span></span></span>
 * Automated scientific research.
 * Robotic manufacturing.
 * Rapid design and testing of new equipment.
-* More efficient resource extraction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nasa.gov/mission/in-situ-resource-utilization-isru/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">in situ resource utilization isru</span><span class="citation-popover-snippet">In-Situ Resource Utilization (ISRU)2 Aug 2024 — ISRU is the harnessing of local natural resources at mission destinations, instead of tak...</span></span></span>
+* More efficient resource extraction.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nasa.gov/mission/in-situ-resource-utilization-isru/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">in situ resource utilization isru</span><span class="citation-popover-snippet">In-Situ Resource Utilization (ISRU)2 Aug 2024 — ISRU is the harnessing of local natural resources at mission destinations, instead of tak...</span></span></span>
 * Reduced labour requirements.
 * Better supply-chain optimisation.
 
@@ -436,7 +436,7 @@ Yet this remains speculative. The same uncertainties surrounding superintelligen
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df_off_earth_bac_773695_space_economy_b7f6ae-Illustration-3-dark.svg" | relative_url }}" alt="Economic Sustainability illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df_off_earth_bac_773695_space_economy_b7f6ae-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df_off_earth_bac_773695_space_economy_b7f6ae-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Resource Abundance Argument and Its Limits
 
-Space advocates often point to the enormous material wealth of the Solar System. The Moon contains vast quantities of oxygen-bearing minerals. Mars possesses water ice, carbon dioxide, and numerous useful elements. Asteroids contain metals that exceed terrestrial reserves by many orders of magnitude. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/In_situ_resource_utilization" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">In situ resource utilization</span><span class="citation-popover-snippet">In situ resource utilization</span></span></span>
+Space advocates often point to the enormous material wealth of the Solar System. The Moon contains vast quantities of oxygen-bearing minerals. Mars possesses water ice, carbon dioxide, and numerous useful elements. Asteroids contain metals that exceed terrestrial reserves by many orders of magnitude.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/In_situ_resource_utilization" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">In situ resource utilization</span><span class="citation-popover-snippet">In situ resource utilization</span></span></span>
 
 In principle, these resources could support populations far larger than Earth's.
 
@@ -448,7 +448,7 @@ The key question is not whether resources exist. It is whether settlements can a
 
 A tonne of metal embedded in an asteroid has little practical value until a settlement possesses the energy, machinery, expertise, and institutions required to mine and use it.
 
-For this reason, some researchers argue that the critical resource is not raw material itself but industrial capability. The settlement that can manufacture machines, maintain infrastructure, and expand productive capacity may ultimately be more resilient than the settlement that merely sits near valuable deposits. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/268569660_NASA_In-Situ_Resource_Utilization_ISRU_Project_Development_and_Implementation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">From the lunar soil, also referred to as regolith, many vital...Read more...</span></span></span>
+For this reason, some researchers argue that the critical resource is not raw material itself but industrial capability. The settlement that can manufacture machines, maintain infrastructure, and expand productive capacity may ultimately be more resilient than the settlement that merely sits near valuable deposits.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/268569660_NASA_In-Situ_Resource_Utilization_ISRU_Project_Development_and_Implementation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">From the lunar soil, also referred to as regolith, many vital...Read more...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rZgJrLifKws" title="Abandoned Space Colonies - How Worlds Can Unterraform Themselves" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rZgJrLifKws" target="_blank" rel="noopener noreferrer">Abandoned Space Colonies - How Worlds Can Unterraform Themselves</a></p><p class="youtube-embed-meta">Channel: Isaac Arthur &middot; Views: 58.5K &middot; Uploaded: October 2025 &middot; Length: 33 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rZgJrLifKws" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rZgJrLifKws">Open on YouTube</a></p></div></div></div>
 
@@ -477,194 +477,194 @@ This does not mean the backup-civilisation idea is impossible. It means that sel
 For advocates of humanity's long future, that distinction matters. The strongest version of the space-settlement argument is not that humans can temporarily inhabit other worlds. It is that they can eventually build independent centres of industry, knowledge, and culture beyond Earth. Whether future advances in AI, robotics, manufacturing, and resource utilisation can make that transition economically realistic remains one of the central open questions in the broader vision of civilisational resilience and human flourishing beyond a single planet.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can Space Colonies Sustain Themselves Without Earth?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can Space Colonies Sustain Themselves Without Earth?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+City+on+Mars+by+Kelly+Weinersmith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A City on Mars on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2m6vEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for A City on Mars" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+City+on+Mars+by+Kelly+Weinersmith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A City on Mars">A City on Mars</a>
-        </h4>
-        <p class="fr-book-author">By Kelly Weinersmith, Zach Weinersmith</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+City+on+Mars+by+Kelly+Weinersmith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A City on Mars on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2m6vEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for A City on Mars" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+City+on+Mars+by+Kelly+Weinersmith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A City on Mars">A City on Mars</a>
+</h4>
+<p class="fr-book-author">By Kelly Weinersmith, Zach Weinersmith</p>
         
-        <p class="fr-book-desc">Directly discusses whether space colonies can actually support themselves.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+City+on+Mars+by+Kelly+Weinersmith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly discusses whether space colonies can actually support themselves.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+City+on+Mars+by+Kelly+Weinersmith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Case+for+Space+by+Robert+Zubrin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Case for Space on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=0PqVDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Case for Space" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Case+for+Space+by+Robert+Zubrin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Case for Space">The Case for Space</a>
-        </h4>
-        <p class="fr-book-author">By Robert Zubrin</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Case+for+Space+by+Robert+Zubrin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Case for Space on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=0PqVDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Case for Space" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Case+for+Space+by+Robert+Zubrin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Case for Space">The Case for Space</a>
+</h4>
+<p class="fr-book-author">By Robert Zubrin</p>
         
-        <p class="fr-book-desc">Makes the case for space resources, industry and expansion.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Case+for+Space+by+Robert+Zubrin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Makes the case for space resources, industry and expansion.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Case+for+Space+by+Robert+Zubrin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Future+of+Humanity+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Future of Humanity on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d7ktygEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Future of Humanity" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Future+of+Humanity+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Future of Humanity">The Future of Humanity</a>
-        </h4>
-        <p class="fr-book-author">By Michio Kaku</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Future+of+Humanity+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Future of Humanity on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d7ktygEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Future of Humanity" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Future+of+Humanity+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Future of Humanity">The Future of Humanity</a>
+</h4>
+<p class="fr-book-author">By Michio Kaku</p>
         
-        <p class="fr-book-desc">Places space economies within a larger future of human expansion.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Future+of+Humanity+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places space economies within a larger future of human expansion.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Future+of+Humanity+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+High+Frontier+by+Gerard+K.+O%27Neill&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The High Frontier on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=W7PuAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The High Frontier" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+High+Frontier+by+Gerard+K.+O%27Neill&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The High Frontier">The High Frontier</a>
-        </h4>
-        <p class="fr-book-author">By Gerard K. O&#x27;Neill, David Gump et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+High+Frontier+by+Gerard+K.+O%27Neill&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The High Frontier on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=W7PuAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The High Frontier" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+High+Frontier+by+Gerard+K.+O%27Neill&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The High Frontier">The High Frontier</a>
+</h4>
+<p class="fr-book-author">By Gerard K. O&#x27;Neill, David Gump et al.</p>
         
-        <p class="fr-book-desc">Influential vision of orbital settlements and space-based industry.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+High+Frontier+by+Gerard+K.+O%27Neill&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Influential vision of orbital settlements and space-based industry.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+High+Frontier+by+Gerard+K.+O%27Neill&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+City+on+Mars&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A City on Mars</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Case+for+Space&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Case for Space</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Future+of+Humanity&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Future of Humanity</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+City+on+Mars&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A City on Mars</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Case+for+Space&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Case for Space</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Future+of+Humanity&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Future of Humanity</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-space-colonies-sustain-themselves-without-earth-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="can-space-colonies-sustain-themselves-without-earth-space-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USSR Space Propaganda Poster Russian Vintage Soviet Wall Art Print #4 COBETOB"><img src="https://i.ebayimg.com/images/g/UZsAAOSw6PdoIJhe/s-l225.jpg" alt="Listing image for USSR Space Propaganda Poster Russian Vintage Soviet Wall Art Print #4 COBETOB" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-space-colonies-sustain-themselves-without-earth-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="can-space-colonies-sustain-themselves-without-earth-space-poster" target="_blank" rel="sponsored noopener noreferrer">USSR Space Propaganda Poster Russian Vintage Soviet Wall Art Print #4 COBETOB</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-space-colonies-sustain-themselves-without-earth-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="can-space-colonies-sustain-themselves-without-earth-space-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: space poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-space-colonies-sustain-themselves-without-earth-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="can-space-colonies-sustain-themselves-without-earth-space-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-space-colonies-sustain-themselves-without-earth-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="can-space-colonies-sustain-themselves-without-earth-space-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USSR Space Propaganda Poster Russian Vintage Soviet Wall Art Print #4 COBETOB"><img src="https://i.ebayimg.com/images/g/UZsAAOSw6PdoIJhe/s-l225.jpg" alt="Listing image for USSR Space Propaganda Poster Russian Vintage Soviet Wall Art Print #4 COBETOB" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-space-colonies-sustain-themselves-without-earth-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="can-space-colonies-sustain-themselves-without-earth-space-poster" target="_blank" rel="sponsored noopener noreferrer">USSR Space Propaganda Poster Russian Vintage Soviet Wall Art Print #4 COBETOB</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-space-colonies-sustain-themselves-without-earth-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="can-space-colonies-sustain-themselves-without-earth-space-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: space poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-space-colonies-sustain-themselves-without-earth-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="can-space-colonies-sustain-themselves-without-earth-space-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-space-colonies-sustain-themselves-without-earth-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="can-space-colonies-sustain-themselves-without-earth-space-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for GALAXY UNIVERSE poster photo picture art print of space A0-A4 different sizes"><img src="https://i.ebayimg.com/images/g/axwAAOSwintXRxHu/s-l225.jpg" alt="Listing image for GALAXY UNIVERSE poster photo picture art print of space A0-A4 different sizes" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-space-colonies-sustain-themselves-without-earth-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="can-space-colonies-sustain-themselves-without-earth-space-poster" target="_blank" rel="sponsored noopener noreferrer">GALAXY UNIVERSE poster photo picture art print of space A0-A4 different sizes</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-space-colonies-sustain-themselves-without-earth-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="can-space-colonies-sustain-themselves-without-earth-space-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: space poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-space-colonies-sustain-themselves-without-earth-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="can-space-colonies-sustain-themselves-without-earth-space-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-space-colonies-sustain-themselves-without-earth-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="can-space-colonies-sustain-themselves-without-earth-space-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for GALAXY UNIVERSE poster photo picture art print of space A0-A4 different sizes"><img src="https://i.ebayimg.com/images/g/axwAAOSwintXRxHu/s-l225.jpg" alt="Listing image for GALAXY UNIVERSE poster photo picture art print of space A0-A4 different sizes" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-space-colonies-sustain-themselves-without-earth-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="can-space-colonies-sustain-themselves-without-earth-space-poster" target="_blank" rel="sponsored noopener noreferrer">GALAXY UNIVERSE poster photo picture art print of space A0-A4 different sizes</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-space-colonies-sustain-themselves-without-earth-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="can-space-colonies-sustain-themselves-without-earth-space-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: space poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-space-colonies-sustain-themselves-without-earth-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="can-space-colonies-sustain-themselves-without-earth-space-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-space-colonies-sustain-themselves-without-earth-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="can-space-colonies-sustain-themselves-without-earth-space-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USSR Space Propaganda Poster | Russian Vintage Soviet Wall Art Print #space 15"><img src="https://i.ebayimg.com/images/g/~gAAAOSwEx9oII~4/s-l225.jpg" alt="Listing image for USSR Space Propaganda Poster | Russian Vintage Soviet Wall Art Print #space 15" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-space-colonies-sustain-themselves-without-earth-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="can-space-colonies-sustain-themselves-without-earth-space-poster" target="_blank" rel="sponsored noopener noreferrer">USSR Space Propaganda Poster | Russian Vintage Soviet Wall Art Print #space 15</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-space-colonies-sustain-themselves-without-earth-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="can-space-colonies-sustain-themselves-without-earth-space-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: space poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-space-colonies-sustain-themselves-without-earth-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="can-space-colonies-sustain-themselves-without-earth-space-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-space-colonies-sustain-themselves-without-earth-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="can-space-colonies-sustain-themselves-without-earth-space-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USSR Space Propaganda Poster | Russian Vintage Soviet Wall Art Print #space 15"><img src="https://i.ebayimg.com/images/g/~gAAAOSwEx9oII~4/s-l225.jpg" alt="Listing image for USSR Space Propaganda Poster | Russian Vintage Soviet Wall Art Print #space 15" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-space-colonies-sustain-themselves-without-earth-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="can-space-colonies-sustain-themselves-without-earth-space-poster" target="_blank" rel="sponsored noopener noreferrer">USSR Space Propaganda Poster | Russian Vintage Soviet Wall Art Print #space 15</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-space-colonies-sustain-themselves-without-earth-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="can-space-colonies-sustain-themselves-without-earth-space-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: space poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-space-colonies-sustain-themselves-without-earth-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="can-space-colonies-sustain-themselves-without-earth-space-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-space-colonies-sustain-themselves-without-earth-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="can-space-colonies-sustain-themselves-without-earth-space-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SPACE ROCKET SHUTTLE POSTER - CHOOSE SIZE &amp; CHOOSE DESIGN - FRAMED OPTIONS!"><img src="https://i.ebayimg.com/images/g/gdsAAeSwyf9o7kc6/s-l225.jpg" alt="Listing image for SPACE ROCKET SHUTTLE POSTER - CHOOSE SIZE &amp; CHOOSE DESIGN - FRAMED OPTIONS!" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-space-colonies-sustain-themselves-without-earth-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="can-space-colonies-sustain-themselves-without-earth-space-poster" target="_blank" rel="sponsored noopener noreferrer">SPACE ROCKET SHUTTLE POSTER - CHOOSE SIZE &amp; CHOOSE DESIGN - FRAMED OPTIONS!</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-space-colonies-sustain-themselves-without-earth-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="can-space-colonies-sustain-themselves-without-earth-space-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: space poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-space-colonies-sustain-themselves-without-earth-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="can-space-colonies-sustain-themselves-without-earth-space-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-space-colonies-sustain-themselves-without-earth-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="can-space-colonies-sustain-themselves-without-earth-space-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-space-colonies-sustain-themselves-without-earth-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="can-space-colonies-sustain-themselves-without-earth-space-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SPACE ROCKET SHUTTLE POSTER - CHOOSE SIZE &amp; CHOOSE DESIGN - FRAMED OPTIONS!"><img src="https://i.ebayimg.com/images/g/gdsAAeSwyf9o7kc6/s-l225.jpg" alt="Listing image for SPACE ROCKET SHUTTLE POSTER - CHOOSE SIZE &amp; CHOOSE DESIGN - FRAMED OPTIONS!" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-space-colonies-sustain-themselves-without-earth-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="can-space-colonies-sustain-themselves-without-earth-space-poster" target="_blank" rel="sponsored noopener noreferrer">SPACE ROCKET SHUTTLE POSTER - CHOOSE SIZE &amp; CHOOSE DESIGN - FRAMED OPTIONS!</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-space-colonies-sustain-themselves-without-earth-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="can-space-colonies-sustain-themselves-without-earth-space-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: space poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-space-colonies-sustain-themselves-without-earth-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="can-space-colonies-sustain-themselves-without-earth-space-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-space-colonies-sustain-themselves-without-earth-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="can-space-colonies-sustain-themselves-without-earth-space-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -680,7 +680,7 @@ For advocates of humanity's long future, that distinction matters. The strongest
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -700,7 +700,7 @@ For advocates of humanity's long future, that distinction matters. The strongest
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -732,7 +732,7 @@ For advocates of humanity's long future, that distinction matters. The strongest
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -784,7 +784,7 @@ For advocates of humanity's long future, that distinction matters. The strongest
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -829,7 +829,7 @@ For advocates of humanity's long future, that distinction matters. The strongest
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -870,149 +870,149 @@ For advocates of humanity's long future, that distinction matters. The strongest
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nasa.gov  
    Title: overview in situ resource utilization  
-   Link: <a href="https://www.nasa.gov/overview-in-situ-resource-utilization/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/overview-in-situ-resource-utilization/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Overview: In-Situ Resource Utilization26 Jul 2023 — NASA&#x27;s Lunar Surface Innovation Initiative will develop and demonstrate technolog...</p></details>
+   Link:<a href="https://www.nasa.gov/overview-in-situ-resource-utilization/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/overview-in-situ-resource-utilization/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Overview: In-Situ Resource Utilization26 Jul 2023 — NASA&#x27;s Lunar Surface Innovation Initiative will develop and demonstrate technolog...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nasa.gov  
    Title: in situ resource utilization isru  
-   Link: <a href="https://www.nasa.gov/mission/in-situ-resource-utilization-isru/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/mission/in-situ-resource-utilization-isru/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>In-Situ Resource Utilization (ISRU)2 Aug 2024 — ISRU is the harnessing of local natural resources at mission destinations, instead of tak...</p></details>
+   Link:<a href="https://www.nasa.gov/mission/in-situ-resource-utilization-isru/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/mission/in-situ-resource-utilization-isru/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In-Situ Resource Utilization (ISRU)2 Aug 2024 — ISRU is the harnessing of local natural resources at mission destinations, instead of tak...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: 80000hours.org  
    Title: zach weinersmith space settlement  
-   Link: <a href="https://80000hours.org/podcast/episodes/zach-weinersmith-space-settlement/" target="_blank" rel="noopener noreferrer nofollow">https://80000hours.org/podcast/episodes/zach-weinersmith-space-settlement/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>80,000 HoursZach Weinersmith on how researching his book turned him...14 May 2024 — I spoke with Zach Weinersmith about settling space...</p></details>
+   Link:<a href="https://80000hours.org/podcast/episodes/zach-weinersmith-space-settlement/" target="_blank" rel="noopener noreferrer nofollow">https://80000hours.org/podcast/episodes/zach-weinersmith-space-settlement/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>80,000 HoursZach Weinersmith on how researching his book turned him...14 May 2024 — I spoke with Zach Weinersmith about settling space...</p></details>
    Published: May 2024  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nss.org  
-   Link: <a href="https://nss.org/wp-content/uploads/2019/03/NSS-Roadmap-to-Space-Settlement-3rd-Ed.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nss.org/wp-content/uploads/2019/03/NSS-Roadmap-to-Space-Settlement-3rd-Ed.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Roadmap to Space SettlementDeveloping and using space resources to reduce humanity&#x27;s reliance on Earth-based resources and industry. •...</p></details>
+   Link:<a href="https://nss.org/wp-content/uploads/2019/03/NSS-Roadmap-to-Space-Settlement-3rd-Ed.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nss.org/wp-content/uploads/2019/03/NSS-Roadmap-to-Space-Settlement-3rd-Ed.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roadmap to Space SettlementDeveloping and using space resources to reduce humanity&#x27;s reliance on Earth-based resources and industry. •...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nasa.gov  
-   Link: <a href="https://www.nasa.gov/wp-content/uploads/2017/11/journey-to-mars-next-steps-20151008_508.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/wp-content/uploads/2017/11/journey-to-mars-next-steps-20151008_508.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA&#x27;s Journey to Mars - Pioneering Next Steps in Space...NASA will have to learn new ways of operating in space, based on self-reli...</p></details>
+   Link:<a href="https://www.nasa.gov/wp-content/uploads/2017/11/journey-to-mars-next-steps-20151008_508.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/wp-content/uploads/2017/11/journey-to-mars-next-steps-20151008_508.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA&#x27;s Journey to Mars - Pioneering Next Steps in Space...NASA will have to learn new ways of operating in space, based on self-reli...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nss.org  
-   Link: <a href="https://nss.org/the-colonization-of-space-gerard-k-o-neill-physics-today-1974/" target="_blank" rel="noopener noreferrer nofollow">https://nss.org/the-colonization-of-space-gerard-k-o-neill-physics-today-1974/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Colonization of Space – Gerard K. O&#x27;Neill, Physics...The self-sufficiency of space communities probably has a strong effect on go...</p></details>
+   Link:<a href="https://nss.org/the-colonization-of-space-gerard-k-o-neill-physics-today-1974/" target="_blank" rel="noopener noreferrer nofollow">https://nss.org/the-colonization-of-space-gerard-k-o-neill-physics-today-1974/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Colonization of Space – Gerard K. O&#x27;Neill, Physics...The self-sufficiency of space communities probably has a strong effect on go...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/268569660_NASA_In-Situ_Resource_Utilization_ISRU_Project_Development_and_Implementation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/268569660_NASA_In-Situ_Resource_Utilization_ISRU_Project_Development_and_Implementation</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>From the lunar soil, also referred to as regolith, many vital...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/268569660_NASA_In-Situ_Resource_Utilization_ISRU_Project_Development_and_Implementation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/268569660_NASA_In-Situ_Resource_Utilization_ISRU_Project_Development_and_Implementation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>From the lunar soil, also referred to as regolith, many vital...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: wired.com  
    Title: NASA's MOXIE Experiment Is Making Oxygen on Mars  
-   Link: <a href="https://www.wired.com/story/nasas-moxie-experiment-is-making-oxygen-on-mars" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/nasas-moxie-experiment-is-making-oxygen-on-mars</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The toaster-sized device on the Mars Perseverance Rover has successfully produced small amounts of oxygen, enough for a person to breathe...</p></details>
+   Link:<a href="https://www.wired.com/story/nasas-moxie-experiment-is-making-oxygen-on-mars" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/nasas-moxie-experiment-is-making-oxygen-on-mars</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The toaster-sized device on the Mars Perseverance Rover has successfully produced small amounts of oxygen, enough for a person to breathe...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2404.00800" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2404.00800</a>  
+   Link:<a href="https://arxiv.org/abs/2404.00800" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2404.00800</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: arxiv.org  
    Title: arXiv A Comprehensive Review of Lunar-based Manufacturing and Construction  
-   Link: <a href="https://arxiv.org/abs/2408.05823" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2408.05823</a>  
+   Link:<a href="https://arxiv.org/abs/2408.05823" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2408.05823</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: history.arc.nasa.gov  
-   Link: <a href="https://history.arc.nasa.gov/hist_pdfs/nasa_sp428.pdf" target="_blank" rel="noopener noreferrer nofollow">https://history.arc.nasa.gov/hist_pdfs/nasa_sp428.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ames Research Center ArchivesSPACE RESOURCES and SPACE SETTLEMENTSThis publication contains the technical papers from the five task group...</p></details>
+   Link:<a href="https://history.arc.nasa.gov/hist_pdfs/nasa_sp428.pdf" target="_blank" rel="noopener noreferrer nofollow">https://history.arc.nasa.gov/hist_pdfs/nasa_sp428.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ames Research Center ArchivesSPACE RESOURCES and SPACE SETTLEMENTSThis publication contains the technical papers from the five task group...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/389210192_The_Settlement_of_Space_Economical_and_Logistical_Drivers_and_Constraints" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/389210192_The_Settlement_of_Space_Economical_and_Logistical_Drivers_and_Constraints</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The Settlement of Space: Economical and Logistical...21 Feb 2025 — This paper traces the potential development of space settlement...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/389210192_The_Settlement_of_Space_Economical_and_Logistical_Drivers_and_Constraints" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/389210192_The_Settlement_of_Space_Economical_and_Logistical_Drivers_and_Constraints</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The Settlement of Space: Economical and Logistical...21 Feb 2025 — This paper traces the potential development of space settlement...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: Wikipedia  
    Title: In situ resource utilization  
-   Link: <a href="https://en.wikipedia.org/wiki/In_situ_resource_utilization" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/In_situ_resource_utilization</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/In_situ_resource_utilization" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/In_situ_resource_utilization</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/355910240_Changing_the_ISRU_Paradigm_from_Sustainability_to_Economic_Tool" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/355910240_Changing_the_ISRU_Paradigm_from_Sustainability_to_Economic_Tool</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>local manufacturing and ISRU by a... Indeed, ISRU projects can be self-sufficient while being neither resilient nor sustainable.Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/355910240_Changing_the_ISRU_Paradigm_from_Sustainability_to_Economic_Tool" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/355910240_Changing_the_ISRU_Paradigm_from_Sustainability_to_Economic_Tool</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>local manufacturing and ISRU by a... Indeed, ISRU projects can be self-sufficient while being neither resilient nor sustainable.Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: nss.org  
-   Link: <a href="https://nss.org/space-basics-what-is-space-settlement/" target="_blank" rel="noopener noreferrer nofollow">https://nss.org/space-basics-what-is-space-settlement/</a>  
+   Link:<a href="https://nss.org/space-basics-what-is-space-settlement/" target="_blank" rel="noopener noreferrer nofollow">https://nss.org/space-basics-what-is-space-settlement/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2602.13291v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2602.13291v1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Agent Mars: Multi-Agent Simulation for Multi-Planetary Life...9 Feb 2026 — Space exploration and settlement offer access to vast environ...</p></details>
+   Link:<a href="https://arxiv.org/html/2602.13291v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2602.13291v1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Agent Mars: Multi-Agent Simulation for Multi-Planetary Life...9 Feb 2026 — Space exploration and settlement offer access to vast environ...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: spj.science.org  
-   Link: <a href="https://spj.science.org/doi/10.34133/space.0037" target="_blank" rel="noopener noreferrer nofollow">https://spj.science.org/doi/10.34133/space.0037</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Science AdvancesOverview of the Lunar In Situ Resource Utilization...by P Zhang · 2023 · Cited by 167 — In situ resource utilization (IS...</p></details>
+   Link:<a href="https://spj.science.org/doi/10.34133/space.0037" target="_blank" rel="noopener noreferrer nofollow">https://spj.science.org/doi/10.34133/space.0037</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Science AdvancesOverview of the Lunar In Situ Resource Utilization...by P Zhang · 2023 · Cited by 167 — In situ resource utilization (IS...</p></details>
 
 ### Additional References
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/930540941927100/posts/998203675160826/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/930540941927100/posts/998203675160826/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Space Settlements: Preparing for Life Beyond EarthThese ultra-advanced habitats combine self-healing materials, artificial weather system...</p></details>
+   Link:<a href="https://www.facebook.com/groups/930540941927100/posts/998203675160826/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/930540941927100/posts/998203675160826/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Space Settlements: Preparing for Life Beyond EarthThese ultra-advanced habitats combine self-healing materials, artificial weather system...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: patentpc.com  
    Title: the future of space colonization market growth and lunar martian habitat trends  
-   Link: <a href="https://patentpc.com/blog/the-future-of-space-colonization-market-growth-and-lunar-martian-habitat-trends" target="_blank" rel="noopener noreferrer nofollow">https://patentpc.com/blog/the-future-of-space-colonization-market-growth-and-lunar-martian-habitat-trends</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Future of Space Colonization: Market Growth and...2 May 2026 — Companies should explore how they can contribute to self-sustaining s...</p></details>
+   Link:<a href="https://patentpc.com/blog/the-future-of-space-colonization-market-growth-and-lunar-martian-habitat-trends" target="_blank" rel="noopener noreferrer nofollow">https://patentpc.com/blog/the-future-of-space-colonization-market-growth-and-lunar-martian-habitat-trends</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Future of Space Colonization: Market Growth and...2 May 2026 — Companies should explore how they can contribute to self-sustaining s...</p></details>
    Published: May 2026  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: spaceresourcetech.com  
-   Link: <a href="https://spaceresourcetech.com/blogs/articles/in-situ-resource-utilization-the-future-of-human-settlements-in-space?srsltid=AfmBOoptMCPQPETM9AeyQkVVkWcZtwjL8xEOHEBR0vhn5WG8nlXTIKG7" target="_blank" rel="noopener noreferrer nofollow">https://spaceresourcetech.com/blogs/articles/in-situ-resource-utilization-the-future-of-human-settlements-in-space?srsltid=AfmBOoptMCPQPETM9AeyQkVVkWcZtwjL8xEOHEBR0vhn5WG8nlXTIKG7</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>surface to produce oxygen and hydrogen, which can be used for [life support](&amp;#123;&amp;#123; &#x27;life-support/&#x27; | relative_url &amp;#125;&amp;#125;)...Read more...</p></details>
+   Link:<a href="https://spaceresourcetech.com/blogs/articles/in-situ-resource-utilization-the-future-of-human-settlements-in-space?srsltid=AfmBOoptMCPQPETM9AeyQkVVkWcZtwjL8xEOHEBR0vhn5WG8nlXTIKG7" target="_blank" rel="noopener noreferrer nofollow">https://spaceresourcetech.com/blogs/articles/in-situ-resource-utilization-the-future-of-human-settlements-in-space?srsltid=AfmBOoptMCPQPETM9AeyQkVVkWcZtwjL8xEOHEBR0vhn5WG8nlXTIKG7</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>surface to produce oxygen and hydrogen, which can be used for [life support](&amp;#123;&amp;#123; &#x27;life-support/&#x27; | relative_url &amp;#125;&amp;#125;)...Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: lpi.usra.edu  
    Title: LPINASA In-Situ Resource Utilization (ISRU) Capability  
-   Link: <a href="https://www.lpi.usra.edu/lunar_resources/documents/ISRUFinalReportRev15_19_05%20_2_.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lpi.usra.edu/lunar_resources/documents/ISRUFinalReportRev15_19_05%20_2_.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>April 17, 2006 — 19 May 2005 — If one assumed a single lander was required for the Lunar oxygen production plant emplacement, ISRU would...</p></details>
+   Link:<a href="https://www.lpi.usra.edu/lunar_resources/documents/ISRUFinalReportRev15_19_05%20_2_.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lpi.usra.edu/lunar_resources/documents/ISRUFinalReportRev15_19_05%20_2_.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>April 17, 2006 — 19 May 2005 — If one assumed a single lander was required for the Lunar oxygen production plant emplacement, ISRU would...</p></details>
    Published: April 17, 2006  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: globalspaceexploration.org  
-   Link: <a href="https://www.globalspaceexploration.org/wordpress/wp-content/uploads/IAC61/IAC-10.A5.1.7-Lunar-ISRU.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.globalspaceexploration.org/wordpress/wp-content/uploads/IAC61/IAC-10.A5.1.7-Lunar-ISRU.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Situ Resource Utilization (ISRU) development activities and areas of interest of the international space agencies.Read more...</p></details>
+   Link:<a href="https://www.globalspaceexploration.org/wordpress/wp-content/uploads/IAC61/IAC-10.A5.1.7-Lunar-ISRU.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.globalspaceexploration.org/wordpress/wp-content/uploads/IAC61/IAC-10.A5.1.7-Lunar-ISRU.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Situ Resource Utilization (ISRU) development activities and areas of interest of the international space agencies.Read more...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ScienceNaturePage/posts/the-future-of-space-the-oneill-cylinder-this-space-settlement-concept-proposed-b/1113442126903322/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ScienceNaturePage/posts/the-future-of-space-the-oneill-cylinder-this-space-settlement-concept-proposed-b/1113442126903322/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>allenge. All realistic &quot;live in space&quot; (or &quot;live on Mars!&quot; ideas/...</p></details>
+   Link:<a href="https://www.facebook.com/ScienceNaturePage/posts/the-future-of-space-the-oneill-cylinder-this-space-settlement-concept-proposed-b/1113442126903322/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ScienceNaturePage/posts/the-future-of-space-the-oneill-cylinder-this-space-settlement-concept-proposed-b/1113442126903322/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>allenge. All realistic &quot;live in space&quot; (or &quot;live on Mars!&quot; ideas/...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: sciencedirect.com  
    Title: ScienceDirect In Situ Resource Utilization  
-   Link: <a href="https://www.sciencedirect.com/topics/earth-and-planetary-sciences/in-situ-resource-utilization" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/earth-and-planetary-sciences/in-situ-resource-utilization</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In Situ Resource Utilization - an overviewIn situ Resource Utilization (ISRU) refers to the extraction and processing of local resources...</p></details>
+   Link:<a href="https://www.sciencedirect.com/topics/earth-and-planetary-sciences/in-situ-resource-utilization" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/earth-and-planetary-sciences/in-situ-resource-utilization</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In Situ Resource Utilization - an overviewIn situ Resource Utilization (ISRU) refers to the extraction and processing of local resources...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: thespacereview.com  
-   Link: <a href="https://www.thespacereview.com/article/4917/1" target="_blank" rel="noopener noreferrer nofollow">https://www.thespacereview.com/article/4917/1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>pacefaring civilization to ensure the survival of humanity...</p></details>
+   Link:<a href="https://www.thespacereview.com/article/4917/1" target="_blank" rel="noopener noreferrer nofollow">https://www.thespacereview.com/article/4917/1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>pacefaring civilization to ensure the survival of humanity...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: spacebandits.io  
    Title: what is isru and how can it help humanity explore the solar system  
-   Link: <a href="https://www.spacebandits.io/post/what-is-isru-and-how-can-it-help-humanity-explore-the-solar-system" target="_blank" rel="noopener noreferrer nofollow">https://www.spacebandits.io/post/what-is-isru-and-how-can-it-help-humanity-explore-the-solar-system</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ISRU technologies are making it possible to have sustainable extraterrestrial settlements...</p></details>
+   Link:<a href="https://www.spacebandits.io/post/what-is-isru-and-how-can-it-help-humanity-explore-the-solar-system" target="_blank" rel="noopener noreferrer nofollow">https://www.spacebandits.io/post/what-is-isru-and-how-can-it-help-humanity-explore-the-solar-system</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ISRU technologies are making it possible to have sustainable extraterrestrial settlements...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: meegle.com  
    Title: in situ resource utilization isru  
-   Link: <a href="https://www.meegle.com/en_us/topics/space-commercial/in-situ-resource-utilization-isru" target="_blank" rel="noopener noreferrer nofollow">https://www.meegle.com/en_us/topics/space-commercial/in-situ-resource-utilization-isru</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In-Situ Resource Utilization (ISRU)19 Jan 2025 — ISRU involves the extraction and conversion of local resources found on extraterrestrial...</p></details>
+   Link:<a href="https://www.meegle.com/en_us/topics/space-commercial/in-situ-resource-utilization-isru" target="_blank" rel="noopener noreferrer nofollow">https://www.meegle.com/en_us/topics/space-commercial/in-situ-resource-utilization-isru</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In-Situ Resource Utilization (ISRU)19 Jan 2025 — ISRU involves the extraction and conversion of local resources found on extraterrestrial...</p></details>

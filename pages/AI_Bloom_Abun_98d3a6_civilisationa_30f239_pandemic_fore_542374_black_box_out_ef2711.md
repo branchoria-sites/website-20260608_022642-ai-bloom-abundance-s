@@ -272,7 +272,7 @@ image: /assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_pandemic_fore_54
 Public health agencies should not automatically trust black-box outbreak models, but neither should they reject them simply because they are difficult to explain. The practical question is not whether an AI system is perfectly interpretable. It is whether officials can understand enough about its strengths, limits, uncertainty, and failure modes to use it responsibly when lives and resources are at stake.
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_pandemic_fore_542374_black_box_out_ef2711-Illustration-1-dark.svg" | relative_url }}" alt="Black Box AI illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_pandemic_fore_542374_black_box_out_ef2711-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_pandemic_fore_542374_black_box_out_ef2711-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This matters because outbreak forecasting is becoming more ambitious. Deep learning systems can detect subtle patterns across mobility data, hospital records, weather signals, genomic information, news reports, and online behaviour. In some cases they have improved short-term forecasting and provided earlier warning signals than traditional surveillance alone. Yet many of the most powerful systems operate as statistical black boxes whose internal reasoning is difficult even for their creators to interpret. Public-health leaders therefore face a dilemma: ignore potentially valuable warnings, or act on forecasts they cannot fully explain. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cdc.gov/forecast-outbreak-analytics/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">Center for Forecasting and Outbreak Analytics &#124; CFACFA uses advanced analytic approaches, like forecasting and modeling, to drive effe...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://publichealthaihandbook.com/applications/forecasting.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publichealthaihandbook.com">[Public Health AI Handbook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publichealthaihandbook.com</span><span class="citation-popover-title">Public Health AI Handbook Epidemic Forecasting with AI</span><span class="citation-popover-snippet">COVID-19 experiments, PandemicLLM reported better 1- to 3-week forecasting performance than several CDC COVID-19 Forecast Hub baselines...</span></span></span>
+This matters because outbreak forecasting is becoming more ambitious. Deep learning systems can detect subtle patterns across mobility data, hospital records, weather signals, genomic information, news reports, and online behaviour. In some cases they have improved short-term forecasting and provided earlier warning signals than traditional surveillance alone. Yet many of the most powerful systems operate as statistical black boxes whose internal reasoning is difficult even for their creators to interpret. Public-health leaders therefore face a dilemma: ignore potentially valuable warnings, or act on forecasts they cannot fully explain.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cdc.gov/forecast-outbreak-analytics/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">Center for Forecasting and Outbreak Analytics &#124; CFACFA uses advanced analytic approaches, like forecasting and modeling, to drive effe...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://publichealthaihandbook.com/applications/forecasting.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publichealthaihandbook.com">[Public Health AI Handbook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publichealthaihandbook.com</span><span class="citation-popover-title">Public Health AI Handbook Epidemic Forecasting with AI</span><span class="citation-popover-snippet">COVID-19 experiments, PandemicLLM reported better 1- to 3-week forecasting performance than several CDC COVID-19 Forecast Hub baselines...</span></span></span>
 
 Within the broader discussion of AI-enabled civilisational [resilience]({{ 'resilience/' | relative_url }}), this debate sits at the boundary between capability and governance. Better forecasting could help societies detect and contain outbreaks earlier, reducing mortality and economic disruption. But if agencies become dependent on opaque systems they do not understand, forecasting tools can create new risks alongside new capabilities.
 
@@ -280,28 +280,28 @@ Within the broader discussion of AI-enabled civilisational [resilience]({{ 'resi
 
 Traditional epidemiological models often expose their assumptions. A researcher can usually explain how infection rates, contact patterns, immunity, or population movement contribute to a forecast. Deep learning models work differently.
 
-Modern neural networks may absorb enormous quantities of information and identify correlations that no human analyst would notice. Their forecasts emerge from millions or billions of internal parameters rather than a transparent chain of reasoning. Even when the prediction is accurate, it may be difficult to answer a simple question: why did the model expect a surge in cases three weeks from now? <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2667102623000578" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Medical artificial intelligence and the black box problemby H Xu · 2024 · Cited by 199 — In this study, we focus on the pote...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8459787/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Unbox the black-box for the medical explainable AI via multi...by G Yang · 2022 · Cited by 887 — Explainable Artificial Intelligence...</span></span></span>
+Modern neural networks may absorb enormous quantities of information and identify correlations that no human analyst would notice. Their forecasts emerge from millions or billions of internal parameters rather than a transparent chain of reasoning. Even when the prediction is accurate, it may be difficult to answer a simple question: why did the model expect a surge in cases three weeks from now?<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2667102623000578" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Medical artificial intelligence and the black box problemby H Xu · 2024 · Cited by 199 — In this study, we focus on the pote...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8459787/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Unbox the black-box for the medical explainable AI via multi...by G Yang · 2022 · Cited by 887 — Explainable Artificial Intelligence...</span></span></span>
 
 This opacity creates several distinct problems:
 
 * **[Verification]({{ 'verification/' | relative_url }}) becomes harder.** Officials cannot easily check whether the model is relying on sensible epidemiological signals or accidental correlations.
 * **Errors become harder to diagnose.** When forecasts fail, it may be unclear whether the problem came from poor data, changing disease dynamics, or flaws in the model itself.
 * **Novel situations expose weaknesses.** Models trained on historical outbreaks may struggle when a pathogen behaves differently from anything in their training data.
-* **Public communication becomes more difficult.** Leaders may have to justify costly interventions without being able to explain exactly how a forecast was generated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2667102623000578" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Medical artificial intelligence and the black box problemby H Xu · 2024 · Cited by 199 — In this study, we focus on the pote...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.phgfoundation.org/wp-content/uploads/2023/10/black-box-machine-learning-landscape.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: phgfoundation.org">[PHG Foundation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">phgfoundation.org</span><span class="citation-popover-snippet">Black box medicine and transparencyThis last section outlines two cases that illustrate the importance of interpretability in machine lea...</span></span></span>
+* **Public communication becomes more difficult.** Leaders may have to justify costly interventions without being able to explain exactly how a forecast was generated.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2667102623000578" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Medical artificial intelligence and the black box problemby H Xu · 2024 · Cited by 199 — In this study, we focus on the pote...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.phgfoundation.org/wp-content/uploads/2023/10/black-box-machine-learning-landscape.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: phgfoundation.org">[PHG Foundation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">phgfoundation.org</span><span class="citation-popover-snippet">Black box medicine and transparencyThis last section outlines two cases that illustrate the importance of interpretability in machine lea...</span></span></span>
 
-The problem is not unique to outbreak forecasting. Similar debates have emerged across medicine, where highly accurate systems sometimes remain difficult to interpret. Researchers increasingly describe trust, accountability, and explainability as major barriers to operational deployment. Nature <span class="citation-chip-wrap"><a class="citation-chip" href="https://livrepository.liverpool.ac.uk/3170961/1/Explainable%20artificial%20intelligence%20for%20mental%20health%20through%20transparency%20and%20interpretability%20for%20understandability.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livrepository.liverpool.ac.uk">[University of Liverpool]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livrepository.liverpool.ac.uk</span><span class="citation-popover-snippet">University of LiverpoolExplainable artificial intelligence for mental health through...by DW Joyce · 2023 · Cited by 265 — Across health...</span></span></span>
+The problem is not unique to outbreak forecasting. Similar debates have emerged across medicine, where highly accurate systems sometimes remain difficult to interpret. Researchers increasingly describe trust, accountability, and explainability as major barriers to operational deployment. Nature<span class="citation-chip-wrap"><a class="citation-chip" href="https://livrepository.liverpool.ac.uk/3170961/1/Explainable%20artificial%20intelligence%20for%20mental%20health%20through%20transparency%20and%20interpretability%20for%20understandability.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livrepository.liverpool.ac.uk">[University of Liverpool]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livrepository.liverpool.ac.uk</span><span class="citation-popover-snippet">University of LiverpoolExplainable artificial intelligence for mental health through...by DW Joyce · 2023 · Cited by 265 — Across health...</span></span></span>
 
 ## Accuracy Alone Is Not Enough
 
 A common argument in favour of black-box systems is straightforward: if they consistently outperform human experts or simpler models, why demand complete explanations?
 
-In some situations, this argument has force. Forecasting is ultimately judged by outcomes. If a model repeatedly predicts hospital admissions, influenza spread, or dengue outbreaks more accurately than conventional methods, agencies gain a practical reason to use it. During COVID-19, forecasting hubs assembled predictions from many modelling teams, and ensemble approaches often performed better than individual forecasts. Recent AI systems have continued to demonstrate improvements in short-term epidemic prediction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2012.06000" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv The Three Ghosts of Medical AI: Can the Black-Box Present Deliver?</span><span class="citation-popover-snippet">arXiv The Three Ghosts of Medical AI: Can the Black-Box Present Deliver?</span></span></span> [3Nature 3PMC]
+In some situations, this argument has force. Forecasting is ultimately judged by outcomes. If a model repeatedly predicts hospital admissions, influenza spread, or dengue outbreaks more accurately than conventional methods, agencies gain a practical reason to use it. During COVID-19, forecasting hubs assembled predictions from many modelling teams, and ensemble approaches often performed better than individual forecasts. Recent AI systems have continued to demonstrate improvements in short-term epidemic prediction.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2012.06000" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv The Three Ghosts of Medical AI: Can the Black-Box Present Deliver?</span><span class="citation-popover-snippet">arXiv The Three Ghosts of Medical AI: Can the Black-Box Present Deliver?</span></span></span> [3Nature 3PMC]
 
 However, public-health decisions differ from many commercial prediction tasks.
 
 A retailer can quietly adjust inventory if an algorithm makes a mistake. A health ministry may impose travel restrictions, redirect vaccines, close schools, or issue emergency warnings affecting millions of people. The threshold for trust is therefore higher.
 
-Officials often need more than a prediction. They need confidence that the forecast remains reliable when conditions change. They need to know whether uncertainty is growing. They need to identify which assumptions matter most. Pure predictive performance on historical benchmarks may not answer these questions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/World_Health_Organization" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">World Health OrganizationThe World Health Organization (WHO) is a specialized agency of the United Nations (UN) which coordinates resp...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://iris.who.int/server/api/core/bitstreams/4f2c477c-4b72-4ca1-9a78-a1e73af64e50/content" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iris.who.int">[Iris]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iris.who.int</span><span class="citation-popover-title">Iris Ethics and governance of artificial intelligence for health</span><span class="citation-popover-snippet">Whether AI can advance the interests of patients and communities depends on a collective effort to design and implement ethically def...</span></span></span>
+Officials often need more than a prediction. They need confidence that the forecast remains reliable when conditions change. They need to know whether uncertainty is growing. They need to identify which assumptions matter most. Pure predictive performance on historical benchmarks may not answer these questions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/World_Health_Organization" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">World Health OrganizationThe World Health Organization (WHO) is a specialized agency of the United Nations (UN) which coordinates resp...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://iris.who.int/server/api/core/bitstreams/4f2c477c-4b72-4ca1-9a78-a1e73af64e50/content" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iris.who.int">[Iris]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iris.who.int</span><span class="citation-popover-title">Iris Ethics and governance of artificial intelligence for health</span><span class="citation-popover-snippet">Whether AI can advance the interests of patients and communities depends on a collective effort to design and implement ethically def...</span></span></span>
 
 This is especially important because outbreak forecasting frequently operates under conditions that differ from the past. The most valuable warning is often the one about an emerging threat that has never been seen before.
 
@@ -311,7 +311,7 @@ This is especially important because outbreak forecasting frequently operates un
 
 One of the most important governance lessons from COVID-19 is that agencies rarely relied on a single forecasting system.
 
-The US COVID-19 Forecast Hub collected forecasts from dozens of modelling teams using different methods, assumptions, and data sources. Rather than treating any one model as authoritative, forecasters increasingly combined predictions into ensemble forecasts designed to reduce individual model errors. <span class="citation-chip-wrap"><a class="citation-chip" href="https://covid19forecasthub.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: covid19forecasthub.org">[COVID-19 Forecast Hub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">covid19forecasthub.org</span><span class="citation-popover-snippet">COVID-19 Forecast HubCOVID 19 forecast hub: HomeFrom 2020 to 2024, this site collected real-time forecasts of COVID-19 hospitalizations...</span></span></span> Nature This approach reflects a deeper institutional reality: public-health agencies generally trust forecasting systems more when they can compare <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41598-025-15867-z" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[nature.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Personalized health monitoring using explainable AIby MS Vani · 2025 · Cited by 65 — However, worried about the trust, accountabili...</span></span></span> them against competing models.
+The US COVID-19 Forecast Hub collected forecasts from dozens of modelling teams using different methods, assumptions, and data sources. Rather than treating any one model as authoritative, forecasters increasingly combined predictions into ensemble forecasts designed to reduce individual model errors.<span class="citation-chip-wrap"><a class="citation-chip" href="https://covid19forecasthub.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: covid19forecasthub.org">[COVID-19 Forecast Hub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">covid19forecasthub.org</span><span class="citation-popover-snippet">COVID-19 Forecast HubCOVID 19 forecast hub: HomeFrom 2020 to 2024, this site collected real-time forecasts of COVID-19 hospitalizations...</span></span></span> Nature This approach reflects a deeper institutional reality: public-health agencies generally trust forecasting systems more when they can compare<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41598-025-15867-z" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[nature.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Personalized health monitoring using explainable AIby MS Vani · 2025 · Cited by 65 — However, worried about the trust, accountabili...</span></span></span> them against competing models.
 
 A black-box model that produces strong forecasts can still be useful if:
 
@@ -326,7 +326,7 @@ A black-box model that produces strong forecasts can still be useful if:
 
 In practice, agencies often place more trust in a system that has repeatedly demonstrated reliable performance than in one that merely offers elegant explanations.
 
-Yet the COVID period also showed how rapidly forecasting accuracy can degrade when behaviour changes, new variants emerge, testing patterns shift, or policy interventions alter transmission dynamics. Models that performed well during one phase of a pandemic sometimes struggled during another. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11382209/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">the black box: A systematic review of Explainable...by D Muhammad · 2024 · Cited by 246 — This systematic literature review examines sta...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41598-025-15867-z" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Personalized health monitoring using explainable AIby MS Vani · 2025 · Cited by 65 — However, worried about the trust, accountabili...</span></span></span>
+Yet the COVID period also showed how rapidly forecasting accuracy can degrade when behaviour changes, new variants emerge, testing patterns shift, or policy interventions alter transmission dynamics. Models that performed well during one phase of a pandemic sometimes struggled during another.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11382209/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">the black box: A systematic review of Explainable...by D Muhammad · 2024 · Cited by 246 — This systematic literature review examines sta...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41598-025-15867-z" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Personalized health monitoring using explainable AIby MS Vani · 2025 · Cited by 65 — However, worried about the trust, accountabili...</span></span></span>
 
 The lesson is not that forecasting failed. It is that outbreak prediction remains inherently uncertain, and sophisticated AI does not eliminate that uncertainty.
 
@@ -342,15 +342,15 @@ Possible answers include:
 
 * The software developer.
 * The forecasting team.
-* Public-health officials. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cdc.gov/forecast-outbreak-analytics/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[cdc.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">Center for Forecasting and Outbreak Analytics &#124; CFACFA uses advanced analytic approaches, like forecasting and modeling, to drive effe...</span></span></span>
+* Public-health officials.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cdc.gov/forecast-outbreak-analytics/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[cdc.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">Center for Forecasting and Outbreak Analytics &#124; CFACFA uses advanced analytic approaches, like forecasting and modeling, to drive effe...</span></span></span>
 * Political leaders.
 * Nobody in particular.
 
 </div>
 
-This ambiguity becomes dangerous when decisions carry major social consequences. Trust in public-health institutions depends partly on their ability to explain why actions were taken. An unexplained algorithmic recommendation can weaken that legitimacy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/World_Health_Organization" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">World Health OrganizationThe World Health Organization (WHO) is a specialized agency of the United Nations (UN) which coordinates resp...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://iris.who.int/server/api/core/bitstreams/4f2c477c-4b72-4ca1-9a78-a1e73af64e50/content" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iris.who.int">[Iris]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iris.who.int</span><span class="citation-popover-title">Iris Ethics and governance of artificial intelligence for health</span><span class="citation-popover-snippet">Whether AI can advance the interests of patients and communities depends on a collective effort to design and implement ethically def...</span></span></span>
+This ambiguity becomes dangerous when decisions carry major social consequences. Trust in public-health institutions depends partly on their ability to explain why actions were taken. An unexplained algorithmic recommendation can weaken that legitimacy.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/World_Health_Organization" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">World Health OrganizationThe World Health Organization (WHO) is a specialized agency of the United Nations (UN) which coordinates resp...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://iris.who.int/server/api/core/bitstreams/4f2c477c-4b72-4ca1-9a78-a1e73af64e50/content" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iris.who.int">[Iris]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iris.who.int</span><span class="citation-popover-title">Iris Ethics and governance of artificial intelligence for health</span><span class="citation-popover-snippet">Whether AI can advance the interests of patients and communities depends on a collective effort to design and implement ethically def...</span></span></span>
 
-The World Health Organization has repeatedly emphasised that AI systems in health should support, rather than replace, human decision-making. Its governance guidance stresses human autonomy, accountability, transparency, safety, and public interest as core principles for AI deployment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/World_Health_Organization" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">World Health OrganizationThe World Health Organization (WHO) is a specialized agency of the United Nations (UN) which coordinates resp...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/World_Health_Organization" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">World Health OrganizationThe World Health Organization (WHO) is a specialized agency of the United Nations (UN) which coordinates resp...</span></span></span>
+The World Health Organization has repeatedly emphasised that AI systems in health should support, rather than replace, human decision-making. Its governance guidance stresses human autonomy, accountability, transparency, safety, and public interest as core principles for AI deployment.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/World_Health_Organization" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">World Health OrganizationThe World Health Organization (WHO) is a specialized agency of the United Nations (UN) which coordinates resp...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/World_Health_Organization" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">World Health OrganizationThe World Health Organization (WHO) is a specialized agency of the United Nations (UN) which coordinates resp...</span></span></span>
 
 For outbreak response, this suggests a practical rule: officials should remain accountable for decisions even when AI contributes to them.
 
@@ -359,7 +359,7 @@ That principle may sound obvious, but it has important consequences. Agencies mu
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_pandemic_fore_542374_black_box_out_ef2711-Illustration-2-dark.svg" | relative_url }}" alt="Black Box AI illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_pandemic_fore_542374_black_box_out_ef2711-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_pandemic_fore_542374_black_box_out_ef2711-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Explainable AI Helps, But It Does Not Fully Solve the Problem
 
-Researchers have invested heavily in explainable AI, often called XAI. These methods attempt to reveal which variables influenced a prediction or identify patterns driving a model's conclusions. Techniques such as SHAP values, feature attribution methods, and attention visualisations are increasingly used in healthcare AI. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11233691/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAccuracy of US CDC COVID-19 forecasting models</span><span class="citation-popover-snippet">by A Chharia · 2024 · Cited by 21 — In this study, we systematically analyze all US CDC COVID-19 forecasting models, by first categori...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12027014/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by G Chassang · 2025 · Cited by 8 — This paper discusses the responsible use of artificial intelligence (AI) in public health and in m...</span></span></span>
+Researchers have invested heavily in explainable AI, often called XAI. These methods attempt to reveal which variables influenced a prediction or identify patterns driving a model's conclusions. Techniques such as SHAP values, feature attribution methods, and attention visualisations are increasingly used in healthcare AI.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11233691/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAccuracy of US CDC COVID-19 forecasting models</span><span class="citation-popover-snippet">by A Chharia · 2024 · Cited by 21 — In this study, we systematically analyze all US CDC COVID-19 forecasting models, by first categori...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12027014/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by G Chassang · 2025 · Cited by 8 — This paper discusses the responsible use of artificial intelligence (AI) in public health and in m...</span></span></span>
 
 Explainability can improve trust in several ways:
 
@@ -374,7 +374,7 @@ Explainability can improve trust in several ways:
 
 However, explainability has limits.
 
-A system may produce convincing explanations that are only partial descriptions of what the model is actually doing. Some researchers argue that post-hoc explanations can create an illusion of understanding rather than genuine transparency. Even highly interpretable visualisations do not necessarily guarantee that a model will behave reliably under new conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://livrepository.liverpool.ac.uk/3170961/1/Explainable%20artificial%20intelligence%20for%20mental%20health%20through%20transparency%20and%20interpretability%20for%20understandability.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livrepository.liverpool.ac.uk">[University of Liverpool]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livrepository.liverpool.ac.uk</span><span class="citation-popover-snippet">University of LiverpoolExplainable artificial intelligence for mental health through...by DW Joyce · 2023 · Cited by 265 — Across health...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8459787/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Unbox the black-box for the medical explainable AI via multi...by G Yang · 2022 · Cited by 887 — Explainable Artificial Intelligence...</span></span></span>
+A system may produce convincing explanations that are only partial descriptions of what the model is actually doing. Some researchers argue that post-hoc explanations can create an illusion of understanding rather than genuine transparency. Even highly interpretable visualisations do not necessarily guarantee that a model will behave reliably under new conditions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://livrepository.liverpool.ac.uk/3170961/1/Explainable%20artificial%20intelligence%20for%20mental%20health%20through%20transparency%20and%20interpretability%20for%20understandability.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livrepository.liverpool.ac.uk">[University of Liverpool]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livrepository.liverpool.ac.uk</span><span class="citation-popover-snippet">University of LiverpoolExplainable artificial intelligence for mental health through...by DW Joyce · 2023 · Cited by 265 — Across health...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8459787/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Unbox the black-box for the medical explainable AI via multi...by G Yang · 2022 · Cited by 887 — Explainable Artificial Intelligence...</span></span></span>
 
 For that reason, many public-health experts increasingly treat explainability as one component of trustworthiness rather than a complete solution.
 
@@ -396,7 +396,7 @@ These include:
 
 </div>
 
-In these settings, agencies can compare forecasts against known outcomes and continuously measure performance. The consequences of individual prediction errors may also be easier to manage. <span class="citation-chip-wrap"><a class="citation-chip" href="https://publichealthaihandbook.com/applications/forecasting.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publichealthaihandbook.com">[Public Health AI Handbook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publichealthaihandbook.com</span><span class="citation-popover-title">Public Health AI Handbook Epidemic Forecasting with AI</span><span class="citation-popover-snippet">COVID-19 experiments, PandemicLLM reported better 1- to 3-week forecasting performance than several CDC COVID-19 Forecast Hub baselines...</span></span></span> Nature The weakest case for reliance emerges when: <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41598-025-15867-z" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[nature.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Personalized health monitoring using explainable AIby MS Vani · 2025 · Cited by 65 — However, worried about the trust, accountabili...</span></span></span>
+In these settings, agencies can compare forecasts against known outcomes and continuously measure performance. The consequences of individual prediction errors may also be easier to manage.<span class="citation-chip-wrap"><a class="citation-chip" href="https://publichealthaihandbook.com/applications/forecasting.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publichealthaihandbook.com">[Public Health AI Handbook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publichealthaihandbook.com</span><span class="citation-popover-title">Public Health AI Handbook Epidemic Forecasting with AI</span><span class="citation-popover-snippet">COVID-19 experiments, PandemicLLM reported better 1- to 3-week forecasting performance than several CDC COVID-19 Forecast Hub baselines...</span></span></span> Nature The weakest case for reliance emerges when:<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41598-025-15867-z" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[nature.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Personalized health monitoring using explainable AIby MS Vani · 2025 · Cited by 65 — However, worried about the trust, accountabili...</span></span></span>
 
 * A pathogen is genuinely novel.
 * Data quality is poor.
@@ -413,7 +413,7 @@ The most promising governance model is neither full automation nor full rejectio
 
 Instead, many public-health institutions are moving toward a "human-plus-machine" approach. Forecasts become decision-support tools rather than decision-makers.
 
-In practice, this means AI systems can generate hypotheses, risk estimates, and [early warnings]({{ 'early-warning/' | relative_url }}), while epidemiologists evaluate whether the outputs fit biological realities, surveillance evidence, and local conditions. The forecast becomes one input among several rather than an unquestioned instruction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cdc.gov/forecast-outbreak-analytics/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">Center for Forecasting and Outbreak Analytics &#124; CFACFA uses advanced analytic approaches, like forecasting and modeling, to drive effe...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://restoredcdc.org/www.cdc.gov/cfa-behind-the-model/php/behind-the-model/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: restoredcdc.org">[Restored CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">restoredcdc.org</span><span class="citation-popover-snippet">CFA: Behind the ModelOct 4, 2024 — The models helped forecast the expected size and duration of the outbreak and helped the Chicago Depar...</span></span></span>
+In practice, this means AI systems can generate hypotheses, risk estimates, and [early warnings]({{ 'early-warning/' | relative_url }}), while epidemiologists evaluate whether the outputs fit biological realities, surveillance evidence, and local conditions. The forecast becomes one input among several rather than an unquestioned instruction.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cdc.gov/forecast-outbreak-analytics/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">Center for Forecasting and Outbreak Analytics &#124; CFACFA uses advanced analytic approaches, like forecasting and modeling, to drive effe...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://restoredcdc.org/www.cdc.gov/cfa-behind-the-model/php/behind-the-model/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: restoredcdc.org">[Restored CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">restoredcdc.org</span><span class="citation-popover-snippet">CFA: Behind the ModelOct 4, 2024 — The models helped forecast the expected size and duration of the outbreak and helped the Chicago Depar...</span></span></span>
 
 This approach also creates institutional resilience. Human experts can detect situations where models appear to be drifting. Models can process more information than human teams can analyse manually. Each compensates for weaknesses in the other.
 
@@ -431,203 +431,203 @@ Before relying on an outbreak forecasting system, agencies should generally expe
 * Documentation of training data and limitations.
 * [Human oversight]({{ 'human-oversight/' | relative_url }}) by epidemiologists and public-health officials.
 * Comparison against alternative models rather than reliance on a single forecast source.
-* Clear procedures for responding when forecasts fail. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ictworks.org/who-guidance-artificial-intelligence-health/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ictworks.org">[ICTworks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ictworks.org</span><span class="citation-popover-title">who guidance artificial intelligence health</span><span class="citation-popover-snippet">Protecting human autonomy · 2. Promoting human well-being, safety, and public interest. · 3. Ensuring...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/World_Health_Organization" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">World Health OrganizationThe World Health Organization (WHO) is a specialized agency of the United Nations (UN) which coordinates resp...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/World_Health_Organization" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">World Health OrganizationThe World Health Organization (WHO) is a specialized agency of the United Nations (UN) which coordinates resp...</span></span></span>
+* Clear procedures for responding when forecasts fail.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ictworks.org/who-guidance-artificial-intelligence-health/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ictworks.org">[ICTworks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ictworks.org</span><span class="citation-popover-title">who guidance artificial intelligence health</span><span class="citation-popover-snippet">Protecting human autonomy · 2. Promoting human well-being, safety, and public interest. · 3. Ensuring...Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/World_Health_Organization" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">World Health OrganizationThe World Health Organization (WHO) is a specialized agency of the United Nations (UN) which coordinates resp...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/World_Health_Organization" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">World Health OrganizationThe World Health Organization (WHO) is a specialized agency of the United Nations (UN) which coordinates resp...</span></span></span>
 
 Under those conditions, even partially opaque systems can become useful public-health tools.
 
-Without those safeguards, black-box forecasting risks creating a dangerous situation in which agencies gain powerful predictions but lose the ability to judge when those predictions deserve confidence. The future of pandemic forecasting is therefore likely to depend less on finding a perfect predictive model than on building institutions capable of combining advanced AI with transparency, accountability, and human expertise. <span class="citation-chip-wrap"><a class="citation-chip" href="https://iris.who.int/server/api/core/bitstreams/4f2c477c-4b72-4ca1-9a78-a1e73af64e50/content" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iris.who.int">[Iris]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iris.who.int</span><span class="citation-popover-title">Iris Ethics and governance of artificial intelligence for health</span><span class="citation-popover-snippet">Whether AI can advance the interests of patients and communities depends on a collective effort to design and implement ethically def...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11382209/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">the black box: A systematic review of Explainable...by D Muhammad · 2024 · Cited by 246 — This systematic literature review examines sta...</span></span></span>
+Without those safeguards, black-box forecasting risks creating a dangerous situation in which agencies gain powerful predictions but lose the ability to judge when those predictions deserve confidence. The future of pandemic forecasting is therefore likely to depend less on finding a perfect predictive model than on building institutions capable of combining advanced AI with transparency, accountability, and human expertise.<span class="citation-chip-wrap"><a class="citation-chip" href="https://iris.who.int/server/api/core/bitstreams/4f2c477c-4b72-4ca1-9a78-a1e73af64e50/content" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iris.who.int">[Iris]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iris.who.int</span><span class="citation-popover-title">Iris Ethics and governance of artificial intelligence for health</span><span class="citation-popover-snippet">Whether AI can advance the interests of patients and communities depends on a collective effort to design and implement ethically def...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11382209/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">the black box: A systematic review of Explainable...by D Muhammad · 2024 · Cited by 246 — This systematic literature review examines sta...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gD0obKGIWVk" title="From the Unseen to Foresight: Epidemic Modeling in the Age of Computing and AI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gD0obKGIWVk" target="_blank" rel="noopener noreferrer">From the Unseen to Foresight: Epidemic Modeling in the Age of Computing and AI</a></p><p class="youtube-embed-meta">Channel: UCLA Library &middot; Views: 34 &middot; Uploaded: October 2025 &middot; Length: 57 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gD0obKGIWVk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gD0obKGIWVk">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can Officials Trust AI They Cannot Fully Explain?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can Officials Trust AI They Cannot Fully Explain?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Alignment Problem on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KGCNEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Alignment Problem" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Alignment Problem">The Alignment Problem</a>
-        </h4>
-        <p class="fr-book-author">By Brian Christian</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Alignment Problem on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KGCNEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Alignment Problem" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Alignment Problem">The Alignment Problem</a>
+</h4>
+<p class="fr-book-author">By Brian Christian</p>
         
-        <p class="fr-book-desc">Addresses explainability, objectives and trust in AI systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses explainability, objectives and trust in AI systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Hello+World+by+Hannah+Fry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hello World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=TGiOuQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Hello World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Hello+World+by+Hannah+Fry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hello World">Hello World</a>
-        </h4>
-        <p class="fr-book-author">By Hannah Fry</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Hello+World+by+Hannah+Fry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hello World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=TGiOuQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Hello World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Hello+World+by+Hannah+Fry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hello World">Hello World</a>
+</h4>
+<p class="fr-book-author">By Hannah Fry</p>
         
-        <p class="fr-book-desc">Explores algorithmic decision-making, trust and transparency.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Hello+World+by+Hannah+Fry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores algorithmic decision-making, trust and transparency.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Hello+World+by+Hannah+Fry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ckOQEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
-        </h4>
-        <p class="fr-book-author">By Nate Silver</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ckOQEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
+</h4>
+<p class="fr-book-author">By Nate Silver</p>
         
-        <p class="fr-book-desc">Includes discussion of forecasting uncertainty and public decision-making.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Includes discussion of forecasting uncertainty and public decision-making.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Superforecasting+by+Philip+E.+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superforecasting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Rw-PEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Superforecasting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+E.+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superforecasting">Superforecasting</a>
-        </h4>
-        <p class="fr-book-author">By Philip E. Tetlock, Dan Gardner</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Superforecasting+by+Philip+E.+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superforecasting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Rw-PEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Superforecasting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+E.+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superforecasting">Superforecasting</a>
+</h4>
+<p class="fr-book-author">By Philip E. Tetlock, Dan Gardner</p>
         
-        <p class="fr-book-desc">Useful for interpreting uncertain outbreak forecasts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+E.+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for interpreting uncertain outbreak forecasts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+E.+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Alignment+Problem&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Alignment Problem</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Hello+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hello World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Signal and the Noise</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Alignment+Problem&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Alignment Problem</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Hello+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hello World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Signal and the Noise</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=virus+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-box-ai-can-officials-trust-ai-they-cannot-fully-explain-ai-bloom-abundance-superintelligen-virus-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="virus model" data-ebay-reference="black-box-ai-can-officials-trust-ai-they-cannot-fully-explain-ai-bloom-abundance-superintelligen-virus-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Resident Evil T-Virus LED Lamp Night light Glow in the Dark Collectible Model"><img src="{{ '/assets/images/marketplace-covers/dfdd7211d8248ab03a6a.jpg' | relative_url }}" alt="Listing image for Resident Evil T-Virus LED Lamp Night light Glow in the Dark Collectible Model" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=virus+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-box-ai-can-officials-trust-ai-they-cannot-fully-explain-ai-bloom-abundance-superintelligen-virus-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="virus model" data-ebay-reference="black-box-ai-can-officials-trust-ai-they-cannot-fully-explain-ai-bloom-abundance-superintelligen-virus-model" target="_blank" rel="sponsored noopener noreferrer">Resident Evil T-Virus LED Lamp Night light Glow in the Dark Collectible Model</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=virus+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-box-ai-can-officials-trust-ai-they-cannot-fully-explain-ai-bloom-abundance-superintelligen-virus-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="virus model" data-ebay-reference="black-box-ai-can-officials-trust-ai-they-cannot-fully-explain-ai-bloom-abundance-superintelligen-virus-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for virus model">Search <span data-ebay-domain-label>eBay.co.uk</span>: virus model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=virus+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-box-ai-can-officials-trust-ai-they-cannot-fully-explain-ai-bloom-abundance-superintelligen-virus-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="virus model" data-ebay-reference="black-box-ai-can-officials-trust-ai-they-cannot-fully-explain-ai-bloom-abundance-superintelligen-virus-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=virus+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-box-ai-can-officials-trust-ai-they-cannot-fully-explain-ai-bloom-abundance-superintelligen-virus-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="virus model" data-ebay-reference="black-box-ai-can-officials-trust-ai-they-cannot-fully-explain-ai-bloom-abundance-superintelligen-virus-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Resident Evil T-Virus LED Lamp Night light Glow in the Dark Collectible Model"><img src="{{ '/assets/images/marketplace-covers/dfdd7211d8248ab03a6a.jpg' | relative_url }}" alt="Listing image for Resident Evil T-Virus LED Lamp Night light Glow in the Dark Collectible Model" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=virus+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-box-ai-can-officials-trust-ai-they-cannot-fully-explain-ai-bloom-abundance-superintelligen-virus-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="virus model" data-ebay-reference="black-box-ai-can-officials-trust-ai-they-cannot-fully-explain-ai-bloom-abundance-superintelligen-virus-model" target="_blank" rel="sponsored noopener noreferrer">Resident Evil T-Virus LED Lamp Night light Glow in the Dark Collectible Model</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=virus+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-box-ai-can-officials-trust-ai-they-cannot-fully-explain-ai-bloom-abundance-superintelligen-virus-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="virus model" data-ebay-reference="black-box-ai-can-officials-trust-ai-they-cannot-fully-explain-ai-bloom-abundance-superintelligen-virus-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for virus model">Search<span data-ebay-domain-label>eBay.co.uk</span>: virus model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=virus+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-box-ai-can-officials-trust-ai-they-cannot-fully-explain-ai-bloom-abundance-superintelligen-virus-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="virus model" data-ebay-reference="black-box-ai-can-officials-trust-ai-they-cannot-fully-explain-ai-bloom-abundance-superintelligen-virus-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=virus+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-box-ai-can-officials-trust-ai-they-cannot-fully-explain-ai-bloom-abundance-superintelligen-virus-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="virus model" data-ebay-reference="black-box-ai-can-officials-trust-ai-they-cannot-fully-explain-ai-bloom-abundance-superintelligen-virus-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MVP Virus Disc Golf Disc Pink 172g Distance Driver Virus Model PDGA Approved"><img src="{{ '/assets/images/marketplace-covers/0e5766900d4d6133c2f8.jpg' | relative_url }}" alt="Listing image for MVP Virus Disc Golf Disc Pink 172g Distance Driver Virus Model PDGA Approved" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=virus+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-box-ai-can-officials-trust-ai-they-cannot-fully-explain-ai-bloom-abundance-superintelligen-virus-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="virus model" data-ebay-reference="black-box-ai-can-officials-trust-ai-they-cannot-fully-explain-ai-bloom-abundance-superintelligen-virus-model" target="_blank" rel="sponsored noopener noreferrer">MVP Virus Disc Golf Disc Pink 172g Distance Driver Virus Model PDGA Approved</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=virus+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-box-ai-can-officials-trust-ai-they-cannot-fully-explain-ai-bloom-abundance-superintelligen-virus-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="virus model" data-ebay-reference="black-box-ai-can-officials-trust-ai-they-cannot-fully-explain-ai-bloom-abundance-superintelligen-virus-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for virus model">Search <span data-ebay-domain-label>eBay.co.uk</span>: virus model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=virus+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-box-ai-can-officials-trust-ai-they-cannot-fully-explain-ai-bloom-abundance-superintelligen-virus-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="virus model" data-ebay-reference="black-box-ai-can-officials-trust-ai-they-cannot-fully-explain-ai-bloom-abundance-superintelligen-virus-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=virus+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-box-ai-can-officials-trust-ai-they-cannot-fully-explain-ai-bloom-abundance-superintelligen-virus-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="virus model" data-ebay-reference="black-box-ai-can-officials-trust-ai-they-cannot-fully-explain-ai-bloom-abundance-superintelligen-virus-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MVP Virus Disc Golf Disc Pink 172g Distance Driver Virus Model PDGA Approved"><img src="{{ '/assets/images/marketplace-covers/0e5766900d4d6133c2f8.jpg' | relative_url }}" alt="Listing image for MVP Virus Disc Golf Disc Pink 172g Distance Driver Virus Model PDGA Approved" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=virus+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-box-ai-can-officials-trust-ai-they-cannot-fully-explain-ai-bloom-abundance-superintelligen-virus-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="virus model" data-ebay-reference="black-box-ai-can-officials-trust-ai-they-cannot-fully-explain-ai-bloom-abundance-superintelligen-virus-model" target="_blank" rel="sponsored noopener noreferrer">MVP Virus Disc Golf Disc Pink 172g Distance Driver Virus Model PDGA Approved</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=virus+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-box-ai-can-officials-trust-ai-they-cannot-fully-explain-ai-bloom-abundance-superintelligen-virus-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="virus model" data-ebay-reference="black-box-ai-can-officials-trust-ai-they-cannot-fully-explain-ai-bloom-abundance-superintelligen-virus-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for virus model">Search<span data-ebay-domain-label>eBay.co.uk</span>: virus model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=virus+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-box-ai-can-officials-trust-ai-they-cannot-fully-explain-ai-bloom-abundance-superintelligen-virus-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="virus model" data-ebay-reference="black-box-ai-can-officials-trust-ai-they-cannot-fully-explain-ai-bloom-abundance-superintelligen-virus-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=virus+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-box-ai-can-officials-trust-ai-they-cannot-fully-explain-ai-bloom-abundance-superintelligen-virus-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="virus model" data-ebay-reference="black-box-ai-can-officials-trust-ai-they-cannot-fully-explain-ai-bloom-abundance-superintelligen-virus-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Virus Model Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/88b04877a841973f16cc.jpg' | relative_url }}" alt="Listing image for Virus Model Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=virus+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-box-ai-can-officials-trust-ai-they-cannot-fully-explain-ai-bloom-abundance-superintelligen-virus-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="virus model" data-ebay-reference="black-box-ai-can-officials-trust-ai-they-cannot-fully-explain-ai-bloom-abundance-superintelligen-virus-model" target="_blank" rel="sponsored noopener noreferrer">Virus Model Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=virus+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-box-ai-can-officials-trust-ai-they-cannot-fully-explain-ai-bloom-abundance-superintelligen-virus-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="virus model" data-ebay-reference="black-box-ai-can-officials-trust-ai-they-cannot-fully-explain-ai-bloom-abundance-superintelligen-virus-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for virus model">Search <span data-ebay-domain-label>eBay.co.uk</span>: virus model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=virus+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-box-ai-can-officials-trust-ai-they-cannot-fully-explain-ai-bloom-abundance-superintelligen-virus-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="virus model" data-ebay-reference="black-box-ai-can-officials-trust-ai-they-cannot-fully-explain-ai-bloom-abundance-superintelligen-virus-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=virus+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-box-ai-can-officials-trust-ai-they-cannot-fully-explain-ai-bloom-abundance-superintelligen-virus-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="virus model" data-ebay-reference="black-box-ai-can-officials-trust-ai-they-cannot-fully-explain-ai-bloom-abundance-superintelligen-virus-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Virus Model Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/88b04877a841973f16cc.jpg' | relative_url }}" alt="Listing image for Virus Model Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=virus+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-box-ai-can-officials-trust-ai-they-cannot-fully-explain-ai-bloom-abundance-superintelligen-virus-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="virus model" data-ebay-reference="black-box-ai-can-officials-trust-ai-they-cannot-fully-explain-ai-bloom-abundance-superintelligen-virus-model" target="_blank" rel="sponsored noopener noreferrer">Virus Model Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=virus+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-box-ai-can-officials-trust-ai-they-cannot-fully-explain-ai-bloom-abundance-superintelligen-virus-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="virus model" data-ebay-reference="black-box-ai-can-officials-trust-ai-they-cannot-fully-explain-ai-bloom-abundance-superintelligen-virus-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for virus model">Search<span data-ebay-domain-label>eBay.co.uk</span>: virus model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=virus+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-box-ai-can-officials-trust-ai-they-cannot-fully-explain-ai-bloom-abundance-superintelligen-virus-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="virus model" data-ebay-reference="black-box-ai-can-officials-trust-ai-they-cannot-fully-explain-ai-bloom-abundance-superintelligen-virus-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=virus+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-box-ai-can-officials-trust-ai-they-cannot-fully-explain-ai-bloom-abundance-superintelligen-virus-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="virus model" data-ebay-reference="black-box-ai-can-officials-trust-ai-they-cannot-fully-explain-ai-bloom-abundance-superintelligen-virus-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Resident Evil Nemisis - Resin Model / Figure / Statue Fan Art T-Virus S.T.A.R.S"><img src="{{ '/assets/images/marketplace-covers/7d44048355434783e1e8.jpg' | relative_url }}" alt="Listing image for Resident Evil Nemisis - Resin Model / Figure / Statue Fan Art T-Virus S.T.A.R.S" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=virus+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-box-ai-can-officials-trust-ai-they-cannot-fully-explain-ai-bloom-abundance-superintelligen-virus-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="virus model" data-ebay-reference="black-box-ai-can-officials-trust-ai-they-cannot-fully-explain-ai-bloom-abundance-superintelligen-virus-model" target="_blank" rel="sponsored noopener noreferrer">Resident Evil Nemisis - Resin Model / Figure / Statue Fan Art T-Virus S.T.A.R.S</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=virus+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-box-ai-can-officials-trust-ai-they-cannot-fully-explain-ai-bloom-abundance-superintelligen-virus-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="virus model" data-ebay-reference="black-box-ai-can-officials-trust-ai-they-cannot-fully-explain-ai-bloom-abundance-superintelligen-virus-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for virus model">Search <span data-ebay-domain-label>eBay.co.uk</span>: virus model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=virus+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-box-ai-can-officials-trust-ai-they-cannot-fully-explain-ai-bloom-abundance-superintelligen-virus-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="virus model" data-ebay-reference="black-box-ai-can-officials-trust-ai-they-cannot-fully-explain-ai-bloom-abundance-superintelligen-virus-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=virus+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-box-ai-can-officials-trust-ai-they-cannot-fully-explain-ai-bloom-abundance-superintelligen-virus-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="virus model" data-ebay-reference="black-box-ai-can-officials-trust-ai-they-cannot-fully-explain-ai-bloom-abundance-superintelligen-virus-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=virus+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-box-ai-can-officials-trust-ai-they-cannot-fully-explain-ai-bloom-abundance-superintelligen-virus-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="virus model" data-ebay-reference="black-box-ai-can-officials-trust-ai-they-cannot-fully-explain-ai-bloom-abundance-superintelligen-virus-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Resident Evil Nemisis - Resin Model / Figure / Statue Fan Art T-Virus S.T.A.R.S"><img src="{{ '/assets/images/marketplace-covers/7d44048355434783e1e8.jpg' | relative_url }}" alt="Listing image for Resident Evil Nemisis - Resin Model / Figure / Statue Fan Art T-Virus S.T.A.R.S" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=virus+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-box-ai-can-officials-trust-ai-they-cannot-fully-explain-ai-bloom-abundance-superintelligen-virus-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="virus model" data-ebay-reference="black-box-ai-can-officials-trust-ai-they-cannot-fully-explain-ai-bloom-abundance-superintelligen-virus-model" target="_blank" rel="sponsored noopener noreferrer">Resident Evil Nemisis - Resin Model / Figure / Statue Fan Art T-Virus S.T.A.R.S</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=virus+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-box-ai-can-officials-trust-ai-they-cannot-fully-explain-ai-bloom-abundance-superintelligen-virus-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="virus model" data-ebay-reference="black-box-ai-can-officials-trust-ai-they-cannot-fully-explain-ai-bloom-abundance-superintelligen-virus-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for virus model">Search<span data-ebay-domain-label>eBay.co.uk</span>: virus model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=virus+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-box-ai-can-officials-trust-ai-they-cannot-fully-explain-ai-bloom-abundance-superintelligen-virus-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="virus model" data-ebay-reference="black-box-ai-can-officials-trust-ai-they-cannot-fully-explain-ai-bloom-abundance-superintelligen-virus-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=virus+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-box-ai-can-officials-trust-ai-they-cannot-fully-explain-ai-bloom-abundance-superintelligen-virus-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="virus model" data-ebay-reference="black-box-ai-can-officials-trust-ai-they-cannot-fully-explain-ai-bloom-abundance-superintelligen-virus-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -643,7 +643,7 @@ Without those safeguards, black-box forecasting risks creating a dangerous situa
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -663,7 +663,7 @@ Without those safeguards, black-box forecasting risks creating a dangerous situa
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -695,7 +695,7 @@ Without those safeguards, black-box forecasting risks creating a dangerous situa
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -747,7 +747,7 @@ Without those safeguards, black-box forecasting risks creating a dangerous situa
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -792,7 +792,7 @@ Without those safeguards, black-box forecasting risks creating a dangerous situa
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -833,196 +833,196 @@ Without those safeguards, black-box forecasting risks creating a dangerous situa
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cdc.gov  
-   Link: <a href="https://www.cdc.gov/forecast-outbreak-analytics/index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/forecast-outbreak-analytics/index.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Center for Forecasting and Outbreak Analytics | CFACFA uses advanced analytic approaches, like forecasting and modeling, to drive effe...</p></details>
+   Link:<a href="https://www.cdc.gov/forecast-outbreak-analytics/index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/forecast-outbreak-analytics/index.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Center for Forecasting and Outbreak Analytics | CFACFA uses advanced analytic approaches, like forecasting and modeling, to drive effe...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2667102623000578" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2667102623000578</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Medical artificial [intelligence](&amp;#123;&amp;#123; &#x27;intelligence/&#x27; | relative_url &amp;#125;&amp;#125;) and the black box problemby H Xu · 2024 · Cited by 199 — In this study, we focus on the pote...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S2667102623000578" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2667102623000578</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Medical artificial [intelligence](&amp;#123;&amp;#123; &#x27;intelligence/&#x27; | relative_url &amp;#125;&amp;#125;) and the black box problemby H Xu · 2024 · Cited by 199 — In this study, we focus on the pote...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8459787/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8459787/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unbox the black-box for the medical explainable AI via multi...by G Yang · 2022 · Cited by 887 — Explainable Artificial Intelligence...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8459787/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8459787/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unbox the black-box for the medical explainable AI via multi...by G Yang · 2022 · Cited by 887 — Explainable Artificial Intelligence...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
    Title: arXiv The Three Ghosts of Medical AI: Can the Black-Box Present Deliver?  
-   Link: <a href="https://arxiv.org/abs/2012.06000" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2012.06000</a>  
+   Link:<a href="https://arxiv.org/abs/2012.06000" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2012.06000</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41598-025-15867-z" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-025-15867-z</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Personalized health monitoring using explainable AIby MS Vani · 2025 · Cited by 65 — However, worried about the trust, accountabili...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41598-025-15867-z" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-025-15867-z</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Personalized health monitoring using explainable AIby MS Vani · 2025 · Cited by 65 — However, worried about the trust, accountabili...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11382209/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11382209/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>the black box: A systematic review of Explainable...by D Muhammad · 2024 · Cited by 246 — This systematic literature review examines sta...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11382209/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11382209/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the black box: A systematic review of Explainable...by D Muhammad · 2024 · Cited by 246 — This systematic literature review examines sta...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41597-022-01517-w" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41597-022-01517-w</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The United States COVID-19 Forecast Hub datasetby EY Cramer · 2022 · Cited by 194 — The Forecast Hub is a dataset with point and pr...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41597-022-01517-w" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41597-022-01517-w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The United States COVID-19 Forecast Hub datasetby EY Cramer · 2022 · Cited by 194 — The Forecast Hub is a dataset with point and pr...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCAccuracy of US CDC COVID-19 forecasting models  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11233691/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11233691/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by A Chharia · 2024 · Cited by 21 — In this study, we systematically analyze all US CDC COVID-19 forecasting models, by first categori...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11233691/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11233691/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by A Chharia · 2024 · Cited by 21 — In this study, we systematically analyze all US CDC COVID-19 forecasting models, by first categori...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: arxiv.org  
    Title: arXiv Improving Outbreak Forecasts Through Model Augmentation  
-   Link: <a href="https://arxiv.org/abs/2506.16410" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2506.16410</a>  
+   Link:<a href="https://arxiv.org/abs/2506.16410" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2506.16410</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: who.int  
-   Link: <a href="https://www.who.int/publications/i/item/9789240029200" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/publications/i/item/9789240029200</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>World Health OrganizationEthics and governance of artificial intelligence for healthJun 28, 2021 — The report identifies the ethical chal...</p></details>
+   Link:<a href="https://www.who.int/publications/i/item/9789240029200" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/publications/i/item/9789240029200</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>World Health OrganizationEthics and governance of artificial intelligence for healthJun 28, 2021 — The report identifies the ethical chal...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: iris.who.int  
    Title: Iris Ethics and governance of artificial intelligence for health  
-   Link: <a href="https://iris.who.int/server/api/core/bitstreams/4f2c477c-4b72-4ca1-9a78-a1e73af64e50/content" target="_blank" rel="noopener noreferrer nofollow">https://iris.who.int/server/api/core/bitstreams/4f2c477c-4b72-4ca1-9a78-a1e73af64e50/content</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Whether AI can advance the interests of patients and communities depends on a collective effort to design and implement ethically def...</p></details>
+   Link:<a href="https://iris.who.int/server/api/core/bitstreams/4f2c477c-4b72-4ca1-9a78-a1e73af64e50/content" target="_blank" rel="noopener noreferrer nofollow">https://iris.who.int/server/api/core/bitstreams/4f2c477c-4b72-4ca1-9a78-a1e73af64e50/content</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Whether AI can advance the interests of patients and communities depends on a collective effort to design and implement ethically def...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: covid19forecasthub.org  
-   Link: <a href="https://covid19forecasthub.org/" target="_blank" rel="noopener noreferrer nofollow">https://covid19forecasthub.org/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>COVID-19 Forecast HubCOVID 19 forecast hub: HomeFrom 2020 to 2024, this site collected real-time forecasts of COVID-19 hospitalizations...</p></details>
+   Link:<a href="https://covid19forecasthub.org/" target="_blank" rel="noopener noreferrer nofollow">https://covid19forecasthub.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>COVID-19 Forecast HubCOVID 19 forecast hub: HomeFrom 2020 to 2024, this site collected real-time forecasts of COVID-19 hospitalizations...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: who.int  
-   Link: <a href="https://www.who.int/publications/i/item/9789240037403" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/publications/i/item/9789240037403</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>World Health OrganizationEthics and governance of artificial intelligence for health28 Jun 2021 — The report identifies the ethical chall...</p></details>
+   Link:<a href="https://www.who.int/publications/i/item/9789240037403" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/publications/i/item/9789240037403</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>World Health OrganizationEthics and governance of artificial intelligence for health28 Jun 2021 — The report identifies the ethical chall...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: ictworks.org  
    Title: who guidance artificial intelligence health  
-   Link: <a href="https://www.ictworks.org/who-guidance-artificial-intelligence-health/" target="_blank" rel="noopener noreferrer nofollow">https://www.ictworks.org/who-guidance-artificial-intelligence-health/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Protecting human autonomy · 2. Promoting human well-being, safety, and public interest. · 3. Ensuring...Read more...</p></details>
+   Link:<a href="https://www.ictworks.org/who-guidance-artificial-intelligence-health/" target="_blank" rel="noopener noreferrer nofollow">https://www.ictworks.org/who-guidance-artificial-intelligence-health/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Protecting human autonomy · 2. Promoting human well-being, safety, and public interest. · 3. Ensuring...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: arxiv.org  
    Title: arXiv From Black Box to Insight: Explainable AI for Extreme Event Preparedness  
-   Link: <a href="https://arxiv.org/abs/2511.13712" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2511.13712</a>  
+   Link:<a href="https://arxiv.org/abs/2511.13712" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2511.13712</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12027014/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12027014/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by G Chassang · 2025 · Cited by 8 — This paper discusses the responsible use of artificial intelligence (AI) in public health and in m...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12027014/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12027014/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by G Chassang · 2025 · Cited by 8 — This paper discusses the responsible use of artificial intelligence (AI) in public health and in m...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: who.int  
-   Link: <a href="https://www.who.int/" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/</a>  
+   Link:<a href="https://www.who.int/" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: who.int  
-   Link: <a href="https://www.who.int/publications/i/item/9789240084759" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/publications/i/item/9789240084759</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ethics and governance of artificial intelligence for healthMar 25, 2025 — This guidance addresses one type of generative AI, large multi...</p></details>
+   Link:<a href="https://www.who.int/publications/i/item/9789240084759" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/publications/i/item/9789240084759</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ethics and governance of artificial intelligence for healthMar 25, 2025 — This guidance addresses one type of generative AI, large multi...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2508.12260v5" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2508.12260v5</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Foundation Model for Mechanistic Disease ForecastingApr 13, 2026 — When benchmarked against CDC Forecast Hub models on early pandemic C...</p></details>
+   Link:<a href="https://arxiv.org/html/2508.12260v5" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2508.12260v5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Foundation Model for Mechanistic Disease ForecastingApr 13, 2026 — When benchmarked against CDC Forecast Hub models on early pandemic C...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: publichealthaihandbook.com  
    Title: Public Health AI Handbook Epidemic Forecasting with AI  
-   Link: <a href="https://publichealthaihandbook.com/applications/forecasting.html" target="_blank" rel="noopener noreferrer nofollow">https://publichealthaihandbook.com/applications/forecasting.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>COVID-19 experiments, PandemicLLM reported better 1- to 3-week forecasting performance than several CDC COVID-19 Forecast Hub baselines...</p></details>
+   Link:<a href="https://publichealthaihandbook.com/applications/forecasting.html" target="_blank" rel="noopener noreferrer nofollow">https://publichealthaihandbook.com/applications/forecasting.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>COVID-19 experiments, PandemicLLM reported better 1- to 3-week forecasting performance than several CDC COVID-19 Forecast Hub baselines...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: phgfoundation.org  
-   Link: <a href="https://www.phgfoundation.org/wp-content/uploads/2023/10/black-box-machine-learning-landscape.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.phgfoundation.org/wp-content/uploads/2023/10/black-box-machine-learning-landscape.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Black box medicine and transparencyThis last section outlines two cases that illustrate the importance of interpretability in machine lea...</p></details>
+   Link:<a href="https://www.phgfoundation.org/wp-content/uploads/2023/10/black-box-machine-learning-landscape.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.phgfoundation.org/wp-content/uploads/2023/10/black-box-machine-learning-landscape.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Black box medicine and transparencyThis last section outlines two cases that illustrate the importance of interpretability in machine lea...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: livrepository.liverpool.ac.uk  
-   Link: <a href="https://livrepository.liverpool.ac.uk/3170961/1/Explainable%20artificial%20intelligence%20for%20mental%20health%20through%20transparency%20and%20interpretability%20for%20understandability.pdf" target="_blank" rel="noopener noreferrer nofollow">https://livrepository.liverpool.ac.uk/3170961/1/Explainable%20artificial%20intelligence%20for%20mental%20health%20through%20transparency%20and%20interpretability%20for%20understandability.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>University of LiverpoolExplainable artificial intelligence for mental health through...by DW Joyce · 2023 · Cited by 265 — Across health...</p></details>
+   Link:<a href="https://livrepository.liverpool.ac.uk/3170961/1/Explainable%20artificial%20intelligence%20for%20mental%20health%20through%20transparency%20and%20interpretability%20for%20understandability.pdf" target="_blank" rel="noopener noreferrer nofollow">https://livrepository.liverpool.ac.uk/3170961/1/Explainable%20artificial%20intelligence%20for%20mental%20health%20through%20transparency%20and%20interpretability%20for%20understandability.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>University of LiverpoolExplainable artificial intelligence for mental health through...by DW Joyce · 2023 · Cited by 265 — Across health...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: github.com  
-   Link: <a href="https://github.com/CDCgov/covid19-forecast-hub" target="_blank" rel="noopener noreferrer nofollow">https://github.com/CDCgov/covid19-forecast-hub</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>COVID-19 Forecast HubThis repository is designed to collect forecast data for the COVID-19 Forecast Hub run by the US CDC. The project co...</p></details>
+   Link:<a href="https://github.com/CDCgov/covid19-forecast-hub" target="_blank" rel="noopener noreferrer nofollow">https://github.com/CDCgov/covid19-forecast-hub</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>COVID-19 Forecast HubThis repository is designed to collect forecast data for the COVID-19 Forecast Hub run by the US CDC. The project co...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: restoredcdc.org  
-   Link: <a href="https://restoredcdc.org/www.cdc.gov/cfa-behind-the-model/php/behind-the-model/index.html" target="_blank" rel="noopener noreferrer nofollow">https://restoredcdc.org/www.cdc.gov/cfa-behind-the-model/php/behind-the-model/index.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CFA: Behind the ModelOct 4, 2024 — The models helped forecast the expected size and duration of the outbreak and helped the Chicago Depar...</p></details>
+   Link:<a href="https://restoredcdc.org/www.cdc.gov/cfa-behind-the-model/php/behind-the-model/index.html" target="_blank" rel="noopener noreferrer nofollow">https://restoredcdc.org/www.cdc.gov/cfa-behind-the-model/php/behind-the-model/index.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CFA: Behind the ModelOct 4, 2024 — The models helped forecast the expected size and duration of the outbreak and helped the Chicago Depar...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: Wikipedia  
    Title: World Health Organization  
-   Link: <a href="https://en.wikipedia.org/wiki/World_Health_Organization" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/World_Health_Organization</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>World Health OrganizationThe World Health Organization (WHO) is a specialized agency of the United Nations (UN) which coordinates resp...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/World_Health_Organization" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/World_Health_Organization</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>World Health OrganizationThe World Health Organization (WHO) is a specialized agency of the United Nations (UN) which coordinates resp...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: aiforgood.itu.int  
    Title: int World Health Organization (WHO)  
-   Link: <a href="https://aiforgood.itu.int/about-us/un-ai-actions/who/" target="_blank" rel="noopener noreferrer nofollow">https://aiforgood.itu.int/about-us/un-ai-actions/who/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Health Organization (WHO) - AI for Good - ITUAI has enormous potential for strengthening the delivery of health care and medicine and hel...</p></details>
+   Link:<a href="https://aiforgood.itu.int/about-us/un-ai-actions/who/" target="_blank" rel="noopener noreferrer nofollow">https://aiforgood.itu.int/about-us/un-ai-actions/who/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Health Organization (WHO) - AI for Good - ITUAI has enormous potential for strengthening the delivery of health care and medicine and hel...</p></details>
 
 ### Additional References
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/340495230_Explainable_AI_for_Healthcare_From_Black_Box_to_Interpretable_Models" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/340495230_Explainable_AI_for_Healthcare_From_Black_Box_to_Interpretable_Models</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Explainable AI for Healthcare: From Black Box to...In this paper, we reflect on recent investigations about the interpretability and exp...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/340495230_Explainable_AI_for_Healthcare_From_Black_Box_to_Interpretable_Models" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/340495230_Explainable_AI_for_Healthcare_From_Black_Box_to_Interpretable_Models</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Explainable AI for Healthcare: From Black Box to...In this paper, we reflect on recent investigations about the interpretability and exp...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: reliefweb.int  
-   Link: <a href="https://reliefweb.int/report/world/artificial-intelligence-health-emergencies-who-advances-public-health-intelligence-and-surveillance-through-innovation" target="_blank" rel="noopener noreferrer nofollow">https://reliefweb.int/report/world/artificial-intelligence-health-emergencies-who-advances-public-health-intelligence-and-surveillance-through-innovation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Artificial intelligence for health emergenciesDec 10, 2025 — Sessions focused on practical skills for emergency settings, including respo...</p></details>
+   Link:<a href="https://reliefweb.int/report/world/artificial-intelligence-health-emergencies-who-advances-public-health-intelligence-and-surveillance-through-innovation" target="_blank" rel="noopener noreferrer nofollow">https://reliefweb.int/report/world/artificial-intelligence-health-emergencies-who-advances-public-health-intelligence-and-surveillance-through-innovation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Artificial intelligence for health emergenciesDec 10, 2025 — Sessions focused on practical skills for emergency settings, including respo...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: eurasiareview.com  
    Title: 30062021 who issues first global report in artificial intelligence in health  
-   Link: <a href="https://www.eurasiareview.com/30062021-who-issues-first-global-report-in-artificial-intelligence-in-health/" target="_blank" rel="noopener noreferrer nofollow">https://www.eurasiareview.com/30062021-who-issues-first-global-report-in-artificial-intelligence-in-health/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>WHO Issues First Global Report In Artificial Intelligence...Jun 30, 2021 — However, WHO&#x27;s new report, published on June 28, cautions aga...</p></details>
+   Link:<a href="https://www.eurasiareview.com/30062021-who-issues-first-global-report-in-artificial-intelligence-in-health/" target="_blank" rel="noopener noreferrer nofollow">https://www.eurasiareview.com/30062021-who-issues-first-global-report-in-artificial-intelligence-in-health/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WHO Issues First Global Report In Artificial Intelligence...Jun 30, 2021 — However, WHO&#x27;s new report, published on June 28, cautions aga...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: privacyinternational.org  
    Title: our analysis who report ethics and governance artificial intelligence health  
-   Link: <a href="https://privacyinternational.org/news-analysis/4594/our-analysis-who-report-ethics-and-governance-artificial-intelligence-health" target="_blank" rel="noopener noreferrer nofollow">https://privacyinternational.org/news-analysis/4594/our-analysis-who-report-ethics-and-governance-artificial-intelligence-health</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Our analysis of the WHO report on Ethics and Governance...Jul 20, 2021 — This report is a very thorough one that does not shy away from...</p></details>
+   Link:<a href="https://privacyinternational.org/news-analysis/4594/our-analysis-who-report-ethics-and-governance-artificial-intelligence-health" target="_blank" rel="noopener noreferrer nofollow">https://privacyinternational.org/news-analysis/4594/our-analysis-who-report-ethics-and-governance-artificial-intelligence-health</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Our analysis of the WHO report on Ethics and Governance...Jul 20, 2021 — This report is a very thorough one that does not shy away from...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: researchprofiles.ku.dk  
    Title: ethics and governance of artificial intelligence for health who g  
-   Link: <a href="https://researchprofiles.ku.dk/en/publications/ethics-and-governance-of-artificial-intelligence-for-health-who-g/" target="_blank" rel="noopener noreferrer nofollow">https://researchprofiles.ku.dk/en/publications/ethics-and-governance-of-artificial-intelligence-for-health-who-g/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AND GOVERNANCE OF ARTIFICIAL...Jun 28, 2021 — The report identifies the ethical challenges and risks with the use of artificial intellig...</p></details>
+   Link:<a href="https://researchprofiles.ku.dk/en/publications/ethics-and-governance-of-artificial-intelligence-for-health-who-g/" target="_blank" rel="noopener noreferrer nofollow">https://researchprofiles.ku.dk/en/publications/ethics-and-governance-of-artificial-intelligence-for-health-who-g/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AND GOVERNANCE OF ARTIFICIAL...Jun 28, 2021 — The report identifies the ethical challenges and risks with the use of artificial intellig...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: hub.jhu.edu  
    Title: artificial intelligence infectious disease forecasting  
-   Link: <a href="https://hub.jhu.edu/2025/06/06/artificial-intelligence-infectious-disease-forecasting/" target="_blank" rel="noopener noreferrer nofollow">https://hub.jhu.edu/2025/06/06/artificial-intelligence-infectious-disease-forecasting/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The HubArtificial intelligence reimagines infectious disease forecastingJun 6, 2025 — A new AI tool to predict the spread of infectious d...</p></details>
+   Link:<a href="https://hub.jhu.edu/2025/06/06/artificial-intelligence-infectious-disease-forecasting/" target="_blank" rel="noopener noreferrer nofollow">https://hub.jhu.edu/2025/06/06/artificial-intelligence-infectious-disease-forecasting/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The HubArtificial intelligence reimagines infectious disease forecastingJun 6, 2025 — A new AI tool to predict the spread of infectious d...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: youtube.com  
    Title: Enhancing Long-Term Forecasting: Learning from COVID-19 Models  
-   Link: <a href="https://www.youtube.com/watch?v=5-nVT5sWJI4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5-nVT5sWJI4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Enhancing Long-term Forecasting: Learning from COVID-19 Models&quot; Enhancing Long-Term Forecasting: Learning from COVID-19 Models The Found...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=5-nVT5sWJI4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5-nVT5sWJI4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Enhancing Long-term Forecasting: Learning from COVID-19 Models&quot; Enhancing Long-Term Forecasting: Learning from COVID-19 Models The Found...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: ncdirindia.org  
-   Link: <a href="https://www.ncdirindia.org/Downloads/WHO_AI_Ethics.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ncdirindia.org/Downloads/WHO_AI_Ethics.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ethics and governance of artificial intelligence for health:...by WHO GUIDANCE · 2021 · Cited by 185 — of different public health interv...</p></details>
+   Link:<a href="https://www.ncdirindia.org/Downloads/WHO_AI_Ethics.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ncdirindia.org/Downloads/WHO_AI_Ethics.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ethics and governance of artificial intelligence for health:...by WHO GUIDANCE · 2021 · Cited by 185 — of different public health interv...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: youtube.com  
    Title: From the Unseen to Foresight: Epidemic Modeling in the Age of Computing and AI  
-   Link: <a href="https://www.youtube.com/watch?v=gD0obKGIWVk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gD0obKGIWVk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Speaker Series N°11 – Building Large Language Models &amp; other AI tools for Public Health Intelligence...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=gD0obKGIWVk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gD0obKGIWVk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Speaker Series N°11 – Building Large Language Models &amp; other AI tools for Public Health Intelligence...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: youtube.com  
    Title: Presentation on Enhancing Long-term Forecasting: Learning from COVID-19 Models  
-   Link: <a href="https://www.youtube.com/watch?v=7c8K7FQwD4Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7c8K7FQwD4Q</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>From the Unseen to Foresight: Epidemic Modeling in the Age of Computing and AI...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=7c8K7FQwD4Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7c8K7FQwD4Q</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>From the Unseen to Foresight: Epidemic Modeling in the Age of Computing and AI...</p></details>

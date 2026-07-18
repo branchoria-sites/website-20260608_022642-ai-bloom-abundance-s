@@ -326,194 +326,194 @@ Within the broader picture of humanity’s long‑term future — including visi
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WtUU7eYyXME" title="NASA&#x27;s Moon to Mars Ice &amp; Prospecting Challenge" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WtUU7eYyXME" target="_blank" rel="noopener noreferrer">NASA&#x27;s Moon to Mars Ice &amp; Prospecting Challenge</a></p><p class="youtube-embed-meta">Channel: NASA 360 &middot; Views: 1.9K &middot; Uploaded: June 2019 &middot; Length: 29 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WtUU7eYyXME" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WtUU7eYyXME">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Mining and Using Water Ice on Mars for Survival. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Mining and Using Water Ice on Mars for Survival. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Case+for+Mars+by+Robert+Zubrin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Case for Mars on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6HcN23RJ7L4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Case for Mars" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Case+for+Mars+by+Robert+Zubrin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Case for Mars">The Case for Mars</a>
-        </h4>
-        <p class="fr-book-author">By Robert Zubrin, Richard Wagner</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Case+for+Mars+by+Robert+Zubrin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Case for Mars on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6HcN23RJ7L4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Case for Mars" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Case+for+Mars+by+Robert+Zubrin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Case for Mars">The Case for Mars</a>
+</h4>
+<p class="fr-book-author">By Robert Zubrin, Richard Wagner</p>
         
-        <p class="fr-book-desc">Directly covers using Martian resources to support human missions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Case+for+Mars+by+Robert+Zubrin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly covers using Martian resources to support human missions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Case+for+Mars+by+Robert+Zubrin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+City+on+Mars+by+Kelly+Weinersmith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A City on Mars on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2m6vEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for A City on Mars" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+City+on+Mars+by+Kelly+Weinersmith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A City on Mars">A City on Mars</a>
-        </h4>
-        <p class="fr-book-author">By Kelly Weinersmith, Zach Weinersmith</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+City+on+Mars+by+Kelly+Weinersmith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A City on Mars on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2m6vEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for A City on Mars" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+City+on+Mars+by+Kelly+Weinersmith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A City on Mars">A City on Mars</a>
+</h4>
+<p class="fr-book-author">By Kelly Weinersmith, Zach Weinersmith</p>
         
-        <p class="fr-book-desc">Evaluates the practical constraints behind Martian resource use and settlement.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+City+on+Mars+by+Kelly+Weinersmith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Evaluates the practical constraints behind Martian resource use and settlement.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+City+on+Mars+by+Kelly+Weinersmith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+We%27ll+Live+on+Mars+by+Stephen+Petranek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How We&#x27;ll Live on Mars on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XU4RCgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How We&#x27;ll Live on Mars" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+We%27ll+Live+on+Mars+by+Stephen+Petranek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How We&#x27;ll Live on Mars">How We&#x27;ll Live on Mars</a>
-        </h4>
-        <p class="fr-book-author">By Stephen Petranek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+We%27ll+Live+on+Mars+by+Stephen+Petranek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How We&#x27;ll Live on Mars on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XU4RCgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How We&#x27;ll Live on Mars" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+We%27ll+Live+on+Mars+by+Stephen+Petranek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How We&#x27;ll Live on Mars">How We&#x27;ll Live on Mars</a>
+</h4>
+<p class="fr-book-author">By Stephen Petranek</p>
         
-        <p class="fr-book-desc">Discusses water, oxygen, fuel and other survival requirements on Mars.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+We%27ll+Live+on+Mars+by+Stephen+Petranek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses water, oxygen, fuel and other survival requirements on Mars.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+We%27ll+Live+on+Mars+by+Stephen+Petranek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Future+of+Humanity+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Future of Humanity on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d7ktygEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Future of Humanity" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Future+of+Humanity+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Future of Humanity">The Future of Humanity</a>
-        </h4>
-        <p class="fr-book-author">By Michio Kaku</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Future+of+Humanity+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Future of Humanity on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d7ktygEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Future of Humanity" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Future+of+Humanity+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Future of Humanity">The Future of Humanity</a>
+</h4>
+<p class="fr-book-author">By Michio Kaku</p>
         
-        <p class="fr-book-desc">Places Mars resource extraction within wider human expansion beyond Earth.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Future+of+Humanity+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places Mars resource extraction within wider human expansion beyond Earth.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Future+of+Humanity+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Case+for+Mars&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Case for Mars</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+City+on+Mars&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A City on Mars</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+We%27ll+Live+on+Mars&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How We&#x27;ll Live on Mars</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Case+for+Mars&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Case for Mars</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+City+on+Mars&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A City on Mars</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+We%27ll+Live+on+Mars&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How We&#x27;ll Live on Mars</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=mars+rover+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mars-water-systems-mining-and-using-water-ice-on-mars-for-survival-ai-bloom-abundance-superintel-mars-rover-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mars rover model" data-ebay-reference="mars-water-systems-mining-and-using-water-ice-on-mars-for-survival-ai-bloom-abundance-superintel-mars-rover-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NASA Mars Rover Construction Metal Motorised Model Kit"><img src="{{ '/assets/images/marketplace-covers/fc7c822dd48ccf586615.jpg' | relative_url }}" alt="Listing image for NASA Mars Rover Construction Metal Motorised Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=mars+rover+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mars-water-systems-mining-and-using-water-ice-on-mars-for-survival-ai-bloom-abundance-superintel-mars-rover-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mars rover model" data-ebay-reference="mars-water-systems-mining-and-using-water-ice-on-mars-for-survival-ai-bloom-abundance-superintel-mars-rover-model" target="_blank" rel="sponsored noopener noreferrer">NASA Mars Rover Construction Metal Motorised Model Kit</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=mars+rover+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mars-water-systems-mining-and-using-water-ice-on-mars-for-survival-ai-bloom-abundance-superintel-mars-rover-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mars rover model" data-ebay-reference="mars-water-systems-mining-and-using-water-ice-on-mars-for-survival-ai-bloom-abundance-superintel-mars-rover-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for mars rover model">Search <span data-ebay-domain-label>eBay.co.uk</span>: mars rover model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=mars+rover+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mars-water-systems-mining-and-using-water-ice-on-mars-for-survival-ai-bloom-abundance-superintel-mars-rover-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mars rover model" data-ebay-reference="mars-water-systems-mining-and-using-water-ice-on-mars-for-survival-ai-bloom-abundance-superintel-mars-rover-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=mars+rover+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mars-water-systems-mining-and-using-water-ice-on-mars-for-survival-ai-bloom-abundance-superintel-mars-rover-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mars rover model" data-ebay-reference="mars-water-systems-mining-and-using-water-ice-on-mars-for-survival-ai-bloom-abundance-superintel-mars-rover-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NASA Mars Rover Construction Metal Motorised Model Kit"><img src="{{ '/assets/images/marketplace-covers/fc7c822dd48ccf586615.jpg' | relative_url }}" alt="Listing image for NASA Mars Rover Construction Metal Motorised Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=mars+rover+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mars-water-systems-mining-and-using-water-ice-on-mars-for-survival-ai-bloom-abundance-superintel-mars-rover-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mars rover model" data-ebay-reference="mars-water-systems-mining-and-using-water-ice-on-mars-for-survival-ai-bloom-abundance-superintel-mars-rover-model" target="_blank" rel="sponsored noopener noreferrer">NASA Mars Rover Construction Metal Motorised Model Kit</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=mars+rover+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mars-water-systems-mining-and-using-water-ice-on-mars-for-survival-ai-bloom-abundance-superintel-mars-rover-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mars rover model" data-ebay-reference="mars-water-systems-mining-and-using-water-ice-on-mars-for-survival-ai-bloom-abundance-superintel-mars-rover-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for mars rover model">Search<span data-ebay-domain-label>eBay.co.uk</span>: mars rover model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=mars+rover+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mars-water-systems-mining-and-using-water-ice-on-mars-for-survival-ai-bloom-abundance-superintel-mars-rover-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mars rover model" data-ebay-reference="mars-water-systems-mining-and-using-water-ice-on-mars-for-survival-ai-bloom-abundance-superintel-mars-rover-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=mars+rover+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mars-water-systems-mining-and-using-water-ice-on-mars-for-survival-ai-bloom-abundance-superintel-mars-rover-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mars rover model" data-ebay-reference="mars-water-systems-mining-and-using-water-ice-on-mars-for-survival-ai-bloom-abundance-superintel-mars-rover-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CaDA Mars Rover NASA 192pc Brick Model Age 8+ C56045W"><img src="{{ '/assets/images/marketplace-covers/fed2b61efd6decd67bcf.jpg' | relative_url }}" alt="Listing image for CaDA Mars Rover NASA 192pc Brick Model Age 8+ C56045W" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=mars+rover+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mars-water-systems-mining-and-using-water-ice-on-mars-for-survival-ai-bloom-abundance-superintel-mars-rover-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mars rover model" data-ebay-reference="mars-water-systems-mining-and-using-water-ice-on-mars-for-survival-ai-bloom-abundance-superintel-mars-rover-model" target="_blank" rel="sponsored noopener noreferrer">CaDA Mars Rover NASA 192pc Brick Model Age 8+ C56045W</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=mars+rover+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mars-water-systems-mining-and-using-water-ice-on-mars-for-survival-ai-bloom-abundance-superintel-mars-rover-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mars rover model" data-ebay-reference="mars-water-systems-mining-and-using-water-ice-on-mars-for-survival-ai-bloom-abundance-superintel-mars-rover-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for mars rover model">Search <span data-ebay-domain-label>eBay.co.uk</span>: mars rover model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=mars+rover+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mars-water-systems-mining-and-using-water-ice-on-mars-for-survival-ai-bloom-abundance-superintel-mars-rover-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mars rover model" data-ebay-reference="mars-water-systems-mining-and-using-water-ice-on-mars-for-survival-ai-bloom-abundance-superintel-mars-rover-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=mars+rover+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mars-water-systems-mining-and-using-water-ice-on-mars-for-survival-ai-bloom-abundance-superintel-mars-rover-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mars rover model" data-ebay-reference="mars-water-systems-mining-and-using-water-ice-on-mars-for-survival-ai-bloom-abundance-superintel-mars-rover-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CaDA Mars Rover NASA 192pc Brick Model Age 8+ C56045W"><img src="{{ '/assets/images/marketplace-covers/fed2b61efd6decd67bcf.jpg' | relative_url }}" alt="Listing image for CaDA Mars Rover NASA 192pc Brick Model Age 8+ C56045W" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=mars+rover+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mars-water-systems-mining-and-using-water-ice-on-mars-for-survival-ai-bloom-abundance-superintel-mars-rover-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mars rover model" data-ebay-reference="mars-water-systems-mining-and-using-water-ice-on-mars-for-survival-ai-bloom-abundance-superintel-mars-rover-model" target="_blank" rel="sponsored noopener noreferrer">CaDA Mars Rover NASA 192pc Brick Model Age 8+ C56045W</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=mars+rover+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mars-water-systems-mining-and-using-water-ice-on-mars-for-survival-ai-bloom-abundance-superintel-mars-rover-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mars rover model" data-ebay-reference="mars-water-systems-mining-and-using-water-ice-on-mars-for-survival-ai-bloom-abundance-superintel-mars-rover-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for mars rover model">Search<span data-ebay-domain-label>eBay.co.uk</span>: mars rover model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=mars+rover+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mars-water-systems-mining-and-using-water-ice-on-mars-for-survival-ai-bloom-abundance-superintel-mars-rover-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mars rover model" data-ebay-reference="mars-water-systems-mining-and-using-water-ice-on-mars-for-survival-ai-bloom-abundance-superintel-mars-rover-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=mars+rover+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mars-water-systems-mining-and-using-water-ice-on-mars-for-survival-ai-bloom-abundance-superintel-mars-rover-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mars rover model" data-ebay-reference="mars-water-systems-mining-and-using-water-ice-on-mars-for-survival-ai-bloom-abundance-superintel-mars-rover-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space Metal Models Apollo Hubble Rovers Mars 3D Laser Cut DIY Kits Hobby Gift"><img src="{{ '/assets/images/marketplace-covers/4f747e9486e38cc25095.jpg' | relative_url }}" alt="Listing image for Space Metal Models Apollo Hubble Rovers Mars 3D Laser Cut DIY Kits Hobby Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=mars+rover+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mars-water-systems-mining-and-using-water-ice-on-mars-for-survival-ai-bloom-abundance-superintel-mars-rover-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mars rover model" data-ebay-reference="mars-water-systems-mining-and-using-water-ice-on-mars-for-survival-ai-bloom-abundance-superintel-mars-rover-model" target="_blank" rel="sponsored noopener noreferrer">Space Metal Models Apollo Hubble Rovers Mars 3D Laser Cut DIY Kits Hobby Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=mars+rover+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mars-water-systems-mining-and-using-water-ice-on-mars-for-survival-ai-bloom-abundance-superintel-mars-rover-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mars rover model" data-ebay-reference="mars-water-systems-mining-and-using-water-ice-on-mars-for-survival-ai-bloom-abundance-superintel-mars-rover-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for mars rover model">Search <span data-ebay-domain-label>eBay.co.uk</span>: mars rover model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=mars+rover+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mars-water-systems-mining-and-using-water-ice-on-mars-for-survival-ai-bloom-abundance-superintel-mars-rover-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mars rover model" data-ebay-reference="mars-water-systems-mining-and-using-water-ice-on-mars-for-survival-ai-bloom-abundance-superintel-mars-rover-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=mars+rover+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mars-water-systems-mining-and-using-water-ice-on-mars-for-survival-ai-bloom-abundance-superintel-mars-rover-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mars rover model" data-ebay-reference="mars-water-systems-mining-and-using-water-ice-on-mars-for-survival-ai-bloom-abundance-superintel-mars-rover-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space Metal Models Apollo Hubble Rovers Mars 3D Laser Cut DIY Kits Hobby Gift"><img src="{{ '/assets/images/marketplace-covers/4f747e9486e38cc25095.jpg' | relative_url }}" alt="Listing image for Space Metal Models Apollo Hubble Rovers Mars 3D Laser Cut DIY Kits Hobby Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=mars+rover+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mars-water-systems-mining-and-using-water-ice-on-mars-for-survival-ai-bloom-abundance-superintel-mars-rover-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mars rover model" data-ebay-reference="mars-water-systems-mining-and-using-water-ice-on-mars-for-survival-ai-bloom-abundance-superintel-mars-rover-model" target="_blank" rel="sponsored noopener noreferrer">Space Metal Models Apollo Hubble Rovers Mars 3D Laser Cut DIY Kits Hobby Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=mars+rover+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mars-water-systems-mining-and-using-water-ice-on-mars-for-survival-ai-bloom-abundance-superintel-mars-rover-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mars rover model" data-ebay-reference="mars-water-systems-mining-and-using-water-ice-on-mars-for-survival-ai-bloom-abundance-superintel-mars-rover-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for mars rover model">Search<span data-ebay-domain-label>eBay.co.uk</span>: mars rover model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=mars+rover+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mars-water-systems-mining-and-using-water-ice-on-mars-for-survival-ai-bloom-abundance-superintel-mars-rover-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mars rover model" data-ebay-reference="mars-water-systems-mining-and-using-water-ice-on-mars-for-survival-ai-bloom-abundance-superintel-mars-rover-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=mars+rover+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mars-water-systems-mining-and-using-water-ice-on-mars-for-survival-ai-bloom-abundance-superintel-mars-rover-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mars rover model" data-ebay-reference="mars-water-systems-mining-and-using-water-ice-on-mars-for-survival-ai-bloom-abundance-superintel-mars-rover-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CaDA Mars Rover NASA 192pc Brick Model Age 8+ - C56045W"><img src="{{ '/assets/images/marketplace-covers/936587d0e023d9968b92.jpg' | relative_url }}" alt="Listing image for CaDA Mars Rover NASA 192pc Brick Model Age 8+ - C56045W" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=mars+rover+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mars-water-systems-mining-and-using-water-ice-on-mars-for-survival-ai-bloom-abundance-superintel-mars-rover-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mars rover model" data-ebay-reference="mars-water-systems-mining-and-using-water-ice-on-mars-for-survival-ai-bloom-abundance-superintel-mars-rover-model" target="_blank" rel="sponsored noopener noreferrer">CaDA Mars Rover NASA 192pc Brick Model Age 8+ - C56045W</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=mars+rover+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mars-water-systems-mining-and-using-water-ice-on-mars-for-survival-ai-bloom-abundance-superintel-mars-rover-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mars rover model" data-ebay-reference="mars-water-systems-mining-and-using-water-ice-on-mars-for-survival-ai-bloom-abundance-superintel-mars-rover-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for mars rover model">Search <span data-ebay-domain-label>eBay.co.uk</span>: mars rover model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=mars+rover+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mars-water-systems-mining-and-using-water-ice-on-mars-for-survival-ai-bloom-abundance-superintel-mars-rover-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mars rover model" data-ebay-reference="mars-water-systems-mining-and-using-water-ice-on-mars-for-survival-ai-bloom-abundance-superintel-mars-rover-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=mars+rover+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mars-water-systems-mining-and-using-water-ice-on-mars-for-survival-ai-bloom-abundance-superintel-mars-rover-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mars rover model" data-ebay-reference="mars-water-systems-mining-and-using-water-ice-on-mars-for-survival-ai-bloom-abundance-superintel-mars-rover-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=mars+rover+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mars-water-systems-mining-and-using-water-ice-on-mars-for-survival-ai-bloom-abundance-superintel-mars-rover-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mars rover model" data-ebay-reference="mars-water-systems-mining-and-using-water-ice-on-mars-for-survival-ai-bloom-abundance-superintel-mars-rover-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CaDA Mars Rover NASA 192pc Brick Model Age 8+ - C56045W"><img src="{{ '/assets/images/marketplace-covers/936587d0e023d9968b92.jpg' | relative_url }}" alt="Listing image for CaDA Mars Rover NASA 192pc Brick Model Age 8+ - C56045W" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=mars+rover+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mars-water-systems-mining-and-using-water-ice-on-mars-for-survival-ai-bloom-abundance-superintel-mars-rover-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mars rover model" data-ebay-reference="mars-water-systems-mining-and-using-water-ice-on-mars-for-survival-ai-bloom-abundance-superintel-mars-rover-model" target="_blank" rel="sponsored noopener noreferrer">CaDA Mars Rover NASA 192pc Brick Model Age 8+ - C56045W</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=mars+rover+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mars-water-systems-mining-and-using-water-ice-on-mars-for-survival-ai-bloom-abundance-superintel-mars-rover-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mars rover model" data-ebay-reference="mars-water-systems-mining-and-using-water-ice-on-mars-for-survival-ai-bloom-abundance-superintel-mars-rover-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for mars rover model">Search<span data-ebay-domain-label>eBay.co.uk</span>: mars rover model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=mars+rover+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mars-water-systems-mining-and-using-water-ice-on-mars-for-survival-ai-bloom-abundance-superintel-mars-rover-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mars rover model" data-ebay-reference="mars-water-systems-mining-and-using-water-ice-on-mars-for-survival-ai-bloom-abundance-superintel-mars-rover-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=mars+rover+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mars-water-systems-mining-and-using-water-ice-on-mars-for-survival-ai-bloom-abundance-superintel-mars-rover-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mars rover model" data-ebay-reference="mars-water-systems-mining-and-using-water-ice-on-mars-for-survival-ai-bloom-abundance-superintel-mars-rover-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -529,7 +529,7 @@ Within the broader picture of humanity’s long‑term future — including visi
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -549,7 +549,7 @@ Within the broader picture of humanity’s long‑term future — including visi
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -581,7 +581,7 @@ Within the broader picture of humanity’s long‑term future — including visi
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -633,7 +633,7 @@ Within the broader picture of humanity’s long‑term future — including visi
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -678,7 +678,7 @@ Within the broader picture of humanity’s long‑term future — including visi
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -719,158 +719,158 @@ Within the broader picture of humanity’s long‑term future — including visi
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nasa.gov  
    Title: Overview: In-Situ Resource Utilization  
-   Link: <a href="https://www.nasa.gov/overview-in-situ-resource-utilization/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/overview-in-situ-resource-utilization/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Overview: In-Situ Resource Utilization - NASAJuly 26, 2023...</p></details>
+   Link:<a href="https://www.nasa.gov/overview-in-situ-resource-utilization/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/overview-in-situ-resource-utilization/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Overview: In-Situ Resource Utilization - NASAJuly 26, 2023...</p></details>
    Published: July 26, 2023  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nasa.gov  
    Title: In-Situ Resource Utilization  
-   Link: <a href="https://www.nasa.gov/reference/jsc-in-situ-resource-utilization/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/reference/jsc-in-situ-resource-utilization/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>In-Situ Resource Utilization - NASA...</p></details>
+   Link:<a href="https://www.nasa.gov/reference/jsc-in-situ-resource-utilization/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/reference/jsc-in-situ-resource-utilization/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In-Situ Resource Utilization - NASA...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: science.nasa.gov  
    Title: Science SWIM Map Shows Subsurface Water Ice on Mars  
-   Link: <a href="https://science.nasa.gov/resource/swim-map-shows-subsurface-water-ice-on-mars/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/resource/swim-map-shows-subsurface-water-ice-on-mars/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceSWIM Map Shows Subsurface Water Ice on Mars - NASA ScienceOctober 26, 2023...</p></details>
+   Link:<a href="https://science.nasa.gov/resource/swim-map-shows-subsurface-water-ice-on-mars/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/resource/swim-map-shows-subsurface-water-ice-on-mars/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceSWIM Map Shows Subsurface Water Ice on Mars - NASA ScienceOctober 26, 2023...</p></details>
    Published: October 26, 2023  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: science.nasa.gov  
    Title: Science Distribution of Buried Ice on Mars  
-   Link: <a href="https://science.nasa.gov/photojournal/distribution-of-buried-ice-on-mars/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/photojournal/distribution-of-buried-ice-on-mars/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>of Buried Ice on Mars - NASA ScienceOctober 26, 2023 — Photojournal Navigation 2 Min Read DISTRIBUTION OF BURIED ICE ON MARS Image: These...</p></details>
+   Link:<a href="https://science.nasa.gov/photojournal/distribution-of-buried-ice-on-mars/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/photojournal/distribution-of-buried-ice-on-mars/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of Buried Ice on Mars - NASA ScienceOctober 26, 2023 — Photojournal Navigation 2 Min Read DISTRIBUTION OF BURIED ICE ON MARS Image: These...</p></details>
    Published: October 26, 2023  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0273117725012864" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0273117725012864</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Martian Aqua: Occurrence of Water and Appraisal of Acquisition Technologies - ScienceDirectJanuary 1, 2026...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0273117725012864" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0273117725012864</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Martian Aqua: Occurrence of Water and Appraisal of Acquisition Technologies - ScienceDirectJanuary 1, 2026...</p></details>
    Published: January 1, 2026  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: jpl.nasa.gov  
-   Link: <a href="https://www.jpl.nasa.gov/news/nasas-treasure-map-for-water-ice-on-mars/" target="_blank" rel="noopener noreferrer nofollow">https://www.jpl.nasa.gov/news/nasas-treasure-map-for-water-ice-on-mars/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Jet Propulsion Laboratory (JPL)NASA&#x27;s Treasure Map for Water Ice on Mars | NASA Jet Propulsion Laboratory (JPL)December 10, 2019...</p></details>
+   Link:<a href="https://www.jpl.nasa.gov/news/nasas-treasure-map-for-water-ice-on-mars/" target="_blank" rel="noopener noreferrer nofollow">https://www.jpl.nasa.gov/news/nasas-treasure-map-for-water-ice-on-mars/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Jet Propulsion Laboratory (JPL)NASA&#x27;s Treasure Map for Water Ice on Mars | NASA Jet Propulsion Laboratory (JPL)December 10, 2019...</p></details>
    Published: December 10, 2019  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: techport.nasa.gov  
    Title: Tech Port NASA Tech Port  
-   Link: <a href="https://techport.nasa.gov/projects/93846" target="_blank" rel="noopener noreferrer nofollow">https://techport.nasa.gov/projects/93846</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA TechPortNASA TechPort - ProjectDecember 2, 2025...</p></details>
+   Link:<a href="https://techport.nasa.gov/projects/93846" target="_blank" rel="noopener noreferrer nofollow">https://techport.nasa.gov/projects/93846</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA TechPortNASA TechPort - ProjectDecember 2, 2025...</p></details>
    Published: December 2, 2025  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S2468896726000066" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S2468896726000066</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A systems approach to reliable and sustainable water utilization for life support in Martian greenhouses leveraging medusae...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S2468896726000066" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S2468896726000066</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A systems approach to reliable and sustainable water utilization for life support in Martian greenhouses leveraging medusae...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2404.00800" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2404.00800</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Methane and oxygen from energy-efficient, low temperature in situ resource utilization enables missions to MarsMarch 31, 2024...</p></details>
+   Link:<a href="https://arxiv.org/abs/2404.00800" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2404.00800</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Methane and oxygen from energy-efficient, low temperature in situ resource utilization enables missions to MarsMarch 31, 2024...</p></details>
    Published: March 31, 2024  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nasa.gov  
-   Link: <a href="https://www.nasa.gov/general/large-scale-water-mining-operations-on-mars/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/general/large-scale-water-mining-operations-on-mars/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>January 4, 2024 — ADD-ON TO LARGE-SCALE WATER MINING OPERATIONS ON MARS TO SCREEN FOR INTRODUCED AND ALIEN LIFE Image: The headshot i...</p></details>
+   Link:<a href="https://www.nasa.gov/general/large-scale-water-mining-operations-on-mars/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/general/large-scale-water-mining-operations-on-mars/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>January 4, 2024 — ADD-ON TO LARGE-SCALE WATER MINING OPERATIONS ON MARS TO SCREEN FOR INTRODUCED AND ALIEN LIFE Image: The headshot i...</p></details>
    Published: January 4, 2024  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: sciencedirect.com  
    Title: Mars in situ resource utilization: a review  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0032063319301618" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0032063319301618</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>March 1, 2020 — PLANETARY AND SPACE SCIENCE Volume 182, March 2020, 104824 MARS IN SITU RESOURCE UTILIZATION: A REVIEW https...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0032063319301618" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0032063319301618</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>March 1, 2020 — PLANETARY AND SPACE SCIENCE Volume 182, March 2020, 104824 MARS IN SITU RESOURCE UTILIZATION: A REVIEW https...</p></details>
    Published: March 1, 2020  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nasa.gov  
-   Link: <a href="https://www.nasa.gov/directorates/stmd/space-tech-research-grants/low-mass-low-[power" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/directorates/stmd/space-tech-research-grants/low-mass-low-[power</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>November 17, 2017 — LOW MASS, LOW POWER, NON-MECHANICAL EXCAVATION OF GYPSUM AND OTHER EVAPORITES FOR WATER PRODUCTION ON MARS Image...</p></details>
+   Link:<a href="https://www.nasa.gov/directorates/stmd/space-tech-research-grants/low-mass-low-[power" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/directorates/stmd/space-tech-research-grants/low-mass-low-[power</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>November 17, 2017 — LOW MASS, LOW POWER, NON-MECHANICAL EXCAVATION OF GYPSUM AND OTHER EVAPORITES FOR WATER PRODUCTION ON MARS Image...</p></details>
    Published: November 17, 2017  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: ntrs.nasa.gov  
-   Link: <a href="https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20160005963.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20160005963.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In-Situ Resource Utilization for Enabling Sustained Human Presence on Mars - NASA Technical Reports Server (NTRS)April 1, 2016 — Frontier...</p></details>
+   Link:<a href="https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20160005963.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20160005963.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In-Situ Resource Utilization for Enabling Sustained Human Presence on Mars - NASA Technical Reports Server (NTRS)April 1, 2016 — Frontier...</p></details>
    Published: April 1, 2016  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0094576517305131" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0094576517305131</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ACTA ASTRONAUTICA Volume 138, September 2017, Pages 53-67 MARS COLONY IN SITU RESOURCE UTILIZATION: AN INTEGRATED ARCHITECTU...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0094576517305131" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0094576517305131</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ACTA ASTRONAUTICA Volume 138, September 2017, Pages 53-67 MARS COLONY IN SITU RESOURCE UTILIZATION: AN INTEGRATED ARCHITECTU...</p></details>
    Published: September 2017  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: Living Off the Land in Space: The Power of ISRU  
-   Link: <a href="https://www.youtube.com/watch?v=AVxW65sfY4I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AVxW65sfY4I</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Science Live: Moon to Mars Ice and Prospecting Challenge...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=AVxW65sfY4I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AVxW65sfY4I</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Science Live: Moon to Mars Ice and Prospecting Challenge...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: NASA Science Live: Moon to Mars Ice and Prospecting Challenge  
-   Link: <a href="https://www.youtube.com/watch?v=b7qNSaM_k6s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=b7qNSaM_k6s</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ISRU Technology Developments for Regolith Beneficiation and Water Extraction on [Moon and Mars](&amp;#123;&amp;#123; &#x27;moon-and-mars/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=b7qNSaM_k6s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=b7qNSaM_k6s</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ISRU Technology Developments for Regolith Beneficiation and Water Extraction on [Moon and Mars](&amp;#123;&amp;#123; &#x27;moon-and-mars/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
 
 ### Additional References
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: pubs.acs.org  
-   Link: <a href="https://pubs.acs.org/doi/10.1021/acssuschemeng.5c02413" target="_blank" rel="noopener noreferrer nofollow">https://pubs.acs.org/doi/10.1021/acssuschemeng.5c02413</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>WATER PRODUCTION AND PURIFICATION TECHNOLOGIES Mars harbors abundant water ice and hydrated minerals (such as montmorillonite, gypsum, an...</p></details>
+   Link:<a href="https://pubs.acs.org/doi/10.1021/acssuschemeng.5c02413" target="_blank" rel="noopener noreferrer nofollow">https://pubs.acs.org/doi/10.1021/acssuschemeng.5c02413</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WATER PRODUCTION AND PURIFICATION TECHNOLOGIES Mars harbors abundant water ice and hydrated minerals (such as montmorillonite, gypsum, an...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: orbitcodex.com  
-   Link: <a href="https://orbitcodex.com/knowledge-base/in-situ-resource-utilization" target="_blank" rel="noopener noreferrer nofollow">https://orbitcodex.com/knowledge-base/in-situ-resource-utilization</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ISRU — Living Off the Land in Space | Orbit CodexIN-SITU RESOURCE UTILIZATION ID: n168 In-situ resource utilization (ISRU) extracts and p...</p></details>
+   Link:<a href="https://orbitcodex.com/knowledge-base/in-situ-resource-utilization" target="_blank" rel="noopener noreferrer nofollow">https://orbitcodex.com/knowledge-base/in-situ-resource-utilization</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ISRU — Living Off the Land in Space | Orbit CodexIN-SITU RESOURCE UTILIZATION ID: n168 In-situ resource utilization (ISRU) extracts and p...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: dl.iafastro.directory  
-   Link: <a href="https://dl.iafastro.directory/event/IAC-2024/paper/81449/" target="_blank" rel="noopener noreferrer nofollow">https://dl.iafastro.directory/event/IAC-2024/paper/81449/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>in-Situ resource utilization for sustainable manned exploration of Mars — IAF Digital LibraryWATER IN-SITU RESOURCE UTILIZATION FOR SUSTA...</p></details>
+   Link:<a href="https://dl.iafastro.directory/event/IAC-2024/paper/81449/" target="_blank" rel="noopener noreferrer nofollow">https://dl.iafastro.directory/event/IAC-2024/paper/81449/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>in-Situ resource utilization for sustainable manned exploration of Mars — IAF Digital LibraryWATER IN-SITU RESOURCE UTILIZATION FOR SUSTA...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: pureportal.strath.ac.uk  
-   Link: <a href="https://pureportal.strath.ac.uk/en/publications/martian-aqua-occurrence-of-water-and-appraisal-of-acquisition-tec/" target="_blank" rel="noopener noreferrer nofollow">https://pureportal.strath.ac.uk/en/publications/martian-aqua-occurrence-of-water-and-appraisal-of-acquisition-tec/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Inglezakis^{*} ^{*}Corresponding author for this work * Chemical And Process Engineering Research output: Contribu...</p></details>
+   Link:<a href="https://pureportal.strath.ac.uk/en/publications/martian-aqua-occurrence-of-water-and-appraisal-of-acquisition-tec/" target="_blank" rel="noopener noreferrer nofollow">https://pureportal.strath.ac.uk/en/publications/martian-aqua-occurrence-of-water-and-appraisal-of-acquisition-tec/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Inglezakis^{*} ^{*}Corresponding author for this work * Chemical And Process Engineering Research output: Contribu...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: strathprints.strath.ac.uk  
-   Link: <a href="https://strathprints.strath.ac.uk/94675/" target="_blank" rel="noopener noreferrer nofollow">https://strathprints.strath.ac.uk/94675/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(2026) Martian aqua: occurrence of water and appraisal of acquisition technologies. Advances in Space R...</p></details>
+   Link:<a href="https://strathprints.strath.ac.uk/94675/" target="_blank" rel="noopener noreferrer nofollow">https://strathprints.strath.ac.uk/94675/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(2026) Martian aqua: occurrence of water and appraisal of acquisition technologies. Advances in Space R...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: usgs.gov  
    Title: Ice resource mapping on Mars | U.S  
-   Link: <a href="https://www.usgs.gov/publications/ice-resource-mapping-mars" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/publications/ice-resource-mapping-mars</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Geological SurveyApril 28, 2023 — ICE RESOURCE MAPPING ON MARS April 28, 2023 This chapter explains the rationale for considering shallow...</p></details>
+   Link:<a href="https://www.usgs.gov/publications/ice-resource-mapping-mars" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/publications/ice-resource-mapping-mars</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Geological SurveyApril 28, 2023 — ICE RESOURCE MAPPING ON MARS April 28, 2023 This chapter explains the rationale for considering shallow...</p></details>
    Published: April 28, 2023  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: paragonsdc.com  
-   Link: <a href="https://www.paragonsdc.com/what-we-do/in-situ-resource-utilization-isru/" target="_blank" rel="noopener noreferrer nofollow">https://www.paragonsdc.com/what-we-do/in-situ-resource-utilization-isru/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The technology development for Paragon’s flagship “system of s...</p></details>
+   Link:<a href="https://www.paragonsdc.com/what-we-do/in-situ-resource-utilization-isru/" target="_blank" rel="noopener noreferrer nofollow">https://www.paragonsdc.com/what-we-do/in-situ-resource-utilization-isru/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The technology development for Paragon’s flagship “system of s...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=IrX9FKSwYE0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IrX9FKSwYE0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA&#x27;s Moon to Mars Ice &amp; Prospecting Challenge...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=IrX9FKSwYE0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IrX9FKSwYE0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA&#x27;s Moon to Mars Ice &amp; Prospecting Challenge...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: marspedia.org  
    Title: In-situ resource utilization  
-   Link: <a href="https://marspedia.org/In-situ_resource_utilization" target="_blank" rel="noopener noreferrer nofollow">https://marspedia.org/In-situ_resource_utilization</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Copyright R. Heidmann The use of local resources is called in-situ resource utilization or ISRU. This...</p></details>
+   Link:<a href="https://marspedia.org/In-situ_resource_utilization" target="_blank" rel="noopener noreferrer nofollow">https://marspedia.org/In-situ_resource_utilization</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Copyright R. Heidmann The use of local resources is called in-situ resource utilization or ISRU. This...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
    Title: ISRU: In-Situ Resource Utilization  
-   Link: <a href="https://www.youtube.com/watch?v=w2hDRnXGUdI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=w2hDRnXGUdI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Living Off the Land in Space: The Power of ISRU...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=w2hDRnXGUdI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=w2hDRnXGUdI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Living Off the Land in Space: The Power of ISRU...</p></details>

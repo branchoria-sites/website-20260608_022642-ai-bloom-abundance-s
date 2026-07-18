@@ -352,194 +352,194 @@ Meeting this test requires deliberate policy choices — for example, **requirin
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8KOYyfZbPzo" title="How the Electrical Grid Is Being Rebuilt for AI | Bloomberg Primer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8KOYyfZbPzo" target="_blank" rel="noopener noreferrer">How the Electrical Grid Is Being Rebuilt for AI | Bloomberg Primer</a></p><p class="youtube-embed-meta">Channel: Bloomberg Originals &middot; Views: 419.3K &middot; Uploaded: May 2026 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8KOYyfZbPzo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8KOYyfZbPzo">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can AI grow without dirty power?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can AI grow without dirty power?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human Compatible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BKVPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Human Compatible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human Compatible">Human Compatible</a>
-        </h4>
-        <p class="fr-book-author">By Stuart Russell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human Compatible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BKVPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Human Compatible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human Compatible">Human Compatible</a>
+</h4>
+<p class="fr-book-author">By Stuart Russell</p>
         
-        <p class="fr-book-desc">Explores how powerful AI could advance humanity if aligned with human values.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how powerful AI could advance humanity if aligned with human values.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oneWAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
-        </h4>
-        <p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oneWAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
+</h4>
+<p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
         
-        <p class="fr-book-desc">Supports retrieval practice, effortful learning and staged support.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports retrieval practice, effortful learning and staged support.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Coming Wave on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b0y5zwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Coming Wave" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Coming Wave">The Coming Wave</a>
-        </h4>
-        <p class="fr-book-author">By Mustafa Suleyman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Coming Wave on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b0y5zwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Coming Wave" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Coming Wave">The Coming Wave</a>
+</h4>
+<p class="fr-book-author">By Mustafa Suleyman</p>
         
-        <p class="fr-book-desc">Directly addresses whether advanced AI can deliver broad civilisational benefits while remaining governable.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses whether advanced AI can deliver broad civilisational benefits while remaining governable.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Pragmatic+Programmer+by+Andrew+Hunt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Pragmatic Programmer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5wBQEp6ruIAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Pragmatic Programmer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Pragmatic+Programmer+by+Andrew+Hunt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Pragmatic Programmer">The Pragmatic Programmer</a>
-        </h4>
-        <p class="fr-book-author">By Andrew Hunt, David Thomas</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Emphasises debugging, problem-solving and independent reasoning rather than accepting solutions blindly.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Pragmatic+Programmer+by+Andrew+Hunt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Pragmatic+Programmer+by+Andrew+Hunt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Pragmatic Programmer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5wBQEp6ruIAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Pragmatic Programmer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Pragmatic+Programmer+by+Andrew+Hunt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Pragmatic Programmer">The Pragmatic Programmer</a>
+</h4>
+<p class="fr-book-author">By Andrew Hunt, David Thomas</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Emphasises debugging, problem-solving and independent reasoning rather than accepting solutions blindly.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Pragmatic+Programmer+by+Andrew+Hunt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+Compatible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human Compatible</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Coming+Wave&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Coming Wave</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+Compatible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human Compatible</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Coming+Wave&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Coming Wave</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-grow-without-dirty-power-data-center-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster" data-ebay-reference="can-ai-grow-without-dirty-power-data-center-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Data Center Garden Work Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/wO0AAeSwoolpwYZn/s-l225.jpg" alt="Listing image for Data Center Garden Work Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-grow-without-dirty-power-data-center-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster" data-ebay-reference="can-ai-grow-without-dirty-power-data-center-poster" target="_blank" rel="sponsored noopener noreferrer">Data Center Garden Work Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-grow-without-dirty-power-data-center-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster" data-ebay-reference="can-ai-grow-without-dirty-power-data-center-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for data center poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: data center poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-grow-without-dirty-power-data-center-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster" data-ebay-reference="can-ai-grow-without-dirty-power-data-center-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-grow-without-dirty-power-data-center-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster" data-ebay-reference="can-ai-grow-without-dirty-power-data-center-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Data Center Garden Work Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/wO0AAeSwoolpwYZn/s-l225.jpg" alt="Listing image for Data Center Garden Work Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-grow-without-dirty-power-data-center-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster" data-ebay-reference="can-ai-grow-without-dirty-power-data-center-poster" target="_blank" rel="sponsored noopener noreferrer">Data Center Garden Work Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-grow-without-dirty-power-data-center-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster" data-ebay-reference="can-ai-grow-without-dirty-power-data-center-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for data center poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: data center poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-grow-without-dirty-power-data-center-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster" data-ebay-reference="can-ai-grow-without-dirty-power-data-center-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-grow-without-dirty-power-data-center-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster" data-ebay-reference="can-ai-grow-without-dirty-power-data-center-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Abandoned Data Center Featuring Rac Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/YIYAAeSwc6VocxY2/s-l225.jpg" alt="Listing image for Abandoned Data Center Featuring Rac Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-grow-without-dirty-power-data-center-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster" data-ebay-reference="can-ai-grow-without-dirty-power-data-center-poster" target="_blank" rel="sponsored noopener noreferrer">Abandoned Data Center Featuring Rac Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-grow-without-dirty-power-data-center-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster" data-ebay-reference="can-ai-grow-without-dirty-power-data-center-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for data center poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: data center poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-grow-without-dirty-power-data-center-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster" data-ebay-reference="can-ai-grow-without-dirty-power-data-center-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-grow-without-dirty-power-data-center-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster" data-ebay-reference="can-ai-grow-without-dirty-power-data-center-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Abandoned Data Center Featuring Rac Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/YIYAAeSwc6VocxY2/s-l225.jpg" alt="Listing image for Abandoned Data Center Featuring Rac Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-grow-without-dirty-power-data-center-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster" data-ebay-reference="can-ai-grow-without-dirty-power-data-center-poster" target="_blank" rel="sponsored noopener noreferrer">Abandoned Data Center Featuring Rac Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-grow-without-dirty-power-data-center-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster" data-ebay-reference="can-ai-grow-without-dirty-power-data-center-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for data center poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: data center poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-grow-without-dirty-power-data-center-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster" data-ebay-reference="can-ai-grow-without-dirty-power-data-center-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-grow-without-dirty-power-data-center-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster" data-ebay-reference="can-ai-grow-without-dirty-power-data-center-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for An Advanced Futuristic Data Center Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/1yYAAeSwSy1odvC-/s-l225.jpg" alt="Listing image for An Advanced Futuristic Data Center Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-grow-without-dirty-power-data-center-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster" data-ebay-reference="can-ai-grow-without-dirty-power-data-center-poster" target="_blank" rel="sponsored noopener noreferrer">An Advanced Futuristic Data Center Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-grow-without-dirty-power-data-center-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster" data-ebay-reference="can-ai-grow-without-dirty-power-data-center-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for data center poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: data center poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-grow-without-dirty-power-data-center-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster" data-ebay-reference="can-ai-grow-without-dirty-power-data-center-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-grow-without-dirty-power-data-center-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster" data-ebay-reference="can-ai-grow-without-dirty-power-data-center-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for An Advanced Futuristic Data Center Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/1yYAAeSwSy1odvC-/s-l225.jpg" alt="Listing image for An Advanced Futuristic Data Center Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-grow-without-dirty-power-data-center-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster" data-ebay-reference="can-ai-grow-without-dirty-power-data-center-poster" target="_blank" rel="sponsored noopener noreferrer">An Advanced Futuristic Data Center Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-grow-without-dirty-power-data-center-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster" data-ebay-reference="can-ai-grow-without-dirty-power-data-center-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for data center poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: data center poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-grow-without-dirty-power-data-center-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster" data-ebay-reference="can-ai-grow-without-dirty-power-data-center-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-grow-without-dirty-power-data-center-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster" data-ebay-reference="can-ai-grow-without-dirty-power-data-center-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Advanced Data Center Basking In Coo Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/vHUAAeSwTDZocxW2/s-l225.jpg" alt="Listing image for Advanced Data Center Basking In Coo Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-grow-without-dirty-power-data-center-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster" data-ebay-reference="can-ai-grow-without-dirty-power-data-center-poster" target="_blank" rel="sponsored noopener noreferrer">Advanced Data Center Basking In Coo Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-grow-without-dirty-power-data-center-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster" data-ebay-reference="can-ai-grow-without-dirty-power-data-center-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for data center poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: data center poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-grow-without-dirty-power-data-center-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster" data-ebay-reference="can-ai-grow-without-dirty-power-data-center-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-grow-without-dirty-power-data-center-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster" data-ebay-reference="can-ai-grow-without-dirty-power-data-center-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-grow-without-dirty-power-data-center-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster" data-ebay-reference="can-ai-grow-without-dirty-power-data-center-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Advanced Data Center Basking In Coo Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/vHUAAeSwTDZocxW2/s-l225.jpg" alt="Listing image for Advanced Data Center Basking In Coo Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-grow-without-dirty-power-data-center-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster" data-ebay-reference="can-ai-grow-without-dirty-power-data-center-poster" target="_blank" rel="sponsored noopener noreferrer">Advanced Data Center Basking In Coo Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-grow-without-dirty-power-data-center-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster" data-ebay-reference="can-ai-grow-without-dirty-power-data-center-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for data center poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: data center poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-grow-without-dirty-power-data-center-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster" data-ebay-reference="can-ai-grow-without-dirty-power-data-center-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-grow-without-dirty-power-data-center-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster" data-ebay-reference="can-ai-grow-without-dirty-power-data-center-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -555,7 +555,7 @@ Meeting this test requires deliberate policy choices — for example, **requirin
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -575,7 +575,7 @@ Meeting this test requires deliberate policy choices — for example, **requirin
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -607,7 +607,7 @@ Meeting this test requires deliberate policy choices — for example, **requirin
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -659,7 +659,7 @@ Meeting this test requires deliberate policy choices — for example, **requirin
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -704,7 +704,7 @@ Meeting this test requires deliberate policy choices — for example, **requirin
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -745,142 +745,142 @@ Meeting this test requires deliberate policy choices — for example, **requirin
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: iea.org  
-   Link: <a href="https://www.iea.org/reports/energy-and-ai/executive-summary%C2%A0" target="_blank" rel="noopener noreferrer nofollow">https://www.iea.org/reports/energy-and-ai/executive-summary%C2%A0</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Executive summary – Energy and AI – Analysis - IEA...</p></details>
+   Link:<a href="https://www.iea.org/reports/energy-and-ai/executive-summary%C2%A0" target="_blank" rel="noopener noreferrer nofollow">https://www.iea.org/reports/energy-and-ai/executive-summary%C2%A0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Executive summary – Energy and AI – Analysis - IEA...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: iea.org  
    Title: Energy demand from AI – Energy and AI – Analysis  
-   Link: <a href="https://www.iea.org/reports/energy-and-ai/energy-demand-from-ai" target="_blank" rel="noopener noreferrer nofollow">https://www.iea.org/reports/energy-and-ai/energy-demand-from-ai</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Energy demand from AI – Energy and AI – Analysis - IEA...</p></details>
+   Link:<a href="https://www.iea.org/reports/energy-and-ai/energy-demand-from-ai" target="_blank" rel="noopener noreferrer nofollow">https://www.iea.org/reports/energy-and-ai/energy-demand-from-ai</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Energy demand from AI – Energy and AI – Analysis - IEA...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: iea.org  
    Title: Energy supply for AI – Energy and AI – Analysis  
-   Link: <a href="https://www.iea.org/reports/energy-and-ai/energy-supply-for-ai" target="_blank" rel="noopener noreferrer nofollow">https://www.iea.org/reports/energy-and-ai/energy-supply-for-ai</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Energy supply for AI – Energy and AI – Analysis - IEA...</p></details>
+   Link:<a href="https://www.iea.org/reports/energy-and-ai/energy-supply-for-ai" target="_blank" rel="noopener noreferrer nofollow">https://www.iea.org/reports/energy-and-ai/energy-supply-for-ai</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Energy supply for AI – Energy and AI – Analysis - IEA...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reuters.com  
    Title: AI data centers are forcing dirty 'peaker' power plants back into service  
-   Link: <a href="https://www.reuters.com/business/energy/ai-data-centers-are-forcing-obsolete-peaker-power-plants-back-into-service-2025-12-23/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/energy/ai-data-centers-are-forcing-obsolete-peaker-power-plants-back-into-service-2025-12-23/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>These plants, like the eight-unit petroleum-fired Fisk plant in Chicago, are designed to operate only during high demand but are now bein...</p></details>
+   Link:<a href="https://www.reuters.com/business/energy/ai-data-centers-are-forcing-obsolete-peaker-power-plants-back-into-service-2025-12-23/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/energy/ai-data-centers-are-forcing-obsolete-peaker-power-plants-back-into-service-2025-12-23/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>These plants, like the eight-unit petroleum-fired Fisk plant in Chicago, are designed to operate only during high demand but are now bein...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2604.06198" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2604.06198</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Concentrated siting of AI data centers drives regional power-system stress under rising global compute demandMarch 13, 2026...</p></details>
+   Link:<a href="https://arxiv.org/abs/2604.06198" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2604.06198</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Concentrated siting of AI data centers drives regional power-system stress under rising global compute demandMarch 13, 2026...</p></details>
    Published: March 13, 2026  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/energy/comments/1s37y6z/trial_shows_ai_data_centres_can_participate_in/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/energy/comments/1s37y6z/trial_shows_ai_data_centres_can_participate_in/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Trial shows AI data centres can participate in demand-response and stabilize the grid, reducing the requirement for grid upgradesMa...</p></details>
+   Link:<a href="https://www.reddit.com/r/energy/comments/1s37y6z/trial_shows_ai_data_centres_can_participate_in/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/energy/comments/1s37y6z/trial_shows_ai_data_centres_can_participate_in/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Trial shows AI data centres can participate in demand-response and stabilize the grid, reducing the requirement for grid upgradesMa...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: axios.com  
-   Link: <a href="https://www.axios.com/2026/05/27/tech-giants-data-center-climate-initiative" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2026/05/27/tech-giants-data-center-climate-initiative</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>With AI infrastructure rapidly increasing energy consumption and impacting climate goals, this initiative seeks to channel innovation tow...</p></details>
+   Link:<a href="https://www.axios.com/2026/05/27/tech-giants-data-center-climate-initiative" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2026/05/27/tech-giants-data-center-climate-initiative</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>With AI infrastructure rapidly increasing energy consumption and impacting climate goals, this initiative seeks to channel innovation tow...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/business/retail-consumer/energy-use-forcing-rethink-ai-chip-design-tsmc-says-2026-05-28/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/retail-consumer/energy-use-forcing-rethink-ai-chip-design-tsmc-says-2026-05-28/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Kevin Zhang, TSMC’s Senior VP of Business Development, noted that customers — including those in mobile, IoT, and high-performance AI dat...</p></details>
+   Link:<a href="https://www.reuters.com/business/retail-consumer/energy-use-forcing-rethink-ai-chip-design-tsmc-says-2026-05-28/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/retail-consumer/energy-use-forcing-rethink-ai-chip-design-tsmc-says-2026-05-28/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kevin Zhang, TSMC’s Senior VP of Business Development, noted that customers — including those in mobile, IoT, and high-performance AI dat...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: energycosts.co.uk  
    Title: Energy Costs.co.uk Will AI Data Centres Push Up UK Electricity Bills?  
-   Link: <a href="https://www.energycosts.co.uk/articles/ai-data-centres-electricity-bills/" target="_blank" rel="noopener noreferrer nofollow">https://www.energycosts.co.uk/articles/ai-data-centres-electricity-bills/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Will AI Data Centres Push Up UK Electricity Bills?May 5, 2026...</p></details>
+   Link:<a href="https://www.energycosts.co.uk/articles/ai-data-centres-electricity-bills/" target="_blank" rel="noopener noreferrer nofollow">https://www.energycosts.co.uk/articles/ai-data-centres-electricity-bills/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Will AI Data Centres Push Up UK Electricity Bills?May 5, 2026...</p></details>
    Published: May 5, 2026  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: iea.org  
-   Link: <a href="https://www.iea.org/news/ai-is-set-to-drive-surging-electricity-demand-from-data-centres-while-offering-the-potential-to-transform-how-the-energy-sector-works?_bhlid=a143b03d78b92f4b696509562ec3fafd5e06d86a" target="_blank" rel="noopener noreferrer nofollow">https://www.iea.org/news/ai-is-set-to-drive-surging-electricity-demand-from-data-centres-while-offering-the-potential-to-transform-how-the-energy-sector-works?_bhlid=a143b03d78b92f4b696509562ec3fafd5e06d86a</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI is set to drive surging electricity demand from data centres while offering the potential to transform how the energy sector works - N...</p></details>
+   Link:<a href="https://www.iea.org/news/ai-is-set-to-drive-surging-electricity-demand-from-data-centres-while-offering-the-potential-to-transform-how-the-energy-sector-works?_bhlid=a143b03d78b92f4b696509562ec3fafd5e06d86a" target="_blank" rel="noopener noreferrer nofollow">https://www.iea.org/news/ai-is-set-to-drive-surging-electricity-demand-from-data-centres-while-offering-the-potential-to-transform-how-the-energy-sector-works?_bhlid=a143b03d78b92f4b696509562ec3fafd5e06d86a</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI is set to drive surging electricity demand from data centres while offering the potential to transform how the energy sector works - N...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: iea.org  
    Title: data centres and data transmission networks  
-   Link: <a href="https://www.iea.org/energy-system/digitalisation/data-centres-and-data-transmission-networks" target="_blank" rel="noopener noreferrer nofollow">https://www.iea.org/energy-system/digitalisation/data-centres-and-data-transmission-networks</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Data centres &amp; networks - IEAJuly 11, 2023 — DATA CENTRES AND DATA TRANSMISSION NETWORKS Overview Tracking Programmes TRACKING DATA CENTR...</p></details>
+   Link:<a href="https://www.iea.org/energy-system/digitalisation/data-centres-and-data-transmission-networks" target="_blank" rel="noopener noreferrer nofollow">https://www.iea.org/energy-system/digitalisation/data-centres-and-data-transmission-networks</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Data centres &amp; networks - IEAJuly 11, 2023 — DATA CENTRES AND DATA TRANSMISSION NETWORKS Overview Tracking Programmes TRACKING DATA CENTR...</p></details>
    Published: July 11, 2023  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: iea.org  
-   Link: <a href="https://www.iea.org/reports/key-questions-on-energy-and-ai/executive-summary?_bhlid=10646f272364cf3af59c0fa8f3886b1cfe01e627" target="_blank" rel="noopener noreferrer nofollow">https://www.iea.org/reports/key-questions-on-energy-and-ai/executive-summary?_bhlid=10646f272364cf3af59c0fa8f3886b1cfe01e627</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>summary – Key Questions on Energy and AI – Analysis - IEADownload full report CITE REPORT IEA (2026), Key Questions on Energy and AI, IEA...</p></details>
+   Link:<a href="https://www.iea.org/reports/key-questions-on-energy-and-ai/executive-summary?_bhlid=10646f272364cf3af59c0fa8f3886b1cfe01e627" target="_blank" rel="noopener noreferrer nofollow">https://www.iea.org/reports/key-questions-on-energy-and-ai/executive-summary?_bhlid=10646f272364cf3af59c0fa8f3886b1cfe01e627</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>summary – Key Questions on Energy and AI – Analysis - IEADownload full report CITE REPORT IEA (2026), Key Questions on Energy and AI, IEA...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: publicpower.org  
-   Link: <a href="https://www.publicpower.org/periodical/article/epri-report-examines-power-demand-data-centers-artificial-intelligence" target="_blank" rel="noopener noreferrer nofollow">https://www.publicpower.org/periodical/article/epri-report-examines-power-demand-data-centers-artificial-intelligence</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>American Public Power AssociationEPRI Report Examines Power Demand from Data Centers, Artificial Intelligence | American Public Power Ass...</p></details>
+   Link:<a href="https://www.publicpower.org/periodical/article/epri-report-examines-power-demand-data-centers-artificial-intelligence" target="_blank" rel="noopener noreferrer nofollow">https://www.publicpower.org/periodical/article/epri-report-examines-power-demand-data-centers-artificial-intelligence</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>American Public Power AssociationEPRI Report Examines Power Demand from Data Centers, Artificial Intelligence | American Public Power Ass...</p></details>
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: ecb.europa.eu  
-   Link: <a href="https://www.ecb.europa.eu/press/economic-bulletin/focus/2025/html/ecb.ebbox202502_03~8eba688e29.en.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ecb.europa.eu/press/economic-bulletin/focus/2025/html/ecb.ebbox202502_03~8eba688e29.en.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>increasing energy demand of artificial intelligence and its impact on commodity prices* * * * * Vlad BurianArthur Stalla-Bourdillon THE I...</p></details>
+   Link:<a href="https://www.ecb.europa.eu/press/economic-bulletin/focus/2025/html/ecb.ebbox202502_03~8eba688e29.en.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ecb.europa.eu/press/economic-bulletin/focus/2025/html/ecb.ebbox202502_03~8eba688e29.en.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>increasing energy demand of artificial intelligence and its impact on commodity prices* * * * * Vlad BurianArthur Stalla-Bourdillon THE I...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/1996-1073/19/3/722" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/1996-1073/19/3/722</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ENERGY PROFILES OF AI DATA CENTERS 2.1. ENERGY CONSUMPTION STRUCTURE AND EFFICIENCY METRICS Historically, data center electricity consump...</p></details>
+   Link:<a href="https://www.mdpi.com/1996-1073/19/3/722" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/1996-1073/19/3/722</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ENERGY PROFILES OF AI DATA CENTERS 2.1. ENERGY CONSUMPTION STRUCTURE AND EFFICIENCY METRICS Historically, data center electricity consump...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: ifri.org  
    Title: A I, Data Centers and Energy Demand: Reassessing and Exploring the Trends | Ifri  
-   Link: <a href="https://www.ifri.org/en/papers/ai-data-centers-and-energy-demand-reassessing-and-exploring-trends-0" target="_blank" rel="noopener noreferrer nofollow">https://www.ifri.org/en/papers/ai-data-centers-and-energy-demand-reassessing-and-exploring-trends-0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI, Data Centers and Energy Demand: Reassessing and Exploring the Trends | IfriFebruary 24, 2025 — AI, DATA CENTERS AND ENERGY DEMAND: RE...</p></details>
+   Link:<a href="https://www.ifri.org/en/papers/ai-data-centers-and-energy-demand-reassessing-and-exploring-trends-0" target="_blank" rel="noopener noreferrer nofollow">https://www.ifri.org/en/papers/ai-data-centers-and-energy-demand-reassessing-and-exploring-trends-0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI, Data Centers and Energy Demand: Reassessing and Exploring the Trends | IfriFebruary 24, 2025 — AI, DATA CENTERS AND ENERGY DEMAND: RE...</p></details>
    Published: February 24, 2025  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: carbonbrief.org  
    Title: A I: Five charts that put data-centre energy use – and emissions – into context  
-   Link: <a href="https://www.carbonbrief.org/ai-five-charts-that-put-data-centre-energy-use-and-emissions-into-context/" target="_blank" rel="noopener noreferrer nofollow">https://www.carbonbrief.org/ai-five-charts-that-put-data-centre-energy-use-and-emissions-into-context/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Servers at the data centre of the CERN in Geneva, Switzerland. Credit: EThamPhoto / Alamy Stock Photo OTHER TECHNOLOGIES 15 Se...</p></details>
+   Link:<a href="https://www.carbonbrief.org/ai-five-charts-that-put-data-centre-energy-use-and-emissions-into-context/" target="_blank" rel="noopener noreferrer nofollow">https://www.carbonbrief.org/ai-five-charts-that-put-data-centre-energy-use-and-emissions-into-context/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Servers at the data centre of the CERN in Geneva, Switzerland. Credit: EThamPhoto / Alamy Stock Photo OTHER TECHNOLOGIES 15 Se...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: www2.deloitte.com  
    Title: genai power consumption creates need for more sustainable data centers  
-   Link: <a href="https://www2.deloitte.com/us/en/insights/industry/technology/technology-media-and-telecom-predictions/2025/genai-power-consumption-creates-need-for-more-sustainable-data-centers.html" target="_blank" rel="noopener noreferrer nofollow">https://www2.deloitte.com/us/en/insights/industry/technology/technology-media-and-telecom-predictions/2025/genai-power-consumption-creates-need-for-more-sustainable-data-centers.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>center sustainability | Deloitte insightsNovember 19, 2024 — AS GENERATIVE AI ASKS FOR MORE POWER, DATA CENTERS SEEK MORE RELIABLE, CLEAN...</p></details>
+   Link:<a href="https://www2.deloitte.com/us/en/insights/industry/technology/technology-media-and-telecom-predictions/2025/genai-power-consumption-creates-need-for-more-sustainable-data-centers.html" target="_blank" rel="noopener noreferrer nofollow">https://www2.deloitte.com/us/en/insights/industry/technology/technology-media-and-telecom-predictions/2025/genai-power-consumption-creates-need-for-more-sustainable-data-centers.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>center sustainability | Deloitte insightsNovember 19, 2024 — AS GENERATIVE AI ASKS FOR MORE POWER, DATA CENTERS SEEK MORE RELIABLE, CLEAN...</p></details>
    Published: November 19, 2024  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: erm.com  
    Title: Data center power crunch: Meeting the power demands of the AI era  
-   Link: <a href="https://www.erm.com/insights/data-center-power-crunch-meeting-the-power-demands-of-the-ai-era/" target="_blank" rel="noopener noreferrer nofollow">https://www.erm.com/insights/data-center-power-crunch-meeting-the-power-demands-of-the-ai-era/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>July 23, 2025 — Blog Global 23 Jul 2025 DATA CENTER POWER CRUNCH: MEETING THE POWER DEMANDS OF THE AI ERA Image: Data center power crunch...</p></details>
+   Link:<a href="https://www.erm.com/insights/data-center-power-crunch-meeting-the-power-demands-of-the-ai-era/" target="_blank" rel="noopener noreferrer nofollow">https://www.erm.com/insights/data-center-power-crunch-meeting-the-power-demands-of-the-ai-era/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>July 23, 2025 — Blog Global 23 Jul 2025 DATA CENTER POWER CRUNCH: MEETING THE POWER DEMANDS OF THE AI ERA Image: Data center power crunch...</p></details>
    Published: July 23, 2025  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: energy.ec.europa.eu  
    Title: eu In focus: Data centres – an energy-hungry challenge  
-   Link: <a href="https://energy.ec.europa.eu/news/focus-data-centres-energy-hungry-challenge-2025-11-17_en?prefLang=nl" target="_blank" rel="noopener noreferrer nofollow">https://energy.ec.europa.eu/news/focus-data-centres-energy-hungry-challenge-2025-11-17_en?prefLang=nl</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>focus: Data centres – an energy-hungry challenge - EnergyNovember 17, 2025 — IN FOCUS: DATA CENTRES – AN ENERGY-HUNGRY CHALLENGE Image ©A...</p></details>
+   Link:<a href="https://energy.ec.europa.eu/news/focus-data-centres-energy-hungry-challenge-2025-11-17_en?prefLang=nl" target="_blank" rel="noopener noreferrer nofollow">https://energy.ec.europa.eu/news/focus-data-centres-energy-hungry-challenge-2025-11-17_en?prefLang=nl</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>focus: Data centres – an energy-hungry challenge - EnergyNovember 17, 2025 — IN FOCUS: DATA CENTRES – AN ENERGY-HUNGRY CHALLENGE Image ©A...</p></details>
    Published: November 17, 2025  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: deloitte.com  
    Title: Data center sustainability | Deloitte insights  
-   Link: <a href="https://www.deloitte.com/content/websites/us/en/insights/industry/technology/technology-media-and-telecom-predictions/2025/genai-power-consumption-creates-need-for-more-sustainable-data-centers.html" target="_blank" rel="noopener noreferrer nofollow">https://www.deloitte.com/content/websites/us/en/insights/industry/technology/technology-media-and-telecom-predictions/2025/genai-power-consumption-creates-need-for-more-sustainable-data-centers.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>November 19, 2024 — AS GENERATIVE AI ASKS FOR MORE POWER, DATA CENTERS SEEK MORE RELIABLE, CLEANER ENERGY SOLUTIONS THE TECH INDUSTRY SHO...</p></details>
+   Link:<a href="https://www.deloitte.com/content/websites/us/en/insights/industry/technology/technology-media-and-telecom-predictions/2025/genai-power-consumption-creates-need-for-more-sustainable-data-centers.html" target="_blank" rel="noopener noreferrer nofollow">https://www.deloitte.com/content/websites/us/en/insights/industry/technology/technology-media-and-telecom-predictions/2025/genai-power-consumption-creates-need-for-more-sustainable-data-centers.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>November 19, 2024 — AS GENERATIVE AI ASKS FOR MORE POWER, DATA CENTERS SEEK MORE RELIABLE, CLEANER ENERGY SOLUTIONS THE TECH INDUSTRY SHO...</p></details>
    Published: November 19, 2024  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: deloitte.com  
    Title: Data center sustainability | Deloitte insights  
-   Link: <a href="https://www.deloitte.com/us/en/insights/industry/technology/technology-media-and-telecom-predictions/2025/genai-power-consumption-creates-need-for-more-sustainable-data-centers.html?icid=za-tmt-predictions-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.deloitte.com/us/en/insights/industry/technology/technology-media-and-telecom-predictions/2025/genai-power-consumption-creates-need-for-more-sustainable-data-centers.html?icid=za-tmt-predictions-2025</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>November 19, 2024 — AS GENERATIVE AI ASKS FOR MORE POWER, DATA CENTERS SEEK MORE RELIABLE, CLEANER ENERGY SOLUTIONS THE TECH INDUSTRY SHO...</p></details>
+   Link:<a href="https://www.deloitte.com/us/en/insights/industry/technology/technology-media-and-telecom-predictions/2025/genai-power-consumption-creates-need-for-more-sustainable-data-centers.html?icid=za-tmt-predictions-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.deloitte.com/us/en/insights/industry/technology/technology-media-and-telecom-predictions/2025/genai-power-consumption-creates-need-for-more-sustainable-data-centers.html?icid=za-tmt-predictions-2025</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>November 19, 2024 — AS GENERATIVE AI ASKS FOR MORE POWER, DATA CENTERS SEEK MORE RELIABLE, CLEANER ENERGY SOLUTIONS THE TECH INDUSTRY SHO...</p></details>
    Published: November 19, 2024  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: spglobal.com  
    Title: HIGHLIGHTS Data cente  
-   Link: <a href="https://www.spglobal.com/commodity-insights/en/news-research/latest-news/electric-power/041025-global-data-center-power-demand-to-double-by-2030-on-ai-surge-iea" target="_blank" rel="noopener noreferrer nofollow">https://www.spglobal.com/commodity-insights/en/news-research/latest-news/electric-power/041025-global-data-center-power-demand-to-double-by-2030-on-ai-surge-iea</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Global data center power demand to double by 2030 on AI surge: IEA | S&amp;P GlobalApril 10, 2025 — April 10, 2025 GLOBAL DATA CENTER POWER D...</p></details>
+   Link:<a href="https://www.spglobal.com/commodity-insights/en/news-research/latest-news/electric-power/041025-global-data-center-power-demand-to-double-by-2030-on-ai-surge-iea" target="_blank" rel="noopener noreferrer nofollow">https://www.spglobal.com/commodity-insights/en/news-research/latest-news/electric-power/041025-global-data-center-power-demand-to-double-by-2030-on-ai-surge-iea</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Global data center power demand to double by 2030 on AI surge: IEA | S&amp;P GlobalApril 10, 2025 — April 10, 2025 GLOBAL DATA CENTER POWER D...</p></details>
    Published: April 10, 2025

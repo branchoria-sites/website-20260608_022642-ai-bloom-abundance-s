@@ -275,25 +275,25 @@ image: /assets/images/AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0_nuclear_ai_po_f1
 
 ## Introduction
 
-Meta’s 20-year [nuclear power]({{ 'nuclear-power/' | relative_url }}) agreement with Constellation [Energy]({{ 'energy/' | relative_url }}) is one of the clearest examples yet of how AI infrastructure is reshaping energy strategy. The deal, announced in 2025, secures more than 1.1 gigawatts of emissions-free nuclear generation from the Clinton Clean Energy Center in Illinois beginning in 2027. Rather than building its own reactor, Meta is using a long-term power purchase agreement (PPA) to guarantee access to reliable electricity while helping keep an existing nuclear plant operating for decades longer. <span class="citation-chip-wrap"><a class="citation-chip" href="https://about.fb.com/news/2025/06/meta-constellation-partner-clean-energy-project/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: about.fb.com">[About Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">about.fb.com</span><span class="citation-popover-title">meta constellation partner clean energy project</span><span class="citation-popover-snippet">About FacebookMeta and Constellation Partner on Clean Energy ProjectJun 3, 2025 — We are announcing a 20-year corporate nuclear energy ag...</span></span></span>
+Meta’s 20-year [nuclear power]({{ 'nuclear-power/' | relative_url }}) agreement with Constellation [Energy]({{ 'energy/' | relative_url }}) is one of the clearest examples yet of how AI infrastructure is reshaping energy strategy. The deal, announced in 2025, secures more than 1.1 gigawatts of emissions-free nuclear generation from the Clinton Clean Energy Center in Illinois beginning in 2027. Rather than building its own reactor, Meta is using a long-term power purchase agreement (PPA) to guarantee access to reliable electricity while helping keep an existing nuclear plant operating for decades longer.<span class="citation-chip-wrap"><a class="citation-chip" href="https://about.fb.com/news/2025/06/meta-constellation-partner-clean-energy-project/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: about.fb.com">[About Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">about.fb.com</span><span class="citation-popover-title">meta constellation partner clean energy project</span><span class="citation-popover-snippet">About FacebookMeta and Constellation Partner on Clean Energy ProjectJun 3, 2025 — We are announcing a 20-year corporate nuclear energy ag...</span></span></span>
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0_nuclear_ai_po_f182ac_meta_nuclear_f22016-Illustration-1-dark.svg" | relative_url }}" alt="Meta Nuclear Deal illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0_nuclear_ai_po_f182ac_meta_nuclear_f22016-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0_nuclear_ai_po_f182ac_meta_nuclear_f22016-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The agreement matters because it highlights a growing tension at the centre of the AI boom. Advanced AI systems require vast amounts of computing [power]({{ 'power/' | relative_url }}), and those computing systems require vast amounts of electricity. If AI is to support larger ambitions around scientific [discovery]({{ 'discovery/' | relative_url }}), automation, economic abundance and long-term human flourishing, its energy base must expand as well. Meta’s nuclear deal is an attempt to solve that problem using firm, low-carbon power rather than relying entirely on intermittent renewable generation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://about.fb.com/news/2025/06/meta-constellation-partner-clean-energy-project/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: about.fb.com">[About Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">about.fb.com</span><span class="citation-popover-title">meta constellation partner clean energy project</span><span class="citation-popover-snippet">About FacebookMeta and Constellation Partner on Clean Energy ProjectJun 3, 2025 — We are announcing a 20-year corporate nuclear energy ag...</span></span></span>
+The agreement matters because it highlights a growing tension at the centre of the AI boom. Advanced AI systems require vast amounts of computing [power]({{ 'power/' | relative_url }}), and those computing systems require vast amounts of electricity. If AI is to support larger ambitions around scientific [discovery]({{ 'discovery/' | relative_url }}), automation, economic abundance and long-term human flourishing, its energy base must expand as well. Meta’s nuclear deal is an attempt to solve that problem using firm, low-carbon power rather than relying entirely on intermittent renewable generation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://about.fb.com/news/2025/06/meta-constellation-partner-clean-energy-project/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: about.fb.com">[About Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">about.fb.com</span><span class="citation-popover-title">meta constellation partner clean energy project</span><span class="citation-popover-snippet">About FacebookMeta and Constellation Partner on Clean Energy ProjectJun 3, 2025 — We are announcing a 20-year corporate nuclear energy ag...</span></span></span>
 
 ## How the Meta–Constellation Deal Works
 
-In June 2025, Meta and Constellation announced a corporate nuclear energy agreement centred on the Clinton Clean Energy Center, a nuclear facility in Illinois. The contract runs for 20 years starting in June 2027 and covers 1,121 megawatts of nuclear generation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://about.fb.com/news/2025/06/meta-constellation-partner-clean-energy-project/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: about.fb.com">[About Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">about.fb.com</span><span class="citation-popover-title">meta constellation partner clean energy project</span><span class="citation-popover-snippet">About FacebookMeta and Constellation Partner on Clean Energy ProjectJun 3, 2025 — We are announcing a 20-year corporate nuclear energy ag...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.utilitydive.com/news/meta-constellation-illinois-clinton-nuclear-ppa-support-ai-goals/749992/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: utilitydive.com">[Utility]</a><span class="citation-popover" role="note"><span class="citation-popover-source">utilitydive.com</span><span class="citation-popover-title">meta constellation illinois clinton nuclear ppa support ai goals</span><span class="citation-popover-snippet">Utility DiveMeta, Constellation ink 20-year nuclear power deal to...Jun 6, 2025 — The agreement will give Meta 1,121 MW of nuclear energ...</span></span></span>
+In June 2025, Meta and Constellation announced a corporate nuclear energy agreement centred on the Clinton Clean Energy Center, a nuclear facility in Illinois. The contract runs for 20 years starting in June 2027 and covers 1,121 megawatts of nuclear generation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://about.fb.com/news/2025/06/meta-constellation-partner-clean-energy-project/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: about.fb.com">[About Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">about.fb.com</span><span class="citation-popover-title">meta constellation partner clean energy project</span><span class="citation-popover-snippet">About FacebookMeta and Constellation Partner on Clean Energy ProjectJun 3, 2025 — We are announcing a 20-year corporate nuclear energy ag...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.utilitydive.com/news/meta-constellation-illinois-clinton-nuclear-ppa-support-ai-goals/749992/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: utilitydive.com">[Utility]</a><span class="citation-popover" role="note"><span class="citation-popover-source">utilitydive.com</span><span class="citation-popover-title">meta constellation illinois clinton nuclear ppa support ai goals</span><span class="citation-popover-snippet">Utility DiveMeta, Constellation ink 20-year nuclear power deal to...Jun 6, 2025 — The agreement will give Meta 1,121 MW of nuclear energ...</span></span></span>
 
-The structure is notable because it is not primarily about powering a single data centre directly. Instead, Meta purchases the clean energy attributes associated with the plant’s output while supporting the continued operation of a major source of carbon-free electricity on the regional grid. Constellation has described the arrangement as a market-based replacement for Illinois’ Zero Emission Credit programme, which had previously helped keep the plant economically viable and is scheduled to expire in 2027. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Constellation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Constellation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">ConstellationA constellation is an area on the celestial sphere in which a group of visible stars forms a perceived pattern or outline...</span></span></span> Energy Corporation <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.utilitydive.com/news/meta-constellation-illinois-clinton-nuclear-ppa-support-ai-goals/749992/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: utilitydive.com">[Utility Dive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">utilitydive.com</span><span class="citation-popover-title">meta constellation illinois clinton nuclear ppa support ai goals</span><span class="citation-popover-snippet">Utility DiveMeta, Constellation ink 20-year nuclear power deal to...Jun 6, 2025 — The agreement will give Meta 1,121 MW of nuclear energ...</span></span></span>
+The structure is notable because it is not primarily about powering a single data centre directly. Instead, Meta purchases the clean energy attributes associated with the plant’s output while supporting the continued operation of a major source of carbon-free electricity on the regional grid. Constellation has described the arrangement as a market-based replacement for Illinois’ Zero Emission Credit programme, which had previously helped keep the plant economically viable and is scheduled to expire in 2027.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Constellation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Constellation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">ConstellationA constellation is an area on the celestial sphere in which a group of visible stars forms a perceived pattern or outline...</span></span></span> Energy Corporation<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.utilitydive.com/news/meta-constellation-illinois-clinton-nuclear-ppa-support-ai-goals/749992/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: utilitydive.com">[Utility Dive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">utilitydive.com</span><span class="citation-popover-title">meta constellation illinois clinton nuclear ppa support ai goals</span><span class="citation-popover-snippet">Utility DiveMeta, Constellation ink 20-year nuclear power deal to...Jun 6, 2025 — The agreement will give Meta 1,121 MW of nuclear energ...</span></span></span>
 
 Several practical outcomes flow from the agreement:
 
 * The Clinton plant remains economically supported after existing state subsidies expire.
 * Meta gains long-term access to a large volume of carbon-free electricity associated with its regional operations.
 * Constellation receives revenue certainty that can support relicensing, maintenance and upgrades.
-* The plant can pursue a 30-megawatt uprate, increasing output beyond its previous level. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Constellation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Constellation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">ConstellationA constellation is an area on the celestial sphere in which a group of visible stars forms a perceived pattern or outline...</span></span></span> Energy Corporation <span class="citation-chip-wrap"><a class="citation-chip" href="https://about.fb.com/news/2025/06/meta-constellation-partner-clean-energy-project/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: about.fb.com">[About Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">about.fb.com</span><span class="citation-popover-title">meta constellation partner clean energy project</span><span class="citation-popover-snippet">About FacebookMeta and Constellation Partner on Clean Energy ProjectJun 3, 2025 — We are announcing a 20-year corporate nuclear energy ag...</span></span></span>
+* The plant can pursue a 30-megawatt uprate, increasing output beyond its previous level.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Constellation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Constellation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">ConstellationA constellation is an area on the celestial sphere in which a group of visible stars forms a perceived pattern or outline...</span></span></span> Energy Corporation<span class="citation-chip-wrap"><a class="citation-chip" href="https://about.fb.com/news/2025/06/meta-constellation-partner-clean-energy-project/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: about.fb.com">[About Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">about.fb.com</span><span class="citation-popover-title">meta constellation partner clean energy project</span><span class="citation-popover-snippet">About FacebookMeta and Constellation Partner on Clean Energy ProjectJun 3, 2025 — We are announcing a 20-year corporate nuclear energy ag...</span></span></span>
 
-The agreement therefore functions as both an energy procurement contract and an industrial policy mechanism. It does not create a brand-new reactor, but it helps preserve a large existing source of clean electricity that might otherwise have faced a more uncertain future. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/sustainability/climate-energy/meta-signs-power-agreement-with-constellation-nuclear-plant-2025-06-03/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">meta signs power agreement with constellation nuclear plant 2025 06 03</span><span class="citation-popover-snippet">Meta strikes power agreement with Constellation nuclear...3 Jun 2025 — The deal will help keep open Constellation&#x27;s Clinton Clean...</span></span></span>
+The agreement therefore functions as both an energy procurement contract and an industrial policy mechanism. It does not create a brand-new reactor, but it helps preserve a large existing source of clean electricity that might otherwise have faced a more uncertain future.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/sustainability/climate-energy/meta-signs-power-agreement-with-constellation-nuclear-plant-2025-06-03/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">meta signs power agreement with constellation nuclear plant</span><span class="citation-popover-snippet">Meta strikes power agreement with Constellation nuclear...3 Jun 2025 — The deal will help keep open Constellation&#x27;s Clinton Clean...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KAZfWYzD2VE" title="Meta to Meet AI Power Demand with Nuclear Power" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KAZfWYzD2VE" target="_blank" rel="noopener noreferrer">Meta to Meet AI Power Demand with Nuclear Power</a></p><p class="youtube-embed-meta">Channel: Bloomberg Technology &middot; Views: 4.2K &middot; Uploaded: June 2025 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KAZfWYzD2VE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KAZfWYzD2VE">Open on YouTube</a></p></div></div></div>
 
@@ -301,16 +301,16 @@ The agreement therefore functions as both an energy procurement contract and an 
 
 Many discussions of clean energy focus on annual carbon accounting. AI infrastructure creates a somewhat different challenge: maintaining enormous computing clusters that operate continuously.
 
-Training large models can involve weeks or months of sustained computation. AI services used by businesses and consumers must also remain available around the clock. From the perspective of a hyperscale operator, electricity is not just an environmental issue but a reliability issue. <span class="citation-chip-wrap"><a class="citation-chip" href="https://penncapital-star.com/energy-environment/meta-strikes-20-year-nuclear-power-deal-with-constellation-energy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: penncapital-star.com">[Penn Capital-Star]</a><span class="citation-popover" role="note"><span class="citation-popover-source">penncapital-star.com</span><span class="citation-popover-title">meta strikes 20 year nuclear power deal with constellation energy</span><span class="citation-popover-snippet">Penn Capital-StarMeta strikes 20-year nuclear power deal with Constellation...Jun 4, 2025 — Facebook&#x27;s parent company Meta locked in 20...</span></span></span>
+Training large models can involve weeks or months of sustained computation. AI services used by businesses and consumers must also remain available around the clock. From the perspective of a hyperscale operator, electricity is not just an environmental issue but a reliability issue.<span class="citation-chip-wrap"><a class="citation-chip" href="https://penncapital-star.com/energy-environment/meta-strikes-20-year-nuclear-power-deal-with-constellation-energy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: penncapital-star.com">[Penn Capital-Star]</a><span class="citation-popover" role="note"><span class="citation-popover-source">penncapital-star.com</span><span class="citation-popover-title">meta strikes 20 year nuclear power deal with constellation energy</span><span class="citation-popover-snippet">Penn Capital-StarMeta strikes 20-year nuclear power deal with Constellation...Jun 4, 2025 — Facebook&#x27;s parent company Meta locked in 20...</span></span></span>
 
 Nuclear generation offers several characteristics that are especially attractive for this role:
 
 * High capacity factors, meaning reactors typically operate most of the time.
 * Predictable output regardless of weather conditions.
 * Very low operational carbon emissions.
-* Long asset lifetimes measured in decades rather than years. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.world-nuclear-news.org/articles/meta-constellation-sign-20-year-clean-power-deal" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: world-nuclear-news.org">[World Nuclear News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">world-nuclear-news.org</span><span class="citation-popover-title">meta constellation sign 20 year clean power deal</span><span class="citation-popover-snippet">World Nuclear NewsMeta, Constellation sign 20-year clean power dealJun 3, 2025 — A 20-year power purchase agreement between Meta and Cons...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.powermag.com/meta-deal-with-constellation-will-keep-illinois-nuclear-plant-open/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: powermag.com">[POWER Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">powermag.com</span><span class="citation-popover-title">meta deal with constellation will keep illinois nuclear plant open</span><span class="citation-popover-snippet">POWER MagazineMeta Deal with Constellation Will Keep Illinois Nuclear...3 Jun 2025 — The PPA will enable the Clinton Clean Energy Center...</span></span></span>
+* Long asset lifetimes measured in decades rather than years.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.world-nuclear-news.org/articles/meta-constellation-sign-20-year-clean-power-deal" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: world-nuclear-news.org">[World Nuclear News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">world-nuclear-news.org</span><span class="citation-popover-title">meta constellation sign 20 year clean power deal</span><span class="citation-popover-snippet">World Nuclear NewsMeta, Constellation sign 20-year clean power dealJun 3, 2025 — A 20-year power purchase agreement between Meta and Cons...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.powermag.com/meta-deal-with-constellation-will-keep-illinois-nuclear-plant-open/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: powermag.com">[POWER Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">powermag.com</span><span class="citation-popover-title">meta deal with constellation will keep illinois nuclear plant open</span><span class="citation-popover-snippet">POWER MagazineMeta Deal with Constellation Will Keep Illinois Nuclear...3 Jun 2025 — The PPA will enable the Clinton Clean Energy Center...</span></span></span>
 
-For a company planning AI infrastructure many years in advance, a 20-year power contract reduces uncertainty. The same logic that encourages long-term cloud infrastructure investments encourages long-term electricity procurement. Meta can plan future computing capacity knowing that a large quantity of low-carbon generation will remain available within the regional grid system. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wsj.com/business/energy-oil/meta-signs-nuclear-power-deal-to-fuel-its-ai-ambitions-70c85367" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wsj.com">[The Wall Street Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wsj.com</span><span class="citation-popover-snippet">The Wall Street JournalMeta Signs Nuclear Power Deal to Fuel Its AI AmbitionsJune 3, 2025 — 3 Jun 2025 — The deal helps cover costs for r...</span><span class="citation-popover-meta">Published: June 3, 2025</span></span></span>
+For a company planning AI infrastructure many years in advance, a 20-year power contract reduces uncertainty. The same logic that encourages long-term cloud infrastructure investments encourages long-term electricity procurement. Meta can plan future computing capacity knowing that a large quantity of low-carbon generation will remain available within the regional grid system.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wsj.com/business/energy-oil/meta-signs-nuclear-power-deal-to-fuel-its-ai-ambitions-70c85367" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wsj.com">[The Wall Street Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wsj.com</span><span class="citation-popover-snippet">The Wall Street JournalMeta Signs Nuclear Power Deal to Fuel Its AI AmbitionsJune 3, 2025 — 3 Jun 2025 — The deal helps cover costs for r...</span><span class="citation-popover-meta">Published: June 3, 2025</span></span></span>
 
 This helps explain why nuclear power has re-entered strategic discussions among technology firms after years in which corporate clean-energy procurement focused mainly on wind and solar projects.
 
@@ -320,9 +320,9 @@ This helps explain why nuclear power has re-entered strategic discussions among 
 
 One of the most revealing aspects of the agreement is that it centres on an existing reactor rather than a speculative future technology.
 
-Public discussion around AI and nuclear energy often focuses on small modular reactors or advanced reactor designs that remain under development. The Clinton agreement instead uses infrastructure that already exists, already operates, and already produces large amounts of electricity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.world-nuclear-news.org/articles/meta-constellation-sign-20-year-clean-power-deal" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: world-nuclear-news.org">[World Nuclear News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">world-nuclear-news.org</span><span class="citation-popover-title">meta constellation sign 20 year clean power deal</span><span class="citation-popover-snippet">World Nuclear NewsMeta, Constellation sign 20-year clean power dealJun 3, 2025 — A 20-year power purchase agreement between Meta and Cons...</span></span></span>
+Public discussion around AI and nuclear energy often focuses on small modular reactors or advanced reactor designs that remain under development. The Clinton agreement instead uses infrastructure that already exists, already operates, and already produces large amounts of electricity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.world-nuclear-news.org/articles/meta-constellation-sign-20-year-clean-power-deal" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: world-nuclear-news.org">[World Nuclear News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">world-nuclear-news.org</span><span class="citation-popover-title">meta constellation sign 20 year clean power deal</span><span class="citation-popover-snippet">World Nuclear NewsMeta, Constellation sign 20-year clean power dealJun 3, 2025 — A 20-year power purchase agreement between Meta and Cons...</span></span></span>
 
-The plant generates enough electricity to serve hundreds of thousands of homes and employs hundreds of workers directly. According to Constellation, it contributes substantial local tax revenue while supplying carbon-free power to the regional grid. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Constellation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Constellation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">ConstellationA constellation is an area on the celestial sphere in which a group of visible stars forms a perceived pattern or outline...</span></span></span>
+The plant generates enough electricity to serve hundreds of thousands of homes and employs hundreds of workers directly. According to Constellation, it contributes substantial local tax revenue while supplying carbon-free power to the regional grid.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Constellation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Constellation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">ConstellationA constellation is an area on the celestial sphere in which a group of visible stars forms a perceived pattern or outline...</span></span></span>
 
 For Meta, this approach offers several advantages:
 
@@ -331,7 +331,7 @@ For Meta, this approach offers several advantages:
 1. **Speed** – electricity is available far sooner than building a new reactor.
 2. **Lower development risk** – the technology is proven and already licensed.
 3. **Regulatory familiarity** – existing operational frameworks are already in place.
-4. **Grid integration** – transmission links and operating procedures already exist. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.world-nuclear-news.org/articles/meta-constellation-sign-20-year-clean-power-deal" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: world-nuclear-news.org">[World Nuclear News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">world-nuclear-news.org</span><span class="citation-popover-title">meta constellation sign 20 year clean power deal</span><span class="citation-popover-snippet">World Nuclear NewsMeta, Constellation sign 20-year clean power dealJun 3, 2025 — A 20-year power purchase agreement between Meta and Cons...</span></span></span>
+4. **Grid integration** – transmission links and operating procedures already exist.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.world-nuclear-news.org/articles/meta-constellation-sign-20-year-clean-power-deal" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: world-nuclear-news.org">[World Nuclear News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">world-nuclear-news.org</span><span class="citation-popover-title">meta constellation sign 20 year clean power deal</span><span class="citation-popover-snippet">World Nuclear NewsMeta, Constellation sign 20-year clean power dealJun 3, 2025 — A 20-year power purchase agreement between Meta and Cons...</span></span></span>
 
 </div>
 
@@ -342,23 +342,23 @@ The deal therefore reflects a broader trend in energy planning: preserving exist
 
 The scale of the agreement is easy to underestimate.
 
-A commitment of 1,121 megawatts places the deal among the largest corporate clean-energy arrangements ever signed. A gigawatt-scale power source operates on a completely different level from rooftop solar installations or conventional corporate sustainability projects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.utilitydive.com/news/meta-constellation-illinois-clinton-nuclear-ppa-support-ai-goals/749992/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: utilitydive.com">[Utility Dive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">utilitydive.com</span><span class="citation-popover-title">meta constellation illinois clinton nuclear ppa support ai goals</span><span class="citation-popover-snippet">Utility DiveMeta, Constellation ink 20-year nuclear power deal to...Jun 6, 2025 — The agreement will give Meta 1,121 MW of nuclear energ...</span></span></span>
+A commitment of 1,121 megawatts places the deal among the largest corporate clean-energy arrangements ever signed. A gigawatt-scale power source operates on a completely different level from rooftop solar installations or conventional corporate sustainability projects.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.utilitydive.com/news/meta-constellation-illinois-clinton-nuclear-ppa-support-ai-goals/749992/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: utilitydive.com">[Utility Dive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">utilitydive.com</span><span class="citation-popover-title">meta constellation illinois clinton nuclear ppa support ai goals</span><span class="citation-popover-snippet">Utility DiveMeta, Constellation ink 20-year nuclear power deal to...Jun 6, 2025 — The agreement will give Meta 1,121 MW of nuclear energ...</span></span></span>
 
 For AI infrastructure, this matters because the industry is moving into an era of extremely power-intensive computing clusters. Large training runs increasingly require thousands or tens of thousands of advanced GPUs operating simultaneously. Future AI systems may require even larger facilities.
 
-The Meta agreement does not imply that one nuclear plant powers one AI model. Electricity flows through the wider grid. But it demonstrates the scale of energy procurement that major AI companies increasingly view as necessary. The conversation has shifted from buying renewable energy certificates to securing generation resources measured in gigawatts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://about.fb.com/news/2025/06/meta-constellation-partner-clean-energy-project/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: about.fb.com">[About Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">about.fb.com</span><span class="citation-popover-title">meta constellation partner clean energy project</span><span class="citation-popover-snippet">About FacebookMeta and Constellation Partner on Clean Energy ProjectJun 3, 2025 — We are announcing a 20-year corporate nuclear energy ag...</span></span></span>
+The Meta agreement does not imply that one nuclear plant powers one AI model. Electricity flows through the wider grid. But it demonstrates the scale of energy procurement that major AI companies increasingly view as necessary. The conversation has shifted from buying renewable energy certificates to securing generation resources measured in gigawatts.<span class="citation-chip-wrap"><a class="citation-chip" href="https://about.fb.com/news/2025/06/meta-constellation-partner-clean-energy-project/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: about.fb.com">[About Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">about.fb.com</span><span class="citation-popover-title">meta constellation partner clean energy project</span><span class="citation-popover-snippet">About FacebookMeta and Constellation Partner on Clean Energy ProjectJun 3, 2025 — We are announcing a 20-year corporate nuclear energy ag...</span></span></span>
 
 ## How Nuclear Fits Alongside Renewables
 
 The agreement is sometimes portrayed as a move away from renewable energy, but the reality is more complicated.
 
-Meta has spent years purchasing large quantities of wind and solar energy and continues to pursue broader clean-energy investments. The company described the nuclear agreement as part of a wider strategy that also includes geothermal and future nuclear development. <span class="citation-chip-wrap"><a class="citation-chip" href="https://about.fb.com/news/2025/06/meta-constellation-partner-clean-energy-project/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: about.fb.com">[About Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">about.fb.com</span><span class="citation-popover-title">meta constellation partner clean energy project</span><span class="citation-popover-snippet">About FacebookMeta and Constellation Partner on Clean Energy ProjectJun 3, 2025 — We are announcing a 20-year corporate nuclear energy ag...</span></span></span>
+Meta has spent years purchasing large quantities of wind and solar energy and continues to pursue broader clean-energy investments. The company described the nuclear agreement as part of a wider strategy that also includes geothermal and future nuclear development.<span class="citation-chip-wrap"><a class="citation-chip" href="https://about.fb.com/news/2025/06/meta-constellation-partner-clean-energy-project/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: about.fb.com">[About Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">about.fb.com</span><span class="citation-popover-title">meta constellation partner clean energy project</span><span class="citation-popover-snippet">About FacebookMeta and Constellation Partner on Clean Energy ProjectJun 3, 2025 — We are announcing a 20-year corporate nuclear energy ag...</span></span></span>
 
 The practical argument is that different energy sources solve different problems:
 
 * Wind and solar can provide large amounts of low-cost clean electricity when conditions are favourable.
 * Batteries can help smooth short-term fluctuations.
-* Nuclear provides continuous generation that does not depend on weather conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://about.fb.com/news/2025/06/meta-constellation-partner-clean-energy-project/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: about.fb.com">[About Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">about.fb.com</span><span class="citation-popover-title">meta constellation partner clean energy project</span><span class="citation-popover-snippet">About FacebookMeta and Constellation Partner on Clean Energy ProjectJun 3, 2025 — We are announcing a 20-year corporate nuclear energy ag...</span></span></span>
+* Nuclear provides continuous generation that does not depend on weather conditions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://about.fb.com/news/2025/06/meta-constellation-partner-clean-energy-project/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: about.fb.com">[About Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">about.fb.com</span><span class="citation-popover-title">meta constellation partner clean energy project</span><span class="citation-popover-snippet">About FacebookMeta and Constellation Partner on Clean Energy ProjectJun 3, 2025 — We are announcing a 20-year corporate nuclear energy ag...</span></span></span>
 
 For AI operators concerned about both carbon goals and reliability, the attraction is not necessarily nuclear instead of renewables. It is nuclear alongside renewables, creating a cleaner electricity mix capable of supporting large continuous loads.
 
@@ -370,7 +370,7 @@ This is one reason why many analysts view such agreements less as isolated energ
 
 Within the broader discussion about AI abundance and long-term human flourishing, Meta’s agreement is significant because it addresses a frequently overlooked constraint: energy.
 
-Many optimistic visions of AI assume dramatic advances in science, medicine, automation and knowledge creation. Yet all of those capabilities ultimately depend on physical infrastructure. Training models, running simulations, operating robotic systems and supporting digital services require enormous amounts of electricity. If energy systems cannot expand, AI progress faces practical limits. <span class="citation-chip-wrap"><a class="citation-chip" href="https://about.fb.com/news/2025/06/meta-constellation-partner-clean-energy-project/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: about.fb.com">[About Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">about.fb.com</span><span class="citation-popover-title">meta constellation partner clean energy project</span><span class="citation-popover-snippet">About FacebookMeta and Constellation Partner on Clean Energy ProjectJun 3, 2025 — We are announcing a 20-year corporate nuclear energy ag...</span></span></span>
+Many optimistic visions of AI assume dramatic advances in science, medicine, automation and knowledge creation. Yet all of those capabilities ultimately depend on physical infrastructure. Training models, running simulations, operating robotic systems and supporting digital services require enormous amounts of electricity. If energy systems cannot expand, AI progress faces practical limits.<span class="citation-chip-wrap"><a class="citation-chip" href="https://about.fb.com/news/2025/06/meta-constellation-partner-clean-energy-project/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: about.fb.com">[About Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">about.fb.com</span><span class="citation-popover-title">meta constellation partner clean energy project</span><span class="citation-popover-snippet">About FacebookMeta and Constellation Partner on Clean Energy ProjectJun 3, 2025 — We are announcing a 20-year corporate nuclear energy ag...</span></span></span>
 
 The Meta–Constellation agreement can therefore be viewed as an early example of a wider pattern. Rather than treating energy as a background issue, AI companies are increasingly treating electricity supply as a strategic input comparable to computing hardware or semiconductor manufacturing.
 
@@ -380,212 +380,212 @@ In the strongest version of the AI bloom argument, advanced AI could help accele
 
 The agreement has also attracted criticism and scepticism.
 
-One concern is that preserving existing nuclear generation is not the same as creating entirely new clean-energy capacity. Critics argue that AI companies may claim environmental benefits from electricity sources that were already operating. Supporters respond that preventing premature plant closures can be just as important as building new facilities, particularly when replacement generation might otherwise come from fossil fuels. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/sustainability/climate-energy/meta-signs-power-agreement-with-constellation-nuclear-plant-2025-06-03/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">meta signs power agreement with constellation nuclear plant 2025 06 03</span><span class="citation-popover-snippet">Meta strikes power agreement with Constellation nuclear...3 Jun 2025 — The deal will help keep open Constellation&#x27;s Clinton Clean...</span></span></span>
+One concern is that preserving existing nuclear generation is not the same as creating entirely new clean-energy capacity. Critics argue that AI companies may claim environmental benefits from electricity sources that were already operating. Supporters respond that preventing premature plant closures can be just as important as building new facilities, particularly when replacement generation might otherwise come from fossil fuels.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/sustainability/climate-energy/meta-signs-power-agreement-with-constellation-nuclear-plant-2025-06-03/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">meta signs power agreement with constellation nuclear plant</span><span class="citation-popover-snippet">Meta strikes power agreement with Constellation nuclear...3 Jun 2025 — The deal will help keep open Constellation&#x27;s Clinton Clean...</span></span></span>
 
 Another question concerns distribution. A long-term contract helps a large technology company secure energy, but it does not automatically guarantee that the benefits of AI development will be broadly shared. The same infrastructure that supports scientific progress can also reinforce the advantages of already powerful firms. This remains a central debate in discussions about AI abundance and technological concentration.
 
-There are also wider grid questions. Even if nuclear plants remain online, electricity demand from AI data centres is rising rapidly. Additional generation, transmission upgrades and more flexible grid management will still be needed. A single 1.1-gigawatt agreement is substantial, but it is unlikely to be sufficient if AI computing demand continues growing at current rates. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2605.14714" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Flexibility-Aware Framework for Efficient Planner-Initiated Siting of Data CenterMay 14, 2026...</span><span class="citation-popover-meta">Published: May 14, 2026</span></span></span>
+There are also wider grid questions. Even if nuclear plants remain online, electricity demand from AI data centres is rising rapidly. Additional generation, transmission upgrades and more flexible grid management will still be needed. A single 1.1-gigawatt agreement is substantial, but it is unlikely to be sufficient if AI computing demand continues growing at current rates.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2605.14714" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Flexibility-Aware Framework for Efficient Planner-Initiated Siting of Data CenterMay 14, 2026...</span><span class="citation-popover-meta">Published: May 14, 2026</span></span></span>
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0_nuclear_ai_po_f182ac_meta_nuclear_f22016-Illustration-3-dark.svg" | relative_url }}" alt="Meta Nuclear Deal illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0_nuclear_ai_po_f182ac_meta_nuclear_f22016-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0_nuclear_ai_po_f182ac_meta_nuclear_f22016-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Deal Became a Landmark Case
 
 Meta’s agreement became a landmark because it demonstrated a concrete pathway for matching AI growth with firm clean electricity.
 
-Instead of waiting for future reactor technologies, the company signed a long-term contract around an existing nuclear asset. Instead of relying solely on annual renewable procurement targets, it targeted a source of continuous generation. And instead of treating energy as a secondary sustainability issue, it framed reliable power as essential to advancing AI ambitions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://penncapital-star.com/energy-environment/meta-strikes-20-year-nuclear-power-deal-with-constellation-energy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: penncapital-star.com">[Penn Capital-Star]</a><span class="citation-popover" role="note"><span class="citation-popover-source">penncapital-star.com</span><span class="citation-popover-title">meta strikes 20 year nuclear power deal with constellation energy</span><span class="citation-popover-snippet">Penn Capital-StarMeta strikes 20-year nuclear power deal with Constellation...Jun 4, 2025 — Facebook&#x27;s parent company Meta locked in 20...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://about.fb.com/news/2025/06/meta-constellation-partner-clean-energy-project/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: about.fb.com">[About Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">about.fb.com</span><span class="citation-popover-title">meta constellation partner clean energy project</span><span class="citation-popover-snippet">About FacebookMeta and Constellation Partner on Clean Energy ProjectJun 3, 2025 — We are announcing a 20-year corporate nuclear energy ag...</span></span></span>
+Instead of waiting for future reactor technologies, the company signed a long-term contract around an existing nuclear asset. Instead of relying solely on annual renewable procurement targets, it targeted a source of continuous generation. And instead of treating energy as a secondary sustainability issue, it framed reliable power as essential to advancing AI ambitions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://penncapital-star.com/energy-environment/meta-strikes-20-year-nuclear-power-deal-with-constellation-energy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: penncapital-star.com">[Penn Capital-Star]</a><span class="citation-popover" role="note"><span class="citation-popover-source">penncapital-star.com</span><span class="citation-popover-title">meta strikes 20 year nuclear power deal with constellation energy</span><span class="citation-popover-snippet">Penn Capital-StarMeta strikes 20-year nuclear power deal with Constellation...Jun 4, 2025 — Facebook&#x27;s parent company Meta locked in 20...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://about.fb.com/news/2025/06/meta-constellation-partner-clean-energy-project/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: about.fb.com">[About Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">about.fb.com</span><span class="citation-popover-title">meta constellation partner clean energy project</span><span class="citation-popover-snippet">About FacebookMeta and Constellation Partner on Clean Energy ProjectJun 3, 2025 — We are announcing a 20-year corporate nuclear energy ag...</span></span></span>
 
 Whether this becomes a dominant model remains uncertain. Future AI infrastructure may rely on a mix of nuclear plants, renewables, storage systems, geothermal resources and more flexible computing architectures. But the Meta–Constellation agreement is an important signal that major AI companies increasingly view energy security and compute growth as inseparable problems.
 
-As AI systems become more capable, the question is no longer only how much [intelligence]({{ 'intelligence/' | relative_url }}) can be built. It is also how civilisation powers that intelligence. Meta’s 20-year nuclear agreement is one of the earliest large-scale attempts to answer that question with firm, low-carbon electricity. About Facebook <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.world-nuclear-news.org/articles/meta-constellation-sign-20-year-clean-power-deal" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: world-nuclear-news.org">[World Nuclear News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">world-nuclear-news.org</span><span class="citation-popover-title">meta constellation sign 20 year clean power deal</span><span class="citation-popover-snippet">World Nuclear NewsMeta, Constellation sign 20-year clean power dealJun 3, 2025 — A 20-year power purchase agreement between Meta and Cons...</span></span></span>
+As AI systems become more capable, the question is no longer only how much [intelligence]({{ 'intelligence/' | relative_url }}) can be built. It is also how civilisation powers that intelligence. Meta’s 20-year nuclear agreement is one of the earliest large-scale attempts to answer that question with firm, low-carbon electricity. About Facebook<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.world-nuclear-news.org/articles/meta-constellation-sign-20-year-clean-power-deal" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: world-nuclear-news.org">[World Nuclear News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">world-nuclear-news.org</span><span class="citation-popover-title">meta constellation sign 20 year clean power deal</span><span class="citation-popover-snippet">World Nuclear NewsMeta, Constellation sign 20-year clean power dealJun 3, 2025 — A 20-year power purchase agreement between Meta and Cons...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Meta Secures 1 GW of Nuclear Power for AI. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Meta Secures 1 GW of Nuclear Power for AI. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human Compatible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BKVPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Human Compatible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human Compatible">Human Compatible</a>
-        </h4>
-        <p class="fr-book-author">By Stuart Russell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human Compatible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BKVPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Human Compatible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human Compatible">Human Compatible</a>
+</h4>
+<p class="fr-book-author">By Stuart Russell</p>
         
-        <p class="fr-book-desc">Explores how powerful AI could advance humanity if aligned with human values.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how powerful AI could advance humanity if aligned with human values.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Algorithms+of+Oppression+by+Safiya+Umoja+Noble&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Algorithms of Oppression on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=g8OSDgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Algorithms of Oppression" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Algorithms+of+Oppression+by+Safiya+Umoja+Noble&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Algorithms of Oppression">Algorithms of Oppression</a>
-        </h4>
-        <p class="fr-book-author">By Safiya Umoja Noble</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Algorithms+of+Oppression+by+Safiya+Umoja+Noble&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Algorithms of Oppression on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=g8OSDgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Algorithms of Oppression" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Algorithms+of+Oppression+by+Safiya+Umoja+Noble&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Algorithms of Oppression">Algorithms of Oppression</a>
+</h4>
+<p class="fr-book-author">By Safiya Umoja Noble</p>
         
-        <p class="fr-book-desc">Frames how data systems can reproduce inequality.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Algorithms+of+Oppression+by+Safiya+Umoja+Noble&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Frames how data systems can reproduce inequality.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Algorithms+of+Oppression+by+Safiya+Umoja+Noble&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Coming Wave on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b0y5zwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Coming Wave" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Coming Wave">The Coming Wave</a>
-        </h4>
-        <p class="fr-book-author">By Mustafa Suleyman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Coming Wave on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b0y5zwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Coming Wave" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Coming Wave">The Coming Wave</a>
+</h4>
+<p class="fr-book-author">By Mustafa Suleyman</p>
         
-        <p class="fr-book-desc">Directly addresses whether advanced AI can deliver broad civilisational benefits while remaining governable.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses whether advanced AI can deliver broad civilisational benefits while remaining governable.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Outlive+by+Peter+Attia%2C+MD&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Outlive on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HYqeEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Outlive" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Outlive+by+Peter+Attia%2C+MD&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Outlive">Outlive</a>
-        </h4>
-        <p class="fr-book-author">By Peter Attia, MD</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Outlive+by+Peter+Attia%2C+MD&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Outlive on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HYqeEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Outlive" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Outlive+by+Peter+Attia%2C+MD&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Outlive">Outlive</a>
+</h4>
+<p class="fr-book-author">By Peter Attia, MD</p>
         
-        <p class="fr-book-desc">Focuses on extending healthspan through prevention and early action.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Outlive+by+Peter+Attia%2C+MD&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on extending healthspan through prevention and early action.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Outlive+by+Peter+Attia%2C+MD&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+Compatible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human Compatible</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Algorithms+of+Oppression&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Algorithms of Oppression</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Coming+Wave&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Coming Wave</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+Compatible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human Compatible</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Algorithms+of+Oppression&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Algorithms of Oppression</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Coming+Wave&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Coming Wave</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=nuclear+power+plant+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-meta-secures-1-gw-of-nuclear-power-for-ai-nuclear-power-plant-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nuclear power plant model" data-ebay-reference="how-meta-secures-1-gw-of-nuclear-power-for-ai-nuclear-power-plant-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Oak Ridge TN Atomic Energy Museum Model Nuclear Power Plant Plastichrome"><img src="https://i.ebayimg.com/images/g/C8oAAeSw3nppvUWw/s-l225.jpg" alt="Listing image for Oak Ridge TN Atomic Energy Museum Model Nuclear Power Plant Plastichrome" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=nuclear+power+plant+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-meta-secures-1-gw-of-nuclear-power-for-ai-nuclear-power-plant-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nuclear power plant model" data-ebay-reference="how-meta-secures-1-gw-of-nuclear-power-for-ai-nuclear-power-plant-model" target="_blank" rel="sponsored noopener noreferrer">Oak Ridge TN Atomic Energy Museum Model Nuclear Power Plant Plastichrome</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=nuclear+power+plant+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-meta-secures-1-gw-of-nuclear-power-for-ai-nuclear-power-plant-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nuclear power plant model" data-ebay-reference="how-meta-secures-1-gw-of-nuclear-power-for-ai-nuclear-power-plant-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for nuclear power plant model">Search <span data-ebay-domain-label>eBay.co.uk</span>: nuclear power plant model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=nuclear+power+plant+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-meta-secures-1-gw-of-nuclear-power-for-ai-nuclear-power-plant-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nuclear power plant model" data-ebay-reference="how-meta-secures-1-gw-of-nuclear-power-for-ai-nuclear-power-plant-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=nuclear+power+plant+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-meta-secures-1-gw-of-nuclear-power-for-ai-nuclear-power-plant-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nuclear power plant model" data-ebay-reference="how-meta-secures-1-gw-of-nuclear-power-for-ai-nuclear-power-plant-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Oak Ridge TN Atomic Energy Museum Model Nuclear Power Plant Plastichrome"><img src="https://i.ebayimg.com/images/g/C8oAAeSw3nppvUWw/s-l225.jpg" alt="Listing image for Oak Ridge TN Atomic Energy Museum Model Nuclear Power Plant Plastichrome" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=nuclear+power+plant+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-meta-secures-1-gw-of-nuclear-power-for-ai-nuclear-power-plant-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nuclear power plant model" data-ebay-reference="how-meta-secures-1-gw-of-nuclear-power-for-ai-nuclear-power-plant-model" target="_blank" rel="sponsored noopener noreferrer">Oak Ridge TN Atomic Energy Museum Model Nuclear Power Plant Plastichrome</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=nuclear+power+plant+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-meta-secures-1-gw-of-nuclear-power-for-ai-nuclear-power-plant-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nuclear power plant model" data-ebay-reference="how-meta-secures-1-gw-of-nuclear-power-for-ai-nuclear-power-plant-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for nuclear power plant model">Search<span data-ebay-domain-label>eBay.co.uk</span>: nuclear power plant model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=nuclear+power+plant+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-meta-secures-1-gw-of-nuclear-power-for-ai-nuclear-power-plant-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nuclear power plant model" data-ebay-reference="how-meta-secures-1-gw-of-nuclear-power-for-ai-nuclear-power-plant-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=nuclear+power+plant+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-meta-secures-1-gw-of-nuclear-power-for-ai-nuclear-power-plant-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nuclear power plant model" data-ebay-reference="how-meta-secures-1-gw-of-nuclear-power-for-ai-nuclear-power-plant-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NUCLEAR POWER PLANT MODEL Nine Mile Point Oswego, NY c1960s Vintage Postcard"><img src="https://i.ebayimg.com/images/g/c6MAAOSwYA9mKyrE/s-l225.jpg" alt="Listing image for NUCLEAR POWER PLANT MODEL Nine Mile Point Oswego, NY c1960s Vintage Postcard" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=nuclear+power+plant+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-meta-secures-1-gw-of-nuclear-power-for-ai-nuclear-power-plant-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nuclear power plant model" data-ebay-reference="how-meta-secures-1-gw-of-nuclear-power-for-ai-nuclear-power-plant-model" target="_blank" rel="sponsored noopener noreferrer">NUCLEAR POWER PLANT MODEL Nine Mile Point Oswego, NY c1960s Vintage Postcard</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=nuclear+power+plant+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-meta-secures-1-gw-of-nuclear-power-for-ai-nuclear-power-plant-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nuclear power plant model" data-ebay-reference="how-meta-secures-1-gw-of-nuclear-power-for-ai-nuclear-power-plant-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for nuclear power plant model">Search <span data-ebay-domain-label>eBay.co.uk</span>: nuclear power plant model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=nuclear+power+plant+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-meta-secures-1-gw-of-nuclear-power-for-ai-nuclear-power-plant-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nuclear power plant model" data-ebay-reference="how-meta-secures-1-gw-of-nuclear-power-for-ai-nuclear-power-plant-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=nuclear+power+plant+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-meta-secures-1-gw-of-nuclear-power-for-ai-nuclear-power-plant-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nuclear power plant model" data-ebay-reference="how-meta-secures-1-gw-of-nuclear-power-for-ai-nuclear-power-plant-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NUCLEAR POWER PLANT MODEL Nine Mile Point Oswego, NY c1960s Vintage Postcard"><img src="https://i.ebayimg.com/images/g/c6MAAOSwYA9mKyrE/s-l225.jpg" alt="Listing image for NUCLEAR POWER PLANT MODEL Nine Mile Point Oswego, NY c1960s Vintage Postcard" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=nuclear+power+plant+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-meta-secures-1-gw-of-nuclear-power-for-ai-nuclear-power-plant-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nuclear power plant model" data-ebay-reference="how-meta-secures-1-gw-of-nuclear-power-for-ai-nuclear-power-plant-model" target="_blank" rel="sponsored noopener noreferrer">NUCLEAR POWER PLANT MODEL Nine Mile Point Oswego, NY c1960s Vintage Postcard</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=nuclear+power+plant+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-meta-secures-1-gw-of-nuclear-power-for-ai-nuclear-power-plant-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nuclear power plant model" data-ebay-reference="how-meta-secures-1-gw-of-nuclear-power-for-ai-nuclear-power-plant-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for nuclear power plant model">Search<span data-ebay-domain-label>eBay.co.uk</span>: nuclear power plant model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=nuclear+power+plant+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-meta-secures-1-gw-of-nuclear-power-for-ai-nuclear-power-plant-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nuclear power plant model" data-ebay-reference="how-meta-secures-1-gw-of-nuclear-power-for-ai-nuclear-power-plant-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=nuclear+power+plant+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-meta-secures-1-gw-of-nuclear-power-for-ai-nuclear-power-plant-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nuclear power plant model" data-ebay-reference="how-meta-secures-1-gw-of-nuclear-power-for-ai-nuclear-power-plant-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Nuclear Power Plant Reactor and Cooling Towers 3D Printed Architectural Model"><img src="https://i.ebayimg.com/images/g/SakAAOSwVKBj-v1L/s-l225.jpg" alt="Listing image for Nuclear Power Plant Reactor and Cooling Towers 3D Printed Architectural Model" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=nuclear+power+plant+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-meta-secures-1-gw-of-nuclear-power-for-ai-nuclear-power-plant-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nuclear power plant model" data-ebay-reference="how-meta-secures-1-gw-of-nuclear-power-for-ai-nuclear-power-plant-model" target="_blank" rel="sponsored noopener noreferrer">Nuclear Power Plant Reactor and Cooling Towers 3D Printed Architectural Model</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=nuclear+power+plant+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-meta-secures-1-gw-of-nuclear-power-for-ai-nuclear-power-plant-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nuclear power plant model" data-ebay-reference="how-meta-secures-1-gw-of-nuclear-power-for-ai-nuclear-power-plant-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for nuclear power plant model">Search <span data-ebay-domain-label>eBay.co.uk</span>: nuclear power plant model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=nuclear+power+plant+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-meta-secures-1-gw-of-nuclear-power-for-ai-nuclear-power-plant-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nuclear power plant model" data-ebay-reference="how-meta-secures-1-gw-of-nuclear-power-for-ai-nuclear-power-plant-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=nuclear+power+plant+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-meta-secures-1-gw-of-nuclear-power-for-ai-nuclear-power-plant-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nuclear power plant model" data-ebay-reference="how-meta-secures-1-gw-of-nuclear-power-for-ai-nuclear-power-plant-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Nuclear Power Plant Reactor and Cooling Towers 3D Printed Architectural Model"><img src="https://i.ebayimg.com/images/g/SakAAOSwVKBj-v1L/s-l225.jpg" alt="Listing image for Nuclear Power Plant Reactor and Cooling Towers 3D Printed Architectural Model" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=nuclear+power+plant+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-meta-secures-1-gw-of-nuclear-power-for-ai-nuclear-power-plant-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nuclear power plant model" data-ebay-reference="how-meta-secures-1-gw-of-nuclear-power-for-ai-nuclear-power-plant-model" target="_blank" rel="sponsored noopener noreferrer">Nuclear Power Plant Reactor and Cooling Towers 3D Printed Architectural Model</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=nuclear+power+plant+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-meta-secures-1-gw-of-nuclear-power-for-ai-nuclear-power-plant-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nuclear power plant model" data-ebay-reference="how-meta-secures-1-gw-of-nuclear-power-for-ai-nuclear-power-plant-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for nuclear power plant model">Search<span data-ebay-domain-label>eBay.co.uk</span>: nuclear power plant model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=nuclear+power+plant+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-meta-secures-1-gw-of-nuclear-power-for-ai-nuclear-power-plant-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nuclear power plant model" data-ebay-reference="how-meta-secures-1-gw-of-nuclear-power-for-ai-nuclear-power-plant-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=nuclear+power+plant+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-meta-secures-1-gw-of-nuclear-power-for-ai-nuclear-power-plant-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nuclear power plant model" data-ebay-reference="how-meta-secures-1-gw-of-nuclear-power-for-ai-nuclear-power-plant-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1966 Press Photo Model of Tennessee Valley Authority nuclear power plant"><img src="https://i.ebayimg.com/images/g/Xm4AAOSw~H1llIEI/s-l225.jpg" alt="Listing image for 1966 Press Photo Model of Tennessee Valley Authority nuclear power plant" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=nuclear+power+plant+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-meta-secures-1-gw-of-nuclear-power-for-ai-nuclear-power-plant-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nuclear power plant model" data-ebay-reference="how-meta-secures-1-gw-of-nuclear-power-for-ai-nuclear-power-plant-model" target="_blank" rel="sponsored noopener noreferrer">1966 Press Photo Model of Tennessee Valley Authority nuclear power plant</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=nuclear+power+plant+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-meta-secures-1-gw-of-nuclear-power-for-ai-nuclear-power-plant-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nuclear power plant model" data-ebay-reference="how-meta-secures-1-gw-of-nuclear-power-for-ai-nuclear-power-plant-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for nuclear power plant model">Search <span data-ebay-domain-label>eBay.co.uk</span>: nuclear power plant model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=nuclear+power+plant+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-meta-secures-1-gw-of-nuclear-power-for-ai-nuclear-power-plant-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nuclear power plant model" data-ebay-reference="how-meta-secures-1-gw-of-nuclear-power-for-ai-nuclear-power-plant-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=nuclear+power+plant+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-meta-secures-1-gw-of-nuclear-power-for-ai-nuclear-power-plant-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nuclear power plant model" data-ebay-reference="how-meta-secures-1-gw-of-nuclear-power-for-ai-nuclear-power-plant-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=nuclear+power+plant+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-meta-secures-1-gw-of-nuclear-power-for-ai-nuclear-power-plant-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nuclear power plant model" data-ebay-reference="how-meta-secures-1-gw-of-nuclear-power-for-ai-nuclear-power-plant-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1966 Press Photo Model of Tennessee Valley Authority nuclear power plant"><img src="https://i.ebayimg.com/images/g/Xm4AAOSw~H1llIEI/s-l225.jpg" alt="Listing image for 1966 Press Photo Model of Tennessee Valley Authority nuclear power plant" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=nuclear+power+plant+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-meta-secures-1-gw-of-nuclear-power-for-ai-nuclear-power-plant-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nuclear power plant model" data-ebay-reference="how-meta-secures-1-gw-of-nuclear-power-for-ai-nuclear-power-plant-model" target="_blank" rel="sponsored noopener noreferrer">1966 Press Photo Model of Tennessee Valley Authority nuclear power plant</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=nuclear+power+plant+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-meta-secures-1-gw-of-nuclear-power-for-ai-nuclear-power-plant-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nuclear power plant model" data-ebay-reference="how-meta-secures-1-gw-of-nuclear-power-for-ai-nuclear-power-plant-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for nuclear power plant model">Search<span data-ebay-domain-label>eBay.co.uk</span>: nuclear power plant model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=nuclear+power+plant+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-meta-secures-1-gw-of-nuclear-power-for-ai-nuclear-power-plant-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nuclear power plant model" data-ebay-reference="how-meta-secures-1-gw-of-nuclear-power-for-ai-nuclear-power-plant-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=nuclear+power+plant+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-meta-secures-1-gw-of-nuclear-power-for-ai-nuclear-power-plant-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nuclear power plant model" data-ebay-reference="how-meta-secures-1-gw-of-nuclear-power-for-ai-nuclear-power-plant-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -601,7 +601,7 @@ As AI systems become more capable, the question is no longer only how much [inte
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -621,7 +621,7 @@ As AI systems become more capable, the question is no longer only how much [inte
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -653,7 +653,7 @@ As AI systems become more capable, the question is no longer only how much [inte
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -705,7 +705,7 @@ As AI systems become more capable, the question is no longer only how much [inte
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -750,7 +750,7 @@ As AI systems become more capable, the question is no longer only how much [inte
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -791,184 +791,184 @@ As AI systems become more capable, the question is no longer only how much [inte
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: reuters.com  
    Title: meta signs power agreement with constellation nuclear plant 2025 06 03  
-   Link: <a href="https://www.reuters.com/sustainability/climate-energy/meta-signs-power-agreement-with-constellation-nuclear-plant-2025-06-03/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/sustainability/climate-energy/meta-signs-power-agreement-with-constellation-nuclear-plant-2025-06-03/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Meta strikes power agreement with Constellation nuclear...3 Jun 2025 — The deal will help keep open Constellation&#x27;s Clinton Clean...</p></details>
+   Link:<a href="https://www.reuters.com/sustainability/climate-energy/meta-signs-power-agreement-with-constellation-nuclear-plant-2025-06-03/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/sustainability/climate-energy/meta-signs-power-agreement-with-constellation-nuclear-plant-2025-06-03/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Meta strikes power agreement with Constellation nuclear...3 Jun 2025 — The deal will help keep open Constellation&#x27;s Clinton Clean...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: world-nuclear-news.org  
    Title: meta constellation sign 20 year clean power deal  
-   Link: <a href="https://www.world-nuclear-news.org/articles/meta-constellation-sign-20-year-clean-power-deal" target="_blank" rel="noopener noreferrer nofollow">https://www.world-nuclear-news.org/articles/meta-constellation-sign-20-year-clean-power-deal</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>World Nuclear NewsMeta, Constellation sign 20-year clean power dealJun 3, 2025 — A 20-year power purchase agreement between Meta and Cons...</p></details>
+   Link:<a href="https://www.world-nuclear-news.org/articles/meta-constellation-sign-20-year-clean-power-deal" target="_blank" rel="noopener noreferrer nofollow">https://www.world-nuclear-news.org/articles/meta-constellation-sign-20-year-clean-power-deal</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>World Nuclear NewsMeta, Constellation sign 20-year clean power dealJun 3, 2025 — A 20-year power purchase agreement between Meta and Cons...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2605.14714" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2605.14714</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Flexibility-Aware Framework for Efficient Planner-Initiated Siting of Data CenterMay 14, 2026...</p></details>
+   Link:<a href="https://arxiv.org/abs/2605.14714" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2605.14714</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Flexibility-Aware Framework for Efficient Planner-Initiated Siting of Data CenterMay 14, 2026...</p></details>
    Published: May 14, 2026  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ForbesMENA.English/posts/meta-platforms-has-signed-20-year-agreements-with-three-companies-to-secure-up-t/1434939085308647/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ForbesMENA.English/posts/meta-platforms-has-signed-20-year-agreements-with-three-companies-to-secure-up-t/1434939085308647/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>to 6.6 GW of nuclear power by 2035, aiming to meet the rising...</p></details>
+   Link:<a href="https://www.facebook.com/ForbesMENA.English/posts/meta-platforms-has-signed-20-year-agreements-with-three-companies-to-secure-up-t/1434939085308647/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ForbesMENA.English/posts/meta-platforms-has-signed-20-year-agreements-with-three-companies-to-secure-up-t/1434939085308647/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>to 6.6 GW of nuclear power by 2035, aiming to meet the rising...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/EagleFMNam/posts/meta-turns-to-nuclear-power-to-fuel-ai-driven-data-centresmeta-has-signed-three-/1315946643882318/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/EagleFMNam/posts/meta-turns-to-nuclear-power-to-fuel-ai-driven-data-centresmeta-has-signed-three-/1315946643882318/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>d cloud services around the clock.Read more...</p></details>
+   Link:<a href="https://www.facebook.com/EagleFMNam/posts/meta-turns-to-nuclear-power-to-fuel-ai-driven-data-centresmeta-has-signed-three-/1315946643882318/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/EagleFMNam/posts/meta-turns-to-nuclear-power-to-fuel-ai-driven-data-centresmeta-has-signed-three-/1315946643882318/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>d cloud services around the clock.Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/WorldNuclearNews/posts/a-20-year-power-purchase-agreement-between-meta-and-constellation-will-secure-th/1132043352284534/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WorldNuclearNews/posts/a-20-year-power-purchase-agreement-between-meta-and-constellation-will-secure-th/1132043352284534/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>World Nuclear NewsConstellation + Meta just signed a deal that will keep Clinton Clean Energy Center powering Illinois for another 20 yea...</p></details>
+   Link:<a href="https://www.facebook.com/WorldNuclearNews/posts/a-20-year-power-purchase-agreement-between-meta-and-constellation-will-secure-th/1132043352284534/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WorldNuclearNews/posts/a-20-year-power-purchase-agreement-between-meta-and-constellation-will-secure-th/1132043352284534/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>World Nuclear NewsConstellation + Meta just signed a deal that will keep Clinton Clean Energy Center powering Illinois for another 20 yea...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: facebook.com  
    Title: meta signs nuclear power deal with constellation energy  
-   Link: <a href="https://www.facebook.com/cnbc/videos/meta-signs-nuclear-power-deal-with-constellation-energy/683521374532190/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cnbc/videos/meta-signs-nuclear-power-deal-with-constellation-energy/683521374532190/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Meta has signed a 20-year agreement to buy nuclear power...Beginning in 2027, the tech giant will purchase about 1.1 gigawatts of power...</p></details>
+   Link:<a href="https://www.facebook.com/cnbc/videos/meta-signs-nuclear-power-deal-with-constellation-energy/683521374532190/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cnbc/videos/meta-signs-nuclear-power-deal-with-constellation-energy/683521374532190/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Meta has signed a 20-year agreement to buy nuclear power...Beginning in 2027, the tech giant will purchase about 1.1 gigawatts of power...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: about.fb.com  
    Title: meta constellation partner clean energy project  
-   Link: <a href="https://about.fb.com/news/2025/06/meta-constellation-partner-clean-energy-project/" target="_blank" rel="noopener noreferrer nofollow">https://about.fb.com/news/2025/06/meta-constellation-partner-clean-energy-project/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>About FacebookMeta and Constellation Partner on Clean Energy ProjectJun 3, 2025 — We are announcing a 20-year corporate nuclear energy ag...</p></details>
+   Link:<a href="https://about.fb.com/news/2025/06/meta-constellation-partner-clean-energy-project/" target="_blank" rel="noopener noreferrer nofollow">https://about.fb.com/news/2025/06/meta-constellation-partner-clean-energy-project/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>About FacebookMeta and Constellation Partner on Clean Energy ProjectJun 3, 2025 — We are announcing a 20-year corporate nuclear energy ag...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: investors.constellationenergy.com  
    Title: constellation meta sign 20 year deal clean reliable nuclear  
-   Link: <a href="https://investors.constellationenergy.com/news-releases/news-release-details/constellation-meta-sign-20-year-deal-clean-reliable-nuclear" target="_blank" rel="noopener noreferrer nofollow">https://investors.constellationenergy.com/news-releases/news-release-details/constellation-meta-sign-20-year-deal-clean-reliable-nuclear</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Constellation Energy CorporationConstellation, Meta Sign 20-Year Deal for Clean, Reliable...3 Jun 2025 — The PPA will enable the Clinton...</p></details>
+   Link:<a href="https://investors.constellationenergy.com/news-releases/news-release-details/constellation-meta-sign-20-year-deal-clean-reliable-nuclear" target="_blank" rel="noopener noreferrer nofollow">https://investors.constellationenergy.com/news-releases/news-release-details/constellation-meta-sign-20-year-deal-clean-reliable-nuclear</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Constellation Energy CorporationConstellation, Meta Sign 20-Year Deal for Clean, Reliable...3 Jun 2025 — The PPA will enable the Clinton...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: utilitydive.com  
    Title: meta constellation illinois clinton nuclear ppa support ai goals  
-   Link: <a href="https://www.utilitydive.com/news/meta-constellation-illinois-clinton-nuclear-ppa-support-ai-goals/749992/" target="_blank" rel="noopener noreferrer nofollow">https://www.utilitydive.com/news/meta-constellation-illinois-clinton-nuclear-ppa-support-ai-goals/749992/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Utility DiveMeta, Constellation ink 20-year nuclear power deal to...Jun 6, 2025 — The agreement will give Meta 1,121 MW of nuclear energ...</p></details>
+   Link:<a href="https://www.utilitydive.com/news/meta-constellation-illinois-clinton-nuclear-ppa-support-ai-goals/749992/" target="_blank" rel="noopener noreferrer nofollow">https://www.utilitydive.com/news/meta-constellation-illinois-clinton-nuclear-ppa-support-ai-goals/749992/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Utility DiveMeta, Constellation ink 20-year nuclear power deal to...Jun 6, 2025 — The agreement will give Meta 1,121 MW of nuclear energ...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: utilitydive.com  
    Title: meta constellation ppa could be first of many deals for existing reactors  
-   Link: <a href="https://www.utilitydive.com/news/meta-constellation-ppa-could-be-first-of-many-deals-for-existing-reactors/750567/" target="_blank" rel="noopener noreferrer nofollow">https://www.utilitydive.com/news/meta-constellation-ppa-could-be-first-of-many-deals-for-existing-reactors/750567/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Meta-Constellation virtual PPA could be first of many deals...12 Jun 2025 — The virtual power purchase agreement will support a 30-MW po...</p></details>
+   Link:<a href="https://www.utilitydive.com/news/meta-constellation-ppa-could-be-first-of-many-deals-for-existing-reactors/750567/" target="_blank" rel="noopener noreferrer nofollow">https://www.utilitydive.com/news/meta-constellation-ppa-could-be-first-of-many-deals-for-existing-reactors/750567/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Meta-Constellation virtual PPA could be first of many deals...12 Jun 2025 — The virtual power purchase agreement will support a 30-MW po...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: penncapital-star.com  
    Title: meta strikes 20 year nuclear power deal with constellation energy  
-   Link: <a href="https://penncapital-star.com/energy-environment/meta-strikes-20-year-nuclear-power-deal-with-constellation-energy/" target="_blank" rel="noopener noreferrer nofollow">https://penncapital-star.com/energy-environment/meta-strikes-20-year-nuclear-power-deal-with-constellation-energy/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Penn Capital-StarMeta strikes 20-year nuclear power deal with Constellation...Jun 4, 2025 — Facebook&#x27;s parent company Meta locked in 20...</p></details>
+   Link:<a href="https://penncapital-star.com/energy-environment/meta-strikes-20-year-nuclear-power-deal-with-constellation-energy/" target="_blank" rel="noopener noreferrer nofollow">https://penncapital-star.com/energy-environment/meta-strikes-20-year-nuclear-power-deal-with-constellation-energy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Penn Capital-StarMeta strikes 20-year nuclear power deal with Constellation...Jun 4, 2025 — Facebook&#x27;s parent company Meta locked in 20...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: powermag.com  
    Title: meta deal with constellation will keep illinois nuclear plant open  
-   Link: <a href="https://www.powermag.com/meta-deal-with-constellation-will-keep-illinois-nuclear-plant-open/" target="_blank" rel="noopener noreferrer nofollow">https://www.powermag.com/meta-deal-with-constellation-will-keep-illinois-nuclear-plant-open/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>POWER MagazineMeta Deal with Constellation Will Keep Illinois Nuclear...3 Jun 2025 — The PPA will enable the Clinton Clean Energy Center...</p></details>
+   Link:<a href="https://www.powermag.com/meta-deal-with-constellation-will-keep-illinois-nuclear-plant-open/" target="_blank" rel="noopener noreferrer nofollow">https://www.powermag.com/meta-deal-with-constellation-will-keep-illinois-nuclear-plant-open/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>POWER MagazineMeta Deal with Constellation Will Keep Illinois Nuclear...3 Jun 2025 — The PPA will enable the Clinton Clean Energy Center...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: wsj.com  
-   Link: <a href="https://www.wsj.com/business/energy-oil/meta-signs-nuclear-power-deal-to-fuel-its-ai-ambitions-70c85367" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/business/energy-oil/meta-signs-nuclear-power-deal-to-fuel-its-ai-ambitions-70c85367</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Wall Street JournalMeta Signs Nuclear Power Deal to Fuel Its AI AmbitionsJune 3, 2025 — 3 Jun 2025 — The deal helps cover costs for r...</p></details>
+   Link:<a href="https://www.wsj.com/business/energy-oil/meta-signs-nuclear-power-deal-to-fuel-its-ai-ambitions-70c85367" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/business/energy-oil/meta-signs-nuclear-power-deal-to-fuel-its-ai-ambitions-70c85367</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Wall Street JournalMeta Signs Nuclear Power Deal to Fuel Its AI AmbitionsJune 3, 2025 — 3 Jun 2025 — The deal helps cover costs for r...</p></details>
    Published: June 3, 2025  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: ans.org  
-   Link: <a href="https://www.ans.org/news/2025-06-03/article-7084/constellation-meta-sign-20year-deal-to-source-entire-illinois-nuclear-plants-power/" target="_blank" rel="noopener noreferrer nofollow">https://www.ans.org/news/2025-06-03/article-7084/constellation-meta-sign-20year-deal-to-source-entire-illinois-nuclear-plants-power/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>American Nuclear SocietyConstellation, Meta sign 20-year deal to source entire...3 Jun 2025 — Meta is teaming up with Constellation to b...</p></details>
+   Link:<a href="https://www.ans.org/news/2025-06-03/article-7084/constellation-meta-sign-20year-deal-to-source-entire-illinois-nuclear-plants-power/" target="_blank" rel="noopener noreferrer nofollow">https://www.ans.org/news/2025-06-03/article-7084/constellation-meta-sign-20year-deal-to-source-entire-illinois-nuclear-plants-power/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>American Nuclear SocietyConstellation, Meta sign 20-year deal to source entire...3 Jun 2025 — Meta is teaming up with Constellation to b...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: about.fb.com  
    Title: meta nuclear energy projects power american ai leadership  
-   Link: <a href="https://about.fb.com/news/2026/01/meta-nuclear-energy-projects-power-american-ai-leadership/" target="_blank" rel="noopener noreferrer nofollow">https://about.fb.com/news/2026/01/meta-nuclear-energy-projects-power-american-ai-leadership/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>energy plant in Clinton, Illinois for 20 more years. Through additional 20-year nuclear energy agreements, we will purchase more than 2.1...</p></details>
+   Link:<a href="https://about.fb.com/news/2026/01/meta-nuclear-energy-projects-power-american-ai-leadership/" target="_blank" rel="noopener noreferrer nofollow">https://about.fb.com/news/2026/01/meta-nuclear-energy-projects-power-american-ai-leadership/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>energy plant in Clinton, Illinois for 20 more years. Through additional 20-year nuclear energy agreements, we will purchase more than 2.1...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: constellationenergy.com  
-   Link: <a href="https://www.constellationenergy.com/news/2025/constellation-meta-sign-20-year-deal-for-clean-reliable-nuclear-energy-in-illinois.html" target="_blank" rel="noopener noreferrer nofollow">https://www.constellationenergy.com/news/2025/constellation-meta-sign-20-year-deal-for-clean-reliable-nuclear-energy-in-illinois.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Constellation, Meta Sign 20-Year Deal for Clean, Reliable...3 Jun 2025 — The PPA will enable the Clinton Clean Energy Center to continue...</p></details>
+   Link:<a href="https://www.constellationenergy.com/news/2025/constellation-meta-sign-20-year-deal-for-clean-reliable-nuclear-energy-in-illinois.html" target="_blank" rel="noopener noreferrer nofollow">https://www.constellationenergy.com/news/2025/constellation-meta-sign-20-year-deal-for-clean-reliable-nuclear-energy-in-illinois.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Constellation, Meta Sign 20-Year Deal for Clean, Reliable...3 Jun 2025 — The PPA will enable the Clinton Clean Energy Center to continue...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Constellation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Constellation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ConstellationA constellation is an area on the celestial sphere in which a group of visible stars forms a perceived pattern or outline...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Constellation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Constellation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ConstellationA constellation is an area on the celestial sphere in which a group of visible stars forms a perceived pattern or outline...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/constellation-energy_constellation-and-meta-have-signed-a-20-year-activity-7335636462111019009-bKWh" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/constellation-energy_constellation-and-meta-have-signed-a-20-year-activity-7335636462111019009-bKWh</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>he output of Clinton Clean Energy Center to support Meta&#x27;s clean energy goals.Read more...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/constellation-energy_constellation-and-meta-have-signed-a-20-year-activity-7335636462111019009-bKWh" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/constellation-energy_constellation-and-meta-have-signed-a-20-year-activity-7335636462111019009-bKWh</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>he output of Clinton Clean Energy Center to support Meta&#x27;s clean energy goals.Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: powermag.com  
-   Link: <a href="https://www.powermag.com/constellation-outlines-nuclear-expansion-plans-at-clinton-site-as-meta-partnership-strengthens/" target="_blank" rel="noopener noreferrer nofollow">https://www.powermag.com/constellation-outlines-nuclear-expansion-plans-at-clinton-site-as-meta-partnership-strengthens/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Constellation Outlines Nuclear Expansion Plans at Clinton...Aug 27, 2025 — Constellation&#x27;s PPA with Meta, announced on June 3, 2025, gua...</p></details>
+   Link:<a href="https://www.powermag.com/constellation-outlines-nuclear-expansion-plans-at-clinton-site-as-meta-partnership-strengthens/" target="_blank" rel="noopener noreferrer nofollow">https://www.powermag.com/constellation-outlines-nuclear-expansion-plans-at-clinton-site-as-meta-partnership-strengthens/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Constellation Outlines Nuclear Expansion Plans at Clinton...Aug 27, 2025 — Constellation&#x27;s PPA with Meta, announced on June 3, 2025, gua...</p></details>
    Published: June 3, 2025  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: enlit.world  
    Title: constellation signs nuclear ppa with meta to support ai ambitions  
-   Link: <a href="https://www.enlit.world/library/constellation-signs-nuclear-ppa-with-meta-to-support-ai-ambitions" target="_blank" rel="noopener noreferrer nofollow">https://www.enlit.world/library/constellation-signs-nuclear-ppa-with-meta-to-support-ai-ambitions</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Constellation signs nuclear PPA with Meta to support AI...4 Jun 2025 — US energy company Constellation has signed a 20-year Power Purcha...</p></details>
+   Link:<a href="https://www.enlit.world/library/constellation-signs-nuclear-ppa-with-meta-to-support-ai-ambitions" target="_blank" rel="noopener noreferrer nofollow">https://www.enlit.world/library/constellation-signs-nuclear-ppa-with-meta-to-support-ai-ambitions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Constellation signs nuclear PPA with Meta to support AI...4 Jun 2025 — US energy company Constellation has signed a 20-year Power Purcha...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: rtoinsider.com  
-   Link: <a href="https://www.rtoinsider.com/?p=107035" target="_blank" rel="noopener noreferrer nofollow">https://www.rtoinsider.com/?p=107035</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Constellation, Meta Sign 20-year Nuclear PPAJun 3, 2025 — Meta has signed a 20-year power purchase agreement for the output of Constellat...</p></details>
+   Link:<a href="https://www.rtoinsider.com/?p=107035" target="_blank" rel="noopener noreferrer nofollow">https://www.rtoinsider.com/?p=107035</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Constellation, Meta Sign 20-year Nuclear PPAJun 3, 2025 — Meta has signed a 20-year power purchase agreement for the output of Constellat...</p></details>
 
 ### Additional References
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: datacenterdynamics.com  
-   Link: <a href="https://www.datacenterdynamics.com/en/news/meta-signs-20-year-ppa-with-constellation-for-entire-output-of-illinois-nuclear-power-plant/" target="_blank" rel="noopener noreferrer nofollow">https://www.datacenterdynamics.com/en/news/meta-signs-20-year-ppa-with-constellation-for-entire-output-of-illinois-nuclear-power-plant/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Meta signs 20-year PPA with Constellation for entire output...3 Jun 2025 — Meta has signed a 20-year Power Purchase Agreement (PPA) with...</p></details>
+   Link:<a href="https://www.datacenterdynamics.com/en/news/meta-signs-20-year-ppa-with-constellation-for-entire-output-of-illinois-nuclear-power-plant/" target="_blank" rel="noopener noreferrer nofollow">https://www.datacenterdynamics.com/en/news/meta-signs-20-year-ppa-with-constellation-for-entire-output-of-illinois-nuclear-power-plant/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Meta signs 20-year PPA with Constellation for entire output...3 Jun 2025 — Meta has signed a 20-year Power Purchase Agreement (PPA) with...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: esgtoday.com  
-   Link: <a href="https://www.esgtoday.com/meta-unveils-series-of-major-nuclear-energy-deals-to-power-u-s-data-centers-support-clean-energy-goals/" target="_blank" rel="noopener noreferrer nofollow">https://www.esgtoday.com/meta-unveils-series-of-major-nuclear-energy-deals-to-power-u-s-data-centers-support-clean-energy-goals/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Meta Unveils Series of Major Nuclear Energy Deals to...12 Jan 2026 — Facebook, Instagram, and WhatsApp owner Meta announced that it has...</p></details>
+   Link:<a href="https://www.esgtoday.com/meta-unveils-series-of-major-nuclear-energy-deals-to-power-u-s-data-centers-support-clean-energy-goals/" target="_blank" rel="noopener noreferrer nofollow">https://www.esgtoday.com/meta-unveils-series-of-major-nuclear-energy-deals-to-power-u-s-data-centers-support-clean-energy-goals/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Meta Unveils Series of Major Nuclear Energy Deals to...12 Jan 2026 — Facebook, Instagram, and WhatsApp owner Meta announced that it has...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/rachid-jdoua-1208b432_metaai-cleanenergy-nuclearpower-activity-7362805878770606080-1mLv" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/rachid-jdoua-1208b432_metaai-cleanenergy-nuclearpower-activity-7362805878770606080-1mLv</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Meta signs 20-year PPA for nuclear energy with...17 Aug 2025 — Meta Goes Nuclear: A 20-Year Clean Energy Bet to Power AI Expansion Meta...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/rachid-jdoua-1208b432_metaai-cleanenergy-nuclearpower-activity-7362805878770606080-1mLv" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/rachid-jdoua-1208b432_metaai-cleanenergy-nuclearpower-activity-7362805878770606080-1mLv</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Meta signs 20-year PPA for nuclear energy with...17 Aug 2025 — Meta Goes Nuclear: A 20-Year Clean Energy Bet to Power AI Expansion Meta...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: nucnet.org  
-   Link: <a href="https://www.nucnet.org/news/meta-signs-deal-to-keep-clinton-nuclear-plant-online-for-another-20-years-6-2-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.nucnet.org/news/meta-signs-deal-to-keep-clinton-nuclear-plant-online-for-another-20-years-6-2-2025</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Meta Signs Deal To Keep Clinton Nuclear Plant Online For...2 Jun 2025 — Meta have signed an agreement that will support the continued op...</p></details>
+   Link:<a href="https://www.nucnet.org/news/meta-signs-deal-to-keep-clinton-nuclear-plant-online-for-another-20-years" target="_blank" rel="noopener noreferrer nofollow">https://www.nucnet.org/news/meta-signs-deal-to-keep-clinton-nuclear-plant-online-for-another-20-years</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Meta Signs Deal To Keep Clinton Nuclear Plant Online For...2 Jun 2025 — Meta have signed an agreement that will support the continued op...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/shorts/n4fAXKu1Gac" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/n4fAXKu1Gac</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Meta signs nuclear power deal with Constellation EnergyMeta has signed a 20-year agreement to buy nuclear power from Constellation Energy...</p></details>
+   Link:<a href="https://www.youtube.com/shorts/n4fAXKu1Gac" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/n4fAXKu1Gac</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Meta signs nuclear power deal with Constellation EnergyMeta has signed a 20-year agreement to buy nuclear power from Constellation Energy...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: silicon.co.uk  
    Title: meta signs 20 year deal for nuclear power to meet ai demand 616918  
-   Link: <a href="https://www.silicon.co.uk/cloud/datacenter/meta-signs-20-year-deal-for-nuclear-power-to-meet-ai-demand-616918" target="_blank" rel="noopener noreferrer nofollow">https://www.silicon.co.uk/cloud/datacenter/meta-signs-20-year-deal-for-nuclear-power-to-meet-ai-demand-616918</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Meta Deal For Nuclear Power To Meet AI Demand4 Jun 2025 — The deal between Meta and Constellation will begin in June 2027, and will “expa...</p></details>
+   Link:<a href="https://www.silicon.co.uk/cloud/datacenter/meta-signs-20-year-deal-for-nuclear-power-to-meet-ai-demand-616918" target="_blank" rel="noopener noreferrer nofollow">https://www.silicon.co.uk/cloud/datacenter/meta-signs-20-year-deal-for-nuclear-power-to-meet-ai-demand-616918</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Meta Deal For Nuclear Power To Meet AI Demand4 Jun 2025 — The deal between Meta and Constellation will begin in June 2027, and will “expa...</p></details>
    Published: June 2027  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: esgdive.com  
    Title: meta constellation illinois clinton nuclear ppa support ai goals  
-   Link: <a href="https://www.esgdive.com/news/meta-constellation-illinois-clinton-nuclear-ppa-support-ai-goals/749965/" target="_blank" rel="noopener noreferrer nofollow">https://www.esgdive.com/news/meta-constellation-illinois-clinton-nuclear-ppa-support-ai-goals/749965/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Meta, Constellation ink 20-year nuclear power deal to...5 Jun 2025 — The agreement will give Meta 1,121 megawatts of nuclear energy begi...</p></details>
+   Link:<a href="https://www.esgdive.com/news/meta-constellation-illinois-clinton-nuclear-ppa-support-ai-goals/749965/" target="_blank" rel="noopener noreferrer nofollow">https://www.esgdive.com/news/meta-constellation-illinois-clinton-nuclear-ppa-support-ai-goals/749965/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Meta, Constellation ink 20-year nuclear power deal to...5 Jun 2025 — The agreement will give Meta 1,121 megawatts of nuclear energy begi...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: power-eng.com  
    Title: meta inks ppa with constellations clinton nuclear plant  
-   Link: <a href="https://www.power-eng.com/nuclear/meta-inks-ppa-with-constellations-clinton-nuclear-plant/" target="_blank" rel="noopener noreferrer nofollow">https://www.power-eng.com/nuclear/meta-inks-ppa-with-constellations-clinton-nuclear-plant/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Meta inks PPA with Constellation&#x27;s Clinton nuclear plant5 Jun 2025 — Meta has signed a 20-year power purchase agreement (PPA) for the out...</p></details>
+   Link:<a href="https://www.power-eng.com/nuclear/meta-inks-ppa-with-constellations-clinton-nuclear-plant/" target="_blank" rel="noopener noreferrer nofollow">https://www.power-eng.com/nuclear/meta-inks-ppa-with-constellations-clinton-nuclear-plant/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Meta inks PPA with Constellation&#x27;s Clinton nuclear plant5 Jun 2025 — Meta has signed a 20-year power purchase agreement (PPA) for the out...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: neutronbytes.com  
    Title: meta signs 20 year power deal with constellation  
-   Link: <a href="https://neutronbytes.com/2025/06/06/meta-signs-20-year-power-deal-with-constellation/" target="_blank" rel="noopener noreferrer nofollow">https://neutronbytes.com/2025/06/06/meta-signs-20-year-power-deal-with-constellation/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Neutron BytesMeta Signs 20 Year Power Deal with ConstellationJun 6, 2025 — This deal will expand Clinton&#x27;s output by 30 MW through a plan...</p></details>
+   Link:<a href="https://neutronbytes.com/2025/06/06/meta-signs-20-year-power-deal-with-constellation/" target="_blank" rel="noopener noreferrer nofollow">https://neutronbytes.com/2025/06/06/meta-signs-20-year-power-deal-with-constellation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Neutron BytesMeta Signs 20 Year Power Deal with ConstellationJun 6, 2025 — This deal will expand Clinton&#x27;s output by 30 MW through a plan...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: guzman.com  
-   Link: <a href="https://www.guzman.com/wp-content/uploads/2025/10/Meta-Constellation-Nuclear-Power-Agreement-Analysis-06032025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.guzman.com/wp-content/uploads/2025/10/Meta-Constellation-Nuclear-Power-Agreement-Analysis-06032025.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Meta–Constellation Nuclear Power Agreement AnalysisEarlier today (June 3, 2025) Meta has signed a landmark 20-year agreement with Constel...</p></details>
+   Link:<a href="https://www.guzman.com/wp-content/uploads/2025/10/Meta-Constellation-Nuclear-Power-Agreement-Analysis-06032025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.guzman.com/wp-content/uploads/2025/10/Meta-Constellation-Nuclear-Power-Agreement-Analysis-06032025.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Meta–Constellation Nuclear Power Agreement AnalysisEarlier today (June 3, 2025) Meta has signed a landmark 20-year agreement with Constel...</p></details>
    Published: June 3, 2025

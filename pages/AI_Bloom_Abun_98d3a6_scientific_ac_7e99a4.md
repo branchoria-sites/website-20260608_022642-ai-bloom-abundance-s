@@ -319,42 +319,42 @@ image: /assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4-overview-social.
 AlphaFold is the clearest early sign that AI can speed up science: it turned protein structure prediction from a slow, specialist bottleneck into a resource that millions of researchers can query. But the bigger AI bloom question is what happens next. The strongest optimistic case is not merely that AI gives scientists clever tools; it is that it could become a stack of discovery accelerators across biology, materials, climate, [energy]({{ 'energy/' | relative_url }}) and medicine, compressing years of search into weeks or days while widening who can participate.
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4-overview.webp" | relative_url }}" alt="Overview image for Discovery" loading="eager" decoding="sync" fetchpriority="high">
-That case is now plausible enough to take seriously, but not strong enough to treat as guaranteed. AI has already produced striking scientific outputs: more than 200 million predicted protein structures in the AlphaFold Database, millions of proposed crystals from Google DeepMind’s GNoME, faster weather models such as GraphCast and GenCast, AI-guided fusion plasma [control]({{ 'control/' | relative_url }}), and new systems that generate hypotheses or help interpret genetic variation. Yet the hard part remains moving from prediction to proof: making materials, testing medicines, validating mechanisms, scaling lab automation, and ensuring the gains serve broad human flourishing rather than becoming concentrated behind private platforms. Nature <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/AlphaFold" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[AlphaFold]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Alpha Fold</span><span class="citation-popover-snippet">Alpha Fold</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://deepmind.google/blog/millions-of-new-materials-discovered-with-deep-learning/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deepmind.google">[Google DeepMind]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deepmind.google</span><span class="citation-popover-title">millions of new materials discovered with deep learning</span><span class="citation-popover-snippet">Google DeepMindMillions of new materials discovered with deep learning29 Nov 2023 — AI tool GNoME finds 2.2 million new crystals, includi...</span></span></span>
+That case is now plausible enough to take seriously, but not strong enough to treat as guaranteed. AI has already produced striking scientific outputs: more than 200 million predicted protein structures in the AlphaFold Database, millions of proposed crystals from Google DeepMind’s GNoME, faster weather models such as GraphCast and GenCast, AI-guided fusion plasma [control]({{ 'control/' | relative_url }}), and new systems that generate hypotheses or help interpret genetic variation. Yet the hard part remains moving from prediction to proof: making materials, testing medicines, validating mechanisms, scaling lab automation, and ensuring the gains serve broad human flourishing rather than becoming concentrated behind private platforms. Nature<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/AlphaFold" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[AlphaFold]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Alpha Fold</span><span class="citation-popover-snippet">Alpha Fold</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://deepmind.google/blog/millions-of-new-materials-discovered-with-deep-learning/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deepmind.google">[Google DeepMind]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deepmind.google</span><span class="citation-popover-title">millions of new materials discovered with deep learning</span><span class="citation-popover-snippet">Google DeepMindMillions of new materials discovered with deep learning29 Nov 2023 — AI tool GNoME finds 2.2 million new crystals, includi...</span></span></span>
 
 ## AlphaFold showed what acceleration looks like
 
-Before AlphaFold, knowing a protein’s three-dimensional shape often meant expensive and difficult experimental work using methods such as X-ray crystallography or cryo-electron microscopy. Those methods remain vital, but they do not scale easily to the full variety of proteins found across life. AlphaFold changed the practical tempo of this field by predicting protein structures from amino-acid sequences with accuracy that, in many cases, is competitive with experimental structures. The original Nature paper described a system that directly predicts atomic coordinates from sequence information and homologous sequence alignments, addressing a problem that had shaped biology for decades. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-024-08252-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Open source on nature.com.</span></span></span>
+Before AlphaFold, knowing a protein’s three-dimensional shape often meant expensive and difficult experimental work using methods such as X-ray crystallography or cryo-electron microscopy. Those methods remain vital, but they do not scale easily to the full variety of proteins found across life. AlphaFold changed the practical tempo of this field by predicting protein structures from amino-acid sequences with accuracy that, in many cases, is competitive with experimental structures. The original Nature paper described a system that directly predicts atomic coordinates from sequence information and homologous sequence alignments, addressing a problem that had shaped biology for decades.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-024-08252-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Open source on nature.com.</span></span></span>
 
-The most important feature of AlphaFold was not only that a model worked. It was that the result became infrastructure. The AlphaFold Protein Structure Database, developed by Google DeepMind and EMBL-EBI, now gives open access to more than 200 million predicted protein structures. A 2024 database paper described AlphaFold DB as a large digital library with more than 214 million entries, which means a researcher can often begin a project with a plausible structural model rather than spending months trying to obtain one. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/AlphaFold" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[AlphaFold]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Alpha Fold</span><span class="citation-popover-snippet">Alpha Fold</span></span></span>
+The most important feature of AlphaFold was not only that a model worked. It was that the result became infrastructure. The AlphaFold Protein Structure Database, developed by Google DeepMind and EMBL-EBI, now gives open access to more than 200 million predicted protein structures. A 2024 database paper described AlphaFold DB as a large digital library with more than 214 million entries, which means a researcher can often begin a project with a plausible structural model rather than spending months trying to obtain one.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/AlphaFold" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[AlphaFold]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Alpha Fold</span><span class="citation-popover-snippet">Alpha Fold</span></span></span>
 
 That is why AlphaFold matters for the AI bloom thesis. It offers a concrete example of [intelligence]({{ 'intelligence/' | relative_url }}) becoming more abundant inside science. A bottleneck that used to depend on scarce expert labour, specialised equipment and uncertain experimental luck became partly searchable, shareable and reusable. The gain is not that all of structural biology is solved. It is that many more researchers can ask structural questions earlier, cheaper and at larger scale.
 
-AlphaFold 3 widened the signal by moving beyond single protein structures towards biomolecular interactions involving proteins, nucleic acids, small molecules, ions and modified residues. This matters because biology is not just a collection of isolated shapes: drugs bind to proteins, proteins interact with DNA and RNA, and cellular systems depend on complexes. But this also shows the pattern of the field: each AI step opens new scientific opportunities while revealing new limits. AlphaFold 3 still needs experimental [validation]({{ 'validation/' | relative_url }}), and researchers have noted concerns about access, transparency and limits in particular classes of molecular interaction. Nature <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ebi.ac.uk/training/online/courses/alphafold/alphafold-3-and-alphafold-server/introducing-alphafold-3/how-have-alphafold-3s-predictions-been-validated/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebi.ac.uk">[EMBL-EBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebi.ac.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+AlphaFold 3 widened the signal by moving beyond single protein structures towards biomolecular interactions involving proteins, nucleic acids, small molecules, ions and modified residues. This matters because biology is not just a collection of isolated shapes: drugs bind to proteins, proteins interact with DNA and RNA, and cellular systems depend on complexes. But this also shows the pattern of the field: each AI step opens new scientific opportunities while revealing new limits. AlphaFold 3 still needs experimental [validation]({{ 'validation/' | relative_url }}), and researchers have noted concerns about access, transparency and limits in particular classes of molecular interaction. Nature<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ebi.ac.uk/training/online/courses/alphafold/alphafold-3-and-alphafold-server/introducing-alphafold-3/how-have-alphafold-3s-predictions-been-validated/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebi.ac.uk">[EMBL-EBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebi.ac.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4-Illustration-1-dark.svg" | relative_url }}" alt="Discovery illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The real prize is a discovery stack, not a single model
 
 AlphaFold is sometimes treated as if it were the whole story of AI in science. A better way to see it is as one layer in a larger discovery stack. Scientific acceleration happens when several kinds of AI tool reinforce one another: models that read literature, models that propose hypotheses, models that simulate systems, models that design molecules or materials, [robotics]({{ 'robotics/' | relative_url }}) that run experiments, and analysis systems that decide what to test next.
 
-This is the shift from “AI gives an answer” to “AI changes the cycle time of research”. In a traditional research loop, scientists survey prior work, form hypotheses, design experiments, collect data, analyse results, revise the question and repeat. AI can potentially speed up several of those steps at once. Google’s AI co-scientist, for example, is described as a multi-agent system built on Gemini 2.0 to help scientists generate hypotheses and research proposals. Reuters reported early testing with institutions including Stanford University and Imperial College London, while the research description frames the system as a virtual collaborator rather than a replacement for human scientists. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research.google/blog/accelerating-scientific-breakthroughs-with-an-ai-co-scientist/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.google">[Google Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.google</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+This is the shift from “AI gives an answer” to “AI changes the cycle time of research”. In a traditional research loop, scientists survey prior work, form hypotheses, design experiments, collect data, analyse results, revise the question and repeat. AI can potentially speed up several of those steps at once. Google’s AI co-scientist, for example, is described as a multi-agent system built on Gemini 2.0 to help scientists generate hypotheses and research proposals. Reuters reported early testing with institutions including Stanford University and Imperial College London, while the research description frames the system as a virtual collaborator rather than a replacement for human scientists.<span class="citation-chip-wrap"><a class="citation-chip" href="https://research.google/blog/accelerating-scientific-breakthroughs-with-an-ai-co-scientist/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.google">[Google Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.google</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 This kind of system is more speculative than AlphaFold because it operates closer to scientific reasoning itself. A protein structure prediction can be compared against experimental structures. A research hypothesis is harder to score: it may be novel but wrong, plausible but unimportant, or useful only after years of refinement. Still, the direction is important. If AI systems can reliably read vast literatures, connect distant findings, suggest experiments and prioritise what to test, the bottleneck shifts from having ideas to proving which ideas survive contact with the world.
 
-That is where laboratory automation becomes central. An AI that proposes a thousand experiments is not enough if only a handful can be run. Autonomous and semi-autonomous labs aim to close the loop by letting software plan experiments, robots execute them, instruments collect data, and models update the next round. A 2025 perspective on AI and robotics in natural science laboratories highlighted the promise of accelerated discovery in life sciences and materials, but also stressed challenges around robust autonomy, reproducibility, standardisation, [human roles]({{ 'human-role/' | relative_url }}) and ethics. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2501.06847" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+That is where laboratory automation becomes central. An AI that proposes a thousand experiments is not enough if only a handful can be run. Autonomous and semi-autonomous labs aim to close the loop by letting software plan experiments, robots execute them, instruments collect data, and models update the next round. A 2025 perspective on AI and robotics in natural science laboratories highlighted the promise of accelerated discovery in life sciences and materials, but also stressed challenges around robust autonomy, reproducibility, standardisation, [human roles]({{ 'human-role/' | relative_url }}) and ethics.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2501.06847" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 ## Materials discovery is the clearest “beyond biology” test
 
 Materials research is one of the strongest examples of AI moving beyond AlphaFold-like biology. Modern abundance depends on materials: better batteries, catalysts, solar cells, carbon-capture systems, semiconductors, superconductors, fertiliser processes and construction materials. A society with cheap clean energy and resilient infrastructure would not be built from software alone; it would require new physical capabilities.
 
-Google DeepMind’s GNoME is a striking signal here. In 2023, DeepMind reported that GNoME had identified 2.2 million new crystal structures, including about 380,000 stable materials judged promising enough for further study. The Nature paper on scaling deep learning for materials discovery described this as enabling previously impossible modelling capabilities, while also noting unresolved problems around phase transitions, dynamic stability and synthesizability. <span class="citation-chip-wrap"><a class="citation-chip" href="https://deepmind.google/blog/millions-of-new-materials-discovered-with-deep-learning/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deepmind.google">[Google DeepMind]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deepmind.google</span><span class="citation-popover-title">millions of new materials discovered with deep learning</span><span class="citation-popover-snippet">Google DeepMindMillions of new materials discovered with deep learning29 Nov 2023 — AI tool GNoME finds 2.2 million new crystals, includi...</span></span></span>
+Google DeepMind’s GNoME is a striking signal here. In 2023, DeepMind reported that GNoME had identified 2.2 million new crystal structures, including about 380,000 stable materials judged promising enough for further study. The Nature paper on scaling deep learning for materials discovery described this as enabling previously impossible modelling capabilities, while also noting unresolved problems around phase transitions, dynamic stability and synthesizability.<span class="citation-chip-wrap"><a class="citation-chip" href="https://deepmind.google/blog/millions-of-new-materials-discovered-with-deep-learning/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deepmind.google">[Google DeepMind]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deepmind.google</span><span class="citation-popover-title">millions of new materials discovered with deep learning</span><span class="citation-popover-snippet">Google DeepMindMillions of new materials discovered with deep learning29 Nov 2023 — AI tool GNoME finds 2.2 million new crystals, includi...</span></span></span>
 
 The key word is “synthesizability”. A predicted material does not automatically become a usable battery or catalyst. It may be stable in a calculation but hard to make, unstable under real operating conditions, too expensive, toxic, brittle, rare, or simply not useful. This is the same realism test that runs through AI science: prediction is valuable, but the world gets the final vote.
 
-The A-Lab at Lawrence Berkeley National Laboratory showed both promise and caution in one case. The Nature paper introduced an autonomous laboratory for solid-state synthesis that combined computation, literature-derived knowledge, machine learning, active learning and robotics. Over 17 days, it reported realising 41 novel compounds from 58 targets. Berkeley Lab’s own coverage emphasised the combination of AI-generated targets, automated synthesis and the Materials Project database. Nature <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/34265844/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The A-Lab at Lawrence Berkeley National Laboratory showed both promise and caution in one case. The Nature paper introduced an autonomous laboratory for solid-state synthesis that combined computation, literature-derived knowledge, machine learning, active learning and robotics. Over 17 days, it reported realising 41 novel compounds from 58 targets. Berkeley Lab’s own coverage emphasised the combination of AI-generated targets, automated synthesis and the Materials Project database. Nature<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/34265844/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Yet the A-Lab case also attracted scrutiny. Chemistry World reported that a later analysis raised doubts about the autonomous lab’s claimed materials discoveries. This does not make the whole field unimportant; it makes the lesson sharper. AI-for-science claims must be judged by reproducible experimental proof, not by impressive numbers of candidates generated on a computer. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.chemistryworld.com/news/new-analysis-raises-doubts-over-autonomous-labs-materials-discoveries/4018791.article" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chemistryworld.com">[Chemistry World]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chemistryworld.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Yet the A-Lab case also attracted scrutiny. Chemistry World reported that a later analysis raised doubts about the autonomous lab’s claimed materials discoveries. This does not make the whole field unimportant; it makes the lesson sharper. AI-for-science claims must be judged by reproducible experimental proof, not by impressive numbers of candidates generated on a computer.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.chemistryworld.com/news/new-analysis-raises-doubts-over-autonomous-labs-materials-discoveries/4018791.article" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chemistryworld.com">[Chemistry World]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chemistryworld.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Microsoft’s MatterGen points to another direction: not just screening vast lists of possible materials, but generating candidate inorganic materials under desired property constraints. The Nature paper says MatterGen produces stable and diverse inorganic materials and can be fine-tuned towards a range of property constraints; Microsoft describes it as a move towards generative AI-assisted materials design. This is closer to “inverse design”: start with the material properties society needs, then search for structures that might deliver them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.microsoft.com/en-us/research/blog/mattergen-a-new-paradigm-of-materials-design-with-generative-ai/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: microsoft.com">[Microsoft]</a><span class="citation-popover" role="note"><span class="citation-popover-source">microsoft.com</span><span class="citation-popover-snippet">Open source on microsoft.com.</span></span></span>
+Microsoft’s MatterGen points to another direction: not just screening vast lists of possible materials, but generating candidate inorganic materials under desired property constraints. The Nature paper says MatterGen produces stable and diverse inorganic materials and can be fine-tuned towards a range of property constraints; Microsoft describes it as a move towards generative AI-assisted materials design. This is closer to “inverse design”: start with the material properties society needs, then search for structures that might deliver them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.microsoft.com/en-us/research/blog/mattergen-a-new-paradigm-of-materials-design-with-generative-ai/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: microsoft.com">[Microsoft]</a><span class="citation-popover" role="note"><span class="citation-popover-source">microsoft.com</span><span class="citation-popover-snippet">Open source on microsoft.com.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/P_fHJIYENdI" title="AlphaFold - The Most Useful Thing AI Has Ever Done" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=P_fHJIYENdI" target="_blank" rel="noopener noreferrer">AlphaFold - The Most Useful Thing AI Has Ever Done</a></p><p class="youtube-embed-meta">Channel: Veritasium &middot; Views: 10.7M &middot; Uploaded: February 2025 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=P_fHJIYENdI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=P_fHJIYENdI">Open on YouTube</a></p></div></div></div>
 
@@ -362,26 +362,26 @@ Microsoft’s MatterGen points to another direction: not just screening vast lis
 
 AlphaFold made protein structure more accessible, but biological acceleration now extends into genetics, variant interpretation, drug discovery and synthetic biology. The common pattern is that AI turns enormous biological search spaces into ranked maps. That can save time, reveal candidates humans would miss, and help researchers prioritise scarce experimental work.
 
-AlphaMissense is a good example. Missense variants are single-letter genetic changes that alter the amino acid sequence of a protein. Many are harmless, but some contribute to disease, and the number of possible variants is too large for manual interpretation. Google DeepMind reported that AlphaMissense predicted the pathogenicity of all 71 million possible human missense variants, classifying 89% of them as likely benign or likely pathogenic. The underlying research presented AlphaMissense as an adaptation of AlphaFold fine-tuned on human and primate variant frequency data, combining structural context and evolutionary conservation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://deepmind.google/blog/millions-of-new-materials-discovered-with-deep-learning/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deepmind.google">[Google DeepMind]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deepmind.google</span><span class="citation-popover-title">millions of new materials discovered with deep learning</span><span class="citation-popover-snippet">Google DeepMindMillions of new materials discovered with deep learning29 Nov 2023 — AI tool GNoME finds 2.2 million new crystals, includi...</span></span></span>
+AlphaMissense is a good example. Missense variants are single-letter genetic changes that alter the amino acid sequence of a protein. Many are harmless, but some contribute to disease, and the number of possible variants is too large for manual interpretation. Google DeepMind reported that AlphaMissense predicted the pathogenicity of all 71 million possible human missense variants, classifying 89% of them as likely benign or likely pathogenic. The underlying research presented AlphaMissense as an adaptation of AlphaFold fine-tuned on human and primate variant frequency data, combining structural context and evolutionary conservation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://deepmind.google/blog/millions-of-new-materials-discovered-with-deep-learning/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deepmind.google">[Google DeepMind]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deepmind.google</span><span class="citation-popover-title">millions of new materials discovered with deep learning</span><span class="citation-popover-snippet">Google DeepMindMillions of new materials discovered with deep learning29 Nov 2023 — AI tool GNoME finds 2.2 million new crystals, includi...</span></span></span>
 
 This is scientifically important, but it is not a clinical magic wand. Variant-effect predictions can help researchers and clinicians prioritise which mutations to study, but they do not replace patient evidence, family histories, laboratory assays or clinical judgement. The acceleration comes from narrowing the haystack, not abolishing the need for verification.
 
-A newer and broader signal comes from genomic foundation models such as Evo 2. The Nature paper describes Evo 2 as a biological foundation model trained on around 9 trillion DNA base pairs across all domains of life, with a long context window and single-nucleotide resolution. It reports that the model can predict functional impacts of genetic variation, including non-coding pathogenic mutations and clinically significant BRCA1 variants, without task-specific fine-tuning. The Arc Institute frames Evo 2 as part of an open and collaborative approach to biological modelling. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-021-03819-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Open source on nature.com.</span></span></span>
+A newer and broader signal comes from genomic foundation models such as Evo 2. The Nature paper describes Evo 2 as a biological foundation model trained on around 9 trillion DNA base pairs across all domains of life, with a long context window and single-nucleotide resolution. It reports that the model can predict functional impacts of genetic variation, including non-coding pathogenic mutations and clinically significant BRCA1 variants, without task-specific fine-tuning. The Arc Institute frames Evo 2 as part of an open and collaborative approach to biological modelling.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-021-03819-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Open source on nature.com.</span></span></span>
 
-For the AI bloom thesis, this matters because biology is one of the deepest constraints on human flourishing: disease, ageing, food production, environmental resilience and biotechnology all depend on understanding living systems. But it also raises safety and governance questions. More powerful biological design tools could help medicine and climate adaptation, while also increasing the importance of biosecurity, access control, privacy and responsible publication norms. Recent work on DNA foundation model embeddings, for example, warns that genomic representations can leak sequence information under reconstruction attacks, showing that even seemingly technical design choices can have privacy consequences. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2501.06847" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+For the AI bloom thesis, this matters because biology is one of the deepest constraints on human flourishing: disease, ageing, food production, environmental resilience and biotechnology all depend on understanding living systems. But it also raises safety and governance questions. More powerful biological design tools could help medicine and climate adaptation, while also increasing the importance of biosecurity, access control, privacy and responsible publication norms. Recent work on DNA foundation model embeddings, for example, warns that genomic representations can leak sequence information under reconstruction attacks, showing that even seemingly technical design choices can have privacy consequences.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2501.06847" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4-Illustration-2-dark.svg" | relative_url }}" alt="Discovery illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Climate, weather and energy show the broader pattern
 
 Scientific acceleration beyond AlphaFold is not confined to lab biology. Climate and energy systems involve complex dynamics, sparse measurements, physical constraints and high-stakes decisions. AI is beginning to help here too, although again the strongest evidence is for specific tasks rather than sweeping replacement of existing science.
 
-Weather forecasting is a vivid case because forecast speed and accuracy have immediate social value. Google DeepMind’s GraphCast predicts global weather up to 10 days ahead and was reported to outperform the European Centre for Medium-Range Weather Forecasts’ high-resolution deterministic system on 90% of 1,380 verification targets, while producing forecasts much faster than traditional supercomputer-based models. <span class="citation-chip-wrap"><a class="citation-chip" href="https://deepmind.google/blog/millions-of-new-materials-discovered-with-deep-learning/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deepmind.google">[Google DeepMind]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deepmind.google</span><span class="citation-popover-title">millions of new materials discovered with deep learning</span><span class="citation-popover-snippet">Google DeepMindMillions of new materials discovered with deep learning29 Nov 2023 — AI tool GNoME finds 2.2 million new crystals, includi...</span></span></span>
+Weather forecasting is a vivid case because forecast speed and accuracy have immediate social value. Google DeepMind’s GraphCast predicts global weather up to 10 days ahead and was reported to outperform the European Centre for Medium-Range Weather Forecasts’ high-resolution deterministic system on 90% of 1,380 verification targets, while producing forecasts much faster than traditional supercomputer-based models.<span class="citation-chip-wrap"><a class="citation-chip" href="https://deepmind.google/blog/millions-of-new-materials-discovered-with-deep-learning/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deepmind.google">[Google DeepMind]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deepmind.google</span><span class="citation-popover-title">millions of new materials discovered with deep learning</span><span class="citation-popover-snippet">Google DeepMindMillions of new materials discovered with deep learning29 Nov 2023 — AI tool GNoME finds 2.2 million new crystals, includi...</span></span></span>
 
-GenCast extends the picture from a single forecast to probabilistic forecasting, where the model generates a range of possible weather futures. The Nature paper describes GenCast as a machine-learning weather model with greater skill and speed than ECMWF’s ENS ensemble forecast, generating 15-day global forecasts for more than 80 variables in about eight minutes. This matters for renewable energy planning, storm preparation and risk management because many decisions depend not only on the most likely weather, but on the range of plausible outcomes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-024-07487-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Open source on nature.com.</span></span></span>
+GenCast extends the picture from a single forecast to probabilistic forecasting, where the model generates a range of possible weather futures. The Nature paper describes GenCast as a machine-learning weather model with greater skill and speed than ECMWF’s ENS ensemble forecast, generating 15-day global forecasts for more than 80 variables in about eight minutes. This matters for renewable energy planning, storm preparation and risk management because many decisions depend not only on the most likely weather, but on the range of plausible outcomes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-024-07487-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Open source on nature.com.</span></span></span>
 
-The caveat is that weather success does not automatically solve climate projection. Weather models can be trained and tested against vast records of past atmospheric states. Climate change asks harder questions about generalisation under future conditions, rare extremes and coupled Earth systems. A 2025 Nature Communications review of AI for extreme weather and climate events stressed the need for accurate, transparent and reliable models, highlighting problems of limited data, real-time integration and trust. A 2026 Science Advances study also found that physics-based models still outperformed AI models for record-breaking heat, cold and wind in many cases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-023-06735-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Open source on nature.com.</span></span></span>
+The caveat is that weather success does not automatically solve climate projection. Weather models can be trained and tested against vast records of past atmospheric states. Climate change asks harder questions about generalisation under future conditions, rare extremes and coupled Earth systems. A 2025 Nature Communications review of AI for extreme weather and climate events stressed the need for accurate, transparent and reliable models, highlighting problems of limited data, real-time integration and trust. A 2026 Science Advances study also found that physics-based models still outperformed AI models for record-breaking heat, cold and wind in many cases.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-023-06735-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Open source on nature.com.</span></span></span>
 
-Fusion research shows a different kind of acceleration: AI as a control system for difficult physical experiments. DeepMind and the Swiss Plasma Center demonstrated reinforcement learning for magnetic control of tokamak plasmas, one of the hardest real-world control problems to which reinforcement learning had been applied. Later work used AI control to reduce the likelihood of tearing instabilities in the DIII-D tokamak, the largest magnetic fusion facility in the United States. These are not proofs of commercial fusion, but they show AI helping researchers manage complex physical systems that matter for clean energy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-023-06734-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Open source on nature.com.</span></span></span>
+Fusion research shows a different kind of acceleration: AI as a control system for difficult physical experiments. DeepMind and the Swiss Plasma Center demonstrated reinforcement learning for magnetic control of tokamak plasmas, one of the hardest real-world control problems to which reinforcement learning had been applied. Later work used AI control to reduce the likelihood of tearing instabilities in the DIII-D tokamak, the largest magnetic fusion facility in the United States. These are not proofs of commercial fusion, but they show AI helping researchers manage complex physical systems that matter for clean energy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-023-06734-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Open source on nature.com.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8wivCld-tCA" title="Hassabis: AI Brings Breakthrough Science — But Serious Risks Remain | APT" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8wivCld-tCA" target="_blank" rel="noopener noreferrer">Hassabis: AI Brings Breakthrough Science — But Serious Risks Remain | APT</a></p><p class="youtube-embed-meta">Channel: APT &middot; Views: 161 &middot; Uploaded: February 2026 &middot; Length: 3 minutes 36 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8wivCld-tCA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8wivCld-tCA">Open on YouTube</a></p></div></div></div>
 
@@ -393,13 +393,13 @@ This creates several bottlenecks that AI does not automatically remove.
 
 **The experiment bottleneck.** Many claims must still be tested in wet labs, materials labs, field trials or clinical studies. AI can prioritise what to test, but physical experiments take time, money, equipment, safety review and skilled labour.
 
-**The data bottleneck.** AI models learn from available data. If that data is biased towards well-studied organisms, familiar materials, successful publications or easy measurements, models may reproduce those blind spots. GNoME’s materials work, for example, still faces challenges around whether predicted materials can be made and whether they will be useful in applications. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-025-08628-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Open source on nature.com.</span></span></span>
+**The data bottleneck.** AI models learn from available data. If that data is biased towards well-studied organisms, familiar materials, successful publications or easy measurements, models may reproduce those blind spots. GNoME’s materials work, for example, still faces challenges around whether predicted materials can be made and whether they will be useful in applications.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-025-08628-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Open source on nature.com.</span></span></span>
 
-**The reliability bottleneck.** Models may be impressive on benchmarks while failing in rare, out-of-distribution or high-stakes cases. This is especially important in medicine, climate extremes and safety-critical energy systems. The record-breaking weather findings are a reminder that strong average performance can hide weaknesses exactly where society most needs reliability. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/sciadv.aec1433" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**The reliability bottleneck.** Models may be impressive on benchmarks while failing in rare, out-of-distribution or high-stakes cases. This is especially important in medicine, climate extremes and safety-critical energy systems. The record-breaking weather findings are a reminder that strong average performance can hide weaknesses exactly where society most needs reliability.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/sciadv.aec1433" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 **The interpretation bottleneck.** Science is not only prediction; it is understanding. A model may predict that a material, variant or molecule is promising without giving researchers a satisfying causal account. That can still be useful, but black-box acceleration may be fragile if scientists cannot explain, debug or generalise the result.
 
-**The access bottleneck.** AlphaFold’s open database became powerful partly because it was widely usable. By contrast, debates around AlphaFold 3’s access and code availability showed that AI science can become less democratic if frontier models are locked behind restricted servers or commercial terms. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/AlphaFold" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[AlphaFold]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Alpha Fold</span><span class="citation-popover-snippet">Alpha Fold</span></span></span>
+**The access bottleneck.** AlphaFold’s open database became powerful partly because it was widely usable. By contrast, debates around AlphaFold 3’s access and code availability showed that AI science can become less democratic if frontier models are locked behind restricted servers or commercial terms.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/AlphaFold" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[AlphaFold]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Alpha Fold</span><span class="citation-popover-snippet">Alpha Fold</span></span></span>
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4-Illustration-3-dark.svg" | relative_url }}" alt="Discovery illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What would count as a genuine AI bloom signal?
@@ -421,194 +421,194 @@ The leap from these examples to an AI-enabled human bloom is still an inference,
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/h6f0J-rVbk4" title="Beyond AlphaFold: The future of structural biology is likely &quot;dynamic&quot; (molecular dynamics, etc.)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=h6f0J-rVbk4" target="_blank" rel="noopener noreferrer">Beyond AlphaFold: The future of structural biology is likely &quot;dynamic&quot; (molecular dynamics, etc.)</a></p><p class="youtube-embed-meta">Channel: the bumbling biochemist &middot; Views: 793 &middot; Uploaded: January 2026 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=h6f0J-rVbk4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=h6f0J-rVbk4">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Could AI Make Science Move Faster?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Could AI Make Science Move Faster?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human Compatible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BKVPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Human Compatible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human Compatible">Human Compatible</a>
-        </h4>
-        <p class="fr-book-author">By Stuart Russell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human Compatible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BKVPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Human Compatible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human Compatible">Human Compatible</a>
+</h4>
+<p class="fr-book-author">By Stuart Russell</p>
         
-        <p class="fr-book-desc">Explores how powerful AI could advance humanity if aligned with human values.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how powerful AI could advance humanity if aligned with human values.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kill Chain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b6GnDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Kill Chain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kill Chain">The Kill Chain</a>
-        </h4>
-        <p class="fr-book-author">By Christian Brose</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kill Chain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b6GnDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Kill Chain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kill Chain">The Kill Chain</a>
+</h4>
+<p class="fr-book-author">By Christian Brose</p>
         
-        <p class="fr-book-desc">Directly addresses AI-enabled military intelligence and decision advantage.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses AI-enabled military intelligence and decision advantage.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Coming Wave on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b0y5zwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Coming Wave" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Coming Wave">The Coming Wave</a>
-        </h4>
-        <p class="fr-book-author">By Mustafa Suleyman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Coming Wave on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b0y5zwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Coming Wave" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Coming Wave">The Coming Wave</a>
+</h4>
+<p class="fr-book-author">By Mustafa Suleyman</p>
         
-        <p class="fr-book-desc">Directly addresses whether advanced AI can deliver broad civilisational benefits while remaining governable.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses whether advanced AI can deliver broad civilisational benefits while remaining governable.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Army of None on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sjMsDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Army of None" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Army of None">Army of None</a>
-        </h4>
-        <p class="fr-book-author">By Paul Scharre</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Army of None on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sjMsDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Army of None" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Army of None">Army of None</a>
+</h4>
+<p class="fr-book-author">By Paul Scharre</p>
         
-        <p class="fr-book-desc">Explains AI systems in military operations and analysis.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains AI systems in military operations and analysis.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+Compatible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human Compatible</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Kill+Chain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Kill Chain</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Coming+Wave&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Coming Wave</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+Compatible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human Compatible</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Kill+Chain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Kill Chain</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Coming+Wave&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Coming Wave</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ai-make-science-move-faster-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="could-ai-make-science-move-faster-science-lab-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Science Lab Illustration Chemistry New Art Print Poster Picture Cc4630"><img src="https://i.ebayimg.com/images/g/FjEAAOSwevlaIGRk/s-l225.jpg" alt="Listing image for Vintage Science Lab Illustration Chemistry New Art Print Poster Picture Cc4630" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ai-make-science-move-faster-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="could-ai-make-science-move-faster-science-lab-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage Science Lab Illustration Chemistry New Art Print Poster Picture Cc4630</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ai-make-science-move-faster-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="could-ai-make-science-move-faster-science-lab-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science lab poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: science lab poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ai-make-science-move-faster-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="could-ai-make-science-move-faster-science-lab-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ai-make-science-move-faster-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="could-ai-make-science-move-faster-science-lab-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Science Lab Illustration Chemistry New Art Print Poster Picture Cc4630"><img src="https://i.ebayimg.com/images/g/FjEAAOSwevlaIGRk/s-l225.jpg" alt="Listing image for Vintage Science Lab Illustration Chemistry New Art Print Poster Picture Cc4630" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ai-make-science-move-faster-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="could-ai-make-science-move-faster-science-lab-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage Science Lab Illustration Chemistry New Art Print Poster Picture Cc4630</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ai-make-science-move-faster-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="could-ai-make-science-move-faster-science-lab-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science lab poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: science lab poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ai-make-science-move-faster-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="could-ai-make-science-move-faster-science-lab-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ai-make-science-move-faster-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="could-ai-make-science-move-faster-science-lab-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Science Microscope Lab Che Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/2FAAAeSwcGNphiar/s-l225.jpg" alt="Listing image for Science Microscope Lab Che Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ai-make-science-move-faster-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="could-ai-make-science-move-faster-science-lab-poster" target="_blank" rel="sponsored noopener noreferrer">Science Microscope Lab Che Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ai-make-science-move-faster-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="could-ai-make-science-move-faster-science-lab-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science lab poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: science lab poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ai-make-science-move-faster-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="could-ai-make-science-move-faster-science-lab-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ai-make-science-move-faster-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="could-ai-make-science-move-faster-science-lab-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Science Microscope Lab Che Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/2FAAAeSwcGNphiar/s-l225.jpg" alt="Listing image for Science Microscope Lab Che Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ai-make-science-move-faster-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="could-ai-make-science-move-faster-science-lab-poster" target="_blank" rel="sponsored noopener noreferrer">Science Microscope Lab Che Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ai-make-science-move-faster-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="could-ai-make-science-move-faster-science-lab-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science lab poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: science lab poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ai-make-science-move-faster-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="could-ai-make-science-move-faster-science-lab-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ai-make-science-move-faster-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="could-ai-make-science-move-faster-science-lab-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for &#x27;Futuristic Science Lab&#x27; Wall Art Poster Prints (PP064158)"><img src="https://i.ebayimg.com/images/g/2ssAAeSw6eZqCO-s/s-l225.jpg" alt="Listing image for &#x27;Futuristic Science Lab&#x27; Wall Art Poster Prints (PP064158)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ai-make-science-move-faster-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="could-ai-make-science-move-faster-science-lab-poster" target="_blank" rel="sponsored noopener noreferrer">&#x27;Futuristic Science Lab&#x27; Wall Art Poster Prints (PP064158)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ai-make-science-move-faster-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="could-ai-make-science-move-faster-science-lab-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science lab poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: science lab poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ai-make-science-move-faster-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="could-ai-make-science-move-faster-science-lab-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ai-make-science-move-faster-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="could-ai-make-science-move-faster-science-lab-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for &#x27;Futuristic Science Lab&#x27; Wall Art Poster Prints (PP064158)"><img src="https://i.ebayimg.com/images/g/2ssAAeSw6eZqCO-s/s-l225.jpg" alt="Listing image for &#x27;Futuristic Science Lab&#x27; Wall Art Poster Prints (PP064158)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ai-make-science-move-faster-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="could-ai-make-science-move-faster-science-lab-poster" target="_blank" rel="sponsored noopener noreferrer">&#x27;Futuristic Science Lab&#x27; Wall Art Poster Prints (PP064158)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ai-make-science-move-faster-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="could-ai-make-science-move-faster-science-lab-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science lab poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: science lab poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ai-make-science-move-faster-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="could-ai-make-science-move-faster-science-lab-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ai-make-science-move-faster-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="could-ai-make-science-move-faster-science-lab-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Colorful Science Lab Quote T-Shirt Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/kA0AAeSwyMZp2SMA/s-l225.jpg" alt="Listing image for Colorful Science Lab Quote T-Shirt Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ai-make-science-move-faster-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="could-ai-make-science-move-faster-science-lab-poster" target="_blank" rel="sponsored noopener noreferrer">Colorful Science Lab Quote T-Shirt Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ai-make-science-move-faster-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="could-ai-make-science-move-faster-science-lab-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science lab poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: science lab poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ai-make-science-move-faster-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="could-ai-make-science-move-faster-science-lab-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ai-make-science-move-faster-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="could-ai-make-science-move-faster-science-lab-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ai-make-science-move-faster-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="could-ai-make-science-move-faster-science-lab-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Colorful Science Lab Quote T-Shirt Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/kA0AAeSwyMZp2SMA/s-l225.jpg" alt="Listing image for Colorful Science Lab Quote T-Shirt Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ai-make-science-move-faster-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="could-ai-make-science-move-faster-science-lab-poster" target="_blank" rel="sponsored noopener noreferrer">Colorful Science Lab Quote T-Shirt Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ai-make-science-move-faster-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="could-ai-make-science-move-faster-science-lab-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science lab poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: science lab poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ai-make-science-move-faster-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="could-ai-make-science-move-faster-science-lab-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ai-make-science-move-faster-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="could-ai-make-science-move-faster-science-lab-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -624,7 +624,7 @@ The leap from these examples to an AI-enabled human bloom is still an inference,
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -644,7 +644,7 @@ The leap from these examples to an AI-enabled human bloom is still an inference,
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -676,7 +676,7 @@ The leap from these examples to an AI-enabled human bloom is still an inference,
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -728,7 +728,7 @@ The leap from these examples to an AI-enabled human bloom is still an inference,
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -773,7 +773,7 @@ The leap from these examples to an AI-enabled human bloom is still an inference,
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -814,442 +814,442 @@ The leap from these examples to an AI-enabled human bloom is still an inference,
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: deepmind.google  
    Title: millions of new materials discovered with deep learning  
-   Link: <a href="https://deepmind.google/blog/millions-of-new-materials-discovered-with-deep-learning/" target="_blank" rel="noopener noreferrer nofollow">https://deepmind.google/blog/millions-of-new-materials-discovered-with-deep-learning/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Google DeepMindMillions of new materials discovered with deep learning29 Nov 2023 — AI tool GNoME finds 2.2 million new crystals, includi...</p></details>
+   Link:<a href="https://deepmind.google/blog/millions-of-new-materials-discovered-with-deep-learning/" target="_blank" rel="noopener noreferrer nofollow">https://deepmind.google/blog/millions-of-new-materials-discovered-with-deep-learning/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google DeepMindMillions of new materials discovered with deep learning29 Nov 2023 — AI tool GNoME finds 2.2 million new crystals, includi...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: deepmind.google  
    Title: graphcast ai model for faster and more accurate global weather forecasting  
-   Link: <a href="https://deepmind.google/blog/graphcast-ai-model-for-faster-and-more-accurate-global-weather-forecasting/" target="_blank" rel="noopener noreferrer nofollow">https://deepmind.google/blog/graphcast-ai-model-for-faster-and-more-accurate-global-weather-forecasting/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Google DeepMindGraphCast: AI model for faster and more accurate global...14 Nov 2023 — GraphCast predicts weather conditions up to 10 da...</p></details>
+   Link:<a href="https://deepmind.google/blog/graphcast-ai-model-for-faster-and-more-accurate-global-weather-forecasting/" target="_blank" rel="noopener noreferrer nofollow">https://deepmind.google/blog/graphcast-ai-model-for-faster-and-more-accurate-global-weather-forecasting/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google DeepMindGraphCast: AI model for faster and more accurate global...14 Nov 2023 — GraphCast predicts weather conditions up to 10 da...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41586-024-08252-9" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-024-08252-9</a>  
+   Link:<a href="https://www.nature.com/articles/s41586-024-08252-9" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-024-08252-9</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41586-021-03819-2" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-021-03819-2</a>  
+   Link:<a href="https://www.nature.com/articles/s41586-021-03819-2" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-021-03819-2</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41586-024-07487-w" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-024-07487-w</a>  
+   Link:<a href="https://www.nature.com/articles/s41586-024-07487-w" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-024-07487-w</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ebi.ac.uk  
-   Link: <a href="https://www.ebi.ac.uk/training/online/courses/alphafold/alphafold-3-and-alphafold-server/introducing-alphafold-3/how-have-alphafold-3s-predictions-been-validated/" target="_blank" rel="noopener noreferrer nofollow">https://www.ebi.ac.uk/training/online/courses/alphafold/alphafold-3-and-alphafold-server/introducing-alphafold-3/how-have-alphafold-3s-predictions-been-validated/</a>  
+   Link:<a href="https://www.ebi.ac.uk/training/online/courses/alphafold/alphafold-3-and-alphafold-server/introducing-alphafold-3/how-have-alphafold-3s-predictions-been-validated/" target="_blank" rel="noopener noreferrer nofollow">https://www.ebi.ac.uk/training/online/courses/alphafold/alphafold-3-and-alphafold-server/introducing-alphafold-3/how-have-alphafold-3s-predictions-been-validated/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/technology/artificial-intelligence/google-develops-ai-co-scientist-aid-researchers-2025-02-19/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/artificial-intelligence/google-develops-ai-co-scientist-aid-researchers-2025-02-19/</a>  
+   Link:<a href="https://www.reuters.com/technology/artificial-intelligence/google-develops-ai-co-scientist-aid-researchers-2025-02-19/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/artificial-intelligence/google-develops-ai-co-scientist-aid-researchers-2025-02-19/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2501.06847" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2501.06847</a>  
+   Link:<a href="https://arxiv.org/abs/2501.06847" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2501.06847</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41586-023-06735-9" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-023-06735-9</a>  
+   Link:<a href="https://www.nature.com/articles/s41586-023-06735-9" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-023-06735-9</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41586-023-06734-w" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-023-06734-w</a>  
+   Link:<a href="https://www.nature.com/articles/s41586-023-06734-w" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-023-06734-w</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: microsoft.com  
-   Link: <a href="https://www.microsoft.com/en-us/research/blog/mattergen-a-new-paradigm-of-materials-design-with-generative-ai/" target="_blank" rel="noopener noreferrer nofollow">https://www.microsoft.com/en-us/research/blog/mattergen-a-new-paradigm-of-materials-design-with-generative-ai/</a>  
+   Link:<a href="https://www.microsoft.com/en-us/research/blog/mattergen-a-new-paradigm-of-materials-design-with-generative-ai/" target="_blank" rel="noopener noreferrer nofollow">https://www.microsoft.com/en-us/research/blog/mattergen-a-new-paradigm-of-materials-design-with-generative-ai/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41586-025-08628-5" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-025-08628-5</a>  
+   Link:<a href="https://www.nature.com/articles/s41586-025-08628-5" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-025-08628-5</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: deepmind.google  
    Title: Google Deep Mind A catalogue of genetic mutations to help pinpoint the cause  
-   Link: <a href="https://deepmind.google/blog/a-catalogue-of-genetic-mutations-to-help-pinpoint-the-cause-of-diseases/" target="_blank" rel="noopener noreferrer nofollow">https://deepmind.google/blog/a-catalogue-of-genetic-mutations-to-help-pinpoint-the-cause-of-diseases/</a>  
+   Link:<a href="https://deepmind.google/blog/a-catalogue-of-genetic-mutations-to-help-pinpoint-the-cause-of-diseases/" target="_blank" rel="noopener noreferrer nofollow">https://deepmind.google/blog/a-catalogue-of-genetic-mutations-to-help-pinpoint-the-cause-of-diseases/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: deepmind.google  
-   Link: <a href="https://deepmind.google/research/publications/21083/" target="_blank" rel="noopener noreferrer nofollow">https://deepmind.google/research/publications/21083/</a>  
+   Link:<a href="https://deepmind.google/research/publications/21083/" target="_blank" rel="noopener noreferrer nofollow">https://deepmind.google/research/publications/21083/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41586-026-10176-5" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-026-10176-5</a>  
+   Link:<a href="https://www.nature.com/articles/s41586-026-10176-5" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-026-10176-5</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2603.06950" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2603.06950</a>  
+   Link:<a href="https://arxiv.org/abs/2603.06950" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2603.06950</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: arxiv.org  
    Title: arXiv Graph Cast: Learning skillful medium-range global weather forecasting  
-   Link: <a href="https://arxiv.org/abs/2212.12794" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2212.12794</a>  
+   Link:<a href="https://arxiv.org/abs/2212.12794" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2212.12794</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: arxiv.org  
    Title: arXiv Gen Cast: Diffusion-based ensemble forecasting for medium-range weather  
-   Link: <a href="https://arxiv.org/abs/2312.15796" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2312.15796</a>  
+   Link:<a href="https://arxiv.org/abs/2312.15796" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2312.15796</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41467-025-56573-8" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41467-025-56573-8</a>  
+   Link:<a href="https://www.nature.com/articles/s41467-025-56573-8" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41467-025-56573-8</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41586-021-04301-9" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-021-04301-9</a>  
+   Link:<a href="https://www.nature.com/articles/s41586-021-04301-9" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-021-04301-9</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41586-024-07024-9" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-024-07024-9</a>  
+   Link:<a href="https://www.nature.com/articles/s41586-024-07024-9" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-024-07024-9</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41598-025-32583-w" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-025-32583-w</a>  
+   Link:<a href="https://www.nature.com/articles/s41598-025-32583-w" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-025-32583-w</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/d41586-025-04100-6" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/d41586-025-04100-6</a>  
+   Link:<a href="https://www.nature.com/articles/d41586-025-04100-6" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/d41586-025-04100-6</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/d42473-025-00164-0" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/d42473-025-00164-0</a>  
+   Link:<a href="https://www.nature.com/articles/d42473-025-00164-0" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/d42473-025-00164-0</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/ncomms/" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/ncomms/</a>  
+   Link:<a href="https://www.nature.com/ncomms/" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/ncomms/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41586-026-10265-5" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-026-10265-5</a>  
+   Link:<a href="https://www.nature.com/articles/s41586-026-10265-5" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-026-10265-5</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41586-026-10644-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-026-10644-y</a>  
+   Link:<a href="https://www.nature.com/articles/s41586-026-10644-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-026-10644-y</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41746-025-01859-w" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41746-025-01859-w</a>  
+   Link:<a href="https://www.nature.com/articles/s41746-025-01859-w" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41746-025-01859-w</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41592-023-02087-4" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41592-023-02087-4</a>  
+   Link:<a href="https://www.nature.com/articles/s41592-023-02087-4" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41592-023-02087-4</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s44387-025-00018-6" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s44387-025-00018-6</a>  
+   Link:<a href="https://www.nature.com/articles/s44387-025-00018-6" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s44387-025-00018-6</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41392-023-01381-z" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41392-023-01381-z</a>  
+   Link:<a href="https://www.nature.com/articles/s41392-023-01381-z" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41392-023-01381-z</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s43247-026-03238-z" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s43247-026-03238-z</a>  
+   Link:<a href="https://www.nature.com/articles/s43247-026-03238-z" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s43247-026-03238-z</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/d41586-023-03552-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/d41586-023-03552-y</a>  
+   Link:<a href="https://www.nature.com/articles/d41586-023-03552-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/d41586-023-03552-y</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41586-024-07487-w_reference.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-024-07487-w_reference.pdf</a>  
+   Link:<a href="https://www.nature.com/articles/s41586-024-07487-w_reference.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-024-07487-w_reference.pdf</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41586-021-03828-1" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-021-03828-1</a>  
+   Link:<a href="https://www.nature.com/articles/s41586-021-03828-1" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-021-03828-1</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: hai.stanford.edu  
    Title: how ai is transforming scientific discovery while keeping humans at the center  
-   Link: <a href="https://hai.stanford.edu/news/how-ai-is-transforming-scientific-discovery-while-keeping-humans-at-the-center" target="_blank" rel="noopener noreferrer nofollow">https://hai.stanford.edu/news/how-ai-is-transforming-scientific-discovery-while-keeping-humans-at-the-center</a>  
+   Link:<a href="https://hai.stanford.edu/news/how-ai-is-transforming-scientific-discovery-while-keeping-humans-at-the-center" target="_blank" rel="noopener noreferrer nofollow">https://hai.stanford.edu/news/how-ai-is-transforming-scientific-discovery-while-keeping-humans-at-the-center</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: news.stanford.edu  
-   Link: <a href="https://news.stanford.edu/stories/2025/02/generative-ai-tool-marks-a-milestone-in-biology-and-accelerates-the-future-of-life-sciences" target="_blank" rel="noopener noreferrer nofollow">https://news.stanford.edu/stories/2025/02/generative-ai-tool-marks-a-milestone-in-biology-and-accelerates-the-future-of-life-sciences</a>  
+   Link:<a href="https://news.stanford.edu/stories/2025/02/generative-ai-tool-marks-a-milestone-in-biology-and-accelerates-the-future-of-life-sciences" target="_blank" rel="noopener noreferrer nofollow">https://news.stanford.edu/stories/2025/02/generative-ai-tool-marks-a-milestone-in-biology-and-accelerates-the-future-of-life-sciences</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: law.berkeley.edu  
    Title: Millions of new materials discovered with deep learning Google Deep Mind  
-   Link: <a href="https://www.law.berkeley.edu/wp-content/uploads/2024/02/Millions-of-new-materials-discovered-with-deep-learning-Google-DeepMind.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.law.berkeley.edu/wp-content/uploads/2024/02/Millions-of-new-materials-discovered-with-deep-learning-Google-DeepMind.pdf</a>  
+   Link:<a href="https://www.law.berkeley.edu/wp-content/uploads/2024/02/Millions-of-new-materials-discovered-with-deep-learning-Google-DeepMind.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.law.berkeley.edu/wp-content/uploads/2024/02/Millions-of-new-materials-discovered-with-deep-learning-Google-DeepMind.pdf</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: law.berkeley.edu  
    Title: Google AI and robots join forces to build new materials  
-   Link: <a href="https://www.law.berkeley.edu/wp-content/uploads/2024/02/Google-AI-and-robots-join-forces-to-build-new-materials.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.law.berkeley.edu/wp-content/uploads/2024/02/Google-AI-and-robots-join-forces-to-build-new-materials.pdf</a>  
+   Link:<a href="https://www.law.berkeley.edu/wp-content/uploads/2024/02/Google-AI-and-robots-join-forces-to-build-new-materials.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.law.berkeley.edu/wp-content/uploads/2024/02/Google-AI-and-robots-join-forces-to-build-new-materials.pdf</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: deepmind.google  
    Title: co scientist a multi agent ai partner to accelerate research  
-   Link: <a href="https://deepmind.google/blog/co-scientist-a-multi-agent-ai-partner-to-accelerate-research/" target="_blank" rel="noopener noreferrer nofollow">https://deepmind.google/blog/co-scientist-a-multi-agent-ai-partner-to-accelerate-research/</a>  
+   Link:<a href="https://deepmind.google/blog/co-scientist-a-multi-agent-ai-partner-to-accelerate-research/" target="_blank" rel="noopener noreferrer nofollow">https://deepmind.google/blog/co-scientist-a-multi-agent-ai-partner-to-accelerate-research/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: deepmind.google  
-   Link: <a href="https://deepmind.google/science/alphafold/" target="_blank" rel="noopener noreferrer nofollow">https://deepmind.google/science/alphafold/</a>  
+   Link:<a href="https://deepmind.google/science/alphafold/" target="_blank" rel="noopener noreferrer nofollow">https://deepmind.google/science/alphafold/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: deepmind.google  
    Title: alphafold five years of impact  
-   Link: <a href="https://deepmind.google/blog/alphafold-five-years-of-impact/" target="_blank" rel="noopener noreferrer nofollow">https://deepmind.google/blog/alphafold-five-years-of-impact/</a>  
+   Link:<a href="https://deepmind.google/blog/alphafold-five-years-of-impact/" target="_blank" rel="noopener noreferrer nofollow">https://deepmind.google/blog/alphafold-five-years-of-impact/</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: deepmind.google  
    Title: accelerating fusion science through learned plasma control  
-   Link: <a href="https://deepmind.google/blog/accelerating-fusion-science-through-learned-plasma-control/" target="_blank" rel="noopener noreferrer nofollow">https://deepmind.google/blog/accelerating-fusion-science-through-learned-plasma-control/</a>  
+   Link:<a href="https://deepmind.google/blog/accelerating-fusion-science-through-learned-plasma-control/" target="_blank" rel="noopener noreferrer nofollow">https://deepmind.google/blog/accelerating-fusion-science-through-learned-plasma-control/</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: microsoft.com  
-   Link: <a href="https://www.microsoft.com/en-us/research/wp-content/uploads/2025/01/WEF-2025_Leave-Behind_Accelerating-Materials-Design-with-AI.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.microsoft.com/en-us/research/wp-content/uploads/2025/01/WEF-2025_Leave-Behind_Accelerating-Materials-Design-with-AI.pdf</a>  
+   Link:<a href="https://www.microsoft.com/en-us/research/wp-content/uploads/2025/01/WEF-2025_Leave-Behind_Accelerating-Materials-Design-with-AI.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.microsoft.com/en-us/research/wp-content/uploads/2025/01/WEF-2025_Leave-Behind_Accelerating-Materials-Design-with-AI.pdf</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: microsoft.com  
    Title: ai meets materials discovery  
-   Link: <a href="https://www.microsoft.com/en-us/research/story/ai-meets-materials-discovery/" target="_blank" rel="noopener noreferrer nofollow">https://www.microsoft.com/en-us/research/story/ai-meets-materials-discovery/</a>  
+   Link:<a href="https://www.microsoft.com/en-us/research/story/ai-meets-materials-discovery/" target="_blank" rel="noopener noreferrer nofollow">https://www.microsoft.com/en-us/research/story/ai-meets-materials-discovery/</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: microsoft.com  
-   Link: <a href="https://www.microsoft.com/en-us/research/video/mattergen-a-generative-model-for-materials-design/" target="_blank" rel="noopener noreferrer nofollow">https://www.microsoft.com/en-us/research/video/mattergen-a-generative-model-for-materials-design/</a>  
+   Link:<a href="https://www.microsoft.com/en-us/research/video/mattergen-a-generative-model-for-materials-design/" target="_blank" rel="noopener noreferrer nofollow">https://www.microsoft.com/en-us/research/video/mattergen-a-generative-model-for-materials-design/</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: microsoft.com  
-   Link: <a href="https://www.microsoft.com/en-us/research/publication/a-generative-model-for-inorganic-materials-design/" target="_blank" rel="noopener noreferrer nofollow">https://www.microsoft.com/en-us/research/publication/a-generative-model-for-inorganic-materials-design/</a>  
+   Link:<a href="https://www.microsoft.com/en-us/research/publication/a-generative-model-for-inorganic-materials-design/" target="_blank" rel="noopener noreferrer nofollow">https://www.microsoft.com/en-us/research/publication/a-generative-model-for-inorganic-materials-design/</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: embl.org  
    Title: alphafold using open data and ai to discover the 3d protein universe  
-   Link: <a href="https://www.embl.org/news/science/alphafold-using-open-data-and-ai-to-discover-the-3d-protein-universe/" target="_blank" rel="noopener noreferrer nofollow">https://www.embl.org/news/science/alphafold-using-open-data-and-ai-to-discover-the-3d-protein-universe/</a>  
+   Link:<a href="https://www.embl.org/news/science/alphafold-using-open-data-and-ai-to-discover-the-3d-protein-universe/" target="_blank" rel="noopener noreferrer nofollow">https://www.embl.org/news/science/alphafold-using-open-data-and-ai-to-discover-the-3d-protein-universe/</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: embl.org  
    Title: first complexes alphafold database  
-   Link: <a href="https://www.embl.org/news/science-technology/first-complexes-alphafold-database/" target="_blank" rel="noopener noreferrer nofollow">https://www.embl.org/news/science-technology/first-complexes-alphafold-database/</a>  
+   Link:<a href="https://www.embl.org/news/science-technology/first-complexes-alphafold-database/" target="_blank" rel="noopener noreferrer nofollow">https://www.embl.org/news/science-technology/first-complexes-alphafold-database/</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: embl.org  
    Title: google deepmind partnership renewal  
-   Link: <a href="https://www.embl.org/news/science-technology/google-deepmind-partnership-renewal/" target="_blank" rel="noopener noreferrer nofollow">https://www.embl.org/news/science-technology/google-deepmind-partnership-renewal/</a>  
+   Link:<a href="https://www.embl.org/news/science-technology/google-deepmind-partnership-renewal/" target="_blank" rel="noopener noreferrer nofollow">https://www.embl.org/news/science-technology/google-deepmind-partnership-renewal/</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: discovery.researcher.life  
-   Link: <a href="https://discovery.researcher.life/article/artificial-intelligence-for-modeling-and-understanding-extreme-weather-and-climate-events/c750c9cb2aa032e48a5c8d8a2326a465" target="_blank" rel="noopener noreferrer nofollow">https://discovery.researcher.life/article/artificial-intelligence-for-modeling-and-understanding-extreme-weather-and-climate-events/c750c9cb2aa032e48a5c8d8a2326a465</a>  
+   Link:<a href="https://discovery.researcher.life/article/artificial-intelligence-for-modeling-and-understanding-extreme-weather-and-climate-events/c750c9cb2aa032e48a5c8d8a2326a465" target="_blank" rel="noopener noreferrer nofollow">https://discovery.researcher.life/article/artificial-intelligence-for-modeling-and-understanding-extreme-weather-and-climate-events/c750c9cb2aa032e48a5c8d8a2326a465</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2502.18864" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2502.18864</a>  
+   Link:<a href="https://arxiv.org/abs/2502.18864" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2502.18864</a>  
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2508.03278" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2508.03278</a>  
+   Link:<a href="https://arxiv.org/abs/2508.03278" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2508.03278</a>  
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40EduardoLarranaga/millions-of-new-materials-discovered-with-deep-learning-d64c56ab226f" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40EduardoLarranaga/millions-of-new-materials-discovered-with-deep-learning-d64c56ab226f</a>  
+   Link:<a href="https://medium.com/%40EduardoLarranaga/millions-of-new-materials-discovered-with-deep-learning-d64c56ab226f" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40EduardoLarranaga/millions-of-new-materials-discovered-with-deep-learning-d64c56ab226f</a>  
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: alphafold.ebi.ac.uk  
-   Link: <a href="https://alphafold.ebi.ac.uk/" target="_blank" rel="noopener noreferrer nofollow">https://alphafold.ebi.ac.uk/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AlphaFold Protein Structure Database - EMBL-EBIAlphaFold DB provides open access to over 200 million protein structure predictio...</p></details>
+   Link:<a href="https://alphafold.ebi.ac.uk/" target="_blank" rel="noopener noreferrer nofollow">https://alphafold.ebi.ac.uk/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AlphaFold Protein Structure Database - EMBL-EBIAlphaFold DB provides open access to over 200 million protein structure predictio...</p></details>
 
-56. <a id="endnote-56"></a>
+56.<a id="endnote-56"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/34265844/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/34265844/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/34265844/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/34265844/</a>  
 
-57. <a id="endnote-57"></a>
+57.<a id="endnote-57"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/37933859/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/37933859/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/37933859/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/37933859/</a>  
 
-58. <a id="endnote-58"></a>
+58.<a id="endnote-58"></a>
    Source: research.google  
-   Link: <a href="https://research.google/blog/accelerating-scientific-breakthroughs-with-an-ai-co-scientist/" target="_blank" rel="noopener noreferrer nofollow">https://research.google/blog/accelerating-scientific-breakthroughs-with-an-ai-co-scientist/</a>  
+   Link:<a href="https://research.google/blog/accelerating-scientific-breakthroughs-with-an-ai-co-scientist/" target="_blank" rel="noopener noreferrer nofollow">https://research.google/blog/accelerating-scientific-breakthroughs-with-an-ai-co-scientist/</a>  
 
-59. <a id="endnote-59"></a>
+59.<a id="endnote-59"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/38030721/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/38030721/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/38030721/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/38030721/</a>  
 
-60. <a id="endnote-60"></a>
+60.<a id="endnote-60"></a>
    Source: newscenter.lbl.gov  
    Title: google deepmind new compounds materials project  
-   Link: <a href="https://newscenter.lbl.gov/2023/11/29/google-deepmind-new-compounds-materials-project/" target="_blank" rel="noopener noreferrer nofollow">https://newscenter.lbl.gov/2023/11/29/google-deepmind-new-compounds-materials-project/</a>  
+   Link:<a href="https://newscenter.lbl.gov/2023/11/29/google-deepmind-new-compounds-materials-project/" target="_blank" rel="noopener noreferrer nofollow">https://newscenter.lbl.gov/2023/11/29/google-deepmind-new-compounds-materials-project/</a>  
 
-61. <a id="endnote-61"></a>
+61.<a id="endnote-61"></a>
    Source: chemistryworld.com  
-   Link: <a href="https://www.chemistryworld.com/news/new-analysis-raises-doubts-over-autonomous-labs-materials-discoveries/4018791.article" target="_blank" rel="noopener noreferrer nofollow">https://www.chemistryworld.com/news/new-analysis-raises-doubts-over-autonomous-labs-materials-discoveries/4018791.article</a>  
+   Link:<a href="https://www.chemistryworld.com/news/new-analysis-raises-doubts-over-autonomous-labs-materials-discoveries/4018791.article" target="_blank" rel="noopener noreferrer nofollow">https://www.chemistryworld.com/news/new-analysis-raises-doubts-over-autonomous-labs-materials-discoveries/4018791.article</a>  
 
-62. <a id="endnote-62"></a>
+62.<a id="endnote-62"></a>
    Source: science.org  
-   Link: <a href="https://www.science.org/doi/10.1126/sciadv.aec1433" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/sciadv.aec1433</a>  
+   Link:<a href="https://www.science.org/doi/10.1126/sciadv.aec1433" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/sciadv.aec1433</a>  
 
-63. <a id="endnote-63"></a>
+63.<a id="endnote-63"></a>
    Source: wired.com  
-   Link: <a href="https://www.wired.com/story/an-ai-dreamed-up-380000-new-materials-the-next-challenge-is-making-them" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/an-ai-dreamed-up-380000-new-materials-the-next-challenge-is-making-them</a>  
+   Link:<a href="https://www.wired.com/story/an-ai-dreamed-up-380000-new-materials-the-next-challenge-is-making-them" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/an-ai-dreamed-up-380000-new-materials-the-next-challenge-is-making-them</a>  
 
-64. <a id="endnote-64"></a>
+64.<a id="endnote-64"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/41273079/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/41273079/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/41273079/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/41273079/</a>  
 
-65. <a id="endnote-65"></a>
+65.<a id="endnote-65"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/40678974/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/40678974/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/40678974/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/40678974/</a>  
 
-66. <a id="endnote-66"></a>
+66.<a id="endnote-66"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/41781614/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/41781614/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/41781614/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/41781614/</a>  
 
-67. <a id="endnote-67"></a>
+67.<a id="endnote-67"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/38718835/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/38718835/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/38718835/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/38718835/</a>  
 
-68. <a id="endnote-68"></a>
+68.<a id="endnote-68"></a>
    Source: alphafoldserver.com  
-   Link: <a href="https://alphafoldserver.com/" target="_blank" rel="noopener noreferrer nofollow">https://alphafoldserver.com/</a>  
+   Link:<a href="https://alphafoldserver.com/" target="_blank" rel="noopener noreferrer nofollow">https://alphafoldserver.com/</a>  
 
-69. <a id="endnote-69"></a>
+69.<a id="endnote-69"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/microsoftresearch/videos/microsoft-researchers-introduce-mattergen-a-model-that-can-discover-new-material/9579456348740625/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/microsoftresearch/videos/microsoft-researchers-introduce-mattergen-a-model-that-can-discover-new-material/9579456348740625/</a>  
+   Link:<a href="https://www.facebook.com/microsoftresearch/videos/microsoft-researchers-introduce-mattergen-a-model-that-can-discover-new-material/9579456348740625/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/microsoftresearch/videos/microsoft-researchers-introduce-mattergen-a-model-that-can-discover-new-material/9579456348740625/</a>  
 
-70. <a id="endnote-70"></a>
+70.<a id="endnote-70"></a>
    Source: snu.elsevierpure.com  
    Title: alphafold protein structure database in 2024 providing structure  
-   Link: <a href="https://snu.elsevierpure.com/en/publications/alphafold-protein-structure-database-in-2024-providing-structure-/" target="_blank" rel="noopener noreferrer nofollow">https://snu.elsevierpure.com/en/publications/alphafold-protein-structure-database-in-2024-providing-structure-/</a>  
+   Link:<a href="https://snu.elsevierpure.com/en/publications/alphafold-protein-structure-database-in-2024-providing-structure-/" target="_blank" rel="noopener noreferrer nofollow">https://snu.elsevierpure.com/en/publications/alphafold-protein-structure-database-in-2024-providing-structure-/</a>  
 
-71. <a id="endnote-71"></a>
+71.<a id="endnote-71"></a>
    Source: alphafold.ebi.ac.uk  
    Title: ebi.ac.uk About  
-   Link: <a href="https://alphafold.ebi.ac.uk/about" target="_blank" rel="noopener noreferrer nofollow">https://alphafold.ebi.ac.uk/about</a>  
+   Link:<a href="https://alphafold.ebi.ac.uk/about" target="_blank" rel="noopener noreferrer nofollow">https://alphafold.ebi.ac.uk/about</a>  
 
-72. <a id="endnote-72"></a>
+72.<a id="endnote-72"></a>
    Source: alphafold.ebi.ac.uk  
    Title: ebi.ac.uk Downloads  
-   Link: <a href="https://alphafold.ebi.ac.uk/download" target="_blank" rel="noopener noreferrer nofollow">https://alphafold.ebi.ac.uk/download</a>  
+   Link:<a href="https://alphafold.ebi.ac.uk/download" target="_blank" rel="noopener noreferrer nofollow">https://alphafold.ebi.ac.uk/download</a>  
 
-73. <a id="endnote-73"></a>
+73.<a id="endnote-73"></a>
    Source: github.com  
-   Link: <a href="https://github.com/google-deepmind/alphamissense" target="_blank" rel="noopener noreferrer nofollow">https://github.com/google-deepmind/alphamissense</a>  
+   Link:<a href="https://github.com/google-deepmind/alphamissense" target="_blank" rel="noopener noreferrer nofollow">https://github.com/google-deepmind/alphamissense</a>  
 
-74. <a id="endnote-74"></a>
+74.<a id="endnote-74"></a>
    Source: datascience.uchicago.edu  
    Title: nature highlights dsi research on ai for extreme weather forecasting  
-   Link: <a href="https://datascience.uchicago.edu/insights/nature-highlights-dsi-research-on-ai-for-extreme-weather-forecasting/" target="_blank" rel="noopener noreferrer nofollow">https://datascience.uchicago.edu/insights/nature-highlights-dsi-research-on-ai-for-extreme-weather-forecasting/</a>  
+   Link:<a href="https://datascience.uchicago.edu/insights/nature-highlights-dsi-research-on-ai-for-extreme-weather-forecasting/" target="_blank" rel="noopener noreferrer nofollow">https://datascience.uchicago.edu/insights/nature-highlights-dsi-research-on-ai-for-extreme-weather-forecasting/</a>  
 
-75. <a id="endnote-75"></a>
+75.<a id="endnote-75"></a>
    Source: darkdaily.com  
-   Link: <a href="https://www.darkdaily.com/2023/11/15/google-deepmind-says-its-new-artificial-intelligence-tool-can-predict-which-genetic-variants-are-likely-to-cause-disease/" target="_blank" rel="noopener noreferrer nofollow">https://www.darkdaily.com/2023/11/15/google-deepmind-says-its-new-artificial-intelligence-tool-can-predict-which-genetic-variants-are-likely-to-cause-disease/</a>  
+   Link:<a href="https://www.darkdaily.com/2023/11/15/google-deepmind-says-its-new-artificial-intelligence-tool-can-predict-which-genetic-variants-are-likely-to-cause-disease/" target="_blank" rel="noopener noreferrer nofollow">https://www.darkdaily.com/2023/11/15/google-deepmind-says-its-new-artificial-intelligence-tool-can-predict-which-genetic-variants-are-likely-to-cause-disease/</a>  
 
-76. <a id="endnote-76"></a>
+76.<a id="endnote-76"></a>
    Source: scienceopen.com  
-   Link: <a href="https://www.scienceopen.com/document?vid=b1f93136-f0f0-4c78-8e45-27bd037e9bb9" target="_blank" rel="noopener noreferrer nofollow">https://www.scienceopen.com/document?vid=b1f93136-f0f0-4c78-8e45-27bd037e9bb9</a>  
+   Link:<a href="https://www.scienceopen.com/document?vid=b1f93136-f0f0-4c78-8e45-27bd037e9bb9" target="_blank" rel="noopener noreferrer nofollow">https://www.scienceopen.com/document?vid=b1f93136-f0f0-4c78-8e45-27bd037e9bb9</a>  
 
-77. <a id="endnote-77"></a>
+77.<a id="endnote-77"></a>
    Source: venturebeat.com  
    Title: google deepminds materials ai has already discovered 2 2 million new crystals  
-   Link: <a href="https://venturebeat.com/ai/google-deepminds-materials-ai-has-already-discovered-2-2-million-new-crystals" target="_blank" rel="noopener noreferrer nofollow">https://venturebeat.com/ai/google-deepminds-materials-ai-has-already-discovered-2-2-million-new-crystals</a>  
+   Link:<a href="https://venturebeat.com/ai/google-deepminds-materials-ai-has-already-discovered-2-2-million-new-crystals" target="_blank" rel="noopener noreferrer nofollow">https://venturebeat.com/ai/google-deepminds-materials-ai-has-already-discovered-2-2-million-new-crystals</a>  
 
-78. <a id="endnote-78"></a>
+78.<a id="endnote-78"></a>
    Source: youtube.com  
    Title: [Alpha Fold](&#123;&#123; 'alpha-fold/' | relative_url &#125;&#125;)  
-   Link: <a href="https://www.youtube.com/watch?v=P_fHJIYENdI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=P_fHJIYENdI</a>  
+   Link:<a href="https://www.youtube.com/watch?v=P_fHJIYENdI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=P_fHJIYENdI</a>  
 
-79. <a id="endnote-79"></a>
+79.<a id="endnote-79"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=gwbWHJnHDZU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gwbWHJnHDZU</a>  
+   Link:<a href="https://www.youtube.com/watch?v=gwbWHJnHDZU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gwbWHJnHDZU</a>  
 
-80. <a id="endnote-80"></a>
+80.<a id="endnote-80"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2352940725003981" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2352940725003981</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S2352940725003981" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2352940725003981</a>  
 
-81. <a id="endnote-81"></a>
+81.<a id="endnote-81"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2666389926000061" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2666389926000061</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S2666389926000061" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2666389926000061</a>  
 
-82. <a id="endnote-82"></a>
+82.<a id="endnote-82"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0920379624000140" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0920379624000140</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0920379624000140" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0920379624000140</a>  
 
-83. <a id="endnote-83"></a>
+83.<a id="endnote-83"></a>
    Source: isomorphiclabs.com  
    Title: alphafold 3 predicts the structure and interactions of all of lifes molecules  
-   Link: <a href="https://www.isomorphiclabs.com/articles/alphafold-3-predicts-the-structure-and-interactions-of-all-of-lifes-molecules" target="_blank" rel="noopener noreferrer nofollow">https://www.isomorphiclabs.com/articles/alphafold-3-predicts-the-structure-and-interactions-of-all-of-lifes-molecules</a>  
+   Link:<a href="https://www.isomorphiclabs.com/articles/alphafold-3-predicts-the-structure-and-interactions-of-all-of-lifes-molecules" target="_blank" rel="noopener noreferrer nofollow">https://www.isomorphiclabs.com/articles/alphafold-3-predicts-the-structure-and-interactions-of-all-of-lifes-molecules</a>  
 
-84. <a id="endnote-84"></a>
+84.<a id="endnote-84"></a>
    Source: Wikipedia  
    Title: Alpha Fold  
-   Link: <a href="https://en.wikipedia.org/wiki/AlphaFold" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/AlphaFold</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/AlphaFold" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/AlphaFold</a>  
 
-85. <a id="endnote-85"></a>
+85.<a id="endnote-85"></a>
    Source: uvio.bio  
    Title: Alpha Fold Supplementary Information  
-   Link: <a href="https://www.uvio.bio/alphafold-architecture/AlphaFold-Supplementary-Information.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.uvio.bio/alphafold-architecture/AlphaFold-Supplementary-Information.pdf</a>  
+   Link:<a href="https://www.uvio.bio/alphafold-architecture/AlphaFold-Supplementary-Information.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.uvio.bio/alphafold-architecture/AlphaFold-Supplementary-Information.pdf</a>  
 
-86. <a id="endnote-86"></a>
+86.<a id="endnote-86"></a>
    Source: blog.google  
    Title: google research ai co scientist  
-   Link: <a href="https://blog.google/feed/google-research-ai-co-scientist/" target="_blank" rel="noopener noreferrer nofollow">https://blog.google/feed/google-research-ai-co-scientist/</a>  
+   Link:<a href="https://blog.google/feed/google-research-ai-co-scientist/" target="_blank" rel="noopener noreferrer nofollow">https://blog.google/feed/google-research-ai-co-scientist/</a>  
 
-87. <a id="endnote-87"></a>
+87.<a id="endnote-87"></a>
    Source: blog.google  
    Title: Alpha Fold 3 predicts the structure and interactions of all  
-   Link: <a href="https://blog.google/innovation-and-ai/products/google-deepmind-isomorphic-alphafold-3-ai-model/" target="_blank" rel="noopener noreferrer nofollow">https://blog.google/innovation-and-ai/products/google-deepmind-isomorphic-alphafold-3-ai-model/</a>  
+   Link:<a href="https://blog.google/innovation-and-ai/products/google-deepmind-isomorphic-alphafold-3-ai-model/" target="_blank" rel="noopener noreferrer nofollow">https://blog.google/innovation-and-ai/products/google-deepmind-isomorphic-alphafold-3-ai-model/</a>  
 
-88. <a id="endnote-88"></a>
+88.<a id="endnote-88"></a>
    Source: labcritics.com  
-   Link: <a href="https://labcritics.com/blog/2026/05/21/google-deepminds-co-scientist-graduates-from-research-demo-to-nature-paper/" target="_blank" rel="noopener noreferrer nofollow">https://labcritics.com/blog/2026/05/21/google-deepminds-co-scientist-graduates-from-research-demo-to-nature-paper/</a>  
+   Link:<a href="https://labcritics.com/blog/2026/05/21/google-deepminds-co-scientist-graduates-from-research-demo-to-nature-paper/" target="_blank" rel="noopener noreferrer nofollow">https://labcritics.com/blog/2026/05/21/google-deepminds-co-scientist-graduates-from-research-demo-to-nature-paper/</a>  
 
-89. <a id="endnote-89"></a>
+89.<a id="endnote-89"></a>
    Source: niso.org  
    Title: google research offers ai co scientist  
-   Link: <a href="https://www.niso.org/niso-io/2025/02/google-research-offers-ai-co-scientist" target="_blank" rel="noopener noreferrer nofollow">https://www.niso.org/niso-io/2025/02/google-research-offers-ai-co-scientist</a>  
+   Link:<a href="https://www.niso.org/niso-io/2025/02/google-research-offers-ai-co-scientist" target="_blank" rel="noopener noreferrer nofollow">https://www.niso.org/niso-io/2025/02/google-research-offers-ai-co-scientist</a>  
 
-90. <a id="endnote-90"></a>
+90.<a id="endnote-90"></a>
    Source: genengnews.com  
    Title: google deepmind and edison are building the ai scientist  
-   Link: <a href="https://www.genengnews.com/topics/artificial-intelligence/google-deepmind-and-edison-are-building-the-ai-scientist/" target="_blank" rel="noopener noreferrer nofollow">https://www.genengnews.com/topics/artificial-intelligence/google-deepmind-and-edison-are-building-the-ai-scientist/</a>  
+   Link:<a href="https://www.genengnews.com/topics/artificial-intelligence/google-deepmind-and-edison-are-building-the-ai-scientist/" target="_blank" rel="noopener noreferrer nofollow">https://www.genengnews.com/topics/artificial-intelligence/google-deepmind-and-edison-are-building-the-ai-scientist/</a>  
 
 ### Additional References
 
-91. <a id="endnote-91"></a>
+91.<a id="endnote-91"></a>
    Source: youtube.com  
    Title: Hassabis: AI Brings Breakthrough Science — But Serious Risks Remain  
-   Link: <a href="https://www.youtube.com/watch?v=8wivCld-tCA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8wivCld-tCA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Inside Europe&#x27;s Robot-Lab That Could Win the Next Nobel Prize...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=8wivCld-tCA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8wivCld-tCA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Inside Europe&#x27;s Robot-Lab That Could Win the Next Nobel Prize...</p></details>
 
-92. <a id="endnote-92"></a>
+92.<a id="endnote-92"></a>
    Source: youtube.com  
    Title: Beyond Alpha Fold: The future of structural biology is likely "dynamic"  
-   Link: <a href="https://www.youtube.com/watch?v=h6f0J-rVbk4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=h6f0J-rVbk4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Demis Hassabis: The CEO Working to Solve Cancer With AI...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=h6f0J-rVbk4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=h6f0J-rVbk4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Demis Hassabis: The CEO Working to Solve Cancer With AI...</p></details>
 
-93. <a id="endnote-93"></a>
+93.<a id="endnote-93"></a>
    Source: youtube.com  
    Title: How AI Is Rewriting Biology & Materials  
-   Link: <a href="https://www.youtube.com/watch?v=4sWayGceA7E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4sWayGceA7E</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hassabis: AI Brings Breakthrough Science — But Serious Risks Remain...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=4sWayGceA7E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4sWayGceA7E</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hassabis: AI Brings Breakthrough Science — But Serious Risks Remain...</p></details>
 
-94. <a id="endnote-94"></a>
+94.<a id="endnote-94"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/389277932_Artificial_intelligence_for_modeling_and_understanding_extreme_weather_and_climate_events" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/389277932_Artificial_intelligence_for_modeling_and_understanding_extreme_weather_and_climate_events</a>  
+   Link:<a href="https://www.researchgate.net/publication/389277932_Artificial_intelligence_for_modeling_and_understanding_extreme_weather_and_climate_events" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/389277932_Artificial_intelligence_for_modeling_and_understanding_extreme_weather_and_climate_events</a>  
 
-95. <a id="endnote-95"></a>
+95.<a id="endnote-95"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/386190277_Addendum_Accurate_structure_prediction_of_biomolecular_interactions_with_AlphaFold_3" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/386190277_Addendum_Accurate_structure_prediction_of_biomolecular_interactions_with_AlphaFold_3</a>  
+   Link:<a href="https://www.researchgate.net/publication/386190277_Addendum_Accurate_structure_prediction_of_biomolecular_interactions_with_AlphaFold_3" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/386190277_Addendum_Accurate_structure_prediction_of_biomolecular_interactions_with_AlphaFold_3</a>  
 
-96. <a id="endnote-96"></a>
+96.<a id="endnote-96"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/jiajiezhang_the-ai-co-scientist-is-here-nature-medicine-activity-7439522413027098624-f1PZ" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/jiajiezhang_the-ai-co-scientist-is-here-nature-medicine-activity-7439522413027098624-f1PZ</a>  
+   Link:<a href="https://www.linkedin.com/posts/jiajiezhang_the-ai-co-scientist-is-here-nature-medicine-activity-7439522413027098624-f1PZ" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/jiajiezhang_the-ai-co-scientist-is-here-nature-medicine-activity-7439522413027098624-f1PZ</a>  
 
-97. <a id="endnote-97"></a>
+97.<a id="endnote-97"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/735742297/s41586-024-07024-9" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/735742297/s41586-024-07024-9</a>  
+   Link:<a href="https://www.scribd.com/document/735742297/s41586-024-07024-9" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/735742297/s41586-024-07024-9</a>  
 
-98. <a id="endnote-98"></a>
+98.<a id="endnote-98"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/38680135622/posts/10174777485035623/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/38680135622/posts/10174777485035623/</a>  
+   Link:<a href="https://www.facebook.com/groups/38680135622/posts/10174777485035623/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/38680135622/posts/10174777485035623/</a>  
 
-99. <a id="endnote-99"></a>
+99.<a id="endnote-99"></a>
    Source: x.com  
-   Link: <a href="https://x.com/NaturePortfolio/status/1730247585523273853" target="_blank" rel="noopener noreferrer nofollow">https://x.com/NaturePortfolio/status/1730247585523273853</a>  
+   Link:<a href="https://x.com/NaturePortfolio/status/1730247585523273853" target="_blank" rel="noopener noreferrer nofollow">https://x.com/NaturePortfolio/status/1730247585523273853</a>  
 
-100. <a id="endnote-100"></a>
+100.<a id="endnote-100"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NaturePortfolioJournals/posts/a-paper-in-nature-presents-an-autonomous-laboratory-the-a-lab-that-combines-comp/763531545803114/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NaturePortfolioJournals/posts/a-paper-in-nature-presents-an-autonomous-laboratory-the-a-lab-that-combines-comp/763531545803114/</a>
+   Link:<a href="https://www.facebook.com/NaturePortfolioJournals/posts/a-paper-in-nature-presents-an-autonomous-laboratory-the-a-lab-that-combines-comp/763531545803114/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NaturePortfolioJournals/posts/a-paper-in-nature-presents-an-autonomous-laboratory-the-a-lab-that-combines-comp/763531545803114/</a>

@@ -278,7 +278,7 @@ image: /assets/images/AI_Bloom_Abun_98d3a6_ai_education_8e0228_learnlm_eedi_50fc
 The most important lesson from the Eedi–LearnLM maths tutoring trial may not be that an AI tutor performed well. It may be that the system performed well because expert humans remained deeply involved.
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_education_8e0228_learnlm_eedi_50fc09_human_oversig_3c08c4-Illustration-1-dark.svg" | relative_url }}" alt="Human oversight illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_education_8e0228_learnlm_eedi_50fc09_human_oversig_3c08c4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_education_8e0228_learnlm_eedi_50fc09_human_oversig_3c08c4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-In the UK study, students did not interact directly with an unrestricted AI model. Instead, LearnLM generated draft tutoring messages which were reviewed by expert tutors before reaching students. Human supervisors could approve, edit, or completely rewrite every response. The trial therefore tested a human-supervised tutoring system rather than autonomous AI teaching. That distinction matters because many of the reported gains in reliability, safety and educational quality may have depended on the presence of those human checks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2512.23633" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">AI tutoring can safely and effectively support students: An exploratory RCT in UK classroomsDecember 29, 2025...</span><span class="citation-popover-meta">Published: December 29, 2025</span></span></span>
+In the UK study, students did not interact directly with an unrestricted AI model. Instead, LearnLM generated draft tutoring messages which were reviewed by expert tutors before reaching students. Human supervisors could approve, edit, or completely rewrite every response. The trial therefore tested a human-supervised tutoring system rather than autonomous AI teaching. That distinction matters because many of the reported gains in reliability, safety and educational quality may have depended on the presence of those human checks.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2512.23633" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">AI tutoring can safely and effectively support students: An exploratory RCT in UK classroomsDecember 29, 2025...</span><span class="citation-popover-meta">Published: December 29, 2025</span></span></span>
 
 For advocates of AI-enabled educational abundance, the trial is encouraging. It suggests that AI may help deliver more personalised support to many more learners. But it also points to a harder implementation question: if high-quality outcomes depend on expert oversight, how much human judgement is still required before AI tutoring can be safely expanded to millions of students?
 
@@ -286,11 +286,11 @@ For advocates of AI-enabled educational abundance, the trial is encouraging. It 
 
 One common misconception about the Eedi trial is that it demonstrated AI replacing tutors. The actual design was closer to a partnership.
 
-LearnLM generated responses during mathematics tutoring sessions, but supervising tutors retained final authority. Researchers instructed tutors to revise every draft until they would personally be comfortable sending it themselves. In practice, tutors could approve messages unchanged, make small edits, substantially rewrite them, or discard them entirely. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2512.23633" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">AI tutoring can safely and effectively support students: An exploratory RCT in UK classroomsDecember 29, 2025...</span><span class="citation-popover-meta">Published: December 29, 2025</span></span></span>
+LearnLM generated responses during mathematics tutoring sessions, but supervising tutors retained final authority. Researchers instructed tutors to revise every draft until they would personally be comfortable sending it themselves. In practice, tutors could approve messages unchanged, make small edits, substantially rewrite them, or discard them entirely.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2512.23633" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">AI tutoring can safely and effectively support students: An exploratory RCT in UK classroomsDecember 29, 2025...</span><span class="citation-popover-meta">Published: December 29, 2025</span></span></span>
 
 This arrangement reflected a broader reality about educational AI. Mathematics tutoring is not simply about producing correct answers. Tutors must diagnose misconceptions, judge how much help to provide, decide when to ask a question instead of giving an explanation, and recognise when a student is confused, disengaged or heading down the wrong path.
 
-Current language models can often solve mathematical problems. They are less consistently reliable at making pedagogical decisions about how a student should learn those problems. The human supervisors acted as a safeguard against mistakes in that judgement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://danmeyer.substack.com/p/research-review-aihuman-tutors-match" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: danmeyer.substack.com">[Dan Meyer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">danmeyer.substack.com</span><span class="citation-popover-snippet">Dan MeyerResearch Review: AI+Human Tutors Match Quality of...December 17, 2025 — The researchers embedded three kinds of support inside...</span><span class="citation-popover-meta">Published: December 17, 2025</span></span></span>
+Current language models can often solve mathematical problems. They are less consistently reliable at making pedagogical decisions about how a student should learn those problems. The human supervisors acted as a safeguard against mistakes in that judgement.<span class="citation-chip-wrap"><a class="citation-chip" href="https://danmeyer.substack.com/p/research-review-aihuman-tutors-match" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: danmeyer.substack.com">[Dan Meyer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">danmeyer.substack.com</span><span class="citation-popover-snippet">Dan MeyerResearch Review: AI+Human Tutors Match Quality of...December 17, 2025 — The researchers embedded three kinds of support inside...</span><span class="citation-popover-meta">Published: December 17, 2025</span></span></span>
 
 The design also acknowledged a basic asymmetry of risk. A strong tutoring message can help learning. A poor tutoring message can reinforce misunderstandings, provide shortcuts that bypass reasoning, or leave students with false confidence. Because educational interactions accumulate over time, even small errors can matter.
 
@@ -307,13 +307,13 @@ Before messages reached students, tutors could evaluate whether LearnLM's sugges
 * Maintained an appropriate difficulty level.
 * Used clear and age-appropriate language.
 * Avoided revealing solutions too quickly.
-* Fit accepted teaching practice. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2512.23633" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">AI tutoring can safely and effectively support students: An exploratory RCT in UK classroomsDecember 29, 2025...</span><span class="citation-popover-meta">Published: December 29, 2025</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://danmeyer.substack.com/p/research-review-aihuman-tutors-match" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: danmeyer.substack.com">[Dan Meyer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">danmeyer.substack.com</span><span class="citation-popover-snippet">Dan MeyerResearch Review: AI+Human Tutors Match Quality of...December 17, 2025 — The researchers embedded three kinds of support inside...</span><span class="citation-popover-meta">Published: December 17, 2025</span></span></span>
+* Fit accepted teaching practice.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2512.23633" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">AI tutoring can safely and effectively support students: An exploratory RCT in UK classroomsDecember 29, 2025...</span><span class="citation-popover-meta">Published: December 29, 2025</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://danmeyer.substack.com/p/research-review-aihuman-tutors-match" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: danmeyer.substack.com">[Dan Meyer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">danmeyer.substack.com</span><span class="citation-popover-snippet">Dan MeyerResearch Review: AI+Human Tutors Match Quality of...December 17, 2025 — The researchers embedded three kinds of support inside...</span><span class="citation-popover-meta">Published: December 17, 2025</span></span></span>
 
-The trial results suggest that LearnLM often produced acceptable drafts. Researchers reported that supervising tutors approved roughly three-quarters of AI-generated messages with either no edits or only minimal changes. Different reports of the study cite figures ranging from about 74% to over 80%, depending on the analysis and threshold used. <span class="citation-chip-wrap"><a class="citation-chip" href="https://eedi-labs-67qwnm2lxu4blqi5.webflow.io/news/new-exploratory-research-from-eedi-and-google-deepmind-reveals-human-in-the-loop-ai-tutoring-outperforms-human-only-support" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eedi-labs-67qwnm2lxu4blqi5.webflow.io">[Eedi Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eedi-labs-67qwnm2lxu4blqi5.webflow.io</span><span class="citation-popover-snippet">Eedi LabsNew Exploratory Research from Eedi and Google...The trial, conducted with 165 students and 17 tutors, was a careful test of saf...</span></span></span>
+The trial results suggest that LearnLM often produced acceptable drafts. Researchers reported that supervising tutors approved roughly three-quarters of AI-generated messages with either no edits or only minimal changes. Different reports of the study cite figures ranging from about 74% to over 80%, depending on the analysis and threshold used.<span class="citation-chip-wrap"><a class="citation-chip" href="https://eedi-labs-67qwnm2lxu4blqi5.webflow.io/news/new-exploratory-research-from-eedi-and-google-deepmind-reveals-human-in-the-loop-ai-tutoring-outperforms-human-only-support" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eedi-labs-67qwnm2lxu4blqi5.webflow.io">[Eedi Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eedi-labs-67qwnm2lxu4blqi5.webflow.io</span><span class="citation-popover-snippet">Eedi LabsNew Exploratory Research from Eedi and Google...The trial, conducted with 165 students and 17 tutors, was a careful test of saf...</span></span></span>
 
 That finding is important because it shows the human reviewers were not rewriting everything. The AI appeared capable of producing many useful tutoring prompts on its own. Yet the remaining quarter of messages still required meaningful intervention, which illustrates why supervision remained valuable.
 
-Several tutors reported that LearnLM was particularly strong at drafting Socratic questions — prompts that encourage students to explain their thinking rather than simply receive answers. Some even reported learning new questioning approaches from the model. But these reports emerged within a framework where humans could still filter and refine the AI's suggestions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2512.23633" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">AI tutoring can safely and effectively support students: An exploratory RCT in UK classroomsDecember 29, 2025...</span><span class="citation-popover-meta">Published: December 29, 2025</span></span></span>
+Several tutors reported that LearnLM was particularly strong at drafting Socratic questions — prompts that encourage students to explain their thinking rather than simply receive answers. Some even reported learning new questioning approaches from the model. But these reports emerged within a framework where humans could still filter and refine the AI's suggestions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2512.23633" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">AI tutoring can safely and effectively support students: An exploratory RCT in UK classroomsDecember 29, 2025...</span><span class="citation-popover-meta">Published: December 29, 2025</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uFp60sjXSAo" title="DeepMind’s Learnings in Developing an AI Tutor" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uFp60sjXSAo" target="_blank" rel="noopener noreferrer">DeepMind’s Learnings in Developing an AI Tutor</a></p><p class="youtube-embed-meta">Channel: Michael B. Horn &middot; Views: 207 &middot; Uploaded: January 2026 &middot; Length: 32 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uFp60sjXSAo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uFp60sjXSAo">Open on YouTube</a></p></div></div></div>
 
@@ -327,7 +327,7 @@ The most obvious concern is incorrect information.
 
 A student working through algebra or geometry may not know whether an explanation is right or wrong. An error delivered confidently by a tutoring system can therefore become a learned misconception rather than a simple mistake.
 
-The Eedi trial included auditing of AI-generated interactions and reported extremely low rates of factual inaccuracies. Human review was part of the mechanism intended to achieve that result. <span class="citation-chip-wrap"><a class="citation-chip" href="https://eedi-labs-67qwnm2lxu4blqi5.webflow.io/news/new-exploratory-research-from-eedi-and-google-deepmind-reveals-human-in-the-loop-ai-tutoring-outperforms-human-only-support" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eedi-labs-67qwnm2lxu4blqi5.webflow.io">[Eedi Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eedi-labs-67qwnm2lxu4blqi5.webflow.io</span><span class="citation-popover-snippet">Eedi LabsNew Exploratory Research from Eedi and Google...The trial, conducted with 165 students and 17 tutors, was a careful test of saf...</span></span></span>
+The Eedi trial included auditing of AI-generated interactions and reported extremely low rates of factual inaccuracies. Human review was part of the mechanism intended to achieve that result.<span class="citation-chip-wrap"><a class="citation-chip" href="https://eedi-labs-67qwnm2lxu4blqi5.webflow.io/news/new-exploratory-research-from-eedi-and-google-deepmind-reveals-human-in-the-loop-ai-tutoring-outperforms-human-only-support" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eedi-labs-67qwnm2lxu4blqi5.webflow.io">[Eedi Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eedi-labs-67qwnm2lxu4blqi5.webflow.io</span><span class="citation-popover-snippet">Eedi LabsNew Exploratory Research from Eedi and Google...The trial, conducted with 165 students and 17 tutors, was a careful test of saf...</span></span></span>
 
 ### Preventing over-helping
 
@@ -335,14 +335,14 @@ A less obvious risk is pedagogical failure.
 
 A model can help a student solve a problem while simultaneously undermining learning. For example, it may reveal too much information too quickly, provide procedural steps without understanding, or guide students directly to answers.
 
-[Human tutors]({{ 'human-role/' | relative_url }}) regularly make subtle decisions about when not to help. Educational researchers have long noted that productive struggle can be important for learning. The Eedi supervisors could intervene when AI suggestions became too leading or insufficiently challenging. <span class="citation-chip-wrap"><a class="citation-chip" href="https://eedi.substack.com/p/ai-in-education-7-five-things-i-learned" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eedi.substack.com">[Eedi Newsletter]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eedi.substack.com</span><span class="citation-popover-title">Eedi Newsletter AI in Education #7: Five Things I Learned from Bibi Groot</span><span class="citation-popover-snippet">LearnLM with a human in the loop approving every message before it reaches the student. It is not definitive proof that AI tutoring works...</span></span></span>
+[Human tutors]({{ 'human-role/' | relative_url }}) regularly make subtle decisions about when not to help. Educational researchers have long noted that productive struggle can be important for learning. The Eedi supervisors could intervene when AI suggestions became too leading or insufficiently challenging.<span class="citation-chip-wrap"><a class="citation-chip" href="https://eedi.substack.com/p/ai-in-education-7-five-things-i-learned" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eedi.substack.com">[Eedi Newsletter]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eedi.substack.com</span><span class="citation-popover-title">Eedi Newsletter AI in Education #7: Five Things I Learned from Bibi Groot</span><span class="citation-popover-snippet">LearnLM with a human in the loop approving every message before it reaches the student. It is not definitive proof that AI tutoring works...</span></span></span>
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_education_8e0228_learnlm_eedi_50fc09_human_oversig_3c08c4-Illustration-2-dark.svg" | relative_url }}" alt="Human oversight illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_education_8e0228_learnlm_eedi_50fc09_human_oversig_3c08c4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_education_8e0228_learnlm_eedi_50fc09_human_oversig_3c08c4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Preventing unsafe or inappropriate outputs
 
 Another goal was basic safety.
 
-Public concern about educational chatbots often focuses on hallucinations, inappropriate content or unpredictable behaviour. The study's safety audits reported no harmful content reaching students during the trial. While LearnLM itself was specifically adapted for educational use, the presence of human review created an additional protective layer. <span class="citation-chip-wrap"><a class="citation-chip" href="https://eedi-labs-67qwnm2lxu4blqi5.webflow.io/news/new-exploratory-research-from-eedi-and-google-deepmind-reveals-human-in-the-loop-ai-tutoring-outperforms-human-only-support" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eedi-labs-67qwnm2lxu4blqi5.webflow.io">[Eedi Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eedi-labs-67qwnm2lxu4blqi5.webflow.io</span><span class="citation-popover-snippet">Eedi LabsNew Exploratory Research from Eedi and Google...The trial, conducted with 165 students and 17 tutors, was a careful test of saf...</span></span></span>
+Public concern about educational chatbots often focuses on hallucinations, inappropriate content or unpredictable behaviour. The study's safety audits reported no harmful content reaching students during the trial. While LearnLM itself was specifically adapted for educational use, the presence of human review created an additional protective layer.<span class="citation-chip-wrap"><a class="citation-chip" href="https://eedi-labs-67qwnm2lxu4blqi5.webflow.io/news/new-exploratory-research-from-eedi-and-google-deepmind-reveals-human-in-the-loop-ai-tutoring-outperforms-human-only-support" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eedi-labs-67qwnm2lxu4blqi5.webflow.io">[Eedi Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eedi-labs-67qwnm2lxu4blqi5.webflow.io</span><span class="citation-popover-snippet">Eedi LabsNew Exploratory Research from Eedi and Google...The trial, conducted with 165 students and 17 tutors, was a careful test of saf...</span></span></span>
 
 ### Preserving accountability
 
@@ -358,7 +358,7 @@ That may prove important beyond mathematics. If AI becomes involved in education
 
 The trial's most optimistic interpretation is that human supervision and AI generation can complement one another rather than compete.
 
-Researchers reported that tutors often felt able to manage larger workloads when supported by LearnLM. Informal follow-up tests suggested that supervised tutors could handle more simultaneous conversations than tutors working entirely manually. The AI handled much of the drafting work, while humans focused attention on quality [control]({{ 'control/' | relative_url }}) and intervention. <span class="citation-chip-wrap"><a class="citation-chip" href="https://storage.googleapis.com/deepmind-media/LearnLM/learnLM_nov25.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: storage.googleapis.com">[Google Cloud Storage]</a><span class="citation-popover" role="note"><span class="citation-popover-source">storage.googleapis.com</span><span class="citation-popover-snippet">Google Cloud StorageAI tutoring can safely and effectively support studentsNovember 10, 2025 — 11 Nov 2025 — Overall, the design of this...</span><span class="citation-popover-meta">Published: November 10, 2025</span></span></span>
+Researchers reported that tutors often felt able to manage larger workloads when supported by LearnLM. Informal follow-up tests suggested that supervised tutors could handle more simultaneous conversations than tutors working entirely manually. The AI handled much of the drafting work, while humans focused attention on quality [control]({{ 'control/' | relative_url }}) and intervention.<span class="citation-chip-wrap"><a class="citation-chip" href="https://storage.googleapis.com/deepmind-media/LearnLM/learnLM_nov25.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: storage.googleapis.com">[Google Cloud Storage]</a><span class="citation-popover" role="note"><span class="citation-popover-source">storage.googleapis.com</span><span class="citation-popover-snippet">Google Cloud StorageAI tutoring can safely and effectively support studentsNovember 10, 2025 — 11 Nov 2025 — Overall, the design of this...</span><span class="citation-popover-meta">Published: November 10, 2025</span></span></span>
 
 That matters for the larger AI bloom argument around [education]({{ 'education/' | relative_url }}) and cognitive empowerment.
 
@@ -373,7 +373,7 @@ Yet the trial also exposes a practical bottleneck. If every message requires hum
 
 One of the most interesting debates emerging from the Eedi work concerns what happens next.
 
-The trial used a classic "human-in-the-loop" design. Every student-facing message passed through human review. Some researchers and practitioners have suggested that future systems may move toward a "human-on-the-loop" model instead, where AI handles most interactions autonomously while humans monitor conversations and intervene when warning signs appear. <span class="citation-chip-wrap"><a class="citation-chip" href="https://eedi.substack.com/p/ai-in-education-7-five-things-i-learned" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eedi.substack.com">[Eedi Newsletter]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eedi.substack.com</span><span class="citation-popover-title">Eedi Newsletter AI in Education #7: Five Things I Learned from Bibi Groot</span><span class="citation-popover-snippet">LearnLM with a human in the loop approving every message before it reaches the student. It is not definitive proof that AI tutoring works...</span></span></span>
+The trial used a classic "human-in-the-loop" design. Every student-facing message passed through human review. Some researchers and practitioners have suggested that future systems may move toward a "human-on-the-loop" model instead, where AI handles most interactions autonomously while humans monitor conversations and intervene when warning signs appear.<span class="citation-chip-wrap"><a class="citation-chip" href="https://eedi.substack.com/p/ai-in-education-7-five-things-i-learned" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eedi.substack.com">[Eedi Newsletter]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eedi.substack.com</span><span class="citation-popover-title">Eedi Newsletter AI in Education #7: Five Things I Learned from Bibi Groot</span><span class="citation-popover-snippet">LearnLM with a human in the loop approving every message before it reaches the student. It is not definitive proof that AI tutoring works...</span></span></span>
 
 The attraction is obvious. Continuous review of every message is expensive. Monitoring exceptions is cheaper.
 
@@ -389,7 +389,7 @@ The Eedi study therefore provides evidence not only about AI tutoring but also a
 
 The trial offers a small but concrete glimpse of a larger possibility behind AI bloom.
 
-If advanced AI can help skilled educators reach more learners without significantly reducing quality, educational support could become far more abundant. Personalised tutoring has long been one of education's most effective interventions, yet it remains scarce because expert human attention is expensive. AI systems may help relax that constraint. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2512.23633" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">AI tutoring can safely and effectively support students: An exploratory RCT in UK classroomsDecember 29, 2025...</span><span class="citation-popover-meta">Published: December 29, 2025</span></span></span>
+If advanced AI can help skilled educators reach more learners without significantly reducing quality, educational support could become far more abundant. Personalised tutoring has long been one of education's most effective interventions, yet it remains scarce because expert human attention is expensive. AI systems may help relax that constraint.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2512.23633" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">AI tutoring can safely and effectively support students: An exploratory RCT in UK classroomsDecember 29, 2025...</span><span class="citation-popover-meta">Published: December 29, 2025</span></span></span>
 
 At the same time, the study points away from simplistic automation narratives.
 
@@ -397,197 +397,197 @@ The strongest result was not "AI replaces teachers". It was that a carefully con
 
 That distinction matters for long-term discussions about superintelligence, abundance and human flourishing. Many optimistic visions assume advanced AI will eventually make expertise widely available. The Eedi trial suggests that, at least in the near term, the path may involve hybrid systems where AI expands human capability rather than eliminating human judgement.
 
-For education, that may be the more important lesson. The future suggested by the trial is not one in which machines simply take over teaching. It is one in which human expertise becomes more scalable because intelligent systems help deliver it more widely, while people remain responsible for deciding what good teaching actually looks like. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2512.23633" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">AI tutoring can safely and effectively support students: An exploratory RCT in UK classroomsDecember 29, 2025...</span><span class="citation-popover-meta">Published: December 29, 2025</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://eedi.substack.com/p/ai-in-education-7-five-things-i-learned" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eedi.substack.com">[Eedi Newsletter]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eedi.substack.com</span><span class="citation-popover-title">Eedi Newsletter AI in Education #7: Five Things I Learned from Bibi Groot</span><span class="citation-popover-snippet">LearnLM with a human in the loop approving every message before it reaches the student. It is not definitive proof that AI tutoring works...</span></span></span>
+For education, that may be the more important lesson. The future suggested by the trial is not one in which machines simply take over teaching. It is one in which human expertise becomes more scalable because intelligent systems help deliver it more widely, while people remain responsible for deciding what good teaching actually looks like.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2512.23633" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">AI tutoring can safely and effectively support students: An exploratory RCT in UK classroomsDecember 29, 2025...</span><span class="citation-popover-meta">Published: December 29, 2025</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://eedi.substack.com/p/ai-in-education-7-five-things-i-learned" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eedi.substack.com">[Eedi Newsletter]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eedi.substack.com</span><span class="citation-popover-title">Eedi Newsletter AI in Education #7: Five Things I Learned from Bibi Groot</span><span class="citation-popover-snippet">LearnLM with a human in the loop approving every message before it reaches the student. It is not definitive proof that AI tutoring works...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why the AI tutor still needed humans. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why the AI tutor still needed humans. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human Compatible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BKVPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Human Compatible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human Compatible">Human Compatible</a>
-        </h4>
-        <p class="fr-book-author">By Stuart Russell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human Compatible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BKVPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Human Compatible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human Compatible">Human Compatible</a>
+</h4>
+<p class="fr-book-author">By Stuart Russell</p>
         
-        <p class="fr-book-desc">Addresses oversight, control and alignment issues.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses oversight, control and alignment issues.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+AI+Classroom+by+Dan+Fitzpatrick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The AI Classroom on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=femd0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The AI Classroom" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+AI+Classroom+by+Dan+Fitzpatrick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The AI Classroom">The AI Classroom</a>
-        </h4>
-        <p class="fr-book-author">By Dan Fitzpatrick, Amanda Fox et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+AI+Classroom+by+Dan+Fitzpatrick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The AI Classroom on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=femd0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The AI Classroom" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+AI+Classroom+by+Dan+Fitzpatrick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The AI Classroom">The AI Classroom</a>
+</h4>
+<p class="fr-book-author">By Dan Fitzpatrick, Amanda Fox et al.</p>
         
-        <p class="fr-book-desc">Explores responsible human-guided use of AI in teaching.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+AI+Classroom+by+Dan+Fitzpatrick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores responsible human-guided use of AI in teaching.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+AI+Classroom+by+Dan+Fitzpatrick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Co-Intelligence+by+Ethan+Mollick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Co-Intelligence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=r13gEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Co-Intelligence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Co-Intelligence+by+Ethan+Mollick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Co-Intelligence">Co-Intelligence</a>
-        </h4>
-        <p class="fr-book-author">By Ethan Mollick</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Co-Intelligence+by+Ethan+Mollick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Co-Intelligence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=r13gEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Co-Intelligence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Co-Intelligence+by+Ethan+Mollick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Co-Intelligence">Co-Intelligence</a>
+</h4>
+<p class="fr-book-author">By Ethan Mollick</p>
         
-        <p class="fr-book-desc">Examines human-AI collaboration rather than replacement.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Co-Intelligence+by+Ethan+Mollick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines human-AI collaboration rather than replacement.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Co-Intelligence+by+Ethan+Mollick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Teaching+with+AI+by+Jos%C3%A9+Antonio+Bowen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Teaching with AI on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=18L8EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Teaching with AI" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Teaching+with+AI+by+Jos%C3%A9+Antonio+Bowen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Teaching with AI">Teaching with AI</a>
-        </h4>
-        <p class="fr-book-author">By José Antonio Bowen, C. Edward Watson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Teaching+with+AI+by+Jos%C3%A9+Antonio+Bowen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Teaching with AI on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=18L8EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Teaching with AI" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Teaching+with+AI+by+Jos%C3%A9+Antonio+Bowen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Teaching with AI">Teaching with AI</a>
+</h4>
+<p class="fr-book-author">By José Antonio Bowen, C. Edward Watson</p>
         
-        <p class="fr-book-desc">Focuses on human oversight and productive AI integration.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Teaching+with+AI+by+Jos%C3%A9+Antonio+Bowen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on human oversight and productive AI integration.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Teaching+with+AI+by+Jos%C3%A9+Antonio+Bowen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+Compatible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human Compatible</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+AI+Classroom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The AI Classroom</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Co+Intelligence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Co Intelligence</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+Compatible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human Compatible</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+AI+Classroom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The AI Classroom</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Co+Intelligence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Co Intelligence</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-ai-tutor-still-needed-humans-teacher-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher poster" data-ebay-reference="why-the-ai-tutor-still-needed-humans-teacher-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Thank You Helping Me Shine Metal Poster Wall Tin Sign School Teacher Gift Plaque"><img src="https://i.ebayimg.com/images/g/VbwAAeSwmIdoNujs/s-l225.jpg" alt="Listing image for Thank You Helping Me Shine Metal Poster Wall Tin Sign School Teacher Gift Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-ai-tutor-still-needed-humans-teacher-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher poster" data-ebay-reference="why-the-ai-tutor-still-needed-humans-teacher-poster" target="_blank" rel="sponsored noopener noreferrer">Thank You Helping Me Shine Metal Poster Wall Tin Sign School Teacher Gift Plaque</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-ai-tutor-still-needed-humans-teacher-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher poster" data-ebay-reference="why-the-ai-tutor-still-needed-humans-teacher-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: teacher poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-ai-tutor-still-needed-humans-teacher-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher poster" data-ebay-reference="why-the-ai-tutor-still-needed-humans-teacher-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-ai-tutor-still-needed-humans-teacher-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher poster" data-ebay-reference="why-the-ai-tutor-still-needed-humans-teacher-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Thank You Helping Me Shine Metal Poster Wall Tin Sign School Teacher Gift Plaque"><img src="https://i.ebayimg.com/images/g/VbwAAeSwmIdoNujs/s-l225.jpg" alt="Listing image for Thank You Helping Me Shine Metal Poster Wall Tin Sign School Teacher Gift Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-ai-tutor-still-needed-humans-teacher-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher poster" data-ebay-reference="why-the-ai-tutor-still-needed-humans-teacher-poster" target="_blank" rel="sponsored noopener noreferrer">Thank You Helping Me Shine Metal Poster Wall Tin Sign School Teacher Gift Plaque</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-ai-tutor-still-needed-humans-teacher-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher poster" data-ebay-reference="why-the-ai-tutor-still-needed-humans-teacher-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: teacher poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-ai-tutor-still-needed-humans-teacher-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher poster" data-ebay-reference="why-the-ai-tutor-still-needed-humans-teacher-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-ai-tutor-still-needed-humans-teacher-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher poster" data-ebay-reference="why-the-ai-tutor-still-needed-humans-teacher-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Inspirational Quote Teacher Kids Typography Poster Print Wall Art 025"><img src="https://i.ebayimg.com/images/g/vGkAAOSwyTdazKLn/s-l225.jpg" alt="Listing image for Inspirational Quote Teacher Kids Typography Poster Print Wall Art 025" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-ai-tutor-still-needed-humans-teacher-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher poster" data-ebay-reference="why-the-ai-tutor-still-needed-humans-teacher-poster" target="_blank" rel="sponsored noopener noreferrer">Inspirational Quote Teacher Kids Typography Poster Print Wall Art 025</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-ai-tutor-still-needed-humans-teacher-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher poster" data-ebay-reference="why-the-ai-tutor-still-needed-humans-teacher-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: teacher poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-ai-tutor-still-needed-humans-teacher-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher poster" data-ebay-reference="why-the-ai-tutor-still-needed-humans-teacher-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-ai-tutor-still-needed-humans-teacher-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher poster" data-ebay-reference="why-the-ai-tutor-still-needed-humans-teacher-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Inspirational Quote Teacher Kids Typography Poster Print Wall Art 025"><img src="https://i.ebayimg.com/images/g/vGkAAOSwyTdazKLn/s-l225.jpg" alt="Listing image for Inspirational Quote Teacher Kids Typography Poster Print Wall Art 025" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-ai-tutor-still-needed-humans-teacher-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher poster" data-ebay-reference="why-the-ai-tutor-still-needed-humans-teacher-poster" target="_blank" rel="sponsored noopener noreferrer">Inspirational Quote Teacher Kids Typography Poster Print Wall Art 025</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-ai-tutor-still-needed-humans-teacher-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher poster" data-ebay-reference="why-the-ai-tutor-still-needed-humans-teacher-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: teacher poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-ai-tutor-still-needed-humans-teacher-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher poster" data-ebay-reference="why-the-ai-tutor-still-needed-humans-teacher-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-ai-tutor-still-needed-humans-teacher-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher poster" data-ebay-reference="why-the-ai-tutor-still-needed-humans-teacher-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Teacher Appreciation Love, Teach Co Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/Pl0AAeSwAu9pwYfR/s-l225.jpg" alt="Listing image for Teacher Appreciation Love, Teach Co Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-ai-tutor-still-needed-humans-teacher-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher poster" data-ebay-reference="why-the-ai-tutor-still-needed-humans-teacher-poster" target="_blank" rel="sponsored noopener noreferrer">Teacher Appreciation Love, Teach Co Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-ai-tutor-still-needed-humans-teacher-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher poster" data-ebay-reference="why-the-ai-tutor-still-needed-humans-teacher-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: teacher poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-ai-tutor-still-needed-humans-teacher-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher poster" data-ebay-reference="why-the-ai-tutor-still-needed-humans-teacher-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-ai-tutor-still-needed-humans-teacher-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher poster" data-ebay-reference="why-the-ai-tutor-still-needed-humans-teacher-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Teacher Appreciation Love, Teach Co Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/Pl0AAeSwAu9pwYfR/s-l225.jpg" alt="Listing image for Teacher Appreciation Love, Teach Co Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-ai-tutor-still-needed-humans-teacher-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher poster" data-ebay-reference="why-the-ai-tutor-still-needed-humans-teacher-poster" target="_blank" rel="sponsored noopener noreferrer">Teacher Appreciation Love, Teach Co Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-ai-tutor-still-needed-humans-teacher-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher poster" data-ebay-reference="why-the-ai-tutor-still-needed-humans-teacher-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: teacher poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-ai-tutor-still-needed-humans-teacher-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher poster" data-ebay-reference="why-the-ai-tutor-still-needed-humans-teacher-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-ai-tutor-still-needed-humans-teacher-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher poster" data-ebay-reference="why-the-ai-tutor-still-needed-humans-teacher-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BATTERY LIFE OF A MATH TEACHER Fram Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/aRYAAeSw3xFp1Tcs/s-l225.jpg" alt="Listing image for BATTERY LIFE OF A MATH TEACHER Fram Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-ai-tutor-still-needed-humans-teacher-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher poster" data-ebay-reference="why-the-ai-tutor-still-needed-humans-teacher-poster" target="_blank" rel="sponsored noopener noreferrer">BATTERY LIFE OF A MATH TEACHER Fram Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-ai-tutor-still-needed-humans-teacher-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher poster" data-ebay-reference="why-the-ai-tutor-still-needed-humans-teacher-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: teacher poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-ai-tutor-still-needed-humans-teacher-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher poster" data-ebay-reference="why-the-ai-tutor-still-needed-humans-teacher-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-ai-tutor-still-needed-humans-teacher-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher poster" data-ebay-reference="why-the-ai-tutor-still-needed-humans-teacher-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-ai-tutor-still-needed-humans-teacher-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher poster" data-ebay-reference="why-the-ai-tutor-still-needed-humans-teacher-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BATTERY LIFE OF A MATH TEACHER Fram Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/aRYAAeSw3xFp1Tcs/s-l225.jpg" alt="Listing image for BATTERY LIFE OF A MATH TEACHER Fram Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-ai-tutor-still-needed-humans-teacher-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher poster" data-ebay-reference="why-the-ai-tutor-still-needed-humans-teacher-poster" target="_blank" rel="sponsored noopener noreferrer">BATTERY LIFE OF A MATH TEACHER Fram Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-ai-tutor-still-needed-humans-teacher-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher poster" data-ebay-reference="why-the-ai-tutor-still-needed-humans-teacher-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: teacher poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-ai-tutor-still-needed-humans-teacher-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher poster" data-ebay-reference="why-the-ai-tutor-still-needed-humans-teacher-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-ai-tutor-still-needed-humans-teacher-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher poster" data-ebay-reference="why-the-ai-tutor-still-needed-humans-teacher-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -603,7 +603,7 @@ For education, that may be the more important lesson. The future suggested by th
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -623,7 +623,7 @@ For education, that may be the more important lesson. The future suggested by th
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -655,7 +655,7 @@ For education, that may be the more important lesson. The future suggested by th
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -707,7 +707,7 @@ For education, that may be the more important lesson. The future suggested by th
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -752,7 +752,7 @@ For education, that may be the more important lesson. The future suggested by th
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -793,109 +793,109 @@ For education, that may be the more important lesson. The future suggested by th
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2512.23633" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2512.23633</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AI tutoring can safely and effectively support students: An exploratory RCT in UK classroomsDecember 29, 2025...</p></details>
+   Link:<a href="https://arxiv.org/abs/2512.23633" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2512.23633</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI tutoring can safely and effectively support students: An exploratory RCT in UK classroomsDecember 29, 2025...</p></details>
    Published: December 29, 2025  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: eedi.com  
-   Link: <a href="https://www.eedi.com/learn" target="_blank" rel="noopener noreferrer nofollow">https://www.eedi.com/learn</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LearnOur expert human tutors review, edit, and approve each response from the AI tutor before it is sent on to the student; Once the misc...</p></details>
+   Link:<a href="https://www.eedi.com/learn" target="_blank" rel="noopener noreferrer nofollow">https://www.eedi.com/learn</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LearnOur expert human tutors review, edit, and approve each response from the AI tutor before it is sent on to the student; Once the misc...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: eedi.com  
-   Link: <a href="https://www.eedi.com/news/just-launched---our-second-ai-tutor-rct" target="_blank" rel="noopener noreferrer nofollow">https://www.eedi.com/news/just-launched---our-second-ai-tutor-rct</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>instances of harmful content, and our Bayesian analysis...Read more...</p></details>
+   Link:<a href="https://www.eedi.com/news/just-launched---our-second-ai-tutor-rct" target="_blank" rel="noopener noreferrer nofollow">https://www.eedi.com/news/just-launched---our-second-ai-tutor-rct</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>instances of harmful content, and our Bayesian analysis...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2512.23633v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2512.23633v1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AI tutoring can safely and effectively support students25 Nov 2025 — Overall, the design of this exploratory RCT allowed us to rapid...</p></details>
+   Link:<a href="https://arxiv.org/html/2512.23633v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2512.23633v1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI tutoring can safely and effectively support students25 Nov 2025 — Overall, the design of this exploratory RCT allowed us to rapid...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: eedi.com  
-   Link: <a href="https://www.eedi.com/news/new-uk-study-finds-students-using-eedi-gain-2-4-months-of-additional-maths-progress" target="_blank" rel="noopener noreferrer nofollow">https://www.eedi.com/news/new-uk-study-finds-students-using-eedi-gain-2-4-months-of-additional-maths-progress</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>New UK Study Finds Students Using Eedi Gain 2–4...7 Nov 2025 — Independent randomised controlled trial across 20 schools and 3,000 stude...</p></details>
+   Link:<a href="https://www.eedi.com/news/new-uk-study-finds-students-using-eedi-gain-2-4-months-of-additional-maths-progress" target="_blank" rel="noopener noreferrer nofollow">https://www.eedi.com/news/new-uk-study-finds-students-using-eedi-gain-2-4-months-of-additional-maths-progress</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New UK Study Finds Students Using Eedi Gain 2–4...7 Nov 2025 — Independent randomised controlled trial across 20 schools and 3,000 stude...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: danmeyer.substack.com  
-   Link: <a href="https://danmeyer.substack.com/p/research-review-aihuman-tutors-match" target="_blank" rel="noopener noreferrer nofollow">https://danmeyer.substack.com/p/research-review-aihuman-tutors-match</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Dan MeyerResearch Review: AI+Human Tutors Match Quality of...December 17, 2025 — The researchers embedded three kinds of support inside...</p></details>
+   Link:<a href="https://danmeyer.substack.com/p/research-review-aihuman-tutors-match" target="_blank" rel="noopener noreferrer nofollow">https://danmeyer.substack.com/p/research-review-aihuman-tutors-match</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dan MeyerResearch Review: AI+Human Tutors Match Quality of...December 17, 2025 — The researchers embedded three kinds of support inside...</p></details>
    Published: December 17, 2025  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: eedi-labs-67qwnm2lxu4blqi5.webflow.io  
-   Link: <a href="https://eedi-labs-67qwnm2lxu4blqi5.webflow.io/news/new-exploratory-research-from-eedi-and-google-deepmind-reveals-human-in-the-loop-ai-tutoring-outperforms-human-only-support" target="_blank" rel="noopener noreferrer nofollow">https://eedi-labs-67qwnm2lxu4blqi5.webflow.io/news/new-exploratory-research-from-eedi-and-google-deepmind-reveals-human-in-the-loop-ai-tutoring-outperforms-human-only-support</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Eedi LabsNew Exploratory Research from Eedi and Google...The trial, conducted with 165 students and 17 tutors, was a careful test of saf...</p></details>
+   Link:<a href="https://eedi-labs-67qwnm2lxu4blqi5.webflow.io/news/new-exploratory-research-from-eedi-and-google-deepmind-reveals-human-in-the-loop-ai-tutoring-outperforms-human-only-support" target="_blank" rel="noopener noreferrer nofollow">https://eedi-labs-67qwnm2lxu4blqi5.webflow.io/news/new-exploratory-research-from-eedi-and-google-deepmind-reveals-human-in-the-loop-ai-tutoring-outperforms-human-only-support</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eedi LabsNew Exploratory Research from Eedi and Google...The trial, conducted with 165 students and 17 tutors, was a careful test of saf...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: eedi.substack.com  
    Title: Eedi Newsletter AI in Education #7: Five Things I Learned from Bibi Groot  
-   Link: <a href="https://eedi.substack.com/p/ai-in-education-7-five-things-i-learned" target="_blank" rel="noopener noreferrer nofollow">https://eedi.substack.com/p/ai-in-education-7-five-things-i-learned</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LearnLM with a human in the loop approving every message before it reaches the student. It is not definitive proof that AI tutoring works...</p></details>
+   Link:<a href="https://eedi.substack.com/p/ai-in-education-7-five-things-i-learned" target="_blank" rel="noopener noreferrer nofollow">https://eedi.substack.com/p/ai-in-education-7-five-things-i-learned</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LearnLM with a human in the loop approving every message before it reaches the student. It is not definitive proof that AI tutoring works...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: storage.googleapis.com  
-   Link: <a href="https://storage.googleapis.com/deepmind-media/LearnLM/learnLM_nov25.pdf" target="_blank" rel="noopener noreferrer nofollow">https://storage.googleapis.com/deepmind-media/LearnLM/learnLM_nov25.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Google Cloud StorageAI tutoring can safely and effectively support studentsNovember 10, 2025 — 11 Nov 2025 — Overall, the design of this...</p></details>
+   Link:<a href="https://storage.googleapis.com/deepmind-media/LearnLM/learnLM_nov25.pdf" target="_blank" rel="noopener noreferrer nofollow">https://storage.googleapis.com/deepmind-media/LearnLM/learnLM_nov25.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google Cloud StorageAI tutoring can safely and effectively support studentsNovember 10, 2025 — 11 Nov 2025 — Overall, the design of this...</p></details>
    Published: November 10, 2025  
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/learning-agency_ai-tutors-with-a-little-human-help-offer-activity-7402719664608288768-Rehs" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/learning-agency_ai-tutors-with-a-little-human-help-offer-activity-7402719664608288768-Rehs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Tutors Outperform Humans with Human SupervisionAs The 74 Media reports, “students using the supervised AI tutor performed slightly bet...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/learning-agency_ai-tutors-with-a-little-human-help-offer-activity-7402719664608288768-Rehs" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/learning-agency_ai-tutors-with-a-little-human-help-offer-activity-7402719664608288768-Rehs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI Tutors Outperform Humans with Human SupervisionAs The 74 Media reports, “students using the supervised AI tutor performed slightly bet...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/pulse/why-deeper-questioning-led-better-learning-unpacking-our-bibi-groot-6yore" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/why-deeper-questioning-led-better-learning-unpacking-our-bibi-groot-6yore</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why deeper questioning led to better learningThe study compared three conditions: static hints, human-only tutoring, and LearnLM (supervi...</p></details>
+   Link:<a href="https://www.linkedin.com/pulse/why-deeper-questioning-led-better-learning-unpacking-our-bibi-groot-6yore" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/why-deeper-questioning-led-better-learning-unpacking-our-bibi-groot-6yore</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why deeper questioning led to better learningThe study compared three conditions: static hints, human-only tutoring, and LearnLM (supervi...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: learning-engineering-virtual-institute.org  
-   Link: <a href="https://learning-engineering-virtual-institute.org/ai-tutoring-can-safely-and-effectively-support-students-an-exploratory-rct-in-uk-classrooms/" target="_blank" rel="noopener noreferrer nofollow">https://learning-engineering-virtual-institute.org/ai-tutoring-can-safely-and-effectively-support-students-an-exploratory-rct-in-uk-classrooms/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Learning Engineering Virtual InstituteAI Tutoring Can Safely And Effectively Support Students28 Nov 2025 — LearnLM proved to be a reliabl...</p></details>
+   Link:<a href="https://learning-engineering-virtual-institute.org/ai-tutoring-can-safely-and-effectively-support-students-an-exploratory-rct-in-uk-classrooms/" target="_blank" rel="noopener noreferrer nofollow">https://learning-engineering-virtual-institute.org/ai-tutoring-can-safely-and-effectively-support-students-an-exploratory-rct-in-uk-classrooms/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Learning Engineering Virtual InstituteAI Tutoring Can Safely And Effectively Support Students28 Nov 2025 — LearnLM proved to be a reliabl...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/simon-woodhead_edtech-aied-edm-activity-7393960569541652481-kR0c" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/simon-woodhead_edtech-aied-edm-activity-7393960569541652481-kR0c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Eedi and Google DeepMind: Human-Supervised LearnLM...Built-in accountability and recourse: Human tutors were ultimately responsible for...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/simon-woodhead_edtech-aied-edm-activity-7393960569541652481-kR0c" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/simon-woodhead_edtech-aied-edm-activity-7393960569541652481-kR0c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eedi and Google DeepMind: Human-Supervised LearnLM...Built-in accountability and recourse: Human tutors were ultimately responsible for...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: edtechinnovationhub.com  
    Title: eedi and google deepmind begin second ai tutoring trial across 1525 uk students  
-   Link: <a href="https://www.edtechinnovationhub.com/news/eedi-and-google-deepmind-begin-second-ai-tutoring-trial-across-1525-uk-students" target="_blank" rel="noopener noreferrer nofollow">https://www.edtechinnovationhub.com/news/eedi-and-google-deepmind-begin-second-ai-tutoring-trial-across-1525-uk-students</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Eedi and DeepMind trial AI tutor with 1525 UK students5 May 2026 — Supervising tutors approved 74.4 percent of AI-drafted messages withou...</p></details>
+   Link:<a href="https://www.edtechinnovationhub.com/news/eedi-and-google-deepmind-begin-second-ai-tutoring-trial-across-1525-uk-students" target="_blank" rel="noopener noreferrer nofollow">https://www.edtechinnovationhub.com/news/eedi-and-google-deepmind-begin-second-ai-tutoring-trial-across-1525-uk-students</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eedi and DeepMind trial AI tutor with 1525 UK students5 May 2026 — Supervising tutors approved 74.4 percent of AI-drafted messages withou...</p></details>
    Published: May 2026  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: the74million.org  
    Title: ai tutors with a little human help offer reliable instruction study finds  
-   Link: <a href="https://www.the74million.org/article/ai-tutors-with-a-little-human-help-offer-reliable-instruction-study-finds/" target="_blank" rel="noopener noreferrer nofollow">https://www.the74million.org/article/ai-tutors-with-a-little-human-help-offer-reliable-instruction-study-finds/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Tutors, With a Little Human Help, Offer &#x27;Reliable&#x27;...3 Dec 2025 — New UK research finds &#x27;extremely personalized&#x27; AI math tutors don&#x27;t...</p></details>
+   Link:<a href="https://www.the74million.org/article/ai-tutors-with-a-little-human-help-offer-reliable-instruction-study-finds/" target="_blank" rel="noopener noreferrer nofollow">https://www.the74million.org/article/ai-tutors-with-a-little-human-help-offer-reliable-instruction-study-finds/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI Tutors, With a Little Human Help, Offer &#x27;Reliable&#x27;...3 Dec 2025 — New UK research finds &#x27;extremely personalized&#x27; AI math tutors don&#x27;t...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: brookings.edu  
    Title: what the research shows about generative ai in tutoring  
-   Link: <a href="https://www.brookings.edu/articles/what-the-research-shows-about-generative-ai-in-tutoring/" target="_blank" rel="noopener noreferrer nofollow">https://www.brookings.edu/articles/what-the-research-shows-about-generative-ai-in-tutoring/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>27 Jan 2026 — U.K.: (LearnLM Team, Google &amp; Eedi, 2025), • An exploratory RCT with 165 students across five UK secondary schools focused...</p></details>
+   Link:<a href="https://www.brookings.edu/articles/what-the-research-shows-about-generative-ai-in-tutoring/" target="_blank" rel="noopener noreferrer nofollow">https://www.brookings.edu/articles/what-the-research-shows-about-generative-ai-in-tutoring/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>27 Jan 2026 — U.K.: (LearnLM Team, Google &amp; Eedi, 2025), • An exploratory RCT with 165 students across five UK secondary schools focused...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: finance.yahoo.com  
    Title: exploratory research eedi google deepmind 090000225  
-   Link: <a href="https://finance.yahoo.com/news/exploratory-research-eedi-google-deepmind-090000225.html" target="_blank" rel="noopener noreferrer nofollow">https://finance.yahoo.com/news/exploratory-research-eedi-google-deepmind-090000225.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Exploratory Research From Eedi and Google...11 Nov 2025 — A new exploratory study from Eedi, an evidence-based provider of AI-powered le...</p></details>
+   Link:<a href="https://finance.yahoo.com/news/exploratory-research-eedi-google-deepmind-090000225.html" target="_blank" rel="noopener noreferrer nofollow">https://finance.yahoo.com/news/exploratory-research-eedi-google-deepmind-090000225.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Exploratory Research From Eedi and Google...11 Nov 2025 — A new exploratory study from Eedi, an evidence-based provider of AI-powered le...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: eedi.substack.com  
    Title: ai empowers the teacher so they can  
-   Link: <a href="https://eedi.substack.com/p/ai-empowers-the-teacher-so-they-can" target="_blank" rel="noopener noreferrer nofollow">https://eedi.substack.com/p/ai-empowers-the-teacher-so-they-can</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>empowers the teacher so they can help more childrenToday marks an exciting day in the history of Eedi. The results of our year-long work...</p></details>
+   Link:<a href="https://eedi.substack.com/p/ai-empowers-the-teacher-so-they-can" target="_blank" rel="noopener noreferrer nofollow">https://eedi.substack.com/p/ai-empowers-the-teacher-so-they-can</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>empowers the teacher so they can help more childrenToday marks an exciting day in the history of Eedi. The results of our year-long work...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: erctpapers.com  
-   Link: <a href="https://erctpapers.com/papers/144-team-ai-tutoring-can-safely-and-effectively-support-students-an-exploratory-rct-in-uk.html" target="_blank" rel="noopener noreferrer nofollow">https://erctpapers.com/papers/144-team-ai-tutoring-can-safely-and-effectively-support-students-an-exploratory-rct-in-uk.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI tutoring can safely and effectively support students - ERCT29 Dec 2025 — AI tutoring can safely and effectively support students: An e...</p></details>
+   Link:<a href="https://erctpapers.com/papers/144-team-ai-tutoring-can-safely-and-effectively-support-students-an-exploratory-rct-in-uk.html" target="_blank" rel="noopener noreferrer nofollow">https://erctpapers.com/papers/144-team-ai-tutoring-can-safely-and-effectively-support-students-an-exploratory-rct-in-uk.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI tutoring can safely and effectively support students - ERCT29 Dec 2025 — AI tutoring can safely and effectively support students: An e...</p></details>

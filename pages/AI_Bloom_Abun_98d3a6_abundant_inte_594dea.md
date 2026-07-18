@@ -325,26 +325,26 @@ The optimistic case is not that today’s chatbots are already expert replacemen
 
 For most of history, expert attention has been scarce. A good doctor, solicitor, teacher, engineer, scientist, translator, analyst or mentor can only help a limited number of people. Their time is expensive because training takes years, institutions are selective and many services require one-to-one judgement. Search engines made information easier to find, but they did not remove the need to interpret it, apply it, challenge it, translate it into action or tailor it to a particular person.
 
-AI changes the shape of that bottleneck. A capable AI assistant can sit between raw information and human decision-making. It can summarise a technical paper, explain a tax rule, help a nurse draft a patient note, generate a lesson plan, debug code, translate a form, compare policy options or help a small business owner write a grant application. OpenAI’s large-scale study of ChatGPT use found that “practical guidance”, “seeking information” and “writing” accounted for nearly 80% of conversations, with writing especially dominant in work-related uses. That pattern suggests that many users are not merely asking AI to entertain them; they are using it as a general-purpose cognitive helper. <span class="citation-chip-wrap"><a class="citation-chip" href="https://openai.com/index/how-people-are-using-chatgpt/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: OpenAI">[OpenAI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">OpenAI</span><span class="citation-popover-title">how people are using chatgpt</span><span class="citation-popover-snippet">15 Sept 2025 — New research from the largest study of ChatGPT use shows how the tool creates economic value through both personal and pro...</span></span></span>
+AI changes the shape of that bottleneck. A capable AI assistant can sit between raw information and human decision-making. It can summarise a technical paper, explain a tax rule, help a nurse draft a patient note, generate a lesson plan, debug code, translate a form, compare policy options or help a small business owner write a grant application. OpenAI’s large-scale study of ChatGPT use found that “practical guidance”, “seeking information” and “writing” accounted for nearly 80% of conversations, with writing especially dominant in work-related uses. That pattern suggests that many users are not merely asking AI to entertain them; they are using it as a general-purpose cognitive helper.<span class="citation-chip-wrap"><a class="citation-chip" href="https://openai.com/index/how-people-are-using-chatgpt/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: OpenAI">[OpenAI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">OpenAI</span><span class="citation-popover-title">how people are using chatgpt</span><span class="citation-popover-snippet">15 Sept 2025 — New research from the largest study of ChatGPT use shows how the tool creates economic value through both personal and pro...</span></span></span>
 
 This is different from ordinary automation. Industrial automation made some physical labour cheaper. Software made some clerical tasks faster. Abundant intelligence would make judgement-like support cheaper across many domains at once. It would not mean every answer is correct, or that human expertise disappears. It would mean that the first layer of cognitive help — the first explanation, draft, translation, code sketch, literature scan, study plan or diagnostic prompt — becomes far easier to obtain.
 
 The difference is easiest to see in a simple before-and-after comparison. In a cognitively scarce world, a student who falls behind may wait weeks for individual attention. A junior employee may learn mostly by trial and error. A patient may struggle to understand a diagnosis. A researcher may spend months reading around a field before testing a new idea. A local council may lack the analytical capacity to model policy options. In a world of more abundant intelligence, each of those people could have a tireless first-pass helper. The value lies not in replacing the expert, but in widening the circle of people who can get some expert-like support before they hit institutional limits.
 
-The most transformative version would go further. If AI systems become reliable research partners, they could help generate hypotheses, design experiments, write software, run simulations, search literature and compare evidence. Surveys of “agentic science” describe AI moving from narrow tools towards systems that assist across the scientific workflow, including hypothesis generation, experimental design, analysis and iterative refinement. That does not make human judgement obsolete; it raises the possibility that many more people and institutions could participate in serious problem-solving. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2508.14111" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">From AI for Science to Agentic Science: A Survey on Autonomous Scientific DiscoveryAugust 18, 2025...</span><span class="citation-popover-meta">Published: August 18, 2025</span></span></span>
+The most transformative version would go further. If AI systems become reliable research partners, they could help generate hypotheses, design experiments, write software, run simulations, search literature and compare evidence. Surveys of “agentic science” describe AI moving from narrow tools towards systems that assist across the scientific workflow, including hypothesis generation, experimental design, analysis and iterative refinement. That does not make human judgement obsolete; it raises the possibility that many more people and institutions could participate in serious problem-solving.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2508.14111" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">From AI for Science to Agentic Science: A Survey on Autonomous Scientific DiscoveryAugust 18, 2025...</span><span class="citation-popover-meta">Published: August 18, 2025</span></span></span>
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_abundant_inte_594dea-Illustration-1-dark.svg" | relative_url }}" alt="Intelligence illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_abundant_inte_594dea-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_abundant_inte_594dea-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Where current AI already hints at it
 
 The strongest evidence for abundant intelligence is not one spectacular demo. It is the spread of useful, imperfect cognitive assistance across several different settings. The pattern is uneven, but it is already visible.
 
-One influential workplace study examined more than 5,000 customer support agents using a generative AI tool. The researchers found an average productivity increase of nearly 14%, with the biggest gains for less experienced and lower-skilled workers. That matters because it suggests AI can sometimes transfer tacit know-how from stronger performers to weaker performers through real-time guidance. In the language of abundance, AI did not merely speed up the best workers; it helped reduce the gap between people with different levels of experience. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nber.org/papers/w31161" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nber.org">[NBER]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nber.org</span><span class="citation-popover-snippet">Open source on nber.org.</span></span></span>
+One influential workplace study examined more than 5,000 customer support agents using a generative AI tool. The researchers found an average productivity increase of nearly 14%, with the biggest gains for less experienced and lower-skilled workers. That matters because it suggests AI can sometimes transfer tacit know-how from stronger performers to weaker performers through real-time guidance. In the language of abundance, AI did not merely speed up the best workers; it helped reduce the gap between people with different levels of experience.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nber.org/papers/w31161" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nber.org">[NBER]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nber.org</span><span class="citation-popover-snippet">Open source on nber.org.</span></span></span>
 
-Education offers another early signal. A 2025 study in *Scientific Reports* found that students using a custom AI tutor learned significantly more in less time than students in an in-class active-learning comparison, while also reporting higher engagement and motivation. The important point is not that one AI tutor settles the future of education. It is that high-quality tutoring has long been one of the most powerful but least scalable forms of teaching. If AI can provide even a partial version safely and cheaply, it could loosen one of education’s deepest constraints. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41598-025-97652-6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Open source on nature.com.</span></span></span>
+Education offers another early signal. A 2025 study in *Scientific Reports* found that students using a custom AI tutor learned significantly more in less time than students in an in-class active-learning comparison, while also reporting higher engagement and motivation. The important point is not that one AI tutor settles the future of education. It is that high-quality tutoring has long been one of the most powerful but least scalable forms of teaching. If AI can provide even a partial version safely and cheaply, it could loosen one of education’s deepest constraints.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41598-025-97652-6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Open source on nature.com.</span></span></span>
 
-Scientific work shows the same possibility at a higher level of abstraction. AI systems are already being designed to help scientists write code, search literature, plan experiments and test ideas. Google Research, for example, described an AI-powered empirical software system that can propose methodological ideas, implement executable code and empirically validate performance against a defined evaluation. Nature has also published work on systems aiming at end-to-end automation of parts of the research process, including ideation, literature search, experiment planning, implementation, analysis and manuscript writing, though these systems remain bounded and controversial. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research.google/blog/accelerating-scientific-discovery-with-ai-powered-empirical-software/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.google">[Google Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.google</span><span class="citation-popover-title">accelerating scientific discovery with ai powered empirical software</span><span class="citation-popover-snippet">accelerating scientific discovery with ai powered empirical software</span></span></span>
+Scientific work shows the same possibility at a higher level of abstraction. AI systems are already being designed to help scientists write code, search literature, plan experiments and test ideas. Google Research, for example, described an AI-powered empirical software system that can propose methodological ideas, implement executable code and empirically validate performance against a defined evaluation. Nature has also published work on systems aiming at end-to-end automation of parts of the research process, including ideation, literature search, experiment planning, implementation, analysis and manuscript writing, though these systems remain bounded and controversial.<span class="citation-chip-wrap"><a class="citation-chip" href="https://research.google/blog/accelerating-scientific-discovery-with-ai-powered-empirical-software/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.google">[Google Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.google</span><span class="citation-popover-title">accelerating scientific discovery with ai powered empirical software</span><span class="citation-popover-snippet">accelerating scientific discovery with ai powered empirical software</span></span></span>
 
-The broader AI landscape reinforces the point. Stanford’s 2025 AI Index reported rapid improvements in AI performance, expanding use in everyday life and strong business investment, while noting that AI-enabled medical devices approved by the US Food and Drug Administration rose from six in 2015 to 223 in 2023. The same report also highlights how heavily frontier model development is now driven by industry, which is central to the access and [control]({{ 'control/' | relative_url }}) problem discussed later. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hai.stanford.edu/ai-index/2025-ai-index-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hai.stanford.edu">[Stanford HAI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hai.stanford.edu</span><span class="citation-popover-title">2025 ai index report</span><span class="citation-popover-snippet">2025 ai index report</span></span></span>
+The broader AI landscape reinforces the point. Stanford’s 2025 AI Index reported rapid improvements in AI performance, expanding use in everyday life and strong business investment, while noting that AI-enabled medical devices approved by the US Food and Drug Administration rose from six in 2015 to 223 in 2023. The same report also highlights how heavily frontier model development is now driven by industry, which is central to the access and [control]({{ 'control/' | relative_url }}) problem discussed later.<span class="citation-chip-wrap"><a class="citation-chip" href="https://hai.stanford.edu/ai-index/2025-ai-index-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hai.stanford.edu">[Stanford HAI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hai.stanford.edu</span><span class="citation-popover-title">2025 ai index report</span><span class="citation-popover-snippet">2025 ai index report</span></span></span>
 
 These examples are still early signs, not proof of a cognitive post-scarcity future. Customer support is not medicine. A physics tutor is not a universal teacher. A code-generating research agent is not a fully trustworthy scientist. But together they show why the idea is taken seriously: AI is not confined to one profession or one narrow task. It is beginning to act as a flexible cognitive layer across work, learning and [discovery]({{ 'discovery/' | relative_url }}).
 
@@ -364,7 +364,7 @@ There are at least four mechanisms by which cheap expert help could matter.
 
 **Third, it scales first drafts and first passes.** Many expert workflows begin with a rough version: a memo, outline, data query, risk register, lesson plan, experimental script or prototype. AI can make these cheap enough that people try more options before committing.
 
-**Fourth, it can preserve and distribute organisational knowledge.** In the workplace study on customer support, the largest productivity gains among less experienced workers suggest that AI can sometimes package patterns learned from more experienced workers into live assistance. That is a powerful form of cognitive diffusion, though it depends heavily on data quality, worker consent and governance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nber.org/system/files/working_papers/w31161/w31161.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nber.org">[NBER]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nber.org</span><span class="citation-popover-snippet">Open source on nber.org.</span></span></span>
+**Fourth, it can preserve and distribute organisational knowledge.** In the workplace study on customer support, the largest productivity gains among less experienced workers suggest that AI can sometimes package patterns learned from more experienced workers into live assistance. That is a powerful form of cognitive diffusion, though it depends heavily on data quality, worker consent and governance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nber.org/system/files/working_papers/w31161/w31161.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nber.org">[NBER]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nber.org</span><span class="citation-popover-snippet">Open source on nber.org.</span></span></span>
 
 This mechanism is why abundant intelligence could reach beyond GDP growth. A society with more cognitive support may become better at using its existing resources: diagnosing problems earlier, teaching people more effectively, designing institutions more carefully, reducing avoidable errors and making expert knowledge less dependent on elite access. That is the bloom-relevant claim. Intelligence is not just another service; it is a multiplier on many other forms of progress.
 
@@ -372,13 +372,13 @@ This mechanism is why abundant intelligence could reach beyond GDP growth. A soc
 
 The phrase “end of cognitive scarcity” can mislead if it sounds like a clean finish line. AI may make some kinds of help cheap while creating or exposing new bottlenecks. The scarce resource may shift from information to verification, from drafting to judgement, from access to trust, or from human labour to compute, [energy]({{ 'energy/' | relative_url }}) and ownership.
 
-Reliability is the most obvious bottleneck. Large language models can produce fluent falsehoods, often called hallucinations. Recent reviews emphasise that hallucinations remain a serious limitation across large language models, even as mitigation techniques improve. A 2026 *Nature* paper similarly describes confident, plausible falsehoods as a continuing barrier to reliability and notes that tool use, retrieval and self-verification help but do not eliminate the problem. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1622292/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-title">Frontiers Survey and analysis of hallucinations in large language</span><span class="citation-popover-snippet">Frontiers Survey and analysis of hallucinations in large language</span></span></span>
+Reliability is the most obvious bottleneck. Large language models can produce fluent falsehoods, often called hallucinations. Recent reviews emphasise that hallucinations remain a serious limitation across large language models, even as mitigation techniques improve. A 2026 *Nature* paper similarly describes confident, plausible falsehoods as a continuing barrier to reliability and notes that tool use, retrieval and self-verification help but do not eliminate the problem.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1622292/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-title">Frontiers Survey and analysis of hallucinations in large language</span><span class="citation-popover-snippet">Frontiers Survey and analysis of hallucinations in large language</span></span></span>
 
-This matters because abundant bad advice is not abundance in the human-flourishing sense. A cheap AI lawyer that invents cases, a medical assistant that omits a danger sign, a tutor that teaches a misconception or a research assistant that fabricates citations can make the world worse while seeming helpful. Reports in 2026 about AI-generated false references entering scientific literature illustrate the danger: when low-cost text production is not matched by low-cost verification, the knowledge system can be polluted rather than enriched. <span class="citation-chip-wrap"><a class="citation-chip" href="https://m.economictimes.com/news/new-updates/nearly-1-46-lakh-ai-hallucinated-references-entered-scientific-papers-in-2025-study/articleshow/131329519.cms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: m.economictimes.com">[The Economic Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">m.economictimes.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+This matters because abundant bad advice is not abundance in the human-flourishing sense. A cheap AI lawyer that invents cases, a medical assistant that omits a danger sign, a tutor that teaches a misconception or a research assistant that fabricates citations can make the world worse while seeming helpful. Reports in 2026 about AI-generated false references entering scientific literature illustrate the danger: when low-cost text production is not matched by low-cost verification, the knowledge system can be polluted rather than enriched.<span class="citation-chip-wrap"><a class="citation-chip" href="https://m.economictimes.com/news/new-updates/nearly-1-46-lakh-ai-hallucinated-references-entered-scientific-papers-in-2025-study/articleshow/131329519.cms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: m.economictimes.com">[The Economic Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">m.economictimes.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Verification, therefore, becomes a central scarce good. In science, one 2025 paper on AI-driven discovery argues that the abundance of AI-generated hypotheses could hinder progress unless there are scalable, reliable ways to test and validate them. That is a useful warning for the whole abundant-intelligence thesis. Generating possibilities is not the same as knowing which possibilities are true, safe or worth acting on. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2508.14111" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">From AI for Science to Agentic Science: A Survey on Autonomous Scientific DiscoveryAugust 18, 2025...</span><span class="citation-popover-meta">Published: August 18, 2025</span></span></span>
+Verification, therefore, becomes a central scarce good. In science, one 2025 paper on AI-driven discovery argues that the abundance of AI-generated hypotheses could hinder progress unless there are scalable, reliable ways to test and validate them. That is a useful warning for the whole abundant-intelligence thesis. Generating possibilities is not the same as knowing which possibilities are true, safe or worth acting on.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2508.14111" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">From AI for Science to Agentic Science: A Survey on Autonomous Scientific DiscoveryAugust 18, 2025...</span><span class="citation-popover-meta">Published: August 18, 2025</span></span></span>
 
-A second bottleneck is skill. AI can help novices, but it can also tempt people to outsource the very thinking they need to develop. Some research on AI in education raises concerns about reduced cognitive engagement when students rely on generative AI for writing tasks. The broader risk is not that using AI is inherently lazy; it is that poorly designed use can turn a tutor into a shortcut machine. Abundant intelligence should ideally build human capability, not hollow it out. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2508.14111" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">From AI for Science to Agentic Science: A Survey on Autonomous Scientific DiscoveryAugust 18, 2025...</span><span class="citation-popover-meta">Published: August 18, 2025</span></span></span>
+A second bottleneck is skill. AI can help novices, but it can also tempt people to outsource the very thinking they need to develop. Some research on AI in education raises concerns about reduced cognitive engagement when students rely on generative AI for writing tasks. The broader risk is not that using AI is inherently lazy; it is that poorly designed use can turn a tutor into a shortcut machine. Abundant intelligence should ideally build human capability, not hollow it out.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2508.14111" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">From AI for Science to Agentic Science: A Survey on Autonomous Scientific DiscoveryAugust 18, 2025...</span><span class="citation-popover-meta">Published: August 18, 2025</span></span></span>
 
 A third bottleneck is context. Many expert decisions depend on local knowledge, values, relationships and accountability. An AI system may explain a planning regulation, but it does not know a neighbourhood the way residents do. It may summarise treatment options, but it does not carry the ethical responsibility of a clinician. It may generate a policy memo, but it does not represent citizens. The more consequential the decision, the more abundant intelligence must be paired with human responsibility.
 
@@ -387,13 +387,13 @@ A third bottleneck is context. Many expert decisions depend on local knowledge, 
 
 The optimistic case depends on broad access. If advanced AI remains expensive, restricted, English-dominant, inaccessible to disabled users, unavailable in poorer regions or controlled by a small number of firms, then cognitive scarcity will not end. It will be reorganised.
 
-The access problem is already visible. Pew’s 2025 survey across 25 countries found that awareness of AI was widespread but uneven: a median of 34% of adults had heard or read a lot about AI, 47% had heard a little and 14% had heard nothing at all. People were also more likely to be concerned than excited about AI’s effects on daily life. That combination — partial awareness, anxiety and uneven familiarity — is exactly the kind of social terrain in which benefits can accrue first to confident, well-connected users. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pewresearch.org/global/2025/10/15/how-people-around-the-world-view-ai/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pewresearch.org">[Pew Research Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pewresearch.org</span><span class="citation-popover-title">how people around the world view ai</span><span class="citation-popover-snippet">how people around the world view ai</span></span></span>
+The access problem is already visible. Pew’s 2025 survey across 25 countries found that awareness of AI was widespread but uneven: a median of 34% of adults had heard or read a lot about AI, 47% had heard a little and 14% had heard nothing at all. People were also more likely to be concerned than excited about AI’s effects on daily life. That combination — partial awareness, anxiety and uneven familiarity — is exactly the kind of social terrain in which benefits can accrue first to confident, well-connected users.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pewresearch.org/global/2025/10/15/how-people-around-the-world-view-ai/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pewresearch.org">[Pew Research Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pewresearch.org</span><span class="citation-popover-title">how people around the world view ai</span><span class="citation-popover-snippet">how people around the world view ai</span></span></span>
 
-A Microsoft report on global AI adoption in the second half of 2025 estimated that generative AI tools had reached 16.3% of the world’s population, up from 15.1% in the first half of the year, while also warning of a widening divide. Even if those figures are approximate and platform-specific, the direction is important: AI can spread quickly and still leave most people outside meaningful use. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.microsoft.com/en-us/research/wp-content/uploads/2026/01/Microsoft-AI-Diffusion-Report-2025-H2.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: microsoft.com">[Microsoft]</a><span class="citation-popover" role="note"><span class="citation-popover-source">microsoft.com</span><span class="citation-popover-title">Microsoft AI Diffusion Report 2025 H2</span><span class="citation-popover-snippet">Microsoft AI Diffusion Report 2025 H2</span></span></span>
+A Microsoft report on global AI adoption in the second half of 2025 estimated that generative AI tools had reached 16.3% of the world’s population, up from 15.1% in the first half of the year, while also warning of a widening divide. Even if those figures are approximate and platform-specific, the direction is important: AI can spread quickly and still leave most people outside meaningful use.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.microsoft.com/en-us/research/wp-content/uploads/2026/01/Microsoft-AI-Diffusion-Report-2025-H2.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: microsoft.com">[Microsoft]</a><span class="citation-popover" role="note"><span class="citation-popover-source">microsoft.com</span><span class="citation-popover-title">Microsoft AI Diffusion Report 2025 H2</span><span class="citation-popover-snippet">Microsoft AI Diffusion Report 2025 H2</span></span></span>
 
-Education makes the equity issue especially sharp. UNESCO’s 2025 work on AI and education argues that AI could increase access to learning and personalisation, but also risks worsening inequalities, privacy problems and safety concerns unless governed through a human-centred, rights-based approach. This is not a side issue. If AI tutoring, feedback and study support become normal for affluent students while poorer students receive lower-quality tools or none at all, abundant intelligence could widen educational gaps rather than close them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/en/articles/ai-and-education-protecting-rights-learners" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-title">ai and education protecting rights learners</span><span class="citation-popover-snippet">ai and education protecting rights learners</span></span></span>
+Education makes the equity issue especially sharp. UNESCO’s 2025 work on AI and education argues that AI could increase access to learning and personalisation, but also risks worsening inequalities, privacy problems and safety concerns unless governed through a human-centred, rights-based approach. This is not a side issue. If AI tutoring, feedback and study support become normal for affluent students while poorer students receive lower-quality tools or none at all, abundant intelligence could widen educational gaps rather than close them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/en/articles/ai-and-education-protecting-rights-learners" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-title">ai and education protecting rights learners</span><span class="citation-popover-snippet">ai and education protecting rights learners</span></span></span>
 
-Control is just as important as access. Stanford’s 2025 AI Index reported that nearly 90% of notable AI models in 2024 came from industry, up from 60% in 2023, while training compute, datasets and power use continued to grow rapidly. That concentration is not automatically bad; industry has built many useful systems. But it means the infrastructure for abundant intelligence may be shaped by commercial incentives, subscription tiers, advertising models, proprietary data and geopolitical competition. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hai.stanford.edu/ai-index/2025-ai-index-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hai.stanford.edu">[Stanford HAI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hai.stanford.edu</span><span class="citation-popover-title">2025 ai index report</span><span class="citation-popover-snippet">2025 ai index report</span></span></span>
+Control is just as important as access. Stanford’s 2025 AI Index reported that nearly 90% of notable AI models in 2024 came from industry, up from 60% in 2023, while training compute, datasets and power use continued to grow rapidly. That concentration is not automatically bad; industry has built many useful systems. But it means the infrastructure for abundant intelligence may be shaped by commercial incentives, subscription tiers, advertising models, proprietary data and geopolitical competition.<span class="citation-chip-wrap"><a class="citation-chip" href="https://hai.stanford.edu/ai-index/2025-ai-index-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hai.stanford.edu">[Stanford HAI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hai.stanford.edu</span><span class="citation-popover-title">2025 ai index report</span><span class="citation-popover-snippet">2025 ai index report</span></span></span>
 
 A genuinely broad version of abundant intelligence would require more than consumer apps. It would need public-interest deployments in schools, libraries, clinics, courts, local government, small businesses and community organisations. It would need multilingual and accessible systems. It would need procurement rules, audits, appeal rights, privacy protections and ways for workers and citizens to challenge harmful uses. Without those choices, AI may make intelligence cheap in a technical sense while keeping trustworthy expertise scarce in practice.
 
@@ -403,11 +403,11 @@ A genuinely broad version of abundant intelligence would require more than consu
 
 The end of cognitive scarcity sounds liberating for workers: fewer tedious tasks, faster learning, better tools and more opportunity for small teams to do ambitious work. That is a real possibility. AI can help a junior analyst produce a clearer memo, a tradesperson handle paperwork, a nurse reduce documentation burden, a programmer understand an unfamiliar codebase or a freelancer offer services that once required a larger firm.
 
-But work is also where the politics of abundant intelligence becomes most visible. The same systems that assist workers can monitor them, deskill them, standardise their judgement or replace parts of their role. OECD analysis of AI and labour markets has found that benefits may be uneven, with higher-income and higher-skilled workers often better placed to gain from AI exposure than lower-income workers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/publications/artificial-intelligence-and-the-labour-market-in-korea_68ab1a5a-en/full-report/the-impact-of-ai-on-the-labour-market_69793977.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-title">the impact of ai on the labour market 69793977</span><span class="citation-popover-snippet">the impact of ai on the labour market 69793977</span></span></span>
+But work is also where the politics of abundant intelligence becomes most visible. The same systems that assist workers can monitor them, deskill them, standardise their judgement or replace parts of their role. OECD analysis of AI and labour markets has found that benefits may be uneven, with higher-income and higher-skilled workers often better placed to gain from AI exposure than lower-income workers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/publications/artificial-intelligence-and-the-labour-market-in-korea_68ab1a5a-en/full-report/the-impact-of-ai-on-the-labour-market_69793977.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-title">the impact of ai on the labour market 69793977</span><span class="citation-popover-snippet">the impact of ai on the labour market 69793977</span></span></span>
 
 The key distinction is between augmentation and control. In an augmentation model, AI gives workers more capability: faster search, better drafting, easier training, safer decisions, less drudgery. In a control model, AI becomes a system for surveillance, pace-setting, automated evaluation or replacing human discretion with opaque instructions. Both can occur in the same workplace.
 
-This is why worker voice matters. Recent UK debate has focused on whether staff should have more say over AI rollout, with concerns that AI can augment labour, degrade job quality or displace workers depending on how it is introduced. That framing is useful because it avoids both simplistic optimism and simplistic panic. The central issue is not “AI in work: yes or no?” It is who decides, who benefits, who bears risk and whether productivity gains translate into better jobs, lower hours, higher wages or merely tighter management. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/technology/2026/may/29/give-staff-more-say-over-ai-to-ensure-they-share-benefits-uk-thinktank-urges" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The report argues that the critical issue is who controls AI-driven changes in the workplace. Recommendations include a legal duty for em...</span></span></span>
+This is why worker voice matters. Recent UK debate has focused on whether staff should have more say over AI rollout, with concerns that AI can augment labour, degrade job quality or displace workers depending on how it is introduced. That framing is useful because it avoids both simplistic optimism and simplistic panic. The central issue is not “AI in work: yes or no?” It is who decides, who benefits, who bears risk and whether productivity gains translate into better jobs, lower hours, higher wages or merely tighter management.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/technology/2026/may/29/give-staff-more-say-over-ai-to-ensure-they-share-benefits-uk-thinktank-urges" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The report argues that the critical issue is who controls AI-driven changes in the workplace. Recommendations include a legal duty for em...</span></span></span>
 
 Abundant intelligence could also change career ladders. If AI handles many entry-level cognitive tasks, young workers may find it harder to learn by doing. If, however, AI is deliberately used as a coach, simulator and feedback system, it could make apprenticeship cheaper and more inclusive. The same technology could either pull up the floor of opportunity or remove the lower rungs of professional development.
 
@@ -415,13 +415,13 @@ Abundant intelligence could also change career ladders. If AI handles many entry
 
 The case for abundant intelligence faces serious objections. The first is that today’s AI systems are too unreliable for the phrase “expert help” to be appropriate. This objection is partly right. In high-stakes settings, fluency can be dangerous because it creates the impression of competence without the accountability of a professional. The answer is not to pretend the problem is solved, but to distinguish low-stakes assistance from consequential advice, and to build systems around verification, uncertainty, audit trails and human review.
 
-The second objection is that AI may centralise rather than democratise expertise. If the best systems require enormous compute budgets, proprietary data and energy-intensive infrastructure, then abundant intelligence may depend on a small number of gatekeepers. Stanford’s findings on industry dominance and fast-growing compute needs support this concern. So does the wider policy debate over frontier AI safety frameworks, transparency and risk management. The International AI Safety Report’s 2025 updates note continuing capability improvements, especially in coding, mathematics and expert-level science questions, while also stressing persistent reliability challenges and new risks around misuse, monitoring and controllability. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hai.stanford.edu/ai-index/2025-ai-index-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hai.stanford.edu">[Stanford HAI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hai.stanford.edu</span><span class="citation-popover-title">2025 ai index report</span><span class="citation-popover-snippet">2025 ai index report</span></span></span> 2arXiv
+The second objection is that AI may centralise rather than democratise expertise. If the best systems require enormous compute budgets, proprietary data and energy-intensive infrastructure, then abundant intelligence may depend on a small number of gatekeepers. Stanford’s findings on industry dominance and fast-growing compute needs support this concern. So does the wider policy debate over frontier AI safety frameworks, transparency and risk management. The International AI Safety Report’s 2025 updates note continuing capability improvements, especially in coding, mathematics and expert-level science questions, while also stressing persistent reliability challenges and new risks around misuse, monitoring and controllability.<span class="citation-chip-wrap"><a class="citation-chip" href="https://hai.stanford.edu/ai-index/2025-ai-index-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hai.stanford.edu">[Stanford HAI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hai.stanford.edu</span><span class="citation-popover-title">2025 ai index report</span><span class="citation-popover-snippet">2025 ai index report</span></span></span> 2arXiv
 
 The third objection is that cheap cognitive output may flood institutions with low-quality material. Schools may face AI-written essays. Courts may face AI-generated filings. Journals may face fabricated references. Employers may face polished but shallow applications. The scarce skill then becomes filtering, provenance and trust. In this world, abundance without authentication can feel like spam at civilisational scale.
 
 The fourth objection is that AI could weaken human agency. If people increasingly ask machines what to think, write, choose or believe, then the danger is not only wrong answers but passive dependence. A flourishing society should not measure success by how many decisions are offloaded. It should ask whether people become more capable, more informed, more creative and more free.
 
-The fifth objection is environmental and material. Intelligence is not free just because the user sees a text box. Frontier AI requires chips, data centres, electricity, cooling, networks and supply chains. If AI becomes a major layer of social infrastructure, the costs of compute and power become part of the abundance equation. Our World in Data’s dataset on AI training costs tracks hardware, energy, cloud rental and staff costs for frontier models, highlighting that the physical basis of “digital” intelligence is substantial and unevenly distributed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ourworldindata.org/grapher/hardware-and-energy-cost-to-train-notable-ai-systems" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ourworldindata.org">[Our World in Data]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ourworldindata.org</span><span class="citation-popover-title">hardware and energy cost to train notable ai systems</span><span class="citation-popover-snippet">hardware and energy cost to train notable ai systems</span></span></span>
+The fifth objection is environmental and material. Intelligence is not free just because the user sees a text box. Frontier AI requires chips, data centres, electricity, cooling, networks and supply chains. If AI becomes a major layer of social infrastructure, the costs of compute and power become part of the abundance equation. Our World in Data’s dataset on AI training costs tracks hardware, energy, cloud rental and staff costs for frontier models, highlighting that the physical basis of “digital” intelligence is substantial and unevenly distributed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ourworldindata.org/grapher/hardware-and-energy-cost-to-train-notable-ai-systems" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ourworldindata.org">[Our World in Data]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ourworldindata.org</span><span class="citation-popover-title">hardware and energy cost to train notable ai systems</span><span class="citation-popover-snippet">hardware and energy cost to train notable ai systems</span></span></span>
 
 None of these objections destroys the abundant-intelligence thesis. They make it conditional. AI can reduce cognitive scarcity only if reliability, access, governance, energy and human capability improve together.
 
@@ -453,194 +453,194 @@ But the word “useful” carries the weight. More text is not the same as more 
 The most realistic optimistic view is therefore neither utopian nor dismissive. AI is already making some forms of cognitive help cheaper and more available. The early evidence from workplaces, education, science and everyday use is strong enough to take the possibility seriously. Yet the hardest part is not merely building more powerful models. It is building the surrounding institutions, norms and safeguards that turn abundant machine cognition into broader human flourishing.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What If Expert Help Became Cheap?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What If Expert Help Became Cheap?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Coming Wave on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b0y5zwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Coming Wave" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Coming Wave">The Coming Wave</a>
-        </h4>
-        <p class="fr-book-author">By Mustafa Suleyman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Coming Wave on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b0y5zwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Coming Wave" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Coming Wave">The Coming Wave</a>
+</h4>
+<p class="fr-book-author">By Mustafa Suleyman</p>
         
-        <p class="fr-book-desc">Directly relates to the idea of abundant intelligence becoming broadly available.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly relates to the idea of abundant intelligence becoming broadly available.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Age+of+A.+I.+by+Henry+Kissinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Age of A. I. on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=iBNqzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Age of A. I." loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Age+of+A.+I.+by+Henry+Kissinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Age of A. I.">The Age of A. I.</a>
-        </h4>
-        <p class="fr-book-author">By Henry Kissinger, Eric Schmidt et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Age+of+A.+I.+by+Henry+Kissinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Age of A. I. on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=iBNqzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Age of A. I." loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Age+of+A.+I.+by+Henry+Kissinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Age of A. I.">The Age of A. I.</a>
+</h4>
+<p class="fr-book-author">By Henry Kissinger, Eric Schmidt et al.</p>
         
-        <p class="fr-book-desc">Explores how AI could expand access to expertise and decision-making support.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Age+of+A.+I.+by+Henry+Kissinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how AI could expand access to expertise and decision-making support.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Age+of+A.+I.+by+Henry+Kissinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Co-Intelligence+by+Ethan+Mollick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Co-Intelligence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=r13gEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Co-Intelligence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Co-Intelligence+by+Ethan+Mollick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Co-Intelligence">Co-Intelligence</a>
-        </h4>
-        <p class="fr-book-author">By Ethan Mollick</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Co-Intelligence+by+Ethan+Mollick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Co-Intelligence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=r13gEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Co-Intelligence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Co-Intelligence+by+Ethan+Mollick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Co-Intelligence">Co-Intelligence</a>
+</h4>
+<p class="fr-book-author">By Ethan Mollick</p>
         
-        <p class="fr-book-desc">Focuses on humans using AI as an accessible cognitive partner.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Co-Intelligence+by+Ethan+Mollick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on humans using AI as an accessible cognitive partner.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Co-Intelligence+by+Ethan+Mollick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human Compatible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BKVPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Human Compatible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human Compatible">Human Compatible</a>
-        </h4>
-        <p class="fr-book-author">By Stuart Russell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human Compatible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BKVPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Human Compatible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human Compatible">Human Compatible</a>
+</h4>
+<p class="fr-book-author">By Stuart Russell</p>
         
-        <p class="fr-book-desc">Addresses the governance and reliability issues that could limit abundant intelligence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses the governance and reliability issues that could limit abundant intelligence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Coming+Wave&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Coming Wave</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Age+of+A.+I.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Age of A. I.</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Co+Intelligence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Co Intelligence</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Coming+Wave&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Coming Wave</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Age+of+A.+I.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Age of A. I.</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Co+Intelligence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Co Intelligence</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-if-expert-help-became-cheap-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="what-if-expert-help-became-cheap-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A.I. Artificial Intelligence Film Poster/Print A3/A4/A5 230gsm Framed"><img src="https://i.ebayimg.com/images/g/FxgAAeSwbvFo3ltn/s-l225.jpg" alt="Listing image for A.I. Artificial Intelligence Film Poster/Print A3/A4/A5 230gsm Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-if-expert-help-became-cheap-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="what-if-expert-help-became-cheap-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer">A.I. Artificial Intelligence Film Poster/Print A3/A4/A5 230gsm Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-if-expert-help-became-cheap-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="what-if-expert-help-became-cheap-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-if-expert-help-became-cheap-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="what-if-expert-help-became-cheap-artificial-intelligence-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-if-expert-help-became-cheap-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="what-if-expert-help-became-cheap-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A.I. Artificial Intelligence Film Poster/Print A3/A4/A5 230gsm Framed"><img src="https://i.ebayimg.com/images/g/FxgAAeSwbvFo3ltn/s-l225.jpg" alt="Listing image for A.I. Artificial Intelligence Film Poster/Print A3/A4/A5 230gsm Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-if-expert-help-became-cheap-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="what-if-expert-help-became-cheap-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer">A.I. Artificial Intelligence Film Poster/Print A3/A4/A5 230gsm Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-if-expert-help-became-cheap-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="what-if-expert-help-became-cheap-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-if-expert-help-became-cheap-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="what-if-expert-help-became-cheap-artificial-intelligence-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-if-expert-help-became-cheap-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="what-if-expert-help-became-cheap-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AI ARTIFICIAL INTELLIGENCE . 2001 ORIGINAL MOVIE POSTER vintage 24 YEARS OLD"><img src="https://i.ebayimg.com/images/g/f1kAAOSwQllkTTrV/s-l225.jpg" alt="Listing image for AI ARTIFICIAL INTELLIGENCE . 2001 ORIGINAL MOVIE POSTER vintage 24 YEARS OLD" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-if-expert-help-became-cheap-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="what-if-expert-help-became-cheap-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer">AI ARTIFICIAL INTELLIGENCE . 2001 ORIGINAL MOVIE POSTER vintage 24 YEARS OLD</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-if-expert-help-became-cheap-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="what-if-expert-help-became-cheap-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-if-expert-help-became-cheap-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="what-if-expert-help-became-cheap-artificial-intelligence-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-if-expert-help-became-cheap-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="what-if-expert-help-became-cheap-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AI ARTIFICIAL INTELLIGENCE . 2001 ORIGINAL MOVIE POSTER vintage 24 YEARS OLD"><img src="https://i.ebayimg.com/images/g/f1kAAOSwQllkTTrV/s-l225.jpg" alt="Listing image for AI ARTIFICIAL INTELLIGENCE . 2001 ORIGINAL MOVIE POSTER vintage 24 YEARS OLD" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-if-expert-help-became-cheap-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="what-if-expert-help-became-cheap-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer">AI ARTIFICIAL INTELLIGENCE . 2001 ORIGINAL MOVIE POSTER vintage 24 YEARS OLD</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-if-expert-help-became-cheap-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="what-if-expert-help-became-cheap-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-if-expert-help-became-cheap-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="what-if-expert-help-became-cheap-artificial-intelligence-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-if-expert-help-became-cheap-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="what-if-expert-help-became-cheap-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AI - Artificial Intelligence (Poster + Slipcase) Blu-Ray"><img src="https://i.ebayimg.com/images/g/4~UAAeSwCm1p-6Qa/s-l225.jpg" alt="Listing image for AI - Artificial Intelligence (Poster + Slipcase) Blu-Ray" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-if-expert-help-became-cheap-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="what-if-expert-help-became-cheap-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer">AI - Artificial Intelligence (Poster + Slipcase) Blu-Ray</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-if-expert-help-became-cheap-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="what-if-expert-help-became-cheap-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-if-expert-help-became-cheap-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="what-if-expert-help-became-cheap-artificial-intelligence-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-if-expert-help-became-cheap-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="what-if-expert-help-became-cheap-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AI - Artificial Intelligence (Poster + Slipcase) Blu-Ray"><img src="https://i.ebayimg.com/images/g/4~UAAeSwCm1p-6Qa/s-l225.jpg" alt="Listing image for AI - Artificial Intelligence (Poster + Slipcase) Blu-Ray" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-if-expert-help-became-cheap-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="what-if-expert-help-became-cheap-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer">AI - Artificial Intelligence (Poster + Slipcase) Blu-Ray</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-if-expert-help-became-cheap-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="what-if-expert-help-became-cheap-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-if-expert-help-became-cheap-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="what-if-expert-help-became-cheap-artificial-intelligence-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-if-expert-help-became-cheap-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="what-if-expert-help-became-cheap-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Artificial Intelligence Movie Poster A1 A2 A3"><img src="https://i.ebayimg.com/images/g/S7oAAOSw8w1X~jli/s-l225.jpg" alt="Listing image for Artificial Intelligence Movie Poster A1 A2 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-if-expert-help-became-cheap-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="what-if-expert-help-became-cheap-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer">Artificial Intelligence Movie Poster A1 A2 A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-if-expert-help-became-cheap-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="what-if-expert-help-became-cheap-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-if-expert-help-became-cheap-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="what-if-expert-help-became-cheap-artificial-intelligence-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-if-expert-help-became-cheap-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="what-if-expert-help-became-cheap-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-if-expert-help-became-cheap-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="what-if-expert-help-became-cheap-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Artificial Intelligence Movie Poster A1 A2 A3"><img src="https://i.ebayimg.com/images/g/S7oAAOSw8w1X~jli/s-l225.jpg" alt="Listing image for Artificial Intelligence Movie Poster A1 A2 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-if-expert-help-became-cheap-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="what-if-expert-help-became-cheap-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer">Artificial Intelligence Movie Poster A1 A2 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-if-expert-help-became-cheap-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="what-if-expert-help-became-cheap-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-if-expert-help-became-cheap-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="what-if-expert-help-became-cheap-artificial-intelligence-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-if-expert-help-became-cheap-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="what-if-expert-help-became-cheap-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -656,7 +656,7 @@ The most realistic optimistic view is therefore neither utopian nor dismissive. 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -676,7 +676,7 @@ The most realistic optimistic view is therefore neither utopian nor dismissive. 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -708,7 +708,7 @@ The most realistic optimistic view is therefore neither utopian nor dismissive. 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -760,7 +760,7 @@ The most realistic optimistic view is therefore neither utopian nor dismissive. 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -805,7 +805,7 @@ The most realistic optimistic view is therefore neither utopian nor dismissive. 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -846,338 +846,338 @@ The most realistic optimistic view is therefore neither utopian nor dismissive. 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: OpenAI  
    Title: how people are using chatgpt  
-   Link: <a href="https://openai.com/index/how-people-are-using-chatgpt/" target="_blank" rel="noopener noreferrer nofollow">https://openai.com/index/how-people-are-using-chatgpt/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>15 Sept 2025 — New research from the largest study of ChatGPT use shows how the tool creates economic value through both personal and pro...</p></details>
+   Link:<a href="https://openai.com/index/how-people-are-using-chatgpt/" target="_blank" rel="noopener noreferrer nofollow">https://openai.com/index/how-people-are-using-chatgpt/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>15 Sept 2025 — New research from the largest study of ChatGPT use shows how the tool creates economic value through both personal and pro...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: cdn.openai.com  
    Title: economic research chatgpt usage paper  
-   Link: <a href="https://cdn.openai.com/pdf/a253471f-8260-40c6-a2cc-aa93fe9f142e/economic-research-chatgpt-usage-paper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.openai.com/pdf/a253471f-8260-40c6-a2cc-aa93fe9f142e/economic-research-chatgpt-usage-paper.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How People Use ChatGPT15 Sept 2025 — Writing dominates work-related tasks, highlighting chatbots&#x27; unique ability to generate digita...</p></details>
+   Link:<a href="https://cdn.openai.com/pdf/a253471f-8260-40c6-a2cc-aa93fe9f142e/economic-research-chatgpt-usage-paper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.openai.com/pdf/a253471f-8260-40c6-a2cc-aa93fe9f142e/economic-research-chatgpt-usage-paper.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How People Use ChatGPT15 Sept 2025 — Writing dominates work-related tasks, highlighting chatbots&#x27; unique ability to generate digita...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2508.14111" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2508.14111</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>From AI for Science to Agentic Science: A Survey on Autonomous Scientific DiscoveryAugust 18, 2025...</p></details>
+   Link:<a href="https://arxiv.org/abs/2508.14111" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2508.14111</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>From AI for Science to Agentic Science: A Survey on Autonomous Scientific DiscoveryAugust 18, 2025...</p></details>
    Published: August 18, 2025  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
    Title: arXiv The Need for Verification in AI-Driven Scientific Discovery  
-   Link: <a href="https://arxiv.org/abs/2509.01398" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2509.01398</a>  
+   Link:<a href="https://arxiv.org/abs/2509.01398" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2509.01398</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nber.org  
-   Link: <a href="https://www.nber.org/papers/w31161" target="_blank" rel="noopener noreferrer nofollow">https://www.nber.org/papers/w31161</a>  
+   Link:<a href="https://www.nber.org/papers/w31161" target="_blank" rel="noopener noreferrer nofollow">https://www.nber.org/papers/w31161</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nber.org  
-   Link: <a href="https://www.nber.org/system/files/working_papers/w31161/w31161.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nber.org/system/files/working_papers/w31161/w31161.pdf</a>  
+   Link:<a href="https://www.nber.org/system/files/working_papers/w31161/w31161.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nber.org/system/files/working_papers/w31161/w31161.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41598-025-97652-6" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-025-97652-6</a>  
+   Link:<a href="https://www.nature.com/articles/s41598-025-97652-6" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-025-97652-6</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41586-026-10265-5" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-026-10265-5</a>  
+   Link:<a href="https://www.nature.com/articles/s41586-026-10265-5" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-026-10265-5</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: hai.stanford.edu  
    Title: 2025 ai index report  
-   Link: <a href="https://hai.stanford.edu/ai-index/2025-ai-index-report" target="_blank" rel="noopener noreferrer nofollow">https://hai.stanford.edu/ai-index/2025-ai-index-report</a>  
+   Link:<a href="https://hai.stanford.edu/ai-index/2025-ai-index-report" target="_blank" rel="noopener noreferrer nofollow">https://hai.stanford.edu/ai-index/2025-ai-index-report</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41586-026-10549-w" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-026-10549-w</a>  
+   Link:<a href="https://www.nature.com/articles/s41586-026-10549-w" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-026-10549-w</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2507.00181" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2507.00181</a>  
+   Link:<a href="https://arxiv.org/abs/2507.00181" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2507.00181</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: microsoft.com  
    Title: Microsoft AI Diffusion Report 2025 H2  
-   Link: <a href="https://www.microsoft.com/en-us/research/wp-content/uploads/2026/01/Microsoft-AI-Diffusion-Report-2025-H2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.microsoft.com/en-us/research/wp-content/uploads/2026/01/Microsoft-AI-Diffusion-Report-2025-H2.pdf</a>  
+   Link:<a href="https://www.microsoft.com/en-us/research/wp-content/uploads/2026/01/Microsoft-AI-Diffusion-Report-2025-H2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.microsoft.com/en-us/research/wp-content/uploads/2026/01/Microsoft-AI-Diffusion-Report-2025-H2.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: unesco.org  
    Title: ai and education protecting rights learners  
-   Link: <a href="https://www.unesco.org/en/articles/ai-and-education-protecting-rights-learners" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/ai-and-education-protecting-rights-learners</a>  
+   Link:<a href="https://www.unesco.org/en/articles/ai-and-education-protecting-rights-learners" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/ai-and-education-protecting-rights-learners</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: unesco.org  
    Title: Artificial intelligence in education  
-   Link: <a href="https://www.unesco.org/en/digital-education/artificial-intelligence" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/digital-education/artificial-intelligence</a>  
+   Link:<a href="https://www.unesco.org/en/digital-education/artificial-intelligence" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/digital-education/artificial-intelligence</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: oecd.org  
    Title: the impact of ai on the labour market 69793977  
-   Link: <a href="https://www.oecd.org/en/publications/artificial-intelligence-and-the-labour-market-in-korea_68ab1a5a-en/full-report/the-impact-of-ai-on-the-labour-market_69793977.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/artificial-intelligence-and-the-labour-market-in-korea_68ab1a5a-en/full-report/the-impact-of-ai-on-the-labour-market_69793977.html</a>  
+   Link:<a href="https://www.oecd.org/en/publications/artificial-intelligence-and-the-labour-market-in-korea_68ab1a5a-en/full-report/the-impact-of-ai-on-the-labour-market_69793977.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/artificial-intelligence-and-the-labour-market-in-korea_68ab1a5a-en/full-report/the-impact-of-ai-on-the-labour-market_69793977.html</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: oecd.org  
    Title: the impact of artificial intelligence on the labour market a4b9cac2  
-   Link: <a href="https://www.oecd.org/en/publications/2021/01/the-impact-of-artificial-intelligence-on-the-labour-market_a4b9cac2.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/2021/01/the-impact-of-artificial-intelligence-on-the-labour-market_a4b9cac2.html</a>  
+   Link:<a href="https://www.oecd.org/en/publications/2021/01/the-impact-of-artificial-intelligence-on-the-labour-market_a4b9cac2.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/2021/01/the-impact-of-artificial-intelligence-on-the-labour-market_a4b9cac2.html</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2510.13653" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2510.13653</a>  
+   Link:<a href="https://arxiv.org/abs/2510.13653" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2510.13653</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2511.19863" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2511.19863</a>  
+   Link:<a href="https://arxiv.org/abs/2511.19863" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2511.19863</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: oecd.org  
    Title: ai and work  
-   Link: <a href="https://www.oecd.org/en/topics/sub-issues/ai-and-work.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/topics/sub-issues/ai-and-work.html</a>  
+   Link:<a href="https://www.oecd.org/en/topics/sub-issues/ai-and-work.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/topics/sub-issues/ai-and-work.html</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: oecd.org  
-   Link: <a href="https://www.oecd.org/en.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en.html</a>  
+   Link:<a href="https://www.oecd.org/en.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en.html</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: oecd.org  
    Title: the adoption of artificial intelligence in firms f9ef33c3 en  
-   Link: <a href="https://www.oecd.org/en/publications/the-adoption-of-artificial-intelligence-in-firms_f9ef33c3-en.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/the-adoption-of-artificial-intelligence-in-firms_f9ef33c3-en.html</a>  
+   Link:<a href="https://www.oecd.org/en/publications/the-adoption-of-artificial-intelligence-in-firms_f9ef33c3-en.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/the-adoption-of-artificial-intelligence-in-firms_f9ef33c3-en.html</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: oecd.org  
-   Link: <a href="https://www.oecd.org/en/publications/artificial-intelligence-and-the-changing-demand-for-skills-in-the-labour-market_88684e36-en.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/artificial-intelligence-and-the-changing-demand-for-skills-in-the-labour-market_88684e36-en.html</a>  
+   Link:<a href="https://www.oecd.org/en/publications/artificial-intelligence-and-the-changing-demand-for-skills-in-the-labour-market_88684e36-en.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/artificial-intelligence-and-the-changing-demand-for-skills-in-the-labour-market_88684e36-en.html</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: oecd.org  
-   Link: <a href="https://www.oecd.org/en/topics/policy-issues/future-of-work.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/topics/policy-issues/future-of-work.html</a>  
+   Link:<a href="https://www.oecd.org/en/topics/policy-issues/future-of-work.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/topics/policy-issues/future-of-work.html</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: oecd.org  
    Title: preparing for the impact of ai on job quantity and skills needs 28862d25  
-   Link: <a href="https://www.oecd.org/en/publications/artificial-intelligence-and-the-labour-market-in-japan_b825563e-en/full-report/preparing-for-the-impact-of-ai-on-job-quantity-and-skills-needs_28862d25.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/artificial-intelligence-and-the-labour-market-in-japan_b825563e-en/full-report/preparing-for-the-impact-of-ai-on-job-quantity-and-skills-needs_28862d25.html</a>  
+   Link:<a href="https://www.oecd.org/en/publications/artificial-intelligence-and-the-labour-market-in-japan_b825563e-en/full-report/preparing-for-the-impact-of-ai-on-job-quantity-and-skills-needs_28862d25.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/artificial-intelligence-and-the-labour-market-in-japan_b825563e-en/full-report/preparing-for-the-impact-of-ai-on-job-quantity-and-skills-needs_28862d25.html</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: oecd.org  
-   Link: <a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/11/artificial-intelligence-and-the-labour-market-in-japan_a67a343c/b825563e-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/11/artificial-intelligence-and-the-labour-market-in-japan_a67a343c/b825563e-en.pdf</a>  
+   Link:<a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/11/artificial-intelligence-and-the-labour-market-in-japan_a67a343c/b825563e-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/11/artificial-intelligence-and-the-labour-market-in-japan_a67a343c/b825563e-en.pdf</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: oecd.org  
    Title: 7376c776 en  
-   Link: <a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/06/emerging-divides-in-the-transition-to-artificial-intelligence_eeb5e120/7376c776-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/06/emerging-divides-in-the-transition-to-artificial-intelligence_eeb5e120/7376c776-en.pdf</a>  
+   Link:<a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/06/emerging-divides-in-the-transition-to-artificial-intelligence_eeb5e120/7376c776-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/06/emerging-divides-in-the-transition-to-artificial-intelligence_eeb5e120/7376c776-en.pdf</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: nber.org  
-   Link: <a href="https://www.nber.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.nber.org/</a>  
+   Link:<a href="https://www.nber.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.nber.org/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: nber.org  
    Title: measuring productivity impact generative ai  
-   Link: <a href="https://www.nber.org/digest/20236/measuring-productivity-impact-generative-ai" target="_blank" rel="noopener noreferrer nofollow">https://www.nber.org/digest/20236/measuring-productivity-impact-generative-ai</a>  
+   Link:<a href="https://www.nber.org/digest/20236/measuring-productivity-impact-generative-ai" target="_blank" rel="noopener noreferrer nofollow">https://www.nber.org/digest/20236/measuring-productivity-impact-generative-ai</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: siepr.stanford.edu  
    Title: generative ai work  
-   Link: <a href="https://siepr.stanford.edu/publications/working-paper/generative-ai-work" target="_blank" rel="noopener noreferrer nofollow">https://siepr.stanford.edu/publications/working-paper/generative-ai-work</a>  
+   Link:<a href="https://siepr.stanford.edu/publications/working-paper/generative-ai-work" target="_blank" rel="noopener noreferrer nofollow">https://siepr.stanford.edu/publications/working-paper/generative-ai-work</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: gsb.stanford.edu  
    Title: generative ai work  
-   Link: <a href="https://www.gsb.stanford.edu/faculty-research/working-papers/generative-ai-work" target="_blank" rel="noopener noreferrer nofollow">https://www.gsb.stanford.edu/faculty-research/working-papers/generative-ai-work</a>  
+   Link:<a href="https://www.gsb.stanford.edu/faculty-research/working-papers/generative-ai-work" target="_blank" rel="noopener noreferrer nofollow">https://www.gsb.stanford.edu/faculty-research/working-papers/generative-ai-work</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: digitaleconomy.stanford.edu  
    Title: generative ai at work  
-   Link: <a href="https://digitaleconomy.stanford.edu/publication/generative-ai-at-work/" target="_blank" rel="noopener noreferrer nofollow">https://digitaleconomy.stanford.edu/publication/generative-ai-at-work/</a>  
+   Link:<a href="https://digitaleconomy.stanford.edu/publication/generative-ai-at-work/" target="_blank" rel="noopener noreferrer nofollow">https://digitaleconomy.stanford.edu/publication/generative-ai-at-work/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: hai.stanford.edu  
-   Link: <a href="https://hai.stanford.edu/ai-index/2025-ai-index-report/education" target="_blank" rel="noopener noreferrer nofollow">https://hai.stanford.edu/ai-index/2025-ai-index-report/education</a>  
+   Link:<a href="https://hai.stanford.edu/ai-index/2025-ai-index-report/education" target="_blank" rel="noopener noreferrer nofollow">https://hai.stanford.edu/ai-index/2025-ai-index-report/education</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: hai.stanford.edu  
    Title: ai index 2025 state of ai in 10 charts  
-   Link: <a href="https://hai.stanford.edu/news/ai-index-2025-state-of-ai-in-10-charts" target="_blank" rel="noopener noreferrer nofollow">https://hai.stanford.edu/news/ai-index-2025-state-of-ai-in-10-charts</a>  
+   Link:<a href="https://hai.stanford.edu/news/ai-index-2025-state-of-ai-in-10-charts" target="_blank" rel="noopener noreferrer nofollow">https://hai.stanford.edu/news/ai-index-2025-state-of-ai-in-10-charts</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: hai.stanford.edu  
    Title: hai annualreport2025 digital v5 compressed  
-   Link: <a href="https://hai.stanford.edu/assets/files/hai_annualreport2025_digital_v5_compressed.pdf" target="_blank" rel="noopener noreferrer nofollow">https://hai.stanford.edu/assets/files/hai_annualreport2025_digital_v5_compressed.pdf</a>  
+   Link:<a href="https://hai.stanford.edu/assets/files/hai_annualreport2025_digital_v5_compressed.pdf" target="_blank" rel="noopener noreferrer nofollow">https://hai.stanford.edu/assets/files/hai_annualreport2025_digital_v5_compressed.pdf</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: hai.stanford.edu  
    Title: ai index  
-   Link: <a href="https://hai.stanford.edu/ai-index" target="_blank" rel="noopener noreferrer nofollow">https://hai.stanford.edu/ai-index</a>  
+   Link:<a href="https://hai.stanford.edu/ai-index" target="_blank" rel="noopener noreferrer nofollow">https://hai.stanford.edu/ai-index</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: unesco.org  
    Title: what you need know about ai and right education  
-   Link: <a href="https://www.unesco.org/en/articles/what-you-need-know-about-ai-and-right-education" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/what-you-need-know-about-ai-and-right-education</a>  
+   Link:<a href="https://www.unesco.org/en/articles/what-you-need-know-about-ai-and-right-education" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/what-you-need-know-about-ai-and-right-education</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: unesco.org  
    Title: guidance generative ai education and research  
-   Link: <a href="https://www.unesco.org/en/articles/guidance-generative-ai-education-and-research" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/guidance-generative-ai-education-and-research</a>  
+   Link:<a href="https://www.unesco.org/en/articles/guidance-generative-ai-education-and-research" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/guidance-generative-ai-education-and-research</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2304.11771" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2304.11771</a>  
+   Link:<a href="https://arxiv.org/abs/2304.11771" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2304.11771</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/pdf/2304.11771" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2304.11771</a>  
+   Link:<a href="https://arxiv.org/pdf/2304.11771" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2304.11771</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2512.23633v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2512.23633v1</a>  
+   Link:<a href="https://arxiv.org/html/2512.23633v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2512.23633v1</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2502.05151v3" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2502.05151v3</a>  
+   Link:<a href="https://arxiv.org/html/2502.05151v3" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2502.05151v3</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2510.06265" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2510.06265</a>  
+   Link:<a href="https://arxiv.org/abs/2510.06265" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2510.06265</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2404.11988v3" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2404.11988v3</a>  
+   Link:<a href="https://arxiv.org/html/2404.11988v3" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2404.11988v3</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2405.21015v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2405.21015v2</a>  
+   Link:<a href="https://arxiv.org/html/2405.21015v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2405.21015v2</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: cdn.openai.com  
-   Link: <a href="https://cdn.openai.com/pdf/d5eb7428-c4e9-4a33-bd86-86dd4bcf12ce/GDPval.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.openai.com/pdf/d5eb7428-c4e9-4a33-bd86-86dd4bcf12ce/GDPval.pdf</a>  
+   Link:<a href="https://cdn.openai.com/pdf/d5eb7428-c4e9-4a33-bd86-86dd4bcf12ce/GDPval.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.openai.com/pdf/d5eb7428-c4e9-4a33-bd86-86dd4bcf12ce/GDPval.pdf</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: time.com  
    Title: ai chatgpt google learning school  
-   Link: <a href="https://time.com/7295195/ai-chatgpt-google-learning-school/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/7295195/ai-chatgpt-google-learning-school/</a>  
+   Link:<a href="https://time.com/7295195/ai-chatgpt-google-learning-school/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/7295195/ai-chatgpt-google-learning-school/</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: oecd.ai  
-   Link: <a href="https://oecd.ai/en/work-innovation-productivity-skills/key-themes/labour-markets" target="_blank" rel="noopener noreferrer nofollow">https://oecd.ai/en/work-innovation-productivity-skills/key-themes/labour-markets</a>  
+   Link:<a href="https://oecd.ai/en/work-innovation-productivity-skills/key-themes/labour-markets" target="_blank" rel="noopener noreferrer nofollow">https://oecd.ai/en/work-innovation-productivity-skills/key-themes/labour-markets</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: oecd.ai  
-   Link: <a href="https://oecd.ai/en/working-group-future-of-work" target="_blank" rel="noopener noreferrer nofollow">https://oecd.ai/en/working-group-future-of-work</a>  
+   Link:<a href="https://oecd.ai/en/working-group-future-of-work" target="_blank" rel="noopener noreferrer nofollow">https://oecd.ai/en/working-group-future-of-work</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: books.google.com  
    Title: Generative AI at Work  
-   Link: <a href="https://books.google.com/books/about/Generative_AI_at_Work.html?id=T13-zwEACAAJ" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/Generative_AI_at_Work.html?id=T13-zwEACAAJ</a>  
+   Link:<a href="https://books.google.com/books/about/Generative_AI_at_Work.html?id=T13-zwEACAAJ" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/Generative_AI_at_Work.html?id=T13-zwEACAAJ</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: microsoft.com  
    Title: lee 2025 ai critical thinking survey  
-   Link: <a href="https://www.microsoft.com/en-us/research/wp-content/uploads/2025/01/lee_2025_ai_critical_thinking_survey.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.microsoft.com/en-us/research/wp-content/uploads/2025/01/lee_2025_ai_critical_thinking_survey.pdf</a>  
+   Link:<a href="https://www.microsoft.com/en-us/research/wp-content/uploads/2025/01/lee_2025_ai_critical_thinking_survey.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.microsoft.com/en-us/research/wp-content/uploads/2025/01/lee_2025_ai_critical_thinking_survey.pdf</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: research.google  
    Title: accelerating scientific discovery with ai powered empirical software  
-   Link: <a href="https://research.google/blog/accelerating-scientific-discovery-with-ai-powered-empirical-software/" target="_blank" rel="noopener noreferrer nofollow">https://research.google/blog/accelerating-scientific-discovery-with-ai-powered-empirical-software/</a>  
+   Link:<a href="https://research.google/blog/accelerating-scientific-discovery-with-ai-powered-empirical-software/" target="_blank" rel="noopener noreferrer nofollow">https://research.google/blog/accelerating-scientific-discovery-with-ai-powered-empirical-software/</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: frontiersin.org  
    Title: Frontiers Survey and analysis of hallucinations in large language  
-   Link: <a href="https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1622292/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1622292/full</a>  
+   Link:<a href="https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1622292/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1622292/full</a>  
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: m.economictimes.com  
-   Link: <a href="https://m.economictimes.com/news/new-updates/nearly-1-46-lakh-ai-hallucinated-references-entered-scientific-papers-in-2025-study/articleshow/131329519.cms" target="_blank" rel="noopener noreferrer nofollow">https://m.economictimes.com/news/new-updates/nearly-1-46-lakh-ai-hallucinated-references-entered-scientific-papers-in-2025-study/articleshow/131329519.cms</a>  
+   Link:<a href="https://m.economictimes.com/news/new-updates/nearly-1-46-lakh-ai-hallucinated-references-entered-scientific-papers-in-2025-study/articleshow/131329519.cms" target="_blank" rel="noopener noreferrer nofollow">https://m.economictimes.com/news/new-updates/nearly-1-46-lakh-ai-hallucinated-references-entered-scientific-papers-in-2025-study/articleshow/131329519.cms</a>  
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: pewresearch.org  
    Title: how people around the world view ai  
-   Link: <a href="https://www.pewresearch.org/global/2025/10/15/how-people-around-the-world-view-ai/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/global/2025/10/15/how-people-around-the-world-view-ai/</a>  
+   Link:<a href="https://www.pewresearch.org/global/2025/10/15/how-people-around-the-world-view-ai/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/global/2025/10/15/how-people-around-the-world-view-ai/</a>  
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: pewresearch.org  
    Title: pg 2025.10.15 ai report  
-   Link: <a href="https://www.pewresearch.org/wp-content/uploads/sites/20/2025/10/pg_2025.10.15_ai_report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/wp-content/uploads/sites/20/2025/10/pg_2025.10.15_ai_report.pdf</a>  
+   Link:<a href="https://www.pewresearch.org/wp-content/uploads/sites/20/2025/10/pg_2025.10.15_ai_report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/wp-content/uploads/sites/20/2025/10/pg_2025.10.15_ai_report.pdf</a>  
 
-56. <a id="endnote-56"></a>
+56.<a id="endnote-56"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/technology/2026/may/29/give-staff-more-say-over-ai-to-ensure-they-share-benefits-uk-thinktank-urges" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2026/may/29/give-staff-more-say-over-ai-to-ensure-they-share-benefits-uk-thinktank-urges</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The report argues that the critical issue is who controls AI-driven changes in the workplace. Recommendations include a legal duty for em...</p></details>
+   Link:<a href="https://www.theguardian.com/technology/2026/may/29/give-staff-more-say-over-ai-to-ensure-they-share-benefits-uk-thinktank-urges" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2026/may/29/give-staff-more-say-over-ai-to-ensure-they-share-benefits-uk-thinktank-urges</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The report argues that the critical issue is who controls AI-driven changes in the workplace. Recommendations include a legal duty for em...</p></details>
 
-57. <a id="endnote-57"></a>
+57.<a id="endnote-57"></a>
    Source: ourworldindata.org  
    Title: hardware and energy cost to train notable ai systems  
-   Link: <a href="https://ourworldindata.org/grapher/hardware-and-energy-cost-to-train-notable-ai-systems" target="_blank" rel="noopener noreferrer nofollow">https://ourworldindata.org/grapher/hardware-and-energy-cost-to-train-notable-ai-systems</a>  
+   Link:<a href="https://ourworldindata.org/grapher/hardware-and-energy-cost-to-train-notable-ai-systems" target="_blank" rel="noopener noreferrer nofollow">https://ourworldindata.org/grapher/hardware-and-energy-cost-to-train-notable-ai-systems</a>  
 
-58. <a id="endnote-58"></a>
+58.<a id="endnote-58"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/International" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/International</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/International" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/International</a>  
 
-59. <a id="endnote-59"></a>
+59.<a id="endnote-59"></a>
    Source: pewresearch.org  
    Title: ai awareness around the world  
-   Link: <a href="https://www.pewresearch.org/global/2025/10/15/ai-awareness-around-the-world/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/global/2025/10/15/ai-awareness-around-the-world/</a>  
+   Link:<a href="https://www.pewresearch.org/global/2025/10/15/ai-awareness-around-the-world/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/global/2025/10/15/ai-awareness-around-the-world/</a>  
 
-60. <a id="endnote-60"></a>
+60.<a id="endnote-60"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/dictionary/english/international" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/international</a>  
+   Link:<a href="https://dictionary.cambridge.org/dictionary/english/international" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/international</a>  
 
-61. <a id="endnote-61"></a>
+61.<a id="endnote-61"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/international" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/international</a>  
+   Link:<a href="https://www.theguardian.com/international" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/international</a>  
 
-62. <a id="endnote-62"></a>
+62.<a id="endnote-62"></a>
    Source: radical.vc  
    Title: stanford hai ai index report 2025  
-   Link: <a href="https://radical.vc/stanford-hai-ai-index-report-2025/" target="_blank" rel="noopener noreferrer nofollow">https://radical.vc/stanford-hai-ai-index-report-2025/</a>  
+   Link:<a href="https://radical.vc/stanford-hai-ai-index-report-2025/" target="_blank" rel="noopener noreferrer nofollow">https://radical.vc/stanford-hai-ai-index-report-2025/</a>  
 
-63. <a id="endnote-63"></a>
+63.<a id="endnote-63"></a>
    Source: unesco-asp.dk  
    Title: AI Competency framework for teachers UNESCO 2024  
-   Link: <a href="https://unesco-asp.dk/wp-content/uploads/2025/02/AI-Competency-framework-for-teachers_UNESCO_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://unesco-asp.dk/wp-content/uploads/2025/02/AI-Competency-framework-for-teachers_UNESCO_2024.pdf</a>  
+   Link:<a href="https://unesco-asp.dk/wp-content/uploads/2025/02/AI-Competency-framework-for-teachers_UNESCO_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://unesco-asp.dk/wp-content/uploads/2025/02/AI-Competency-framework-for-teachers_UNESCO_2024.pdf</a>  
 
 ### Additional References
 
-64. <a id="endnote-64"></a>
+64.<a id="endnote-64"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=ro_W2HHX37c" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=ro_W2HHX37c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Economics of AGI: Why Verification Is the New Scarcity The Economics of AGI: Why Verification Is the New Scarcity w/ Christian Catali...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=ro_W2HHX37c" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=ro_W2HHX37c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Economics of AGI: Why Verification Is the New Scarcity The Economics of AGI: Why Verification Is the New Scarcity w/ Christian Catali...</p></details>
 
-65. <a id="endnote-65"></a>
+65.<a id="endnote-65"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=xXEcrIfhPJo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xXEcrIfhPJo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Economics of AGI: Why Verification Is the New Scarcity w/ Christian Catalini | Bankless...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=xXEcrIfhPJo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xXEcrIfhPJo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Economics of AGI: Why Verification Is the New Scarcity w/ Christian Catalini | Bankless...</p></details>
 
-66. <a id="endnote-66"></a>
+66.<a id="endnote-66"></a>
    Source: youtube.com  
    Title: Why 99.999% of Us Won't Survive Artificial Superintelligence  
-   Link: <a href="https://www.youtube.com/watch?v=2bbSgSIQsac" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2bbSgSIQsac</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Data Centers In Space? + Planet Labs CEO Talks &#x27;Large Earth Models&#x27; | The Spillover...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=2bbSgSIQsac" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2bbSgSIQsac</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Data Centers In Space? + Planet Labs CEO Talks &#x27;Large Earth Models&#x27; | The Spillover...</p></details>
 
-67. <a id="endnote-67"></a>
+67.<a id="endnote-67"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/392839220_AI_tutoring_outperforms_in-class_active_learning_an_RCT_introducing_a_novel_research-based_design_in_an_authentic_educational_setting" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/392839220_AI_tutoring_outperforms_in-class_active_learning_an_RCT_introducing_a_novel_research-based_design_in_an_authentic_educational_setting</a>  
+   Link:<a href="https://www.researchgate.net/publication/392839220_AI_tutoring_outperforms_in-class_active_learning_an_RCT_introducing_a_novel_research-based_design_in_an_authentic_educational_setting" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/392839220_AI_tutoring_outperforms_in-class_active_learning_an_RCT_introducing_a_novel_research-based_design_in_an_authentic_educational_setting</a>  
 
-68. <a id="endnote-68"></a>
+68.<a id="endnote-68"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/389936132_Integrating_AI_in_Education_Navigating_UNESCO_Global_Guidelines_Emerging_Trends_and_Its_Intersection_with_Sustainable_Development_Goals" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/389936132_Integrating_AI_in_Education_Navigating_UNESCO_Global_Guidelines_Emerging_Trends_and_Its_Intersection_with_Sustainable_Development_Goals</a>  
+   Link:<a href="https://www.researchgate.net/publication/389936132_Integrating_AI_in_Education_Navigating_UNESCO_Global_Guidelines_Emerging_Trends_and_Its_Intersection_with_Sustainable_Development_Goals" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/389936132_Integrating_AI_in_Education_Navigating_UNESCO_Global_Guidelines_Emerging_Trends_and_Its_Intersection_with_Sustainable_Development_Goals</a>  
 
-69. <a id="endnote-69"></a>
+69.<a id="endnote-69"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/400315433_Artificial_intelligence_for_scientific_discovery_From_hypothesis_generation_to_Autonomous_laboratories" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/400315433_Artificial_intelligence_for_scientific_discovery_From_hypothesis_generation_to_Autonomous_laboratories</a>  
+   Link:<a href="https://www.researchgate.net/publication/400315433_Artificial_intelligence_for_scientific_discovery_From_hypothesis_generation_to_Autonomous_laboratories" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/400315433_Artificial_intelligence_for_scientific_discovery_From_hypothesis_generation_to_Autonomous_laboratories</a>  
 
-70. <a id="endnote-70"></a>
+70.<a id="endnote-70"></a>
    Source: lightcast.io  
-   Link: <a href="https://lightcast.io/resources/research/oecd-ai-emerging-trends" target="_blank" rel="noopener noreferrer nofollow">https://lightcast.io/resources/research/oecd-ai-emerging-trends</a>  
+   Link:<a href="https://lightcast.io/resources/research/oecd-ai-emerging-trends" target="_blank" rel="noopener noreferrer nofollow">https://lightcast.io/resources/research/oecd-ai-emerging-trends</a>  
 
-71. <a id="endnote-71"></a>
+71.<a id="endnote-71"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/financial-times_the-highest-earning-and-most-experienced-activity-7453036195955081216-iUp5" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/financial-times_the-highest-earning-and-most-experienced-activity-7453036195955081216-iUp5</a>  
+   Link:<a href="https://www.linkedin.com/posts/financial-times_the-highest-earning-and-most-experienced-activity-7453036195955081216-iUp5" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/financial-times_the-highest-earning-and-most-experienced-activity-7453036195955081216-iUp5</a>  
 
-72. <a id="endnote-72"></a>
+72.<a id="endnote-72"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/unesco/posts/ai-and-digital-tools-are-transforming-education-but-they-also-bring-dilemmas-how/1194235192752027/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/unesco/posts/ai-and-digital-tools-are-transforming-education-but-they-also-bring-dilemmas-how/1194235192752027/</a>  
+   Link:<a href="https://www.facebook.com/unesco/posts/ai-and-digital-tools-are-transforming-education-but-they-also-bring-dilemmas-how/1194235192752027/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/unesco/posts/ai-and-digital-tools-are-transforming-education-but-they-also-bring-dilemmas-how/1194235192752027/</a>  
 
-73. <a id="endnote-73"></a>
+73.<a id="endnote-73"></a>
    Source: ccrw.org  
-   Link: <a href="https://ccrw.org/wp-content/uploads/2025/11/From-Divide-to-Inclusion-Digital-Access-Accessibility-and-Skills-Development-for-Persons-with-Disabilities_CCRW-Trends-Report-2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ccrw.org/wp-content/uploads/2025/11/From-Divide-to-Inclusion-Digital-Access-Accessibility-and-Skills-Development-for-Persons-with-Disabilities_CCRW-Trends-Report-2025.pdf</a>
+   Link:<a href="https://ccrw.org/wp-content/uploads/2025/11/From-Divide-to-Inclusion-Digital-Access-Accessibility-and-Skills-Development-for-Persons-with-Disabilities_CCRW-Trends-Report-2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ccrw.org/wp-content/uploads/2025/11/From-Divide-to-Inclusion-Digital-Access-Accessibility-and-Skills-Development-for-Persons-with-Disabilities_CCRW-Trends-Report-2025.pdf</a>

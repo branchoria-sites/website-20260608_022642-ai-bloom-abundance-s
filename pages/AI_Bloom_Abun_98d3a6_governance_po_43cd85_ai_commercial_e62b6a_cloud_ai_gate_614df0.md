@@ -275,7 +275,7 @@ image: /assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_ai_commercial_e6
 
 ## Introduction
 
-Advanced AI is often described as a software revolution, but its development increasingly depends on something more physical: access to vast amounts of computing [power]({{ 'power/' | relative_url }}). Training and running frontier AI models requires specialised chips, large data centres, high-speed networking, [energy]({{ 'energy/' | relative_url }}) infrastructure and cloud platforms that can coordinate them at scale. As a result, a small number of cloud providers have become critical intermediaries between AI developers and the computational resources they need. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/cma-cases/ai-foundation-models-initial-review" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">A I Foundation Models: initial review</span><span class="citation-popover-snippet">AI Foundation Models: initial reviewMay 4, 2023 — This initial review will help create an early understanding of the market for foundatio...</span><span class="citation-popover-meta">Published: May 4, 2023</span></span></span>
+Advanced AI is often described as a software revolution, but its development increasingly depends on something more physical: access to vast amounts of computing [power]({{ 'power/' | relative_url }}). Training and running frontier AI models requires specialised chips, large data centres, high-speed networking, [energy]({{ 'energy/' | relative_url }}) infrastructure and cloud platforms that can coordinate them at scale. As a result, a small number of cloud providers have become critical intermediaries between AI developers and the computational resources they need.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/cma-cases/ai-foundation-models-initial-review" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">A I Foundation Models: initial review</span><span class="citation-popover-snippet">AI Foundation Models: initial reviewMay 4, 2023 — This initial review will help create an early understanding of the market for foundatio...</span><span class="citation-popover-meta">Published: May 4, 2023</span></span></span>
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_ai_commercial_e62b6a_cloud_ai_gate_614df0-Illustration-1-dark.svg" | relative_url }}" alt="Cloud Gateways illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_ai_commercial_e62b6a_cloud_ai_gate_614df0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_ai_commercial_e62b6a_cloud_ai_gate_614df0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This has turned cloud infrastructure into a central governance question. If AI contributes to scientific acceleration, medical breakthroughs, automation, [education]({{ 'education/' | relative_url }}) and long-term human flourishing, then the firms controlling access to advanced compute may influence who can participate in that future. The issue is not simply market concentration in the ordinary business sense. It is whether a handful of companies effectively [control]({{ 'control/' | relative_url }}) the roads that lead to advanced AI, and what that means for innovation, competition, public research and democratic oversight.
@@ -284,19 +284,19 @@ This has turned cloud infrastructure into a central governance question. If AI c
 
 For much of computing history, organisations could buy their own servers and operate them internally. Advanced AI changes that equation.
 
-Training a frontier model can require tens of thousands of high-performance AI accelerators operating together for weeks or months. Building facilities capable of supporting those systems demands enormous investments in power delivery, cooling, networking and engineering. Few organisations can afford to replicate this infrastructure independently. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/cma-annual-report-and-accounts-2024-to-2025/annual-report-and-accounts-2024-to-2025" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">annual report and accounts 2024 to 2025</span><span class="citation-popover-snippet">Report and Accounts 2024 to 2025Jul 10, 2025 — The CMA will shortly conclude our market investigation into the cloud services market, whi...</span></span></span>
+Training a frontier model can require tens of thousands of high-performance AI accelerators operating together for weeks or months. Building facilities capable of supporting those systems demands enormous investments in power delivery, cooling, networking and engineering. Few organisations can afford to replicate this infrastructure independently.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/cma-annual-report-and-accounts-2024-to-2025/annual-report-and-accounts-2024-to-2025" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">annual report and accounts 2024 to 2025</span><span class="citation-popover-snippet">Report and Accounts 2024 to 2025Jul 10, 2025 — The CMA will shortly conclude our market investigation into the cloud services market, whi...</span></span></span>
 
 As a result, the dominant cloud providers have become the practical gateway to advanced AI development:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Amazon Web Services (AWS)
-* Microsoft Azure <span class="citation-chip-wrap"><a class="citation-chip" href="https://aag-it.com/the-latest-cloud-computing-statistics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aag-it.com">[aag-it.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aag-it.com</span><span class="citation-popover-title">the latest cloud computing statistics</span><span class="citation-popover-snippet">Microsoft Azure had a market share of 22% in Q1 2022, with Google at 10...</span></span></span>
+* Microsoft Azure<span class="citation-chip-wrap"><a class="citation-chip" href="https://aag-it.com/the-latest-cloud-computing-statistics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aag-it.com">[aag-it.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aag-it.com</span><span class="citation-popover-title">the latest cloud computing statistics</span><span class="citation-popover-snippet">Microsoft Azure had a market share of 22% in Q1 2022, with Google at 10...</span></span></span>
 * Google Cloud
 
 </div>
 
-Together, these firms consistently account for roughly two-thirds of global cloud infrastructure spending, depending on the measurement period. Multiple industry analyses place their combined market share above 60%, with AWS maintaining the largest share and Microsoft and Google following behind. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aag-it.com/the-latest-cloud-computing-statistics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aag-it.com">[AAG IT Services]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aag-it.com</span><span class="citation-popover-title">the latest cloud computing statistics</span><span class="citation-popover-snippet">Microsoft Azure had a market share of 22% in Q1 2022, with Google at 10...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.crn.com/news/cloud/2026/global-cloud-market-share-q4-2025-google-grows-aws-lead-narrows" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: crn.com">[CRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">crn.com</span><span class="citation-popover-title">global cloud market share q4 2025 google grows aws lead narrows</span><span class="citation-popover-snippet">Global Cloud Market Share Q4 2025; Google Grows, AWS...11 Feb 2026 — Combined, AWS, Microsoft and Google Cloud achieved 68 percent share...</span></span></span>
+Together, these firms consistently account for roughly two-thirds of global cloud infrastructure spending, depending on the measurement period. Multiple industry analyses place their combined market share above 60%, with AWS maintaining the largest share and Microsoft and Google following behind.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aag-it.com/the-latest-cloud-computing-statistics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aag-it.com">[AAG IT Services]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aag-it.com</span><span class="citation-popover-title">the latest cloud computing statistics</span><span class="citation-popover-snippet">Microsoft Azure had a market share of 22% in Q1 2022, with Google at 10...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.crn.com/news/cloud/2026/global-cloud-market-share-q4-2025-google-grows-aws-lead-narrows" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: crn.com">[CRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">crn.com</span><span class="citation-popover-title">global cloud market share q4 2025 google grows aws lead narrows</span><span class="citation-popover-snippet">Global Cloud Market Share Q4 2025; Google Grows, AWS...11 Feb 2026 — Combined, AWS, Microsoft and Google Cloud achieved 68 percent share...</span></span></span>
 
 This concentration matters because cloud providers are no longer merely renting servers. They increasingly control:
 
@@ -322,7 +322,7 @@ Several technical and economic forces reinforce the importance of cloud provider
 
 The most obvious factor is cost.
 
-Frontier AI systems require enormous quantities of computation. The infrastructure needed to support them is measured not in millions but often billions of pounds of capital expenditure. Data centres must secure electricity, cooling systems, networking equipment and specialised processors that are themselves produced through highly concentrated supply chains. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/artificial-intelligence-sector-study-2024/artificial-intelligence-sector-study-2024" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">artificial intelligence sector study 2024</span><span class="citation-popover-snippet">Intelligence sector study 20243 Sept 2025 — In 2024, there were 51 AI related inward investment projects into the UK, representing more t...</span></span></span>
+Frontier AI systems require enormous quantities of computation. The infrastructure needed to support them is measured not in millions but often billions of pounds of capital expenditure. Data centres must secure electricity, cooling systems, networking equipment and specialised processors that are themselves produced through highly concentrated supply chains.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/artificial-intelligence-sector-study-2024/artificial-intelligence-sector-study-2024" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">artificial intelligence sector study 2024</span><span class="citation-popover-snippet">Intelligence sector study 20243 Sept 2025 — In 2024, there were 51 AI related inward investment projects into the UK, representing more t...</span></span></span>
 
 Cloud providers already possess many of these assets. They can spread costs across thousands of customers and continuously reinvest revenue into larger facilities.
 
@@ -332,7 +332,7 @@ This creates a powerful scale advantage. The more customers a cloud platform ser
 
 The cloud giants are also major purchasers of advanced AI hardware.
 
-Rather than buying thousands of high-end accelerators directly, many organisations gain access through cloud rental arrangements. Even firms developing their own models frequently rely on cloud providers because obtaining sufficient hardware independently can be difficult or prohibitively expensive. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/cma-cases/cloud-services-market-investigation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">services market investigationThe Competition and Markets Authority (CMA) investigated the supply of public cloud infrastructure services...</span></span></span>
+Rather than buying thousands of high-end accelerators directly, many organisations gain access through cloud rental arrangements. Even firms developing their own models frequently rely on cloud providers because obtaining sufficient hardware independently can be difficult or prohibitively expensive.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/cma-cases/cloud-services-market-investigation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">services market investigationThe Competition and Markets Authority (CMA) investigated the supply of public cloud infrastructure services...</span></span></span>
 
 This gives cloud providers substantial influence over who receives computing resources and under what terms.
 
@@ -342,17 +342,17 @@ During periods of hardware scarcity, access can become a strategic bottleneck ra
 
 ### AI services are increasingly bundled
 
-The cloud market is evolving from infrastructure rental towards integrated AI ecosystems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fortunebusinessinsights.com/cloud-computing-market-102697" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fortunebusinessinsights.com">[fortunebusinessinsights.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fortunebusinessinsights.com</span><span class="citation-popover-title">cloud computing market 102697</span><span class="citation-popover-snippet">Cloud Computing Market Size, Share &amp; Growth Report, 203420 Apr 2026 — The global cloud computing market size was valued at USD 781.27 bil...</span></span></span>
+The cloud market is evolving from infrastructure rental towards integrated AI ecosystems.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fortunebusinessinsights.com/cloud-computing-market-102697" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fortunebusinessinsights.com">[fortunebusinessinsights.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fortunebusinessinsights.com</span><span class="citation-popover-title">cloud computing market 102697</span><span class="citation-popover-snippet">Cloud Computing Market Size, Share &amp; Growth Report, 203420 Apr 2026 — The global cloud computing market size was valued at USD 781.27 bil...</span></span></span>
 
 Instead of simply providing compute, cloud providers increasingly offer:
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
-* Proprietary foundation models. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.uk/cma-cases/ai-foundation-models-initial-review" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">A I Foundation Models: initial review</span><span class="citation-popover-snippet">AI Foundation Models: initial reviewMay 4, 2023 — This initial review will help create an early understanding of the market for foundatio...</span><span class="citation-popover-meta">Published: May 4, 2023</span></span></span>
+* Proprietary foundation models.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.uk/cma-cases/ai-foundation-models-initial-review" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">A I Foundation Models: initial review</span><span class="citation-popover-snippet">AI Foundation Models: initial reviewMay 4, 2023 — This initial review will help create an early understanding of the market for foundatio...</span><span class="citation-popover-meta">Published: May 4, 2023</span></span></span>
 * Model hosting services.
 * AI development environments.
 * Fine-tuning tools.
-* Data management systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.oecd.org/en/publications/competition-in-artificial-intelligence-infrastructure_623d1874-en/full-report/component-6.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[oecd.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-title">component 6</span><span class="citation-popover-snippet">Market features in AI infrastructure: Competition in artificial...14 Nov 2025 — In the context of AI infrastructure, such competitio...</span></span></span>
+* Data management systems.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.oecd.org/en/publications/competition-in-artificial-intelligence-infrastructure_623d1874-en/full-report/component-6.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[oecd.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-title">component 6</span><span class="citation-popover-snippet">Market features in AI infrastructure: Competition in artificial...14 Nov 2025 — In the context of AI infrastructure, such competitio...</span></span></span>
 * Enterprise software integrations.
 
 </div>
@@ -367,7 +367,7 @@ One reason regulators pay attention to cloud infrastructure is that concentratio
 
 Many leading AI firms are increasingly linked to major cloud providers through investments, partnerships and distribution agreements.
 
-Microsoft's relationship with OpenAI became one of the most prominent examples. Azure provides critical infrastructure for OpenAI services while OpenAI products help drive demand for Azure. Similar dynamics emerged around Amazon's multibillion-dollar partnership with Anthropic, which included commitments to use AWS infrastructure for major workloads. The UK's Competition and Markets Authority (CMA) investigated aspects of these arrangements because of concerns about their potential impact on competition. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/technology/article/2024/aug/08/anthropic-ai-startup-uk-regulator-cma-amazon-investment" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The CMA aims to determine whether the partnership constitutes a &quot;relevant merger situation&quot; that could warrant an in-depth review. Announ...</span></span></span>
+Microsoft's relationship with OpenAI became one of the most prominent examples. Azure provides critical infrastructure for OpenAI services while OpenAI products help drive demand for Azure. Similar dynamics emerged around Amazon's multibillion-dollar partnership with Anthropic, which included commitments to use AWS infrastructure for major workloads. The UK's Competition and Markets Authority (CMA) investigated aspects of these arrangements because of concerns about their potential impact on competition.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/technology/article/2024/aug/08/anthropic-ai-startup-uk-regulator-cma-amazon-investment" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The CMA aims to determine whether the partnership constitutes a &quot;relevant merger situation&quot; that could warrant an in-depth review. Announ...</span></span></span>
 
 These relationships are not necessarily anti-competitive. They can provide AI developers with funding, engineering support and access to infrastructure that would otherwise be difficult to obtain.
 
@@ -392,7 +392,7 @@ Historically, universities helped drive major advances in computer science becau
 
 Advanced AI changes the scale of the challenge.
 
-Many academic groups cannot easily match the computational budgets available to large technology firms. This can limit their ability to reproduce results, conduct independent safety research or compete at the frontier of model development. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/cma-ai-strategic-update/cma-ai-strategic-update" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">cma ai strategic update</span><span class="citation-popover-snippet">AI strategic updateApr 29, 2024 — This document provides a strategic update on the CMA&#x27;s approach to AI. This is set out through the foll...</span></span></span>
+Many academic groups cannot easily match the computational budgets available to large technology firms. This can limit their ability to reproduce results, conduct independent safety research or compete at the frontier of model development.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/cma-ai-strategic-update/cma-ai-strategic-update" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">cma ai strategic update</span><span class="citation-popover-snippet">AI strategic updateApr 29, 2024 — This document provides a strategic update on the CMA&#x27;s approach to AI. This is set out through the foll...</span></span></span>
 
 The result may be a shift in where cutting-edge knowledge is produced. Research that once occurred primarily in universities increasingly moves into private organisations with access to large-scale infrastructure.
 
@@ -404,7 +404,7 @@ Cloud infrastructure simultaneously lowers and raises barriers to entry.
 
 On one hand, startups no longer need to build data centres. They can rent sophisticated infrastructure on demand and reach global markets quickly.
 
-On the other hand, the largest AI systems require spending levels that remain difficult for smaller firms to sustain. Startups may become dependent on cloud credits, preferential partnerships or access agreements with much larger companies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.businessinsider.com/amazon-ai-startups-delaying-aws-spending-2025-10" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: businessinsider.com">[Business Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">businessinsider.com</span><span class="citation-popover-snippet">Traditionally, AWS was a go-to platform for startups due to its scalable compute and storage offerings. However, the rise of generative A...</span></span></span>
+On the other hand, the largest AI systems require spending levels that remain difficult for smaller firms to sustain. Startups may become dependent on cloud credits, preferential partnerships or access agreements with much larger companies.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.businessinsider.com/amazon-ai-startups-delaying-aws-spending" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: businessinsider.com">[Business Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">businessinsider.com</span><span class="citation-popover-snippet">Traditionally, AWS was a go-to platform for startups due to its scalable compute and storage offerings. However, the rise of generative A...</span></span></span>
 
 This can create a landscape in which many innovative firms exist, but a smaller number of infrastructure owners still shape the overall market.
 
@@ -416,7 +416,7 @@ That creates practical benefits. Major cloud providers offer reliability, securi
 
 However, dependence on a small number of providers can also create strategic vulnerabilities.
 
-A government deploying AI in healthcare, education, scientific research or public administration may discover that crucial capabilities depend on commercial infrastructure controlled by foreign firms. Questions of sovereignty, [resilience]({{ 'resilience/' | relative_url }}) and bargaining power become more significant as AI becomes embedded in state functions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/publications/competition-in-artificial-intelligence-infrastructure_623d1874-en/full-report/component-6.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-title">component 6</span><span class="citation-popover-snippet">Market features in AI infrastructure: Competition in artificial...14 Nov 2025 — In the context of AI infrastructure, such competitio...</span></span></span>
+A government deploying AI in healthcare, education, scientific research or public administration may discover that crucial capabilities depend on commercial infrastructure controlled by foreign firms. Questions of sovereignty, [resilience]({{ 'resilience/' | relative_url }}) and bargaining power become more significant as AI becomes embedded in state functions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/publications/competition-in-artificial-intelligence-infrastructure_623d1874-en/full-report/component-6.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-title">component 6</span><span class="citation-popover-snippet">Market features in AI infrastructure: Competition in artificial...14 Nov 2025 — In the context of AI infrastructure, such competitio...</span></span></span>
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_ai_commercial_e62b6a_cloud_ai_gate_614df0-Illustration-3-dark.svg" | relative_url }}" alt="Cloud Gateways illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_ai_commercial_e62b6a_cloud_ai_gate_614df0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_ai_commercial_e62b6a_cloud_ai_gate_614df0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Does concentration speed progress or slow it?
@@ -425,13 +425,13 @@ One of the most important disagreements concerns whether concentration is mainly
 
 Supporters of large-scale infrastructure argue that frontier AI would advance more slowly without hyperscale cloud providers.
 
-Building advanced data centres requires extraordinary capital investment. Large firms can finance projects that universities, governments and startups might struggle to fund. Shared infrastructure may also reduce duplication and allow innovations to spread more quickly across industries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/publications/measuring-domestic-public-cloud-compute-availability-for-artificial-intelligence_8602a322-en.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-snippet">Measuring domestic public cloud compute availability for...by V Lehdonvirta · 2025 · Cited by 1 — This Working Paper develops a meth...</span></span></span>
+Building advanced data centres requires extraordinary capital investment. Large firms can finance projects that universities, governments and startups might struggle to fund. Shared infrastructure may also reduce duplication and allow innovations to spread more quickly across industries.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/publications/measuring-domestic-public-cloud-compute-availability-for-artificial-intelligence_8602a322-en.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-snippet">Measuring domestic public cloud compute availability for...by V Lehdonvirta · 2025 · Cited by 1 — This Working Paper develops a meth...</span></span></span>
 
 From this perspective, concentration is partly a consequence of technological reality. If advanced AI requires immense resources, then some degree of scale may be unavoidable.
 
 Critics do not necessarily dispute the value of scale. Their concern is that infrastructure power can become self-reinforcing.
 
-If the largest providers control compute, attract the most customers, secure the largest AI partnerships and earn the highest revenues, they may gain advantages that become increasingly difficult for rivals to challenge. Innovation can continue while competitive pressure weakens. <span class="citation-chip-wrap"><a class="citation-chip" href="https://openloop.org/reports/2025/02/competition-in-ai-foundation-models-and-the-cma-ai-principles.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openloop.org">[Open Loop]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openloop.org</span><span class="citation-popover-title">competition in ai foundation models and the cma ai principles</span><span class="citation-popover-snippet">Open LoopCompetition in AI Foundation Models and the CMA AI PrinciplesFeb 12, 2025 — This report presents the findings and recommendation...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/cma-cases/ai-foundation-models-initial-review" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">A I Foundation Models: initial review</span><span class="citation-popover-snippet">AI Foundation Models: initial reviewMay 4, 2023 — This initial review will help create an early understanding of the market for foundatio...</span><span class="citation-popover-meta">Published: May 4, 2023</span></span></span>
+If the largest providers control compute, attract the most customers, secure the largest AI partnerships and earn the highest revenues, they may gain advantages that become increasingly difficult for rivals to challenge. Innovation can continue while competitive pressure weakens.<span class="citation-chip-wrap"><a class="citation-chip" href="https://openloop.org/reports/2025/02/competition-in-ai-foundation-models-and-the-cma-ai-principles.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openloop.org">[Open Loop]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openloop.org</span><span class="citation-popover-title">competition in ai foundation models and the cma ai principles</span><span class="citation-popover-snippet">Open LoopCompetition in AI Foundation Models and the CMA AI PrinciplesFeb 12, 2025 — This report presents the findings and recommendation...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/cma-cases/ai-foundation-models-initial-review" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">A I Foundation Models: initial review</span><span class="citation-popover-snippet">AI Foundation Models: initial reviewMay 4, 2023 — This initial review will help create an early understanding of the market for foundatio...</span><span class="citation-popover-meta">Published: May 4, 2023</span></span></span>
 
 The debate is therefore less about whether cloud giants create value and more about whether the benefits of scale can coexist with meaningful competition and [broad access]({{ 'broad-access/' | relative_url }}).
 
@@ -443,7 +443,7 @@ The central policy question is not whether cloud infrastructure should exist. It
 
 Competition authorities have focused on making it easier for customers to move between providers.
 
-Technical standards, data portability requirements and interoperability measures could reduce dependence on a single platform. If organisations can switch providers more easily, cloud firms may face stronger competitive pressure on pricing and service quality. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/events/2025/06/competition-in-the-provision-of-cloud-computing-services.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-snippet">Competition in the Provision of Cloud Computing ServicesIn June 2025, the OECD held a roundtable to discuss recent developments in cl...</span><span class="citation-popover-meta">Published: June 2025</span></span></span>
+Technical standards, data portability requirements and interoperability measures could reduce dependence on a single platform. If organisations can switch providers more easily, cloud firms may face stronger competitive pressure on pricing and service quality.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/events/2025/06/competition-in-the-provision-of-cloud-computing-services.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-snippet">Competition in the Provision of Cloud Computing ServicesIn June 2025, the OECD held a roundtable to discuss recent developments in cl...</span><span class="citation-popover-meta">Published: June 2025</span></span></span>
 
 ### Public-interest compute
 
@@ -459,13 +459,13 @@ Such proposals resemble earlier investments in scientific infrastructure, where 
 
 Regulators increasingly examine relationships between cloud providers and frontier AI firms.
 
-The concern is that investments, exclusive agreements or preferential access arrangements could entrench infrastructure power before markets fully mature. The CMA's reviews of foundation model markets and cloud infrastructure reflect this broader interest in preventing early bottlenecks from becoming permanent. <span class="citation-chip-wrap"><a class="citation-chip" href="https://uk.practicallaw.thomsonreuters.com/w-042-9673?contextData=%28sc.Default%29&amp;originationContext=knowHow&amp;transitionType=KnowHowItem" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uk.practicallaw.thomsonreuters.com">[Practical Law]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uk.practicallaw.thomsonreuters.com</span><span class="citation-popover-snippet">publishes update paper in initial review of AI foundation...On 11 April 2024, the CMA published an update paper in its initial review of...</span><span class="citation-popover-meta">Published: April 2024</span></span></span>
+The concern is that investments, exclusive agreements or preferential access arrangements could entrench infrastructure power before markets fully mature. The CMA's reviews of foundation model markets and cloud infrastructure reflect this broader interest in preventing early bottlenecks from becoming permanent.<span class="citation-chip-wrap"><a class="citation-chip" href="https://uk.practicallaw.thomsonreuters.com/w-042-9673?contextData=%28sc.Default%29&amp;originationContext=knowHow&amp;transitionType=KnowHowItem" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uk.practicallaw.thomsonreuters.com">[Practical Law]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uk.practicallaw.thomsonreuters.com</span><span class="citation-popover-snippet">publishes update paper in initial review of AI foundation...On 11 April 2024, the CMA published an update paper in its initial review of...</span><span class="citation-popover-meta">Published: April 2024</span></span></span>
 
 ### Geographic diversification
 
 Another concern is geographic concentration.
 
-Advanced cloud infrastructure is unevenly distributed around the world. Countries without significant domestic compute capacity may become dependent on infrastructure located elsewhere. OECD work has highlighted the importance of understanding where cloud compute is physically available and who controls it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-snippet">The Organisation for Economic Co-operation and...The OECD designs international standards and guidelines for development co-operat...</span></span></span>
+Advanced cloud infrastructure is unevenly distributed around the world. Countries without significant domestic compute capacity may become dependent on infrastructure located elsewhere. OECD work has highlighted the importance of understanding where cloud compute is physically available and who controls it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-snippet">The Organisation for Economic Co-operation and...The OECD designs international standards and guidelines for development co-operat...</span></span></span>
 
 If advanced AI becomes a key driver of scientific and economic progress, unequal access to compute could reinforce global inequalities rather than reduce them.
 
@@ -481,197 +481,197 @@ If access to advanced computation remains broad, competitive and reasonably open
 
 If access becomes heavily concentrated, the same infrastructure could act as a choke point. Decisions made by a small number of companies about pricing, availability, partnerships and acceptable use might shape who can participate in the next phase of technological progress.
 
-The future of AI abundance is therefore not only a question of algorithms. It is also a question of infrastructure governance. Who controls the compute, the chips and the cloud platforms may help determine whether advanced AI becomes a broadly shared civilisational resource or a capability mediated through a small set of commercial gatekeepers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/publications/artificial-intelligence-and-competitive-dynamics-in-downstream-markets_ccf0624a-en/full-report/component-5.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-title">component 5</span><span class="citation-popover-snippet">The impact of AI adoption on market dynamics14 Nov 2025 — This paper examines how the adoption of artificial intelligence (AI), particula...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/cma-annual-report-and-accounts-2024-to-2025/annual-report-and-accounts-2024-to-2025" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">annual report and accounts 2024 to 2025</span><span class="citation-popover-snippet">Report and Accounts 2024 to 2025Jul 10, 2025 — The CMA will shortly conclude our market investigation into the cloud services market, whi...</span></span></span>
+The future of AI abundance is therefore not only a question of algorithms. It is also a question of infrastructure governance. Who controls the compute, the chips and the cloud platforms may help determine whether advanced AI becomes a broadly shared civilisational resource or a capability mediated through a small set of commercial gatekeepers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/publications/artificial-intelligence-and-competitive-dynamics-in-downstream-markets_ccf0624a-en/full-report/component-5.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-title">component 5</span><span class="citation-popover-snippet">The impact of AI adoption on market dynamics14 Nov 2025 — This paper examines how the adoption of artificial intelligence (AI), particula...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/cma-annual-report-and-accounts-2024-to-2025/annual-report-and-accounts-2024-to-2025" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">annual report and accounts 2024 to 2025</span><span class="citation-popover-snippet">Report and Accounts 2024 to 2025Jul 10, 2025 — The CMA will shortly conclude our market investigation into the cloud services market, whi...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Who controls the roads to advanced AI?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Who controls the roads to advanced AI?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Chip+War+by+Chris+Miller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Chip War on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JH-HEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Chip War" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Chip+War+by+Chris+Miller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Chip War">Chip War</a>
-        </h4>
-        <p class="fr-book-author">By Chris Miller</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Chip+War+by+Chris+Miller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Chip War on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JH-HEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Chip War" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Chip+War+by+Chris+Miller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Chip War">Chip War</a>
+</h4>
+<p class="fr-book-author">By Chris Miller</p>
         
-        <p class="fr-book-desc">Explains how chips and infrastructure shape control over advanced technology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Chip+War+by+Chris+Miller&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how chips and infrastructure shape control over advanced technology.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Chip+War+by+Chris+Miller&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Coming Wave on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a-26EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Coming Wave" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Coming Wave">The Coming Wave</a>
-        </h4>
-        <p class="fr-book-author">By Mustafa Suleyman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Coming Wave on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a-26EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Coming Wave" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Coming Wave">The Coming Wave</a>
+</h4>
+<p class="fr-book-author">By Mustafa Suleyman</p>
         
-        <p class="fr-book-desc">Covers concentration and control of powerful AI infrastructure.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers concentration and control of powerful AI infrastructure.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Master+Switch+by+Tim+Wu&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Master Switch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nlnpJl7lNKUC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Master Switch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Master+Switch+by+Tim+Wu&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Master Switch">The Master Switch</a>
-        </h4>
-        <p class="fr-book-author">By Tim Wu</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Master+Switch+by+Tim+Wu&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Master Switch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nlnpJl7lNKUC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Master Switch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Master+Switch+by+Tim+Wu&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Master Switch">The Master Switch</a>
+</h4>
+<p class="fr-book-author">By Tim Wu</p>
         
-        <p class="fr-book-desc">Shows how control over communications infrastructure becomes market power.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Master+Switch+by+Tim+Wu&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how control over communications infrastructure becomes market power.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Master+Switch+by+Tim+Wu&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Power+and+Progress+by+Daron+Acemoglu&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Power and Progress on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Y4Jr0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Power and Progress" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Power+and+Progress+by+Daron+Acemoglu&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Power and Progress">Power and Progress</a>
-        </h4>
-        <p class="fr-book-author">By Daron Acemoglu, Simon Johnson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Power+and+Progress+by+Daron+Acemoglu&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Power and Progress on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Y4Jr0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Power and Progress" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Power+and+Progress+by+Daron+Acemoglu&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Power and Progress">Power and Progress</a>
+</h4>
+<p class="fr-book-author">By Daron Acemoglu, Simon Johnson</p>
         
-        <p class="fr-book-desc">Frames access to AI infrastructure as a distributional and governance problem.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Power+and+Progress+by+Daron+Acemoglu&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Frames access to AI infrastructure as a distributional and governance problem.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Power+and+Progress+by+Daron+Acemoglu&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Chip+War&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Chip War</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Coming+Wave&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Coming Wave</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Master+Switch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Master Switch</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Chip+War&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Chip War</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Coming+Wave&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Coming Wave</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Master+Switch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Master Switch</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-gateways-who-controls-the-roads-to-advanced-ai-ai-bloom-abundance-superintelligence-and-hu-data-center-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster -book -books" data-ebay-reference="cloud-gateways-who-controls-the-roads-to-advanced-ai-ai-bloom-abundance-superintelligence-and-hu-data-center-poster-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Server Data Center Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a271cc33df19403bca70.jpg' | relative_url }}" alt="Listing image for Server Data Center Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-gateways-who-controls-the-roads-to-advanced-ai-ai-bloom-abundance-superintelligence-and-hu-data-center-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster -book -books" data-ebay-reference="cloud-gateways-who-controls-the-roads-to-advanced-ai-ai-bloom-abundance-superintelligence-and-hu-data-center-poster-book" target="_blank" rel="sponsored noopener noreferrer">Server Data Center Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-gateways-who-controls-the-roads-to-advanced-ai-ai-bloom-abundance-superintelligence-and-hu-data-center-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster -book -books" data-ebay-reference="cloud-gateways-who-controls-the-roads-to-advanced-ai-ai-bloom-abundance-superintelligence-and-hu-data-center-poster-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for data center poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: data center poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-gateways-who-controls-the-roads-to-advanced-ai-ai-bloom-abundance-superintelligence-and-hu-data-center-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster -book -books" data-ebay-reference="cloud-gateways-who-controls-the-roads-to-advanced-ai-ai-bloom-abundance-superintelligence-and-hu-data-center-poster-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-gateways-who-controls-the-roads-to-advanced-ai-ai-bloom-abundance-superintelligence-and-hu-data-center-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster -book -books" data-ebay-reference="cloud-gateways-who-controls-the-roads-to-advanced-ai-ai-bloom-abundance-superintelligence-and-hu-data-center-poster-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Server Data Center Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a271cc33df19403bca70.jpg' | relative_url }}" alt="Listing image for Server Data Center Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-gateways-who-controls-the-roads-to-advanced-ai-ai-bloom-abundance-superintelligence-and-hu-data-center-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster -book -books" data-ebay-reference="cloud-gateways-who-controls-the-roads-to-advanced-ai-ai-bloom-abundance-superintelligence-and-hu-data-center-poster-book" target="_blank" rel="sponsored noopener noreferrer">Server Data Center Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-gateways-who-controls-the-roads-to-advanced-ai-ai-bloom-abundance-superintelligence-and-hu-data-center-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster -book -books" data-ebay-reference="cloud-gateways-who-controls-the-roads-to-advanced-ai-ai-bloom-abundance-superintelligence-and-hu-data-center-poster-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for data center poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: data center poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-gateways-who-controls-the-roads-to-advanced-ai-ai-bloom-abundance-superintelligence-and-hu-data-center-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster -book -books" data-ebay-reference="cloud-gateways-who-controls-the-roads-to-advanced-ai-ai-bloom-abundance-superintelligence-and-hu-data-center-poster-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-gateways-who-controls-the-roads-to-advanced-ai-ai-bloom-abundance-superintelligence-and-hu-data-center-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster -book -books" data-ebay-reference="cloud-gateways-who-controls-the-roads-to-advanced-ai-ai-bloom-abundance-superintelligence-and-hu-data-center-poster-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Data Center Garden Work Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/031c627f439be0e29269.jpg' | relative_url }}" alt="Listing image for Data Center Garden Work Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-gateways-who-controls-the-roads-to-advanced-ai-ai-bloom-abundance-superintelligence-and-hu-data-center-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster -book -books" data-ebay-reference="cloud-gateways-who-controls-the-roads-to-advanced-ai-ai-bloom-abundance-superintelligence-and-hu-data-center-poster-book" target="_blank" rel="sponsored noopener noreferrer">Data Center Garden Work Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-gateways-who-controls-the-roads-to-advanced-ai-ai-bloom-abundance-superintelligence-and-hu-data-center-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster -book -books" data-ebay-reference="cloud-gateways-who-controls-the-roads-to-advanced-ai-ai-bloom-abundance-superintelligence-and-hu-data-center-poster-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for data center poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: data center poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-gateways-who-controls-the-roads-to-advanced-ai-ai-bloom-abundance-superintelligence-and-hu-data-center-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster -book -books" data-ebay-reference="cloud-gateways-who-controls-the-roads-to-advanced-ai-ai-bloom-abundance-superintelligence-and-hu-data-center-poster-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-gateways-who-controls-the-roads-to-advanced-ai-ai-bloom-abundance-superintelligence-and-hu-data-center-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster -book -books" data-ebay-reference="cloud-gateways-who-controls-the-roads-to-advanced-ai-ai-bloom-abundance-superintelligence-and-hu-data-center-poster-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Data Center Garden Work Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/031c627f439be0e29269.jpg' | relative_url }}" alt="Listing image for Data Center Garden Work Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-gateways-who-controls-the-roads-to-advanced-ai-ai-bloom-abundance-superintelligence-and-hu-data-center-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster -book -books" data-ebay-reference="cloud-gateways-who-controls-the-roads-to-advanced-ai-ai-bloom-abundance-superintelligence-and-hu-data-center-poster-book" target="_blank" rel="sponsored noopener noreferrer">Data Center Garden Work Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-gateways-who-controls-the-roads-to-advanced-ai-ai-bloom-abundance-superintelligence-and-hu-data-center-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster -book -books" data-ebay-reference="cloud-gateways-who-controls-the-roads-to-advanced-ai-ai-bloom-abundance-superintelligence-and-hu-data-center-poster-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for data center poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: data center poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-gateways-who-controls-the-roads-to-advanced-ai-ai-bloom-abundance-superintelligence-and-hu-data-center-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster -book -books" data-ebay-reference="cloud-gateways-who-controls-the-roads-to-advanced-ai-ai-bloom-abundance-superintelligence-and-hu-data-center-poster-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-gateways-who-controls-the-roads-to-advanced-ai-ai-bloom-abundance-superintelligence-and-hu-data-center-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster -book -books" data-ebay-reference="cloud-gateways-who-controls-the-roads-to-advanced-ai-ai-bloom-abundance-superintelligence-and-hu-data-center-poster-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for An Advanced Futuristic Data Center Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/8d9c7ec50bda9f88905f.jpg' | relative_url }}" alt="Listing image for An Advanced Futuristic Data Center Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-gateways-who-controls-the-roads-to-advanced-ai-ai-bloom-abundance-superintelligence-and-hu-data-center-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster -book -books" data-ebay-reference="cloud-gateways-who-controls-the-roads-to-advanced-ai-ai-bloom-abundance-superintelligence-and-hu-data-center-poster-book" target="_blank" rel="sponsored noopener noreferrer">An Advanced Futuristic Data Center Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-gateways-who-controls-the-roads-to-advanced-ai-ai-bloom-abundance-superintelligence-and-hu-data-center-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster -book -books" data-ebay-reference="cloud-gateways-who-controls-the-roads-to-advanced-ai-ai-bloom-abundance-superintelligence-and-hu-data-center-poster-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for data center poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: data center poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-gateways-who-controls-the-roads-to-advanced-ai-ai-bloom-abundance-superintelligence-and-hu-data-center-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster -book -books" data-ebay-reference="cloud-gateways-who-controls-the-roads-to-advanced-ai-ai-bloom-abundance-superintelligence-and-hu-data-center-poster-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-gateways-who-controls-the-roads-to-advanced-ai-ai-bloom-abundance-superintelligence-and-hu-data-center-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster -book -books" data-ebay-reference="cloud-gateways-who-controls-the-roads-to-advanced-ai-ai-bloom-abundance-superintelligence-and-hu-data-center-poster-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for An Advanced Futuristic Data Center Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/8d9c7ec50bda9f88905f.jpg' | relative_url }}" alt="Listing image for An Advanced Futuristic Data Center Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-gateways-who-controls-the-roads-to-advanced-ai-ai-bloom-abundance-superintelligence-and-hu-data-center-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster -book -books" data-ebay-reference="cloud-gateways-who-controls-the-roads-to-advanced-ai-ai-bloom-abundance-superintelligence-and-hu-data-center-poster-book" target="_blank" rel="sponsored noopener noreferrer">An Advanced Futuristic Data Center Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-gateways-who-controls-the-roads-to-advanced-ai-ai-bloom-abundance-superintelligence-and-hu-data-center-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster -book -books" data-ebay-reference="cloud-gateways-who-controls-the-roads-to-advanced-ai-ai-bloom-abundance-superintelligence-and-hu-data-center-poster-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for data center poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: data center poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-gateways-who-controls-the-roads-to-advanced-ai-ai-bloom-abundance-superintelligence-and-hu-data-center-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster -book -books" data-ebay-reference="cloud-gateways-who-controls-the-roads-to-advanced-ai-ai-bloom-abundance-superintelligence-and-hu-data-center-poster-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-gateways-who-controls-the-roads-to-advanced-ai-ai-bloom-abundance-superintelligence-and-hu-data-center-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster -book -books" data-ebay-reference="cloud-gateways-who-controls-the-roads-to-advanced-ai-ai-bloom-abundance-superintelligence-and-hu-data-center-poster-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Data Center Interior Bristling With Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/2fd797a8790e5df5d251.jpg' | relative_url }}" alt="Listing image for Data Center Interior Bristling With Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-gateways-who-controls-the-roads-to-advanced-ai-ai-bloom-abundance-superintelligence-and-hu-data-center-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster -book -books" data-ebay-reference="cloud-gateways-who-controls-the-roads-to-advanced-ai-ai-bloom-abundance-superintelligence-and-hu-data-center-poster-book" target="_blank" rel="sponsored noopener noreferrer">Data Center Interior Bristling With Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-gateways-who-controls-the-roads-to-advanced-ai-ai-bloom-abundance-superintelligence-and-hu-data-center-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster -book -books" data-ebay-reference="cloud-gateways-who-controls-the-roads-to-advanced-ai-ai-bloom-abundance-superintelligence-and-hu-data-center-poster-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for data center poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: data center poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-gateways-who-controls-the-roads-to-advanced-ai-ai-bloom-abundance-superintelligence-and-hu-data-center-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster -book -books" data-ebay-reference="cloud-gateways-who-controls-the-roads-to-advanced-ai-ai-bloom-abundance-superintelligence-and-hu-data-center-poster-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-gateways-who-controls-the-roads-to-advanced-ai-ai-bloom-abundance-superintelligence-and-hu-data-center-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster -book -books" data-ebay-reference="cloud-gateways-who-controls-the-roads-to-advanced-ai-ai-bloom-abundance-superintelligence-and-hu-data-center-poster-book" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-gateways-who-controls-the-roads-to-advanced-ai-ai-bloom-abundance-superintelligence-and-hu-data-center-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster -book -books" data-ebay-reference="cloud-gateways-who-controls-the-roads-to-advanced-ai-ai-bloom-abundance-superintelligence-and-hu-data-center-poster-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Data Center Interior Bristling With Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/2fd797a8790e5df5d251.jpg' | relative_url }}" alt="Listing image for Data Center Interior Bristling With Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-gateways-who-controls-the-roads-to-advanced-ai-ai-bloom-abundance-superintelligence-and-hu-data-center-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster -book -books" data-ebay-reference="cloud-gateways-who-controls-the-roads-to-advanced-ai-ai-bloom-abundance-superintelligence-and-hu-data-center-poster-book" target="_blank" rel="sponsored noopener noreferrer">Data Center Interior Bristling With Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-gateways-who-controls-the-roads-to-advanced-ai-ai-bloom-abundance-superintelligence-and-hu-data-center-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster -book -books" data-ebay-reference="cloud-gateways-who-controls-the-roads-to-advanced-ai-ai-bloom-abundance-superintelligence-and-hu-data-center-poster-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for data center poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: data center poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-gateways-who-controls-the-roads-to-advanced-ai-ai-bloom-abundance-superintelligence-and-hu-data-center-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster -book -books" data-ebay-reference="cloud-gateways-who-controls-the-roads-to-advanced-ai-ai-bloom-abundance-superintelligence-and-hu-data-center-poster-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-gateways-who-controls-the-roads-to-advanced-ai-ai-bloom-abundance-superintelligence-and-hu-data-center-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster -book -books" data-ebay-reference="cloud-gateways-who-controls-the-roads-to-advanced-ai-ai-bloom-abundance-superintelligence-and-hu-data-center-poster-book" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -687,7 +687,7 @@ The future of AI abundance is therefore not only a question of algorithms. It is
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -707,7 +707,7 @@ The future of AI abundance is therefore not only a question of algorithms. It is
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -739,7 +739,7 @@ The future of AI abundance is therefore not only a question of algorithms. It is
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -791,7 +791,7 @@ The future of AI abundance is therefore not only a question of algorithms. It is
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -836,7 +836,7 @@ The future of AI abundance is therefore not only a question of algorithms. It is
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -877,211 +877,211 @@ The future of AI abundance is therefore not only a question of algorithms. It is
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: GOV.UK  
    Title: A I Foundation Models: initial review  
-   Link: <a href="https://www.gov.uk/cma-cases/ai-foundation-models-initial-review" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/cma-cases/ai-foundation-models-initial-review</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Foundation Models: initial reviewMay 4, 2023 — This initial review will help create an early understanding of the market for foundatio...</p></details>
+   Link:<a href="https://www.gov.uk/cma-cases/ai-foundation-models-initial-review" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/cma-cases/ai-foundation-models-initial-review</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI Foundation Models: initial reviewMay 4, 2023 — This initial review will help create an early understanding of the market for foundatio...</p></details>
    Published: May 4, 2023  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: assets.publishing.service.gov.uk  
    Title: AI Foundation Models technical update report  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/661e5a4c7469198185bd3d62/AI_Foundation_Models_technical_update_report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/661e5a4c7469198185bd3d62/AI_Foundation_Models_technical_update_report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Foundation Models - Technical update reportApr 16, 2024 — 153 NVIDIA (2023) Google Cloud and NVIDIA Expand Partnership to Advance AI Comp...</p></details>
+   Link:<a href="https://assets.publishing.service.gov.uk/media/661e5a4c7469198185bd3d62/AI_Foundation_Models_technical_update_report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/661e5a4c7469198185bd3d62/AI_Foundation_Models_technical_update_report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Foundation Models - Technical update reportApr 16, 2024 — 153 NVIDIA (2023) Google Cloud and NVIDIA Expand Partnership to Advance AI Comp...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: aag-it.com  
    Title: the latest cloud computing statistics  
-   Link: <a href="https://aag-it.com/the-latest-cloud-computing-statistics/" target="_blank" rel="noopener noreferrer nofollow">https://aag-it.com/the-latest-cloud-computing-statistics/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Microsoft Azure had a market share of 22% in Q1 2022, with Google at 10...</p></details>
+   Link:<a href="https://aag-it.com/the-latest-cloud-computing-statistics/" target="_blank" rel="noopener noreferrer nofollow">https://aag-it.com/the-latest-cloud-computing-statistics/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Microsoft Azure had a market share of 22% in Q1 2022, with Google at 10...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: crn.com  
    Title: global cloud market share q4 2025 google grows aws lead narrows  
-   Link: <a href="https://www.crn.com/news/cloud/2026/global-cloud-market-share-q4-2025-google-grows-aws-lead-narrows" target="_blank" rel="noopener noreferrer nofollow">https://www.crn.com/news/cloud/2026/global-cloud-market-share-q4-2025-google-grows-aws-lead-narrows</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Global Cloud Market Share Q4 2025; Google Grows, AWS...11 Feb 2026 — Combined, AWS, Microsoft and Google Cloud achieved 68 percent share...</p></details>
+   Link:<a href="https://www.crn.com/news/cloud/2026/global-cloud-market-share-q4-2025-google-grows-aws-lead-narrows" target="_blank" rel="noopener noreferrer nofollow">https://www.crn.com/news/cloud/2026/global-cloud-market-share-q4-2025-google-grows-aws-lead-narrows</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Global Cloud Market Share Q4 2025; Google Grows, AWS...11 Feb 2026 — Combined, AWS, Microsoft and Google Cloud achieved 68 percent share...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: oecd.org  
    Title: component 6  
-   Link: <a href="https://www.oecd.org/en/publications/competition-in-artificial-intelligence-infrastructure_623d1874-en/full-report/component-6.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/competition-in-artificial-intelligence-infrastructure_623d1874-en/full-report/component-6.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Market features in AI infrastructure: Competition in artificial...14 Nov 2025 — In the context of AI infrastructure, such competitio...</p></details>
+   Link:<a href="https://www.oecd.org/en/publications/competition-in-artificial-intelligence-infrastructure_623d1874-en/full-report/component-6.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/competition-in-artificial-intelligence-infrastructure_623d1874-en/full-report/component-6.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Market features in AI infrastructure: Competition in artificial...14 Nov 2025 — In the context of AI infrastructure, such competitio...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: oecd.org  
-   Link: <a href="https://www.oecd.org/en/publications/measuring-domestic-public-cloud-compute-availability-for-artificial-intelligence_8602a322-en.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/measuring-domestic-public-cloud-compute-availability-for-artificial-intelligence_8602a322-en.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Measuring domestic public cloud compute availability for...by V Lehdonvirta · 2025 · Cited by 1 — This Working Paper develops a meth...</p></details>
+   Link:<a href="https://www.oecd.org/en/publications/measuring-domestic-public-cloud-compute-availability-for-artificial-intelligence_8602a322-en.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/measuring-domestic-public-cloud-compute-availability-for-artificial-intelligence_8602a322-en.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Measuring domestic public cloud compute availability for...by V Lehdonvirta · 2025 · Cited by 1 — This Working Paper develops a meth...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: GOV.UK  
    Title: annual report and accounts 2024 to 2025  
-   Link: <a href="https://www.gov.uk/government/publications/cma-annual-report-and-accounts-2024-to-2025/annual-report-and-accounts-2024-to-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/cma-annual-report-and-accounts-2024-to-2025/annual-report-and-accounts-2024-to-2025</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Report and Accounts 2024 to 2025Jul 10, 2025 — The CMA will shortly conclude our market investigation into the cloud services market, whi...</p></details>
+   Link:<a href="https://www.gov.uk/government/publications/cma-annual-report-and-accounts-2024-to-2025/annual-report-and-accounts-2024-to-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/cma-annual-report-and-accounts-2024-to-2025/annual-report-and-accounts-2024-to-2025</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Report and Accounts 2024 to 2025Jul 10, 2025 — The CMA will shortly conclude our market investigation into the cloud services market, whi...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: oecd.org  
-   Link: <a href="https://www.oecd.org/en/events/2025/06/competition-in-the-provision-of-cloud-computing-services.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/events/2025/06/competition-in-the-provision-of-cloud-computing-services.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Competition in the Provision of Cloud Computing ServicesIn June 2025, the OECD held a roundtable to discuss recent developments in cl...</p></details>
+   Link:<a href="https://www.oecd.org/en/events/2025/06/competition-in-the-provision-of-cloud-computing-services.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/events/2025/06/competition-in-the-provision-of-cloud-computing-services.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Competition in the Provision of Cloud Computing ServicesIn June 2025, the OECD held a roundtable to discuss recent developments in cl...</p></details>
    Published: June 2025  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: crn.com  
    Title: cloud market share q1 2026 aws microsoft google battling in ai era  
-   Link: <a href="https://www.crn.com/news/cloud/2026/cloud-market-share-q1-2026-aws-microsoft-google-battling-in-ai-era" target="_blank" rel="noopener noreferrer nofollow">https://www.crn.com/news/cloud/2026/cloud-market-share-q1-2026-aws-microsoft-google-battling-in-ai-era</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cloud Market Share Q1 2026: AWS, Microsoft, Google Battling...4 May 2026 — Global enterprise spending on cloud infrastructure services r...</p></details>
+   Link:<a href="https://www.crn.com/news/cloud/2026/cloud-market-share-q1-2026-aws-microsoft-google-battling-in-ai-era" target="_blank" rel="noopener noreferrer nofollow">https://www.crn.com/news/cloud/2026/cloud-market-share-q1-2026-aws-microsoft-google-battling-in-ai-era</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cloud Market Share Q1 2026: AWS, Microsoft, Google Battling...4 May 2026 — Global enterprise spending on cloud infrastructure services r...</p></details>
    Published: May 2026  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: oecd.org  
-   Link: <a href="https://www.oecd.org/en.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Organisation for Economic Co-operation and...The OECD designs international standards and guidelines for development co-operat...</p></details>
+   Link:<a href="https://www.oecd.org/en.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Organisation for Economic Co-operation and...The OECD designs international standards and guidelines for development co-operat...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: oecd.org  
    Title: component 5  
-   Link: <a href="https://www.oecd.org/en/publications/artificial-intelligence-and-competitive-dynamics-in-downstream-markets_ccf0624a-en/full-report/component-5.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/artificial-intelligence-and-competitive-dynamics-in-downstream-markets_ccf0624a-en/full-report/component-5.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The impact of AI adoption on market dynamics14 Nov 2025 — This paper examines how the adoption of artificial intelligence (AI), particula...</p></details>
+   Link:<a href="https://www.oecd.org/en/publications/artificial-intelligence-and-competitive-dynamics-in-downstream-markets_ccf0624a-en/full-report/component-5.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/artificial-intelligence-and-competitive-dynamics-in-downstream-markets_ccf0624a-en/full-report/component-5.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The impact of AI adoption on market dynamics14 Nov 2025 — This paper examines how the adoption of artificial intelligence (AI), particula...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: oecd.org  
    Title: competition in artificial intelligence infrastructure  
-   Link: <a href="https://www.oecd.org/en/events/2025/12/competition-in-artificial-intelligence-infrastructure.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/events/2025/12/competition-in-artificial-intelligence-infrastructure.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In December 2025, the OECD held a discussion on Competition in artificial intelligence infrastructure. This page contains all related mat...</p></details>
+   Link:<a href="https://www.oecd.org/en/events/2025/12/competition-in-artificial-intelligence-infrastructure.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/events/2025/12/competition-in-artificial-intelligence-infrastructure.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In December 2025, the OECD held a discussion on Competition in artificial intelligence infrastructure. This page contains all related mat...</p></details>
    Published: December 2025  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: oecd.org  
    Title: component 5  
-   Link: <a href="https://www.oecd.org/en/publications/competition-in-artificial-intelligence-infrastructure_623d1874-en/full-report/component-5.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/competition-in-artificial-intelligence-infrastructure_623d1874-en/full-report/component-5.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Overview of the AI supply chain: Competition in artificial...14 Nov 2025 — 4 The most recently reported market share estimates for the c...</p></details>
+   Link:<a href="https://www.oecd.org/en/publications/competition-in-artificial-intelligence-infrastructure_623d1874-en/full-report/component-5.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/competition-in-artificial-intelligence-infrastructure_623d1874-en/full-report/component-5.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Overview of the AI supply chain: Competition in artificial...14 Nov 2025 — 4 The most recently reported market share estimates for the c...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: GOV.UK  
    Title: artificial intelligence sector study 2024  
-   Link: <a href="https://www.gov.uk/government/publications/artificial-intelligence-sector-study-2024/artificial-intelligence-sector-study-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/artificial-intelligence-sector-study-2024/artificial-intelligence-sector-study-2024</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Intelligence sector study 20243 Sept 2025 — In 2024, there were 51 AI related inward investment projects into the UK, representing more t...</p></details>
+   Link:<a href="https://www.gov.uk/government/publications/artificial-intelligence-sector-study-2024/artificial-intelligence-sector-study-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/artificial-intelligence-sector-study-2024/artificial-intelligence-sector-study-2024</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Intelligence sector study 20243 Sept 2025 — In 2024, there were 51 AI related inward investment projects into the UK, representing more t...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: GOV.UK  
-   Link: <a href="https://www.gov.uk/cma-cases/cloud-services-market-investigation" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/cma-cases/cloud-services-market-investigation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>services market investigationThe Competition and Markets Authority (CMA) investigated the supply of public cloud infrastructure services...</p></details>
+   Link:<a href="https://www.gov.uk/cma-cases/cloud-services-market-investigation" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/cma-cases/cloud-services-market-investigation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>services market investigationThe Competition and Markets Authority (CMA) investigated the supply of public cloud infrastructure services...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: GOV.UK  
    Title: cma ai strategic update  
-   Link: <a href="https://www.gov.uk/government/publications/cma-ai-strategic-update/cma-ai-strategic-update" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/cma-ai-strategic-update/cma-ai-strategic-update</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI strategic updateApr 29, 2024 — This document provides a strategic update on the CMA&#x27;s approach to AI. This is set out through the foll...</p></details>
+   Link:<a href="https://www.gov.uk/government/publications/cma-ai-strategic-update/cma-ai-strategic-update" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/cma-ai-strategic-update/cma-ai-strategic-update</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI strategic updateApr 29, 2024 — This document provides a strategic update on the CMA&#x27;s approach to AI. This is set out through the foll...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: state.gov  
-   Link: <a href="https://www.state.gov/the-organization-for-economic-co-operation-and-development-oecd" target="_blank" rel="noopener noreferrer nofollow">https://www.state.gov/the-organization-for-economic-co-operation-and-development-oecd</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>common challenges, identify good practices, and develop high standards...Read more...</p></details>
+   Link:<a href="https://www.state.gov/the-organization-for-economic-co-operation-and-development-oecd" target="_blank" rel="noopener noreferrer nofollow">https://www.state.gov/the-organization-for-economic-co-operation-and-development-oecd</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>common challenges, identify good practices, and develop high standards...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: aws.amazon.com  
    Title: global infrastructure  
-   Link: <a href="https://aws.amazon.com/about-aws/global-infrastructure/" target="_blank" rel="noopener noreferrer nofollow">https://aws.amazon.com/about-aws/global-infrastructure/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Amazon Web Services (AWS) was named a Leader in the 2025 Gartner Magic Quadrant for Strategic Cloud Platform Services (SCPS) report for t...</p></details>
+   Link:<a href="https://aws.amazon.com/about-aws/global-infrastructure/" target="_blank" rel="noopener noreferrer nofollow">https://aws.amazon.com/about-aws/global-infrastructure/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Amazon Web Services (AWS) was named a Leader in the 2025 Gartner Magic Quadrant for Strategic Cloud Platform Services (SCPS) report for t...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/technology/article/2024/aug/08/anthropic-ai-startup-uk-regulator-cma-amazon-investment" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/article/2024/aug/08/anthropic-ai-startup-uk-regulator-cma-amazon-investment</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The CMA aims to determine whether the partnership constitutes a &quot;relevant merger situation&quot; that could warrant an in-depth review. Announ...</p></details>
+   Link:<a href="https://www.theguardian.com/technology/article/2024/aug/08/anthropic-ai-startup-uk-regulator-cma-amazon-investment" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/article/2024/aug/08/anthropic-ai-startup-uk-regulator-cma-amazon-investment</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The CMA aims to determine whether the partnership constitutes a &quot;relevant merger situation&quot; that could warrant an in-depth review. Announ...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: uk.practicallaw.thomsonreuters.com  
-   Link: <a href="https://uk.practicallaw.thomsonreuters.com/w-042-9673?contextData=%28sc.Default%29&amp;originationContext=knowHow&amp;transitionType=KnowHowItem" target="_blank" rel="noopener noreferrer nofollow">https://uk.practicallaw.thomsonreuters.com/w-042-9673?contextData=%28sc.Default%29&amp;originationContext=knowHow&amp;transitionType=KnowHowItem</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>publishes update paper in initial review of AI foundation...On 11 April 2024, the CMA published an update paper in its initial review of...</p></details>
+   Link:<a href="https://uk.practicallaw.thomsonreuters.com/w-042-9673?contextData=%28sc.Default%29&amp;originationContext=knowHow&amp;transitionType=KnowHowItem" target="_blank" rel="noopener noreferrer nofollow">https://uk.practicallaw.thomsonreuters.com/w-042-9673?contextData=%28sc.Default%29&amp;originationContext=knowHow&amp;transitionType=KnowHowItem</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>publishes update paper in initial review of AI foundation...On 11 April 2024, the CMA published an update paper in its initial review of...</p></details>
    Published: April 2024  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: businessinsider.com  
-   Link: <a href="https://www.businessinsider.com/amazon-ai-startups-delaying-aws-spending-2025-10" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/amazon-ai-startups-delaying-aws-spending-2025-10</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Traditionally, AWS was a go-to platform for startups due to its scalable compute and storage offerings. However, the rise of generative A...</p></details>
+   Link:<a href="https://www.businessinsider.com/amazon-ai-startups-delaying-aws-spending" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/amazon-ai-startups-delaying-aws-spending</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Traditionally, AWS was a go-to platform for startups due to its scalable compute and storage offerings. However, the rise of generative A...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: openloop.org  
    Title: competition in ai foundation models and the cma ai principles  
-   Link: <a href="https://openloop.org/reports/2025/02/competition-in-ai-foundation-models-and-the-cma-ai-principles.pdf" target="_blank" rel="noopener noreferrer nofollow">https://openloop.org/reports/2025/02/competition-in-ai-foundation-models-and-the-cma-ai-principles.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Open LoopCompetition in AI Foundation Models and the CMA AI PrinciplesFeb 12, 2025 — This report presents the findings and recommendation...</p></details>
+   Link:<a href="https://openloop.org/reports/2025/02/competition-in-ai-foundation-models-and-the-cma-ai-principles.pdf" target="_blank" rel="noopener noreferrer nofollow">https://openloop.org/reports/2025/02/competition-in-ai-foundation-models-and-the-cma-ai-principles.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Open LoopCompetition in AI Foundation Models and the CMA AI PrinciplesFeb 12, 2025 — This report presents the findings and recommendation...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/OECD" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/OECD</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>OECDIt is a forum whose member countries describe themselves as committed to democracy and the market economy, providing a platform to...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/OECD" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/OECD</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OECDIt is a forum whose member countries describe themselves as committed to democracy and the market economy, providing a platform to...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/company/organisation-eco-cooperation-development-organisation-cooperation-developpement-eco" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/company/organisation-eco-cooperation-development-organisation-cooperation-developpement-eco</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>OECD - OCDEThe Organisation for Economic Co-operation and Development (OECD) is an international organisation that works to build better...</p></details>
+   Link:<a href="https://www.linkedin.com/company/organisation-eco-cooperation-development-organisation-cooperation-developpement-eco" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/company/organisation-eco-cooperation-development-organisation-cooperation-developpement-eco</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OECD - OCDEThe Organisation for Economic Co-operation and Development (OECD) is an international organisation that works to build better...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/theOECD/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/theOECD/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>OECD | ParisApply now for current vacancies at the #OECD! Explore exciting opportunities in: ➡️ International Energy Agency (IEA) ➡️ The...</p></details>
+   Link:<a href="https://www.facebook.com/theOECD/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/theOECD/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OECD | ParisApply now for current vacancies at the #OECD! Explore exciting opportunities in: ➡️ International Energy Agency (IEA) ➡️ The...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/oecd" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/oecd</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>OECDThe OECD is a global forum covering a diverse range of topics, from inequality and climate change to the gender gap and migrant integ...</p></details>
+   Link:<a href="https://www.youtube.com/oecd" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/oecd</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OECDThe OECD is a global forum covering a diverse range of topics, from inequality and climate change to the gender gap and migrant integ...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: fortunebusinessinsights.com  
    Title: cloud computing market 102697  
-   Link: <a href="https://www.fortunebusinessinsights.com/cloud-computing-market-102697" target="_blank" rel="noopener noreferrer nofollow">https://www.fortunebusinessinsights.com/cloud-computing-market-102697</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cloud Computing Market Size, Share &amp; Growth Report, 203420 Apr 2026 — The global cloud computing market size was valued at USD 781.27 bil...</p></details>
+   Link:<a href="https://www.fortunebusinessinsights.com/cloud-computing-market-102697" target="_blank" rel="noopener noreferrer nofollow">https://www.fortunebusinessinsights.com/cloud-computing-market-102697</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cloud Computing Market Size, Share &amp; Growth Report, 203420 Apr 2026 — The global cloud computing market size was valued at USD 781.27 bil...</p></details>
 
 ### Additional References
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/mark-haranas-98758667_global-cloud-market-share-q3-2025-aws-lowers-activity-7392270591216529409-EtSD" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/mark-haranas-98758667_global-cloud-market-share-q3-2025-aws-lowers-activity-7392270591216529409-EtSD</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Global Cloud Market Share: AWS, Microsoft, Google...AWS, Google Cloud and Microsoft—combined—won 62 percent share of the global enterpri...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/mark-haranas-98758667_global-cloud-market-share-q3-2025-aws-lowers-activity-7392270591216529409-EtSD" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/mark-haranas-98758667_global-cloud-market-share-q3-2025-aws-lowers-activity-7392270591216529409-EtSD</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Global Cloud Market Share: AWS, Microsoft, Google...AWS, Google Cloud and Microsoft—combined—won 62 percent share of the global enterpri...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/the_oecd/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/the_oecd/?hl=en</a>  
+   Link:<a href="https://www.instagram.com/the_oecd/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/the_oecd/?hl=en</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: nortonrosefulbright.com  
-   Link: <a href="https://www.nortonrosefulbright.com/en/knowledge/publications/8ca8f277/the-uk-cmas-ai-foundation-models-initial-report" target="_blank" rel="noopener noreferrer nofollow">https://www.nortonrosefulbright.com/en/knowledge/publications/8ca8f277/the-uk-cmas-ai-foundation-models-initial-report</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The UK CMA&#x27;s review of AI Foundation ModelsThe CMA published its Initial Report (Initial Report) on AI Foundation Models (FM), supplement...</p></details>
+   Link:<a href="https://www.nortonrosefulbright.com/en/knowledge/publications/8ca8f277/the-uk-cmas-ai-foundation-models-initial-report" target="_blank" rel="noopener noreferrer nofollow">https://www.nortonrosefulbright.com/en/knowledge/publications/8ca8f277/the-uk-cmas-ai-foundation-models-initial-report</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The UK CMA&#x27;s review of AI Foundation ModelsThe CMA published its Initial Report (Initial Report) on AI Foundation Models (FM), supplement...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: windowscentral.com  
-   Link: <a href="https://www.windowscentral.com/microsoft/as-microsoft-posts-usd75b-in-azure-revenue-uks-cma-says-competition-is-not-working-well" target="_blank" rel="noopener noreferrer nofollow">https://www.windowscentral.com/microsoft/as-microsoft-posts-usd75b-in-azure-revenue-uks-cma-says-competition-is-not-working-well</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>These two companies each hold up to 40% of the market, creating a highly concentrated environment that hampers smaller competitors. Micro...</p></details>
+   Link:<a href="https://www.windowscentral.com/microsoft/as-microsoft-posts-usd75b-in-azure-revenue-uks-cma-says-competition-is-not-working-well" target="_blank" rel="noopener noreferrer nofollow">https://www.windowscentral.com/microsoft/as-microsoft-posts-usd75b-in-azure-revenue-uks-cma-says-competition-is-not-working-well</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>These two companies each hold up to 40% of the market, creating a highly concentrated environment that hampers smaller competitors. Micro...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/charles-henry-monchau-cfa-cmt-caia-4003096_cloud-market-share-q1-2025-aws-29-activity-7325278131760603136-5DCH" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/charles-henry-monchau-cfa-cmt-caia-4003096_cloud-market-share-q1-2025-aws-29-activity-7325278131760603136-5DCH</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cloud market share: AWS, Azure, Google Cloud Q1 2025 - LinkedInMay 5, 2025 — Cloud market share — Q1 2025: AWS 29%. Azure 22%. Google Clo...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/charles-henry-monchau-cfa-cmt-caia-4003096_cloud-market-share-q1-2025-aws-29-activity-7325278131760603136-5DCH" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/charles-henry-monchau-cfa-cmt-caia-4003096_cloud-market-share-q1-2025-aws-29-activity-7325278131760603136-5DCH</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cloud market share: AWS, Azure, Google Cloud Q1 2025 - LinkedInMay 5, 2025 — Cloud market share — Q1 2025: AWS 29%. Azure 22%. Google Clo...</p></details>
    Published: May 5, 2025  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/kadir-tas-a1106a22_competition-in-artificial-intelligence-infrastructure-activity-7422611242634125313-Y6Pp" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/kadir-tas-a1106a22_competition-in-artificial-intelligence-infrastructure-activity-7422611242634125313-Y6Pp</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>OECD Report: AI Infrastructure Competition and Market...Competition in Artificial Intelligence Infrastructure | prepared by OECD - OCDE...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/kadir-tas-a1106a22_competition-in-artificial-intelligence-infrastructure-activity-7422611242634125313-Y6Pp" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/kadir-tas-a1106a22_competition-in-artificial-intelligence-infrastructure-activity-7422611242634125313-Y6Pp</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OECD Report: AI Infrastructure Competition and Market...Competition in Artificial Intelligence Infrastructure | prepared by OECD - OCDE...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: thetimes.co.uk  
-   Link: <a href="https://www.thetimes.co.uk/article/back-off-regulators-big-tech-buying-into-ai-isnt-a-bad-thing-nzd2klrqj" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.co.uk/article/back-off-regulators-big-tech-buying-into-ai-isnt-a-bad-thing-nzd2klrqj</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Initially, the CMA had a positive outlook on the AI market, noting its vibrancy and diversity, with numerous AI models developed by both...</p></details>
+   Link:<a href="https://www.thetimes.co.uk/article/back-off-regulators-big-tech-buying-into-ai-isnt-a-bad-thing-nzd2klrqj" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.co.uk/article/back-off-regulators-big-tech-buying-into-ai-isnt-a-bad-thing-nzd2klrqj</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Initially, the CMA had a positive outlook on the AI market, noting its vibrancy and diversity, with numerous AI models developed by both...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/swastis_cloudcomputing-digitaltransformation-aws-activity-7401926607164071937-iHk4" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/swastis_cloudcomputing-digitaltransformation-aws-activity-7401926607164071937-iHk4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cloud 2026: AWS, Azure, GCP Market Share &amp; TrendsCloud 2026: A Strategic Comparison The cloud computing landscape in 2026 is more competi...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/swastis_cloudcomputing-digitaltransformation-aws-activity-7401926607164071937-iHk4" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/swastis_cloudcomputing-digitaltransformation-aws-activity-7401926607164071937-iHk4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cloud 2026: AWS, Azure, GCP Market Share &amp; TrendsCloud 2026: A Strategic Comparison The cloud computing landscape in 2026 is more competi...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: bruegel.org  
    Title: why artificial intelligence creating fundamental challenges competition policy  
-   Link: <a href="https://www.bruegel.org/policy-brief/why-artificial-intelligence-creating-fundamental-challenges-competition-policy" target="_blank" rel="noopener noreferrer nofollow">https://www.bruegel.org/policy-brief/why-artificial-intelligence-creating-fundamental-challenges-competition-policy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why artificial intelligence is creating fundamental...by B Martens — The UK Competition and Markets Authority (2024) noted that the grow...</p></details>
+   Link:<a href="https://www.bruegel.org/policy-brief/why-artificial-intelligence-creating-fundamental-challenges-competition-policy" target="_blank" rel="noopener noreferrer nofollow">https://www.bruegel.org/policy-brief/why-artificial-intelligence-creating-fundamental-challenges-competition-policy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why artificial intelligence is creating fundamental...by B Martens — The UK Competition and Markets Authority (2024) noted that the grow...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: drcf.org.uk  
    Title: harnessing innovation and growth opportunities from ai foundation models  
-   Link: <a href="https://www.drcf.org.uk/publications/blogs/harnessing-innovation-and-growth-opportunities-from-ai-foundation-models" target="_blank" rel="noopener noreferrer nofollow">https://www.drcf.org.uk/publications/blogs/harnessing-innovation-and-growth-opportunities-from-ai-foundation-models</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Harnessing Innovation and Growth Opportunities from AI...25 Mar 2025 — How UK data protection, competition and consumer protection laws...</p></details>
+   Link:<a href="https://www.drcf.org.uk/publications/blogs/harnessing-innovation-and-growth-opportunities-from-ai-foundation-models" target="_blank" rel="noopener noreferrer nofollow">https://www.drcf.org.uk/publications/blogs/harnessing-innovation-and-growth-opportunities-from-ai-foundation-models</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Harnessing Innovation and Growth Opportunities from AI...25 Mar 2025 — How UK data protection, competition and consumer protection laws...</p></details>

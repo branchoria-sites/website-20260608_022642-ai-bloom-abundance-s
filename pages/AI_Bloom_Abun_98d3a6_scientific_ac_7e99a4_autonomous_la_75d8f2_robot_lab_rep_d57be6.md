@@ -274,13 +274,13 @@ Robot laboratories are often presented as a breakthrough because they can run ex
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_autonomous_la_75d8f2_robot_lab_rep_d57be6-Illustration-1-dark.svg" | relative_url }}" alt="Proof test illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_autonomous_la_75d8f2_robot_lab_rep_d57be6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_autonomous_la_75d8f2_robot_lab_rep_d57be6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This matters far beyond any single [robotics]({{ 'robotics/' | relative_url }}) project. The strongest version of the AI bloom argument depends on scientific acceleration. If AI systems can help humanity discover new medicines, materials, [energy]({{ 'energy/' | relative_url }}) technologies and biological insights much faster than before, the long-term effects could be enormous. Yet science advances through reliable knowledge, not through impressive-looking output. A robot lab that produces thousands of findings which cannot be reproduced may create noise rather than progress.
 
-The debate around autonomous materials laboratories, including the widely discussed A-Lab project, exposed this distinction clearly. The question was not whether the machines ran experiments. The question was whether the discoveries would survive independent scrutiny. That is why reproducibility has become the central proof problem for autonomous science. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-023-06734-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">An autonomous laboratory for the accelerated synthesis of...Nov 29, 2023 — Over 17 days of operation, the A-Lab successfully synth...</span></span></span>
+The debate around autonomous materials laboratories, including the widely discussed A-Lab project, exposed this distinction clearly. The question was not whether the machines ran experiments. The question was whether the discoveries would survive independent scrutiny. That is why reproducibility has become the central proof problem for autonomous science.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-023-06734-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">An autonomous laboratory for the accelerated synthesis of...Nov 29, 2023 — Over 17 days of operation, the A-Lab successfully synth...</span></span></span>
 
 ## Why volume can mislead in AI science
 
 One reason robot labs generate excitement is that they attack a real bottleneck. Many scientific fields face huge search spaces. Researchers may have millions of possible molecules, catalysts, battery materials or biological pathways worth testing, but only limited time and equipment to evaluate them.
 
-Autonomous laboratories promise to change this equation. Systems can operate around the clock, choose new experiments automatically and rapidly generate new candidate discoveries. The headline numbers can be striking. A-Lab reported continuous operation over 17 days and the synthesis of dozens of target inorganic materials through a combination of machine learning, robotics and automated analysis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/d41586-023-03956-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Robot chemist sparks row with claim it created new materials12 Dec 2023 — Researchers question whether an AI-controlled lab assista...</span></span></span>
+Autonomous laboratories promise to change this equation. Systems can operate around the clock, choose new experiments automatically and rapidly generate new candidate discoveries. The headline numbers can be striking. A-Lab reported continuous operation over 17 days and the synthesis of dozens of target inorganic materials through a combination of machine learning, robotics and automated analysis.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/d41586-023-03956-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Robot chemist sparks row with claim it created new materials12 Dec 2023 — Researchers question whether an AI-controlled lab assista...</span></span></span>
 
 The danger is that experimental volume can create an illusion of progress.
 
@@ -307,9 +307,9 @@ For that reason, many researchers increasingly argue that autonomous science sho
 
 The A-Lab project became important not only because of its technical achievements but because it triggered a public argument about what counts as a successful autonomous discovery.
 
-The original Nature paper reported that the system had successfully synthesised dozens of target materials through an automated workflow that combined computational prediction, literature-derived synthesis recipes, robotics and machine-learning-guided refinement. The work was widely interpreted as evidence that AI-driven laboratories could help bridge the gap between theoretical predictions and real-world material production. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-024-08173-7" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Autonomous mobile robots for exploratory synthetic chemistryby T Dai · 2024 · Cited by 277 — Here we show that a synthesis laborato...</span></span></span>
+The original Nature paper reported that the system had successfully synthesised dozens of target materials through an automated workflow that combined computational prediction, literature-derived synthesis recipes, robotics and machine-learning-guided refinement. The work was widely interpreted as evidence that AI-driven laboratories could help bridge the gap between theoretical predictions and real-world material production.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-024-08173-7" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Autonomous mobile robots for exploratory synthetic chemistryby T Dai · 2024 · Cited by 277 — Here we show that a synthesis laborato...</span></span></span>
 
-Soon after publication, however, researchers began questioning whether some of the claimed materials were genuinely novel or whether the evidence for successful synthesis was strong enough. Nature reported disagreements over whether the robot had truly created new substances and whether the characterisation methods justified the conclusions being drawn. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-023-06734-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">An autonomous laboratory for the accelerated synthesis of...Nov 29, 2023 — Over 17 days of operation, the A-Lab successfully synth...</span></span></span>
+Soon after publication, however, researchers began questioning whether some of the claimed materials were genuinely novel or whether the evidence for successful synthesis was strong enough. Nature reported disagreements over whether the robot had truly created new substances and whether the characterisation methods justified the conclusions being drawn.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-023-06734-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">An autonomous laboratory for the accelerated synthesis of...Nov 29, 2023 — Over 17 days of operation, the A-Lab successfully synth...</span></span></span>
 
 The significance of the dispute was larger than the specific materials involved.
 
@@ -344,7 +344,7 @@ Researchers increasingly argue that robot laboratories should maintain detailed 
 
 </div>
 
-Without such records, independent researchers may struggle to determine why a result occurred or whether it can be reproduced elsewhere. Proposed frameworks for trustworthy autonomous experimentation increasingly emphasise execution tracing and detailed digital records as core infrastructure rather than optional extras. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2508.11406" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open, Reproducible and Trustworthy Robot-Based Experiments with Virtual Labs and Digital-Twin-Based Execution TracingAugust 15, 2025...</span><span class="citation-popover-meta">Published: August 15, 2025</span></span></span>
+Without such records, independent researchers may struggle to determine why a result occurred or whether it can be reproduced elsewhere. Proposed frameworks for trustworthy autonomous experimentation increasingly emphasise execution tracing and detailed digital records as core infrastructure rather than optional extras.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2508.11406" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open, Reproducible and Trustworthy Robot-Based Experiments with Virtual Labs and Digital-Twin-Based Execution TracingAugust 15, 2025...</span><span class="citation-popover-meta">Published: August 15, 2025</span></span></span>
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_autonomous_la_75d8f2_robot_lab_rep_d57be6-Illustration-2-dark.svg" | relative_url }}" alt="Proof test illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_autonomous_la_75d8f2_robot_lab_rep_d57be6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_autonomous_la_75d8f2_robot_lab_rep_d57be6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Independent replication
@@ -355,7 +355,7 @@ The more demanding test is whether another laboratory can achieve the same outco
 
 This distinction matters because hidden assumptions often exist within a specific experimental setup. Slight differences in equipment calibration, environmental conditions or software implementation can reveal weaknesses that were invisible during the original experiment.
 
-Some researchers in robotics have begun arguing for more formal frameworks around reproduced and replicated experiments precisely because comparable [validation]({{ 'validation/' | relative_url }}) remains difficult across different laboratories. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2508.11406" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open, Reproducible and Trustworthy Robot-Based Experiments with Virtual Labs and Digital-Twin-Based Execution TracingAugust 15, 2025...</span><span class="citation-popover-meta">Published: August 15, 2025</span></span></span>
+Some researchers in robotics have begun arguing for more formal frameworks around reproduced and replicated experiments precisely because comparable [validation]({{ 'validation/' | relative_url }}) remains difficult across different laboratories.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2508.11406" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open, Reproducible and Trustworthy Robot-Based Experiments with Virtual Labs and Digital-Twin-Based Execution TracingAugust 15, 2025...</span><span class="citation-popover-meta">Published: August 15, 2025</span></span></span>
 
 ### Multiple measurement methods
 
@@ -365,7 +365,7 @@ A new material, drug candidate or biological result is usually evaluated through
 
 Future autonomous laboratories may need similar redundancy. A system that validates its conclusions through multiple independent measurement channels could be substantially more trustworthy than one that relies on a single automated classifier.
 
-This issue already appears in autonomous materials research, where characterisation methods and phase identification often determine whether a claimed discovery is accepted by the wider community. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/d41586-023-03956-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Robot chemist sparks row with claim it created new materials12 Dec 2023 — Researchers question whether an AI-controlled lab assista...</span></span></span>
+This issue already appears in autonomous materials research, where characterisation methods and phase identification often determine whether a claimed discovery is accepted by the wider community.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/d41586-023-03956-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Robot chemist sparks row with claim it created new materials12 Dec 2023 — Researchers question whether an AI-controlled lab assista...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/noW2qOBeoRU" title="Xu Huang: Cumulative Agentic Skill Creation through Autonomous Development and Evolution" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=noW2qOBeoRU" target="_blank" rel="noopener noreferrer">Xu Huang: Cumulative Agentic Skill Creation through Autonomous Development and Evolution</a></p><p class="youtube-embed-meta">Channel: BIDMaP &middot; Views: 54 &middot; Uploaded: April 2026 &middot; Length: 53 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=noW2qOBeoRU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=noW2qOBeoRU">Open on YouTube</a></p></div></div></div>
 
@@ -379,7 +379,7 @@ Researchers become tired. Procedures drift over time. Samples may be labelled in
 
 Automation can reduce many of these sources of variation.
 
-Studies of cloud laboratories and automated biological workflows have argued that standardised robotic execution can improve consistency, create clearer audit trails and make experiments easier to repeat across teams and institutions. Researchers working on automated laboratory operating systems have presented reproducibility as one of the central benefits of large-scale laboratory automation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2590238521003064" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Autonomous experimentation systems for materials...by E Stach · 2021 · Cited by 392 — This review discusses the specific challenges and...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/38030721/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">An autonomous laboratory for the accelerated synthesis of...by NJ Szymanski · 2023 · Cited by 1176 — Over 17 days of continuous op...</span></span></span>
+Studies of cloud laboratories and automated biological workflows have argued that standardised robotic execution can improve consistency, create clearer audit trails and make experiments easier to repeat across teams and institutions. Researchers working on automated laboratory operating systems have presented reproducibility as one of the central benefits of large-scale laboratory automation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2590238521003064" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Autonomous experimentation systems for materials...by E Stach · 2021 · Cited by 392 — This review discusses the specific challenges and...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/38030721/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">An autonomous laboratory for the accelerated synthesis of...by NJ Szymanski · 2023 · Cited by 1176 — Over 17 days of continuous op...</span></span></span>
 
 This creates an interesting tension.
 
@@ -400,7 +400,7 @@ Several developments could move robot laboratories in that direction.
 
 **Shared laboratory protocols.** Standardised machine-readable procedures make it easier for independent groups to repeat experiments precisely.
 
-**Digital twins and execution histories.** Detailed records of every robotic action may allow researchers to replay experiments, investigate failures and compare outcomes across institutions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2508.11406" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open, Reproducible and Trustworthy Robot-Based Experiments with Virtual Labs and Digital-Twin-Based Execution TracingAugust 15, 2025...</span><span class="citation-popover-meta">Published: August 15, 2025</span></span></span>
+**Digital twins and execution histories.** Detailed records of every robotic action may allow researchers to replay experiments, investigate failures and compare outcomes across institutions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2508.11406" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open, Reproducible and Trustworthy Robot-Based Experiments with Virtual Labs and Digital-Twin-Based Execution TracingAugust 15, 2025...</span><span class="citation-popover-meta">Published: August 15, 2025</span></span></span>
 
 **Cross-laboratory validation networks.** Multiple autonomous laboratories could attempt the same experiments independently, creating reproducibility checks at unprecedented scale.
 
@@ -423,194 +423,194 @@ A future supercharged by autonomous science would not emerge because machines pr
 The real promise of robot laboratories is therefore not merely faster experimentation. It is the possibility of creating a scientific system that is simultaneously faster, more transparent and more reproducible. If autonomous labs can achieve all three, they become far more than a productivity tool. They become part of the infrastructure through which a larger and more capable civilisation learns what is actually true.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When faster experiments still need proof. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When faster experiments still need proof. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Knowledge+Machine+by+Michael+Strevens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Knowledge Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=f4aQEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Knowledge Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Knowledge+Machine+by+Michael+Strevens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Knowledge Machine">The Knowledge Machine</a>
-        </h4>
-        <p class="fr-book-author">By Michael Strevens</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Knowledge+Machine+by+Michael+Strevens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Knowledge Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=f4aQEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Knowledge Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Knowledge+Machine+by+Michael+Strevens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Knowledge Machine">The Knowledge Machine</a>
+</h4>
+<p class="fr-book-author">By Michael Strevens</p>
         
-        <p class="fr-book-desc">Directly supports the page’s focus on reproducibility, proof and reliable scientific output.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Knowledge+Machine+by+Michael+Strevens&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly supports the page’s focus on reproducibility, proof and reliable scientific output.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Knowledge+Machine+by+Michael+Strevens&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Structure+of+Scientific+Revolutions+by+Thomas+S.+Kuhn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Structure of Scientific Revolutions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=tMd4pwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Structure of Scientific Revolutions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Structure+of+Scientific+Revolutions+by+Thomas+S.+Kuhn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Structure of Scientific Revolutions">The Structure of Scientific Revolutions</a>
-        </h4>
-        <p class="fr-book-author">By Thomas S. Kuhn</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Structure+of+Scientific+Revolutions+by+Thomas+S.+Kuhn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Structure of Scientific Revolutions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=tMd4pwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Structure of Scientific Revolutions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Structure+of+Scientific+Revolutions+by+Thomas+S.+Kuhn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Structure of Scientific Revolutions">The Structure of Scientific Revolutions</a>
+</h4>
+<p class="fr-book-author">By Thomas S. Kuhn</p>
         
-        <p class="fr-book-desc">Helps readers place disputed automated-discovery claims within the history of scientific change.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Structure+of+Scientific+Revolutions+by+Thomas+S.+Kuhn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers place disputed automated-discovery claims within the history of scientific change.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Structure+of+Scientific+Revolutions+by+Thomas+S.+Kuhn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Failure+by+Stuart+Firestein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Failure on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Nu0-CgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Failure" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Failure+by+Stuart+Firestein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Failure">Failure</a>
-        </h4>
-        <p class="fr-book-author">By Stuart Firestein</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Failure+by+Stuart+Firestein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Failure on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Nu0-CgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Failure" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Failure+by+Stuart+Firestein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Failure">Failure</a>
+</h4>
+<p class="fr-book-author">By Stuart Firestein</p>
         
-        <p class="fr-book-desc">Frames robot-lab errors and disputed claims as part of discovery rather than simple failure.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Failure+by+Stuart+Firestein&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Frames robot-lab errors and disputed claims as part of discovery rather than simple failure.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Failure+by+Stuart+Firestein&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Half-Life+of+Facts+by+Samuel+Arbesman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Half-Life of Facts on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXho71uvKBsC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Half-Life of Facts" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Half-Life+of+Facts+by+Samuel+Arbesman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Half-Life of Facts">The Half-Life of Facts</a>
-        </h4>
-        <p class="fr-book-author">By Samuel Arbesman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Half-Life+of+Facts+by+Samuel+Arbesman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Half-Life of Facts on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXho71uvKBsC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Half-Life of Facts" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Half-Life+of+Facts+by+Samuel+Arbesman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Half-Life of Facts">The Half-Life of Facts</a>
+</h4>
+<p class="fr-book-author">By Samuel Arbesman</p>
         
-        <p class="fr-book-desc">Fits concerns about fast AI-generated results needing correction and independent scrutiny.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Half-Life+of+Facts+by+Samuel+Arbesman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Fits concerns about fast AI-generated results needing correction and independent scrutiny.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Half-Life+of+Facts+by+Samuel+Arbesman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Knowledge+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Knowledge Machine</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Structure+of+Scientific+Revolutions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Structure of Scientific Revolutions</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Failure&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Failure</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Knowledge+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Knowledge Machine</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Structure+of+Scientific+Revolutions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Structure of Scientific Revolutions</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Failure&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Failure</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-faster-experiments-still-need-proof-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="when-faster-experiments-still-need-proof-science-lab-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Science Lab Illustration Chemistry 12X16 Inch Framed Art Print"><img src="https://i.ebayimg.com/images/g/2EAAAOSwtWRnThK~/s-l225.jpg" alt="Listing image for Vintage Science Lab Illustration Chemistry 12X16 Inch Framed Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-faster-experiments-still-need-proof-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="when-faster-experiments-still-need-proof-science-lab-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage Science Lab Illustration Chemistry 12X16 Inch Framed Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-faster-experiments-still-need-proof-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="when-faster-experiments-still-need-proof-science-lab-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science lab poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: science lab poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-faster-experiments-still-need-proof-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="when-faster-experiments-still-need-proof-science-lab-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-faster-experiments-still-need-proof-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="when-faster-experiments-still-need-proof-science-lab-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Science Lab Illustration Chemistry 12X16 Inch Framed Art Print"><img src="https://i.ebayimg.com/images/g/2EAAAOSwtWRnThK~/s-l225.jpg" alt="Listing image for Vintage Science Lab Illustration Chemistry 12X16 Inch Framed Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-faster-experiments-still-need-proof-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="when-faster-experiments-still-need-proof-science-lab-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage Science Lab Illustration Chemistry 12X16 Inch Framed Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-faster-experiments-still-need-proof-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="when-faster-experiments-still-need-proof-science-lab-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science lab poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: science lab poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-faster-experiments-still-need-proof-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="when-faster-experiments-still-need-proof-science-lab-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-faster-experiments-still-need-proof-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="when-faster-experiments-still-need-proof-science-lab-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Science Lab Nerd Geek Chem Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/fC4AAeSwu~dpwt55/s-l225.jpg" alt="Listing image for Science Lab Nerd Geek Chem Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-faster-experiments-still-need-proof-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="when-faster-experiments-still-need-proof-science-lab-poster" target="_blank" rel="sponsored noopener noreferrer">Science Lab Nerd Geek Chem Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-faster-experiments-still-need-proof-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="when-faster-experiments-still-need-proof-science-lab-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science lab poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: science lab poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-faster-experiments-still-need-proof-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="when-faster-experiments-still-need-proof-science-lab-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-faster-experiments-still-need-proof-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="when-faster-experiments-still-need-proof-science-lab-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Science Lab Nerd Geek Chem Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/fC4AAeSwu~dpwt55/s-l225.jpg" alt="Listing image for Science Lab Nerd Geek Chem Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-faster-experiments-still-need-proof-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="when-faster-experiments-still-need-proof-science-lab-poster" target="_blank" rel="sponsored noopener noreferrer">Science Lab Nerd Geek Chem Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-faster-experiments-still-need-proof-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="when-faster-experiments-still-need-proof-science-lab-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science lab poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: science lab poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-faster-experiments-still-need-proof-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="when-faster-experiments-still-need-proof-science-lab-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-faster-experiments-still-need-proof-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="when-faster-experiments-still-need-proof-science-lab-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Welcome to the Science Lab Metal Poster Wall Tin Sign Man Cave Shed Home Plaque"><img src="https://i.ebayimg.com/images/g/UIAAAeSw7g5onHr9/s-l225.jpg" alt="Listing image for Welcome to the Science Lab Metal Poster Wall Tin Sign Man Cave Shed Home Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-faster-experiments-still-need-proof-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="when-faster-experiments-still-need-proof-science-lab-poster" target="_blank" rel="sponsored noopener noreferrer">Welcome to the Science Lab Metal Poster Wall Tin Sign Man Cave Shed Home Plaque</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-faster-experiments-still-need-proof-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="when-faster-experiments-still-need-proof-science-lab-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science lab poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: science lab poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-faster-experiments-still-need-proof-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="when-faster-experiments-still-need-proof-science-lab-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-faster-experiments-still-need-proof-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="when-faster-experiments-still-need-proof-science-lab-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Welcome to the Science Lab Metal Poster Wall Tin Sign Man Cave Shed Home Plaque"><img src="https://i.ebayimg.com/images/g/UIAAAeSw7g5onHr9/s-l225.jpg" alt="Listing image for Welcome to the Science Lab Metal Poster Wall Tin Sign Man Cave Shed Home Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-faster-experiments-still-need-proof-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="when-faster-experiments-still-need-proof-science-lab-poster" target="_blank" rel="sponsored noopener noreferrer">Welcome to the Science Lab Metal Poster Wall Tin Sign Man Cave Shed Home Plaque</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-faster-experiments-still-need-proof-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="when-faster-experiments-still-need-proof-science-lab-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science lab poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: science lab poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-faster-experiments-still-need-proof-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="when-faster-experiments-still-need-proof-science-lab-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-faster-experiments-still-need-proof-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="when-faster-experiments-still-need-proof-science-lab-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Science Pun Lab Blinded Me With Sci Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/i1cAAeSwZLVp2SMG/s-l225.jpg" alt="Listing image for Science Pun Lab Blinded Me With Sci Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-faster-experiments-still-need-proof-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="when-faster-experiments-still-need-proof-science-lab-poster" target="_blank" rel="sponsored noopener noreferrer">Science Pun Lab Blinded Me With Sci Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-faster-experiments-still-need-proof-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="when-faster-experiments-still-need-proof-science-lab-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science lab poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: science lab poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-faster-experiments-still-need-proof-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="when-faster-experiments-still-need-proof-science-lab-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-faster-experiments-still-need-proof-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="when-faster-experiments-still-need-proof-science-lab-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-faster-experiments-still-need-proof-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="when-faster-experiments-still-need-proof-science-lab-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Science Pun Lab Blinded Me With Sci Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/i1cAAeSwZLVp2SMG/s-l225.jpg" alt="Listing image for Science Pun Lab Blinded Me With Sci Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-faster-experiments-still-need-proof-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="when-faster-experiments-still-need-proof-science-lab-poster" target="_blank" rel="sponsored noopener noreferrer">Science Pun Lab Blinded Me With Sci Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-faster-experiments-still-need-proof-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="when-faster-experiments-still-need-proof-science-lab-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science lab poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: science lab poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-faster-experiments-still-need-proof-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="when-faster-experiments-still-need-proof-science-lab-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-faster-experiments-still-need-proof-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="when-faster-experiments-still-need-proof-science-lab-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -626,7 +626,7 @@ The real promise of robot laboratories is therefore not merely faster experiment
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -646,7 +646,7 @@ The real promise of robot laboratories is therefore not merely faster experiment
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -678,7 +678,7 @@ The real promise of robot laboratories is therefore not merely faster experiment
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -730,7 +730,7 @@ The real promise of robot laboratories is therefore not merely faster experiment
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -775,7 +775,7 @@ The real promise of robot laboratories is therefore not merely faster experiment
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -816,113 +816,113 @@ The real promise of robot laboratories is therefore not merely faster experiment
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41586-023-06734-w" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-023-06734-w</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>An autonomous laboratory for the accelerated synthesis of...Nov 29, 2023 — Over 17 days of operation, the A-Lab successfully synth...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41586-023-06734-w" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-023-06734-w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An autonomous laboratory for the accelerated synthesis of...Nov 29, 2023 — Over 17 days of operation, the A-Lab successfully synth...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/d41586-023-03956-w" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/d41586-023-03956-w</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Robot chemist sparks row with claim it created new materials12 Dec 2023 — Researchers question whether an AI-controlled lab assista...</p></details>
+   Link:<a href="https://www.nature.com/articles/d41586-023-03956-w" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/d41586-023-03956-w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Robot chemist sparks row with claim it created new materials12 Dec 2023 — Researchers question whether an AI-controlled lab assista...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2508.11406" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2508.11406</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Open, Reproducible and Trustworthy Robot-Based Experiments with Virtual Labs and Digital-Twin-Based Execution TracingAugust 15, 2025...</p></details>
+   Link:<a href="https://arxiv.org/abs/2508.11406" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2508.11406</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Open, Reproducible and Trustworthy Robot-Based Experiments with Virtual Labs and Digital-Twin-Based Execution TracingAugust 15, 2025...</p></details>
    Published: August 15, 2025  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2508.11406v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2508.11406v1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Open, Reproducible and Trustworthy Robot-Based...15 Aug 2025 — We envision a future in which autonomous robots conduct scientific experi...</p></details>
+   Link:<a href="https://arxiv.org/html/2508.11406v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2508.11406v1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Open, Reproducible and Trustworthy Robot-Based...15 Aug 2025 — We envision a future in which autonomous robots conduct scientific experi...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2408.04736" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2408.04736</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Towards Using Multiple Iterated, Reproduced, and Replicated Experiments with Robots (MIRRER) for Evaluation and BenchmarkingAugust 8...</p></details>
+   Link:<a href="https://arxiv.org/abs/2408.04736" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2408.04736</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Towards Using Multiple Iterated, Reproduced, and Replicated Experiments with Robots (MIRRER) for Evaluation and BenchmarkingAugust 8...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41586-024-08173-7" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-024-08173-7</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Autonomous mobile robots for exploratory synthetic chemistryby T Dai · 2024 · Cited by 277 — Here we show that a synthesis laborato...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41586-024-08173-7" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-024-08173-7</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Autonomous mobile robots for exploratory synthetic chemistryby T Dai · 2024 · Cited by 277 — Here we show that a synthesis laborato...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2590238521003064" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2590238521003064</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Autonomous experimentation systems for materials...by E Stach · 2021 · Cited by 392 — This review discusses the specific challenges and...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S2590238521003064" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2590238521003064</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Autonomous experimentation systems for materials...by E Stach · 2021 · Cited by 392 — This review discusses the specific challenges and...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2472555222125396" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2472555222125396</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Achieving Reproducibility and Closed-Loop Automation in...by B Miles · 2018 · Cited by 65 — A robotic cloud laboratory driv...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S2472555222125396" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2472555222125396</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Achieving Reproducibility and Closed-Loop Automation in...by B Miles · 2018 · Cited by 65 — A robotic cloud laboratory driv...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/38030721/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/38030721/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>An autonomous laboratory for the accelerated synthesis of...by NJ Szymanski · 2023 · Cited by 1176 — Over 17 days of continuous op...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/38030721/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/38030721/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An autonomous laboratory for the accelerated synthesis of...by NJ Szymanski · 2023 · Cited by 1176 — Over 17 days of continuous op...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/30045649/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/30045649/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A robotic cloud laboratory driven by a state-of-the-art unified laboratory operating system integrates automated hardware, humans, and se...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/30045649/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/30045649/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A robotic cloud laboratory driven by a state-of-the-art unified laboratory operating system integrates automated hardware, humans, and se...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/Nature/posts/nature-research-paper-an-autonomous-laboratory-for-the-accelerated-synthesis-of-/750532913773352/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Nature/posts/nature-research-paper-an-autonomous-laboratory-for-the-accelerated-synthesis-of-/750532913773352/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nature research paper: An autonomous laboratory for the...Nov 29, 2023 — Over 17 days of continuous operation, the A-Lab realized 41 nov...</p></details>
+   Link:<a href="https://www.facebook.com/Nature/posts/nature-research-paper-an-autonomous-laboratory-for-the-accelerated-synthesis-of-/750532913773352/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Nature/posts/nature-research-paper-an-autonomous-laboratory-for-the-accelerated-synthesis-of-/750532913773352/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nature research paper: An autonomous laboratory for the...Nov 29, 2023 — Over 17 days of continuous operation, the A-Lab realized 41 nov...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/slatestarcodex/comments/1923p07/autonomous_lab_did_not_synthesize_any_new/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/slatestarcodex/comments/1923p07/autonomous_lab_did_not_synthesize_any_new/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Autonomous lab did not synthesize any new materialsThis is a reanalysis of Nature paper An autonomous laboratory for the accelerated synt...</p></details>
+   Link:<a href="https://www.reddit.com/r/slatestarcodex/comments/1923p07/autonomous_lab_did_not_synthesize_any_new/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/slatestarcodex/comments/1923p07/autonomous_lab_did_not_synthesize_any_new/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Autonomous lab did not synthesize any new materialsThis is a reanalysis of Nature paper An autonomous laboratory for the accelerated synt...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/abs/10.1177/2472630318784506?journalCode=jlad" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1177/2472630318784506?journalCode=jlad</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsAchieving Reproducibility and Closed-Loop Automation in...This lab of the future system enables researchers to transparentl...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/abs/10.1177/2472630318784506?journalCode=jlad" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1177/2472630318784506?journalCode=jlad</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsAchieving Reproducibility and Closed-Loop Automation in...This lab of the future system enables researchers to transparentl...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: trilo.bio  
-   Link: <a href="https://www.trilo.bio/self-driving-labs" target="_blank" rel="noopener noreferrer nofollow">https://www.trilo.bio/self-driving-labs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Driving Labs for BiologyA Self-Driving Lab (SDL)—also known as an autonomous lab—is a fully automated biology lab that uses AI to co...</p></details>
+   Link:<a href="https://www.trilo.bio/self-driving-labs" target="_blank" rel="noopener noreferrer nofollow">https://www.trilo.bio/self-driving-labs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Driving Labs for BiologyA Self-Driving Lab (SDL)—also known as an autonomous lab—is a fully automated biology lab that uses AI to co...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: mrs.digitellinc.com  
-   Link: <a href="https://mrs.digitellinc.com/p/s/ds010302-a-lab-an-autonomous-laboratory-for-the-accelerated-synthesis-of-novel-inorganic-materials-44295" target="_blank" rel="noopener noreferrer nofollow">https://mrs.digitellinc.com/p/s/ds010302-a-lab-an-autonomous-laboratory-for-the-accelerated-synthesis-of-novel-inorganic-materials-44295</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>digitellinc.comDS01.03.02: A-Lab—An Autonomous Laboratory for the...Over 17 days of continuous operation, the A-Lab successfully develop...</p></details>
+   Link:<a href="https://mrs.digitellinc.com/p/s/ds010302-a-lab-an-autonomous-laboratory-for-the-accelerated-synthesis-of-novel-inorganic-materials-44295" target="_blank" rel="noopener noreferrer nofollow">https://mrs.digitellinc.com/p/s/ds010302-a-lab-an-autonomous-laboratory-for-the-accelerated-synthesis-of-novel-inorganic-materials-44295</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>digitellinc.comDS01.03.02: A-Lab—An Autonomous Laboratory for the...Over 17 days of continuous operation, the A-Lab successfully develop...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/376043973_An_autonomous_laboratory_for_the_accelerated_synthesis_of_inorganic_materials" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376043973_An_autonomous_laboratory_for_the_accelerated_synthesis_of_inorganic_materials</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>An autonomous laboratory for the accelerated synthesis of...29 Nov 2023 — Analysis of the failed syntheses provides direct and actionabl...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/376043973_An_autonomous_laboratory_for_the_accelerated_synthesis_of_inorganic_materials" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376043973_An_autonomous_laboratory_for_the_accelerated_synthesis_of_inorganic_materials</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An autonomous laboratory for the accelerated synthesis of...29 Nov 2023 — Analysis of the failed syntheses provides direct and actionabl...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: dim-materre.fr  
    Title: an autonomous laboratory for the accelerated synthesis of novel materials  
-   Link: <a href="https://www.dim-materre.fr/en/publications/an-autonomous-laboratory-for-the-accelerated-synthesis-of-novel-materials/" target="_blank" rel="noopener noreferrer nofollow">https://www.dim-materre.fr/en/publications/an-autonomous-laboratory-for-the-accelerated-synthesis-of-novel-materials/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>An autonomous laboratory for the accelerated synthesis of...Nov 29, 2023 — Over 17 days of continuous operation, the A-Lab realized 41 n...</p></details>
+   Link:<a href="https://www.dim-materre.fr/en/publications/an-autonomous-laboratory-for-the-accelerated-synthesis-of-novel-materials/" target="_blank" rel="noopener noreferrer nofollow">https://www.dim-materre.fr/en/publications/an-autonomous-laboratory-for-the-accelerated-synthesis-of-novel-materials/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An autonomous laboratory for the accelerated synthesis of...Nov 29, 2023 — Over 17 days of continuous operation, the A-Lab realized 41 n...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: scinomix.com  
    Title: achieving scientific reproducibility with laboratory automation systems  
-   Link: <a href="https://scinomix.com/news/achieving-scientific-reproducibility-with-laboratory-automation-systems" target="_blank" rel="noopener noreferrer nofollow">https://scinomix.com/news/achieving-scientific-reproducibility-with-laboratory-automation-systems</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Achieving Scientific Reproducibility with Laboratory...18 Mar 2024 — Laboratory automation systems are useful tools to achieve scientifi...</p></details>
+   Link:<a href="https://scinomix.com/news/achieving-scientific-reproducibility-with-laboratory-automation-systems" target="_blank" rel="noopener noreferrer nofollow">https://scinomix.com/news/achieving-scientific-reproducibility-with-laboratory-automation-systems</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Achieving Scientific Reproducibility with Laboratory...18 Mar 2024 — Laboratory automation systems are useful tools to achieve scientifi...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: oaepublish.com  
-   Link: <a href="https://www.oaepublish.com/articles/cs.2025.66" target="_blank" rel="noopener noreferrer nofollow">https://www.oaepublish.com/articles/cs.2025.66</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Artificial [intelligence](&amp;#123;&amp;#123; &#x27;intelligence/&#x27; | relative_url &amp;#125;&amp;#125;)-driven autonomous laboratory for...Sep 17, 2025 — Over 17 days of continuous operation, A-Lab synthesized 41 of...</p></details>
+   Link:<a href="https://www.oaepublish.com/articles/cs.2025.66" target="_blank" rel="noopener noreferrer nofollow">https://www.oaepublish.com/articles/cs.2025.66</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Artificial [intelligence](&amp;#123;&amp;#123; &#x27;intelligence/&#x27; | relative_url &amp;#125;&amp;#125;)-driven autonomous laboratory for...Sep 17, 2025 — Over 17 days of continuous operation, A-Lab synthesized 41 of...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/research-topics/79036/autonomous-and-automated-laboratories-for-closed-loop-drug-discoveryundefined" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/research-topics/79036/autonomous-and-automated-laboratories-for-closed-loop-drug-discoveryundefined</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>d strategies that enable closed-loop experimentation spanning robotic sample...Read more...</p></details>
+   Link:<a href="https://www.frontiersin.org/research-topics/79036/autonomous-and-automated-laboratories-for-closed-loop-drug-discoveryundefined" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/research-topics/79036/autonomous-and-automated-laboratories-for-closed-loop-drug-discoveryundefined</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>d strategies that enable closed-loop experimentation spanning robotic sample...Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: ceder.berkeley.edu  
    Title: [a lab](&#123;&#123; 'a-lab/' | relative_url &#125;&#125;) paper published in nature featured in news story  
-   Link: <a href="https://ceder.berkeley.edu/news/a-lab-paper-published-in-nature-featured-in-news-story/" target="_blank" rel="noopener noreferrer nofollow">https://ceder.berkeley.edu/news/a-lab-paper-published-in-nature-featured-in-news-story/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>materials discovery (GNoME) to synthesize 41 new inorganic materials in 17 days. Both A-lab and GNoME scientific papers were published in...</p></details>
+   Link:<a href="https://ceder.berkeley.edu/news/a-lab-paper-published-in-nature-featured-in-news-story/" target="_blank" rel="noopener noreferrer nofollow">https://ceder.berkeley.edu/news/a-lab-paper-published-in-nature-featured-in-news-story/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>materials discovery (GNoME) to synthesize 41 new inorganic materials in 17 days. Both A-lab and GNoME scientific papers were published in...</p></details>

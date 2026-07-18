@@ -272,7 +272,7 @@ image: /assets/images/AI_Bloom_Abun_98d3a6_ai_medicine_l_7c4177_alphafold_lim_d2
 AlphaFold is often presented as a landmark example of AI accelerating science. It can predict the three-dimensional structures of many proteins with striking accuracy, helping researchers explore biology far faster than before. Yet some of the most medically important proteins expose a fundamental limit in that success story: they do not settle into a single stable shape at all.
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_medicine_l_7c4177_alphafold_lim_d2f652_disordered_pr_988a8d-Illustration-1-dark.svg" | relative_url }}" alt="Disorder illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_medicine_l_7c4177_alphafold_lim_d2f652_disordered_pr_988a8d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_medicine_l_7c4177_alphafold_lim_d2f652_disordered_pr_988a8d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-These molecules are known as intrinsically disordered proteins, or proteins with intrinsically disordered regions. Rather than behaving like rigid molecular machines, they shift between many conformations, changing shape depending on their environment and interaction partners. That flexibility is not a minor exception. Disordered regions are common in human biology and are heavily involved in gene regulation, signalling, ageing, neurodegeneration and cancer. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10782001/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Comparative evaluation of AlphaFold2 and disorder predictors...by B Zhao · 2023 · Cited by 45 — Intrinsically disordered proteins (ID...</span></span></span>
+These molecules are known as intrinsically disordered proteins, or proteins with intrinsically disordered regions. Rather than behaving like rigid molecular machines, they shift between many conformations, changing shape depending on their environment and interaction partners. That flexibility is not a minor exception. Disordered regions are common in human biology and are heavily involved in gene regulation, signalling, ageing, neurodegeneration and cancer.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10782001/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Comparative evaluation of AlphaFold2 and disorder predictors...by B Zhao · 2023 · Cited by 45 — Intrinsically disordered proteins (ID...</span></span></span>
 
 For AlphaFold, they function as a stress test. The system was built around predicting structure, but some biologically important proteins are defined precisely by the absence of one fixed structure. Understanding where AlphaFold struggles helps clarify both the promise and the limits of AI-driven scientific acceleration. It shows that some of biology's hardest problems are not merely questions of computing [power]({{ 'power/' | relative_url }}), but questions about how living systems remain dynamic, context-dependent and constantly in motion.
 
@@ -280,7 +280,7 @@ For AlphaFold, they function as a stress test. The system was built around predi
 
 Traditional structural biology often treats proteins as objects that fold into a specific three-dimensional arrangement. That picture works well for many enzymes and structural proteins. Their function depends on maintaining a relatively stable shape.
 
-Intrinsically disordered proteins (IDPs) and intrinsically disordered regions (IDRs) are different. Under normal physiological conditions, they do not adopt a single long-lived structure. Instead, they exist as shifting ensembles of possible conformations. The protein may briefly sample one arrangement before moving to another, with no single configuration dominating. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10622901/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Systematic identification of conditionally folded intrinsically...by TR Alderson · 2023 · Cited by 246 — We found that AlphaFold2 can...</span></span></span>
+Intrinsically disordered proteins (IDPs) and intrinsically disordered regions (IDRs) are different. Under normal physiological conditions, they do not adopt a single long-lived structure. Instead, they exist as shifting ensembles of possible conformations. The protein may briefly sample one arrangement before moving to another, with no single configuration dominating.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10622901/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Systematic identification of conditionally folded intrinsically...by TR Alderson · 2023 · Cited by 246 — We found that AlphaFold2 can...</span></span></span>
 
 This apparent disorder is not necessarily a defect. Evolution has repeatedly preserved these flexible regions because they can perform tasks that rigid proteins struggle to accomplish. Their flexibility allows them to:
 
@@ -290,11 +290,11 @@ This apparent disorder is not necessarily a defect. Evolution has repeatedly pre
 * Act as signalling hubs inside cells.
 * Switch behaviour depending on cellular conditions.
 * Assemble and disassemble regulatory complexes rapidly.
-* Participate in phase separation, where biomolecules form temporary droplet-like compartments within cells. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12956938/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Advantages and Limitations of AlphaFold in Structural Biologyby MQC Li · 2025 · Cited by 7 — However, AlphaFold also exhibits intrinsi...</span></span></span>
+* Participate in phase separation, where biomolecules form temporary droplet-like compartments within cells.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12956938/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Advantages and Limitations of AlphaFold in Structural Biologyby MQC Li · 2025 · Cited by 7 — However, AlphaFold also exhibits intrinsi...</span></span></span>
 
 </div>
 
-Large fractions of the eukaryotic proteome contain substantial disordered regions. Estimates commonly suggest that roughly one-third of eukaryotic proteins contain long intrinsically disordered segments. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9104326/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">AlphaFold2: A Role for Disordered Protein/Region Prediction?by CJ Wilson · 2022 · Cited by 183 — We assess the ability of AlphaFold2 t...</span></span></span>
+Large fractions of the eukaryotic proteome contain substantial disordered regions. Estimates commonly suggest that roughly one-third of eukaryotic proteins contain long intrinsically disordered segments.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9104326/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">AlphaFold2: A Role for Disordered Protein/Region Prediction?by CJ Wilson · 2022 · Cited by 183 — We assess the ability of AlphaFold2 t...</span></span></span>
 
 For a system like AlphaFold, that creates an unusual challenge. Predicting a single stable structure is no longer the right objective if biological reality is a constantly changing ensemble.
 
@@ -304,13 +304,13 @@ For a system like AlphaFold, that creates an unusual challenge. Predicting a sin
 
 The importance of disordered proteins becomes clearer when looking at diseases associated with ageing.
 
-Many neurodegenerative disorders involve proteins that are either intrinsically disordered or contain large disordered regions. Proteins associated with Alzheimer's disease, Parkinson's disease, Huntington's disease and related disorders can transition from flexible states into pathological aggregates. The disease process often depends less on one stable structure than on a complicated landscape of transient intermediates, misfolded assemblies and self-organising aggregates. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0022283621002771" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">AlphaFold and the amyloid landscapeby F Pinheiro · 2021 · Cited by 95 — In this review, we discuss the applications and limi...</span></span></span>
+Many neurodegenerative disorders involve proteins that are either intrinsically disordered or contain large disordered regions. Proteins associated with Alzheimer's disease, Parkinson's disease, Huntington's disease and related disorders can transition from flexible states into pathological aggregates. The disease process often depends less on one stable structure than on a complicated landscape of transient intermediates, misfolded assemblies and self-organising aggregates.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0022283621002771" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">AlphaFold and the amyloid landscapeby F Pinheiro · 2021 · Cited by 95 — In this review, we discuss the applications and limi...</span></span></span>
 
 This is one reason why protein prediction alone does not solve neurodegeneration. A static model may capture a plausible configuration, yet the disease may emerge from rare conformations, aggregation pathways or dynamic interactions that occur over time.
 
-Disordered proteins also appear throughout cancer biology. Many transcription factors, signalling proteins and regulatory hubs contain substantial disordered regions. These flexible segments help coordinate cellular decisions, but they can also become points of failure when mutations alter signalling networks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9601767/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">AlphaFold‐pLDDT uses 1 ‐ pLDDT as output.Read more...</span></span></span>
+Disordered proteins also appear throughout cancer biology. Many transcription factors, signalling proteins and regulatory hubs contain substantial disordered regions. These flexible segments help coordinate cellular decisions, but they can also become points of failure when mutations alter signalling networks.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9601767/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">AlphaFold‐pLDDT uses 1 ‐ pLDDT as output.Read more...</span></span></span>
 
-Ageing itself increasingly appears connected to failures in protein quality [control]({{ 'control/' | relative_url }}), aggregation management and cellular regulation. Since intrinsically disordered proteins are deeply involved in these processes, understanding them could be important for any future effort to extend healthy lifespan or reduce age-related disease burden. Yet they are precisely the class of proteins least amenable to simple structure prediction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2412.19875" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Ageing itself increasingly appears connected to failures in protein quality [control]({{ 'control/' | relative_url }}), aggregation management and cellular regulation. Since intrinsically disordered proteins are deeply involved in these processes, understanding them could be important for any future effort to extend healthy lifespan or reduce age-related disease burden. Yet they are precisely the class of proteins least amenable to simple structure prediction.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2412.19875" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 This creates a useful reality check for broader claims about AI-enabled [longevity]({{ 'longevity/' | relative_url }}). Accelerating structural biology is valuable, but some of the proteins most relevant to ageing are difficult because they are not static objects waiting to be mapped. They are dynamic systems whose behaviour depends on motion, context and interaction.
 
@@ -318,26 +318,26 @@ This creates a useful reality check for broader claims about AI-enabled [longevi
 
 ## Why AlphaFold struggles with disorder
 
-AlphaFold's achievement was extraordinary because it learned statistical relationships between amino-acid sequences and experimentally determined structures. In many cases, it can predict a protein's folded state with accuracy approaching laboratory methods. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41467-026-69172-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Atomic resolution ensembles of intrinsically disordered...by V Schnapka · 2026 · Cited by 17 — Intrinsically disordered proteins are ubi...</span></span></span>
+AlphaFold's achievement was extraordinary because it learned statistical relationships between amino-acid sequences and experimentally determined structures. In many cases, it can predict a protein's folded state with accuracy approaching laboratory methods.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41467-026-69172-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Atomic resolution ensembles of intrinsically disordered...by V Schnapka · 2026 · Cited by 17 — Intrinsically disordered proteins are ubi...</span></span></span>
 
 The problem is that intrinsically disordered proteins do not necessarily possess one dominant folded state.
 
-Researchers studying AlphaFold and disorder have repeatedly noted that the system's strongest predictions occur when a protein resembles the kinds of folded structures that dominate structural databases. When proteins remain highly dynamic, the prediction problem changes fundamentally. ScienceDirect <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9601767/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[EMBL-EBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">AlphaFold‐pLDDT uses 1 ‐ pLDDT as output.Read more...</span></span></span>
+Researchers studying AlphaFold and disorder have repeatedly noted that the system's strongest predictions occur when a protein resembles the kinds of folded structures that dominate structural databases. When proteins remain highly dynamic, the prediction problem changes fundamentally. ScienceDirect<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9601767/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[EMBL-EBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">AlphaFold‐pLDDT uses 1 ‐ pLDDT as output.Read more...</span></span></span>
 
 A useful analogy is the difference between predicting the shape of a building and predicting the movements of a crowd. A building has a stable geometry. A crowd constantly rearranges itself. The challenge is no longer identifying a single correct configuration but characterising a distribution of possibilities.
 
-This limitation appears throughout the AlphaFold literature. Reviews of the system consistently identify intrinsically disordered regions as one of the major remaining weaknesses of current structure-prediction approaches. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1007/s10930-025-10310-8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Springer LinkAdvantages and Limitations of AlphaFold in Structural Biologyby MQC Li · 2025 · Cited by 2 — A key limitation is AlphaFold&#x27;s...</span></span></span>
+This limitation appears throughout the AlphaFold literature. Reviews of the system consistently identify intrinsically disordered regions as one of the major remaining weaknesses of current structure-prediction approaches. PMC<span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1007/s10930-025-10310-8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Springer LinkAdvantages and Limitations of AlphaFold in Structural Biologyby MQC Li · 2025 · Cited by 2 — A key limitation is AlphaFold&#x27;s...</span></span></span>
 
-Even AlphaFold's own educational materials emphasise that the system cannot truly predict dynamic substructures that lack a fixed natural conformation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9601767/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[EMBL-EBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">AlphaFold‐pLDDT uses 1 ‐ pLDDT as output.Read more...</span></span></span>
+Even AlphaFold's own educational materials emphasise that the system cannot truly predict dynamic substructures that lack a fixed natural conformation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9601767/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[EMBL-EBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">AlphaFold‐pLDDT uses 1 ‐ pLDDT as output.Read more...</span></span></span>
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_medicine_l_7c4177_alphafold_lim_d2f652_disordered_pr_988a8d-Illustration-2-dark.svg" | relative_url }}" alt="Disorder illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_medicine_l_7c4177_alphafold_lim_d2f652_disordered_pr_988a8d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_medicine_l_7c4177_alphafold_lim_d2f652_disordered_pr_988a8d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What confidence scores can and cannot tell us
 
 One reason AlphaFold remains useful despite these limitations is that it usually signals when it is uncertain.
 
-The system produces a confidence measure known as pLDDT, or predicted Local Distance Difference Test. Higher scores generally indicate greater confidence that the predicted local structure is accurate. Lower scores indicate uncertainty. Nature <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9601767/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[EMBL-EBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">AlphaFold‐pLDDT uses 1 ‐ pLDDT as output.Read more...</span></span></span>
+The system produces a confidence measure known as pLDDT, or predicted Local Distance Difference Test. Higher scores generally indicate greater confidence that the predicted local structure is accurate. Lower scores indicate uncertainty. Nature<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9601767/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[EMBL-EBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">AlphaFold‐pLDDT uses 1 ‐ pLDDT as output.Read more...</span></span></span>
 
-In practice, many intrinsically disordered regions receive low confidence scores. Researchers quickly realised that this behaviour could itself be informative. Instead of viewing low-confidence regions purely as failures, scientists began using them as clues that a protein might contain disorder. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10782001/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Comparative evaluation of AlphaFold2 and disorder predictors...by B Zhao · 2023 · Cited by 45 — Intrinsically disordered proteins (ID...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10622901/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Systematic identification of conditionally folded intrinsically...by TR Alderson · 2023 · Cited by 246 — We found that AlphaFold2 can...</span></span></span>
+In practice, many intrinsically disordered regions receive low confidence scores. Researchers quickly realised that this behaviour could itself be informative. Instead of viewing low-confidence regions purely as failures, scientists began using them as clues that a protein might contain disorder.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10782001/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Comparative evaluation of AlphaFold2 and disorder predictors...by B Zhao · 2023 · Cited by 45 — Intrinsically disordered proteins (ID...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10622901/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Systematic identification of conditionally folded intrinsically...by TR Alderson · 2023 · Cited by 246 — We found that AlphaFold2 can...</span></span></span>
 
 However, an important distinction is often lost in public discussions.
 
@@ -347,14 +347,14 @@ A low pLDDT score can reflect several possibilities:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* The region may genuinely be intrinsically disordered. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10782001/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[pmc.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Comparative evaluation of AlphaFold2 and disorder predictors...by B Zhao · 2023 · Cited by 45 — Intrinsically disordered proteins (ID...</span></span></span>
+* The region may genuinely be intrinsically disordered.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10782001/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[pmc.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Comparative evaluation of AlphaFold2 and disorder predictors...by B Zhao · 2023 · Cited by 45 — Intrinsically disordered proteins (ID...</span></span></span>
 * The protein may adopt multiple conformations.
 * The system may lack sufficient evolutionary information.
-* The model may simply be uncertain for other technical reasons. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9601767/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[EMBL-EBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">AlphaFold‐pLDDT uses 1 ‐ pLDDT as output.Read more...</span></span></span>
+* The model may simply be uncertain for other technical reasons.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9601767/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[EMBL-EBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">AlphaFold‐pLDDT uses 1 ‐ pLDDT as output.Read more...</span></span></span>
 
 </div>
 
-The reverse problem also exists. Some disordered regions can occasionally receive predictions that appear more structured than biological experiments would suggest. Researchers have found cases where AlphaFold identifies conditionally folded regions that become structured only in specific contexts or interactions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12956938/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Advantages and Limitations of AlphaFold in Structural Biologyby MQC Li · 2025 · Cited by 7 — However, AlphaFold also exhibits intrinsi...</span></span></span>
+The reverse problem also exists. Some disordered regions can occasionally receive predictions that appear more structured than biological experiments would suggest. Researchers have found cases where AlphaFold identifies conditionally folded regions that become structured only in specific contexts or interactions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12956938/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Advantages and Limitations of AlphaFold in Structural Biologyby MQC Li · 2025 · Cited by 7 — However, AlphaFold also exhibits intrinsi...</span></span></span>
 
 This means confidence scores are useful indicators rather than definitive answers. They help researchers identify where caution is required, but they do not replace experimental evidence.
 
@@ -364,9 +364,9 @@ This means confidence scores are useful indicators rather than definitive answer
 
 The story is not simply one of failure.
 
-Researchers have discovered that AlphaFold can sometimes reveal important information about disorder precisely because it was not designed as a disorder predictor. Studies comparing AlphaFold outputs with specialised disorder-prediction methods found that the system can often discriminate between ordered and disordered regions surprisingly well. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9104326/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">AlphaFold2: A Role for Disordered Protein/Region Prediction?by CJ Wilson · 2022 · Cited by 183 — We assess the ability of AlphaFold2 t...</span></span></span>
+Researchers have discovered that AlphaFold can sometimes reveal important information about disorder precisely because it was not designed as a disorder predictor. Studies comparing AlphaFold outputs with specialised disorder-prediction methods found that the system can often discriminate between ordered and disordered regions surprisingly well.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9104326/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">AlphaFold2: A Role for Disordered Protein/Region Prediction?by CJ Wilson · 2022 · Cited by 183 — We assess the ability of AlphaFold2 t...</span></span></span>
 
-Some apparently disordered regions also undergo what is known as conditional folding. They remain flexible in isolation but adopt more defined structures when interacting with other molecules or when placed in specific cellular environments. AlphaFold occasionally captures hints of this behaviour. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9601767/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">AlphaFold‐pLDDT uses 1 ‐ pLDDT as output.Read more...</span></span></span>
+Some apparently disordered regions also undergo what is known as conditional folding. They remain flexible in isolation but adopt more defined structures when interacting with other molecules or when placed in specific cellular environments. AlphaFold occasionally captures hints of this behaviour.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9601767/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">AlphaFold‐pLDDT uses 1 ‐ pLDDT as output.Read more...</span></span></span>
 
 That creates an interesting scientific opportunity. Instead of treating every low-confidence prediction as useless, researchers can use AlphaFold outputs as hypotheses about where disorder exists, where conditional structure might emerge, and where laboratory investigation should focus next.
 
@@ -376,7 +376,7 @@ In this sense, the system still accelerates research. It does not solve the diso
 
 The broader significance extends beyond protein science.
 
-AlphaFold is frequently cited as evidence that AI could accelerate [discovery]({{ 'discovery/' | relative_url }}), improve medicine and contribute to a future of greater health and abundance. The achievement genuinely supports that possibility. A major scientific bottleneck became substantially easier to navigate, and researchers worldwide gained access to structural predictions that would previously have required immense resources. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.embl.org/news/science/alphafold-potential-impacts/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: embl.org">[EMBL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">embl.org</span><span class="citation-popover-title">alphafold potential impacts</span><span class="citation-popover-snippet">Great expectations – the potential impacts of AlphaFold DBJul 22, 2021 — A discussion of the applications that AlphaFold DB may enabl...</span></span></span>
+AlphaFold is frequently cited as evidence that AI could accelerate [discovery]({{ 'discovery/' | relative_url }}), improve medicine and contribute to a future of greater health and abundance. The achievement genuinely supports that possibility. A major scientific bottleneck became substantially easier to navigate, and researchers worldwide gained access to structural predictions that would previously have required immense resources.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.embl.org/news/science/alphafold-potential-impacts/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: embl.org">[EMBL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">embl.org</span><span class="citation-popover-title">alphafold potential impacts</span><span class="citation-popover-snippet">Great expectations – the potential impacts of AlphaFold DBJul 22, 2021 — A discussion of the applications that AlphaFold DB may enabl...</span></span></span>
 
 Yet intrinsically disordered proteins reveal why scientific acceleration should not be confused with scientific completion.
 
@@ -391,7 +391,7 @@ For advocates of an AI-enabled human bloom, this distinction matters. Progress i
 
 The challenge posed by disorder is already influencing the next generation of computational biology.
 
-Researchers are increasingly exploring methods that predict structural ensembles rather than single structures. Instead of asking what shape a protein has, these approaches ask what range of shapes it can adopt and how often each state occurs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41594-022-00849-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">We benchmarked AF2...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-021-03819-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Highly accurate protein structure prediction with AlphaFoldby J Jumper · 2021 · Cited by 50273 — The AlphaFold network directly pre...</span></span></span>
+Researchers are increasingly exploring methods that predict structural ensembles rather than single structures. Instead of asking what shape a protein has, these approaches ask what range of shapes it can adopt and how often each state occurs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41594-022-00849-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">We benchmarked AF2...Read more...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-021-03819-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Highly accurate protein structure prediction with AlphaFoldby J Jumper · 2021 · Cited by 50273 — The AlphaFold network directly pre...</span></span></span>
 
 That shift reflects a deeper change in how biology is modelled. Living systems are not collections of static molecular sculptures. They are networks of interacting molecules moving through fluctuating states.
 
@@ -400,162 +400,162 @@ If future AI systems become dramatically better at representing those dynamics, 
 Intrinsically disordered proteins therefore serve as a useful stress test for the entire AI-for-biology project. They mark the boundary where today's remarkable successes encounter some of life's most stubborn complexity. The fact that this boundary still exists does not weaken the case for AI-driven scientific acceleration. It clarifies what remains to be solved.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The proteins that do not hold still. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The proteins that do not hold still. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Life%27s+Edge+by+Carl+Zimmer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Life&#x27;s Edge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=88UOEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Life&#x27;s Edge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Life%27s+Edge+by+Carl+Zimmer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Life&#x27;s Edge">Life&#x27;s Edge</a>
-        </h4>
-        <p class="fr-book-author">By Carl Zimmer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Life%27s+Edge+by+Carl+Zimmer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Life&#x27;s Edge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=88UOEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Life&#x27;s Edge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Life%27s+Edge+by+Carl+Zimmer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Life&#x27;s Edge">Life&#x27;s Edge</a>
+</h4>
+<p class="fr-book-author">By Carl Zimmer</p>
         
-        <p class="fr-book-desc">Best broad fit for explaining living systems as dynamic and hard to reduce to fixed structures.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Life%27s+Edge+by+Carl+Zimmer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Best broad fit for explaining living systems as dynamic and hard to reduce to fixed structures.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Life%27s+Edge+by+Carl+Zimmer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Song+of+the+Cell+by+Siddhartha+Mukherjee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Song of the Cell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=E-AnEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Song of the Cell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Song+of+the+Cell+by+Siddhartha+Mukherjee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Song of the Cell">The Song of the Cell</a>
-        </h4>
-        <p class="fr-book-author">By Siddhartha Mukherjee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Song+of+the+Cell+by+Siddhartha+Mukherjee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Song of the Cell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=E-AnEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Song of the Cell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Song+of+the+Cell+by+Siddhartha+Mukherjee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Song of the Cell">The Song of the Cell</a>
+</h4>
+<p class="fr-book-author">By Siddhartha Mukherjee</p>
         
-        <p class="fr-book-desc">Shows why proteins operate inside complex cellular environments rather than as isolated objects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Song+of+the+Cell+by+Siddhartha+Mukherjee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows why proteins operate inside complex cellular environments rather than as isolated objects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Song+of+the+Cell+by+Siddhartha+Mukherjee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Gene+by+Siddhartha+Mukherjee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Gene on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aF29DgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Gene" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Gene+by+Siddhartha+Mukherjee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Gene">The Gene</a>
-        </h4>
-        <p class="fr-book-author">By Siddhartha Mukherjee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Gene+by+Siddhartha+Mukherjee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Gene on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aF29DgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Gene" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Gene+by+Siddhartha+Mukherjee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Gene">The Gene</a>
+</h4>
+<p class="fr-book-author">By Siddhartha Mukherjee</p>
         
-        <p class="fr-book-desc">Provides biological context for regulation, signalling and disease mechanisms involving proteins.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Gene+by+Siddhartha+Mukherjee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides biological context for regulation, signalling and disease mechanisms involving proteins.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Gene+by+Siddhartha+Mukherjee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Transformer+by+Nick+Lane&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Transformer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Tf-sDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Transformer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Transformer+by+Nick+Lane&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Transformer">Transformer</a>
-        </h4>
-        <p class="fr-book-author">By Nick Lane</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Transformer+by+Nick+Lane&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Transformer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Tf-sDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Transformer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Transformer+by+Nick+Lane&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Transformer">Transformer</a>
+</h4>
+<p class="fr-book-author">By Nick Lane</p>
         
-        <p class="fr-book-desc">Explains metabolism and molecular dynamism relevant to proteins that do not behave like fixed machines.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Transformer+by+Nick+Lane&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains metabolism and molecular dynamism relevant to proteins that do not behave like fixed machines.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Transformer+by+Nick+Lane&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Life%27s+Edge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Life&#x27;s Edge</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Song+of+the+Cell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Song of the Cell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Gene&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Gene</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Life%27s+Edge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Life&#x27;s Edge</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Song+of+the+Cell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Song of the Cell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Gene&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Gene</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=protein+structure+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-proteins-that-do-not-hold-still-protein-structure-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="protein structure poster" data-ebay-reference="the-proteins-that-do-not-hold-still-protein-structure-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lysozyme protein structure Framed A Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/iYkAAeSwjOxp1Txt/s-l225.jpg" alt="Listing image for Lysozyme protein structure Framed A Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=protein+structure+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-proteins-that-do-not-hold-still-protein-structure-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="protein structure poster" data-ebay-reference="the-proteins-that-do-not-hold-still-protein-structure-poster" target="_blank" rel="sponsored noopener noreferrer">Lysozyme protein structure Framed A Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=protein+structure+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-proteins-that-do-not-hold-still-protein-structure-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="protein structure poster" data-ebay-reference="the-proteins-that-do-not-hold-still-protein-structure-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for protein structure poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: protein structure poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=protein+structure+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-proteins-that-do-not-hold-still-protein-structure-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="protein structure poster" data-ebay-reference="the-proteins-that-do-not-hold-still-protein-structure-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=protein+structure+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-proteins-that-do-not-hold-still-protein-structure-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="protein structure poster" data-ebay-reference="the-proteins-that-do-not-hold-still-protein-structure-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lysozyme protein structure Framed A Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/iYkAAeSwjOxp1Txt/s-l225.jpg" alt="Listing image for Lysozyme protein structure Framed A Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=protein+structure+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-proteins-that-do-not-hold-still-protein-structure-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="protein structure poster" data-ebay-reference="the-proteins-that-do-not-hold-still-protein-structure-poster" target="_blank" rel="sponsored noopener noreferrer">Lysozyme protein structure Framed A Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=protein+structure+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-proteins-that-do-not-hold-still-protein-structure-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="protein structure poster" data-ebay-reference="the-proteins-that-do-not-hold-still-protein-structure-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for protein structure poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: protein structure poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=protein+structure+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-proteins-that-do-not-hold-still-protein-structure-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="protein structure poster" data-ebay-reference="the-proteins-that-do-not-hold-still-protein-structure-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=protein+structure+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-proteins-that-do-not-hold-still-protein-structure-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="protein structure poster" data-ebay-reference="the-proteins-that-do-not-hold-still-protein-structure-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lysozyme protein structure Framed A Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/lFUAAeSwU9Bp1~cr/s-l225.jpg" alt="Listing image for Lysozyme protein structure Framed A Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=protein+structure+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-proteins-that-do-not-hold-still-protein-structure-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="protein structure poster" data-ebay-reference="the-proteins-that-do-not-hold-still-protein-structure-poster" target="_blank" rel="sponsored noopener noreferrer">Lysozyme protein structure Framed A Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=protein+structure+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-proteins-that-do-not-hold-still-protein-structure-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="protein structure poster" data-ebay-reference="the-proteins-that-do-not-hold-still-protein-structure-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for protein structure poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: protein structure poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=protein+structure+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-proteins-that-do-not-hold-still-protein-structure-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="protein structure poster" data-ebay-reference="the-proteins-that-do-not-hold-still-protein-structure-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=protein+structure+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-proteins-that-do-not-hold-still-protein-structure-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="protein structure poster" data-ebay-reference="the-proteins-that-do-not-hold-still-protein-structure-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=protein+structure+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-proteins-that-do-not-hold-still-protein-structure-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="protein structure poster" data-ebay-reference="the-proteins-that-do-not-hold-still-protein-structure-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lysozyme protein structure Framed A Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/lFUAAeSwU9Bp1~cr/s-l225.jpg" alt="Listing image for Lysozyme protein structure Framed A Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=protein+structure+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-proteins-that-do-not-hold-still-protein-structure-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="protein structure poster" data-ebay-reference="the-proteins-that-do-not-hold-still-protein-structure-poster" target="_blank" rel="sponsored noopener noreferrer">Lysozyme protein structure Framed A Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=protein+structure+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-proteins-that-do-not-hold-still-protein-structure-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="protein structure poster" data-ebay-reference="the-proteins-that-do-not-hold-still-protein-structure-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for protein structure poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: protein structure poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=protein+structure+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-proteins-that-do-not-hold-still-protein-structure-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="protein structure poster" data-ebay-reference="the-proteins-that-do-not-hold-still-protein-structure-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=protein+structure+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-proteins-that-do-not-hold-still-protein-structure-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="protein structure poster" data-ebay-reference="the-proteins-that-do-not-hold-still-protein-structure-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -571,7 +571,7 @@ Intrinsically disordered proteins therefore serve as a useful stress test for th
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -591,7 +591,7 @@ Intrinsically disordered proteins therefore serve as a useful stress test for th
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -623,7 +623,7 @@ Intrinsically disordered proteins therefore serve as a useful stress test for th
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -675,7 +675,7 @@ Intrinsically disordered proteins therefore serve as a useful stress test for th
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -720,7 +720,7 @@ Intrinsically disordered proteins therefore serve as a useful stress test for th
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -761,194 +761,194 @@ Intrinsically disordered proteins therefore serve as a useful stress test for th
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10782001/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10782001/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Comparative evaluation of AlphaFold2 and disorder predictors...by B Zhao · 2023 · Cited by 45 — Intrinsically disordered proteins (ID...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10782001/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10782001/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Comparative evaluation of AlphaFold2 and disorder predictors...by B Zhao · 2023 · Cited by 45 — Intrinsically disordered proteins (ID...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41467-026-69172-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41467-026-69172-y</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Atomic resolution ensembles of intrinsically disordered...by V Schnapka · 2026 · Cited by 17 — Intrinsically disordered proteins are ubi...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41467-026-69172-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41467-026-69172-y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Atomic resolution ensembles of intrinsically disordered...by V Schnapka · 2026 · Cited by 17 — Intrinsically disordered proteins are ubi...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2412.19875" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2412.19875</a>  
+   Link:<a href="https://arxiv.org/abs/2412.19875" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2412.19875</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41594-022-00849-w" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41594-022-00849-w</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>We benchmarked AF2...Read more...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41594-022-00849-w" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41594-022-00849-w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>We benchmarked AF2...Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0022283621002771" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0022283621002771</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AlphaFold and the amyloid landscapeby F Pinheiro · 2021 · Cited by 95 — In this review, we discuss the applications and limi...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0022283621002771" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0022283621002771</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AlphaFold and the amyloid landscapeby F Pinheiro · 2021 · Cited by 95 — In this review, we discuss the applications and limi...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10622901/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10622901/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Systematic identification of conditionally folded intrinsically...by TR Alderson · 2023 · Cited by 246 — We found that AlphaFold2 can...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10622901/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10622901/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Systematic identification of conditionally folded intrinsically...by TR Alderson · 2023 · Cited by 246 — We found that AlphaFold2 can...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41586-021-03819-2" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-021-03819-2</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Highly accurate protein structure prediction with AlphaFoldby J Jumper · 2021 · Cited by 50273 — The AlphaFold network directly pre...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41586-021-03819-2" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-021-03819-2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Highly accurate protein structure prediction with AlphaFoldby J Jumper · 2021 · Cited by 50273 — The AlphaFold network directly pre...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41586-021-03828-1" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-021-03828-1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Highly accurate protein structure prediction for the human...by K Tunyasuvunakool · 2021 · Cited by 3326 — To this end, AlphaFold...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41586-021-03828-1" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-021-03828-1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Highly accurate protein structure prediction for the human...by K Tunyasuvunakool · 2021 · Cited by 3326 — To this end, AlphaFold...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0022283621004411" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0022283621004411</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AlphaFold and Implications for Intrinsically Disordered...by KM Ruff · 2021 · Cited by 742 — AlphaFold, a deep learning-bas...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0022283621004411" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0022283621004411</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AlphaFold and Implications for Intrinsically Disordered...by KM Ruff · 2021 · Cited by 742 — AlphaFold, a deep learning-bas...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: ebi.ac.uk  
    Title: strengths and limitations of alphafold  
-   Link: <a href="https://www.ebi.ac.uk/training/online/courses/alphafold/an-introductory-guide-to-its-strengths-and-limitations/strengths-and-limitations-of-alphafold/" target="_blank" rel="noopener noreferrer nofollow">https://www.ebi.ac.uk/training/online/courses/alphafold/an-introductory-guide-to-its-strengths-and-limitations/strengths-and-limitations-of-alphafold/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>EMBL-EBIStrengths and limitations of AlphaFold 25 Jan 2024 — AlphaFold2 can be used to identify intrinsically disordered regions. Natural...</p></details>
+   Link:<a href="https://www.ebi.ac.uk/training/online/courses/alphafold/an-introductory-guide-to-its-strengths-and-limitations/strengths-and-limitations-of-alphafold/" target="_blank" rel="noopener noreferrer nofollow">https://www.ebi.ac.uk/training/online/courses/alphafold/an-introductory-guide-to-its-strengths-and-limitations/strengths-and-limitations-of-alphafold/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>EMBL-EBIStrengths and limitations of AlphaFold 25 Jan 2024 — AlphaFold2 can be used to identify intrinsically disordered regions. Natural...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12956938/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12956938/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Advantages and Limitations of AlphaFold in Structural Biologyby MQC Li · 2025 · Cited by 7 — However, AlphaFold also exhibits intrinsi...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12956938/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12956938/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Advantages and Limitations of AlphaFold in Structural Biologyby MQC Li · 2025 · Cited by 7 — However, AlphaFold also exhibits intrinsi...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1007/s10930-025-10310-8" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10930-025-10310-8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Springer LinkAdvantages and Limitations of AlphaFold in Structural Biologyby MQC Li · 2025 · Cited by 2 — A key limitation is AlphaFold&#x27;s...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1007/s10930-025-10310-8" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10930-025-10310-8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Springer LinkAdvantages and Limitations of AlphaFold in Structural Biologyby MQC Li · 2025 · Cited by 2 — A key limitation is AlphaFold&#x27;s...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41592-023-02087-4" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41592-023-02087-4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This confidence metric was examined in detail by the DeepMind team and...Read more...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41592-023-02087-4" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41592-023-02087-4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This confidence metric was examined in detail by the DeepMind team and...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9104326/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9104326/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AlphaFold2: A Role for Disordered Protein/Region Prediction?by CJ Wilson · 2022 · Cited by 183 — We assess the ability of AlphaFold2 t...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9104326/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9104326/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AlphaFold2: A Role for Disordered Protein/Region Prediction?by CJ Wilson · 2022 · Cited by 183 — We assess the ability of AlphaFold2 t...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9601767/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9601767/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AlphaFold‐pLDDT uses 1 ‐ pLDDT as output.Read more...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9601767/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9601767/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AlphaFold‐pLDDT uses 1 ‐ pLDDT as output.Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: ebi.ac.uk  
-   Link: <a href="https://www.ebi.ac.uk/training/online/courses/alphafold/[validation" target="_blank" rel="noopener noreferrer nofollow">https://www.ebi.ac.uk/training/online/courses/alphafold/[validation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>However, sometimes it may indicate that AlphaFold2...Read more...</p></details>
+   Link:<a href="https://www.ebi.ac.uk/training/online/courses/alphafold/[validation" target="_blank" rel="noopener noreferrer nofollow">https://www.ebi.ac.uk/training/online/courses/alphafold/[validation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>However, sometimes it may indicate that AlphaFold2...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: embl.org  
    Title: alphafold potential impacts  
-   Link: <a href="https://www.embl.org/news/science/alphafold-potential-impacts/" target="_blank" rel="noopener noreferrer nofollow">https://www.embl.org/news/science/alphafold-potential-impacts/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Great expectations – the potential impacts of AlphaFold DBJul 22, 2021 — A discussion of the applications that AlphaFold DB may enabl...</p></details>
+   Link:<a href="https://www.embl.org/news/science/alphafold-potential-impacts/" target="_blank" rel="noopener noreferrer nofollow">https://www.embl.org/news/science/alphafold-potential-impacts/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Great expectations – the potential impacts of AlphaFold DBJul 22, 2021 — A discussion of the applications that AlphaFold DB may enabl...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41467-025-56572-9" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41467-025-56572-9</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AlphaFold prediction of structural ensembles of disordered...by ZF Brotzakis · 2025 · Cited by 120 — Deep learning methods of pred...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41467-025-56572-9" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41467-025-56572-9</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AlphaFold prediction of structural ensembles of disordered...by ZF Brotzakis · 2025 · Cited by 120 — Deep learning methods of pred...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: arxiv.org  
    Title: arXiv Deep Learning of Proteins with Local and Global Regions of Disorder  
-   Link: <a href="https://arxiv.org/abs/2502.11326" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2502.11326</a>  
+   Link:<a href="https://arxiv.org/abs/2502.11326" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2502.11326</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: embl.org  
-   Link: <a href="https://www.embl.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.embl.org/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>European Molecular Biology Laboratory | EMBL.orgEMBL is Europe&#x27;s life sciences laboratory. Research EMBL performs fundamental research in...</p></details>
+   Link:<a href="https://www.embl.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.embl.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>European Molecular Biology Laboratory | EMBL.orgEMBL is Europe&#x27;s life sciences laboratory. Research EMBL performs fundamental research in...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: embl.org  
-   Link: <a href="https://www.embl.org/news/science-technology/first-complexes-alphafold-database/" target="_blank" rel="noopener noreferrer nofollow">https://www.embl.org/news/science-technology/first-complexes-alphafold-database/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Millions of protein complexes added to AlphaFold...Mar 16, 2026 — Of these, 1.7 million high-confidence homodimer predictions have been...</p></details>
+   Link:<a href="https://www.embl.org/news/science-technology/first-complexes-alphafold-database/" target="_blank" rel="noopener noreferrer nofollow">https://www.embl.org/news/science-technology/first-complexes-alphafold-database/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Millions of protein complexes added to AlphaFold...Mar 16, 2026 — Of these, 1.7 million high-confidence homodimer predictions have been...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: embl.org  
    Title: thornton alphafold  
-   Link: <a href="https://www.embl.org/news/science/thornton-alphafold/" target="_blank" rel="noopener noreferrer nofollow">https://www.embl.org/news/science/thornton-alphafold/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AlphaFold produces only a low-confidence prediction (often for disordered regions). The AI system provides a confidence score as a helpfu...</p></details>
+   Link:<a href="https://www.embl.org/news/science/thornton-alphafold/" target="_blank" rel="noopener noreferrer nofollow">https://www.embl.org/news/science/thornton-alphafold/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AlphaFold produces only a low-confidence prediction (often for disordered regions). The AI system provides a confidence score as a helpfu...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41392-023-01381-z" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41392-023-01381-z</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AlphaFold2 and its applications in the fields of biology and...by Z Yang · 2023 · Cited by 683 — AlphaFold2 (AF2) is an artificial intel...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41392-023-01381-z" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41392-023-01381-z</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AlphaFold2 and its applications in the fields of biology and...by Z Yang · 2023 · Cited by 683 — AlphaFold2 (AF2) is an artificial intel...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41586-024-07487-w" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-024-07487-w</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Accurate structure prediction of biomolecular interactions...by J Abramson · 2024 · Cited by 13084 — Here we describe our AlphaFold 3 mo...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41586-024-07487-w" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-024-07487-w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Accurate structure prediction of biomolecular interactions...by J Abramson · 2024 · Cited by 13084 — Here we describe our AlphaFold 3 mo...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41467-023-44288-7" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41467-023-44288-7</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>From interaction networks to interfaces, scanning...by H Bret · 2024 · Cited by 101 — We show that when using the full sequences of the...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41467-023-44288-7" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41467-023-44288-7</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>From interaction networks to interfaces, scanning...by H Bret · 2024 · Cited by 101 — We show that when using the full sequences of the...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0022283625000336" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0022283625000336</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AlphaFold Protein Structure Database and 3D-Beaconsby J Fleming · 2025 · Cited by 130 — At the same time, low average pLDDT scores does n...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0022283625000336" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0022283625000336</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AlphaFold Protein Structure Database and 3D-Beaconsby J Fleming · 2025 · Cited by 130 — At the same time, low average pLDDT scores does n...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: ebi.ac.uk  
-   Link: <a href="https://www.ebi.ac.uk/training/online/courses/alphafold/inputs-and-outputs/evaluating-alphafolds-predicted-structures-using-confidence-scores/plddt-understanding-local-confidence/" target="_blank" rel="noopener noreferrer nofollow">https://www.ebi.ac.uk/training/online/courses/alphafold/inputs-and-outputs/evaluating-alphafolds-predicted-structures-using-confidence-scores/plddt-understanding-local-confidence/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It is scaled from 0 to 100, with higher scores indicating higher confidence and usually a more accurate...Read more...</p></details>
+   Link:<a href="https://www.ebi.ac.uk/training/online/courses/alphafold/inputs-and-outputs/evaluating-alphafolds-predicted-structures-using-confidence-scores/plddt-understanding-local-confidence/" target="_blank" rel="noopener noreferrer nofollow">https://www.ebi.ac.uk/training/online/courses/alphafold/inputs-and-outputs/evaluating-alphafolds-predicted-structures-using-confidence-scores/plddt-understanding-local-confidence/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It is scaled from 0 to 100, with higher scores indicating higher confidence and usually a more accurate...Read more...</p></details>
 
 ### Additional References
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: alphafoldserver.com  
-   Link: <a href="https://alphafoldserver.com/" target="_blank" rel="noopener noreferrer nofollow">https://alphafoldserver.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AlphaFold ServerAlphaFold Server is a web-service that can generate highly accurate biomolecular structure predictions containing protein...</p></details>
+   Link:<a href="https://alphafoldserver.com/" target="_blank" rel="noopener noreferrer nofollow">https://alphafoldserver.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AlphaFold ServerAlphaFold Server is a web-service that can generate highly accurate biomolecular structure predictions containing protein...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: ebi.ac.uk  
-   Link: <a href="https://www.ebi.ac.uk/training/online/courses/alphafold/inputs-and-outputs/evaluating-alphafolds-predicted-structures-using-confidence-scores/confidence-scores-in-alphafold-multimer/" target="_blank" rel="noopener noreferrer nofollow">https://www.ebi.ac.uk/training/online/courses/alphafold/inputs-and-outputs/evaluating-alphafolds-predicted-structures-using-confidence-scores/confidence-scores-in-alphafold-multimer/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Confidence scores in AlphaFold-MultimerDisordered regions and regions with low pLDDT score may negatively impact the ipTM score even if t...</p></details>
+   Link:<a href="https://www.ebi.ac.uk/training/online/courses/alphafold/inputs-and-outputs/evaluating-alphafolds-predicted-structures-using-confidence-scores/confidence-scores-in-alphafold-multimer/" target="_blank" rel="noopener noreferrer nofollow">https://www.ebi.ac.uk/training/online/courses/alphafold/inputs-and-outputs/evaluating-alphafolds-predicted-structures-using-confidence-scores/confidence-scores-in-alphafold-multimer/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Confidence scores in AlphaFold-MultimerDisordered regions and regions with low pLDDT score may negatively impact the ipTM score even if t...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: deepmind.google  
-   Link: <a href="https://deepmind.google/science/alphafold/" target="_blank" rel="noopener noreferrer nofollow">https://deepmind.google/science/alphafold/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Google DeepMindAlphaFold — Google DeepMindAlphaFold has revealed millions of intricate 3D protein structures, and is helping scientists u...</p></details>
+   Link:<a href="https://deepmind.google/science/alphafold/" target="_blank" rel="noopener noreferrer nofollow">https://deepmind.google/science/alphafold/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google DeepMindAlphaFold — Google DeepMindAlphaFold has revealed millions of intricate 3D protein structures, and is helping scientists u...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: github.com  
-   Link: <a href="https://github.com/google-deepmind/alphafold" target="_blank" rel="noopener noreferrer nofollow">https://github.com/google-deepmind/alphafold</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Open source code for AlphaFold 2.This package provides an implementation of the inference pipeline of AlphaFold v2. For simplicity, we re...</p></details>
+   Link:<a href="https://github.com/google-deepmind/alphafold" target="_blank" rel="noopener noreferrer nofollow">https://github.com/google-deepmind/alphafold</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Open source code for AlphaFold 2.This package provides an implementation of the inference pipeline of AlphaFold v2. For simplicity, we re...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: alphafold.ebi.ac.uk  
-   Link: <a href="https://alphafold.ebi.ac.uk/" target="_blank" rel="noopener noreferrer nofollow">https://alphafold.ebi.ac.uk/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Protein Structure DatabaseAlphaFold is an AI system developed by Google DeepMind that predicts a protein&#x27;s 3D structure from its amino ac...</p></details>
+   Link:<a href="https://alphafold.ebi.ac.uk/" target="_blank" rel="noopener noreferrer nofollow">https://alphafold.ebi.ac.uk/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Protein Structure DatabaseAlphaFold is an AI system developed by Google DeepMind that predicts a protein&#x27;s 3D structure from its amino ac...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=5k8Lm9w9mpY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5k8Lm9w9mpY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Accessing and interpreting predicted protein structures from...AlphaFold database (AlphaFold DB) provides open access to over 200 millio...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=5k8Lm9w9mpY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5k8Lm9w9mpY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Accessing and interpreting predicted protein structures from...AlphaFold database (AlphaFold DB) provides open access to over 200 millio...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=UqeQfRDA8Yk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UqeQfRDA8Yk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to interpret AlphaFold structuresThis webinar will introduce AlphaFold system for prediction and interpretation of protein structures...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=UqeQfRDA8Yk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UqeQfRDA8Yk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to interpret AlphaFold structuresThis webinar will introduce AlphaFold system for prediction and interpretation of protein structures...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=i_aou7FRySw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=i_aou7FRySw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Interpreting AlphaFold predictions and confidence indicatorsAlphafold is an increasingly powerful tool for predicting the structure of pr...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=i_aou7FRySw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=i_aou7FRySw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Interpreting AlphaFold predictions and confidence indicatorsAlphafold is an increasingly powerful tool for predicting the structure of pr...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: profiles.wustl.edu  
    Title: alphafold and implications for intrinsically disordered proteins  
-   Link: <a href="https://profiles.wustl.edu/en/publications/alphafold-and-implications-for-intrinsically-disordered-proteins" target="_blank" rel="noopener noreferrer nofollow">https://profiles.wustl.edu/en/publications/alphafold-and-implications-for-intrinsically-disordered-proteins</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and Implications for Intrinsically Disordered...1 Oct 2021 — AlphaFold, a deep learning-based approach to protein structure prediction...</p></details>
+   Link:<a href="https://profiles.wustl.edu/en/publications/alphafold-and-implications-for-intrinsically-disordered-proteins" target="_blank" rel="noopener noreferrer nofollow">https://profiles.wustl.edu/en/publications/alphafold-and-implications-for-intrinsically-disordered-proteins</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and Implications for Intrinsically Disordered...1 Oct 2021 — AlphaFold, a deep learning-based approach to protein structure prediction...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: blog.google  
    Title: [Alpha Fold](&#123;&#123; 'alpha-fold/' | relative_url &#125;&#125;) 3 predicts the structure and interactions of all  
-   Link: <a href="https://blog.google/innovation-and-ai/products/google-deepmind-isomorphic-alphafold-3-ai-model/" target="_blank" rel="noopener noreferrer nofollow">https://blog.google/innovation-and-ai/products/google-deepmind-isomorphic-alphafold-3-ai-model/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AlphaFold 3 predicts the structure and interactions of all...May 8, 2024 — Our new AI model AlphaFold 3 can predict the structure and in...</p></details>
+   Link:<a href="https://blog.google/innovation-and-ai/products/google-deepmind-isomorphic-alphafold-3-ai-model/" target="_blank" rel="noopener noreferrer nofollow">https://blog.google/innovation-and-ai/products/google-deepmind-isomorphic-alphafold-3-ai-model/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AlphaFold 3 predicts the structure and interactions of all...May 8, 2024 — Our new AI model AlphaFold 3 can predict the structure and in...</p></details>
    Published: May 8, 2024

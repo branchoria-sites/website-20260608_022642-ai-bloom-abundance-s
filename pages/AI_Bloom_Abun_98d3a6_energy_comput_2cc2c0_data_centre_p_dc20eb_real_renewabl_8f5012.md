@@ -269,20 +269,20 @@ image: /assets/images/AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0_data_centre_p_dc
 
 ## Introduction
 
-As AI‑enabled computing expands rapidly, tech giants and data‑centre operators are under pressure to demonstrate that their electricity use isn’t just “offset” on paper, but **actually backed by additional renewable generation in ways that matter for climate outcomes**. [Power]({{ 'power/' | relative_url }})‑purchase agreements (PPAs) — long‑term contracts to buy renewable electricity — are central to corporate clean‑[energy]({{ 'energy/' | relative_url }}) strategy. Yet **whether renewable PPAs really power AI data centres in a physically meaningful, low‑carbon sense depends on the type of agreement, the timing of generation and consumption, and how additional renewable capacity is delivered**. This matters for the larger question of whether electrification of AI infrastructure can be compatible with rapid clean‑energy transitions and civilisation‑scale flourishing without aggravating fossil‑fuel lock‑in. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.iea.org/energy-system/digitalisation/data-centres-and-data-transmission-networks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iea.org">[IEA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iea.org</span><span class="citation-popover-title">Data centres &amp; networks</span><span class="citation-popover-snippet">Data centres &amp; networks - IEAJuly 11, 2023...</span><span class="citation-popover-meta">Published: July 11, 2023</span></span></span>
+As AI‑enabled computing expands rapidly, tech giants and data‑centre operators are under pressure to demonstrate that their electricity use isn’t just “offset” on paper, but **actually backed by additional renewable generation in ways that matter for climate outcomes**. [Power]({{ 'power/' | relative_url }})‑purchase agreements (PPAs) — long‑term contracts to buy renewable electricity — are central to corporate clean‑[energy]({{ 'energy/' | relative_url }}) strategy. Yet **whether renewable PPAs really power AI data centres in a physically meaningful, low‑carbon sense depends on the type of agreement, the timing of generation and consumption, and how additional renewable capacity is delivered**. This matters for the larger question of whether electrification of AI infrastructure can be compatible with rapid clean‑energy transitions and civilisation‑scale flourishing without aggravating fossil‑fuel lock‑in.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.iea.org/energy-system/digitalisation/data-centres-and-data-transmission-networks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iea.org">[IEA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iea.org</span><span class="citation-popover-title">Data centres &amp; networks</span><span class="citation-popover-snippet">Data centres &amp; networks - IEAJuly 11, 2023...</span><span class="citation-popover-meta">Published: July 11, 2023</span></span></span>
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0_data_centre_p_dc20eb_real_renewabl_8f5012-Illustration-1-dark.svg" | relative_url }}" alt="Real PPAs illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0_data_centre_p_dc20eb_real_renewabl_8f5012-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0_data_centre_p_dc20eb_real_renewabl_8f5012-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why traditional renewable PPAs only go so far
 
-At their basic level, renewable PPAs are **contracts that secure the output of a wind, solar or other clean‑energy project over many years**, often to support corporate sustainability claims and provide price stability for large consumers like data centres. Hyperscale operators such as Google, Microsoft, Meta and Amazon lead global corporate PPA volumes to date, with tens of gigawatts contracted worldwide. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.iea.org/data-and-statistics/charts/total-data-centre-electricity-demand-covered-by-renewables-ppas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iea.org">[IEA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iea.org</span><span class="citation-popover-snippet">April 15, 2026 — TOTAL DATA CENTRE ELECTRICITY DEMAND COVERED BY RENEWABLES PPAS Last updated 15 Apr 2026 Cite Share CITE CHART IEA (2...</span><span class="citation-popover-meta">Published: April 15, 2026</span></span></span>
+At their basic level, renewable PPAs are **contracts that secure the output of a wind, solar or other clean‑energy project over many years**, often to support corporate sustainability claims and provide price stability for large consumers like data centres. Hyperscale operators such as Google, Microsoft, Meta and Amazon lead global corporate PPA volumes to date, with tens of gigawatts contracted worldwide.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.iea.org/data-and-statistics/charts/total-data-centre-electricity-demand-covered-by-renewables-ppas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iea.org">[IEA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iea.org</span><span class="citation-popover-snippet">April 15, 2026 — TOTAL DATA CENTRE ELECTRICITY DEMAND COVERED BY RENEWABLES PPAS Last updated 15 Apr 2026 Cite Share CITE CHART IEA (2...</span><span class="citation-popover-meta">Published: April 15, 2026</span></span></span>
 
 However, **standard PPAs do not guarantee that the electrons powering a data centre at a specific moment come from renewables**. In most cases:
 
-* **Energy is fed into the grid** wherever the renewable project is located, and **blends with all other sources on the grid**, fossil and clean alike. There is no physical linkage between a specific renewable site and a specific data‑centre load. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.datacenterdynamics.com/en/analysis/everything-data-center-operators-need-to-know-about-power-purchase-agreements-ppas/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: datacenterdynamics.com">[Data Center Dynamics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">datacenterdynamics.com</span><span class="citation-popover-snippet">Data Center DynamicsEverything data center operators need to know about Power Purchase Agreements (PPAs) - DCDMay 26, 2023...</span><span class="citation-popover-meta">Published: May 26, 2023</span></span></span>
-* Many PPAs provide **annual or monthly matching** of renewable generation to consumption, which means a data centre might still draw fossil‑based grid electricity at night or during low wind periods, balanced by renewable generation elsewhere at a different time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.iea.org/energy-system/digitalisation/data-centres-and-data-transmission-networks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iea.org">[IEA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iea.org</span><span class="citation-popover-title">Data centres &amp; networks</span><span class="citation-popover-snippet">Data centres &amp; networks - IEAJuly 11, 2023...</span><span class="citation-popover-meta">Published: July 11, 2023</span></span></span>
-* In some cases, companies also rely on **energy‑attribute certificates (EACs)** — tradable instruments that represent renewable generation — to claim clean power. But certificates by themselves often fail to drive *new* renewable capacity where and when it is needed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.iea.org/data-and-statistics/charts/total-data-centre-electricity-demand-covered-by-renewables-ppas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iea.org">[IEA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iea.org</span><span class="citation-popover-snippet">April 15, 2026 — TOTAL DATA CENTRE ELECTRICITY DEMAND COVERED BY RENEWABLES PPAS Last updated 15 Apr 2026 Cite Share CITE CHART IEA (2...</span><span class="citation-popover-meta">Published: April 15, 2026</span></span></span>
+* **Energy is fed into the grid** wherever the renewable project is located, and **blends with all other sources on the grid**, fossil and clean alike. There is no physical linkage between a specific renewable site and a specific data‑centre load.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.datacenterdynamics.com/en/analysis/everything-data-center-operators-need-to-know-about-power-purchase-agreements-ppas/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: datacenterdynamics.com">[Data Center Dynamics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">datacenterdynamics.com</span><span class="citation-popover-snippet">Data Center DynamicsEverything data center operators need to know about Power Purchase Agreements (PPAs) - DCDMay 26, 2023...</span><span class="citation-popover-meta">Published: May 26, 2023</span></span></span>
+* Many PPAs provide **annual or monthly matching** of renewable generation to consumption, which means a data centre might still draw fossil‑based grid electricity at night or during low wind periods, balanced by renewable generation elsewhere at a different time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.iea.org/energy-system/digitalisation/data-centres-and-data-transmission-networks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iea.org">[IEA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iea.org</span><span class="citation-popover-title">Data centres &amp; networks</span><span class="citation-popover-snippet">Data centres &amp; networks - IEAJuly 11, 2023...</span><span class="citation-popover-meta">Published: July 11, 2023</span></span></span>
+* In some cases, companies also rely on **energy‑attribute certificates (EACs)** — tradable instruments that represent renewable generation — to claim clean power. But certificates by themselves often fail to drive *new* renewable capacity where and when it is needed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.iea.org/data-and-statistics/charts/total-data-centre-electricity-demand-covered-by-renewables-ppas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iea.org">[IEA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iea.org</span><span class="citation-popover-snippet">April 15, 2026 — TOTAL DATA CENTRE ELECTRICITY DEMAND COVERED BY RENEWABLES PPAS Last updated 15 Apr 2026 Cite Share CITE CHART IEA (2...</span><span class="citation-popover-meta">Published: April 15, 2026</span></span></span>
 
-These features help explain why many analysts regard early PPAs as **necessary but not sufficient**: they can greenwash annual totals without changing the *temporal alignment* between load and zero‑carbon supply (especially for constant data‑centre demand) or stimulate *additional* clean capacity that operates during peak needs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.iea.org/data-and-statistics/charts/total-data-centre-electricity-demand-covered-by-renewables-ppas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iea.org">[IEA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iea.org</span><span class="citation-popover-snippet">April 15, 2026 — TOTAL DATA CENTRE ELECTRICITY DEMAND COVERED BY RENEWABLES PPAS Last updated 15 Apr 2026 Cite Share CITE CHART IEA (2...</span><span class="citation-popover-meta">Published: April 15, 2026</span></span></span>
+These features help explain why many analysts regard early PPAs as **necessary but not sufficient**: they can greenwash annual totals without changing the *temporal alignment* between load and zero‑carbon supply (especially for constant data‑centre demand) or stimulate *additional* clean capacity that operates during peak needs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.iea.org/data-and-statistics/charts/total-data-centre-electricity-demand-covered-by-renewables-ppas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iea.org">[IEA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iea.org</span><span class="citation-popover-snippet">April 15, 2026 — TOTAL DATA CENTRE ELECTRICITY DEMAND COVERED BY RENEWABLES PPAS Last updated 15 Apr 2026 Cite Share CITE CHART IEA (2...</span><span class="citation-popover-meta">Published: April 15, 2026</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tZJo22fYmig" title="Flexible data centers can speed both AI scale and clean energy adoption | Ayse Coskun | TEDxBoston" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tZJo22fYmig" target="_blank" rel="noopener noreferrer">Flexible data centers can speed both AI scale and clean energy adoption | Ayse Coskun | TEDxBoston</a></p><p class="youtube-embed-meta">Channel: TEDx Talks &middot; Views: 2.5K &middot; Uploaded: April 2026 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tZJo22fYmig" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tZJo22fYmig">Open on YouTube</a></p></div></div></div>
 
@@ -290,24 +290,24 @@ These features help explain why many analysts regard early PPAs as **necessary b
 
 A central test of a PPA’s climate value is **additionality** — whether the contract enables renewable capacity that **would not have been built otherwise**, and thus adds real clean generation to the grid. For data centre power procurement, additionality has three key dimensions:
 
-* **Locational:** Renewables must be sourced in the same grid region where the data centre draws power. Otherwise, the PPA may support clean projects somewhere else with limited impact on the local carbon intensity of supply. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.iea.org/data-and-statistics/charts/total-data-centre-electricity-demand-covered-by-renewables-ppas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iea.org">[IEA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iea.org</span><span class="citation-popover-snippet">April 15, 2026 — TOTAL DATA CENTRE ELECTRICITY DEMAND COVERED BY RENEWABLES PPAS Last updated 15 Apr 2026 Cite Share CITE CHART IEA (2...</span><span class="citation-popover-meta">Published: April 15, 2026</span></span></span>
-* **Temporal:** Matching must occur not just in annual totals, but *hour‑by‑hour* or closer to consumption timing. Without this, a data centre claiming 100 % renewables could still depend on fossil generation during high‑demand hours. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/decarbonizing-the-grid-with-24-7-clean-power-purchase-agreements" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mckinsey.com">[McKinsey &amp; Company]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mckinsey.com</span><span class="citation-popover-snippet">McKinsey &amp; CompanyDecarbonizing the grid with 24/7 clean power purchase agreements &#124; McKinseyMay 11, 2022...</span><span class="citation-popover-meta">Published: May 11, 2022</span></span></span>
-* **New capacity:** The PPA should underwrite development of *new* renewable projects (or storage) rather than simply off‑take from existing assets, thereby ensuring the contract expands zero‑carbon supply. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.iea.org/data-and-statistics/charts/total-data-centre-electricity-demand-covered-by-renewables-ppas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iea.org">[IEA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iea.org</span><span class="citation-popover-snippet">April 15, 2026 — TOTAL DATA CENTRE ELECTRICITY DEMAND COVERED BY RENEWABLES PPAS Last updated 15 Apr 2026 Cite Share CITE CHART IEA (2...</span><span class="citation-popover-meta">Published: April 15, 2026</span></span></span>
+* **Locational:** Renewables must be sourced in the same grid region where the data centre draws power. Otherwise, the PPA may support clean projects somewhere else with limited impact on the local carbon intensity of supply.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.iea.org/data-and-statistics/charts/total-data-centre-electricity-demand-covered-by-renewables-ppas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iea.org">[IEA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iea.org</span><span class="citation-popover-snippet">April 15, 2026 — TOTAL DATA CENTRE ELECTRICITY DEMAND COVERED BY RENEWABLES PPAS Last updated 15 Apr 2026 Cite Share CITE CHART IEA (2...</span><span class="citation-popover-meta">Published: April 15, 2026</span></span></span>
+* **Temporal:** Matching must occur not just in annual totals, but *hour‑by‑hour* or closer to consumption timing. Without this, a data centre claiming 100 % renewables could still depend on fossil generation during high‑demand hours.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/decarbonizing-the-grid-with-24-7-clean-power-purchase-agreements" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mckinsey.com">[McKinsey &amp; Company]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mckinsey.com</span><span class="citation-popover-snippet">McKinsey &amp; CompanyDecarbonizing the grid with 24/7 clean power purchase agreements &#124; McKinseyMay 11, 2022...</span><span class="citation-popover-meta">Published: May 11, 2022</span></span></span>
+* **New capacity:** The PPA should underwrite development of *new* renewable projects (or storage) rather than simply off‑take from existing assets, thereby ensuring the contract expands zero‑carbon supply.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.iea.org/data-and-statistics/charts/total-data-centre-electricity-demand-covered-by-renewables-ppas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iea.org">[IEA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iea.org</span><span class="citation-popover-snippet">April 15, 2026 — TOTAL DATA CENTRE ELECTRICITY DEMAND COVERED BY RENEWABLES PPAS Last updated 15 Apr 2026 Cite Share CITE CHART IEA (2...</span><span class="citation-popover-meta">Published: April 15, 2026</span></span></span>
 
-Many conventional renewable PPAs fail one or more of these conditions. Critics note that **corporate PPAs mainly help hedge energy costs or buy certificates**, without always delivering additional, grid‑responsive clean power. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sdialliance.org/blog/why-ppas-dont-make-data-centers-more-sustainable/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sdialliance.org">[sdialliance.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sdialliance.org</span><span class="citation-popover-title">why ppas dont make data centers more sustainable</span><span class="citation-popover-snippet">Why PPAs don’t make data centers more sustainable · SDIAMarch 8, 2022...</span><span class="citation-popover-meta">Published: March 8, 2022</span></span></span>
+Many conventional renewable PPAs fail one or more of these conditions. Critics note that **corporate PPAs mainly help hedge energy costs or buy certificates**, without always delivering additional, grid‑responsive clean power.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sdialliance.org/blog/why-ppas-dont-make-data-centers-more-sustainable/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sdialliance.org">[sdialliance.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sdialliance.org</span><span class="citation-popover-title">why ppas dont make data centers more sustainable</span><span class="citation-popover-snippet">Why PPAs don’t make data centers more sustainable · SDIAMarch 8, 2022...</span><span class="citation-popover-meta">Published: March 8, 2022</span></span></span>
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0_data_centre_p_dc20eb_real_renewabl_8f5012-Illustration-2-dark.svg" | relative_url }}" alt="Real PPAs illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0_data_centre_p_dc20eb_real_renewabl_8f5012-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0_data_centre_p_dc20eb_real_renewabl_8f5012-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The rise of 24/7 carbon‑free procurement
 
-To address these shortcomings, a more stringent class of contracts is emerging around **24/7 clean energy or hourly matching**. These go beyond annual offsets by **aligning renewable generation with consumption at the same time and location**, helping to reduce actual grid carbon intensity rather than just the headline figure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/decarbonizing-the-grid-with-24-7-clean-power-purchase-agreements" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mckinsey.com">[McKinsey &amp; Company]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mckinsey.com</span><span class="citation-popover-snippet">McKinsey &amp; CompanyDecarbonizing the grid with 24/7 clean power purchase agreements &#124; McKinseyMay 11, 2022...</span><span class="citation-popover-meta">Published: May 11, 2022</span></span></span>
+To address these shortcomings, a more stringent class of contracts is emerging around **24/7 clean energy or hourly matching**. These go beyond annual offsets by **aligning renewable generation with consumption at the same time and location**, helping to reduce actual grid carbon intensity rather than just the headline figure.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/decarbonizing-the-grid-with-24-7-clean-power-purchase-agreements" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mckinsey.com">[McKinsey &amp; Company]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mckinsey.com</span><span class="citation-popover-snippet">McKinsey &amp; CompanyDecarbonizing the grid with 24/7 clean power purchase agreements &#124; McKinseyMay 11, 2022...</span><span class="citation-popover-meta">Published: May 11, 2022</span></span></span>
 
 Key features of this approach include:
 
-* **Hourly matching:** Contracts or certificates are structured so that every hour of electricity consumed by a data centre is matched to renewable generation occurring in that same hour, reducing the need for fossil backup. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/decarbonizing-the-grid-with-24-7-clean-power-purchase-agreements" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mckinsey.com">[McKinsey &amp; Company]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mckinsey.com</span><span class="citation-popover-snippet">McKinsey &amp; CompanyDecarbonizing the grid with 24/7 clean power purchase agreements &#124; McKinseyMay 11, 2022...</span><span class="citation-popover-meta">Published: May 11, 2022</span></span></span>
-* **Hybrid deals with storage:** Because wind and solar are variable, many 24/7 models integrate **energy storage** (such as batteries or long‑duration storage) so clean power can be delivered even when generation is low. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/decarbonizing-the-grid-with-24-7-clean-power-purchase-agreements" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mckinsey.com">[McKinsey &amp; Company]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mckinsey.com</span><span class="citation-popover-snippet">McKinsey &amp; CompanyDecarbonizing the grid with 24/7 clean power purchase agreements &#124; McKinseyMay 11, 2022...</span><span class="citation-popover-meta">Published: May 11, 2022</span></span></span>
-* **Time‑based certificates and tracking:** Tools like time‑stamped energy attribute certificates (e.g., following the EnergyTag standard) let buyers verify when and where the clean energy they pay for was produced. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.datacenterdynamics.com/en/analysis/everything-data-center-operators-need-to-know-about-power-purchase-agreements-ppas/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: datacenterdynamics.com">[Data Center Dynamics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">datacenterdynamics.com</span><span class="citation-popover-snippet">Data Center DynamicsEverything data center operators need to know about Power Purchase Agreements (PPAs) - DCDMay 26, 2023...</span><span class="citation-popover-meta">Published: May 26, 2023</span></span></span>
+* **Hourly matching:** Contracts or certificates are structured so that every hour of electricity consumed by a data centre is matched to renewable generation occurring in that same hour, reducing the need for fossil backup.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/decarbonizing-the-grid-with-24-7-clean-power-purchase-agreements" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mckinsey.com">[McKinsey &amp; Company]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mckinsey.com</span><span class="citation-popover-snippet">McKinsey &amp; CompanyDecarbonizing the grid with 24/7 clean power purchase agreements &#124; McKinseyMay 11, 2022...</span><span class="citation-popover-meta">Published: May 11, 2022</span></span></span>
+* **Hybrid deals with storage:** Because wind and solar are variable, many 24/7 models integrate **energy storage** (such as batteries or long‑duration storage) so clean power can be delivered even when generation is low.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/decarbonizing-the-grid-with-24-7-clean-power-purchase-agreements" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mckinsey.com">[McKinsey &amp; Company]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mckinsey.com</span><span class="citation-popover-snippet">McKinsey &amp; CompanyDecarbonizing the grid with 24/7 clean power purchase agreements &#124; McKinseyMay 11, 2022...</span><span class="citation-popover-meta">Published: May 11, 2022</span></span></span>
+* **Time‑based certificates and tracking:** Tools like time‑stamped energy attribute certificates (e.g., following the EnergyTag standard) let buyers verify when and where the clean energy they pay for was produced.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.datacenterdynamics.com/en/analysis/everything-data-center-operators-need-to-know-about-power-purchase-agreements-ppas/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: datacenterdynamics.com">[Data Center Dynamics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">datacenterdynamics.com</span><span class="citation-popover-snippet">Data Center DynamicsEverything data center operators need to know about Power Purchase Agreements (PPAs) - DCDMay 26, 2023...</span><span class="citation-popover-meta">Published: May 26, 2023</span></span></span>
 
-Heavy hitters like Google and Microsoft are adopting 24/7 carbon‑free energy strategies, increasingly relying on hourly matching platforms and innovative certificate systems to tie payments more closely to actual clean generation patterns rather than annual accounting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.datacenterdynamics.com/en/analysis/everything-data-center-operators-need-to-know-about-power-purchase-agreements-ppas/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: datacenterdynamics.com">[Data Center Dynamics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">datacenterdynamics.com</span><span class="citation-popover-snippet">Data Center DynamicsEverything data center operators need to know about Power Purchase Agreements (PPAs) - DCDMay 26, 2023...</span><span class="citation-popover-meta">Published: May 26, 2023</span></span></span>
+Heavy hitters like Google and Microsoft are adopting 24/7 carbon‑free energy strategies, increasingly relying on hourly matching platforms and innovative certificate systems to tie payments more closely to actual clean generation patterns rather than annual accounting.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.datacenterdynamics.com/en/analysis/everything-data-center-operators-need-to-know-about-power-purchase-agreements-ppas/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: datacenterdynamics.com">[Data Center Dynamics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">datacenterdynamics.com</span><span class="citation-popover-snippet">Data Center DynamicsEverything data center operators need to know about Power Purchase Agreements (PPAs) - DCDMay 26, 2023...</span><span class="citation-popover-meta">Published: May 26, 2023</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LelPy2m4K38" title="Sustainable Transformation: How AI is Powering Hourly Matching of Carbon-Free Energy in Data Centers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LelPy2m4K38" target="_blank" rel="noopener noreferrer">Sustainable Transformation: How AI is Powering Hourly Matching of Carbon-Free Energy in Data Centers</a></p><p class="youtube-embed-meta">Channel: EdgeConneX Co &middot; Views: 345 &middot; Uploaded: April 2024 &middot; Length: 26 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LelPy2m4K38" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LelPy2m4K38">Open on YouTube</a></p></div></div></div>
 
@@ -315,212 +315,212 @@ Heavy hitters like Google and Microsoft are adopting 24/7 carbon‑free energy s
 
 Despite its promise, 24/7 matching is **not yet universal or inexpensive**:
 
-* **Cost and complexity:** Aligning intermittent renewables with constant data‑centre loads requires storage and sophisticated contracting, which can increase costs significantly compared with traditional PPAs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/decarbonizing-the-grid-with-24-7-clean-power-purchase-agreements" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mckinsey.com">[McKinsey &amp; Company]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mckinsey.com</span><span class="citation-popover-snippet">McKinsey &amp; CompanyDecarbonizing the grid with 24/7 clean power purchase agreements &#124; McKinseyMay 11, 2022...</span><span class="citation-popover-meta">Published: May 11, 2022</span></span></span>
-* **Market availability:** Not all regions have markets or instruments that support true hourly matching, and in some, PPAs with adequate additionality are still scarce or impractical. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/sustainability/climate-energy/why-corporates-are-getting-real-renewables-purchasing--ecmii-2025-12-10/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Why corporates are getting real on renewables purchasing</span><span class="citation-popover-snippet">Corporate power purchase agreements (PPAs) have been pivotal, accounting for 25% of global wind and solar capacity in 2023 outside China...</span></span></span>
-* **Grid constraints:** Even with PPAs, grid infrastructure must support integration of new capacity. Without transmission and flexibility enhancements, renewables delivered under PPA terms might be curtailed or displaced by fossil generation at critical times. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.datacenterdynamics.com/en/analysis/everything-data-center-operators-need-to-know-about-power-purchase-agreements-ppas/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: datacenterdynamics.com">[Data Center Dynamics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">datacenterdynamics.com</span><span class="citation-popover-snippet">Data Center DynamicsEverything data center operators need to know about Power Purchase Agreements (PPAs) - DCDMay 26, 2023...</span><span class="citation-popover-meta">Published: May 26, 2023</span></span></span>
+* **Cost and complexity:** Aligning intermittent renewables with constant data‑centre loads requires storage and sophisticated contracting, which can increase costs significantly compared with traditional PPAs.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/decarbonizing-the-grid-with-24-7-clean-power-purchase-agreements" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mckinsey.com">[McKinsey &amp; Company]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mckinsey.com</span><span class="citation-popover-snippet">McKinsey &amp; CompanyDecarbonizing the grid with 24/7 clean power purchase agreements &#124; McKinseyMay 11, 2022...</span><span class="citation-popover-meta">Published: May 11, 2022</span></span></span>
+* **Market availability:** Not all regions have markets or instruments that support true hourly matching, and in some, PPAs with adequate additionality are still scarce or impractical.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/sustainability/climate-energy/why-corporates-are-getting-real-renewables-purchasing--ecmii-2025-12-10/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Why corporates are getting real on renewables purchasing</span><span class="citation-popover-snippet">Corporate power purchase agreements (PPAs) have been pivotal, accounting for 25% of global wind and solar capacity in 2023 outside China...</span></span></span>
+* **Grid constraints:** Even with PPAs, grid infrastructure must support integration of new capacity. Without transmission and flexibility enhancements, renewables delivered under PPA terms might be curtailed or displaced by fossil generation at critical times.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.datacenterdynamics.com/en/analysis/everything-data-center-operators-need-to-know-about-power-purchase-agreements-ppas/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: datacenterdynamics.com">[Data Center Dynamics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">datacenterdynamics.com</span><span class="citation-popover-snippet">Data Center DynamicsEverything data center operators need to know about Power Purchase Agreements (PPAs) - DCDMay 26, 2023...</span><span class="citation-popover-meta">Published: May 26, 2023</span></span></span>
 
-Thus, while renewable PPAs remain **an important tool — arguably the most effective available today — for financing new clean energy**, they often fall short of powering data centres *in a physically real‑time low‑carbon sense* unless paired with temporal matching, storage and supplemental grid planning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/decarbonizing-the-grid-with-24-7-clean-power-purchase-agreements" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mckinsey.com">[McKinsey &amp; Company]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mckinsey.com</span><span class="citation-popover-snippet">McKinsey &amp; CompanyDecarbonizing the grid with 24/7 clean power purchase agreements &#124; McKinseyMay 11, 2022...</span><span class="citation-popover-meta">Published: May 11, 2022</span></span></span>
+Thus, while renewable PPAs remain **an important tool — arguably the most effective available today — for financing new clean energy**, they often fall short of powering data centres *in a physically real‑time low‑carbon sense* unless paired with temporal matching, storage and supplemental grid planning.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/decarbonizing-the-grid-with-24-7-clean-power-purchase-agreements" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mckinsey.com">[McKinsey &amp; Company]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mckinsey.com</span><span class="citation-popover-snippet">McKinsey &amp; CompanyDecarbonizing the grid with 24/7 clean power purchase agreements &#124; McKinseyMay 11, 2022...</span><span class="citation-popover-meta">Published: May 11, 2022</span></span></span>
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0_data_centre_p_dc20eb_real_renewabl_8f5012-Illustration-3-dark.svg" | relative_url }}" alt="Real PPAs illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0_data_centre_p_dc20eb_real_renewabl_8f5012-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0_data_centre_p_dc20eb_real_renewabl_8f5012-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Where the evidence points
 
-In the context of AI data centres, the shift from traditional renewable PPAs toward **more stringent, hourly‑matched, additional PPAs with storage and monitoring** marks a meaningful evolution. Basic contracts help catalyse renewable build‑out and underpin net‑zero claims, but **they do not, on their own, ensure that AI compute runs on clean power every hour of the day without [fossil fallback]({{ 'fossil-fallback/' | relative_url }})**. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.iea.org/data-and-statistics/charts/total-data-centre-electricity-demand-covered-by-renewables-ppas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iea.org">[IEA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iea.org</span><span class="citation-popover-snippet">April 15, 2026 — TOTAL DATA CENTRE ELECTRICITY DEMAND COVERED BY RENEWABLES PPAS Last updated 15 Apr 2026 Cite Share CITE CHART IEA (2...</span><span class="citation-popover-meta">Published: April 15, 2026</span></span></span>
+In the context of AI data centres, the shift from traditional renewable PPAs toward **more stringent, hourly‑matched, additional PPAs with storage and monitoring** marks a meaningful evolution. Basic contracts help catalyse renewable build‑out and underpin net‑zero claims, but **they do not, on their own, ensure that AI compute runs on clean power every hour of the day without [fossil fallback]({{ 'fossil-fallback/' | relative_url }})**.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.iea.org/data-and-statistics/charts/total-data-centre-electricity-demand-covered-by-renewables-ppas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iea.org">[IEA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iea.org</span><span class="citation-popover-snippet">April 15, 2026 — TOTAL DATA CENTRE ELECTRICITY DEMAND COVERED BY RENEWABLES PPAS Last updated 15 Apr 2026 Cite Share CITE CHART IEA (2...</span><span class="citation-popover-meta">Published: April 15, 2026</span></span></span>
 
-For data centres to be driven by renewable energy in a way that passes the “clean‑power test” — showing actual locational, temporal, and additional supply — many operators are now moving to hybrid, 24/7 carbon‑free procurement models. **These offer a closer approximation of physically powering AI infrastructure with renewables**, but they remain emergent, more costly, and dependent on grid and market evolution. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/decarbonizing-the-grid-with-24-7-clean-power-purchase-agreements" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mckinsey.com">[McKinsey &amp; Company]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mckinsey.com</span><span class="citation-popover-snippet">McKinsey &amp; CompanyDecarbonizing the grid with 24/7 clean power purchase agreements &#124; McKinseyMay 11, 2022...</span><span class="citation-popover-meta">Published: May 11, 2022</span></span></span>
+For data centres to be driven by renewable energy in a way that passes the “clean‑power test” — showing actual locational, temporal, and additional supply — many operators are now moving to hybrid, 24/7 carbon‑free procurement models. **These offer a closer approximation of physically powering AI infrastructure with renewables**, but they remain emergent, more costly, and dependent on grid and market evolution.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/decarbonizing-the-grid-with-24-7-clean-power-purchase-agreements" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mckinsey.com">[McKinsey &amp; Company]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mckinsey.com</span><span class="citation-popover-snippet">McKinsey &amp; CompanyDecarbonizing the grid with 24/7 clean power purchase agreements &#124; McKinseyMay 11, 2022...</span><span class="citation-popover-meta">Published: May 11, 2022</span></span></span>
 
-In the larger frame of sustainable AI growth and civilisation‑scale energy transitions, **PPAs are crucial but must evolve along with clean‑energy markets and infrastructure if they are to deliver truly meaningful low‑carbon power to data‑centre loads**. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/decarbonizing-the-grid-with-24-7-clean-power-purchase-agreements" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mckinsey.com">[McKinsey &amp; Company]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mckinsey.com</span><span class="citation-popover-snippet">McKinsey &amp; CompanyDecarbonizing the grid with 24/7 clean power purchase agreements &#124; McKinseyMay 11, 2022...</span><span class="citation-popover-meta">Published: May 11, 2022</span></span></span>
+In the larger frame of sustainable AI growth and civilisation‑scale energy transitions, **PPAs are crucial but must evolve along with clean‑energy markets and infrastructure if they are to deliver truly meaningful low‑carbon power to data‑centre loads**.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/decarbonizing-the-grid-with-24-7-clean-power-purchase-agreements" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mckinsey.com">[McKinsey &amp; Company]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mckinsey.com</span><span class="citation-popover-snippet">McKinsey &amp; CompanyDecarbonizing the grid with 24/7 clean power purchase agreements &#124; McKinseyMay 11, 2022...</span><span class="citation-popover-meta">Published: May 11, 2022</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2MBPOCetkqc" title="Carbon capture breakthrough: 99% at $20/MWh premium | Interchange Recharged" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2MBPOCetkqc" target="_blank" rel="noopener noreferrer">Carbon capture breakthrough: 99% at $20/MWh premium | Interchange Recharged</a></p><p class="youtube-embed-meta">Channel: Wood Mackenzie &middot; Views: 362 &middot; Uploaded: February 2026 &middot; Length: 50 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2MBPOCetkqc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2MBPOCetkqc">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Are AI data centre renewables real enough?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Are AI data centre renewables real enough?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Grid+by+Gretchen+Bakke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Grid on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=u5AyEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Grid" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Grid+by+Gretchen+Bakke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Grid">The Grid</a>
-        </h4>
-        <p class="fr-book-author">By Gretchen Bakke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Grid+by+Gretchen+Bakke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Grid on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=u5AyEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Grid" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Grid+by+Gretchen+Bakke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Grid">The Grid</a>
+</h4>
+<p class="fr-book-author">By Gretchen Bakke</p>
         
-        <p class="fr-book-desc">Explains why timing, location and grid delivery matter for renewable electricity claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Grid+by+Gretchen+Bakke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why timing, location and grid delivery matter for renewable electricity claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Grid+by+Gretchen+Bakke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+the+World+Really+Works+by+Vaclav+Smil&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How the World Really Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eTotEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How the World Really Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+the+World+Really+Works+by+Vaclav+Smil&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How the World Really Works">How the World Really Works</a>
-        </h4>
-        <p class="fr-book-author">By Vaclav Smil</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+the+World+Really+Works+by+Vaclav+Smil&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How the World Really Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eTotEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How the World Really Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+the+World+Really+Works+by+Vaclav+Smil&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How the World Really Works">How the World Really Works</a>
+</h4>
+<p class="fr-book-author">By Vaclav Smil</p>
         
-        <p class="fr-book-desc">Gives readers a grounded view of energy systems and why accounting claims differ from physical supply.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+the+World+Really+Works+by+Vaclav+Smil&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Gives readers a grounded view of energy systems and why accounting claims differ from physical supply.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+the+World+Really+Works+by+Vaclav+Smil&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Speed+%26+Scale+by+John+Doerr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Speed &amp; Scale on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oPweEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Speed &amp; Scale" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Speed+%26+Scale+by+John+Doerr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Speed &amp; Scale">Speed &amp; Scale</a>
-        </h4>
-        <p class="fr-book-author">By John Doerr</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Speed+%26+Scale+by+John+Doerr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Speed &amp; Scale on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oPweEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Speed &amp; Scale" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Speed+%26+Scale+by+John+Doerr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Speed &amp; Scale">Speed &amp; Scale</a>
+</h4>
+<p class="fr-book-author">By John Doerr</p>
         
-        <p class="fr-book-desc">Frames the scale and urgency of building additional clean energy capacity.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Speed+%26+Scale+by+John+Doerr&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Frames the scale and urgency of building additional clean energy capacity.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Speed+%26+Scale+by+John+Doerr&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Electrify+by+Saul+Griffith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Electrify on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ALVCEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Electrify" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Electrify+by+Saul+Griffith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Electrify">Electrify</a>
-        </h4>
-        <p class="fr-book-author">By Saul Griffith</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Electrify+by+Saul+Griffith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Electrify on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ALVCEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Electrify" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Electrify+by+Saul+Griffith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Electrify">Electrify</a>
+</h4>
+<p class="fr-book-author">By Saul Griffith</p>
         
-        <p class="fr-book-desc">Supports the page&#x27;s focus on whether clean power is physically meaningful rather than paper-based.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Electrify+by+Saul+Griffith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports the page&#x27;s focus on whether clean power is physically meaningful rather than paper-based.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Electrify+by+Saul+Griffith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Grid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Grid</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+the+World+Really+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How the World Really Works</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Speed+%26+Scale&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Speed &amp; Scale</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Grid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Grid</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+the+World+Really+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How the World Really Works</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Speed+%26+Scale&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Speed &amp; Scale</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=solar+farm+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-ai-data-centre-renewables-real-enough-solar-farm-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="solar farm poster" data-ebay-reference="are-ai-data-centre-renewables-real-enough-solar-farm-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for solar system Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/-5wAAeSw1Hpp2SGK/s-l225.jpg" alt="Listing image for solar system Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=solar+farm+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-ai-data-centre-renewables-real-enough-solar-farm-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="solar farm poster" data-ebay-reference="are-ai-data-centre-renewables-real-enough-solar-farm-poster" target="_blank" rel="sponsored noopener noreferrer">solar system Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=solar+farm+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-ai-data-centre-renewables-real-enough-solar-farm-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="solar farm poster" data-ebay-reference="are-ai-data-centre-renewables-real-enough-solar-farm-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for solar farm poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: solar farm poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=solar+farm+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-ai-data-centre-renewables-real-enough-solar-farm-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="solar farm poster" data-ebay-reference="are-ai-data-centre-renewables-real-enough-solar-farm-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=solar+farm+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-ai-data-centre-renewables-real-enough-solar-farm-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="solar farm poster" data-ebay-reference="are-ai-data-centre-renewables-real-enough-solar-farm-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for solar system Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/-5wAAeSw1Hpp2SGK/s-l225.jpg" alt="Listing image for solar system Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=solar+farm+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-ai-data-centre-renewables-real-enough-solar-farm-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="solar farm poster" data-ebay-reference="are-ai-data-centre-renewables-real-enough-solar-farm-poster" target="_blank" rel="sponsored noopener noreferrer">solar system Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=solar+farm+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-ai-data-centre-renewables-real-enough-solar-farm-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="solar farm poster" data-ebay-reference="are-ai-data-centre-renewables-real-enough-solar-farm-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for solar farm poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: solar farm poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=solar+farm+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-ai-data-centre-renewables-real-enough-solar-farm-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="solar farm poster" data-ebay-reference="are-ai-data-centre-renewables-real-enough-solar-farm-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=solar+farm+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-ai-data-centre-renewables-real-enough-solar-farm-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="solar farm poster" data-ebay-reference="are-ai-data-centre-renewables-real-enough-solar-farm-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Solar system educational Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/xpIAAeSwFMlp1Tcj/s-l225.jpg" alt="Listing image for Solar system educational Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=solar+farm+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-ai-data-centre-renewables-real-enough-solar-farm-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="solar farm poster" data-ebay-reference="are-ai-data-centre-renewables-real-enough-solar-farm-poster" target="_blank" rel="sponsored noopener noreferrer">Solar system educational Framed Art Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=solar+farm+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-ai-data-centre-renewables-real-enough-solar-farm-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="solar farm poster" data-ebay-reference="are-ai-data-centre-renewables-real-enough-solar-farm-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for solar farm poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: solar farm poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=solar+farm+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-ai-data-centre-renewables-real-enough-solar-farm-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="solar farm poster" data-ebay-reference="are-ai-data-centre-renewables-real-enough-solar-farm-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=solar+farm+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-ai-data-centre-renewables-real-enough-solar-farm-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="solar farm poster" data-ebay-reference="are-ai-data-centre-renewables-real-enough-solar-farm-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Solar system educational Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/xpIAAeSwFMlp1Tcj/s-l225.jpg" alt="Listing image for Solar system educational Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=solar+farm+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-ai-data-centre-renewables-real-enough-solar-farm-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="solar farm poster" data-ebay-reference="are-ai-data-centre-renewables-real-enough-solar-farm-poster" target="_blank" rel="sponsored noopener noreferrer">Solar system educational Framed Art Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=solar+farm+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-ai-data-centre-renewables-real-enough-solar-farm-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="solar farm poster" data-ebay-reference="are-ai-data-centre-renewables-real-enough-solar-farm-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for solar farm poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: solar farm poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=solar+farm+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-ai-data-centre-renewables-real-enough-solar-farm-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="solar farm poster" data-ebay-reference="are-ai-data-centre-renewables-real-enough-solar-farm-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=solar+farm+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-ai-data-centre-renewables-real-enough-solar-farm-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="solar farm poster" data-ebay-reference="are-ai-data-centre-renewables-real-enough-solar-farm-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Solar System, Vintage Illustration Print, Poster Wall Art Decor, Space"><img src="https://i.ebayimg.com/images/g/RKAAAOSwKxlndBNU/s-l225.jpg" alt="Listing image for The Solar System, Vintage Illustration Print, Poster Wall Art Decor, Space" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=solar+farm+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-ai-data-centre-renewables-real-enough-solar-farm-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="solar farm poster" data-ebay-reference="are-ai-data-centre-renewables-real-enough-solar-farm-poster" target="_blank" rel="sponsored noopener noreferrer">The Solar System, Vintage Illustration Print, Poster Wall Art Decor, Space</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=solar+farm+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-ai-data-centre-renewables-real-enough-solar-farm-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="solar farm poster" data-ebay-reference="are-ai-data-centre-renewables-real-enough-solar-farm-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for solar farm poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: solar farm poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=solar+farm+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-ai-data-centre-renewables-real-enough-solar-farm-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="solar farm poster" data-ebay-reference="are-ai-data-centre-renewables-real-enough-solar-farm-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=solar+farm+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-ai-data-centre-renewables-real-enough-solar-farm-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="solar farm poster" data-ebay-reference="are-ai-data-centre-renewables-real-enough-solar-farm-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Solar System, Vintage Illustration Print, Poster Wall Art Decor, Space"><img src="https://i.ebayimg.com/images/g/RKAAAOSwKxlndBNU/s-l225.jpg" alt="Listing image for The Solar System, Vintage Illustration Print, Poster Wall Art Decor, Space" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=solar+farm+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-ai-data-centre-renewables-real-enough-solar-farm-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="solar farm poster" data-ebay-reference="are-ai-data-centre-renewables-real-enough-solar-farm-poster" target="_blank" rel="sponsored noopener noreferrer">The Solar System, Vintage Illustration Print, Poster Wall Art Decor, Space</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=solar+farm+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-ai-data-centre-renewables-real-enough-solar-farm-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="solar farm poster" data-ebay-reference="are-ai-data-centre-renewables-real-enough-solar-farm-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for solar farm poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: solar farm poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=solar+farm+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-ai-data-centre-renewables-real-enough-solar-farm-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="solar farm poster" data-ebay-reference="are-ai-data-centre-renewables-real-enough-solar-farm-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=solar+farm+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-ai-data-centre-renewables-real-enough-solar-farm-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="solar farm poster" data-ebay-reference="are-ai-data-centre-renewables-real-enough-solar-farm-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Solar Panel At Sunset Art Print Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/p3gAAeSwM5VodvDI/s-l225.jpg" alt="Listing image for Solar Panel At Sunset Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=solar+farm+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-ai-data-centre-renewables-real-enough-solar-farm-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="solar farm poster" data-ebay-reference="are-ai-data-centre-renewables-real-enough-solar-farm-poster" target="_blank" rel="sponsored noopener noreferrer">Solar Panel At Sunset Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=solar+farm+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-ai-data-centre-renewables-real-enough-solar-farm-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="solar farm poster" data-ebay-reference="are-ai-data-centre-renewables-real-enough-solar-farm-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for solar farm poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: solar farm poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=solar+farm+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-ai-data-centre-renewables-real-enough-solar-farm-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="solar farm poster" data-ebay-reference="are-ai-data-centre-renewables-real-enough-solar-farm-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=solar+farm+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-ai-data-centre-renewables-real-enough-solar-farm-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="solar farm poster" data-ebay-reference="are-ai-data-centre-renewables-real-enough-solar-farm-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=solar+farm+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-ai-data-centre-renewables-real-enough-solar-farm-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="solar farm poster" data-ebay-reference="are-ai-data-centre-renewables-real-enough-solar-farm-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Solar Panel At Sunset Art Print Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/p3gAAeSwM5VodvDI/s-l225.jpg" alt="Listing image for Solar Panel At Sunset Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=solar+farm+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-ai-data-centre-renewables-real-enough-solar-farm-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="solar farm poster" data-ebay-reference="are-ai-data-centre-renewables-real-enough-solar-farm-poster" target="_blank" rel="sponsored noopener noreferrer">Solar Panel At Sunset Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=solar+farm+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-ai-data-centre-renewables-real-enough-solar-farm-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="solar farm poster" data-ebay-reference="are-ai-data-centre-renewables-real-enough-solar-farm-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for solar farm poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: solar farm poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=solar+farm+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-ai-data-centre-renewables-real-enough-solar-farm-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="solar farm poster" data-ebay-reference="are-ai-data-centre-renewables-real-enough-solar-farm-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=solar+farm+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-ai-data-centre-renewables-real-enough-solar-farm-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="solar farm poster" data-ebay-reference="are-ai-data-centre-renewables-real-enough-solar-farm-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -536,7 +536,7 @@ In the larger frame of sustainable AI growth and civilisation‑scale energy tra
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -556,7 +556,7 @@ In the larger frame of sustainable AI growth and civilisation‑scale energy tra
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -588,7 +588,7 @@ In the larger frame of sustainable AI growth and civilisation‑scale energy tra
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -640,7 +640,7 @@ In the larger frame of sustainable AI growth and civilisation‑scale energy tra
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -685,7 +685,7 @@ In the larger frame of sustainable AI growth and civilisation‑scale energy tra
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -726,126 +726,126 @@ In the larger frame of sustainable AI growth and civilisation‑scale energy tra
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: iea.org  
    Title: Data centres & networks  
-   Link: <a href="https://www.iea.org/energy-system/digitalisation/data-centres-and-data-transmission-networks" target="_blank" rel="noopener noreferrer nofollow">https://www.iea.org/energy-system/digitalisation/data-centres-and-data-transmission-networks</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Data centres &amp; networks - IEAJuly 11, 2023...</p></details>
+   Link:<a href="https://www.iea.org/energy-system/digitalisation/data-centres-and-data-transmission-networks" target="_blank" rel="noopener noreferrer nofollow">https://www.iea.org/energy-system/digitalisation/data-centres-and-data-transmission-networks</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Data centres &amp; networks - IEAJuly 11, 2023...</p></details>
    Published: July 11, 2023  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: mckinsey.com  
-   Link: <a href="https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/decarbonizing-the-grid-with-24-7-clean-power-purchase-agreements" target="_blank" rel="noopener noreferrer nofollow">https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/decarbonizing-the-grid-with-24-7-clean-power-purchase-agreements</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>McKinsey &amp; CompanyDecarbonizing the grid with 24/7 clean power purchase agreements | McKinseyMay 11, 2022...</p></details>
+   Link:<a href="https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/decarbonizing-the-grid-with-24-7-clean-power-purchase-agreements" target="_blank" rel="noopener noreferrer nofollow">https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/decarbonizing-the-grid-with-24-7-clean-power-purchase-agreements</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>McKinsey &amp; CompanyDecarbonizing the grid with 24/7 clean power purchase agreements | McKinseyMay 11, 2022...</p></details>
    Published: May 11, 2022  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: sdialliance.org  
    Title: why ppas dont make data centers more sustainable  
-   Link: <a href="https://sdialliance.org/blog/why-ppas-dont-make-data-centers-more-sustainable/" target="_blank" rel="noopener noreferrer nofollow">https://sdialliance.org/blog/why-ppas-dont-make-data-centers-more-sustainable/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Why PPAs don’t make data centers more sustainable · SDIAMarch 8, 2022...</p></details>
+   Link:<a href="https://sdialliance.org/blog/why-ppas-dont-make-data-centers-more-sustainable/" target="_blank" rel="noopener noreferrer nofollow">https://sdialliance.org/blog/why-ppas-dont-make-data-centers-more-sustainable/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why PPAs don’t make data centers more sustainable · SDIAMarch 8, 2022...</p></details>
    Published: March 8, 2022  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reuters.com  
    Title: Why corporates are getting real on renewables purchasing  
-   Link: <a href="https://www.reuters.com/sustainability/climate-energy/why-corporates-are-getting-real-renewables-purchasing--ecmii-2025-12-10/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/sustainability/climate-energy/why-corporates-are-getting-real-renewables-purchasing--ecmii-2025-12-10/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Corporate power purchase agreements (PPAs) have been pivotal, accounting for 25% of global wind and solar capacity in 2023 outside China...</p></details>
+   Link:<a href="https://www.reuters.com/sustainability/climate-energy/why-corporates-are-getting-real-renewables-purchasing--ecmii-2025-12-10/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/sustainability/climate-energy/why-corporates-are-getting-real-renewables-purchasing--ecmii-2025-12-10/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Corporate power purchase agreements (PPAs) have been pivotal, accounting for 25% of global wind and solar capacity in 2023 outside China...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: iea.org  
-   Link: <a href="https://www.iea.org/data-and-statistics/charts/total-data-centre-electricity-demand-covered-by-renewables-ppas" target="_blank" rel="noopener noreferrer nofollow">https://www.iea.org/data-and-statistics/charts/total-data-centre-electricity-demand-covered-by-renewables-ppas</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>April 15, 2026 — TOTAL DATA CENTRE ELECTRICITY DEMAND COVERED BY RENEWABLES PPAS Last updated 15 Apr 2026 Cite Share CITE CHART IEA (2...</p></details>
+   Link:<a href="https://www.iea.org/data-and-statistics/charts/total-data-centre-electricity-demand-covered-by-renewables-ppas" target="_blank" rel="noopener noreferrer nofollow">https://www.iea.org/data-and-statistics/charts/total-data-centre-electricity-demand-covered-by-renewables-ppas</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>April 15, 2026 — TOTAL DATA CENTRE ELECTRICITY DEMAND COVERED BY RENEWABLES PPAS Last updated 15 Apr 2026 Cite Share CITE CHART IEA (2...</p></details>
    Published: April 15, 2026  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: datacenterdynamics.com  
-   Link: <a href="https://www.datacenterdynamics.com/en/analysis/everything-data-center-operators-need-to-know-about-power-purchase-agreements-ppas/" target="_blank" rel="noopener noreferrer nofollow">https://www.datacenterdynamics.com/en/analysis/everything-data-center-operators-need-to-know-about-power-purchase-agreements-ppas/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Data Center DynamicsEverything data center operators need to know about Power Purchase Agreements (PPAs) - DCDMay 26, 2023...</p></details>
+   Link:<a href="https://www.datacenterdynamics.com/en/analysis/everything-data-center-operators-need-to-know-about-power-purchase-agreements-ppas/" target="_blank" rel="noopener noreferrer nofollow">https://www.datacenterdynamics.com/en/analysis/everything-data-center-operators-need-to-know-about-power-purchase-agreements-ppas/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Data Center DynamicsEverything data center operators need to know about Power Purchase Agreements (PPAs) - DCDMay 26, 2023...</p></details>
    Published: May 26, 2023  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: datacenterdynamics.com  
-   Link: <a href="https://www.datacenterdynamics.com/en/news/google-to-expand-247-clean-energy-matching-with-flexidao/" target="_blank" rel="noopener noreferrer nofollow">https://www.datacenterdynamics.com/en/news/google-to-expand-247-clean-energy-matching-with-flexidao/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Data Center DynamicsGoogle to expand 24/7 clean energy matching for its data centers with Flexidao - DCDJanuary 31, 2024...</p></details>
+   Link:<a href="https://www.datacenterdynamics.com/en/news/google-to-expand-247-clean-energy-matching-with-flexidao/" target="_blank" rel="noopener noreferrer nofollow">https://www.datacenterdynamics.com/en/news/google-to-expand-247-clean-energy-matching-with-flexidao/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Data Center DynamicsGoogle to expand 24/7 clean energy matching for its data centers with Flexidao - DCDJanuary 31, 2024...</p></details>
    Published: January 31, 2024  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: re24.energy  
    Title: GREEN ENERGY CHALLENGE HOW WE SOLVE IT? HOW WE SOLVE I  
-   Link: <a href="https://re24.energy/data-centres/" target="_blank" rel="noopener noreferrer nofollow">https://re24.energy/data-centres/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Data Centres - RE24 - Green EnergyJune 4, 2025 — GREEN DATA CENTRES​ GREEN ENERGY CHALLENGE AI is driving a data centre boom, but only a...</p></details>
+   Link:<a href="https://re24.energy/data-centres/" target="_blank" rel="noopener noreferrer nofollow">https://re24.energy/data-centres/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Data Centres - RE24 - Green EnergyJune 4, 2025 — GREEN DATA CENTRES​ GREEN ENERGY CHALLENGE AI is driving a data centre boom, but only a...</p></details>
    Published: June 4, 2025  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: datacenterdynamics.com  
    Title: Bulk and Iron Mountain sign for 24x7 carbon free energy  
-   Link: <a href="https://www.datacenterdynamics.com/en/news/bulk-and-iron-mountain-sign-for-24x7-carbon-free-energy/" target="_blank" rel="noopener noreferrer nofollow">https://www.datacenterdynamics.com/en/news/bulk-and-iron-mountain-sign-for-24x7-carbon-free-energy/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DCDFebruary 3, 2023 — BULK AND IRON MOUNTAIN SIGN FOR 24X7 CARBON FREE ENERGY Colo providers match power use with renewable sources Febru...</p></details>
+   Link:<a href="https://www.datacenterdynamics.com/en/news/bulk-and-iron-mountain-sign-for-24x7-carbon-free-energy/" target="_blank" rel="noopener noreferrer nofollow">https://www.datacenterdynamics.com/en/news/bulk-and-iron-mountain-sign-for-24x7-carbon-free-energy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DCDFebruary 3, 2023 — BULK AND IRON MOUNTAIN SIGN FOR 24X7 CARBON FREE ENERGY Colo providers match power use with renewable sources Febru...</p></details>
    Published: February 3, 2023  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: datacenterdynamics.com  
    Title: Operators should switch to new 24x7 PPAs, says energy storage group  
-   Link: <a href="https://www.datacenterdynamics.com/en/news/operators-should-switch-to-new-24x7-ppas-says-energy-storage-group/" target="_blank" rel="noopener noreferrer nofollow">https://www.datacenterdynamics.com/en/news/operators-should-switch-to-new-24x7-ppas-says-energy-storage-group/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DCDMay 18, 2022 — OPERATORS SHOULD SWITCH TO NEW 24X7 PPAS, SAYS ENERGY STORAGE GROUP Ordinary PPAs don&#x27;t match all the energy with renew...</p></details>
+   Link:<a href="https://www.datacenterdynamics.com/en/news/operators-should-switch-to-new-24x7-ppas-says-energy-storage-group/" target="_blank" rel="noopener noreferrer nofollow">https://www.datacenterdynamics.com/en/news/operators-should-switch-to-new-24x7-ppas-says-energy-storage-group/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DCDMay 18, 2022 — OPERATORS SHOULD SWITCH TO NEW 24X7 PPAS, SAYS ENERGY STORAGE GROUP Ordinary PPAs don&#x27;t match all the energy with renew...</p></details>
    Published: May 18, 2022  
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: capacitymedia.com  
-   Link: <a href="https://www.capacitymedia.com/insider-access-panel-reports-section/data-centre-power-costs-the-ppa-market-and-a-move-to-24-7-power-matching" target="_blank" rel="noopener noreferrer nofollow">https://www.capacitymedia.com/insider-access-panel-reports-section/data-centre-power-costs-the-ppa-market-and-a-move-to-24-7-power-matching</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Data centre [power costs](&amp;#123;&amp;#123; &#x27;power-costs/&#x27; | relative_url &amp;#125;&amp;#125;), the PPA market and a move to 24/7 power matching | Capacity MediaImage: Data centre power costs Insider Access P...</p></details>
+   Link:<a href="https://www.capacitymedia.com/insider-access-panel-reports-section/data-centre-power-costs-the-ppa-market-and-a-move-to-24-7-power-matching" target="_blank" rel="noopener noreferrer nofollow">https://www.capacitymedia.com/insider-access-panel-reports-section/data-centre-power-costs-the-ppa-market-and-a-move-to-24-7-power-matching</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Data centre [power costs](&amp;#123;&amp;#123; &#x27;power-costs/&#x27; | relative_url &amp;#125;&amp;#125;), the PPA market and a move to 24/7 power matching | Capacity MediaImage: Data centre power costs Insider Access P...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0306261926001613" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0306261926001613</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 1, 2026 — APPLIED ENERGY Volume 410, 1 May 2026, 127509 HYBRID POWER PURCHASE AGREEMENTS FOR FLEXIBLE 24/7 ENERGY DELIVE...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0306261926001613" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0306261926001613</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 1, 2026 — APPLIED ENERGY Volume 410, 1 May 2026, 127509 HYBRID POWER PURCHASE AGREEMENTS FOR FLEXIBLE 24/7 ENERGY DELIVE...</p></details>
    Published: May 1, 2026  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: altstreet.investments  
-   Link: <a href="https://altstreet.investments/reference/mechanics/power-purchase-agreement" target="_blank" rel="noopener noreferrer nofollow">https://altstreet.investments/reference/mechanics/power-purchase-agreement</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Power Purchase Agreement | Reference | AltStreetPOWER PURCHASE AGREEMENT AI Infrastructure &amp; Compute DEFINITION A power purchase agreemen...</p></details>
+   Link:<a href="https://altstreet.investments/reference/mechanics/power-purchase-agreement" target="_blank" rel="noopener noreferrer nofollow">https://altstreet.investments/reference/mechanics/power-purchase-agreement</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Power Purchase Agreement | Reference | AltStreetPOWER PURCHASE AGREEMENT AI Infrastructure &amp; Compute DEFINITION A power purchase agreemen...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: orrick.com  
-   Link: <a href="https://www.orrick.com/en/Insights/2025/11/Powering-Data-Centers" target="_blank" rel="noopener noreferrer nofollow">https://www.orrick.com/en/Insights/2025/11/Powering-Data-Centers</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>November 20, 2025 — CONTRACTING FOR POWER In this chapter: Power procurement mechanisms including utility tariff evolution for data cente...</p></details>
+   Link:<a href="https://www.orrick.com/en/Insights/2025/11/Powering-Data-Centers" target="_blank" rel="noopener noreferrer nofollow">https://www.orrick.com/en/Insights/2025/11/Powering-Data-Centers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>November 20, 2025 — CONTRACTING FOR POWER In this chapter: Power procurement mechanisms including utility tariff evolution for data cente...</p></details>
    Published: November 20, 2025  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: renewabl.com  
-   Link: <a href="https://www.renewabl.com/renewabl-trade" target="_blank" rel="noopener noreferrer nofollow">https://www.renewabl.com/renewabl-trade</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Free-to-run tenders Traceable certificates and PPAs Browse 2.5TW of supply Speak to us Image TRUSTED BY INDUSTRY LEADERS “No other compan...</p></details>
+   Link:<a href="https://www.renewabl.com/renewabl-trade" target="_blank" rel="noopener noreferrer nofollow">https://www.renewabl.com/renewabl-trade</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Free-to-run tenders Traceable certificates and PPAs Browse 2.5TW of supply Speak to us Image TRUSTED BY INDUSTRY LEADERS “No other compan...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: renewabl.com  
-   Link: <a href="https://www.renewabl.com/industries/data-centres" target="_blank" rel="noopener noreferrer nofollow">https://www.renewabl.com/industries/data-centres</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>For Tech sectorTech industry POWERING DATA CENTRES WITH CARBON-FREE ENERGY Competitive tenders cPPAs, EACs, and green tariffs...</p></details>
+   Link:<a href="https://www.renewabl.com/industries/data-centres" target="_blank" rel="noopener noreferrer nofollow">https://www.renewabl.com/industries/data-centres</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>For Tech sectorTech industry POWERING DATA CENTRES WITH CARBON-FREE ENERGY Competitive tenders cPPAs, EACs, and green tariffs...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: renewabl.com  
    Title: Trade | EAC and PPA procurement platform SIMPLIFY PROCUREMENT, MAXIMISE IMPACT  
-   Link: <a href="https://www.renewabl.com/trade" target="_blank" rel="noopener noreferrer nofollow">https://www.renewabl.com/trade</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Free-to-run tenders Traceable certificates and PPAs Browse 13 TWh of supply Speak to us TRUSTED BY INDUSTRY LEADERS “No other company can...</p></details>
+   Link:<a href="https://www.renewabl.com/trade" target="_blank" rel="noopener noreferrer nofollow">https://www.renewabl.com/trade</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Free-to-run tenders Traceable certificates and PPAs Browse 13 TWh of supply Speak to us TRUSTED BY INDUSTRY LEADERS “No other company can...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: holborngreendata.com  
-   Link: <a href="https://www.holborngreendata.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.holborngreendata.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sliced and diced the way you want. Enter Portal MAPPING THE UK&#x27;S RENEWABLE ENERGY CERTIFICATES See REGOs/ROs chan...</p></details>
+   Link:<a href="https://www.holborngreendata.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.holborngreendata.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sliced and diced the way you want. Enter Portal MAPPING THE UK&#x27;S RENEWABLE ENERGY CERTIFICATES See REGOs/ROs chan...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: pv-tech.org  
    Title: PP As: imperfect but crucial tool to meet data centres’ power needs  
-   Link: <a href="https://www.pv-tech.org/ppas-imperfect-crucial-tool-data-centres-growing-electricity-demand/" target="_blank" rel="noopener noreferrer nofollow">https://www.pv-tech.org/ppas-imperfect-crucial-tool-data-centres-growing-electricity-demand/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PPAs: imperfect but crucial tool to meet data centres’ power needs - PV TechMay 21, 2025 — PPAS ARE AN IMPERFECT BUT CRUCIAL TOOL TO MEET...</p></details>
+   Link:<a href="https://www.pv-tech.org/ppas-imperfect-crucial-tool-data-centres-growing-electricity-demand/" target="_blank" rel="noopener noreferrer nofollow">https://www.pv-tech.org/ppas-imperfect-crucial-tool-data-centres-growing-electricity-demand/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PPAs: imperfect but crucial tool to meet data centres’ power needs - PV TechMay 21, 2025 — PPAS ARE AN IMPERFECT BUT CRUCIAL TOOL TO MEET...</p></details>
    Published: May 21, 2025  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: pillsburylaw.com  
    Title: Power Purchase and Interconnection Agreements for Data Centers  
-   Link: <a href="https://www.pillsburylaw.com/en/news-and-insights/power-purchase-interconnection-agreements-data-centers.html" target="_blank" rel="noopener noreferrer nofollow">https://www.pillsburylaw.com/en/news-and-insights/power-purchase-interconnection-agreements-data-centers.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>July 21, 2025 — POWER PURCHASE AND INTERCONNECTION AGREEMENTS FOR DATA CENTERS WHEN STRUCTURING THESE AGREEMENTS, IT IS IMPORTANT TO CONS...</p></details>
+   Link:<a href="https://www.pillsburylaw.com/en/news-and-insights/power-purchase-interconnection-agreements-data-centers.html" target="_blank" rel="noopener noreferrer nofollow">https://www.pillsburylaw.com/en/news-and-insights/power-purchase-interconnection-agreements-data-centers.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>July 21, 2025 — POWER PURCHASE AND INTERCONNECTION AGREEMENTS FOR DATA CENTERS WHEN STRUCTURING THESE AGREEMENTS, IT IS IMPORTANT TO CONS...</p></details>
    Published: July 21, 2025

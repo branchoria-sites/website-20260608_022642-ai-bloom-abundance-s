@@ -269,16 +269,16 @@ image: /assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_closed_loop_s_1d
 
 ## Introduction
 
-The A-Lab experiment became one of the most discussed demonstrations of AI-driven scientific acceleration because it moved beyond prediction and into physical reality. In late 2023, researchers at Lawrence Berkeley National Laboratory reported that their autonomous materials laboratory operated continuously for 17 days, selecting, running, evaluating and refining experiments with minimal human intervention. During that campaign, the system successfully synthesised dozens of targeted inorganic materials that had never previously been realised in the laboratory. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-023-06734-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">An autonomous laboratory for the accelerated synthesis of...29 Nov 2023 — Over 17 days of continuous operation, the A-Lab realized...</span></span></span>
+The A-Lab experiment became one of the most discussed demonstrations of AI-driven scientific acceleration because it moved beyond prediction and into physical reality. In late 2023, researchers at Lawrence Berkeley National Laboratory reported that their autonomous materials laboratory operated continuously for 17 days, selecting, running, evaluating and refining experiments with minimal human intervention. During that campaign, the system successfully synthesised dozens of targeted inorganic materials that had never previously been realised in the laboratory.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-023-06734-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">An autonomous laboratory for the accelerated synthesis of...29 Nov 2023 — Over 17 days of continuous operation, the A-Lab realized...</span></span></span>
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_closed_loop_s_1d6cea_a_lab_materia_2df5e0-Illustration-1-dark.svg" | relative_url }}" alt="A Lab illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_closed_loop_s_1d6cea_a_lab_materia_2df5e0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_closed_loop_s_1d6cea_a_lab_materia_2df5e0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For the broader idea of AI-enabled scientific abundance, the importance was not merely that A-Lab made new compounds. Materials science has long been constrained by slow experimental cycles, where researchers spend weeks or months testing hypotheses. A-Lab suggested that AI, robotics and automated decision-making can compress those cycles into a continuous feedback loop operating day and night. The experiment therefore became a test of a larger claim: whether machine [intelligence]({{ 'intelligence/' | relative_url }}) connected directly to laboratory equipment can accelerate [discovery]({{ 'discovery/' | relative_url }}) itself rather than simply analyse existing data. Nature <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2590238521003064" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Autonomous experimentation systems for materials...by E Stach · 2021 · Cited by 392 — This review discusses the specific ch...</span></span></span>
+For the broader idea of AI-enabled scientific abundance, the importance was not merely that A-Lab made new compounds. Materials science has long been constrained by slow experimental cycles, where researchers spend weeks or months testing hypotheses. A-Lab suggested that AI, robotics and automated decision-making can compress those cycles into a continuous feedback loop operating day and night. The experiment therefore became a test of a larger claim: whether machine [intelligence]({{ 'intelligence/' | relative_url }}) connected directly to laboratory equipment can accelerate [discovery]({{ 'discovery/' | relative_url }}) itself rather than simply analyse existing data. Nature<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2590238521003064" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Autonomous experimentation systems for materials...by E Stach · 2021 · Cited by 392 — This review discusses the specific ch...</span></span></span>
 
 ## Can One Autonomous Lab Compress Years of Discovery?
 
 The headline numbers were striking.
 
-Over a 17-day period, A-Lab attempted to synthesise 57–58 target materials, depending on the version of the reporting and later corrections. It successfully produced more than 70% of them, achieving roughly 41 successful syntheses while operating continuously. Researchers described this as a pace exceeding two successful new materials per day. <span class="citation-chip-wrap"><a class="citation-chip" href="https://newscenter.lbl.gov/2023/11/29/google-deepmind-new-compounds-materials-project/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newscenter.lbl.gov">[Berkeley Lab News Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newscenter.lbl.gov</span><span class="citation-popover-title">A-Lab and a scientist at Berkeley Lab and UC Berkeley.Read more</span><span class="citation-popover-snippet">Berkeley Lab News CenterGoogle DeepMind Adds Nearly 400000 New Compounds to...29 Nov 2023 — Over 17 days of independent operation, A-Lab...</span></span></span> PubMed That pace matters because solid-state materials discovery is often highly uncertain. A theoretically promising material may require precise c <span class="citation-chip-wrap"><a class="citation-chip" href="https://royalsocietypublishing.org/rsos/article/12/7/250646/235354/Autonomous-self-driving-laboratories-a-review-of" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royalsocietypublishing.org">[royalsocietypublishing.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royalsocietypublishing.org</span><span class="citation-popover-snippet">Autonomous &#x27;self-driving&#x27; laboratories: a review of technology...by AV Tobias · 2025 · Cited by 65 — This article reviews and provides p...</span></span></span> ombinations of precursor chemicals, temperatures, heating schedules and processing conditions. Even when computational models suggest a compound should exist, researchers frequently spend months trying to determine how to make it in practice. Nature <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/an-ai-dreamed-up-380000-new-materials-the-next-challenge-is-making-them" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Google Deep Mind&#x27;s AI Dreamed Up 380,000 New Materials</span><span class="citation-popover-snippet">The Next Challenge Is Making ThemGoogle DeepMind developed an AI program, GNoME, which has predicted 380,000 new stable materials, expand...</span></span></span> The A-Lab campaign therefore tested a key bottleneck in modern science. The challenge was not generating candidate materials. Computational systems such as the Materials Project and, separately, Google DeepMind's materials-prediction efforts were already producing huge numbers of possibilities. The challenge was turning predictions into experimentally validated reality. <span class="citation-chip-wrap"><a class="citation-chip" href="https://newscenter.lbl.gov/2023/11/29/google-deepmind-new-compounds-materials-project/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newscenter.lbl.gov">[Berkeley Lab News Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newscenter.lbl.gov</span><span class="citation-popover-title">A-Lab and a scientist at Berkeley Lab and UC Berkeley.Read more</span><span class="citation-popover-snippet">Berkeley Lab News CenterGoogle DeepMind Adds Nearly 400000 New Compounds to...29 Nov 2023 — Over 17 days of independent operation, A-Lab...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/6340681/deepmind-gnome-ai-materials/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-snippet">Their AI tool, GNoME, was trained with data from the Materials Project and has accurately predicted 381,000 stable materials, significant...</span></span></span>
+Over a 17-day period, A-Lab attempted to synthesise 57–58 target materials, depending on the version of the reporting and later corrections. It successfully produced more than 70% of them, achieving roughly 41 successful syntheses while operating continuously. Researchers described this as a pace exceeding two successful new materials per day.<span class="citation-chip-wrap"><a class="citation-chip" href="https://newscenter.lbl.gov/2023/11/29/google-deepmind-new-compounds-materials-project/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newscenter.lbl.gov">[Berkeley Lab News Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newscenter.lbl.gov</span><span class="citation-popover-title">A-Lab and a scientist at Berkeley Lab and UC Berkeley.Read more</span><span class="citation-popover-snippet">Berkeley Lab News CenterGoogle DeepMind Adds Nearly 400000 New Compounds to...29 Nov 2023 — Over 17 days of independent operation, A-Lab...</span></span></span> PubMed That pace matters because solid-state materials discovery is often highly uncertain. A theoretically promising material may require precise c<span class="citation-chip-wrap"><a class="citation-chip" href="https://royalsocietypublishing.org/rsos/article/12/7/250646/235354/Autonomous-self-driving-laboratories-a-review-of" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royalsocietypublishing.org">[royalsocietypublishing.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royalsocietypublishing.org</span><span class="citation-popover-snippet">Autonomous &#x27;self-driving&#x27; laboratories: a review of technology...by AV Tobias · 2025 · Cited by 65 — This article reviews and provides p...</span></span></span> ombinations of precursor chemicals, temperatures, heating schedules and processing conditions. Even when computational models suggest a compound should exist, researchers frequently spend months trying to determine how to make it in practice. Nature<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/an-ai-dreamed-up-380000-new-materials-the-next-challenge-is-making-them" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Google Deep Mind&#x27;s AI Dreamed Up 380,000 New Materials</span><span class="citation-popover-snippet">The Next Challenge Is Making ThemGoogle DeepMind developed an AI program, GNoME, which has predicted 380,000 new stable materials, expand...</span></span></span> The A-Lab campaign therefore tested a key bottleneck in modern science. The challenge was not generating candidate materials. Computational systems such as the Materials Project and, separately, Google DeepMind's materials-prediction efforts were already producing huge numbers of possibilities. The challenge was turning predictions into experimentally validated reality.<span class="citation-chip-wrap"><a class="citation-chip" href="https://newscenter.lbl.gov/2023/11/29/google-deepmind-new-compounds-materials-project/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newscenter.lbl.gov">[Berkeley Lab News Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newscenter.lbl.gov</span><span class="citation-popover-title">A-Lab and a scientist at Berkeley Lab and UC Berkeley.Read more</span><span class="citation-popover-snippet">Berkeley Lab News CenterGoogle DeepMind Adds Nearly 400000 New Compounds to...29 Nov 2023 — Over 17 days of independent operation, A-Lab...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/6340681/deepmind-gnome-ai-materials/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-snippet">Their AI tool, GNoME, was trained with data from the Materials Project and has accurately predicted 381,000 stable materials, significant...</span></span></span>
 
 The significance for the AI bloom vision is straightforward. If AI can dramatically increase the number of experimental cycles civilisation completes each year, scientific progress could become less constrained by laboratory throughput and more constrained by available resources, infrastructure and strategic priorities.
 
@@ -293,13 +293,13 @@ Researchers integrated:
 * Natural-language models trained on published chemistry literature.
 * Robotic equipment capable of mixing powders and carrying out reactions.
 * Automated characterisation systems that evaluated experimental outcomes.
-* Active-learning software that decided what to try next. Nature PubMed The workflow looked more like a scientific team than a traditional robot. <span class="citation-chip-wrap"><a class="citation-chip" href="https://royalsocietypublishing.org/rsos/article/12/7/250646/235354/Autonomous-self-driving-laboratories-a-review-of" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royalsocietypublishing.org">[royalsocietypublishing.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royalsocietypublishing.org</span><span class="citation-popover-snippet">Autonomous &#x27;self-driving&#x27; laboratories: a review of technology...by AV Tobias · 2025 · Cited by 65 — This article reviews and provides p...</span></span></span>
+* Active-learning software that decided what to try next. Nature PubMed The workflow looked more like a scientific team than a traditional robot.<span class="citation-chip-wrap"><a class="citation-chip" href="https://royalsocietypublishing.org/rsos/article/12/7/250646/235354/Autonomous-self-driving-laboratories-a-review-of" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royalsocietypublishing.org">[royalsocietypublishing.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royalsocietypublishing.org</span><span class="citation-popover-snippet">Autonomous &#x27;self-driving&#x27; laboratories: a review of technology...by AV Tobias · 2025 · Cited by 65 — This article reviews and provides p...</span></span></span>
 
-First, candidate compounds were selected from computational predictions. The system then generated synthesis recipes using knowledge extracted from existing scientific literature. Robotic equipment mixed and processed the materials. Characterisation tools measured the outcome. The resulting data fed back into the decision system, which updated its understanding and proposed new experiments. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41467-020-19597-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">On-the-fly closed-loop materials discovery via Bayesian...by AG Kusne · 2020 · Cited by 535 — In this work, we focus a closed-loop...</span></span></span>
+First, candidate compounds were selected from computational predictions. The system then generated synthesis recipes using knowledge extracted from existing scientific literature. Robotic equipment mixed and processed the materials. Characterisation tools measured the outcome. The resulting data fed back into the decision system, which updated its understanding and proposed new experiments.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41467-020-19597-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">On-the-fly closed-loop materials discovery via Bayesian...by AG Kusne · 2020 · Cited by 535 — In this work, we focus a closed-loop...</span></span></span>
 
 This feedback loop is what distinguishes autonomous science from ordinary automation.
 
-Laboratories have long used robotic instruments. The novel element was the integration of decision-making and experimentation into a continuous cycle. Instead of simply executing a fixed protocol, A-Lab adjusted its actions based on what happened in previous runs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/d41586-023-03956-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Robot chemist sparks row with claim it created new materialsDec 12, 2023 — Researchers question whether an AI-controlled lab assist...</span></span></span>
+Laboratories have long used robotic instruments. The novel element was the integration of decision-making and experimentation into a continuous cycle. Instead of simply executing a fixed protocol, A-Lab adjusted its actions based on what happened in previous runs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/d41586-023-03956-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Robot chemist sparks row with claim it created new materialsDec 12, 2023 — Researchers question whether an AI-controlled lab assist...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Sp2r2ankib0" title="Accelerating Discovery with AI and Automation at Berkeley Lab" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Sp2r2ankib0" target="_blank" rel="noopener noreferrer">Accelerating Discovery with AI and Automation at Berkeley Lab</a></p><p class="youtube-embed-meta">Channel: Berkeley Lab &middot; Views: 2.5K &middot; Uploaded: April 2025 &middot; Length: 3 minutes 13 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Sp2r2ankib0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Sp2r2ankib0">Open on YouTube</a></p></div></div></div>
 
@@ -307,13 +307,13 @@ Laboratories have long used robotic instruments. The novel element was the integ
 
 The most important part of the experiment was arguably not the successes but the failures.
 
-Materials synthesis is full of dead ends. Reactions can produce unwanted phases, incomplete products or entirely different compounds from those predicted. Human researchers normally learn from these failures, adjusting temperatures, ingredient ratios or processing steps and then trying again. That iterative process is often slow and heavily dependent on expert judgement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2590238521003064" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Autonomous experimentation systems for materials...by E Stach · 2021 · Cited by 392 — This review discusses the specific ch...</span></span></span>
+Materials synthesis is full of dead ends. Reactions can produce unwanted phases, incomplete products or entirely different compounds from those predicted. Human researchers normally learn from these failures, adjusting temperatures, ingredient ratios or processing steps and then trying again. That iterative process is often slow and heavily dependent on expert judgement.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2590238521003064" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Autonomous experimentation systems for materials...by E Stach · 2021 · Cited by 392 — This review discusses the specific ch...</span></span></span>
 
 A-Lab attempted to automate that learning process.
 
-When an experiment failed to produce a sufficiently pure target material, the system analysed the result and proposed follow-up recipes designed to improve the outcome. Researchers described the approach as active learning grounded in thermodynamic reasoning rather than simple trial-and-error searching. Nature <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10700133/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">An autonomous laboratory for the accelerated synthesis of...by NJ Szymanski · 2023 · Cited by 1176 — Over 17 days of operation, the A...</span></span></span>
+When an experiment failed to produce a sufficiently pure target material, the system analysed the result and proposed follow-up recipes designed to improve the outcome. Researchers described the approach as active learning grounded in thermodynamic reasoning rather than simple trial-and-error searching. Nature<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10700133/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">An autonomous laboratory for the accelerated synthesis of...by NJ Szymanski · 2023 · Cited by 1176 — Over 17 days of operation, the A...</span></span></span>
 
-Several of the successful syntheses emerged only after these iterative corrections. Reports on the campaign noted that some compounds required repeated refinement before the desired result appeared. In other words, the achievement was not merely that the system executed experiments quickly. It demonstrated the ability to respond to experimental reality and adapt its behaviour during the campaign. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/an-ai-dreamed-up-380000-new-materials-the-next-challenge-is-making-them" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Google Deep Mind&#x27;s AI Dreamed Up 380,000 New Materials</span><span class="citation-popover-snippet">The Next Challenge Is Making ThemGoogle DeepMind developed an AI program, GNoME, which has predicted 380,000 new stable materials, expand...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.law.berkeley.edu/wp-content/uploads/2024/02/Google-AI-and-robots-join-forces-to-build-new-materials.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: law.berkeley.edu">[UC Berkeley Law]</a><span class="citation-popover" role="note"><span class="citation-popover-source">law.berkeley.edu</span><span class="citation-popover-snippet">UC Berkeley LawGoogle AI and robots join forces to build new materialsby M Peplow · Cited by 10 — In all, the A-Lab took 17 days to produ...</span></span></span>
+Several of the successful syntheses emerged only after these iterative corrections. Reports on the campaign noted that some compounds required repeated refinement before the desired result appeared. In other words, the achievement was not merely that the system executed experiments quickly. It demonstrated the ability to respond to experimental reality and adapt its behaviour during the campaign.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/an-ai-dreamed-up-380000-new-materials-the-next-challenge-is-making-them" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Google Deep Mind&#x27;s AI Dreamed Up 380,000 New Materials</span><span class="citation-popover-snippet">The Next Challenge Is Making ThemGoogle DeepMind developed an AI program, GNoME, which has predicted 380,000 new stable materials, expand...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.law.berkeley.edu/wp-content/uploads/2024/02/Google-AI-and-robots-join-forces-to-build-new-materials.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: law.berkeley.edu">[UC Berkeley Law]</a><span class="citation-popover" role="note"><span class="citation-popover-source">law.berkeley.edu</span><span class="citation-popover-snippet">UC Berkeley LawGoogle AI and robots join forces to build new materialsby M Peplow · Cited by 10 — In all, the A-Lab took 17 days to produ...</span></span></span>
 
 This matters because many optimistic forecasts about AI-driven science assume that machine systems will eventually do more than search databases. They will need to confront messy, uncertain physical environments where predictions fail. A-Lab provided evidence that closed-loop systems can begin handling that challenge.
 
@@ -324,7 +324,7 @@ The broader importance of the 17-day campaign was methodological.
 
 The materials themselves were less significant than the process used to discover them.
 
-Researchers in batteries, semiconductors, catalysts, superconductors, pharmaceuticals and other fields all face versions of the same problem: enormous search spaces combined with expensive experiments. There may be millions or billions of plausible possibilities, but only a tiny fraction can be tested manually. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2590238521003064" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Autonomous experimentation systems for materials...by E Stach · 2021 · Cited by 392 — This review discusses the specific ch...</span></span></span>
+Researchers in batteries, semiconductors, catalysts, superconductors, pharmaceuticals and other fields all face versions of the same problem: enormous search spaces combined with expensive experiments. There may be millions or billions of plausible possibilities, but only a tiny fraction can be tested manually.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2590238521003064" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Autonomous experimentation systems for materials...by E Stach · 2021 · Cited by 392 — This review discusses the specific ch...</span></span></span>
 
 A-Lab suggested a different model for scientific progress:
 
@@ -337,7 +337,7 @@ A-Lab suggested a different model for scientific progress:
 
 </div>
 
-The result is not just faster experiments. It is potentially a different scale of experimentation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-024-08173-7" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Autonomous mobile robots for exploratory synthetic chemistryby T Dai · 2024 · Cited by 245 — Here we show that a synthesis laboratory can...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-023-06734-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">An autonomous laboratory for the accelerated synthesis of...29 Nov 2023 — Over 17 days of continuous operation, the A-Lab realized...</span></span></span>
+The result is not just faster experiments. It is potentially a different scale of experimentation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-024-08173-7" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Autonomous mobile robots for exploratory synthetic chemistryby T Dai · 2024 · Cited by 245 — Here we show that a synthesis laboratory can...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-023-06734-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">An autonomous laboratory for the accelerated synthesis of...29 Nov 2023 — Over 17 days of continuous operation, the A-Lab realized...</span></span></span>
 
 For advocates of long-term AI-driven abundance, this is one of the clearest pathways from digital intelligence to physical progress. Economic and civilisational gains ultimately depend on changes in the physical world: better [energy]({{ 'energy/' | relative_url }}) systems, improved medicines, stronger materials, cleaner industrial processes and more efficient manufacturing. Accelerating the discovery cycle for those technologies could have effects far beyond laboratory productivity.
 
@@ -347,11 +347,11 @@ For advocates of long-term AI-driven abundance, this is one of the clearest path
 
 The experiment also triggered an important scientific dispute.
 
-Shortly after publication, some researchers questioned whether A-Lab had truly created "new" materials in the strongest sense. Critics argued that some compounds may have appeared previously in literature, databases or earlier reports, and challenged aspects of the novelty claims attached to the results. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cen.acs.org/research-integrity/Nature-robot-chemist-paper-corrected/104/web/2026/01" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cen.acs.org">[Chemical &amp; Engineering News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cen.acs.org</span><span class="citation-popover-title">Chemical &amp; Engineering News&#x27;Nature&#x27; robot chemist paper corrected, but some</span><span class="citation-popover-snippet">C&amp;EN29 Jan 2026 — The original study claimed the robot had discovered 43 new materials in 17 days...</span></span></span> [3Nature 3Chemistry World]
+Shortly after publication, some researchers questioned whether A-Lab had truly created "new" materials in the strongest sense. Critics argued that some compounds may have appeared previously in literature, databases or earlier reports, and challenged aspects of the novelty claims attached to the results.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cen.acs.org/research-integrity/Nature-robot-chemist-paper-corrected/104/web/2026/01" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cen.acs.org">[Chemical &amp; Engineering News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cen.acs.org</span><span class="citation-popover-title">Chemical &amp; Engineering News&#x27;Nature&#x27; robot chemist paper corrected, but some</span><span class="citation-popover-snippet">C&amp;EN29 Jan 2026 — The original study claimed the robot had discovered 43 new materials in 17 days...</span></span></span> [3Nature 3Chemistry World]
 
 This criticism matters because the most dramatic headlines focused on the number of supposedly novel compounds produced.
 
-Yet even if one adopts a more conservative interpretation, the central result remains substantial. The strongest evidence from A-Lab was not that every compound represented a revolutionary discovery. It was that an autonomous system successfully navigated a difficult synthesis process, adapted after failures and repeatedly converted computational predictions into experimentally realised materials. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41467-020-19597-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">On-the-fly closed-loop materials discovery via Bayesian...by AG Kusne · 2020 · Cited by 535 — In this work, we focus a closed-loop...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.chemistryworld.com/news/new-analysis-raises-doubts-over-autonomous-labs-materials-discoveries/4018791.article" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chemistryworld.com">[Chemistry World]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chemistryworld.com</span><span class="citation-popover-snippet">New analysis raises doubts over autonomous lab&#x27;s...Jan 16, 2024 — The team reported that, over 17 days of independent operation, A-Lab p...</span></span></span>
+Yet even if one adopts a more conservative interpretation, the central result remains substantial. The strongest evidence from A-Lab was not that every compound represented a revolutionary discovery. It was that an autonomous system successfully navigated a difficult synthesis process, adapted after failures and repeatedly converted computational predictions into experimentally realised materials.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41467-020-19597-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">On-the-fly closed-loop materials discovery via Bayesian...by AG Kusne · 2020 · Cited by 535 — In this work, we focus a closed-loop...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.chemistryworld.com/news/new-analysis-raises-doubts-over-autonomous-labs-materials-discoveries/4018791.article" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chemistryworld.com">[Chemistry World]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chemistryworld.com</span><span class="citation-popover-snippet">New analysis raises doubts over autonomous lab&#x27;s...Jan 16, 2024 — The team reported that, over 17 days of independent operation, A-Lab p...</span></span></span>
 
 The distinction is important.
 
@@ -364,207 +364,207 @@ In that sense, the most durable lesson from A-Lab may be about process rather th
 
 The 17-day campaign did not prove that autonomous laboratories can solve science.
 
-It did not show that AI can replace scientists, eliminate the need for theory, or automatically generate breakthroughs on demand. It also did not solve the harder question of identifying which among thousands of possible materials will become economically transformative. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/an-ai-dreamed-up-380000-new-materials-the-next-challenge-is-making-them" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Google Deep Mind&#x27;s AI Dreamed Up 380,000 New Materials</span><span class="citation-popover-snippet">The Next Challenge Is Making ThemGoogle DeepMind developed an AI program, GNoME, which has predicted 380,000 new stable materials, expand...</span></span></span>
+It did not show that AI can replace scientists, eliminate the need for theory, or automatically generate breakthroughs on demand. It also did not solve the harder question of identifying which among thousands of possible materials will become economically transformative.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/an-ai-dreamed-up-380000-new-materials-the-next-challenge-is-making-them" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Google Deep Mind&#x27;s AI Dreamed Up 380,000 New Materials</span><span class="citation-popover-snippet">The Next Challenge Is Making ThemGoogle DeepMind developed an AI program, GNoME, which has predicted 380,000 new stable materials, expand...</span></span></span>
 
 What it did show was narrower and, in some ways, more important.
 
-It demonstrated that closed-loop systems can carry out extended experimental campaigns, learn from failed attempts, update their strategies and continuously push through a large search space without requiring constant human intervention. Nature <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10700133/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">An autonomous laboratory for the accelerated synthesis of...by NJ Szymanski · 2023 · Cited by 1176 — Over 17 days of operation, the A...</span></span></span>
+It demonstrated that closed-loop systems can carry out extended experimental campaigns, learn from failed attempts, update their strategies and continuously push through a large search space without requiring constant human intervention. Nature<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10700133/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">An autonomous laboratory for the accelerated synthesis of...by NJ Szymanski · 2023 · Cited by 1176 — Over 17 days of operation, the A...</span></span></span>
 
 For the wider story of AI bloom, that is one of the clearest pieces of evidence that scientific progress itself may become increasingly automatable. The long-term promise is not a single robot laboratory producing a handful of compounds. It is the possibility of thousands of interconnected systems exploring chemical, biological and engineering possibilities simultaneously, each improving from real-world feedback.
 
-The leap from intelligence to abundance depends on whether ideas can be turned into reality faster. A-Lab's 17-day campaign became a landmark because it offered one of the first concrete demonstrations that this transition may already be beginning. Nature <span class="citation-chip-wrap"><a class="citation-chip" href="https://royalsocietypublishing.org/rsos/article/12/7/250646/235354/Autonomous-self-driving-laboratories-a-review-of" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royalsocietypublishing.org">[Royal Society Publishing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royalsocietypublishing.org</span><span class="citation-popover-snippet">Autonomous &#x27;self-driving&#x27; laboratories: a review of technology...by AV Tobias · 2025 · Cited by 65 — This article reviews and provides p...</span></span></span>
+The leap from intelligence to abundance depends on whether ideas can be turned into reality faster. A-Lab's 17-day campaign became a landmark because it offered one of the first concrete demonstrations that this transition may already be beginning. Nature<span class="citation-chip-wrap"><a class="citation-chip" href="https://royalsocietypublishing.org/rsos/article/12/7/250646/235354/Autonomous-self-driving-laboratories-a-review-of" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royalsocietypublishing.org">[Royal Society Publishing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royalsocietypublishing.org</span><span class="citation-popover-snippet">Autonomous &#x27;self-driving&#x27; laboratories: a review of technology...by AV Tobias · 2025 · Cited by 65 — This article reviews and provides p...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/blooHbR5_eM" title="An autonomous laboratory for the accelerated synthesis of novel materials" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=blooHbR5_eM" target="_blank" rel="noopener noreferrer">An autonomous laboratory for the accelerated synthesis of novel materials</a></p><p class="youtube-embed-meta">Channel: Arman Simohartono &middot; Views: 443 &middot; Uploaded: December 2023 &middot; Length: 2 minutes 16 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=blooHbR5_eM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=blooHbR5_eM">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can One Autonomous Lab Compress Years of Discovery?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can One Autonomous Lab Compress Years of Discovery?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Master+Algorithm+by+Pedro+Domingos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Master Algorithm on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=WpTSDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Master Algorithm" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Master+Algorithm+by+Pedro+Domingos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Master Algorithm">The Master Algorithm</a>
-        </h4>
-        <p class="fr-book-author">By Pedro Domingos</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Master+Algorithm+by+Pedro+Domingos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Master Algorithm on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=WpTSDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Master Algorithm" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Master+Algorithm+by+Pedro+Domingos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Master Algorithm">The Master Algorithm</a>
+</h4>
+<p class="fr-book-author">By Pedro Domingos</p>
         
-        <p class="fr-book-desc">Helps readers understand the learning systems behind active, autonomous experiment selection.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Master+Algorithm+by+Pedro+Domingos&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand the learning systems behind active, autonomous experiment selection.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Master+Algorithm+by+Pedro+Domingos&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Stuff+Matters+by+Mark+Miodownik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Stuff Matters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_5yUAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Stuff Matters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Stuff+Matters+by+Mark+Miodownik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Stuff Matters">Stuff Matters</a>
-        </h4>
-        <p class="fr-book-author">By Mark Miodownik</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Stuff+Matters+by+Mark+Miodownik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Stuff Matters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_5yUAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Stuff Matters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Stuff+Matters+by+Mark+Miodownik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Stuff Matters">Stuff Matters</a>
+</h4>
+<p class="fr-book-author">By Mark Miodownik</p>
         
-        <p class="fr-book-desc">Gives concrete context for why discovering and making new materials matters.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Stuff+Matters+by+Mark+Miodownik&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Gives concrete context for why discovering and making new materials matters.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Stuff+Matters+by+Mark+Miodownik&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Knowledge+Machine+by+Michael+Strevens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Knowledge Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=f4aQEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Knowledge Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Knowledge+Machine+by+Michael+Strevens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Knowledge Machine">The Knowledge Machine</a>
-        </h4>
-        <p class="fr-book-author">By Michael Strevens</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Knowledge+Machine+by+Michael+Strevens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Knowledge Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=f4aQEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Knowledge Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Knowledge+Machine+by+Michael+Strevens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Knowledge Machine">The Knowledge Machine</a>
+</h4>
+<p class="fr-book-author">By Michael Strevens</p>
         
-        <p class="fr-book-desc">Explains the institutional and methodological discipline behind credible discovery claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Knowledge+Machine+by+Michael+Strevens&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains the institutional and methodological discipline behind credible discovery claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Knowledge+Machine+by+Michael+Strevens&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Genesis+Machine+by+Amy+Webb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Genesis Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=B1QyEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Genesis Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Genesis+Machine+by+Amy+Webb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Genesis Machine">The Genesis Machine</a>
-        </h4>
-        <p class="fr-book-author">By Amy Webb, Andrew Hessel</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Genesis+Machine+by+Amy+Webb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Genesis Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=B1QyEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Genesis Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Genesis+Machine+by+Amy+Webb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Genesis Machine">The Genesis Machine</a>
+</h4>
+<p class="fr-book-author">By Amy Webb, Andrew Hessel</p>
         
-        <p class="fr-book-desc">Connects automated science and AI-assisted discovery to larger scientific transformation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Genesis+Machine+by+Amy+Webb&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Connects automated science and AI-assisted discovery to larger scientific transformation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Genesis+Machine+by+Amy+Webb&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Master+Algorithm&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Master Algorithm</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Stuff+Matters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Stuff Matters</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Knowledge+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Knowledge Machine</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Master+Algorithm&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Master Algorithm</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Stuff+Matters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Stuff Matters</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Knowledge+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Knowledge Machine</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-lab-can-one-autonomous-lab-compress-years-of-discovery-ai-bloom-abundance-superintelligence-an-science-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="a-lab-can-one-autonomous-lab-compress-years-of-discovery-ai-bloom-abundance-superintelligence-an-science-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Periodic table with elements poster Science Wall Chart UPDATED Education Poster"><img src="{{ '/assets/images/marketplace-covers/4353dda57fefeae45a72.jpg' | relative_url }}" alt="Listing image for Periodic table with elements poster Science Wall Chart UPDATED Education Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-lab-can-one-autonomous-lab-compress-years-of-discovery-ai-bloom-abundance-superintelligence-an-science-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="a-lab-can-one-autonomous-lab-compress-years-of-discovery-ai-bloom-abundance-superintelligence-an-science-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer">Periodic table with elements poster Science Wall Chart UPDATED Education Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-lab-can-one-autonomous-lab-compress-years-of-discovery-ai-bloom-abundance-superintelligence-an-science-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="a-lab-can-one-autonomous-lab-compress-years-of-discovery-ai-bloom-abundance-superintelligence-an-science-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-lab-can-one-autonomous-lab-compress-years-of-discovery-ai-bloom-abundance-superintelligence-an-science-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="a-lab-can-one-autonomous-lab-compress-years-of-discovery-ai-bloom-abundance-superintelligence-an-science-poster-book-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-lab-can-one-autonomous-lab-compress-years-of-discovery-ai-bloom-abundance-superintelligence-an-science-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="a-lab-can-one-autonomous-lab-compress-years-of-discovery-ai-bloom-abundance-superintelligence-an-science-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Periodic table with elements poster Science Wall Chart UPDATED Education Poster"><img src="{{ '/assets/images/marketplace-covers/4353dda57fefeae45a72.jpg' | relative_url }}" alt="Listing image for Periodic table with elements poster Science Wall Chart UPDATED Education Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-lab-can-one-autonomous-lab-compress-years-of-discovery-ai-bloom-abundance-superintelligence-an-science-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="a-lab-can-one-autonomous-lab-compress-years-of-discovery-ai-bloom-abundance-superintelligence-an-science-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer">Periodic table with elements poster Science Wall Chart UPDATED Education Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-lab-can-one-autonomous-lab-compress-years-of-discovery-ai-bloom-abundance-superintelligence-an-science-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="a-lab-can-one-autonomous-lab-compress-years-of-discovery-ai-bloom-abundance-superintelligence-an-science-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-lab-can-one-autonomous-lab-compress-years-of-discovery-ai-bloom-abundance-superintelligence-an-science-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="a-lab-can-one-autonomous-lab-compress-years-of-discovery-ai-bloom-abundance-superintelligence-an-science-poster-book-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-lab-can-one-autonomous-lab-compress-years-of-discovery-ai-bloom-abundance-superintelligence-an-science-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="a-lab-can-one-autonomous-lab-compress-years-of-discovery-ai-bloom-abundance-superintelligence-an-science-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Periodic Table of Elements Poster For Kids, LAMINATED, Science &amp; Chemistry Chart"><img src="{{ '/assets/images/marketplace-covers/2d540458477f76b2be20.jpg' | relative_url }}" alt="Listing image for Periodic Table of Elements Poster For Kids, LAMINATED, Science &amp; Chemistry Chart" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-lab-can-one-autonomous-lab-compress-years-of-discovery-ai-bloom-abundance-superintelligence-an-science-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="a-lab-can-one-autonomous-lab-compress-years-of-discovery-ai-bloom-abundance-superintelligence-an-science-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer">Periodic Table of Elements Poster For Kids, LAMINATED, Science &amp; Chemistry Chart</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-lab-can-one-autonomous-lab-compress-years-of-discovery-ai-bloom-abundance-superintelligence-an-science-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="a-lab-can-one-autonomous-lab-compress-years-of-discovery-ai-bloom-abundance-superintelligence-an-science-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-lab-can-one-autonomous-lab-compress-years-of-discovery-ai-bloom-abundance-superintelligence-an-science-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="a-lab-can-one-autonomous-lab-compress-years-of-discovery-ai-bloom-abundance-superintelligence-an-science-poster-book-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-lab-can-one-autonomous-lab-compress-years-of-discovery-ai-bloom-abundance-superintelligence-an-science-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="a-lab-can-one-autonomous-lab-compress-years-of-discovery-ai-bloom-abundance-superintelligence-an-science-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Periodic Table of Elements Poster For Kids, LAMINATED, Science &amp; Chemistry Chart"><img src="{{ '/assets/images/marketplace-covers/2d540458477f76b2be20.jpg' | relative_url }}" alt="Listing image for Periodic Table of Elements Poster For Kids, LAMINATED, Science &amp; Chemistry Chart" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-lab-can-one-autonomous-lab-compress-years-of-discovery-ai-bloom-abundance-superintelligence-an-science-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="a-lab-can-one-autonomous-lab-compress-years-of-discovery-ai-bloom-abundance-superintelligence-an-science-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer">Periodic Table of Elements Poster For Kids, LAMINATED, Science &amp; Chemistry Chart</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-lab-can-one-autonomous-lab-compress-years-of-discovery-ai-bloom-abundance-superintelligence-an-science-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="a-lab-can-one-autonomous-lab-compress-years-of-discovery-ai-bloom-abundance-superintelligence-an-science-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-lab-can-one-autonomous-lab-compress-years-of-discovery-ai-bloom-abundance-superintelligence-an-science-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="a-lab-can-one-autonomous-lab-compress-years-of-discovery-ai-bloom-abundance-superintelligence-an-science-poster-book-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-lab-can-one-autonomous-lab-compress-years-of-discovery-ai-bloom-abundance-superintelligence-an-science-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="a-lab-can-one-autonomous-lab-compress-years-of-discovery-ai-bloom-abundance-superintelligence-an-science-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny Science Poster Can I Lick It Periodic Table Print Chemistry Wall Art Nerd"><img src="{{ '/assets/images/marketplace-covers/7b9530e3e70391be5ab3.jpg' | relative_url }}" alt="Listing image for Funny Science Poster Can I Lick It Periodic Table Print Chemistry Wall Art Nerd" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-lab-can-one-autonomous-lab-compress-years-of-discovery-ai-bloom-abundance-superintelligence-an-science-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="a-lab-can-one-autonomous-lab-compress-years-of-discovery-ai-bloom-abundance-superintelligence-an-science-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer">Funny Science Poster Can I Lick It Periodic Table Print Chemistry Wall Art Nerd</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-lab-can-one-autonomous-lab-compress-years-of-discovery-ai-bloom-abundance-superintelligence-an-science-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="a-lab-can-one-autonomous-lab-compress-years-of-discovery-ai-bloom-abundance-superintelligence-an-science-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-lab-can-one-autonomous-lab-compress-years-of-discovery-ai-bloom-abundance-superintelligence-an-science-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="a-lab-can-one-autonomous-lab-compress-years-of-discovery-ai-bloom-abundance-superintelligence-an-science-poster-book-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-lab-can-one-autonomous-lab-compress-years-of-discovery-ai-bloom-abundance-superintelligence-an-science-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="a-lab-can-one-autonomous-lab-compress-years-of-discovery-ai-bloom-abundance-superintelligence-an-science-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny Science Poster Can I Lick It Periodic Table Print Chemistry Wall Art Nerd"><img src="{{ '/assets/images/marketplace-covers/7b9530e3e70391be5ab3.jpg' | relative_url }}" alt="Listing image for Funny Science Poster Can I Lick It Periodic Table Print Chemistry Wall Art Nerd" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-lab-can-one-autonomous-lab-compress-years-of-discovery-ai-bloom-abundance-superintelligence-an-science-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="a-lab-can-one-autonomous-lab-compress-years-of-discovery-ai-bloom-abundance-superintelligence-an-science-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer">Funny Science Poster Can I Lick It Periodic Table Print Chemistry Wall Art Nerd</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-lab-can-one-autonomous-lab-compress-years-of-discovery-ai-bloom-abundance-superintelligence-an-science-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="a-lab-can-one-autonomous-lab-compress-years-of-discovery-ai-bloom-abundance-superintelligence-an-science-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-lab-can-one-autonomous-lab-compress-years-of-discovery-ai-bloom-abundance-superintelligence-an-science-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="a-lab-can-one-autonomous-lab-compress-years-of-discovery-ai-bloom-abundance-superintelligence-an-science-poster-book-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-lab-can-one-autonomous-lab-compress-years-of-discovery-ai-bloom-abundance-superintelligence-an-science-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="a-lab-can-one-autonomous-lab-compress-years-of-discovery-ai-bloom-abundance-superintelligence-an-science-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PERIODIC Table real elements A2 laminated chemistry science educational poster"><img src="{{ '/assets/images/marketplace-covers/da90b012129e599c7ecd.jpg' | relative_url }}" alt="Listing image for PERIODIC Table real elements A2 laminated chemistry science educational poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-lab-can-one-autonomous-lab-compress-years-of-discovery-ai-bloom-abundance-superintelligence-an-science-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="a-lab-can-one-autonomous-lab-compress-years-of-discovery-ai-bloom-abundance-superintelligence-an-science-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer">PERIODIC Table real elements A2 laminated chemistry science educational poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-lab-can-one-autonomous-lab-compress-years-of-discovery-ai-bloom-abundance-superintelligence-an-science-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="a-lab-can-one-autonomous-lab-compress-years-of-discovery-ai-bloom-abundance-superintelligence-an-science-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-lab-can-one-autonomous-lab-compress-years-of-discovery-ai-bloom-abundance-superintelligence-an-science-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="a-lab-can-one-autonomous-lab-compress-years-of-discovery-ai-bloom-abundance-superintelligence-an-science-poster-book-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-lab-can-one-autonomous-lab-compress-years-of-discovery-ai-bloom-abundance-superintelligence-an-science-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="a-lab-can-one-autonomous-lab-compress-years-of-discovery-ai-bloom-abundance-superintelligence-an-science-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-lab-can-one-autonomous-lab-compress-years-of-discovery-ai-bloom-abundance-superintelligence-an-science-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="a-lab-can-one-autonomous-lab-compress-years-of-discovery-ai-bloom-abundance-superintelligence-an-science-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PERIODIC Table real elements A2 laminated chemistry science educational poster"><img src="{{ '/assets/images/marketplace-covers/da90b012129e599c7ecd.jpg' | relative_url }}" alt="Listing image for PERIODIC Table real elements A2 laminated chemistry science educational poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-lab-can-one-autonomous-lab-compress-years-of-discovery-ai-bloom-abundance-superintelligence-an-science-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="a-lab-can-one-autonomous-lab-compress-years-of-discovery-ai-bloom-abundance-superintelligence-an-science-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer">PERIODIC Table real elements A2 laminated chemistry science educational poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-lab-can-one-autonomous-lab-compress-years-of-discovery-ai-bloom-abundance-superintelligence-an-science-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="a-lab-can-one-autonomous-lab-compress-years-of-discovery-ai-bloom-abundance-superintelligence-an-science-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-lab-can-one-autonomous-lab-compress-years-of-discovery-ai-bloom-abundance-superintelligence-an-science-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="a-lab-can-one-autonomous-lab-compress-years-of-discovery-ai-bloom-abundance-superintelligence-an-science-poster-book-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-lab-can-one-autonomous-lab-compress-years-of-discovery-ai-bloom-abundance-superintelligence-an-science-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="a-lab-can-one-autonomous-lab-compress-years-of-discovery-ai-bloom-abundance-superintelligence-an-science-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -580,7 +580,7 @@ The leap from intelligence to abundance depends on whether ideas can be turned i
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -600,7 +600,7 @@ The leap from intelligence to abundance depends on whether ideas can be turned i
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -632,7 +632,7 @@ The leap from intelligence to abundance depends on whether ideas can be turned i
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -684,7 +684,7 @@ The leap from intelligence to abundance depends on whether ideas can be turned i
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -729,7 +729,7 @@ The leap from intelligence to abundance depends on whether ideas can be turned i
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -770,150 +770,150 @@ The leap from intelligence to abundance depends on whether ideas can be turned i
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41586-023-06734-w" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-023-06734-w</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>An autonomous laboratory for the accelerated synthesis of...29 Nov 2023 — Over 17 days of continuous operation, the A-Lab realized...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41586-023-06734-w" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-023-06734-w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An autonomous laboratory for the accelerated synthesis of...29 Nov 2023 — Over 17 days of continuous operation, the A-Lab realized...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2590238521003064" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2590238521003064</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Autonomous experimentation systems for materials...by E Stach · 2021 · Cited by 392 — This review discusses the specific ch...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S2590238521003064" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2590238521003064</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Autonomous experimentation systems for materials...by E Stach · 2021 · Cited by 392 — This review discusses the specific ch...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: wired.com  
    Title: Google Deep Mind's AI Dreamed Up 380,000 New Materials  
-   Link: <a href="https://www.wired.com/story/an-ai-dreamed-up-380000-new-materials-the-next-challenge-is-making-them" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/an-ai-dreamed-up-380000-new-materials-the-next-challenge-is-making-them</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Next Challenge Is Making ThemGoogle DeepMind developed an AI program, GNoME, which has predicted 380,000 new stable materials, expand...</p></details>
+   Link:<a href="https://www.wired.com/story/an-ai-dreamed-up-380000-new-materials-the-next-challenge-is-making-them" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/an-ai-dreamed-up-380000-new-materials-the-next-challenge-is-making-them</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Next Challenge Is Making ThemGoogle DeepMind developed an AI program, GNoME, which has predicted 380,000 new stable materials, expand...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: time.com  
-   Link: <a href="https://time.com/6340681/deepmind-gnome-ai-materials/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6340681/deepmind-gnome-ai-materials/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Their AI tool, GNoME, was trained with data from the Materials Project and has accurately predicted 381,000 stable materials, significant...</p></details>
+   Link:<a href="https://time.com/6340681/deepmind-gnome-ai-materials/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6340681/deepmind-gnome-ai-materials/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Their AI tool, GNoME, was trained with data from the Materials Project and has accurately predicted 381,000 stable materials, significant...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: ceder.berkeley.edu  
-   Link: <a href="https://ceder.berkeley.edu/research-areas/autonomous-experimentation-for-accelerated-materials-discovery/" target="_blank" rel="noopener noreferrer nofollow">https://ceder.berkeley.edu/research-areas/autonomous-experimentation-for-accelerated-materials-discovery/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>An autonomous laboratory for the accelerated synthesis of novel materials. Nature (2023).Read more...</p></details>
+   Link:<a href="https://ceder.berkeley.edu/research-areas/autonomous-experimentation-for-accelerated-materials-discovery/" target="_blank" rel="noopener noreferrer nofollow">https://ceder.berkeley.edu/research-areas/autonomous-experimentation-for-accelerated-materials-discovery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An autonomous laboratory for the accelerated synthesis of novel materials. Nature (2023).Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10700133/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10700133/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>An autonomous laboratory for the accelerated synthesis of...by NJ Szymanski · 2023 · Cited by 1176 — Over 17 days of operation, the A...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10700133/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10700133/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An autonomous laboratory for the accelerated synthesis of...by NJ Szymanski · 2023 · Cited by 1176 — Over 17 days of operation, the A...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41467-020-19597-w" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41467-020-19597-w</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>On-the-fly closed-loop materials discovery via Bayesian...by AG Kusne · 2020 · Cited by 535 — In this work, we focus a closed-loop...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41467-020-19597-w" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41467-020-19597-w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>On-the-fly closed-loop materials discovery via Bayesian...by AG Kusne · 2020 · Cited by 535 — In this work, we focus a closed-loop...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: law.berkeley.edu  
-   Link: <a href="https://www.law.berkeley.edu/wp-content/uploads/2024/02/Google-AI-and-robots-join-forces-to-build-new-materials.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.law.berkeley.edu/wp-content/uploads/2024/02/Google-AI-and-robots-join-forces-to-build-new-materials.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UC Berkeley LawGoogle AI and robots join forces to build new materialsby M Peplow · Cited by 10 — In all, the A-Lab took 17 days to produ...</p></details>
+   Link:<a href="https://www.law.berkeley.edu/wp-content/uploads/2024/02/Google-AI-and-robots-join-forces-to-build-new-materials.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.law.berkeley.edu/wp-content/uploads/2024/02/Google-AI-and-robots-join-forces-to-build-new-materials.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UC Berkeley LawGoogle AI and robots join forces to build new materialsby M Peplow · Cited by 10 — In all, the A-Lab took 17 days to produ...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/d41586-023-03956-w" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/d41586-023-03956-w</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Robot chemist sparks row with claim it created new materialsDec 12, 2023 — Researchers question whether an AI-controlled lab assist...</p></details>
+   Link:<a href="https://www.nature.com/articles/d41586-023-03956-w" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/d41586-023-03956-w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Robot chemist sparks row with claim it created new materialsDec 12, 2023 — Researchers question whether an AI-controlled lab assist...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: ceder.berkeley.edu  
    Title: a lab paper published in nature featured in news story  
-   Link: <a href="https://ceder.berkeley.edu/news/a-lab-paper-published-in-nature-featured-in-news-story/" target="_blank" rel="noopener noreferrer nofollow">https://ceder.berkeley.edu/news/a-lab-paper-published-in-nature-featured-in-news-story/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>berkeley.eduA-Lab paper published in Nature, featured in news storiesNov 29, 2023 — Nature published a journal article written by Mark Pe...</p></details>
+   Link:<a href="https://ceder.berkeley.edu/news/a-lab-paper-published-in-nature-featured-in-news-story/" target="_blank" rel="noopener noreferrer nofollow">https://ceder.berkeley.edu/news/a-lab-paper-published-in-nature-featured-in-news-story/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>berkeley.eduA-Lab paper published in Nature, featured in news storiesNov 29, 2023 — Nature published a journal article written by Mark Pe...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41586-024-08173-7" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-024-08173-7</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Autonomous mobile robots for exploratory synthetic chemistryby T Dai · 2024 · Cited by 245 — Here we show that a synthesis laboratory can...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41586-024-08173-7" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-024-08173-7</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Autonomous mobile robots for exploratory synthetic chemistryby T Dai · 2024 · Cited by 245 — Here we show that a synthesis laboratory can...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: royalsocietypublishing.org  
-   Link: <a href="https://royalsocietypublishing.org/rsos/article/12/7/250646/235354/Autonomous-self-driving-laboratories-a-review-of" target="_blank" rel="noopener noreferrer nofollow">https://royalsocietypublishing.org/rsos/article/12/7/250646/235354/Autonomous-self-driving-laboratories-a-review-of</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Autonomous &#x27;self-driving&#x27; laboratories: a review of technology...by AV Tobias · 2025 · Cited by 65 — This article reviews and provides p...</p></details>
+   Link:<a href="https://royalsocietypublishing.org/rsos/article/12/7/250646/235354/Autonomous-self-driving-laboratories-a-review-of" target="_blank" rel="noopener noreferrer nofollow">https://royalsocietypublishing.org/rsos/article/12/7/250646/235354/Autonomous-self-driving-laboratories-a-review-of</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Autonomous &#x27;self-driving&#x27; laboratories: a review of technology...by AV Tobias · 2025 · Cited by 65 — This article reviews and provides p...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: newscenter.lbl.gov  
    Title: A-Lab and a scientist at Berkeley Lab and UC Berkeley.Read more  
-   Link: <a href="https://newscenter.lbl.gov/2023/11/29/google-deepmind-new-compounds-materials-project/" target="_blank" rel="noopener noreferrer nofollow">https://newscenter.lbl.gov/2023/11/29/google-deepmind-new-compounds-materials-project/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Berkeley Lab News CenterGoogle DeepMind Adds Nearly 400000 New Compounds to...29 Nov 2023 — Over 17 days of independent operation, A-Lab...</p></details>
+   Link:<a href="https://newscenter.lbl.gov/2023/11/29/google-deepmind-new-compounds-materials-project/" target="_blank" rel="noopener noreferrer nofollow">https://newscenter.lbl.gov/2023/11/29/google-deepmind-new-compounds-materials-project/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Berkeley Lab News CenterGoogle DeepMind Adds Nearly 400000 New Compounds to...29 Nov 2023 — Over 17 days of independent operation, A-Lab...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: chemistryworld.com  
-   Link: <a href="https://www.chemistryworld.com/news/new-analysis-raises-doubts-over-autonomous-labs-materials-discoveries/4018791.article" target="_blank" rel="noopener noreferrer nofollow">https://www.chemistryworld.com/news/new-analysis-raises-doubts-over-autonomous-labs-materials-discoveries/4018791.article</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>New analysis raises doubts over autonomous lab&#x27;s...Jan 16, 2024 — The team reported that, over 17 days of independent operation, A-Lab p...</p></details>
+   Link:<a href="https://www.chemistryworld.com/news/new-analysis-raises-doubts-over-autonomous-labs-materials-discoveries/4018791.article" target="_blank" rel="noopener noreferrer nofollow">https://www.chemistryworld.com/news/new-analysis-raises-doubts-over-autonomous-labs-materials-discoveries/4018791.article</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New analysis raises doubts over autonomous lab&#x27;s...Jan 16, 2024 — The team reported that, over 17 days of independent operation, A-Lab p...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: cen.acs.org  
    Title: Chemical & Engineering News'Nature' robot chemist paper corrected, but some  
-   Link: <a href="https://cen.acs.org/research-integrity/Nature-robot-chemist-paper-corrected/104/web/2026/01" target="_blank" rel="noopener noreferrer nofollow">https://cen.acs.org/research-integrity/Nature-robot-chemist-paper-corrected/104/web/2026/01</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>C&amp;EN29 Jan 2026 — The original study claimed the robot had discovered 43 new materials in 17 days...</p></details>
+   Link:<a href="https://cen.acs.org/research-integrity/Nature-robot-chemist-paper-corrected/104/web/2026/01" target="_blank" rel="noopener noreferrer nofollow">https://cen.acs.org/research-integrity/Nature-robot-chemist-paper-corrected/104/web/2026/01</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>C&amp;EN29 Jan 2026 — The original study claimed the robot had discovered 43 new materials in 17 days...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: science.org  
-   Link: <a href="https://www.science.org/doi/10.1126/sciadv.adu7426" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/sciadv.adu7426</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Real-time experiment-theory closed-loop interaction for...by H Liang · 2025 · Cited by 22 — This study demonstrates real-time, autonomou...</p></details>
+   Link:<a href="https://www.science.org/doi/10.1126/sciadv.adu7426" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/sciadv.adu7426</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Real-time experiment-theory closed-loop interaction for...by H Liang · 2025 · Cited by 22 — This study demonstrates real-time, autonomou...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: chemistryworld.com  
-   Link: <a href="https://www.chemistryworld.com/news/robotic-chemistry-lab-joins-forces-with-google-ai-to-predict-then-make-new-inorganic-materials/4018575.article" target="_blank" rel="noopener noreferrer nofollow">https://www.chemistryworld.com/news/robotic-chemistry-lab-joins-forces-with-google-ai-to-predict-then-make-new-inorganic-materials/4018575.article</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Robotic chemistry lab joins forces with Google AI to predict...30 Nov 2023 — Over 17 days of independent operation, A-Lab performed 21 e...</p></details>
+   Link:<a href="https://www.chemistryworld.com/news/robotic-chemistry-lab-joins-forces-with-google-ai-to-predict-then-make-new-inorganic-materials/4018575.article" target="_blank" rel="noopener noreferrer nofollow">https://www.chemistryworld.com/news/robotic-chemistry-lab-joins-forces-with-google-ai-to-predict-then-make-new-inorganic-materials/4018575.article</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Robotic chemistry lab joins forces with Google AI to predict...30 Nov 2023 — Over 17 days of independent operation, A-Lab performed 21 e...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: nlr.gov  
    Title: autonomous experimentation  
-   Link: <a href="https://www.nlr.gov/materials-science/autonomous-experimentation" target="_blank" rel="noopener noreferrer nofollow">https://www.nlr.gov/materials-science/autonomous-experimentation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Materials Science | NLR6 Dec 2025 — Our work on autonomous characterization focuses on implementing AI-driven [control](&amp;#123;&amp;#123; &#x27;control/&#x27; | relative_url &amp;#125;&amp;#125;) to accelerate the m...</p></details>
+   Link:<a href="https://www.nlr.gov/materials-science/autonomous-experimentation" target="_blank" rel="noopener noreferrer nofollow">https://www.nlr.gov/materials-science/autonomous-experimentation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Materials Science | NLR6 Dec 2025 — Our work on autonomous characterization focuses on implementing AI-driven [control](&amp;#123;&amp;#123; &#x27;control/&#x27; | relative_url &amp;#125;&amp;#125;) to accelerate the m...</p></details>
 
 ### Additional References
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/pulse/ai-powered-labs-discovering-materials-10x-faster-brightbeam-ai-dfvle" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/ai-powered-labs-discovering-materials-10x-faster-brightbeam-ai-dfvle</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI-Powered Labs: Discovering Materials 10x FasterIn just 17 days of continuous operation, A-Lab successfully fabricated 41 novel solid-st...</p></details>
+   Link:<a href="https://www.linkedin.com/pulse/ai-powered-labs-discovering-materials-10x-faster-brightbeam-ai-dfvle" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/ai-powered-labs-discovering-materials-10x-faster-brightbeam-ai-dfvle</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI-Powered Labs: Discovering Materials 10x FasterIn just 17 days of continuous operation, A-Lab successfully fabricated 41 novel solid-st...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/slatestarcodex/comments/1923p07/autonomous_lab_did_not_synthesize_any_new/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/slatestarcodex/comments/1923p07/autonomous_lab_did_not_synthesize_any_new/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Autonomous lab did not synthesize any new materialsThis is a reanalysis of Nature paper An autonomous laboratory for the accelerate...</p></details>
+   Link:<a href="https://www.reddit.com/r/slatestarcodex/comments/1923p07/autonomous_lab_did_not_synthesize_any_new/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/slatestarcodex/comments/1923p07/autonomous_lab_did_not_synthesize_any_new/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Autonomous lab did not synthesize any new materialsThis is a reanalysis of Nature paper An autonomous laboratory for the accelerate...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: mrs.digitellinc.com  
-   Link: <a href="https://mrs.digitellinc.com/p/s/ds010302-a-lab-an-autonomous-laboratory-for-the-accelerated-synthesis-of-novel-inorganic-materials-44295" target="_blank" rel="noopener noreferrer nofollow">https://mrs.digitellinc.com/p/s/ds010302-a-lab-an-autonomous-laboratory-for-the-accelerated-synthesis-of-novel-inorganic-materials-44295</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>digitellinc.comDS01.03.02: A-Lab—An Autonomous Laboratory for the...Over 17 days of continuous operation, the A-Lab successfully develop...</p></details>
+   Link:<a href="https://mrs.digitellinc.com/p/s/ds010302-a-lab-an-autonomous-laboratory-for-the-accelerated-synthesis-of-novel-inorganic-materials-44295" target="_blank" rel="noopener noreferrer nofollow">https://mrs.digitellinc.com/p/s/ds010302-a-lab-an-autonomous-laboratory-for-the-accelerated-synthesis-of-novel-inorganic-materials-44295</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>digitellinc.comDS01.03.02: A-Lab—An Autonomous Laboratory for the...Over 17 days of continuous operation, the A-Lab successfully develop...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: sciencesprings.wordpress.com  
-   Link: <a href="https://sciencesprings.wordpress.com/2025/09/04/from-the-does-lawrence-berkeley-national-laboratory-how-ai-and-automation-are-speeding-up-science-and-discovery/" target="_blank" rel="noopener noreferrer nofollow">https://sciencesprings.wordpress.com/2025/09/04/from-the-does-lawrence-berkeley-national-laboratory-how-ai-and-automation-are-speeding-up-science-and-discovery/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The DOE&#x27;s Lawrence Berkeley National Laboratory4 Sept 2025 — From smart robots to supercomputers, Berkeley Lab is using AI-driven systems...</p></details>
+   Link:<a href="https://sciencesprings.wordpress.com/2025/09/04/from-the-does-lawrence-berkeley-national-laboratory-how-ai-and-automation-are-speeding-up-science-and-discovery/" target="_blank" rel="noopener noreferrer nofollow">https://sciencesprings.wordpress.com/2025/09/04/from-the-does-lawrence-berkeley-national-laboratory-how-ai-and-automation-are-speeding-up-science-and-discovery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The DOE&#x27;s Lawrence Berkeley National Laboratory4 Sept 2025 — From smart robots to supercomputers, Berkeley Lab is using AI-driven systems...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/entanglementandemergence/posts/2052781258402895/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/entanglementandemergence/posts/2052781258402895/</a>  
+   Link:<a href="https://www.facebook.com/groups/entanglementandemergence/posts/2052781258402895/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/entanglementandemergence/posts/2052781258402895/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: dim-materre.fr  
    Title: an autonomous laboratory for the accelerated synthesis of novel materials  
-   Link: <a href="https://www.dim-materre.fr/en/publications/an-autonomous-laboratory-for-the-accelerated-synthesis-of-novel-materials/" target="_blank" rel="noopener noreferrer nofollow">https://www.dim-materre.fr/en/publications/an-autonomous-laboratory-for-the-accelerated-synthesis-of-novel-materials/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>An autonomous laboratory for the accelerated synthesis of...Nov 29, 2023 — Over 17 days of continuous operation, the A-Lab realized 41 n...</p></details>
+   Link:<a href="https://www.dim-materre.fr/en/publications/an-autonomous-laboratory-for-the-accelerated-synthesis-of-novel-materials/" target="_blank" rel="noopener noreferrer nofollow">https://www.dim-materre.fr/en/publications/an-autonomous-laboratory-for-the-accelerated-synthesis-of-novel-materials/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An autonomous laboratory for the accelerated synthesis of...Nov 29, 2023 — Over 17 days of continuous operation, the A-Lab realized 41 n...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: theaiinsider.tech  
-   Link: <a href="https://theaiinsider.tech/2026/05/25/autonomous-ai-lab-takes-aim-at-quantum-materials-discovery/" target="_blank" rel="noopener noreferrer nofollow">https://theaiinsider.tech/2026/05/25/autonomous-ai-lab-takes-aim-at-quantum-materials-discovery/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ns, executes and analyzes real-world laboratory experiments using large...Read more...</p></details>
+   Link:<a href="https://theaiinsider.tech/2026/05/25/autonomous-ai-lab-takes-aim-at-quantum-materials-discovery/" target="_blank" rel="noopener noreferrer nofollow">https://theaiinsider.tech/2026/05/25/autonomous-ai-lab-takes-aim-at-quantum-materials-discovery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ns, executes and analyzes real-world laboratory experiments using large...Read more...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: ifp.org  
    Title: scaling materials discovery with self driving labs  
-   Link: <a href="https://ifp.org/scaling-materials-discovery-with-self-driving-labs/" target="_blank" rel="noopener noreferrer nofollow">https://ifp.org/scaling-materials-discovery-with-self-driving-labs/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Scaling Materials Discovery with Self-Driving LabsAug 11, 2025 — With targeted support for autonomous experimentation, the US can convert...</p></details>
+   Link:<a href="https://ifp.org/scaling-materials-discovery-with-self-driving-labs/" target="_blank" rel="noopener noreferrer nofollow">https://ifp.org/scaling-materials-discovery-with-self-driving-labs/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scaling Materials Discovery with Self-Driving LabsAug 11, 2025 — With targeted support for autonomous experimentation, the US can convert...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/689026037/accelerated-synthesis-of-novel-materials" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/689026037/accelerated-synthesis-of-novel-materials</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>days of continuous experimentation, representing all...Read more...</p></details>
+   Link:<a href="https://www.scribd.com/document/689026037/accelerated-synthesis-of-novel-materials" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/689026037/accelerated-synthesis-of-novel-materials</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>days of continuous experimentation, representing all...Read more...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/38030721/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/38030721/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>An autonomous laboratory for the accelerated synthesis of...by NJ Szymanski · 2023 · Cited by 1080 — Over 17 days of continuous op...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/38030721/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/38030721/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An autonomous laboratory for the accelerated synthesis of...by NJ Szymanski · 2023 · Cited by 1080 — Over 17 days of continuous op...</p></details>

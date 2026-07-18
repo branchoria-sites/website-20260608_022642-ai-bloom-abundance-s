@@ -272,13 +272,13 @@ image: /assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df_ai_life_suppo_e7
 Life-support systems in a space habitat do not usually fail all at once. The more dangerous scenario is often a slow drift: a filter that gradually loses efficiency, a water-recycling loop that begins accumulating contaminants, a microbial reactor that shifts away from its intended balance, or an oxygen-generation system that consumes more [power]({{ 'power/' | relative_url }}) than normal long before it breaks.
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df_ai_life_suppo_e70776_predictive_fa_67fde8-Illustration-1-dark.svg" | relative_url }}" alt="Failure Warnings illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df_ai_life_suppo_e70776_predictive_fa_67fde8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df_ai_life_suppo_e70776_predictive_fa_67fde8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For a crew living months from Earth, [early warning]({{ 'early-warning/' | relative_url }}) matters as much as emergency response. The strongest case for AI in closed habitats is therefore not that it replaces engineers, but that it notices weak signals humans might miss. By analysing thousands of sensor streams at once and comparing them against detailed models of how the habitat should behave, AI systems could warn crews days or weeks before a problem becomes a crisis. In the broader vision of AI-enabled human expansion into space, this kind of predictive monitoring may be one of the practical foundations that turns fragile outposts into durable settlements. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/reference/environmental-control-and-life-support-systems-eclss/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">environmental control and life support systems eclss</span><span class="citation-popover-snippet">Environmental Control and Life Support Systems (ECLSS)4 Apr 2025 — ECLSS is a life support system that provides or controls atmospher...</span></span></span>
+For a crew living months from Earth, [early warning]({{ 'early-warning/' | relative_url }}) matters as much as emergency response. The strongest case for AI in closed habitats is therefore not that it replaces engineers, but that it notices weak signals humans might miss. By analysing thousands of sensor streams at once and comparing them against detailed models of how the habitat should behave, AI systems could warn crews days or weeks before a problem becomes a crisis. In the broader vision of AI-enabled human expansion into space, this kind of predictive monitoring may be one of the practical foundations that turns fragile outposts into durable settlements.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/reference/environmental-control-and-life-support-systems-eclss/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">environmental control and life support systems eclss</span><span class="citation-popover-snippet">Environmental Control and Life Support Systems (ECLSS)4 Apr 2025 — ECLSS is a life support system that provides or controls atmospher...</span></span></span>
 
 ## What slow life-support failures look like
 
 A closed habitat is a network of tightly connected loops. Air revitalisation affects plant growth. Water recycling affects food production. Waste processing affects nutrient recovery. A small problem in one subsystem can spread through the rest of the habitat.
 
-On the International Space Station, Environmental [Control]({{ 'control/' | relative_url }}) and [Life Support]({{ 'life-support/' | relative_url }}) Systems (ECLSS) already manage atmospheric pressure, oxygen generation, water recovery, ventilation and waste handling. Future lunar and Martian settlements are expected to depend on even higher levels of recycling and autonomy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://techport.nasa.gov/projects/89987" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techport.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techport.nasa.gov</span><span class="citation-popover-title">Tech Port NASA Tech Port</span><span class="citation-popover-snippet">NASA TechPortNASA TechPort - ProjectJan 22, 2026 — QSI-LM&#x27;s CBM+ solution will furnish the ability to keep the vehicle health status cont...</span></span></span>
+On the International Space Station, Environmental [Control]({{ 'control/' | relative_url }}) and [Life Support]({{ 'life-support/' | relative_url }}) Systems (ECLSS) already manage atmospheric pressure, oxygen generation, water recovery, ventilation and waste handling. Future lunar and Martian settlements are expected to depend on even higher levels of recycling and autonomy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://techport.nasa.gov/projects/89987" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techport.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techport.nasa.gov</span><span class="citation-popover-title">Tech Port NASA Tech Port</span><span class="citation-popover-snippet">NASA TechPortNASA TechPort - ProjectJan 22, 2026 — QSI-LM&#x27;s CBM+ solution will furnish the ability to keep the vehicle health status cont...</span></span></span>
 
 The failures that worry habitat designers are often gradual rather than dramatic:
 
@@ -296,7 +296,7 @@ The failures that worry habitat designers are often gradual rather than dramatic
 
 Individually, none of these changes may trigger an emergency alarm. The danger comes from accumulation. A habitat that loses a fraction of a percent of efficiency each week can eventually reach a point where oxygen production, water recovery or food generation no longer keeps pace with consumption.
 
-This is especially important for bioregenerative systems such as the European Space Agency's MELiSSA programme, which aims to recycle waste into oxygen, water and food through interconnected biological and chemical processes. Living systems are adaptive, but they are also harder to predict than mechanical equipment. A microbial population shift may begin long before operators can see obvious performance degradation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Melissa/Closed_Loop_Concept" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esa.int">[European Space Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esa.int</span><span class="citation-popover-title">European Space Agency ESA</span><span class="citation-popover-snippet">European Space AgencyESA - Closed Loop ConceptThe driving element of MELiSSA is the recovering of food, water and oxygen from organic was...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://webs.uab.cat/melissapilotplant/wp-content/uploads/sites/397/2023/11/Melissa_The_European_project_of_a_closed_life_supp-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: webs.uab.cat">[Webs UAB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">webs.uab.cat</span><span class="citation-popover-snippet">Melissa: The European project of a closed life support systemby C Lasseur · Cited by 199 — The MELiSSA (Micro-ecological life-sup...</span></span></span>
+This is especially important for bioregenerative systems such as the European Space Agency's MELiSSA programme, which aims to recycle waste into oxygen, water and food through interconnected biological and chemical processes. Living systems are adaptive, but they are also harder to predict than mechanical equipment. A microbial population shift may begin long before operators can see obvious performance degradation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Melissa/Closed_Loop_Concept" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esa.int">[European Space Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esa.int</span><span class="citation-popover-title">European Space Agency ESA</span><span class="citation-popover-snippet">European Space AgencyESA - Closed Loop ConceptThe driving element of MELiSSA is the recovering of food, water and oxygen from organic was...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://webs.uab.cat/melissapilotplant/wp-content/uploads/sites/397/2023/11/Melissa_The_European_project_of_a_closed_life_supp-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: webs.uab.cat">[Webs UAB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">webs.uab.cat</span><span class="citation-popover-snippet">Melissa: The European project of a closed life support systemby C Lasseur · Cited by 199 — The MELiSSA (Micro-ecological life-sup...</span></span></span>
 
 ## How sensor data and digital twins could warn crews
 
@@ -304,7 +304,7 @@ Traditional engineering alarms work by detecting thresholds. If oxygen falls bel
 
 Predictive systems try to detect the approach to failure instead.
 
-A future habitat may contain tens of thousands of measurements covering atmospheric chemistry, water quality, [energy]({{ 'energy/' | relative_url }}) use, equipment temperatures, microbial activity and crop health. AI systems can search these streams for patterns that humans would struggle to track continuously. Rather than asking whether a reading is currently dangerous, they ask whether it is becoming unusual. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hsu-hh.de/imb/en/projects/k-iss-artificial-intelligence-for-the-diagnosis-of-the-international-space-station-iss" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hsu-hh.de">[Helmut Schmidt University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hsu-hh.de</span><span class="citation-popover-snippet">Sending of notifications to the expert team.Read more...</span></span></span>
+A future habitat may contain tens of thousands of measurements covering atmospheric chemistry, water quality, [energy]({{ 'energy/' | relative_url }}) use, equipment temperatures, microbial activity and crop health. AI systems can search these streams for patterns that humans would struggle to track continuously. Rather than asking whether a reading is currently dangerous, they ask whether it is becoming unusual.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hsu-hh.de/imb/en/projects/k-iss-artificial-intelligence-for-the-diagnosis-of-the-international-space-station-iss" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hsu-hh.de">[Helmut Schmidt University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hsu-hh.de</span><span class="citation-popover-snippet">Sending of notifications to the expert team.Read more...</span></span></span>
 
 ### Looking for patterns rather than thresholds
 
@@ -314,19 +314,19 @@ A pump may vibrate slightly differently. A reactor may require marginally more p
 
 Machine-learning systems trained on normal operating behaviour can flag these deviations. In effect, the system learns what "healthy" operation looks like and watches for departures from that pattern.
 
-This is similar to predictive-maintenance systems increasingly used in aviation and industry, where algorithms identify signs of wear before equipment fails. Aerospace researchers are now exploring similar approaches for long-duration spacecraft and habitat infrastructure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://papers.phmsociety.org/index.php/phmconf/article/view/4343" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.phmsociety.org">[PHM Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.phmsociety.org</span><span class="citation-popover-snippet">PHM SocietyDigital Twin-based IVHM for Predictive Maintenanceby S Norcaro · 2025 · Cited by 2 — This paper proposes a Digital Twin-based...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://techport.nasa.gov/projects/89987" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techport.nasa.gov">[NASA TechPort]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techport.nasa.gov</span><span class="citation-popover-title">Tech Port NASA Tech Port</span><span class="citation-popover-snippet">NASA TechPortNASA TechPort - ProjectJan 22, 2026 — QSI-LM&#x27;s CBM+ solution will furnish the ability to keep the vehicle health status cont...</span></span></span>
+This is similar to predictive-maintenance systems increasingly used in aviation and industry, where algorithms identify signs of wear before equipment fails. Aerospace researchers are now exploring similar approaches for long-duration spacecraft and habitat infrastructure.<span class="citation-chip-wrap"><a class="citation-chip" href="https://papers.phmsociety.org/index.php/phmconf/article/view/4343" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.phmsociety.org">[PHM Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.phmsociety.org</span><span class="citation-popover-snippet">PHM SocietyDigital Twin-based IVHM for Predictive Maintenanceby S Norcaro · 2025 · Cited by 2 — This paper proposes a Digital Twin-based...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://techport.nasa.gov/projects/89987" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techport.nasa.gov">[NASA TechPort]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techport.nasa.gov</span><span class="citation-popover-title">Tech Port NASA Tech Port</span><span class="citation-popover-snippet">NASA TechPortNASA TechPort - ProjectJan 22, 2026 — QSI-LM&#x27;s CBM+ solution will furnish the ability to keep the vehicle health status cont...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/iht75kq0RrU" title="Space Station Live: Environmental Control and Life Support System" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=iht75kq0RrU" target="_blank" rel="noopener noreferrer">Space Station Live: Environmental Control and Life Support System</a></p><p class="youtube-embed-meta">Channel: NASA Johnson &middot; Views: 45.6K &middot; Uploaded: February 2014 &middot; Length: 3 minutes 41 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=iht75kq0RrU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=iht75kq0RrU">Open on YouTube</a></p></div></div></div>
 
 ### Digital twins as a second layer of warning
 
-One of the most discussed ideas is the use of digital twins: continuously updated virtual models of physical systems. Instead of merely displaying sensor readings, a digital twin attempts to model how the habitat should behave under current conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalacademies.org/read/26894/chapter/4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National Academies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">National AcademiesChapter: 2 The Digital Twin Landscape2. The Digital Twin Landscape. This chapter lays the foundation for an understandi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10912257/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">A Digital Twin (DT) is a digital copy or virtual representation of an object, process, service, or system in the real world...</span></span></span>
+One of the most discussed ideas is the use of digital twins: continuously updated virtual models of physical systems. Instead of merely displaying sensor readings, a digital twin attempts to model how the habitat should behave under current conditions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalacademies.org/read/26894/chapter/4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National Academies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">National AcademiesChapter: 2 The Digital Twin Landscape2. The Digital Twin Landscape. This chapter lays the foundation for an understandi...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10912257/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">A Digital Twin (DT) is a digital copy or virtual representation of an object, process, service, or system in the real world...</span></span></span>
 
 In a life-support context, a digital twin could combine:
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
-* Real-time sensor measurements. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dataintelo.com/report/global-environmental-control-and-life-support-systems-market" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dataintelo.com">[dataintelo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dataintelo.com</span><span class="citation-popover-snippet">Environmental Control and Life Support Systems MarketThe integration of artificial intelligence for predictive maintenance, real-time ano...</span></span></span>
+* Real-time sensor measurements.<span class="citation-chip-wrap"><a class="citation-chip" href="https://dataintelo.com/report/global-environmental-control-and-life-support-systems-market" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dataintelo.com">[dataintelo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dataintelo.com</span><span class="citation-popover-snippet">Environmental Control and Life Support Systems MarketThe integration of artificial intelligence for predictive maintenance, real-time ano...</span></span></span>
 * Engineering models of hardware performance.
 * Biological models of crops and microbial systems.
 * Crew consumption patterns.
@@ -336,7 +336,7 @@ In a life-support context, a digital twin could combine:
 
 The twin then generates forecasts. If current trends continue, what will oxygen levels look like in ten days? How much will water recovery efficiency decline next month? Which subsystem is most likely to become a bottleneck?
 
-Recent research on autonomous environmental control systems argues that digital twins can improve self-awareness and self-sufficiency in future life-support architectures, particularly when missions become too distant for constant Earth-based supervision. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arc.aiaa.org/doi/10.2514/1.I011320" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arc.aiaa.org">[AIAA Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arc.aiaa.org</span><span class="citation-popover-snippet">AIAA JournalDigital Twin Technologies for Autonomous Environmental...by N Gratius · 2024 · Cited by 26 — Environmental control and life...</span></span></span>
+Recent research on autonomous environmental control systems argues that digital twins can improve self-awareness and self-sufficiency in future life-support architectures, particularly when missions become too distant for constant Earth-based supervision.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arc.aiaa.org/doi/10.2514/1.I011320" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arc.aiaa.org">[AIAA Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arc.aiaa.org</span><span class="citation-popover-snippet">AIAA JournalDigital Twin Technologies for Autonomous Environmental...by N Gratius · 2024 · Cited by 26 — Environmental control and life...</span></span></span>
 
 For a Mars settlement facing communication delays and limited spare parts, this forecasting ability could be as important as the hardware itself.
 
@@ -345,7 +345,7 @@ For a Mars settlement facing communication delays and limited spare parts, this 
 
 Mechanical failures are challenging, but biological failures may be harder.
 
-Future habitats are expected to rely increasingly on plants, algae, bacteria and microbial reactors to recycle waste and regenerate resources. These systems can be highly efficient, yet their behaviour changes in response to temperature, radiation, nutrient levels and ecological interactions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://webs.uab.cat/melissapilotplant/wp-content/uploads/sites/397/2023/11/Melissa_The_European_project_of_a_closed_life_supp-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: webs.uab.cat">[Webs UAB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">webs.uab.cat</span><span class="citation-popover-snippet">Melissa: The European project of a closed life support systemby C Lasseur · Cited by 199 — The MELiSSA (Micro-ecological life-sup...</span></span></span> PubMed A biological subsystem can appear healthy while underlying conditions move toward instability. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/16431089/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[pubmed.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">ecology of the closed artificial ecosystem...by L Hendrickx · 2006 · Cited by 230 — MELiSSA is a bioregenerative life support system des...</span></span></span>
+Future habitats are expected to rely increasingly on plants, algae, bacteria and microbial reactors to recycle waste and regenerate resources. These systems can be highly efficient, yet their behaviour changes in response to temperature, radiation, nutrient levels and ecological interactions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://webs.uab.cat/melissapilotplant/wp-content/uploads/sites/397/2023/11/Melissa_The_European_project_of_a_closed_life_supp-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: webs.uab.cat">[Webs UAB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">webs.uab.cat</span><span class="citation-popover-snippet">Melissa: The European project of a closed life support systemby C Lasseur · Cited by 199 — The MELiSSA (Micro-ecological life-sup...</span></span></span> PubMed A biological subsystem can appear healthy while underlying conditions move toward instability.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/16431089/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[pubmed.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">ecology of the closed artificial ecosystem...by L Hendrickx · 2006 · Cited by 230 — MELiSSA is a bioregenerative life support system des...</span></span></span>
 
 For example:
 
@@ -363,7 +363,7 @@ This is one reason why advanced monitoring is often discussed alongside bioregen
 
 An alert is only useful if the crew can act on it.
 
-The most valuable systems are likely to move beyond simple anomaly detection toward diagnosis and response support. Rather than saying that something is unusual, they attempt to identify likely causes and estimate consequences. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hsu-hh.de/imb/en/projects/k-iss-artificial-intelligence-for-the-diagnosis-of-the-international-space-station-iss" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hsu-hh.de">[Helmut Schmidt University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hsu-hh.de</span><span class="citation-popover-snippet">Sending of notifications to the expert team.Read more...</span></span></span>
+The most valuable systems are likely to move beyond simple anomaly detection toward diagnosis and response support. Rather than saying that something is unusual, they attempt to identify likely causes and estimate consequences.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hsu-hh.de/imb/en/projects/k-iss-artificial-intelligence-for-the-diagnosis-of-the-international-space-station-iss" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hsu-hh.de">[Helmut Schmidt University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hsu-hh.de</span><span class="citation-popover-snippet">Sending of notifications to the expert team.Read more...</span></span></span>
 
 A future warning system might tell operators:
 
@@ -377,7 +377,7 @@ A future warning system might tell operators:
 
 </div>
 
-Research projects on autonomous anomaly response for deep-space habitats increasingly focus on this transition from detection to explanation. The challenge is not merely finding abnormal behaviour but helping humans understand what to do next. <span class="citation-chip-wrap"><a class="citation-chip" href="https://kilthub.cmu.edu/articles/thesis/A_simulation_framework_for_life-support_anomaly_response_in_deep-space_exploration_habitats/26585677" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kilthub.cmu.edu">[Kilthub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kilthub.cmu.edu</span><span class="citation-popover-snippet">A simulation framework for life-support anomaly response...by NH Gratius — This research advances the development of autonomous E...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/396253514_A_generative_machine_learning_framework_for_anomaly_response_in_cyclical_processes_in_the_ECLSS_on_a_deep_space_habitat" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate In practice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">A generative machine learning framework for anomaly...19 Mar 2026 — A generative machine learning framework for anomaly response in cycl...</span></span></span>, crews may treat AI recommendations much like pilots treat advanced flight-management systems: useful, continuously consulted and often correct, but still subject to human judgement.
+Research projects on autonomous anomaly response for deep-space habitats increasingly focus on this transition from detection to explanation. The challenge is not merely finding abnormal behaviour but helping humans understand what to do next.<span class="citation-chip-wrap"><a class="citation-chip" href="https://kilthub.cmu.edu/articles/thesis/A_simulation_framework_for_life-support_anomaly_response_in_deep-space_exploration_habitats/26585677" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kilthub.cmu.edu">[Kilthub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kilthub.cmu.edu</span><span class="citation-popover-snippet">A simulation framework for life-support anomaly response...by NH Gratius — This research advances the development of autonomous E...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/396253514_A_generative_machine_learning_framework_for_anomaly_response_in_cyclical_processes_in_the_ECLSS_on_a_deep_space_habitat" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate In practice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">A generative machine learning framework for anomaly...19 Mar 2026 — A generative machine learning framework for anomaly response in cycl...</span></span></span>, crews may treat AI recommendations much like pilots treat advanced flight-management systems: useful, continuously consulted and often correct, but still subject to human judgement.
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df_ai_life_suppo_e70776_predictive_fa_67fde8-Illustration-3-dark.svg" | relative_url }}" alt="Failure Warnings illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df_ai_life_suppo_e70776_predictive_fa_67fde8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df_ai_life_suppo_e70776_predictive_fa_67fde8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## False alarms, blind spots and human override
@@ -386,7 +386,7 @@ The optimistic vision has clear limits.
 
 A warning system that misses failures is dangerous. A warning system that generates endless false alarms can become dangerous as well, because crews begin ignoring it.
 
-Space habitats present a particularly difficult environment for machine learning because major failures are rare. Training data are limited. The most catastrophic events may never have occurred before. A model can become highly accurate at recognising familiar patterns while remaining poor at recognising genuinely novel problems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2950616625000452" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Toward sustainable living in space: A review of...by A Raihan · 2026 · Cited by 1 — In the context of ECLSS, sustainability refers to th...</span></span></span>
+Space habitats present a particularly difficult environment for machine learning because major failures are rare. Training data are limited. The most catastrophic events may never have occurred before. A model can become highly accurate at recognising familiar patterns while remaining poor at recognising genuinely novel problems.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2950616625000452" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Toward sustainable living in space: A review of...by A Raihan · 2026 · Cited by 1 — In the context of ECLSS, sustainability refers to th...</span></span></span>
 
 Several risks stand out.
 
@@ -406,7 +406,7 @@ Predictive systems depend on measurements.
 
 If sensors fail, drift or become contaminated, an AI model can develop a distorted picture of reality. The danger is especially serious when the model appears confident despite receiving inaccurate inputs.
 
-For this reason, many digital-twin approaches emphasise continual comparison between multiple sensor sources and independent [verification]({{ 'verification/' | relative_url }}) methods. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalacademies.org/read/26894/chapter/4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National Academies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">National AcademiesChapter: 2 The Digital Twin Landscape2. The Digital Twin Landscape. This chapter lays the foundation for an understandi...</span></span></span>
+For this reason, many digital-twin approaches emphasise continual comparison between multiple sensor sources and independent [verification]({{ 'verification/' | relative_url }}) methods.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalacademies.org/read/26894/chapter/4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National Academies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">National AcademiesChapter: 2 The Digital Twin Landscape2. The Digital Twin Landscape. This chapter lays the foundation for an understandi...</span></span></span>
 
 ### Human operators must remain in the loop
 
@@ -422,167 +422,167 @@ The connection to the broader AI-bloom vision is practical rather than dramatic.
 
 Human expansion beyond Earth depends on more than rockets. It requires artificial environments that can remain healthy for years, decades and eventually generations. Every improvement in the ability to detect problems early reduces the risk that a distant settlement is one hidden failure away from disaster.
 
-Predictive warning systems do not eliminate the need for robust engineering, spare parts or human expertise. They are an additional layer of resilience. But resilience compounds. A habitat that can spot declining water quality weeks early, predict ecological instability before food production falls, and schedule maintenance before critical equipment breaks becomes less dependent on constant support from Earth. AIAA Journal <span class="citation-chip-wrap"><a class="citation-chip" href="https://techport.nasa.gov/projects/89987" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techport.nasa.gov">[NASA TechPort]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techport.nasa.gov</span><span class="citation-popover-title">Tech Port NASA Tech Port</span><span class="citation-popover-snippet">NASA TechPortNASA TechPort - ProjectJan 22, 2026 — QSI-LM&#x27;s CBM+ solution will furnish the ability to keep the vehicle health status cont...</span></span></span>
+Predictive warning systems do not eliminate the need for robust engineering, spare parts or human expertise. They are an additional layer of resilience. But resilience compounds. A habitat that can spot declining water quality weeks early, predict ecological instability before food production falls, and schedule maintenance before critical equipment breaks becomes less dependent on constant support from Earth. AIAA Journal<span class="citation-chip-wrap"><a class="citation-chip" href="https://techport.nasa.gov/projects/89987" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techport.nasa.gov">[NASA TechPort]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techport.nasa.gov</span><span class="citation-popover-title">Tech Port NASA Tech Port</span><span class="citation-popover-snippet">NASA TechPortNASA TechPort - ProjectJan 22, 2026 — QSI-LM&#x27;s CBM+ solution will furnish the ability to keep the vehicle health status cont...</span></span></span>
 
 In the most ambitious versions of the long-term future, where large populations may live in lunar bases, Martian cities or rotating space habitats, AI's greatest contribution may not be spectacular autonomy. It may be the quieter ability to notice the first signs of trouble while there is still time to act.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can AI Catch Life Support Failure Early?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can AI Catch Life Support Failure Early?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Failure+Is+Not+an+Option+by+Gene+Kranz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Failure Is Not an Option on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=s9eOX7Sr6KkC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Failure Is Not an Option" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Failure+Is+Not+an+Option+by+Gene+Kranz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Failure Is Not an Option">Failure Is Not an Option</a>
-        </h4>
-        <p class="fr-book-author">By Gene Kranz</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 12 Google Books ratings</p>
-        <p class="fr-book-desc">Shows the culture of early warning, fault response and mission control under pressure.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Failure+Is+Not+an+Option+by+Gene+Kranz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Failure+Is+Not+an+Option+by+Gene+Kranz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Failure Is Not an Option on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=s9eOX7Sr6KkC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Failure Is Not an Option" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Failure+Is+Not+an+Option+by+Gene+Kranz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Failure Is Not an Option">Failure Is Not an Option</a>
+</h4>
+<p class="fr-book-author">By Gene Kranz</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 12 Google Books ratings</p>
+<p class="fr-book-desc">Shows the culture of early warning, fault response and mission control under pressure.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Failure+Is+Not+an+Option+by+Gene+Kranz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Checklist+Manifesto+by+Atul+Gawande&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Checklist Manifesto on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_AP2EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Checklist Manifesto" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Checklist+Manifesto+by+Atul+Gawande&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Checklist Manifesto">The Checklist Manifesto</a>
-        </h4>
-        <p class="fr-book-author">By Atul Gawande</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Checklist+Manifesto+by+Atul+Gawande&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Checklist Manifesto on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_AP2EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Checklist Manifesto" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Checklist+Manifesto+by+Atul+Gawande&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Checklist Manifesto">The Checklist Manifesto</a>
+</h4>
+<p class="fr-book-author">By Atul Gawande</p>
         
-        <p class="fr-book-desc">Relevant to preventing failures in high-stakes technical systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Checklist+Manifesto+by+Atul+Gawande&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to preventing failures in high-stakes technical systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Checklist+Manifesto+by+Atul+Gawande&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+City+on+Mars+by+Kelly+Weinersmith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A City on Mars on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2m6vEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for A City on Mars" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+City+on+Mars+by+Kelly+Weinersmith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A City on Mars">A City on Mars</a>
-        </h4>
-        <p class="fr-book-author">By Kelly Weinersmith, Zach Weinersmith</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+City+on+Mars+by+Kelly+Weinersmith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A City on Mars on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2m6vEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for A City on Mars" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+City+on+Mars+by+Kelly+Weinersmith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A City on Mars">A City on Mars</a>
+</h4>
+<p class="fr-book-author">By Kelly Weinersmith, Zach Weinersmith</p>
         
-        <p class="fr-book-desc">Covers why life-support reliability is central to living beyond Earth.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+City+on+Mars+by+Kelly+Weinersmith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers why life-support reliability is central to living beyond Earth.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+City+on+Mars+by+Kelly+Weinersmith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Packing+for+Mars+by+Mary+Roach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Packing for Mars on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Packing+for+Mars+by+Mary+Roach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Packing for Mars">Packing for Mars</a>
-        </h4>
-        <p class="fr-book-author">By Mary Roach</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Packing+for+Mars+by+Mary+Roach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Packing for Mars on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Packing+for+Mars+by+Mary+Roach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Packing for Mars">Packing for Mars</a>
+</h4>
+<p class="fr-book-author">By Mary Roach</p>
         
-        <p class="fr-book-desc">Explains many hidden life-support and human factors issues in spaceflight.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Packing+for+Mars+by+Mary+Roach&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains many hidden life-support and human factors issues in spaceflight.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Packing+for+Mars+by+Mary+Roach&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Failure+Is+Not+an+Option&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Failure Is Not an Option</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Checklist+Manifesto&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Checklist Manifesto</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+City+on+Mars&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A City on Mars</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Failure+Is+Not+an+Option&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Failure Is Not an Option</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Checklist+Manifesto&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Checklist Manifesto</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+City+on+Mars&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A City on Mars</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+habitat+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-catch-life-support-failure-early-space-habitat-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space habitat model" data-ebay-reference="can-ai-catch-life-support-failure-early-space-habitat-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Delatorre NASA X Habitat Colab Collection Skateboard Skate Deck Space 8.0 x 31.5"><img src="https://i.ebayimg.com/images/g/9gEAAeSwERZn8apv/s-l225.jpg" alt="Listing image for Delatorre NASA X Habitat Colab Collection Skateboard Skate Deck Space 8.0 x 31.5" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+habitat+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-catch-life-support-failure-early-space-habitat-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space habitat model" data-ebay-reference="can-ai-catch-life-support-failure-early-space-habitat-model" target="_blank" rel="sponsored noopener noreferrer">Delatorre NASA X Habitat Colab Collection Skateboard Skate Deck Space 8.0 x 31.5</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+habitat+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-catch-life-support-failure-early-space-habitat-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space habitat model" data-ebay-reference="can-ai-catch-life-support-failure-early-space-habitat-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space habitat model">Search <span data-ebay-domain-label>eBay.co.uk</span>: space habitat model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+habitat+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-catch-life-support-failure-early-space-habitat-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space habitat model" data-ebay-reference="can-ai-catch-life-support-failure-early-space-habitat-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+habitat+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-catch-life-support-failure-early-space-habitat-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space habitat model" data-ebay-reference="can-ai-catch-life-support-failure-early-space-habitat-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Delatorre NASA X Habitat Colab Collection Skateboard Skate Deck Space 8.0 x 31.5"><img src="https://i.ebayimg.com/images/g/9gEAAeSwERZn8apv/s-l225.jpg" alt="Listing image for Delatorre NASA X Habitat Colab Collection Skateboard Skate Deck Space 8.0 x 31.5" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+habitat+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-catch-life-support-failure-early-space-habitat-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space habitat model" data-ebay-reference="can-ai-catch-life-support-failure-early-space-habitat-model" target="_blank" rel="sponsored noopener noreferrer">Delatorre NASA X Habitat Colab Collection Skateboard Skate Deck Space 8.0 x 31.5</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+habitat+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-catch-life-support-failure-early-space-habitat-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space habitat model" data-ebay-reference="can-ai-catch-life-support-failure-early-space-habitat-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space habitat model">Search<span data-ebay-domain-label>eBay.co.uk</span>: space habitat model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+habitat+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-catch-life-support-failure-early-space-habitat-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space habitat model" data-ebay-reference="can-ai-catch-life-support-failure-early-space-habitat-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+habitat+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-catch-life-support-failure-early-space-habitat-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space habitat model" data-ebay-reference="can-ai-catch-life-support-failure-early-space-habitat-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Marius Sylvanen NASA x Habitat Skateboard Deck 8.375"><img src="https://i.ebayimg.com/images/g/fWUAAeSwQMdp1sYa/s-l225.jpg" alt="Listing image for Marius Sylvanen NASA x Habitat Skateboard Deck 8.375" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+habitat+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-catch-life-support-failure-early-space-habitat-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space habitat model" data-ebay-reference="can-ai-catch-life-support-failure-early-space-habitat-model" target="_blank" rel="sponsored noopener noreferrer">Marius Sylvanen NASA x Habitat Skateboard Deck 8.375</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+habitat+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-catch-life-support-failure-early-space-habitat-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space habitat model" data-ebay-reference="can-ai-catch-life-support-failure-early-space-habitat-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space habitat model">Search <span data-ebay-domain-label>eBay.co.uk</span>: space habitat model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+habitat+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-catch-life-support-failure-early-space-habitat-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space habitat model" data-ebay-reference="can-ai-catch-life-support-failure-early-space-habitat-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+habitat+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-catch-life-support-failure-early-space-habitat-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space habitat model" data-ebay-reference="can-ai-catch-life-support-failure-early-space-habitat-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+habitat+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-catch-life-support-failure-early-space-habitat-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space habitat model" data-ebay-reference="can-ai-catch-life-support-failure-early-space-habitat-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Marius Sylvanen NASA x Habitat Skateboard Deck 8.375"><img src="https://i.ebayimg.com/images/g/fWUAAeSwQMdp1sYa/s-l225.jpg" alt="Listing image for Marius Sylvanen NASA x Habitat Skateboard Deck 8.375" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+habitat+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-catch-life-support-failure-early-space-habitat-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space habitat model" data-ebay-reference="can-ai-catch-life-support-failure-early-space-habitat-model" target="_blank" rel="sponsored noopener noreferrer">Marius Sylvanen NASA x Habitat Skateboard Deck 8.375</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+habitat+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-catch-life-support-failure-early-space-habitat-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space habitat model" data-ebay-reference="can-ai-catch-life-support-failure-early-space-habitat-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space habitat model">Search<span data-ebay-domain-label>eBay.co.uk</span>: space habitat model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+habitat+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-catch-life-support-failure-early-space-habitat-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space habitat model" data-ebay-reference="can-ai-catch-life-support-failure-early-space-habitat-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+habitat+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-catch-life-support-failure-early-space-habitat-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space habitat model" data-ebay-reference="can-ai-catch-life-support-failure-early-space-habitat-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -598,7 +598,7 @@ In the most ambitious versions of the long-term future, where large populations 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -618,7 +618,7 @@ In the most ambitious versions of the long-term future, where large populations 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -650,7 +650,7 @@ In the most ambitious versions of the long-term future, where large populations 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -702,7 +702,7 @@ In the most ambitious versions of the long-term future, where large populations 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -747,7 +747,7 @@ In the most ambitious versions of the long-term future, where large populations 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -788,183 +788,183 @@ In the most ambitious versions of the long-term future, where large populations 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nasa.gov  
    Title: environmental control and life support systems eclss  
-   Link: <a href="https://www.nasa.gov/reference/environmental-control-and-life-support-systems-eclss/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/reference/environmental-control-and-life-support-systems-eclss/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Environmental Control and Life Support Systems (ECLSS)4 Apr 2025 — ECLSS is a life support system that provides or controls atmospher...</p></details>
+   Link:<a href="https://www.nasa.gov/reference/environmental-control-and-life-support-systems-eclss/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/reference/environmental-control-and-life-support-systems-eclss/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Environmental Control and Life Support Systems (ECLSS)4 Apr 2025 — ECLSS is a life support system that provides or controls atmospher...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: arc.aiaa.org  
-   Link: <a href="https://arc.aiaa.org/doi/10.2514/1.I011320" target="_blank" rel="noopener noreferrer nofollow">https://arc.aiaa.org/doi/10.2514/1.I011320</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AIAA JournalDigital Twin Technologies for Autonomous Environmental...by N Gratius · 2024 · Cited by 26 — Environmental control and life...</p></details>
+   Link:<a href="https://arc.aiaa.org/doi/10.2514/1.I011320" target="_blank" rel="noopener noreferrer nofollow">https://arc.aiaa.org/doi/10.2514/1.I011320</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AIAA JournalDigital Twin Technologies for Autonomous Environmental...by N Gratius · 2024 · Cited by 26 — Environmental control and life...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2950616625000452" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2950616625000452</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Toward sustainable living in space: A review of...by A Raihan · 2026 · Cited by 1 — In the context of ECLSS, sustainability refers to th...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S2950616625000452" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2950616625000452</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Toward sustainable living in space: A review of...by A Raihan · 2026 · Cited by 1 — In the context of ECLSS, sustainability refers to th...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: webs.uab.cat  
-   Link: <a href="https://webs.uab.cat/melissapilotplant/wp-content/uploads/sites/397/2023/11/Melissa_The_European_project_of_a_closed_life_supp-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://webs.uab.cat/melissapilotplant/wp-content/uploads/sites/397/2023/11/Melissa_The_European_project_of_a_closed_life_supp-1.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Melissa: The European project of a closed life support systemby C Lasseur · Cited by 199 — The MELiSSA (Micro-ecological life-sup...</p></details>
+   Link:<a href="https://webs.uab.cat/melissapilotplant/wp-content/uploads/sites/397/2023/11/Melissa_The_European_project_of_a_closed_life_supp-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://webs.uab.cat/melissapilotplant/wp-content/uploads/sites/397/2023/11/Melissa_The_European_project_of_a_closed_life_supp-1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Melissa: The European project of a closed life support systemby C Lasseur · Cited by 199 — The MELiSSA (Micro-ecological life-sup...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: techport.nasa.gov  
    Title: Tech Port NASA Tech Port  
-   Link: <a href="https://techport.nasa.gov/projects/89987" target="_blank" rel="noopener noreferrer nofollow">https://techport.nasa.gov/projects/89987</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA TechPortNASA TechPort - ProjectJan 22, 2026 — QSI-LM&#x27;s CBM+ solution will furnish the ability to keep the vehicle health status cont...</p></details>
+   Link:<a href="https://techport.nasa.gov/projects/89987" target="_blank" rel="noopener noreferrer nofollow">https://techport.nasa.gov/projects/89987</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA TechPortNASA TechPort - ProjectJan 22, 2026 — QSI-LM&#x27;s CBM+ solution will furnish the ability to keep the vehicle health status cont...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0950584922001331" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0950584922001331</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>We answer key questions for designing a successful predictive maintenance model...Read more...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0950584922001331" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0950584922001331</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>We answer key questions for designing a successful predictive maintenance model...Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10912257/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10912257/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Digital Twin (DT) is a digital copy or virtual representation of an object, process, service, or system in the real world...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10912257/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10912257/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Digital Twin (DT) is a digital copy or virtual representation of an object, process, service, or system in the real world...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: ntrs.nasa.gov  
-   Link: <a href="https://ntrs.nasa.gov/citations/20210023699" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/citations/20210023699</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Technical Reports ServerDigital Twins and Living Models at NASAby BD Allen · 2021 · Cited by 185 — This “digital twin” was the first...</p></details>
+   Link:<a href="https://ntrs.nasa.gov/citations/20210023699" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/citations/20210023699</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Technical Reports ServerDigital Twins and Living Models at NASAby BD Allen · 2021 · Cited by 185 — This “digital twin” was the first...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/396253514_A_generative_machine_learning_framework_for_anomaly_response_in_cyclical_processes_in_the_ECLSS_on_a_deep_space_habitat" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/396253514_A_generative_machine_learning_framework_for_anomaly_response_in_cyclical_processes_in_the_ECLSS_on_a_deep_space_habitat</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A generative machine learning framework for anomaly...19 Mar 2026 — A generative machine learning framework for anomaly response in cycl...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/396253514_A_generative_machine_learning_framework_for_anomaly_response_in_cyclical_processes_in_the_ECLSS_on_a_deep_space_habitat" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/396253514_A_generative_machine_learning_framework_for_anomaly_response_in_cyclical_processes_in_the_ECLSS_on_a_deep_space_habitat</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A generative machine learning framework for anomaly...19 Mar 2026 — A generative machine learning framework for anomaly response in cycl...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0278612523001085" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0278612523001085</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital twin-based structural health monitoring by...by X Lai · 2023 · Cited by 118 — By combining measurement and computational data, t...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0278612523001085" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0278612523001085</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Digital twin-based structural health monitoring by...by X Lai · 2023 · Cited by 118 — By combining measurement and computational data, t...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2214552425001336" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2214552425001336</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A framework for predictive and personalised space medicineby R Siddiqui · 2025 · Cited by 1 — Digital twin technology, which creates adap...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S2214552425001336" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2214552425001336</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A framework for predictive and personalised space medicineby R Siddiqui · 2025 · Cited by 1 — Digital twin technology, which creates adap...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nasa.gov  
-   Link: <a href="https://www.nasa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Aeronautics and Space Administration. NASA explores the unknown in air and space, innovates for the benefit of humanity, and...</p></details>
+   Link:<a href="https://www.nasa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Aeronautics and Space Administration. NASA explores the unknown in air and space, innovates for the benefit of humanity, and...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: science.nasa.gov  
    Title: why does the world and nasa need digital twins  
-   Link: <a href="https://science.nasa.gov/biological-physical/why-does-the-world-and-nasa-need-digital-twins/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/biological-physical/why-does-the-world-and-nasa-need-digital-twins/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>does the world (and NASA) need digital twins?18 Feb 2025 — As the world grows in complexity, digital twins can help us make better-inform...</p></details>
+   Link:<a href="https://science.nasa.gov/biological-physical/why-does-the-world-and-nasa-need-digital-twins/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/biological-physical/why-does-the-world-and-nasa-need-digital-twins/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>does the world (and NASA) need digital twins?18 Feb 2025 — As the world grows in complexity, digital twins can help us make better-inform...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: techport.nasa.gov  
-   Link: <a href="https://techport.nasa.gov/projects/154412" target="_blank" rel="noopener noreferrer nofollow">https://techport.nasa.gov/projects/154412</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital Twin Platform (HDTP)Jan 22, 2026 — The ability to move to “predictive monitoring” via AI/ML gives NASA team members and future sp...</p></details>
+   Link:<a href="https://techport.nasa.gov/projects/154412" target="_blank" rel="noopener noreferrer nofollow">https://techport.nasa.gov/projects/154412</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Digital Twin Platform (HDTP)Jan 22, 2026 — The ability to move to “predictive monitoring” via AI/ML gives NASA team members and future sp...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/284789582_MELiSSA_The_European_project_of_closed_life_support_system" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/284789582_MELiSSA_The_European_project_of_closed_life_support_system</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MELiSSA: The European project of closed life support systemSuch a closed-loop circular bioregenerative life support system, based on a se...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/284789582_MELiSSA_The_European_project_of_closed_life_support_system" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/284789582_MELiSSA_The_European_project_of_closed_life_support_system</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MELiSSA: The European project of closed life support systemSuch a closed-loop circular bioregenerative life support system, based on a se...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: esa.int  
    Title: European Space Agency ESA  
-   Link: <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Melissa/Closed_Loop_Concept" target="_blank" rel="noopener noreferrer nofollow">https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Melissa/Closed_Loop_Concept</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>European Space AgencyESA - [Closed Loop](&amp;#123;&amp;#123; &#x27;closed-loop/&#x27; | relative_url &amp;#125;&amp;#125;) ConceptThe driving element of MELiSSA is the recovering of food, water and oxygen from organic was...</p></details>
+   Link:<a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Melissa/Closed_Loop_Concept" target="_blank" rel="noopener noreferrer nofollow">https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Melissa/Closed_Loop_Concept</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>European Space AgencyESA - [Closed Loop](&amp;#123;&amp;#123; &#x27;closed-loop/&#x27; | relative_url &amp;#125;&amp;#125;) ConceptThe driving element of MELiSSA is the recovering of food, water and oxygen from organic was...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/16431089/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/16431089/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ecology of the closed artificial ecosystem...by L Hendrickx · 2006 · Cited by 230 — MELiSSA is a bioregenerative life support system des...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/16431089/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/16431089/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ecology of the closed artificial ecosystem...by L Hendrickx · 2006 · Cited by 230 — MELiSSA is a bioregenerative life support system des...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: hsu-hh.de  
-   Link: <a href="https://www.hsu-hh.de/imb/en/projects/k-iss-artificial-intelligence-for-the-diagnosis-of-the-international-space-station-iss" target="_blank" rel="noopener noreferrer nofollow">https://www.hsu-hh.de/imb/en/projects/k-iss-artificial-intelligence-for-the-diagnosis-of-the-international-space-station-iss</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sending of notifications to the expert team.Read more...</p></details>
+   Link:<a href="https://www.hsu-hh.de/imb/en/projects/k-iss-artificial-intelligence-for-the-diagnosis-of-the-international-space-station-iss" target="_blank" rel="noopener noreferrer nofollow">https://www.hsu-hh.de/imb/en/projects/k-iss-artificial-intelligence-for-the-diagnosis-of-the-international-space-station-iss</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sending of notifications to the expert team.Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: papers.phmsociety.org  
-   Link: <a href="https://papers.phmsociety.org/index.php/phmconf/article/view/4343" target="_blank" rel="noopener noreferrer nofollow">https://papers.phmsociety.org/index.php/phmconf/article/view/4343</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PHM SocietyDigital Twin-based IVHM for Predictive Maintenanceby S Norcaro · 2025 · Cited by 2 — This paper proposes a Digital Twin-based...</p></details>
+   Link:<a href="https://papers.phmsociety.org/index.php/phmconf/article/view/4343" target="_blank" rel="noopener noreferrer nofollow">https://papers.phmsociety.org/index.php/phmconf/article/view/4343</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PHM SocietyDigital Twin-based IVHM for Predictive Maintenanceby S Norcaro · 2025 · Cited by 2 — This paper proposes a Digital Twin-based...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: nationalacademies.org  
-   Link: <a href="https://www.nationalacademies.org/read/26894/chapter/4" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/26894/chapter/4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National AcademiesChapter: 2 The Digital Twin Landscape2. The Digital Twin Landscape. This chapter lays the foundation for an understandi...</p></details>
+   Link:<a href="https://www.nationalacademies.org/read/26894/chapter/4" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/26894/chapter/4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National AcademiesChapter: 2 The Digital Twin Landscape2. The Digital Twin Landscape. This chapter lays the foundation for an understandi...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/18592407/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/18592407/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>bioregenerative system to provide life support in spaceby B Farges · 2008 · Cited by 46 — This paper presents the mathematical modelling...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/18592407/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/18592407/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>bioregenerative system to provide life support in spaceby B Farges · 2008 · Cited by 46 — This paper presents the mathematical modelling...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: kilthub.cmu.edu  
-   Link: <a href="https://kilthub.cmu.edu/articles/thesis/A_simulation_framework_for_life-support_anomaly_response_in_deep-space_exploration_habitats/26585677" target="_blank" rel="noopener noreferrer nofollow">https://kilthub.cmu.edu/articles/thesis/A_simulation_framework_for_life-support_anomaly_response_in_deep-space_exploration_habitats/26585677</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A simulation framework for life-support anomaly response...by NH Gratius — This research advances the development of autonomous E...</p></details>
+   Link:<a href="https://kilthub.cmu.edu/articles/thesis/A_simulation_framework_for_life-support_anomaly_response_in_deep-space_exploration_habitats/26585677" target="_blank" rel="noopener noreferrer nofollow">https://kilthub.cmu.edu/articles/thesis/A_simulation_framework_for_life-support_anomaly_response_in_deep-space_exploration_habitats/26585677</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A simulation framework for life-support anomaly response...by NH Gratius — This research advances the development of autonomous E...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/NASA" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NASA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASAThe National Aeronautics and Space Administration is an independent agency of the U.S. federal government responsible for the Unit...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/NASA" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NASA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASAThe National Aeronautics and Space Administration is an independent agency of the U.S. federal government responsible for the Unit...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: eoportal.org  
    Title: digital twins  
-   Link: <a href="https://www.eoportal.org/other-space-activities/digital-twins" target="_blank" rel="noopener noreferrer nofollow">https://www.eoportal.org/other-space-activities/digital-twins</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>22 Dec 2024 — Digital twins are digital models of physical systems, processes or objects, aiming to accurately reflect the current state...</p></details>
+   Link:<a href="https://www.eoportal.org/other-space-activities/digital-twins" target="_blank" rel="noopener noreferrer nofollow">https://www.eoportal.org/other-space-activities/digital-twins</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>22 Dec 2024 — Digital twins are digital models of physical systems, processes or objects, aiming to accurately reflect the current state...</p></details>
 
 ### Additional References
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: questglobal.com  
-   Link: <a href="https://www.questglobal.com/insights/thought-leadership/digitalisation-digital-twins-making-the-most-of-predictive-maintenance/" target="_blank" rel="noopener noreferrer nofollow">https://www.questglobal.com/insights/thought-leadership/digitalisation-digital-twins-making-the-most-of-predictive-maintenance/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital Twins &amp; Predictive Maintenance: Unlocking EfficiencyDigital Twins—dynamic, virtual replicas of physical systems—originated in the...</p></details>
+   Link:<a href="https://www.questglobal.com/insights/thought-leadership/digitalisation-digital-twins-making-the-most-of-predictive-maintenance/" target="_blank" rel="noopener noreferrer nofollow">https://www.questglobal.com/insights/thought-leadership/digitalisation-digital-twins-making-the-most-of-predictive-maintenance/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Digital Twins &amp; Predictive Maintenance: Unlocking EfficiencyDigital Twins—dynamic, virtual replicas of physical systems—originated in the...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: dataintelo.com  
-   Link: <a href="https://dataintelo.com/report/global-environmental-control-and-life-support-systems-market" target="_blank" rel="noopener noreferrer nofollow">https://dataintelo.com/report/global-environmental-control-and-life-support-systems-market</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Environmental Control and Life Support Systems MarketThe integration of artificial intelligence for predictive maintenance, real-time ano...</p></details>
+   Link:<a href="https://dataintelo.com/report/global-environmental-control-and-life-support-systems-market" target="_blank" rel="noopener noreferrer nofollow">https://dataintelo.com/report/global-environmental-control-and-life-support-systems-market</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Environmental Control and Life Support Systems MarketThe integration of artificial intelligence for predictive maintenance, real-time ano...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: melissafoundation.org  
-   Link: <a href="https://www.melissafoundation.org/page/melissa-pilot-plant" target="_blank" rel="noopener noreferrer nofollow">https://www.melissafoundation.org/page/melissa-pilot-plant</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MELiSSA Pilot PlantThe MELiSSA loop developed in the MPP is a ground demonstrator of a closed life support system, allowing for comprehen...</p></details>
+   Link:<a href="https://www.melissafoundation.org/page/melissa-pilot-plant" target="_blank" rel="noopener noreferrer nofollow">https://www.melissafoundation.org/page/melissa-pilot-plant</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MELiSSA Pilot PlantThe MELiSSA loop developed in the MPP is a ground demonstrator of a closed life support system, allowing for comprehen...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/pulse/role-digital-twin-predictive-maintenance-sarla-technologies-nc51f" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/role-digital-twin-predictive-maintenance-sarla-technologies-nc51f</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Role of Digital Twin in Predictive MaintenanceDigital twin technology is revolutionizing predictive maintenance by providing real-tim...</p></details>
+   Link:<a href="https://www.linkedin.com/pulse/role-digital-twin-predictive-maintenance-sarla-technologies-nc51f" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/role-digital-twin-predictive-maintenance-sarla-technologies-nc51f</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Role of Digital Twin in Predictive MaintenanceDigital twin technology is revolutionizing predictive maintenance by providing real-tim...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: wsn.spaceflight.esa.int  
-   Link: <a href="https://wsn.spaceflight.esa.int/docs/Factsheets/30%20ECLSS%20LR.pdf" target="_blank" rel="noopener noreferrer nofollow">https://wsn.spaceflight.esa.int/docs/Factsheets/30%20ECLSS%20LR.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>esa.int→ EnvironmEnt Control and lifE Support SyStEm (EClSS)- The MCA is a mass spectrometer that continuously monitors the partial press...</p></details>
+   Link:<a href="https://wsn.spaceflight.esa.int/docs/Factsheets/30%20ECLSS%20LR.pdf" target="_blank" rel="noopener noreferrer nofollow">https://wsn.spaceflight.esa.int/docs/Factsheets/30%20ECLSS%20LR.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>esa.int→ EnvironmEnt Control and lifE Support SyStEm (EClSS)- The MCA is a mass spectrometer that continuously monitors the partial press...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: cdn.nasahunch.com  
    Title: Implement an AI Preventive Maintenance System NASA ECLISS 1 c13a27602a  
-   Link: <a href="https://cdn.nasahunch.com/Implement_an_AI_Preventive_Maintenance_System_NASA_ECLISS_1_c13a27602a.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nasahunch.com/Implement_an_AI_Preventive_Maintenance_System_NASA_ECLISS_1_c13a27602a.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>an AI Preventive Maintenance System...The ECLSS is a complex, hierarchical system responsible for maintaining air, water, and waste mana...</p></details>
+   Link:<a href="https://cdn.nasahunch.com/Implement_an_AI_Preventive_Maintenance_System_NASA_ECLISS_1_c13a27602a.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nasahunch.com/Implement_an_AI_Preventive_Maintenance_System_NASA_ECLISS_1_c13a27602a.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>an AI Preventive Maintenance System...The ECLSS is a complex, hierarchical system responsible for maintaining air, water, and waste mana...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: ui.adsabs.harvard.edu  
    Title: It is intended as a tool to gain understanding of closed life support  
-   Link: <a href="https://ui.adsabs.harvard.edu/abs/2008cosp...37.1706L/abstract" target="_blank" rel="noopener noreferrer nofollow">https://ui.adsabs.harvard.edu/abs/2008cosp...37.1706L/abstract</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>harvard.eduMelissa: The European project of a closed life support systemby C Lasseur · 2008 · Cited by 23 — The MELISSA (Micro-Ecological...</p></details>
+   Link:<a href="https://ui.adsabs.harvard.edu/abs/2008cosp...37.1706L/abstract" target="_blank" rel="noopener noreferrer nofollow">https://ui.adsabs.harvard.edu/abs/2008cosp...37.1706L/abstract</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>harvard.eduMelissa: The European project of a closed life support systemby C Lasseur · 2008 · Cited by 23 — The MELISSA (Micro-Ecological...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: anvil.so  
    Title: how digital twins use sensor data for maintenance  
-   Link: <a href="https://anvil.so/post/how-digital-twins-use-sensor-data-for-maintenance" target="_blank" rel="noopener noreferrer nofollow">https://anvil.so/post/how-digital-twins-use-sensor-data-for-maintenance</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>23 Jul 2025 — Digital twins are virtual replicas of physical assets that use real-time sensor data to monitor, simulate, and predict equi...</p></details>
+   Link:<a href="https://anvil.so/post/how-digital-twins-use-sensor-data-for-maintenance" target="_blank" rel="noopener noreferrer nofollow">https://anvil.so/post/how-digital-twins-use-sensor-data-for-maintenance</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>23 Jul 2025 — Digital twins are virtual replicas of physical assets that use real-time sensor data to monitor, simulate, and predict equi...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: youtube.com  
    Title: Space Station Live: Environmental Control and Life Support System  
-   Link: <a href="https://www.youtube.com/watch?v=iht75kq0RrU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=iht75kq0RrU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>100 Astronauts on Starship - Where Are the Toilets? - YouTube 100 Astronauts on Starship - Where Are the Toilets? - YouTube TWiT Tech Pod...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=iht75kq0RrU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=iht75kq0RrU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>100 Astronauts on Starship - Where Are the Toilets? - YouTube 100 Astronauts on Starship - Where Are the Toilets? - YouTube TWiT Tech Pod...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/17452759.2026.2639147" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/17452759.2026.2639147</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Full article: Digital twin for in – space manufacturingby L Wang · 2026 — Process optimisation, predictive maintenance and compressed dev...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/17452759.2026.2639147" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/17452759.2026.2639147</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Full article: Digital twin for in – space manufacturingby L Wang · 2026 — Process optimisation, predictive maintenance and compressed dev...</p></details>

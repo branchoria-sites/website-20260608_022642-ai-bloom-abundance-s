@@ -282,7 +282,7 @@ The core fairness question is simple: when a technology company requests hundred
 
 ## Why data centres trigger expensive grid reinforcements
 
-Traditional electricity systems were not designed around clusters of facilities that can consume as much [power]({{ 'power/' | relative_url }}) as a medium-sized city. A single large AI data centre may require dedicated transmission connections, new substations, upgraded distribution networks and additional generation resources to maintain reliability. Utilities across the United States and Europe have reported unprecedented requests for new connections linked to AI infrastructure. Some utilities received requests for hundreds of gigawatts of potential data-centre load in 2025 alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eesi.org/articles/view/data-center-power-demands-are-contributing-to-higher-energy-bills" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eesi.org">[Environmental and Energy Study Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eesi.org</span><span class="citation-popover-title">data center power demands are contributing to higher energy bills</span><span class="citation-popover-snippet">Environmental and Energy Study InstituteData Center Power Demands Are Contributing to Higher...24 Feb 2026 — Dozens of utilities receive...</span></span></span>
+Traditional electricity systems were not designed around clusters of facilities that can consume as much [power]({{ 'power/' | relative_url }}) as a medium-sized city. A single large AI data centre may require dedicated transmission connections, new substations, upgraded distribution networks and additional generation resources to maintain reliability. Utilities across the United States and Europe have reported unprecedented requests for new connections linked to AI infrastructure. Some utilities received requests for hundreds of gigawatts of potential data-centre load in 2025 alone.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eesi.org/articles/view/data-center-power-demands-are-contributing-to-higher-energy-bills" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eesi.org">[Environmental and Energy Study Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eesi.org</span><span class="citation-popover-title">data center power demands are contributing to higher energy bills</span><span class="citation-popover-snippet">Environmental and Energy Study InstituteData Center Power Demands Are Contributing to Higher...24 Feb 2026 — Dozens of utilities receive...</span></span></span>
 
 The costs arise at several different levels:
 
@@ -303,7 +303,7 @@ That question sounds technical, but it has become a major political dispute beca
 
 The main concern from consumer advocates is that data-centre expansion can create a hidden subsidy. If utilities build infrastructure for large technology customers but recover much of the cost through general electricity rates, households and small businesses end up helping finance private computing expansion.
 
-Research and regulatory filings increasingly focus on this possibility. A Harvard Electricity Law Initiative analysis argued that utilities can effectively subsidise data-centre growth when infrastructure costs are shifted onto other ratepayers rather than assigned directly to the facilities creating the demand. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.utilitydive.com/news/utilities-subsidize-data-center-growth-ratepayer-cost-shif-harvard-peskoe/742001/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: utilitydive.com">[Utility Dive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">utilitydive.com</span><span class="citation-popover-title">utilities subsidize data center growth ratepayer cost shif harvard peskoe</span><span class="citation-popover-snippet">Utility DiveUtilities may subsidize data center growth by shifting costs...Mar 10, 2025 — Utilities may subsidize data center growth by...</span></span></span>
+Research and regulatory filings increasingly focus on this possibility. A Harvard Electricity Law Initiative analysis argued that utilities can effectively subsidise data-centre growth when infrastructure costs are shifted onto other ratepayers rather than assigned directly to the facilities creating the demand.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.utilitydive.com/news/utilities-subsidize-data-center-growth-ratepayer-cost-shif-harvard-peskoe/742001/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: utilitydive.com">[Utility Dive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">utilitydive.com</span><span class="citation-popover-title">utilities subsidize data center growth ratepayer cost shif harvard peskoe</span><span class="citation-popover-snippet">Utility DiveUtilities may subsidize data center growth by shifting costs...Mar 10, 2025 — Utilities may subsidize data center growth by...</span></span></span>
 
 Several mechanisms can produce this outcome.
 
@@ -311,15 +311,15 @@ Several mechanisms can produce this outcome.
 
 Many transmission projects are paid for through region-wide tariffs rather than by a single customer. This means customers far from a data-centre cluster can still bear part of the cost.
 
-The issue has become especially contentious in the PJM electricity market, which covers much of the US Mid-Atlantic and Midwest. The Union of Concerned Scientists estimated that billions of dollars in transmission-upgrade costs associated with data-centre growth were being spread across customers in multiple states. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ucs.org/sites/default/files/2025-09/PJM%20Data%20Center%20Issue%20Brief%20-%20Sep%202025.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ucs.org">[The Union of Concerned Scientists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ucs.org</span><span class="citation-popover-title">This brief&#x27;s appendix</span><span class="citation-popover-snippet">The Union of Concerned ScientistsConnection CostsSeptember 26, 2025 — 25 Sept 2025 — These costs come from local transmission upgrades ma...</span><span class="citation-popover-meta">Published: September 26, 2025</span></span></span>
+The issue has become especially contentious in the PJM electricity market, which covers much of the US Mid-Atlantic and Midwest. The Union of Concerned Scientists estimated that billions of dollars in transmission-upgrade costs associated with data-centre growth were being spread across customers in multiple states.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ucs.org/sites/default/files/2025-09/PJM%20Data%20Center%20Issue%20Brief%20-%20Sep%202025.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ucs.org">[The Union of Concerned Scientists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ucs.org</span><span class="citation-popover-title">This brief&#x27;s appendix</span><span class="citation-popover-snippet">The Union of Concerned ScientistsConnection CostsSeptember 26, 2025 — 25 Sept 2025 — These costs come from local transmission upgrades ma...</span><span class="citation-popover-meta">Published: September 26, 2025</span></span></span>
 
-Recent complaints from Maryland regulators illustrate the problem. State officials argued that Maryland households could end up paying substantial sums for grid projects driven largely by data-centre growth elsewhere in the region, particularly in neighbouring Virginia. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tomshardware.com/tech-industry/artificial-intelligence/maryland-citizens-slapped-with-usd2-billion-grid-upgrade-bill-for-out-of-state-ai-data-centers-state-complains-to-federal-energy-regulators-says-additional-cost-breaks-ratepayer-protection-pledge-promises" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tomshardware.com">[Tom&#x27;s Hardware]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tomshardware.com</span><span class="citation-popover-snippet">These upgrades are meant to support rising electricity demand from AI-focused data centers, many of which are located outside of Maryland...</span></span></span>
+Recent complaints from Maryland regulators illustrate the problem. State officials argued that Maryland households could end up paying substantial sums for grid projects driven largely by data-centre growth elsewhere in the region, particularly in neighbouring Virginia.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tomshardware.com/tech-industry/artificial-intelligence/maryland-citizens-slapped-with-usd2-billion-grid-upgrade-bill-for-out-of-state-ai-data-centers-state-complains-to-federal-energy-regulators-says-additional-cost-breaks-ratepayer-protection-pledge-promises" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tomshardware.com">[Tom&#x27;s Hardware]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tomshardware.com</span><span class="citation-popover-snippet">These upgrades are meant to support rising electricity demand from AI-focused data centers, many of which are located outside of Maryland...</span></span></span>
 
 ### Utility investment programmes
 
 Utilities typically recover approved infrastructure spending through customer bills over many years. When utilities expand capital-investment plans to accommodate anticipated data-centre demand, some costs may enter the general rate base.
 
-Dominion Energy, serving the largest concentration of data centres in the world in northern Virginia, significantly expanded its planned capital spending partly in response to rising data-centre demand. The resulting debate is not whether infrastructure is needed, but how much of the bill should be attributed to the facilities driving the growth. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/business/energy/us-pushes-regulators-connecting-data-centers-grid-2025-10-24/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">US pushes regulators on connecting data centers to grid U.S</span><span class="citation-popover-snippet">Energy Secretary Chris Wright has urged the Federal Energy Regulatory Commission (FERC) to approve a proposed rule aimed at expediting th...</span></span></span>
+Dominion Energy, serving the largest concentration of data centres in the world in northern Virginia, significantly expanded its planned capital spending partly in response to rising data-centre demand. The resulting debate is not whether infrastructure is needed, but how much of the bill should be attributed to the facilities driving the growth.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/business/energy/us-pushes-regulators-connecting-data-centers-grid-2025-10-24/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">US pushes regulators on connecting data centers to grid U.S</span><span class="citation-popover-snippet">Energy Secretary Chris Wright has urged the Federal Energy Regulatory Commission (FERC) to approve a proposed rule aimed at expediting th...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YN6BEUA4jNU" title="We Found the Hidden Cost of Data Centers. It&#x27;s in Your Electric Bill" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YN6BEUA4jNU" target="_blank" rel="noopener noreferrer">We Found the Hidden Cost of Data Centers. It&#x27;s in Your Electric Bill</a></p><p class="youtube-embed-meta">Channel: More Perfect Union &middot; Views: 1.4M &middot; Uploaded: August 2025 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YN6BEUA4jNU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YN6BEUA4jNU">Open on YouTube</a></p></div></div></div>
 
@@ -335,7 +335,7 @@ This is one reason regulators increasingly focus on financial guarantees and upf
 
 A growing number of regulators, consumer advocates and policymakers argue that AI companies should pay a much larger share of upgrade costs.
 
-The principle is often described as **cost causation**: those who create the need for infrastructure should bear the corresponding costs. That principle already exists in parts of electricity regulation and is becoming a central theme in debates over AI infrastructure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.swlaw.com/publication/ferc-sets-june-action-on-does-large-load-interconnection-plan-putting-federal-state-boundaries-at-the-center-of-what-comes-next/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swlaw.com">[Law Offices of Snell &amp; Wilmer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swlaw.com</span><span class="citation-popover-snippet">Law Offices of Snell &amp; WilmerFERC Sets June Action on DOE&#x27;s Large Load...Apr 21, 2026 — FERC&#x27;s decision to act by the end of June locks...</span></span></span>
+The principle is often described as **cost causation**: those who create the need for infrastructure should bear the corresponding costs. That principle already exists in parts of electricity regulation and is becoming a central theme in debates over AI infrastructure.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.swlaw.com/publication/ferc-sets-june-action-on-does-large-load-interconnection-plan-putting-federal-state-boundaries-at-the-center-of-what-comes-next/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swlaw.com">[Law Offices of Snell &amp; Wilmer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swlaw.com</span><span class="citation-popover-snippet">Law Offices of Snell &amp; WilmerFERC Sets June Action on DOE&#x27;s Large Load...Apr 21, 2026 — FERC&#x27;s decision to act by the end of June locks...</span></span></span>
 
 Several arguments support this approach.
 
@@ -345,9 +345,9 @@ Second, it improves investment signals. If developers must pay more of the true 
 
 Third, it strengthens political legitimacy. Public support for AI expansion may weaken if residents believe they are financing infrastructure that primarily benefits large technology firms.
 
-Recent utility proposals in Virginia reflect this logic. Regulators and utilities have explored special rate classes designed to ensure that data-centre customers bear a larger share of costs associated with the infrastructure built to serve them. Proposed reforms have aimed to reduce residential bills while increasing charges for high-load customers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://virginiamercury.com/2026/02/10/bill-would-put-more-energy-costs-on-data-centers-slash-residential-customerss-rates/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: virginiamercury.com">[virginiamercury.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">virginiamercury.com</span><span class="citation-popover-snippet">Bill would put more energy costs on data centers, slash...Feb 10, 2026 — The state would save an estimated $8.3 million in 2027 for loca...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://virginiamercury.com/2025/04/25/will-special-rate-classes-protect-va-residents-from-the-costs-of-serving-data-centers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: virginiamercury.com">[virginiamercury.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">virginiamercury.com</span><span class="citation-popover-title">Will special rate classes protect Va</span><span class="citation-popover-snippet">residents from the...25 Apr 2025 — The proposals reflect a growing consensus that ordinary residents should not be forced to bear the co...</span></span></span>
+Recent utility proposals in Virginia reflect this logic. Regulators and utilities have explored special rate classes designed to ensure that data-centre customers bear a larger share of costs associated with the infrastructure built to serve them. Proposed reforms have aimed to reduce residential bills while increasing charges for high-load customers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://virginiamercury.com/2026/02/10/bill-would-put-more-energy-costs-on-data-centers-slash-residential-customerss-rates/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: virginiamercury.com">[virginiamercury.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">virginiamercury.com</span><span class="citation-popover-snippet">Bill would put more energy costs on data centers, slash...Feb 10, 2026 — The state would save an estimated $8.3 million in 2027 for loca...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://virginiamercury.com/2025/04/25/will-special-rate-classes-protect-va-residents-from-the-costs-of-serving-data-centers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: virginiamercury.com">[virginiamercury.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">virginiamercury.com</span><span class="citation-popover-title">Will special rate classes protect Va</span><span class="citation-popover-snippet">residents from the...25 Apr 2025 — The proposals reflect a growing consensus that ordinary residents should not be forced to bear the co...</span></span></span>
 
-Some utilities have gone further. In Pennsylvania, PECO announced agreements requiring data centres to pay for certain transmission upgrades associated with their connections, explicitly seeking to shield existing customers from those expenses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://whyy.org/articles/peco-data-centers-agreement/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whyy.org">[WHYY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whyy.org</span><span class="citation-popover-title">The utility says its transmission security agreements</span><span class="citation-popover-snippet">PECO requires data centers to pay for transmission upgradesMay 13, 2026 — 13 May 2026 — PECO signs agreements with data centers requi...</span><span class="citation-popover-meta">Published: May 13, 2026</span></span></span>
+Some utilities have gone further. In Pennsylvania, PECO announced agreements requiring data centres to pay for certain transmission upgrades associated with their connections, explicitly seeking to shield existing customers from those expenses.<span class="citation-chip-wrap"><a class="citation-chip" href="https://whyy.org/articles/peco-data-centers-agreement/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whyy.org">[WHYY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whyy.org</span><span class="citation-popover-title">The utility says its transmission security agreements</span><span class="citation-popover-snippet">PECO requires data centers to pay for transmission upgradesMay 13, 2026 — 13 May 2026 — PECO signs agreements with data centers requi...</span><span class="citation-popover-meta">Published: May 13, 2026</span></span></span>
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0_data_centre_p_dc20eb_grid_upgrade_e29193-Illustration-2-dark.svg" | relative_url }}" alt="Grid costs illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0_data_centre_p_dc20eb_grid_upgrade_e29193-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0_data_centre_p_dc20eb_grid_upgrade_e29193-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the answer is not simply "make tech firms pay everything"
@@ -395,7 +395,7 @@ These tariffs can include:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* Higher demand charges. <span class="citation-chip-wrap"><a class="citation-chip" href="https://virginiamercury.com/2026/02/19/legislature-considers-passing-cost-of-distribution-transmission-lines-to-data-centers-instead-of-residents/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: virginiamercury.com">[virginiamercury.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">virginiamercury.com</span><span class="citation-popover-snippet">Legislature considers shifting power line costs from...Feb 19, 2026 — High-load customers in Dominion&#x27;s rate GS5 rate class already have...</span></span></span>
+* Higher demand charges.<span class="citation-chip-wrap"><a class="citation-chip" href="https://virginiamercury.com/2026/02/19/legislature-considers-passing-cost-of-distribution-transmission-lines-to-data-centers-instead-of-residents/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: virginiamercury.com">[virginiamercury.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">virginiamercury.com</span><span class="citation-popover-snippet">Legislature considers shifting power line costs from...Feb 19, 2026 — High-load customers in Dominion&#x27;s rate GS5 rate class already have...</span></span></span>
 * Long-term contractual commitments.
 * Minimum payment obligations.
 * Contributions to reliability and reserve costs.
@@ -403,13 +403,13 @@ These tariffs can include:
 
 </div>
 
-Virginia regulators have been exploring versions of this approach as data-centre demand becomes a dominant driver of electricity growth. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://virginiamercury.com/2026/03/17/data-center-bills-dominated-this-years-general-assembly-heres-what-passed/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: virginiamercury.com">[virginiamercury.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">virginiamercury.com</span><span class="citation-popover-title">data center bills dominated this years general assembly heres what passed</span><span class="citation-popover-snippet">Data center bills dominated this year&#x27;s General Assembly....17 Mar 2026 — The rapid growth of Virginia&#x27;s data center industry was a key...</span></span></span>
+Virginia regulators have been exploring versions of this approach as data-centre demand becomes a dominant driver of electricity growth.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://virginiamercury.com/2026/03/17/data-center-bills-dominated-this-years-general-assembly-heres-what-passed/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: virginiamercury.com">[virginiamercury.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">virginiamercury.com</span><span class="citation-popover-title">data center bills dominated this years general assembly heres what passed</span><span class="citation-popover-snippet">Data center bills dominated this year&#x27;s General Assembly....17 Mar 2026 — The rapid growth of Virginia&#x27;s data center industry was a key...</span></span></span>
 
 ### Participant-funded upgrades
 
 Under this model, developers directly fund the infrastructure required to connect their facilities.
 
-This approach already exists in many interconnection processes and is often presented as the clearest way to protect existing customers from cost shifting. FERC discussions on large-load interconnection increasingly emphasise how upgrade costs should be assigned and recovered. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Federal_Energy_Regulatory_Commission" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Federal Energy Regulatory Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Federal Energy Regulatory CommissionThe Federal Energy Regulatory Commission (FERC) is an independent agency of the United States gove...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Federal_Energy_Regulatory_Commission" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Federal Energy Regulatory Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Federal Energy Regulatory CommissionThe Federal Energy Regulatory Commission (FERC) is an independent agency of the United States gove...</span></span></span>
+This approach already exists in many interconnection processes and is often presented as the clearest way to protect existing customers from cost shifting. FERC discussions on large-load interconnection increasingly emphasise how upgrade costs should be assigned and recovered.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Federal_Energy_Regulatory_Commission" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Federal Energy Regulatory Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Federal Energy Regulatory CommissionThe Federal Energy Regulatory Commission (FERC) is an independent agency of the United States gove...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Federal_Energy_Regulatory_Commission" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Federal Energy Regulatory Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Federal Energy Regulatory CommissionThe Federal Energy Regulatory Commission (FERC) is an independent agency of the United States gove...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/iVGTGpKpykM" title="How AI infrastructure is driving a sharp rise in electricity bills" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=iVGTGpKpykM" target="_blank" rel="noopener noreferrer">How AI infrastructure is driving a sharp rise in electricity bills</a></p><p class="youtube-embed-meta">Channel: PBS NewsHour &middot; Views: 47.9K &middot; Uploaded: September 2025 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=iVGTGpKpykM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=iVGTGpKpykM">Open on YouTube</a></p></div></div></div>
 
@@ -417,7 +417,7 @@ This approach already exists in many interconnection processes and is often pres
 
 Utilities worry about spending billions on infrastructure only to see projects cancelled.
 
-To address this, some proposals require large customers to post deposits, maintain security agreements or guarantee payment for planned upgrades. PECO's recent agreements with data-centre developers are an example of this trend. <span class="citation-chip-wrap"><a class="citation-chip" href="https://whyy.org/articles/peco-data-centers-agreement/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whyy.org">[WHYY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whyy.org</span><span class="citation-popover-title">The utility says its transmission security agreements</span><span class="citation-popover-snippet">PECO requires data centers to pay for transmission upgradesMay 13, 2026 — 13 May 2026 — PECO signs agreements with data centers requi...</span><span class="citation-popover-meta">Published: May 13, 2026</span></span></span>
+To address this, some proposals require large customers to post deposits, maintain security agreements or guarantee payment for planned upgrades. PECO's recent agreements with data-centre developers are an example of this trend.<span class="citation-chip-wrap"><a class="citation-chip" href="https://whyy.org/articles/peco-data-centers-agreement/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whyy.org">[WHYY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whyy.org</span><span class="citation-popover-title">The utility says its transmission security agreements</span><span class="citation-popover-snippet">PECO requires data centers to pay for transmission upgradesMay 13, 2026 — 13 May 2026 — PECO signs agreements with data centers requi...</span><span class="citation-popover-meta">Published: May 13, 2026</span></span></span>
 
 ### Co-location with generation
 
@@ -433,197 +433,197 @@ Advocates of an AI-enabled future often argue that advanced systems could help h
 
 The grid-cost debate is therefore a test of governance as much as engineering. If households experience rising bills while technology firms capture most of the gains, political resistance to AI infrastructure will likely grow. If companies that drive new demand also contribute proportionately to the infrastructure required, public support may be easier to sustain.
 
-The long-term question is not merely whether civilisation can generate enough electricity for AI. It is whether the institutions governing that expansion can convince the public that an age of greater [intelligence]({{ 'intelligence/' | relative_url }}) and abundance is being built with them rather than at their expense. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.brookings.edu/articles/confronting-and-addressing-rising-energy-bills-linked-to-data-centers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brookings.edu">[Brookings]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brookings.edu</span><span class="citation-popover-title">confronting and addressing rising energy bills linked to data centers</span><span class="citation-popover-snippet">Confronting and addressing rising energy bills linked to...Mar 13, 2026 — Virginia&#x27;s actions represent a starting effort to add...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://davisgraham.com/news-events/the-new-political-economy-of-data-center-power/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: davisgraham.com">[Davis Graham]</a><span class="citation-popover" role="note"><span class="citation-popover-source">davisgraham.com</span><span class="citation-popover-title">the new political economy of data center power</span><span class="citation-popover-snippet">Developers should generally expect to internalize the full cost of generation, transmission upgrades, and grid services in...Read more...</span></span></span>
+The long-term question is not merely whether civilisation can generate enough electricity for AI. It is whether the institutions governing that expansion can convince the public that an age of greater [intelligence]({{ 'intelligence/' | relative_url }}) and abundance is being built with them rather than at their expense.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.brookings.edu/articles/confronting-and-addressing-rising-energy-bills-linked-to-data-centers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brookings.edu">[Brookings]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brookings.edu</span><span class="citation-popover-title">confronting and addressing rising energy bills linked to data centers</span><span class="citation-popover-snippet">Confronting and addressing rising energy bills linked to...Mar 13, 2026 — Virginia&#x27;s actions represent a starting effort to add...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://davisgraham.com/news-events/the-new-political-economy-of-data-center-power/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: davisgraham.com">[Davis Graham]</a><span class="citation-popover" role="note"><span class="citation-popover-source">davisgraham.com</span><span class="citation-popover-title">the new political economy of data center power</span><span class="citation-popover-snippet">Developers should generally expect to internalize the full cost of generation, transmission upgrades, and grid services in...Read more...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Should households pay for AI&#x27;s grid upgrades?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Should households pay for AI&#x27;s grid upgrades?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Coming Wave on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b0y5zwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Coming Wave" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Coming Wave">The Coming Wave</a>
-        </h4>
-        <p class="fr-book-author">By Mustafa Suleyman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Coming Wave on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b0y5zwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Coming Wave" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Coming Wave">The Coming Wave</a>
+</h4>
+<p class="fr-book-author">By Mustafa Suleyman</p>
         
-        <p class="fr-book-desc">Directly addresses whether advanced AI can deliver broad civilisational benefits while remaining governable.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses whether advanced AI can deliver broad civilisational benefits while remaining governable.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Premonition+by+Michael+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Premonition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2QQXEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Premonition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Premonition+by+Michael+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Premonition">The Premonition</a>
-        </h4>
-        <p class="fr-book-author">By Michael Lewis</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Premonition+by+Michael+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Premonition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2QQXEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Premonition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Premonition+by+Michael+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Premonition">The Premonition</a>
+</h4>
+<p class="fr-book-author">By Michael Lewis</p>
         
-        <p class="fr-book-desc">Shows how disease surveillance and incomplete information shape response.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Premonition+by+Michael+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how disease surveillance and incomplete information shape response.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Premonition+by+Michael+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human Compatible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BKVPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Human Compatible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human Compatible">Human Compatible</a>
-        </h4>
-        <p class="fr-book-author">By Stuart Russell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human Compatible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BKVPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Human Compatible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human Compatible">Human Compatible</a>
+</h4>
+<p class="fr-book-author">By Stuart Russell</p>
         
-        <p class="fr-book-desc">Explores how powerful AI could advance humanity if aligned with human values.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how powerful AI could advance humanity if aligned with human values.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Rules+of+Contagion+by+Adam+Kucharski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Rules of Contagion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=TmYtzQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Rules of Contagion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Rules+of+Contagion+by+Adam+Kucharski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Rules of Contagion">The Rules of Contagion</a>
-        </h4>
-        <p class="fr-book-author">By Adam Kucharski</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Rules+of+Contagion+by+Adam+Kucharski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Rules of Contagion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=TmYtzQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Rules of Contagion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Rules+of+Contagion+by+Adam+Kucharski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Rules of Contagion">The Rules of Contagion</a>
+</h4>
+<p class="fr-book-author">By Adam Kucharski</p>
         
-        <p class="fr-book-desc">Directly explains disease spread, forecasting and epidemic patterns.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Rules+of+Contagion+by+Adam+Kucharski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly explains disease spread, forecasting and epidemic patterns.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Rules+of+Contagion+by+Adam+Kucharski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Coming+Wave&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Coming Wave</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Premonition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Premonition</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+Compatible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human Compatible</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Coming+Wave&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Coming Wave</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Premonition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Premonition</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+Compatible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human Compatible</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=power+grid+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-households-pay-for-ai-s-grid-upgrades-power-grid-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power grid poster" data-ebay-reference="should-households-pay-for-ai-s-grid-upgrades-power-grid-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Power Rangers Across the Morphin Grid #1 Wall Art Print 11&quot; x 17&quot; Poster"><img src="https://i.ebayimg.com/images/g/nrsAAeSwknRor2nT/s-l225.jpg" alt="Listing image for Power Rangers Across the Morphin Grid #1 Wall Art Print 11&quot; x 17&quot; Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=power+grid+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-households-pay-for-ai-s-grid-upgrades-power-grid-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power grid poster" data-ebay-reference="should-households-pay-for-ai-s-grid-upgrades-power-grid-poster" target="_blank" rel="sponsored noopener noreferrer">Power Rangers Across the Morphin Grid #1 Wall Art Print 11&quot; x 17&quot; Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=power+grid+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-households-pay-for-ai-s-grid-upgrades-power-grid-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power grid poster" data-ebay-reference="should-households-pay-for-ai-s-grid-upgrades-power-grid-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for power grid poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: power grid poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=power+grid+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-households-pay-for-ai-s-grid-upgrades-power-grid-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power grid poster" data-ebay-reference="should-households-pay-for-ai-s-grid-upgrades-power-grid-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=power+grid+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-households-pay-for-ai-s-grid-upgrades-power-grid-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power grid poster" data-ebay-reference="should-households-pay-for-ai-s-grid-upgrades-power-grid-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Power Rangers Across the Morphin Grid #1 Wall Art Print 11&quot; x 17&quot; Poster"><img src="https://i.ebayimg.com/images/g/nrsAAeSwknRor2nT/s-l225.jpg" alt="Listing image for Power Rangers Across the Morphin Grid #1 Wall Art Print 11&quot; x 17&quot; Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=power+grid+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-households-pay-for-ai-s-grid-upgrades-power-grid-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power grid poster" data-ebay-reference="should-households-pay-for-ai-s-grid-upgrades-power-grid-poster" target="_blank" rel="sponsored noopener noreferrer">Power Rangers Across the Morphin Grid #1 Wall Art Print 11&quot; x 17&quot; Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=power+grid+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-households-pay-for-ai-s-grid-upgrades-power-grid-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power grid poster" data-ebay-reference="should-households-pay-for-ai-s-grid-upgrades-power-grid-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for power grid poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: power grid poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=power+grid+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-households-pay-for-ai-s-grid-upgrades-power-grid-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power grid poster" data-ebay-reference="should-households-pay-for-ai-s-grid-upgrades-power-grid-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=power+grid+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-households-pay-for-ai-s-grid-upgrades-power-grid-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power grid poster" data-ebay-reference="should-households-pay-for-ai-s-grid-upgrades-power-grid-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Energy Map of Africa – Oil, Gas Hydroelectric Solar Wind Pipelines &amp; Power Grids"><img src="https://i.ebayimg.com/images/g/wVkAAeSwM59omptv/s-l225.jpg" alt="Listing image for Energy Map of Africa – Oil, Gas Hydroelectric Solar Wind Pipelines &amp; Power Grids" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=power+grid+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-households-pay-for-ai-s-grid-upgrades-power-grid-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power grid poster" data-ebay-reference="should-households-pay-for-ai-s-grid-upgrades-power-grid-poster" target="_blank" rel="sponsored noopener noreferrer">Energy Map of Africa – Oil, Gas Hydroelectric Solar Wind Pipelines &amp; Power Grids</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=power+grid+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-households-pay-for-ai-s-grid-upgrades-power-grid-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power grid poster" data-ebay-reference="should-households-pay-for-ai-s-grid-upgrades-power-grid-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for power grid poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: power grid poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=power+grid+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-households-pay-for-ai-s-grid-upgrades-power-grid-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power grid poster" data-ebay-reference="should-households-pay-for-ai-s-grid-upgrades-power-grid-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=power+grid+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-households-pay-for-ai-s-grid-upgrades-power-grid-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power grid poster" data-ebay-reference="should-households-pay-for-ai-s-grid-upgrades-power-grid-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Energy Map of Africa – Oil, Gas Hydroelectric Solar Wind Pipelines &amp; Power Grids"><img src="https://i.ebayimg.com/images/g/wVkAAeSwM59omptv/s-l225.jpg" alt="Listing image for Energy Map of Africa – Oil, Gas Hydroelectric Solar Wind Pipelines &amp; Power Grids" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=power+grid+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-households-pay-for-ai-s-grid-upgrades-power-grid-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power grid poster" data-ebay-reference="should-households-pay-for-ai-s-grid-upgrades-power-grid-poster" target="_blank" rel="sponsored noopener noreferrer">Energy Map of Africa – Oil, Gas Hydroelectric Solar Wind Pipelines &amp; Power Grids</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=power+grid+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-households-pay-for-ai-s-grid-upgrades-power-grid-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power grid poster" data-ebay-reference="should-households-pay-for-ai-s-grid-upgrades-power-grid-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for power grid poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: power grid poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=power+grid+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-households-pay-for-ai-s-grid-upgrades-power-grid-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power grid poster" data-ebay-reference="should-households-pay-for-ai-s-grid-upgrades-power-grid-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=power+grid+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-households-pay-for-ai-s-grid-upgrades-power-grid-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power grid poster" data-ebay-reference="should-households-pay-for-ai-s-grid-upgrades-power-grid-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for &#x27;Power Transmission Structure&#x27; Wall Art Poster Prints (PP056388)"><img src="https://i.ebayimg.com/images/g/zD4AAeSwamJqB-Et/s-l225.jpg" alt="Listing image for &#x27;Power Transmission Structure&#x27; Wall Art Poster Prints (PP056388)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=power+grid+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-households-pay-for-ai-s-grid-upgrades-power-grid-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power grid poster" data-ebay-reference="should-households-pay-for-ai-s-grid-upgrades-power-grid-poster" target="_blank" rel="sponsored noopener noreferrer">&#x27;Power Transmission Structure&#x27; Wall Art Poster Prints (PP056388)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=power+grid+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-households-pay-for-ai-s-grid-upgrades-power-grid-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power grid poster" data-ebay-reference="should-households-pay-for-ai-s-grid-upgrades-power-grid-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for power grid poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: power grid poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=power+grid+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-households-pay-for-ai-s-grid-upgrades-power-grid-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power grid poster" data-ebay-reference="should-households-pay-for-ai-s-grid-upgrades-power-grid-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=power+grid+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-households-pay-for-ai-s-grid-upgrades-power-grid-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power grid poster" data-ebay-reference="should-households-pay-for-ai-s-grid-upgrades-power-grid-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for &#x27;Power Transmission Structure&#x27; Wall Art Poster Prints (PP056388)"><img src="https://i.ebayimg.com/images/g/zD4AAeSwamJqB-Et/s-l225.jpg" alt="Listing image for &#x27;Power Transmission Structure&#x27; Wall Art Poster Prints (PP056388)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=power+grid+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-households-pay-for-ai-s-grid-upgrades-power-grid-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power grid poster" data-ebay-reference="should-households-pay-for-ai-s-grid-upgrades-power-grid-poster" target="_blank" rel="sponsored noopener noreferrer">&#x27;Power Transmission Structure&#x27; Wall Art Poster Prints (PP056388)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=power+grid+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-households-pay-for-ai-s-grid-upgrades-power-grid-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power grid poster" data-ebay-reference="should-households-pay-for-ai-s-grid-upgrades-power-grid-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for power grid poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: power grid poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=power+grid+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-households-pay-for-ai-s-grid-upgrades-power-grid-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power grid poster" data-ebay-reference="should-households-pay-for-ai-s-grid-upgrades-power-grid-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=power+grid+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-households-pay-for-ai-s-grid-upgrades-power-grid-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power grid poster" data-ebay-reference="should-households-pay-for-ai-s-grid-upgrades-power-grid-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1900s German Print Three-Phase AC Power Grid Diagram Poster Art Print"><img src="https://i.ebayimg.com/images/g/7mEAAeSwiPdpyt-j/s-l225.jpg" alt="Listing image for 1900s German Print Three-Phase AC Power Grid Diagram Poster Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=power+grid+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-households-pay-for-ai-s-grid-upgrades-power-grid-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power grid poster" data-ebay-reference="should-households-pay-for-ai-s-grid-upgrades-power-grid-poster" target="_blank" rel="sponsored noopener noreferrer">1900s German Print Three-Phase AC Power Grid Diagram Poster Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=power+grid+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-households-pay-for-ai-s-grid-upgrades-power-grid-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power grid poster" data-ebay-reference="should-households-pay-for-ai-s-grid-upgrades-power-grid-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for power grid poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: power grid poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=power+grid+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-households-pay-for-ai-s-grid-upgrades-power-grid-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power grid poster" data-ebay-reference="should-households-pay-for-ai-s-grid-upgrades-power-grid-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=power+grid+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-households-pay-for-ai-s-grid-upgrades-power-grid-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power grid poster" data-ebay-reference="should-households-pay-for-ai-s-grid-upgrades-power-grid-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=power+grid+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-households-pay-for-ai-s-grid-upgrades-power-grid-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power grid poster" data-ebay-reference="should-households-pay-for-ai-s-grid-upgrades-power-grid-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1900s German Print Three-Phase AC Power Grid Diagram Poster Art Print"><img src="https://i.ebayimg.com/images/g/7mEAAeSwiPdpyt-j/s-l225.jpg" alt="Listing image for 1900s German Print Three-Phase AC Power Grid Diagram Poster Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=power+grid+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-households-pay-for-ai-s-grid-upgrades-power-grid-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power grid poster" data-ebay-reference="should-households-pay-for-ai-s-grid-upgrades-power-grid-poster" target="_blank" rel="sponsored noopener noreferrer">1900s German Print Three-Phase AC Power Grid Diagram Poster Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=power+grid+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-households-pay-for-ai-s-grid-upgrades-power-grid-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power grid poster" data-ebay-reference="should-households-pay-for-ai-s-grid-upgrades-power-grid-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for power grid poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: power grid poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=power+grid+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-households-pay-for-ai-s-grid-upgrades-power-grid-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power grid poster" data-ebay-reference="should-households-pay-for-ai-s-grid-upgrades-power-grid-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=power+grid+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-households-pay-for-ai-s-grid-upgrades-power-grid-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power grid poster" data-ebay-reference="should-households-pay-for-ai-s-grid-upgrades-power-grid-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -639,7 +639,7 @@ The long-term question is not merely whether civilisation can generate enough el
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -659,7 +659,7 @@ The long-term question is not merely whether civilisation can generate enough el
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -691,7 +691,7 @@ The long-term question is not merely whether civilisation can generate enough el
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -743,7 +743,7 @@ The long-term question is not merely whether civilisation can generate enough el
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -788,7 +788,7 @@ The long-term question is not merely whether civilisation can generate enough el
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -829,205 +829,205 @@ The long-term question is not merely whether civilisation can generate enough el
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: reuters.com  
    Title: US pushes regulators on connecting data centers to grid U.S  
-   Link: <a href="https://www.reuters.com/business/energy/us-pushes-regulators-connecting-data-centers-grid-2025-10-24/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/energy/us-pushes-regulators-connecting-data-centers-grid-2025-10-24/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Energy Secretary Chris Wright has urged the Federal Energy Regulatory Commission (FERC) to approve a proposed rule aimed at expediting th...</p></details>
+   Link:<a href="https://www.reuters.com/business/energy/us-pushes-regulators-connecting-data-centers-grid-2025-10-24/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/energy/us-pushes-regulators-connecting-data-centers-grid-2025-10-24/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Energy Secretary Chris Wright has urged the Federal Energy Regulatory Commission (FERC) to approve a proposed rule aimed at expediting th...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: reuters.com  
    Title: Dominion Energy raises five-year capex plan to meet data centers' [power demand](&#123;&#123; 'power-demand/' | relative_url &#125;&#125;)  
-   Link: <a href="https://www.reuters.com/business/energy/dominion-energy-raises-five-year-capex-plan-meet-data-centers-power-demand-2025-02-12/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/energy/dominion-energy-raises-five-year-capex-plan-meet-data-centers-power-demand-2025-02-12/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>This growth is attributed to a surge in data centers focused on artificial intelligence and cryptocurrency, as well as increased power ne...</p></details>
+   Link:<a href="https://www.reuters.com/business/energy/dominion-energy-raises-five-year-capex-plan-meet-data-centers-power-demand-2025-02-12/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/energy/dominion-energy-raises-five-year-capex-plan-meet-data-centers-power-demand-2025-02-12/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This growth is attributed to a surge in data centers focused on artificial intelligence and cryptocurrency, as well as increased power ne...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: virginiamercury.com  
-   Link: <a href="https://virginiamercury.com/2026/02/10/bill-would-put-more-energy-costs-on-data-centers-slash-residential-customerss-rates/" target="_blank" rel="noopener noreferrer nofollow">https://virginiamercury.com/2026/02/10/bill-would-put-more-energy-costs-on-data-centers-slash-residential-customerss-rates/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bill would put more energy costs on data centers, slash...Feb 10, 2026 — The state would save an estimated $8.3 million in 2027 for loca...</p></details>
+   Link:<a href="https://virginiamercury.com/2026/02/10/bill-would-put-more-energy-costs-on-data-centers-slash-residential-customerss-rates/" target="_blank" rel="noopener noreferrer nofollow">https://virginiamercury.com/2026/02/10/bill-would-put-more-energy-costs-on-data-centers-slash-residential-customerss-rates/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bill would put more energy costs on data centers, slash...Feb 10, 2026 — The state would save an estimated $8.3 million in 2027 for loca...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: virginiamercury.com  
    Title: Will special rate classes protect Va  
-   Link: <a href="https://virginiamercury.com/2025/04/25/will-special-rate-classes-protect-va-residents-from-the-costs-of-serving-data-centers/" target="_blank" rel="noopener noreferrer nofollow">https://virginiamercury.com/2025/04/25/will-special-rate-classes-protect-va-residents-from-the-costs-of-serving-data-centers/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>residents from the...25 Apr 2025 — The proposals reflect a growing consensus that ordinary residents should not be forced to bear the co...</p></details>
+   Link:<a href="https://virginiamercury.com/2025/04/25/will-special-rate-classes-protect-va-residents-from-the-costs-of-serving-data-centers/" target="_blank" rel="noopener noreferrer nofollow">https://virginiamercury.com/2025/04/25/will-special-rate-classes-protect-va-residents-from-the-costs-of-serving-data-centers/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>residents from the...25 Apr 2025 — The proposals reflect a growing consensus that ordinary residents should not be forced to bear the co...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: whyy.org  
    Title: The utility says its transmission security agreements  
-   Link: <a href="https://whyy.org/articles/peco-data-centers-agreement/" target="_blank" rel="noopener noreferrer nofollow">https://whyy.org/articles/peco-data-centers-agreement/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PECO requires data centers to pay for transmission upgradesMay 13, 2026 — 13 May 2026 — PECO signs agreements with data centers requi...</p></details>
+   Link:<a href="https://whyy.org/articles/peco-data-centers-agreement/" target="_blank" rel="noopener noreferrer nofollow">https://whyy.org/articles/peco-data-centers-agreement/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PECO requires data centers to pay for transmission upgradesMay 13, 2026 — 13 May 2026 — PECO signs agreements with data centers requi...</p></details>
    Published: May 13, 2026  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ferc.gov  
    Title: ferc act large load interconnection docket june 2026  
-   Link: <a href="https://www.ferc.gov/news-events/news/ferc-act-large-load-interconnection-docket-june-2026" target="_blank" rel="noopener noreferrer nofollow">https://www.ferc.gov/news-events/news/ferc-act-large-load-interconnection-docket-june-2026</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Energy Regulatory CommissionFERC to Act on Large Load Interconnection Docket...16 Apr 2026 — The Federal Energy Regulatory Commi...</p></details>
+   Link:<a href="https://www.ferc.gov/news-events/news/ferc-act-large-load-interconnection-docket-june-2026" target="_blank" rel="noopener noreferrer nofollow">https://www.ferc.gov/news-events/news/ferc-act-large-load-interconnection-docket-june-2026</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Energy Regulatory CommissionFERC to Act on Large Load Interconnection Docket...16 Apr 2026 — The Federal Energy Regulatory Commi...</p></details>
    Published: june 2026  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: ferc.gov  
    Title: rm26 4  
-   Link: <a href="https://www.ferc.gov/rm26-4" target="_blank" rel="noopener noreferrer nofollow">https://www.ferc.gov/rm26-4</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Energy Regulatory CommissionInterconnection of Large Loads to the Interstate...13 Jan 2026 — FERC is seeking comments on DOE&#x27;s p...</p></details>
+   Link:<a href="https://www.ferc.gov/rm26-4" target="_blank" rel="noopener noreferrer nofollow">https://www.ferc.gov/rm26-4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Energy Regulatory CommissionInterconnection of Large Loads to the Interstate...13 Jan 2026 — FERC is seeking comments on DOE&#x27;s p...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: brookings.edu  
    Title: confronting and addressing rising energy bills linked to data centers  
-   Link: <a href="https://www.brookings.edu/articles/confronting-and-addressing-rising-energy-bills-linked-to-data-centers/" target="_blank" rel="noopener noreferrer nofollow">https://www.brookings.edu/articles/confronting-and-addressing-rising-energy-bills-linked-to-data-centers/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Confronting and addressing rising energy bills linked to...Mar 13, 2026 — Virginia&#x27;s actions represent a starting effort to add...</p></details>
+   Link:<a href="https://www.brookings.edu/articles/confronting-and-addressing-rising-energy-bills-linked-to-data-centers/" target="_blank" rel="noopener noreferrer nofollow">https://www.brookings.edu/articles/confronting-and-addressing-rising-energy-bills-linked-to-data-centers/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Confronting and addressing rising energy bills linked to...Mar 13, 2026 — Virginia&#x27;s actions represent a starting effort to add...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reuters.com  
    Title: are data centers pushing grid costs onto consumers 2026 05 12  
-   Link: <a href="https://www.reuters.com/sustainability/are-data-centers-pushing-grid-costs-onto-consumers-2026-05-12/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/sustainability/are-data-centers-pushing-grid-costs-onto-consumers-2026-05-12/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Are data centers pushing grid costs onto consumers?12 May 2026 — U.S. policymakers are increasingly letting utilities charge custo...</p></details>
+   Link:<a href="https://www.reuters.com/sustainability/are-data-centers-pushing-grid-costs-onto-consumers-2026-05-12/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/sustainability/are-data-centers-pushing-grid-costs-onto-consumers-2026-05-12/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Are data centers pushing grid costs onto consumers?12 May 2026 — U.S. policymakers are increasingly letting utilities charge custo...</p></details>
    Published: May 2026  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: ferc.gov  
-   Link: <a href="https://ferc.gov/" target="_blank" rel="noopener noreferrer nofollow">https://ferc.gov/</a>  
+   Link:<a href="https://ferc.gov/" target="_blank" rel="noopener noreferrer nofollow">https://ferc.gov/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: ferc.gov  
-   Link: <a href="https://www.ferc.gov/explainer-interconnection-final-rule" target="_blank" rel="noopener noreferrer nofollow">https://www.ferc.gov/explainer-interconnection-final-rule</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Explainer on the Interconnection Final RuleThe final rule allocates network upgrade costs to interconnection customers within a cluster u...</p></details>
+   Link:<a href="https://www.ferc.gov/explainer-interconnection-final-rule" target="_blank" rel="noopener noreferrer nofollow">https://www.ferc.gov/explainer-interconnection-final-rule</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Explainer on the Interconnection Final RuleThe final rule allocates network upgrade costs to interconnection customers within a cluster u...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: ferc.gov  
    Title: fact sheet ferc directs nations largest grid operator create new rules embrace  
-   Link: <a href="https://www.ferc.gov/news-events/news/fact-sheet-ferc-directs-nations-largest-grid-operator-create-new-rules-embrace" target="_blank" rel="noopener noreferrer nofollow">https://www.ferc.gov/news-events/news/fact-sheet-ferc-directs-nations-largest-grid-operator-create-new-rules-embrace</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FACT SHEET | FERC Directs Nation&#x27;s Largest Grid...Dec 18, 2025 — Today, FERC directed grid operator PJM to establish transparent rules t...</p></details>
+   Link:<a href="https://www.ferc.gov/news-events/news/fact-sheet-ferc-directs-nations-largest-grid-operator-create-new-rules-embrace" target="_blank" rel="noopener noreferrer nofollow">https://www.ferc.gov/news-events/news/fact-sheet-ferc-directs-nations-largest-grid-operator-create-new-rules-embrace</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FACT SHEET | FERC Directs Nation&#x27;s Largest Grid...Dec 18, 2025 — Today, FERC directed grid operator PJM to establish transparent rules t...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: virginiamercury.com  
    Title: data center bills dominated this years general assembly heres what passed  
-   Link: <a href="https://virginiamercury.com/2026/03/17/data-center-bills-dominated-this-years-general-assembly-heres-what-passed/" target="_blank" rel="noopener noreferrer nofollow">https://virginiamercury.com/2026/03/17/data-center-bills-dominated-this-years-general-assembly-heres-what-passed/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Data center bills dominated this year&#x27;s General Assembly....17 Mar 2026 — The rapid growth of Virginia&#x27;s data center industry was a key...</p></details>
+   Link:<a href="https://virginiamercury.com/2026/03/17/data-center-bills-dominated-this-years-general-assembly-heres-what-passed/" target="_blank" rel="noopener noreferrer nofollow">https://virginiamercury.com/2026/03/17/data-center-bills-dominated-this-years-general-assembly-heres-what-passed/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Data center bills dominated this year&#x27;s General Assembly....17 Mar 2026 — The rapid growth of Virginia&#x27;s data center industry was a key...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: virginiamercury.com  
-   Link: <a href="https://virginiamercury.com/2026/02/19/legislature-considers-passing-cost-of-distribution-transmission-lines-to-data-centers-instead-of-residents/" target="_blank" rel="noopener noreferrer nofollow">https://virginiamercury.com/2026/02/19/legislature-considers-passing-cost-of-distribution-transmission-lines-to-data-centers-instead-of-residents/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Legislature considers shifting power line costs from...Feb 19, 2026 — High-load customers in Dominion&#x27;s rate GS5 rate class already have...</p></details>
+   Link:<a href="https://virginiamercury.com/2026/02/19/legislature-considers-passing-cost-of-distribution-transmission-lines-to-data-centers-instead-of-residents/" target="_blank" rel="noopener noreferrer nofollow">https://virginiamercury.com/2026/02/19/legislature-considers-passing-cost-of-distribution-transmission-lines-to-data-centers-instead-of-residents/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Legislature considers shifting power line costs from...Feb 19, 2026 — High-load customers in Dominion&#x27;s rate GS5 rate class already have...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: energy.gov  
    Title: 403 Large Loads Letter  
-   Link: <a href="https://www.energy.gov/sites/default/files/2025-10/403%20Large%20Loads%20Letter.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.energy.gov/sites/default/files/2025-10/403%20Large%20Loads%20Letter.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>pdf23 Oct 2025 — To do this, large loads, including AI data centers, served by public utilities must be able to connect to the transmissi...</p></details>
+   Link:<a href="https://www.energy.gov/sites/default/files/2025-10/403%20Large%20Loads%20Letter.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.energy.gov/sites/default/files/2025-10/403%20Large%20Loads%20Letter.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>pdf23 Oct 2025 — To do this, large loads, including AI data centers, served by public utilities must be able to connect to the transmissi...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: jlarc.virginia.gov  
    Title: JLARC Virginia Data Center Study FINAL 12 09 2024  
-   Link: <a href="https://jlarc.virginia.gov/pdfs/presentations/JLARC%20Virginia%20Data%20Center%20Study_FINAL_12-09-2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://jlarc.virginia.gov/pdfs/presentations/JLARC%20Virginia%20Data%20Center%20Study_FINAL_12-09-2024.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Virginia Data Center StudyDec 2, 2024 — Electric infrastructure consists of long lifetime assets (often 30+years) whose costs are allocat...</p></details>
+   Link:<a href="https://jlarc.virginia.gov/pdfs/presentations/JLARC%20Virginia%20Data%20Center%20Study_FINAL_12-09-2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://jlarc.virginia.gov/pdfs/presentations/JLARC%20Virginia%20Data%20Center%20Study_FINAL_12-09-2024.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Virginia Data Center StudyDec 2, 2024 — Electric infrastructure consists of long lifetime assets (often 30+years) whose costs are allocat...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: eesi.org  
    Title: data center [power demands](&#123;&#123; 'power-demand/' | relative_url &#125;&#125;) are contributing to higher energy bills  
-   Link: <a href="https://www.eesi.org/articles/view/data-center-power-demands-are-contributing-to-higher-energy-bills" target="_blank" rel="noopener noreferrer nofollow">https://www.eesi.org/articles/view/data-center-power-demands-are-contributing-to-higher-energy-bills</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Environmental and Energy Study InstituteData Center Power Demands Are Contributing to Higher...24 Feb 2026 — Dozens of utilities receive...</p></details>
+   Link:<a href="https://www.eesi.org/articles/view/data-center-power-demands-are-contributing-to-higher-energy-bills" target="_blank" rel="noopener noreferrer nofollow">https://www.eesi.org/articles/view/data-center-power-demands-are-contributing-to-higher-energy-bills</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Environmental and Energy Study InstituteData Center Power Demands Are Contributing to Higher...24 Feb 2026 — Dozens of utilities receive...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: utilitydive.com  
    Title: utilities subsidize data center growth ratepayer cost shif harvard peskoe  
-   Link: <a href="https://www.utilitydive.com/news/utilities-subsidize-data-center-growth-ratepayer-cost-shif-harvard-peskoe/742001/" target="_blank" rel="noopener noreferrer nofollow">https://www.utilitydive.com/news/utilities-subsidize-data-center-growth-ratepayer-cost-shif-harvard-peskoe/742001/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Utility DiveUtilities may subsidize data center growth by shifting costs...Mar 10, 2025 — Utilities may subsidize data center growth by...</p></details>
+   Link:<a href="https://www.utilitydive.com/news/utilities-subsidize-data-center-growth-ratepayer-cost-shif-harvard-peskoe/742001/" target="_blank" rel="noopener noreferrer nofollow">https://www.utilitydive.com/news/utilities-subsidize-data-center-growth-ratepayer-cost-shif-harvard-peskoe/742001/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Utility DiveUtilities may subsidize data center growth by shifting costs...Mar 10, 2025 — Utilities may subsidize data center growth by...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: ucs.org  
    Title: This brief's appendix  
-   Link: <a href="https://www.ucs.org/sites/default/files/2025-09/PJM%20Data%20Center%20Issue%20Brief%20-%20Sep%202025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ucs.org/sites/default/files/2025-09/PJM%20Data%20Center%20Issue%20Brief%20-%20Sep%202025.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Union of Concerned ScientistsConnection CostsSeptember 26, 2025 — 25 Sept 2025 — These costs come from local transmission upgrades ma...</p></details>
+   Link:<a href="https://www.ucs.org/sites/default/files/2025-09/PJM%20Data%20Center%20Issue%20Brief%20-%20Sep%202025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ucs.org/sites/default/files/2025-09/PJM%20Data%20Center%20Issue%20Brief%20-%20Sep%202025.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Union of Concerned ScientistsConnection CostsSeptember 26, 2025 — 25 Sept 2025 — These costs come from local transmission upgrades ma...</p></details>
    Published: September 26, 2025  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: tomshardware.com  
-   Link: <a href="https://www.tomshardware.com/tech-industry/artificial-intelligence/maryland-citizens-slapped-with-usd2-billion-grid-upgrade-bill-for-out-of-state-ai-data-centers-state-complains-to-federal-energy-regulators-says-additional-cost-breaks-ratepayer-protection-pledge-promises" target="_blank" rel="noopener noreferrer nofollow">https://www.tomshardware.com/tech-industry/artificial-intelligence/maryland-citizens-slapped-with-usd2-billion-grid-upgrade-bill-for-out-of-state-ai-data-centers-state-complains-to-federal-energy-regulators-says-additional-cost-breaks-ratepayer-protection-pledge-promises</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>These upgrades are meant to support rising electricity demand from AI-focused data centers, many of which are located outside of Maryland...</p></details>
+   Link:<a href="https://www.tomshardware.com/tech-industry/artificial-intelligence/maryland-citizens-slapped-with-usd2-billion-grid-upgrade-bill-for-out-of-state-ai-data-centers-state-complains-to-federal-energy-regulators-says-additional-cost-breaks-ratepayer-protection-pledge-promises" target="_blank" rel="noopener noreferrer nofollow">https://www.tomshardware.com/tech-industry/artificial-intelligence/maryland-citizens-slapped-with-usd2-billion-grid-upgrade-bill-for-out-of-state-ai-data-centers-state-complains-to-federal-energy-regulators-says-additional-cost-breaks-ratepayer-protection-pledge-promises</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>These upgrades are meant to support rising electricity demand from AI-focused data centers, many of which are located outside of Maryland...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: swlaw.com  
-   Link: <a href="https://www.swlaw.com/publication/ferc-sets-june-action-on-does-large-load-interconnection-plan-putting-federal-state-boundaries-at-the-center-of-what-comes-next/" target="_blank" rel="noopener noreferrer nofollow">https://www.swlaw.com/publication/ferc-sets-june-action-on-does-large-load-interconnection-plan-putting-federal-state-boundaries-at-the-center-of-what-comes-next/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Law Offices of Snell &amp; WilmerFERC Sets June Action on DOE&#x27;s Large Load...Apr 21, 2026 — FERC&#x27;s decision to act by the end of June locks...</p></details>
+   Link:<a href="https://www.swlaw.com/publication/ferc-sets-june-action-on-does-large-load-interconnection-plan-putting-federal-state-boundaries-at-the-center-of-what-comes-next/" target="_blank" rel="noopener noreferrer nofollow">https://www.swlaw.com/publication/ferc-sets-june-action-on-does-large-load-interconnection-plan-putting-federal-state-boundaries-at-the-center-of-what-comes-next/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Law Offices of Snell &amp; WilmerFERC Sets June Action on DOE&#x27;s Large Load...Apr 21, 2026 — FERC&#x27;s decision to act by the end of June locks...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: davisgraham.com  
    Title: the new political economy of data center power  
-   Link: <a href="https://davisgraham.com/news-events/the-new-political-economy-of-data-center-power/" target="_blank" rel="noopener noreferrer nofollow">https://davisgraham.com/news-events/the-new-political-economy-of-data-center-power/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Developers should generally expect to internalize the full cost of generation, transmission upgrades, and grid services in...Read more...</p></details>
+   Link:<a href="https://davisgraham.com/news-events/the-new-political-economy-of-data-center-power/" target="_blank" rel="noopener noreferrer nofollow">https://davisgraham.com/news-events/the-new-political-economy-of-data-center-power/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Developers should generally expect to internalize the full cost of generation, transmission upgrades, and grid services in...Read more...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Virginia" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Virginia</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>VirginiaWith a population of 8.8 million, it is the 12th-most populous and 15th-most densely populated state. More than one-third of V...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Virginia" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Virginia</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>VirginiaWith a population of 8.8 million, it is the 12th-most populous and 15th-most densely populated state. More than one-third of V...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: Wikipedia  
    Title: Federal Energy Regulatory Commission  
-   Link: <a href="https://en.wikipedia.org/wiki/Federal_Energy_Regulatory_Commission" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Federal_Energy_Regulatory_Commission</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Energy Regulatory CommissionThe Federal Energy Regulatory Commission (FERC) is an independent agency of the United States gove...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Federal_Energy_Regulatory_Commission" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Federal_Energy_Regulatory_Commission</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Energy Regulatory CommissionThe Federal Energy Regulatory Commission (FERC) is an independent agency of the United States gove...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: utilitydive.com  
    Title: ferc 2026 agenda outlook data centers transmission  
-   Link: <a href="https://www.utilitydive.com/news/ferc-2026-agenda-outlook-data-centers-transmission/810596/" target="_blank" rel="noopener noreferrer nofollow">https://www.utilitydive.com/news/ferc-2026-agenda-outlook-data-centers-transmission/810596/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FERC in 2026: Rising costs cloud regulators&#x27; options on...Jan 29, 2026 — At the same time, FERC must also oversee compliance with fast-a...</p></details>
+   Link:<a href="https://www.utilitydive.com/news/ferc-2026-agenda-outlook-data-centers-transmission/810596/" target="_blank" rel="noopener noreferrer nofollow">https://www.utilitydive.com/news/ferc-2026-agenda-outlook-data-centers-transmission/810596/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FERC in 2026: Rising costs cloud regulators&#x27; options on...Jan 29, 2026 — At the same time, FERC must also oversee compliance with fast-a...</p></details>
 
 ### Additional References
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: axios.com  
-   Link: <a href="https://www.axios.com/local/richmond/2026/02/19/virginia-data-centers-power-electric-bill" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/local/richmond/2026/02/19/virginia-data-centers-power-electric-bill</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>To address concerns over rising utility costs for residents, state lawmakers are working to ensure that data centers, which are major pow...</p></details>
+   Link:<a href="https://www.axios.com/local/richmond/2026/02/19/virginia-data-centers-power-electric-bill" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/local/richmond/2026/02/19/virginia-data-centers-power-electric-bill</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>To address concerns over rising utility costs for residents, state lawmakers are working to ensure that data centers, which are major pow...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: bracewell.com  
-   Link: <a href="https://www.bracewell.com/resources/ferc-and-interconnectivity-issues-for-data-centers/" target="_blank" rel="noopener noreferrer nofollow">https://www.bracewell.com/resources/ferc-and-interconnectivity-issues-for-data-centers/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bracewell LLPFERC and Interconnectivity Issues for Data CentersThese reforms would standardize the interconnection process for large load...</p></details>
+   Link:<a href="https://www.bracewell.com/resources/ferc-and-interconnectivity-issues-for-data-centers/" target="_blank" rel="noopener noreferrer nofollow">https://www.bracewell.com/resources/ferc-and-interconnectivity-issues-for-data-centers/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bracewell LLPFERC and Interconnectivity Issues for Data CentersThese reforms would standardize the interconnection process for large load...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/utility-dive-energy-and-utility-news_an-outdated-ferc-policy-is-undermining-the-activity-7450483323962949633-dX2g" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/utility-dive-energy-and-utility-news_an-outdated-ferc-policy-is-undermining-the-activity-7450483323962949633-dX2g</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FERC Should Update Transmission Pricing Policy for Data...The Federal Energy Regulatory Commission should revisit its transmission prici...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/utility-dive-energy-and-utility-news_an-outdated-ferc-policy-is-undermining-the-activity-7450483323962949633-dX2g" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/utility-dive-energy-and-utility-news_an-outdated-ferc-policy-is-undermining-the-activity-7450483323962949633-dX2g</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FERC Should Update Transmission Pricing Policy for Data...The Federal Energy Regulatory Commission should revisit its transmission prici...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: whro.org  
-   Link: <a href="https://www.whro.org/business-growth/2026-03-23/dominion-energy-says-data-centers-arent-raising-peoples-bills-energy-researchers-say-they-are" target="_blank" rel="noopener noreferrer nofollow">https://www.whro.org/business-growth/2026-03-23/dominion-energy-says-data-centers-arent-raising-peoples-bills-energy-researchers-say-they-are</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dominion Energy says data centers aren&#x27;t raising people&#x27;s...Mar 23, 2026 — “We can say that data centers are paying their fair share whe...</p></details>
+   Link:<a href="https://www.whro.org/business-growth/2026-03-23/dominion-energy-says-data-centers-arent-raising-peoples-bills-energy-researchers-say-they-are" target="_blank" rel="noopener noreferrer nofollow">https://www.whro.org/business-growth/2026-03-23/dominion-energy-says-data-centers-arent-raising-peoples-bills-energy-researchers-say-they-are</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dominion Energy says data centers aren&#x27;t raising people&#x27;s...Mar 23, 2026 — “We can say that data centers are paying their fair share whe...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: nicholasinstitute.duke.edu  
-   Link: <a href="https://nicholasinstitute.duke.edu/sites/default/files/publications/how-does-proposed-large-load-interconnection-process-could-unlock-benefits-load-flexibility.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nicholasinstitute.duke.edu/sites/default/files/publications/how-does-proposed-large-load-interconnection-process-could-unlock-benefits-load-flexibility.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DOE&#x27;s Proposed Large Load Interconnection Process...Within the right regulatory paradigm, large load flexibility commitments can achieve...</p></details>
+   Link:<a href="https://nicholasinstitute.duke.edu/sites/default/files/publications/how-does-proposed-large-load-interconnection-process-could-unlock-benefits-load-flexibility.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nicholasinstitute.duke.edu/sites/default/files/publications/how-does-proposed-large-load-interconnection-process-could-unlock-benefits-load-flexibility.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DOE&#x27;s Proposed Large Load Interconnection Process...Within the right regulatory paradigm, large load flexibility commitments can achieve...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: pecva.org  
-   Link: <a href="https://www.pecva.org/work/energy-work/state-corporation-commission-must-set-fair-rates-and-protect-virginia-residents-from-subsidizing-data-center-infrastructure/" target="_blank" rel="noopener noreferrer nofollow">https://www.pecva.org/work/energy-work/state-corporation-commission-must-set-fair-rates-and-protect-virginia-residents-from-subsidizing-data-center-infrastructure/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>State Corporation Commission Must Set Fair Rates and...Jul 17, 2025 — This SCC review is the first opportunity to address the electricit...</p></details>
+   Link:<a href="https://www.pecva.org/work/energy-work/state-corporation-commission-must-set-fair-rates-and-protect-virginia-residents-from-subsidizing-data-center-infrastructure/" target="_blank" rel="noopener noreferrer nofollow">https://www.pecva.org/work/energy-work/state-corporation-commission-must-set-fair-rates-and-protect-virginia-residents-from-subsidizing-data-center-infrastructure/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>State Corporation Commission Must Set Fair Rates and...Jul 17, 2025 — This SCC review is the first opportunity to address the electricit...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: powermag.com  
    Title: ferc sets june deadline to rewrite large load [grid rules](&#123;&#123; 'grid-rules/' | relative_url &#125;&#125;) for ai era power demand  
-   Link: <a href="https://www.powermag.com/ferc-sets-june-deadline-to-rewrite-large-load-grid-rules-for-ai-era-power-demand/" target="_blank" rel="noopener noreferrer nofollow">https://www.powermag.com/ferc-sets-june-deadline-to-rewrite-large-load-grid-rules-for-ai-era-power-demand/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FERC Sets June Deadline to Rewrite Large-Load Grid...16 Apr 2026 — The filings establish a “Necessary Studies” process requiring generat...</p></details>
+   Link:<a href="https://www.powermag.com/ferc-sets-june-deadline-to-rewrite-large-load-grid-rules-for-ai-era-power-demand/" target="_blank" rel="noopener noreferrer nofollow">https://www.powermag.com/ferc-sets-june-deadline-to-rewrite-large-load-grid-rules-for-ai-era-power-demand/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FERC Sets June Deadline to Rewrite Large-Load Grid...16 Apr 2026 — The filings establish a “Necessary Studies” process requiring generat...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: eia.gov  
    Title: Commercial electricity sales have soared in Virginia, driven  
-   Link: <a href="https://www.eia.gov/todayinenergy/detail.php?id=67664" target="_blank" rel="noopener noreferrer nofollow">https://www.eia.gov/todayinenergy/detail.php?id=67664</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 5, 2026 — PJM expects the Dominion zone, which covers Virginia, to experience the largest absolute increase in summer peak demand in...</p></details>
+   Link:<a href="https://www.eia.gov/todayinenergy/detail.php?id=67664" target="_blank" rel="noopener noreferrer nofollow">https://www.eia.gov/todayinenergy/detail.php?id=67664</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 5, 2026 — PJM expects the Dominion zone, which covers Virginia, to experience the largest absolute increase in summer peak demand in...</p></details>
    Published: May 5, 2026  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: klgates.com  
    Title: FERC Orders PJM to Reform Tariff for Co Located Generation and Load 1 15 2026  
-   Link: <a href="https://www.klgates.com/FERC-Orders-PJM-to-Reform-Tariff-for-Co-Located-Generation-and-Load-1-15-2026" target="_blank" rel="noopener noreferrer nofollow">https://www.klgates.com/FERC-Orders-PJM-to-Reform-Tariff-for-Co-Located-Generation-and-Load-1-15-2026</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FERC Orders PJM to Reform Tariff for Co-Located...15 Jan 2026 — This order may prove to be a pivotal development for data centers: It po...</p></details>
+   Link:<a href="https://www.klgates.com/FERC-Orders-PJM-to-Reform-Tariff-for-Co-Located-Generation-and-Load" target="_blank" rel="noopener noreferrer nofollow">https://www.klgates.com/FERC-Orders-PJM-to-Reform-Tariff-for-Co-Located-Generation-and-Load</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FERC Orders PJM to Reform Tariff for Co-Located...15 Jan 2026 — This order may prove to be a pivotal development for data centers: It po...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: cardinalnews.org  
    Title: lucas proposes data centers pay more to lower dominion customers bills  
-   Link: <a href="https://cardinalnews.org/2026/02/10/lucas-proposes-data-centers-pay-more-to-lower-dominion-customers-bills/" target="_blank" rel="noopener noreferrer nofollow">https://cardinalnews.org/2026/02/10/lucas-proposes-data-centers-pay-more-to-lower-dominion-customers-bills/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lucas proposes data centers pay more to lower Dominion...Feb 10, 2026 — Monthly bills for Dominion Energy&#x27;s residential and non-data cen...</p></details>
+   Link:<a href="https://cardinalnews.org/2026/02/10/lucas-proposes-data-centers-pay-more-to-lower-dominion-customers-bills/" target="_blank" rel="noopener noreferrer nofollow">https://cardinalnews.org/2026/02/10/lucas-proposes-data-centers-pay-more-to-lower-dominion-customers-bills/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lucas proposes data centers pay more to lower Dominion...Feb 10, 2026 — Monthly bills for Dominion Energy&#x27;s residential and non-data cen...</p></details>

@@ -275,16 +275,16 @@ image: /assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_public_comput_9e
 
 ## Introduction
 
-If advanced AI is going to help accelerate medicine, climate science, materials research and other fields that shape humanity’s long-term future, access to computing [power]({{ 'power/' | relative_url }}) cannot remain confined to a small number of technology companies. Modern AI research increasingly depends on expensive graphics processing units (GPUs), large datasets and specialised infrastructure. [Public compute]({{ 'public-compute/' | relative_url }}) programmes aim to make some of those resources available to universities, non-profits, public laboratories and smaller research groups that would otherwise be locked out. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nsf.gov/focus-areas/ai/nairr" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsf.gov">[NSF - U.S. National Science Foundation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsf.gov</span><span class="citation-popover-snippet">National Science FoundationNational Artificial Intelligence Research ResourceInitially established as a pilot in 2024, the NAIRR concept...</span></span></span>
+If advanced AI is going to help accelerate medicine, climate science, materials research and other fields that shape humanity’s long-term future, access to computing [power]({{ 'power/' | relative_url }}) cannot remain confined to a small number of technology companies. Modern AI research increasingly depends on expensive graphics processing units (GPUs), large datasets and specialised infrastructure. [Public compute]({{ 'public-compute/' | relative_url }}) programmes aim to make some of those resources available to universities, non-profits, public laboratories and smaller research groups that would otherwise be locked out.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nsf.gov/focus-areas/ai/nairr" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsf.gov">[NSF - U.S. National Science Foundation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsf.gov</span><span class="citation-popover-snippet">National Science FoundationNational Artificial Intelligence Research ResourceInitially established as a pilot in 2024, the NAIRR concept...</span></span></span>
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_public_comput_9e573e_public_comput_ebe014-Illustration-1-dark.svg" | relative_url }}" alt="Public Interest AI illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_public_comput_9e573e_public_comput_ebe014-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_public_comput_9e573e_public_comput_ebe014-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Supporters see this as more than a fairness issue. They argue that many of the most socially valuable AI applications may not be the most commercially lucrative ones. Research on rare diseases, climate adaptation, public health, disaster [resilience]({{ 'resilience/' | relative_url }}), scientific modelling and educational tools can struggle to compete with commercial incentives. Public compute is therefore often presented as a mechanism for directing AI capability towards broader human flourishing rather than only towards the most profitable markets. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.adalovelaceinstitute.org/policy-briefing/global-public-compute/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adalovelaceinstitute.org">[Ada Lovelace Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adalovelaceinstitute.org</span><span class="citation-popover-title">global public compute</span><span class="citation-popover-snippet">Ada Lovelace InstituteMapping global approaches to public compute4 Nov 2024 — Exploration of a National AI Research Resource to provide p...</span></span></span>
+Supporters see this as more than a fairness issue. They argue that many of the most socially valuable AI applications may not be the most commercially lucrative ones. Research on rare diseases, climate adaptation, public health, disaster [resilience]({{ 'resilience/' | relative_url }}), scientific modelling and educational tools can struggle to compete with commercial incentives. Public compute is therefore often presented as a mechanism for directing AI capability towards broader human flourishing rather than only towards the most profitable markets.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.adalovelaceinstitute.org/policy-briefing/global-public-compute/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adalovelaceinstitute.org">[Ada Lovelace Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adalovelaceinstitute.org</span><span class="citation-popover-title">global public compute</span><span class="citation-popover-snippet">Ada Lovelace InstituteMapping global approaches to public compute4 Nov 2024 — Exploration of a National AI Research Resource to provide p...</span></span></span>
 
 ## Why scientific AI increasingly depends on compute access
 
 For much of modern science, access to laboratories and instruments has always mattered. AI adds a new layer: access to large-scale computation. Training advanced models, running simulations and analysing enormous scientific datasets now requires infrastructure that many researchers cannot afford independently.
 
-This changes the structure of scientific opportunity. A university team may have a promising idea for modelling protein interactions, forecasting floods or designing new materials, yet still be unable to test it because the required compute budget exceeds available funding. In practice, this means that the direction of research can become shaped not only by scientific merit but also by who can obtain computational resources. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hai.stanford.edu/policy/policy-efforts/national-ai-research-resource" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hai.stanford.edu">[Stanford HAI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hai.stanford.edu</span><span class="citation-popover-title">HAINational AI Research Resource (NAIRR</span><span class="citation-popover-snippet">Stanford HAINational AI Research Resource (NAIRR) - Stanford HAIA National AI Research Resource (NAIRR) would provide academic and non-pr...</span></span></span>
+This changes the structure of scientific opportunity. A university team may have a promising idea for modelling protein interactions, forecasting floods or designing new materials, yet still be unable to test it because the required compute budget exceeds available funding. In practice, this means that the direction of research can become shaped not only by scientific merit but also by who can obtain computational resources.<span class="citation-chip-wrap"><a class="citation-chip" href="https://hai.stanford.edu/policy/policy-efforts/national-ai-research-resource" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hai.stanford.edu">[Stanford HAI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hai.stanford.edu</span><span class="citation-popover-title">HAINational AI Research Resource (NAIRR</span><span class="citation-popover-snippet">Stanford HAINational AI Research Resource (NAIRR) - Stanford HAIA National AI Research Resource (NAIRR) would provide academic and non-pr...</span></span></span>
 
 Within the broader AI bloom vision, this matters because many of the most transformative possibilities depend on scientific acceleration. If AI can help researchers discover medicines faster, improve clean-[energy]({{ 'energy/' | relative_url }}) technologies, model complex biological systems or understand climate risks more effectively, then widening access to compute becomes part of widening access to future [discovery]({{ 'discovery/' | relative_url }}) itself.
 
@@ -292,7 +292,7 @@ Within the broader AI bloom vision, this matters because many of the most transf
 
 One reason governments are investing in public compute is the growing evidence that AI and high-performance computing together can significantly accelerate scientific work.
 
-Recent research examining millions of scientific papers found that projects combining AI methods with advanced computing infrastructure were substantially more likely to produce novel concepts and highly cited results than conventional approaches. The authors argue that AI and large-scale compute are becoming core drivers of modern scientific discovery across multiple disciplines. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2511.12686" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv AI and Supercomputing are Powering the Next Wave of Breakthrough Science</span><span class="citation-popover-snippet">AI and Supercomputing are Powering the Next Wave of Breakthrough Science - But at What Cost?November 16, 2025...</span><span class="citation-popover-meta">Published: November 16, 2025</span></span></span>
+Recent research examining millions of scientific papers found that projects combining AI methods with advanced computing infrastructure were substantially more likely to produce novel concepts and highly cited results than conventional approaches. The authors argue that AI and large-scale compute are becoming core drivers of modern scientific discovery across multiple disciplines.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2511.12686" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv AI and Supercomputing are Powering the Next Wave of Breakthrough Science</span><span class="citation-popover-snippet">AI and Supercomputing are Powering the Next Wave of Breakthrough Science - But at What Cost?November 16, 2025...</span><span class="citation-popover-meta">Published: November 16, 2025</span></span></span>
 
 The mechanism is straightforward:
 
@@ -305,7 +305,7 @@ The mechanism is straightforward:
 
 </div>
 
-Materials science provides a useful example. Researchers have demonstrated systems that combine AI models with large-scale cloud computing to screen tens of millions of possible materials and identify promising candidates for experimental [validation]({{ 'validation/' | relative_url }}). Instead of relying solely on slow laboratory trial and error, scientists can use computation to narrow the search dramatically before physical testing begins. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2511.12686" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv AI and Supercomputing are Powering the Next Wave of Breakthrough Science</span><span class="citation-popover-snippet">AI and Supercomputing are Powering the Next Wave of Breakthrough Science - But at What Cost?November 16, 2025...</span><span class="citation-popover-meta">Published: November 16, 2025</span></span></span>
+Materials science provides a useful example. Researchers have demonstrated systems that combine AI models with large-scale cloud computing to screen tens of millions of possible materials and identify promising candidates for experimental [validation]({{ 'validation/' | relative_url }}). Instead of relying solely on slow laboratory trial and error, scientists can use computation to narrow the search dramatically before physical testing begins.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2511.12686" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv AI and Supercomputing are Powering the Next Wave of Breakthrough Science</span><span class="citation-popover-snippet">AI and Supercomputing are Powering the Next Wave of Breakthrough Science - But at What Cost?November 16, 2025...</span><span class="citation-popover-meta">Published: November 16, 2025</span></span></span>
 
 The significance extends beyond any individual discovery. If AI-assisted research repeatedly shortens the time required to generate hypotheses, test possibilities and interpret results, scientific progress itself may accelerate. Advocates of AI abundance often point to this possibility as one of the strongest reasons advanced AI could have effects far larger than ordinary productivity growth.
 
@@ -317,7 +317,7 @@ Commercial incentives do not always align with social importance.
 
 Pharmaceutical companies often focus resources on diseases with large potential markets. Technology firms similarly concentrate on applications with clear commercial returns. Yet some of the areas where AI could have the greatest humanitarian value fall outside those incentives.
 
-Rare diseases are a common example. Individual conditions may affect relatively small populations, making them less attractive from a purely market-based perspective. AI systems can assist with protein analysis, genetic interpretation and biomedical literature review, but these applications still require significant computational resources. Public compute programmes can make such work feasible for academic and medical researchers who lack commercial-scale budgets. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nsf.gov/focus-areas/ai/nairr" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsf.gov">[NSF - U.S. National Science Foundation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsf.gov</span><span class="citation-popover-snippet">National Science FoundationNational Artificial Intelligence Research ResourceInitially established as a pilot in 2024, the NAIRR concept...</span></span></span>
+Rare diseases are a common example. Individual conditions may affect relatively small populations, making them less attractive from a purely market-based perspective. AI systems can assist with protein analysis, genetic interpretation and biomedical literature review, but these applications still require significant computational resources. Public compute programmes can make such work feasible for academic and medical researchers who lack commercial-scale budgets.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nsf.gov/focus-areas/ai/nairr" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsf.gov">[NSF - U.S. National Science Foundation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsf.gov</span><span class="citation-popover-snippet">National Science FoundationNational Artificial Intelligence Research ResourceInitially established as a pilot in 2024, the NAIRR concept...</span></span></span>
 
 The same logic applies to public health challenges that primarily affect lower-income populations. Diseases with limited commercial markets may still represent major sources of suffering. Publicly supported compute can help researchers investigate treatments, diagnostics and epidemiological models that might otherwise receive less attention.
 
@@ -329,9 +329,9 @@ Climate science provides another example of why public-interest research frequen
 
 Modern climate modelling involves enormous datasets, complex simulations and increasingly sophisticated machine-learning systems. Researchers use AI to improve weather prediction, analyse satellite imagery, model ecosystem change and identify patterns in environmental data that would be difficult to detect manually.
 
-These workloads are computationally intensive. Running them at meaningful scale often requires supercomputers or specialised AI systems that exceed the resources of many research groups. Public compute programmes therefore function as shared scientific infrastructure, comparable to national laboratories or major research telescopes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.maths.cam.ac.uk/features/new-ai-supercomputer-support-climate-research" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: maths.cam.ac.uk">[University of Cambridge Mathematics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">maths.cam.ac.uk</span><span class="citation-popover-snippet">University of Cambridge MathematicsNew AI supercomputer to support climate research &#124; FeaturesAIRR is a national facility announced by th...</span></span></span>
+These workloads are computationally intensive. Running them at meaningful scale often requires supercomputers or specialised AI systems that exceed the resources of many research groups. Public compute programmes therefore function as shared scientific infrastructure, comparable to national laboratories or major research telescopes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.maths.cam.ac.uk/features/new-ai-supercomputer-support-climate-research" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: maths.cam.ac.uk">[University of Cambridge Mathematics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">maths.cam.ac.uk</span><span class="citation-popover-snippet">University of Cambridge MathematicsNew AI supercomputer to support climate research &#124; FeaturesAIRR is a national facility announced by th...</span></span></span>
 
-The UK's AI Research Resource (AIRR), for example, explicitly links national AI computing capacity to scientific goals including climate research, fusion energy, medical science and other public-interest domains. Government-backed compute initiatives are increasingly framed not merely as technology investments but as tools for solving long-term societal challenges. UK Research and Innovation <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.maths.cam.ac.uk/features/new-ai-supercomputer-support-climate-research" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: maths.cam.ac.uk">[University of Cambridge Mathematics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">maths.cam.ac.uk</span><span class="citation-popover-snippet">University of Cambridge MathematicsNew AI supercomputer to support climate research &#124; FeaturesAIRR is a national facility announced by th...</span></span></span>
+The UK's AI Research Resource (AIRR), for example, explicitly links national AI computing capacity to scientific goals including climate research, fusion energy, medical science and other public-interest domains. Government-backed compute initiatives are increasingly framed not merely as technology investments but as tools for solving long-term societal challenges. UK Research and Innovation<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.maths.cam.ac.uk/features/new-ai-supercomputer-support-climate-research" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: maths.cam.ac.uk">[University of Cambridge Mathematics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">maths.cam.ac.uk</span><span class="citation-popover-snippet">University of Cambridge MathematicsNew AI supercomputer to support climate research &#124; FeaturesAIRR is a national facility announced by th...</span></span></span>
 
 For readers interested in the larger AI bloom question, climate research illustrates an important point: some of the most valuable applications of advanced [intelligence]({{ 'intelligence/' | relative_url }}) may involve managing civilisation-scale systems rather than creating consumer products. Better forecasting, energy optimisation and environmental modelling could affect billions of people over decades.
 
@@ -340,11 +340,11 @@ For readers interested in the larger AI bloom question, climate research illustr
 
 The United States' National AI Research Resource (NAIRR) pilot has become one of the most important attempts to widen access to advanced AI infrastructure.
 
-The programme was launched to provide researchers and educators with access to computing resources, datasets, models, software and technical support. Rather than concentrating resources in a single government facility, it uses a federated model involving federal agencies, universities and private-sector partners. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.meritalk.com/articles/nsf-partners-launch-national-ai-research-resource-pilot/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: meritalk.com">[Meritalk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">meritalk.com</span><span class="citation-popover-title">nsf partners launch national ai research resource pilot</span><span class="citation-popover-snippet">NSF, Partners Launch National AI Research Resource Pilot24 Jan 2024 — The pilot will provide US-based researchers and educators w...</span></span></span>
+The programme was launched to provide researchers and educators with access to computing resources, datasets, models, software and technical support. Rather than concentrating resources in a single government facility, it uses a federated model involving federal agencies, universities and private-sector partners.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.meritalk.com/articles/nsf-partners-launch-national-ai-research-resource-pilot/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: meritalk.com">[Meritalk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">meritalk.com</span><span class="citation-popover-title">nsf partners launch national ai research resource pilot</span><span class="citation-popover-snippet">NSF, Partners Launch National AI Research Resource Pilot24 Jan 2024 — The pilot will provide US-based researchers and educators w...</span></span></span>
 
-A central goal is reducing the gap between elite technology organisations and the broader research community. Universities, non-profits, public-interest researchers and smaller institutions can apply for resources that would otherwise be difficult or impossible to obtain. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hai.stanford.edu/policy/policy-efforts/national-ai-research-resource" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hai.stanford.edu">[Stanford HAI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hai.stanford.edu</span><span class="citation-popover-title">HAINational AI Research Resource (NAIRR</span><span class="citation-popover-snippet">Stanford HAINational AI Research Resource (NAIRR) - Stanford HAIA National AI Research Resource (NAIRR) would provide academic and non-pr...</span></span></span>
+A central goal is reducing the gap between elite technology organisations and the broader research community. Universities, non-profits, public-interest researchers and smaller institutions can apply for resources that would otherwise be difficult or impossible to obtain.<span class="citation-chip-wrap"><a class="citation-chip" href="https://hai.stanford.edu/policy/policy-efforts/national-ai-research-resource" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hai.stanford.edu">[Stanford HAI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hai.stanford.edu</span><span class="citation-popover-title">HAINational AI Research Resource (NAIRR</span><span class="citation-popover-snippet">Stanford HAINational AI Research Resource (NAIRR) - Stanford HAIA National AI Research Resource (NAIRR) would provide academic and non-pr...</span></span></span>
 
-The programme has expanded rapidly. According to the National Science Foundation, the initiative has supported hundreds of research projects and thousands of students across all fifty US states and multiple territories. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nsf.gov/focus-areas/ai/nairr" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsf.gov">[NSF - U.S. National Science Foundation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsf.gov</span><span class="citation-popover-snippet">National Science FoundationNational Artificial Intelligence Research ResourceInitially established as a pilot in 2024, the NAIRR concept...</span></span></span>
+The programme has expanded rapidly. According to the National Science Foundation, the initiative has supported hundreds of research projects and thousands of students across all fifty US states and multiple territories.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nsf.gov/focus-areas/ai/nairr" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsf.gov">[NSF - U.S. National Science Foundation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsf.gov</span><span class="citation-popover-snippet">National Science FoundationNational Artificial Intelligence Research ResourceInitially established as a pilot in 2024, the NAIRR concept...</span></span></span>
 
 The importance of programmes like NAIRR is not only the research they directly support. They also help preserve a scientific ecosystem in which AI capability is not concentrated entirely within a handful of firms. That diversity may matter for both innovation and accountability.
 
@@ -366,7 +366,7 @@ Shared public infrastructure can create space for different kinds of inquiry:
 
 </div>
 
-The Ada Lovelace Institute has argued that public compute can increase public influence over the direction of AI development and reduce the risk that critical infrastructure becomes concentrated in a narrow set of actors. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.adalovelaceinstitute.org/policy-briefing/global-public-compute/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adalovelaceinstitute.org">[Ada Lovelace Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adalovelaceinstitute.org</span><span class="citation-popover-title">global public compute</span><span class="citation-popover-snippet">Ada Lovelace InstituteMapping global approaches to public compute4 Nov 2024 — Exploration of a National AI Research Resource to provide p...</span></span></span>
+The Ada Lovelace Institute has argued that public compute can increase public influence over the direction of AI development and reduce the risk that critical infrastructure becomes concentrated in a narrow set of actors.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.adalovelaceinstitute.org/policy-briefing/global-public-compute/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adalovelaceinstitute.org">[Ada Lovelace Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adalovelaceinstitute.org</span><span class="citation-popover-title">global public compute</span><span class="citation-popover-snippet">Ada Lovelace InstituteMapping global approaches to public compute4 Nov 2024 — Exploration of a National AI Research Resource to provide p...</span></span></span>
 
 For those concerned with humanity's long-term future, this question becomes especially important if AI capabilities continue to grow. If increasingly powerful systems help drive scientific and economic progress, then who gets access to those systems may shape which problems civilisation chooses to solve.
 
@@ -374,9 +374,9 @@ For those concerned with humanity's long-term future, this question becomes espe
 
 ## The limits of the public-compute approach
 
-The optimistic case for public compute has important caveats. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.adalovelaceinstitute.org/policy-briefing/global-public-compute/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adalovelaceinstitute.org">[adalovelaceinstitute.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adalovelaceinstitute.org</span><span class="citation-popover-title">global public compute</span><span class="citation-popover-snippet">Ada Lovelace InstituteMapping global approaches to public compute4 Nov 2024 — Exploration of a National AI Research Resource to provide p...</span></span></span>
+The optimistic case for public compute has important caveats.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.adalovelaceinstitute.org/policy-briefing/global-public-compute/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adalovelaceinstitute.org">[adalovelaceinstitute.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adalovelaceinstitute.org</span><span class="citation-popover-title">global public compute</span><span class="citation-popover-snippet">Ada Lovelace InstituteMapping global approaches to public compute4 Nov 2024 — Exploration of a National AI Research Resource to provide p...</span></span></span>
 
-The largest technology companies still possess vastly greater resources than most public programmes. Frontier AI training runs can require investments measured in hundreds of millions or even billions of pounds. Public infrastructure may expand access without fully closing the gap. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.techuk.org/resource/compute-infrastructure-and-the-ai-opportunities-action-plan.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techuk.org">[TechUK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techuk.org</span><span class="citation-popover-title">compute infrastructure and the ai opportunities action plan</span><span class="citation-popover-snippet">Compute infrastructure and the AI Opportunities Action Plan15 May 2025 — The AI Opportunities Action Plan states that, to build a s...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
+The largest technology companies still possess vastly greater resources than most public programmes. Frontier AI training runs can require investments measured in hundreds of millions or even billions of pounds. Public infrastructure may expand access without fully closing the gap.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.techuk.org/resource/compute-infrastructure-and-the-ai-opportunities-action-plan.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techuk.org">[TechUK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techuk.org</span><span class="citation-popover-title">compute infrastructure and the ai opportunities action plan</span><span class="citation-popover-snippet">Compute infrastructure and the AI Opportunities Action Plan15 May 2025 — The AI Opportunities Action Plan states that, to build a s...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
 
 There are also practical challenges:
 
@@ -397,199 +397,199 @@ The strongest argument for public compute is not simply that it distributes reso
 
 If advanced AI becomes a powerful engine of discovery, then limiting access to a small number of organisations risks narrowing the range of questions being explored. Publicly accessible infrastructure creates opportunities for universities, medical researchers, climate scientists and public-interest institutions to experiment with those tools as well.
 
-The long-term AI bloom vision depends on more than faster software. It depends on whether intelligence-enhancing technologies can help humanity solve difficult problems, expand knowledge and improve life on a civilisational scale. Public compute does not guarantee that outcome. But it may help ensure that the search for breakthroughs in health, science, sustainability and human development is conducted by a broader community than the market alone would support. NSF - U.S. National Science Foundation <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.adalovelaceinstitute.org/policy-briefing/global-public-compute/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adalovelaceinstitute.org">[Ada Lovelace Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adalovelaceinstitute.org</span><span class="citation-popover-title">global public compute</span><span class="citation-popover-snippet">Ada Lovelace InstituteMapping global approaches to public compute4 Nov 2024 — Exploration of a National AI Research Resource to provide p...</span></span></span>
+The long-term AI bloom vision depends on more than faster software. It depends on whether intelligence-enhancing technologies can help humanity solve difficult problems, expand knowledge and improve life on a civilisational scale. Public compute does not guarantee that outcome. But it may help ensure that the search for breakthroughs in health, science, sustainability and human development is conducted by a broader community than the market alone would support. NSF - U.S. National Science Foundation<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.adalovelaceinstitute.org/policy-briefing/global-public-compute/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adalovelaceinstitute.org">[Ada Lovelace Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adalovelaceinstitute.org</span><span class="citation-popover-title">global public compute</span><span class="citation-popover-snippet">Ada Lovelace InstituteMapping global approaches to public compute4 Nov 2024 — Exploration of a National AI Research Resource to provide p...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qt1ArjQw_dU" title="Accelerating the UK’s Technological Revolution with AI Supercomputing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qt1ArjQw_dU" target="_blank" rel="noopener noreferrer">Accelerating the UK’s Technological Revolution with AI Supercomputing</a></p><p class="youtube-embed-meta">Channel: NVIDIA Developer &middot; Views: 2.2K &middot; Uploaded: March 2024 &middot; Length: 3 minutes 17 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qt1ArjQw_dU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qt1ArjQw_dU">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Public Compute Unlocks Scientific and Public Interest AI Research. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Public Compute Unlocks Scientific and Public Interest AI Research. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Power+and+Progress+by+Daron+Acemoglu&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Power and Progress on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Y4Jr0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Power and Progress" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Power+and+Progress+by+Daron+Acemoglu&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Power and Progress">Power and Progress</a>
-        </h4>
-        <p class="fr-book-author">By Daron Acemoglu, Simon Johnson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Power+and+Progress+by+Daron+Acemoglu&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Power and Progress on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Y4Jr0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Power and Progress" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Power+and+Progress+by+Daron+Acemoglu&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Power and Progress">Power and Progress</a>
+</h4>
+<p class="fr-book-author">By Daron Acemoglu, Simon Johnson</p>
         
-        <p class="fr-book-desc">Directly supports the case for shaping AI gains through institutions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Power+and+Progress+by+Daron+Acemoglu&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly supports the case for shaping AI gains through institutions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Power+and+Progress+by+Daron+Acemoglu&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Coming Wave on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a-26EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Coming Wave" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Coming Wave">The Coming Wave</a>
-        </h4>
-        <p class="fr-book-author">By Mustafa Suleyman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Coming Wave on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a-26EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Coming Wave" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Coming Wave">The Coming Wave</a>
+</h4>
+<p class="fr-book-author">By Mustafa Suleyman</p>
         
-        <p class="fr-book-desc">Covers how powerful AI capabilities can be concentrated or shared.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers how powerful AI capabilities can be concentrated or shared.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Entrepreneurial+State+by+Mariana+Mazzucato&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Entrepreneurial State on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eawzDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Entrepreneurial State" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Entrepreneurial+State+by+Mariana+Mazzucato&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Entrepreneurial State">The Entrepreneurial State</a>
-        </h4>
-        <p class="fr-book-author">By Mariana Mazzucato</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Entrepreneurial+State+by+Mariana+Mazzucato&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Entrepreneurial State on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eawzDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Entrepreneurial State" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Entrepreneurial+State+by+Mariana+Mazzucato&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Entrepreneurial State">The Entrepreneurial State</a>
+</h4>
+<p class="fr-book-author">By Mariana Mazzucato</p>
         
-        <p class="fr-book-desc">Explains why public infrastructure can unlock socially valuable innovation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Entrepreneurial+State+by+Mariana+Mazzucato&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why public infrastructure can unlock socially valuable innovation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Entrepreneurial+State+by+Mariana+Mazzucato&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Chip+War+by+Chris+Miller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Chip War on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JH-HEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Chip War" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Chip+War+by+Chris+Miller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Chip War">Chip War</a>
-        </h4>
-        <p class="fr-book-author">By Chris Miller</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Chip+War+by+Chris+Miller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Chip War on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JH-HEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Chip War" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Chip+War+by+Chris+Miller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Chip War">Chip War</a>
+</h4>
+<p class="fr-book-author">By Chris Miller</p>
         
-        <p class="fr-book-desc">Shows why advanced chips and compute resources are strategic bottlenecks.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Chip+War+by+Chris+Miller&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows why advanced chips and compute resources are strategic bottlenecks.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Chip+War+by+Chris+Miller&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Power+and+Progress&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Power and Progress</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Coming+Wave&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Coming Wave</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Entrepreneurial+State&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Entrepreneurial State</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Power+and+Progress&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Power and Progress</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Coming+Wave&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Coming Wave</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Entrepreneurial+State&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Entrepreneurial State</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=server+rack+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-interest-ai-how-public-compute-unlocks-scientific-and-public-interest-ai-research-ai-bloo-server-rack-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="server rack model" data-ebay-reference="public-interest-ai-how-public-compute-unlocks-scientific-and-public-interest-ai-research-ai-bloo-server-rack-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Peek Measurement Model 4400 Alarm Monitor with Server Rack"><img src="{{ '/assets/images/marketplace-covers/96db2f684369d018362c.jpg' | relative_url }}" alt="Listing image for Peek Measurement Model 4400 Alarm Monitor with Server Rack" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=server+rack+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-interest-ai-how-public-compute-unlocks-scientific-and-public-interest-ai-research-ai-bloo-server-rack-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="server rack model" data-ebay-reference="public-interest-ai-how-public-compute-unlocks-scientific-and-public-interest-ai-research-ai-bloo-server-rack-model" target="_blank" rel="sponsored noopener noreferrer">Peek Measurement Model 4400 Alarm Monitor with Server Rack</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=server+rack+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-interest-ai-how-public-compute-unlocks-scientific-and-public-interest-ai-research-ai-bloo-server-rack-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="server rack model" data-ebay-reference="public-interest-ai-how-public-compute-unlocks-scientific-and-public-interest-ai-research-ai-bloo-server-rack-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for server rack model">Search <span data-ebay-domain-label>eBay.co.uk</span>: server rack model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=server+rack+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-interest-ai-how-public-compute-unlocks-scientific-and-public-interest-ai-research-ai-bloo-server-rack-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="server rack model" data-ebay-reference="public-interest-ai-how-public-compute-unlocks-scientific-and-public-interest-ai-research-ai-bloo-server-rack-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=server+rack+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-interest-ai-how-public-compute-unlocks-scientific-and-public-interest-ai-research-ai-bloo-server-rack-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="server rack model" data-ebay-reference="public-interest-ai-how-public-compute-unlocks-scientific-and-public-interest-ai-research-ai-bloo-server-rack-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Peek Measurement Model 4400 Alarm Monitor with Server Rack"><img src="{{ '/assets/images/marketplace-covers/96db2f684369d018362c.jpg' | relative_url }}" alt="Listing image for Peek Measurement Model 4400 Alarm Monitor with Server Rack" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=server+rack+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-interest-ai-how-public-compute-unlocks-scientific-and-public-interest-ai-research-ai-bloo-server-rack-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="server rack model" data-ebay-reference="public-interest-ai-how-public-compute-unlocks-scientific-and-public-interest-ai-research-ai-bloo-server-rack-model" target="_blank" rel="sponsored noopener noreferrer">Peek Measurement Model 4400 Alarm Monitor with Server Rack</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=server+rack+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-interest-ai-how-public-compute-unlocks-scientific-and-public-interest-ai-research-ai-bloo-server-rack-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="server rack model" data-ebay-reference="public-interest-ai-how-public-compute-unlocks-scientific-and-public-interest-ai-research-ai-bloo-server-rack-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for server rack model">Search<span data-ebay-domain-label>eBay.co.uk</span>: server rack model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=server+rack+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-interest-ai-how-public-compute-unlocks-scientific-and-public-interest-ai-research-ai-bloo-server-rack-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="server rack model" data-ebay-reference="public-interest-ai-how-public-compute-unlocks-scientific-and-public-interest-ai-research-ai-bloo-server-rack-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=server+rack+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-interest-ai-how-public-compute-unlocks-scientific-and-public-interest-ai-research-ai-bloo-server-rack-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="server rack model" data-ebay-reference="public-interest-ai-how-public-compute-unlocks-scientific-and-public-interest-ai-research-ai-bloo-server-rack-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dell PowerEdge R730xd 16LFF+2SFF Server /IndigoVision NVR-AS 4000/32GB RAM [16D]"><img src="{{ '/assets/images/marketplace-covers/18895e58d071ea980a50.jpg' | relative_url }}" alt="Listing image for Dell PowerEdge R730xd 16LFF+2SFF Server /IndigoVision NVR-AS 4000/32GB RAM [16D]" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=server+rack+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-interest-ai-how-public-compute-unlocks-scientific-and-public-interest-ai-research-ai-bloo-server-rack-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="server rack model" data-ebay-reference="public-interest-ai-how-public-compute-unlocks-scientific-and-public-interest-ai-research-ai-bloo-server-rack-model" target="_blank" rel="sponsored noopener noreferrer">Dell PowerEdge R730xd 16LFF+2SFF Server /IndigoVision NVR-AS 4000/32GB RAM [16D]</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=server+rack+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-interest-ai-how-public-compute-unlocks-scientific-and-public-interest-ai-research-ai-bloo-server-rack-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="server rack model" data-ebay-reference="public-interest-ai-how-public-compute-unlocks-scientific-and-public-interest-ai-research-ai-bloo-server-rack-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for server rack model">Search <span data-ebay-domain-label>eBay.co.uk</span>: server rack model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=server+rack+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-interest-ai-how-public-compute-unlocks-scientific-and-public-interest-ai-research-ai-bloo-server-rack-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="server rack model" data-ebay-reference="public-interest-ai-how-public-compute-unlocks-scientific-and-public-interest-ai-research-ai-bloo-server-rack-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=server+rack+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-interest-ai-how-public-compute-unlocks-scientific-and-public-interest-ai-research-ai-bloo-server-rack-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="server rack model" data-ebay-reference="public-interest-ai-how-public-compute-unlocks-scientific-and-public-interest-ai-research-ai-bloo-server-rack-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dell PowerEdge R730xd 16LFF+2SFF Server /IndigoVision NVR-AS 4000/32GB RAM [16D]"><img src="{{ '/assets/images/marketplace-covers/18895e58d071ea980a50.jpg' | relative_url }}" alt="Listing image for Dell PowerEdge R730xd 16LFF+2SFF Server /IndigoVision NVR-AS 4000/32GB RAM [16D]" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=server+rack+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-interest-ai-how-public-compute-unlocks-scientific-and-public-interest-ai-research-ai-bloo-server-rack-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="server rack model" data-ebay-reference="public-interest-ai-how-public-compute-unlocks-scientific-and-public-interest-ai-research-ai-bloo-server-rack-model" target="_blank" rel="sponsored noopener noreferrer">Dell PowerEdge R730xd 16LFF+2SFF Server /IndigoVision NVR-AS 4000/32GB RAM [16D]</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=server+rack+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-interest-ai-how-public-compute-unlocks-scientific-and-public-interest-ai-research-ai-bloo-server-rack-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="server rack model" data-ebay-reference="public-interest-ai-how-public-compute-unlocks-scientific-and-public-interest-ai-research-ai-bloo-server-rack-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for server rack model">Search<span data-ebay-domain-label>eBay.co.uk</span>: server rack model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=server+rack+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-interest-ai-how-public-compute-unlocks-scientific-and-public-interest-ai-research-ai-bloo-server-rack-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="server rack model" data-ebay-reference="public-interest-ai-how-public-compute-unlocks-scientific-and-public-interest-ai-research-ai-bloo-server-rack-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=server+rack+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-interest-ai-how-public-compute-unlocks-scientific-and-public-interest-ai-research-ai-bloo-server-rack-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="server rack model" data-ebay-reference="public-interest-ai-how-public-compute-unlocks-scientific-and-public-interest-ai-research-ai-bloo-server-rack-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Miniature rack for palm-sized network devices Nitto Kogyo Server Rack New Japan"><img src="{{ '/assets/images/marketplace-covers/c0476ed8efe5050ee51e.jpg' | relative_url }}" alt="Listing image for Miniature rack for palm-sized network devices Nitto Kogyo Server Rack New Japan" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=server+rack+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-interest-ai-how-public-compute-unlocks-scientific-and-public-interest-ai-research-ai-bloo-server-rack-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="server rack model" data-ebay-reference="public-interest-ai-how-public-compute-unlocks-scientific-and-public-interest-ai-research-ai-bloo-server-rack-model" target="_blank" rel="sponsored noopener noreferrer">Miniature rack for palm-sized network devices Nitto Kogyo Server Rack New Japan</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=server+rack+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-interest-ai-how-public-compute-unlocks-scientific-and-public-interest-ai-research-ai-bloo-server-rack-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="server rack model" data-ebay-reference="public-interest-ai-how-public-compute-unlocks-scientific-and-public-interest-ai-research-ai-bloo-server-rack-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for server rack model">Search <span data-ebay-domain-label>eBay.co.uk</span>: server rack model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=server+rack+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-interest-ai-how-public-compute-unlocks-scientific-and-public-interest-ai-research-ai-bloo-server-rack-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="server rack model" data-ebay-reference="public-interest-ai-how-public-compute-unlocks-scientific-and-public-interest-ai-research-ai-bloo-server-rack-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=server+rack+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-interest-ai-how-public-compute-unlocks-scientific-and-public-interest-ai-research-ai-bloo-server-rack-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="server rack model" data-ebay-reference="public-interest-ai-how-public-compute-unlocks-scientific-and-public-interest-ai-research-ai-bloo-server-rack-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Miniature rack for palm-sized network devices Nitto Kogyo Server Rack New Japan"><img src="{{ '/assets/images/marketplace-covers/c0476ed8efe5050ee51e.jpg' | relative_url }}" alt="Listing image for Miniature rack for palm-sized network devices Nitto Kogyo Server Rack New Japan" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=server+rack+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-interest-ai-how-public-compute-unlocks-scientific-and-public-interest-ai-research-ai-bloo-server-rack-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="server rack model" data-ebay-reference="public-interest-ai-how-public-compute-unlocks-scientific-and-public-interest-ai-research-ai-bloo-server-rack-model" target="_blank" rel="sponsored noopener noreferrer">Miniature rack for palm-sized network devices Nitto Kogyo Server Rack New Japan</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=server+rack+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-interest-ai-how-public-compute-unlocks-scientific-and-public-interest-ai-research-ai-bloo-server-rack-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="server rack model" data-ebay-reference="public-interest-ai-how-public-compute-unlocks-scientific-and-public-interest-ai-research-ai-bloo-server-rack-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for server rack model">Search<span data-ebay-domain-label>eBay.co.uk</span>: server rack model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=server+rack+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-interest-ai-how-public-compute-unlocks-scientific-and-public-interest-ai-research-ai-bloo-server-rack-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="server rack model" data-ebay-reference="public-interest-ai-how-public-compute-unlocks-scientific-and-public-interest-ai-research-ai-bloo-server-rack-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=server+rack+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-interest-ai-how-public-compute-unlocks-scientific-and-public-interest-ai-research-ai-bloo-server-rack-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="server rack model" data-ebay-reference="public-interest-ai-how-public-compute-unlocks-scientific-and-public-interest-ai-research-ai-bloo-server-rack-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rack Server w/ 4x TESLA K10 GPU ACCELERATOR *12288 Cores* PhotoScan 3D Modelling"><img src="{{ '/assets/images/marketplace-covers/4b6ca7a86e6ee550b3a8.jpg' | relative_url }}" alt="Listing image for Rack Server w/ 4x TESLA K10 GPU ACCELERATOR *12288 Cores* PhotoScan 3D Modelling" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=server+rack+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-interest-ai-how-public-compute-unlocks-scientific-and-public-interest-ai-research-ai-bloo-server-rack-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="server rack model" data-ebay-reference="public-interest-ai-how-public-compute-unlocks-scientific-and-public-interest-ai-research-ai-bloo-server-rack-model" target="_blank" rel="sponsored noopener noreferrer">Rack Server w/ 4x TESLA K10 GPU ACCELERATOR *12288 Cores* PhotoScan 3D Modelling</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=server+rack+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-interest-ai-how-public-compute-unlocks-scientific-and-public-interest-ai-research-ai-bloo-server-rack-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="server rack model" data-ebay-reference="public-interest-ai-how-public-compute-unlocks-scientific-and-public-interest-ai-research-ai-bloo-server-rack-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for server rack model">Search <span data-ebay-domain-label>eBay.co.uk</span>: server rack model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=server+rack+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-interest-ai-how-public-compute-unlocks-scientific-and-public-interest-ai-research-ai-bloo-server-rack-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="server rack model" data-ebay-reference="public-interest-ai-how-public-compute-unlocks-scientific-and-public-interest-ai-research-ai-bloo-server-rack-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=server+rack+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-interest-ai-how-public-compute-unlocks-scientific-and-public-interest-ai-research-ai-bloo-server-rack-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="server rack model" data-ebay-reference="public-interest-ai-how-public-compute-unlocks-scientific-and-public-interest-ai-research-ai-bloo-server-rack-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=server+rack+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-interest-ai-how-public-compute-unlocks-scientific-and-public-interest-ai-research-ai-bloo-server-rack-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="server rack model" data-ebay-reference="public-interest-ai-how-public-compute-unlocks-scientific-and-public-interest-ai-research-ai-bloo-server-rack-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rack Server w/ 4x TESLA K10 GPU ACCELERATOR *12288 Cores* PhotoScan 3D Modelling"><img src="{{ '/assets/images/marketplace-covers/4b6ca7a86e6ee550b3a8.jpg' | relative_url }}" alt="Listing image for Rack Server w/ 4x TESLA K10 GPU ACCELERATOR *12288 Cores* PhotoScan 3D Modelling" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=server+rack+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-interest-ai-how-public-compute-unlocks-scientific-and-public-interest-ai-research-ai-bloo-server-rack-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="server rack model" data-ebay-reference="public-interest-ai-how-public-compute-unlocks-scientific-and-public-interest-ai-research-ai-bloo-server-rack-model" target="_blank" rel="sponsored noopener noreferrer">Rack Server w/ 4x TESLA K10 GPU ACCELERATOR *12288 Cores* PhotoScan 3D Modelling</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=server+rack+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-interest-ai-how-public-compute-unlocks-scientific-and-public-interest-ai-research-ai-bloo-server-rack-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="server rack model" data-ebay-reference="public-interest-ai-how-public-compute-unlocks-scientific-and-public-interest-ai-research-ai-bloo-server-rack-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for server rack model">Search<span data-ebay-domain-label>eBay.co.uk</span>: server rack model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=server+rack+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-interest-ai-how-public-compute-unlocks-scientific-and-public-interest-ai-research-ai-bloo-server-rack-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="server rack model" data-ebay-reference="public-interest-ai-how-public-compute-unlocks-scientific-and-public-interest-ai-research-ai-bloo-server-rack-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=server+rack+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-interest-ai-how-public-compute-unlocks-scientific-and-public-interest-ai-research-ai-bloo-server-rack-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="server rack model" data-ebay-reference="public-interest-ai-how-public-compute-unlocks-scientific-and-public-interest-ai-research-ai-bloo-server-rack-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -605,7 +605,7 @@ The long-term AI bloom vision depends on more than faster software. It depends o
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -625,7 +625,7 @@ The long-term AI bloom vision depends on more than faster software. It depends o
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -657,7 +657,7 @@ The long-term AI bloom vision depends on more than faster software. It depends o
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -709,7 +709,7 @@ The long-term AI bloom vision depends on more than faster software. It depends o
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -754,7 +754,7 @@ The long-term AI bloom vision depends on more than faster software. It depends o
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -795,115 +795,115 @@ The long-term AI bloom vision depends on more than faster software. It depends o
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nsf.gov  
-   Link: <a href="https://www.nsf.gov/focus-areas/ai/nairr" target="_blank" rel="noopener noreferrer nofollow">https://www.nsf.gov/focus-areas/ai/nairr</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Science FoundationNational Artificial Intelligence Research ResourceInitially established as a pilot in 2024, the NAIRR concept...</p></details>
+   Link:<a href="https://www.nsf.gov/focus-areas/ai/nairr" target="_blank" rel="noopener noreferrer nofollow">https://www.nsf.gov/focus-areas/ai/nairr</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Science FoundationNational Artificial Intelligence Research ResourceInitially established as a pilot in 2024, the NAIRR concept...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: hai.stanford.edu  
    Title: HAINational AI Research Resource (NAIRR)  
-   Link: <a href="https://hai.stanford.edu/policy/policy-efforts/national-ai-research-resource" target="_blank" rel="noopener noreferrer nofollow">https://hai.stanford.edu/policy/policy-efforts/national-ai-research-resource</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford HAINational AI Research Resource (NAIRR) - Stanford HAIA National AI Research Resource (NAIRR) would provide academic and non-pr...</p></details>
+   Link:<a href="https://hai.stanford.edu/policy/policy-efforts/national-ai-research-resource" target="_blank" rel="noopener noreferrer nofollow">https://hai.stanford.edu/policy/policy-efforts/national-ai-research-resource</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford HAINational AI Research Resource (NAIRR) - Stanford HAIA National AI Research Resource (NAIRR) would provide academic and non-pr...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arxiv.org  
    Title: arXiv AI and Supercomputing are Powering the Next Wave of Breakthrough Science  
-   Link: <a href="https://arxiv.org/abs/2511.12686" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2511.12686</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AI and Supercomputing are Powering the Next Wave of Breakthrough Science - But at What Cost?November 16, 2025...</p></details>
+   Link:<a href="https://arxiv.org/abs/2511.12686" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2511.12686</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI and Supercomputing are Powering the Next Wave of Breakthrough Science - But at What Cost?November 16, 2025...</p></details>
    Published: November 16, 2025  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2401.04070" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2401.04070</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Accelerating computational materials discovery with artificial intelligence and cloud high-performance computing: from large-scale s...</p></details>
+   Link:<a href="https://arxiv.org/abs/2401.04070" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2401.04070</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Accelerating computational materials discovery with artificial intelligence and cloud high-performance computing: from large-scale s...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: meritalk.com  
    Title: nsf partners launch national ai research resource pilot  
-   Link: <a href="https://www.meritalk.com/articles/nsf-partners-launch-national-ai-research-resource-pilot/" target="_blank" rel="noopener noreferrer nofollow">https://www.meritalk.com/articles/nsf-partners-launch-national-ai-research-resource-pilot/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NSF, Partners Launch National AI Research Resource Pilot24 Jan 2024 — The pilot will provide US-based researchers and educators w...</p></details>
+   Link:<a href="https://www.meritalk.com/articles/nsf-partners-launch-national-ai-research-resource-pilot/" target="_blank" rel="noopener noreferrer nofollow">https://www.meritalk.com/articles/nsf-partners-launch-national-ai-research-resource-pilot/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NSF, Partners Launch National AI Research Resource Pilot24 Jan 2024 — The pilot will provide US-based researchers and educators w...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: techuk.org  
    Title: compute infrastructure and the ai opportunities action plan  
-   Link: <a href="https://www.techuk.org/resource/compute-infrastructure-and-the-ai-opportunities-action-plan.html" target="_blank" rel="noopener noreferrer nofollow">https://www.techuk.org/resource/compute-infrastructure-and-the-ai-opportunities-action-plan.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Compute infrastructure and the AI Opportunities Action Plan15 May 2025 — The AI Opportunities Action Plan states that, to build a s...</p></details>
+   Link:<a href="https://www.techuk.org/resource/compute-infrastructure-and-the-ai-opportunities-action-plan.html" target="_blank" rel="noopener noreferrer nofollow">https://www.techuk.org/resource/compute-infrastructure-and-the-ai-opportunities-action-plan.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Compute infrastructure and the AI Opportunities Action Plan15 May 2025 — The AI Opportunities Action Plan states that, to build a s...</p></details>
    Published: May 2025  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: weather.gov  
-   Link: <a href="https://www.weather.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/</a>  
+   Link:<a href="https://www.weather.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/us/dictionary/english/national" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/us/dictionary/english/national</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>definition in the Cambridge English Dictionaryrelating to all parts of a nation or to a nation as a whole rather than to any part of it...</p></details>
+   Link:<a href="https://dictionary.cambridge.org/us/dictionary/english/national" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/us/dictionary/english/national</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>definition in the Cambridge English Dictionaryrelating to all parts of a nation or to a nation as a whole rather than to any part of it...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: adalovelaceinstitute.org  
    Title: global public compute  
-   Link: <a href="https://www.adalovelaceinstitute.org/policy-briefing/global-public-compute/" target="_blank" rel="noopener noreferrer nofollow">https://www.adalovelaceinstitute.org/policy-briefing/global-public-compute/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ada Lovelace InstituteMapping global approaches to public compute4 Nov 2024 — Exploration of a National AI Research Resource to provide p...</p></details>
+   Link:<a href="https://www.adalovelaceinstitute.org/policy-briefing/global-public-compute/" target="_blank" rel="noopener noreferrer nofollow">https://www.adalovelaceinstitute.org/policy-briefing/global-public-compute/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ada Lovelace InstituteMapping global approaches to public compute4 Nov 2024 — Exploration of a National AI Research Resource to provide p...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: maths.cam.ac.uk  
-   Link: <a href="https://www.maths.cam.ac.uk/features/new-ai-supercomputer-support-climate-research" target="_blank" rel="noopener noreferrer nofollow">https://www.maths.cam.ac.uk/features/new-ai-supercomputer-support-climate-research</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>University of Cambridge MathematicsNew AI supercomputer to support climate research | FeaturesAIRR is a national facility announced by th...</p></details>
+   Link:<a href="https://www.maths.cam.ac.uk/features/new-ai-supercomputer-support-climate-research" target="_blank" rel="noopener noreferrer nofollow">https://www.maths.cam.ac.uk/features/new-ai-supercomputer-support-climate-research</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>University of Cambridge MathematicsNew AI supercomputer to support climate research | FeaturesAIRR is a national facility announced by th...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: docs.ycrc.yale.edu  
-   Link: <a href="https://docs.ycrc.yale.edu/ai/nairr/" target="_blank" rel="noopener noreferrer nofollow">https://docs.ycrc.yale.edu/ai/nairr/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Research Resource (NAIRR)5 Feb 2026 — The National Artificial Intelligence Research Resource (NAIRR) provides researchers with hardwar...</p></details>
+   Link:<a href="https://docs.ycrc.yale.edu/ai/nairr/" target="_blank" rel="noopener noreferrer nofollow">https://docs.ycrc.yale.edu/ai/nairr/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI Research Resource (NAIRR)5 Feb 2026 — The National Artificial Intelligence Research Resource (NAIRR) provides researchers with hardwar...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nps.gov  
-   Link: <a href="https://www.nps.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.nps.gov/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Homepage (U.S. National Park Service)Discover America&#x27;s stories. Plan your visit and explore the diverse landscapes, national parks, and...</p></details>
+   Link:<a href="https://www.nps.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.nps.gov/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Homepage (U.S. National Park Service)Discover America&#x27;s stories. Plan your visit and explore the diverse landscapes, national parks, and...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: aicomputeaccess.com  
-   Link: <a href="https://aicomputeaccess.com/" target="_blank" rel="noopener noreferrer nofollow">https://aicomputeaccess.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Compute Access: Government Infrastructure, Commercial...This resource provides independent editorial coverage of AI compute access ac...</p></details>
+   Link:<a href="https://aicomputeaccess.com/" target="_blank" rel="noopener noreferrer nofollow">https://aicomputeaccess.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI Compute Access: Government Infrastructure, Commercial...This resource provides independent editorial coverage of AI compute access ac...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: cuit.columbia.edu  
-   Link: <a href="https://www.cuit.columbia.edu/national-hpc-access/nairr" target="_blank" rel="noopener noreferrer nofollow">https://www.cuit.columbia.edu/national-hpc-access/nairr</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Columbia Information TechnologyNational Artificial Intelligence Research Resource (NAIRR)...The National Artificial Intelligence Researc...</p></details>
+   Link:<a href="https://www.cuit.columbia.edu/national-hpc-access/nairr" target="_blank" rel="noopener noreferrer nofollow">https://www.cuit.columbia.edu/national-hpc-access/nairr</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Columbia Information TechnologyNational Artificial Intelligence Research Resource (NAIRR)...The National Artificial Intelligence Researc...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: microsoft.com  
-   Link: <a href="https://www.microsoft.com/en-us/research/project/national-ai-research-resource-nairr-pilot/" target="_blank" rel="noopener noreferrer nofollow">https://www.microsoft.com/en-us/research/project/national-ai-research-resource-nairr-pilot/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National AI Research Resource (NAIRR) PilotThe mission of the NAIRR pilot aligns with our commitment to broaden AI research and spur inno...</p></details>
+   Link:<a href="https://www.microsoft.com/en-us/research/project/national-ai-research-resource-nairr-pilot/" target="_blank" rel="noopener noreferrer nofollow">https://www.microsoft.com/en-us/research/project/national-ai-research-resource-nairr-pilot/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National AI Research Resource (NAIRR) PilotThe mission of the NAIRR pilot aligns with our commitment to broaden AI research and spur inno...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: nationalairlines.com  
-   Link: <a href="https://www.nationalairlines.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalairlines.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National AirlinesIt&#x27;s time to board world&#x27;s premiere air charter service. Welcome aboard a luxurious, comfortable and personalized journe...</p></details>
+   Link:<a href="https://www.nationalairlines.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalairlines.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National AirlinesIt&#x27;s time to board world&#x27;s premiere air charter service. Welcome aboard a luxurious, comfortable and personalized journe...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: nationalgridus.com  
-   Link: <a href="https://www.nationalgridus.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalgridus.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Grid: Natural Gas &amp; ElectricityWelcome to National Grid, providing New York and Massachusetts with natural gas and electricity f...</p></details>
+   Link:<a href="https://www.nationalgridus.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalgridus.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Grid: Natural Gas &amp; ElectricityWelcome to National Grid, providing New York and Massachusetts with natural gas and electricity f...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/scitechgovuk_get-free-access-to-the-uks-most-powerful-activity-7381629916859121664-Ti3H" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/scitechgovuk_get-free-access-to-the-uks-most-powerful-activity-7381629916859121664-Ti3H</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK&#x27;s AIRR offers free AI computing power to universities...Get free access to the UK&#x27;s most powerful AI supercomputers with our AI Rese...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/scitechgovuk_get-free-access-to-the-uks-most-powerful-activity-7381629916859121664-Ti3H" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/scitechgovuk_get-free-access-to-the-uks-most-powerful-activity-7381629916859121664-Ti3H</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK&#x27;s AIRR offers free AI computing power to universities...Get free access to the UK&#x27;s most powerful AI supercomputers with our AI Rese...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: GOV.UK  
-   Link: <a href="https://www.gov.uk/government/news/cambridge-supercomputer-set-to-get-6-times-more-powerful-as-government-backs-british-ai-innovation" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/cambridge-supercomputer-set-to-get-6-times-more-powerful-as-government-backs-british-ai-innovation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>supercomputer set to get 6 times more powerful...26 Jan 2026 — The AI Research Resource (AIRR) provides free compute access to UK rese...</p></details>
+   Link:<a href="https://www.gov.uk/government/news/cambridge-supercomputer-set-to-get-6-times-more-powerful-as-government-backs-british-ai-innovation" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/cambridge-supercomputer-set-to-get-6-times-more-powerful-as-government-backs-british-ai-innovation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>supercomputer set to get 6 times more powerful...26 Jan 2026 — The AI Research Resource (AIRR) provides free compute access to UK rese...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: today.ucsd.edu  
-   Link: <a href="https://today.ucsd.edu/story/national-ai-researchers-have-the-chance-to-access-san-diego-supercomputer-center-resources-through-nsf-nairr-pilot" target="_blank" rel="noopener noreferrer nofollow">https://today.ucsd.edu/story/national-ai-researchers-have-the-chance-to-access-san-diego-supercomputer-center-resources-through-nsf-nairr-pilot</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Researchers Have the Chance to Access...7 May 2024 — The NSF has opened the next opportunity for researchers and educators to apply f...</p></details>
+   Link:<a href="https://today.ucsd.edu/story/national-ai-researchers-have-the-chance-to-access-san-diego-supercomputer-center-resources-through-nsf-nairr-pilot" target="_blank" rel="noopener noreferrer nofollow">https://today.ucsd.edu/story/national-ai-researchers-have-the-chance-to-access-san-diego-supercomputer-center-resources-through-nsf-nairr-pilot</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI Researchers Have the Chance to Access...7 May 2024 — The NSF has opened the next opportunity for researchers and educators to apply f...</p></details>
    Published: May 2024  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: nationaljournal.com  
-   Link: <a href="https://www.nationaljournal.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationaljournal.com/</a>
+   Link:<a href="https://www.nationaljournal.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationaljournal.com/</a>

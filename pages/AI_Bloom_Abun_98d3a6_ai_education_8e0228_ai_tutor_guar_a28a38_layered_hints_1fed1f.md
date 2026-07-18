@@ -275,16 +275,16 @@ image: /assets/images/AI_Bloom_Abun_98d3a6_ai_education_8e0228_ai_tutor_guar_a28
 
 ## Introduction
 
-An AI tutor becomes educationally powerful not when it knows every answer, but when it knows how long to wait before giving one. The central challenge is preserving what learning scientists often call *productive struggle*: the period in which a learner is confused enough to think hard, but not so overwhelmed that they give up. In practice, this means replacing instant solutions with layered hints that gradually increase the amount of help. [pce.sandiego.edu](#endnote-1 "Snippet: <span class="citation-chip-wrap"><a class="citation-chip" href="https://pce.sandiego.edu/productive-struggle-in-the-classroom/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pce.sandiego.edu">[Strategies for Teachers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pce.sandiego.edu</span><span class="citation-popover-title">What Is Productive Struggle?</span><span class="citation-popover-snippet">+ Strategies for Teachers]May 31, 2023 — Productive struggle is intended to help students develop strong habits of the mind – perseveran...</span><span class="citation-popover-meta">Published: May 31, 2023</span></span></span> May 31, 2023 — Productive struggle is intended to help students develop strong habits of the mind – perseveran...")
+An AI tutor becomes educationally powerful not when it knows every answer, but when it knows how long to wait before giving one. The central challenge is preserving what learning scientists often call *productive struggle*: the period in which a learner is confused enough to think hard, but not so overwhelmed that they give up. In practice, this means replacing instant solutions with layered hints that gradually increase the amount of help. [pce.sandiego.edu](#endnote-1 "Snippet:<span class="citation-chip-wrap"><a class="citation-chip" href="https://pce.sandiego.edu/productive-struggle-in-the-classroom/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pce.sandiego.edu">[Strategies for Teachers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pce.sandiego.edu</span><span class="citation-popover-title">What Is Productive Struggle?</span><span class="citation-popover-snippet">+ Strategies for Teachers]May 31, 2023 — Productive struggle is intended to help students develop strong habits of the mind – perseveran...</span><span class="citation-popover-meta">Published: May 31, 2023</span></span></span> May 31, 2023 — Productive struggle is intended to help students develop strong habits of the mind – perseveran...")
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_education_8e0228_ai_tutor_guar_a28a38_layered_hints_1fed1f-Illustration-1-dark.svg" | relative_url }}" alt="Layered hints illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_education_8e0228_ai_tutor_guar_a28a38_layered_hints_1fed1f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_education_8e0228_ai_tutor_guar_a28a38_layered_hints_1fed1f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This design choice matters far beyond homework completion. If AI is eventually capable of providing personalised guidance to billions of people, one of the key questions for the broader AI bloom vision is whether that guidance strengthens human capability or quietly replaces it. Layered hints are one of the most important mechanisms proposed for keeping learners mentally active while still benefiting from abundant AI assistance. Rather than collapsing difficulty, they try to manage it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.edutopia.org/article/ai-tutors-work-guardrails/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edutopia.org">[Edutopia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edutopia.org</span><span class="citation-popover-title">AI Tutors Can Work—With the Right Guardrails</span><span class="citation-popover-snippet">AI Tutors Can Work—With the Right GuardrailsMarch 27, 2025 — 27 Mar 2025 — Research suggests that unrestricted AI use can hinder...</span><span class="citation-popover-meta">Published: March 27, 2025</span></span></span>
+This design choice matters far beyond homework completion. If AI is eventually capable of providing personalised guidance to billions of people, one of the key questions for the broader AI bloom vision is whether that guidance strengthens human capability or quietly replaces it. Layered hints are one of the most important mechanisms proposed for keeping learners mentally active while still benefiting from abundant AI assistance. Rather than collapsing difficulty, they try to manage it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.edutopia.org/article/ai-tutors-work-guardrails/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edutopia.org">[Edutopia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edutopia.org</span><span class="citation-popover-title">AI Tutors Can Work—With the Right Guardrails</span><span class="citation-popover-snippet">AI Tutors Can Work—With the Right GuardrailsMarch 27, 2025 — 27 Mar 2025 — Research suggests that unrestricted AI use can hinder...</span><span class="citation-popover-meta">Published: March 27, 2025</span></span></span>
 
 ## How much help is too much?
 
 The wrong kind of help can make learning feel easier while making mastery weaker.
 
-When students solve a problem themselves, they must retrieve knowledge from memory, test ideas, notice mistakes and repair misunderstandings. Those processes are effortful, but they are also closely tied to durable learning. When an AI immediately supplies the method and answer, many of those mental operations disappear. The student may recognise the explanation without ever having generated it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.edutopia.org/article/helping-young-kids-manage-productive-struggle/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edutopia.org">[Edutopia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edutopia.org</span><span class="citation-popover-title">helping young kids manage productive struggle</span><span class="citation-popover-snippet">1 Feb 2024 — Elementary school teachers can cultivate resilience—and academic growth—through a carefully scaffolded approach to productiv...</span></span></span>
+When students solve a problem themselves, they must retrieve knowledge from memory, test ideas, notice mistakes and repair misunderstandings. Those processes are effortful, but they are also closely tied to durable learning. When an AI immediately supplies the method and answer, many of those mental operations disappear. The student may recognise the explanation without ever having generated it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.edutopia.org/article/helping-young-kids-manage-productive-struggle/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edutopia.org">[Edutopia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edutopia.org</span><span class="citation-popover-title">helping young kids manage productive struggle</span><span class="citation-popover-snippet">1 Feb 2024 — Elementary school teachers can cultivate resilience—and academic growth—through a carefully scaffolded approach to productiv...</span></span></span>
 
 Layered hints attempt to avoid this trap. Instead of moving directly from question to solution, the tutor provides support in stages. Each stage is intended to preserve as much learner thinking as possible while still preventing frustration from becoming paralysis.
 
@@ -301,7 +301,7 @@ A typical progression might look like this:
 
 </div>
 
-The key principle is that assistance should expand only when the learner's own reasoning has genuinely stalled. The tutor's goal is not to minimise effort. It is to make effort more productive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thirdspacelearning.com/us/blog/intelligent-tutoring-systems/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thirdspacelearning.com">[Third Space Learning]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thirdspacelearning.com</span><span class="citation-popover-snippet">Third Space LearningIntelligent Tutoring Systems: 7 Research-Backed PrinciplesIntelligent tutoring systems (ITS) are AI-driven programs t...</span></span></span>
+The key principle is that assistance should expand only when the learner's own reasoning has genuinely stalled. The tutor's goal is not to minimise effort. It is to make effort more productive.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thirdspacelearning.com/us/blog/intelligent-tutoring-systems/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thirdspacelearning.com">[Third Space Learning]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thirdspacelearning.com</span><span class="citation-popover-snippet">Third Space LearningIntelligent Tutoring Systems: 7 Research-Backed PrinciplesIntelligent tutoring systems (ITS) are AI-driven programs t...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jvyvsjUZMGw" title="Embracing the Challenge: The Power of Productive Struggle in Learning" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jvyvsjUZMGw" target="_blank" rel="noopener noreferrer">Embracing the Challenge: The Power of Productive Struggle in Learning</a></p><p class="youtube-embed-meta">Channel: selfdirect.school &middot; Views: 454 &middot; Uploaded: March 2023 &middot; Length: 2 minutes 21 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jvyvsjUZMGw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jvyvsjUZMGw">Open on YouTube</a></p></div></div></div>
 
@@ -309,7 +309,7 @@ The key principle is that assistance should expand only when the learner's own r
 
 One of the strongest findings from tutoring research is that asking learners to think can be more effective than simply telling them what to do.
 
-Older intelligent tutoring systems frequently distinguished between hints that delivered information and scaffolds that required the learner to generate part of the reasoning themselves. Research using the ASSISTments platform found that scaffolded questioning often produced better learning outcomes than hints that merely stated the same information. The difference was not necessarily the content. It was who performed the cognitive work. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/221414156_Scaffolding_vs_Hints_in_the_Assistment_System" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Scaffolding vs</span><span class="citation-popover-snippet">Hints in the Assistment SystemJune 26, 2006 — Our results show that students that were given the scaffolds performed better although the...</span><span class="citation-popover-meta">Published: June 26, 2006</span></span></span>
+Older intelligent tutoring systems frequently distinguished between hints that delivered information and scaffolds that required the learner to generate part of the reasoning themselves. Research using the ASSISTments platform found that scaffolded questioning often produced better learning outcomes than hints that merely stated the same information. The difference was not necessarily the content. It was who performed the cognitive work.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/221414156_Scaffolding_vs_Hints_in_the_Assistment_System" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Scaffolding vs</span><span class="citation-popover-snippet">Hints in the Assistment SystemJune 26, 2006 — Our results show that students that were given the scaffolds performed better although the...</span><span class="citation-popover-meta">Published: June 26, 2006</span></span></span>
 
 This helps explain why many educational AI systems increasingly favour conceptual prompts over direct solutions.
 
@@ -325,7 +325,7 @@ Or:
 
 > Which methods do you already know for solving this type of problem?
 
-The learner must retrieve relevant knowledge before receiving more support. Even when the tutor eventually supplies additional guidance, the student has already engaged the memory and reasoning processes associated with learning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalcommons.memphis.edu/cgi/viewcontent.cgi?article=4206&amp;context=etd" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcommons.memphis.edu">[Digital Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcommons.memphis.edu</span><span class="citation-popover-snippet">Digital CommonsToward Self-Explanation Based Intelligent Tutoring Systemby LJ Tamang · 2023 — In doing so, questions are used as hints to...</span></span></span>
+The learner must retrieve relevant knowledge before receiving more support. Even when the tutor eventually supplies additional guidance, the student has already engaged the memory and reasoning processes associated with learning.<span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalcommons.memphis.edu/cgi/viewcontent.cgi?article=4206&amp;context=etd" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcommons.memphis.edu">[Digital Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcommons.memphis.edu</span><span class="citation-popover-snippet">Digital CommonsToward Self-Explanation Based Intelligent Tutoring Systemby LJ Tamang · 2023 — In doing so, questions are used as hints to...</span></span></span>
 
 The distinction can seem minor, but it changes the role of AI dramatically. An answer engine treats the learner as a recipient. A layered-hint system treats the learner as an active participant whose thinking remains central to the interaction.
 
@@ -337,7 +337,7 @@ A common failure mode for educational AI is over-explaining too early.
 
 Large language models are extremely good at producing polished explanations. The problem is that understanding an explanation is not the same thing as being able to generate an answer independently later.
 
-Learning research has repeatedly shown the value of retrieval practice: attempting to recall information before receiving feedback. The struggle involved in recalling a formula, concept or procedure often strengthens memory more effectively than passive review. [pce.sandiego.edu](#endnote-1 "Snippet: <span class="citation-chip-wrap"><a class="citation-chip" href="https://pce.sandiego.edu/productive-struggle-in-the-classroom/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pce.sandiego.edu">[Strategies for Teachers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pce.sandiego.edu</span><span class="citation-popover-title">What Is Productive Struggle?</span><span class="citation-popover-snippet">+ Strategies for Teachers]May 31, 2023 — Productive struggle is intended to help students develop strong habits of the mind – perseveran...</span><span class="citation-popover-meta">Published: May 31, 2023</span></span></span> May 31, 2023 — Productive struggle is intended to help students develop strong habits of the mind – perseveran...")
+Learning research has repeatedly shown the value of retrieval practice: attempting to recall information before receiving feedback. The struggle involved in recalling a formula, concept or procedure often strengthens memory more effectively than passive review. [pce.sandiego.edu](#endnote-1 "Snippet:<span class="citation-chip-wrap"><a class="citation-chip" href="https://pce.sandiego.edu/productive-struggle-in-the-classroom/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pce.sandiego.edu">[Strategies for Teachers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pce.sandiego.edu</span><span class="citation-popover-title">What Is Productive Struggle?</span><span class="citation-popover-snippet">+ Strategies for Teachers]May 31, 2023 — Productive struggle is intended to help students develop strong habits of the mind – perseveran...</span><span class="citation-popover-meta">Published: May 31, 2023</span></span></span> May 31, 2023 — Productive struggle is intended to help students develop strong habits of the mind – perseveran...")
 
 For AI tutors, this suggests an important sequencing rule:
 
@@ -357,16 +357,16 @@ Instead of immediately describing the solution method, a tutor can:
 
 Only after that effort does the tutor provide clarification or correction.
 
-This pattern appears repeatedly in systems designed around Socratic guidance. Khan Academy's Khanmigo, for example, explicitly promotes questioning and guided reasoning rather than straightforward answer delivery. The aim is to keep the learner cognitively engaged rather than turning the interaction into automated answer retrieval. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.khanmigo.ai/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: khanmigo.ai">[khanmigo.ai]</a><span class="citation-popover" role="note"><span class="citation-popover-source">khanmigo.ai</span><span class="citation-popover-snippet">e on prep, tackle homework challenges, and get personalized tutoring...</span></span></span>
+This pattern appears repeatedly in systems designed around Socratic guidance. Khan Academy's Khanmigo, for example, explicitly promotes questioning and guided reasoning rather than straightforward answer delivery. The aim is to keep the learner cognitively engaged rather than turning the interaction into automated answer retrieval.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.khanmigo.ai/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: khanmigo.ai">[khanmigo.ai]</a><span class="citation-popover" role="note"><span class="citation-popover-source">khanmigo.ai</span><span class="citation-popover-snippet">e on prep, tackle homework challenges, and get personalized tutoring...</span></span></span>
 
 For the larger AI abundance debate, this distinction is significant. A future with unlimited explanations is not necessarily a future with more human understanding. Retrieval-focused tutoring tries to ensure that increased access to [intelligence]({{ 'intelligence/' | relative_url }}) also increases the learner's own intellectual capacity.
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_education_8e0228_ai_tutor_guar_a28a38_layered_hints_1fed1f-Illustration-2-dark.svg" | relative_url }}" alt="Layered hints illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_education_8e0228_ai_tutor_guar_a28a38_layered_hints_1fed1f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_education_8e0228_ai_tutor_guar_a28a38_layered_hints_1fed1f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When hints should escalate
 
-[Not all struggle is productive.](#endnote-1 "Snippet: [Strategies for Teachers](#endnote-1 "Snippet: <span class="citation-chip-wrap"><a class="citation-chip" href="https://pce.sandiego.edu/productive-struggle-in-the-classroom/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pce.sandiego.edu">[Strategies for Teachers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pce.sandiego.edu</span><span class="citation-popover-title">What Is Productive Struggle?</span><span class="citation-popover-snippet">+ Strategies for Teachers]May 31, 2023 — Productive struggle is intended to help students develop strong habits of the mind – perseveran...</span><span class="citation-popover-meta">Published: May 31, 2023</span></span></span> May 31, 2023 — Productive struggle is intended to help students develop strong habits of the mind – perseveran...") May 31, 2023 — Productive struggle is intended to help students develop strong habits of the mind – perseveran...")
+[Not all struggle is productive.](#endnote-1 "Snippet: [Strategies for Teachers](#endnote-1 "Snippet:<span class="citation-chip-wrap"><a class="citation-chip" href="https://pce.sandiego.edu/productive-struggle-in-the-classroom/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pce.sandiego.edu">[Strategies for Teachers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pce.sandiego.edu</span><span class="citation-popover-title">What Is Productive Struggle?</span><span class="citation-popover-snippet">+ Strategies for Teachers]May 31, 2023 — Productive struggle is intended to help students develop strong habits of the mind – perseveran...</span><span class="citation-popover-meta">Published: May 31, 2023</span></span></span> May 31, 2023 — Productive struggle is intended to help students develop strong habits of the mind – perseveran...") May 31, 2023 — Productive struggle is intended to help students develop strong habits of the mind – perseveran...")
 
-One of the biggest misconceptions is that educational systems should simply force students to work longer without assistance. Research on productive struggle consistently distinguishes between useful challenge and unproductive frustration. Endless confusion can damage motivation and lead learners to disengage. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.middleweb.com/53342/4-ways-to-encourage-productive-struggle/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: middleweb.com">[MiddleWeb]</a><span class="citation-popover" role="note"><span class="citation-popover-source">middleweb.com</span><span class="citation-popover-title">Middle Web4 Ways to Encourage Productive Struggle in Your Classroom</span><span class="citation-popover-snippet">Productive struggle only is for the math classroom. 2. Students don&#x27;t need any prior knowledge for productive struggle. 3. Students should...</span></span></span>
+One of the biggest misconceptions is that educational systems should simply force students to work longer without assistance. Research on productive struggle consistently distinguishes between useful challenge and unproductive frustration. Endless confusion can damage motivation and lead learners to disengage.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.middleweb.com/53342/4-ways-to-encourage-productive-struggle/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: middleweb.com">[MiddleWeb]</a><span class="citation-popover" role="note"><span class="citation-popover-source">middleweb.com</span><span class="citation-popover-title">Middle Web4 Ways to Encourage Productive Struggle in Your Classroom</span><span class="citation-popover-snippet">Productive struggle only is for the math classroom. 2. Students don&#x27;t need any prior knowledge for productive struggle. 3. Students should...</span></span></span>
 
 A well-designed hint system therefore needs escalation rules.
 
@@ -398,7 +398,7 @@ For example:
 
 **Level 6:** Provide the complete worked answer.
 
-This structure mirrors the principle sometimes called *fading guidance*: support is added when necessary and removed when competence grows. Learners receive enough help to continue moving forward, but not so much that they stop thinking altogether. <span class="citation-chip-wrap"><a class="citation-chip" href="https://researchschool.org.uk/shottonhall/news/fading-guidance-for-greater-independence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchschool.org.uk">[Research Schools Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchschool.org.uk</span><span class="citation-popover-title">fading guidance for greater independence</span><span class="citation-popover-snippet">Research Schools NetworkFading Guidance for Greater Independence28 Nov 2024 — Known as “fading guidance,” this strategy moves students to...</span></span></span>
+This structure mirrors the principle sometimes called *fading guidance*: support is added when necessary and removed when competence grows. Learners receive enough help to continue moving forward, but not so much that they stop thinking altogether.<span class="citation-chip-wrap"><a class="citation-chip" href="https://researchschool.org.uk/shottonhall/news/fading-guidance-for-greater-independence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchschool.org.uk">[Research Schools Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchschool.org.uk</span><span class="citation-popover-title">fading guidance for greater independence</span><span class="citation-popover-snippet">Research Schools NetworkFading Guidance for Greater Independence28 Nov 2024 — Known as “fading guidance,” this strategy moves students to...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hGbZcoCMde4" title="Closing Math Gaps with AI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hGbZcoCMde4" target="_blank" rel="noopener noreferrer">Closing Math Gaps with AI</a></p><p class="youtube-embed-meta">Channel: Khan Academy &middot; Views: 6.0K &middot; Uploaded: February 2025 &middot; Length: 41 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hGbZcoCMde4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hGbZcoCMde4">Open on YouTube</a></p></div></div></div>
 
@@ -406,15 +406,15 @@ This structure mirrors the principle sometimes called *fading guidance*: support
 
 Many current tutoring projects are converging on versions of the same idea.
 
-Research surveys on hint generation describe step-by-step guidance as a defining feature of intelligent tutoring systems. Recent AI tutoring architectures increasingly use progressive scaffolding, targeted hints and guided questioning rather than unrestricted answer generation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aclanthology.org/2025.tacl-1.25/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aclanthology.org">[ACL Anthology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aclanthology.org</span><span class="citation-popover-title">2025.tacl 1.25</span><span class="citation-popover-snippet">ACL AnthologyNavigating the Landscape of Hint Generation Researchby A Jangra · 2025 · Cited by 9 — In this survey article, we present a c...</span></span></span>
+Research surveys on hint generation describe step-by-step guidance as a defining feature of intelligent tutoring systems. Recent AI tutoring architectures increasingly use progressive scaffolding, targeted hints and guided questioning rather than unrestricted answer generation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aclanthology.org/2025.tacl-1.25/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aclanthology.org">[ACL Anthology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aclanthology.org</span><span class="citation-popover-title">2025.tacl 1.25</span><span class="citation-popover-snippet">ACL AnthologyNavigating the Landscape of Hint Generation Researchby A Jangra · 2025 · Cited by 9 — In this survey article, we present a c...</span></span></span>
 
 Recent examples include:
 
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
-* Khanmigo's emphasis on guiding students toward answers rather than supplying them directly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.khanmigo.ai/parents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: khanmigo.ai">[khanmigo.ai]</a><span class="citation-popover" role="note"><span class="citation-popover-source">khanmigo.ai</span><span class="citation-popover-snippet">You can view your child&#x27;s chats, get alerts for flagged content, and feel good...Read more...</span></span></span>
-* KITE, a retrieval-augmented tutoring system that adapts responses and uses Socratic scaffolding for reasoning tasks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2605.04816v2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Building AI Companions that Prioritise Learning over...15 May 2026 — Productive struggle occurs when difficulty is balanced... 6.1...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
-* SocraticAI and SocratiCode, research systems that deliberately constrain AI assistance through questioning, reflection prompts and staged support. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2605.04816v2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Building AI Companions that Prioritise Learning over...15 May 2026 — Productive struggle occurs when difficulty is balanced... 6.1...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
+* Khanmigo's emphasis on guiding students toward answers rather than supplying them directly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.khanmigo.ai/parents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: khanmigo.ai">[khanmigo.ai]</a><span class="citation-popover" role="note"><span class="citation-popover-source">khanmigo.ai</span><span class="citation-popover-snippet">You can view your child&#x27;s chats, get alerts for flagged content, and feel good...Read more...</span></span></span>
+* KITE, a retrieval-augmented tutoring system that adapts responses and uses Socratic scaffolding for reasoning tasks.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2605.04816v2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Building AI Companions that Prioritise Learning over...15 May 2026 — Productive struggle occurs when difficulty is balanced... 6.1...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
+* SocraticAI and SocratiCode, research systems that deliberately constrain AI assistance through questioning, reflection prompts and staged support.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2605.04816v2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Building AI Companions that Prioritise Learning over...15 May 2026 — Productive struggle occurs when difficulty is balanced... 6.1...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 
 </div>
 
@@ -429,199 +429,199 @@ If future systems become vastly more knowledgeable than any human teacher, there
 
 In that vision, AI does not eliminate intellectual effort. It makes effort more efficient.
 
-A tutor with deep knowledge of a learner's strengths, weaknesses and misconceptions could potentially deliver exactly the right hint at exactly the right moment: enough to sustain progress, not enough to remove ownership of the problem. The learner still performs the retrieval, inference and error correction that build expertise, but with personalised support available whenever genuinely needed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0959475223000683" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">A sequence of learning processes in an intelligent tutoring...by J Chevalère · 2023 · Cited by 22 — Although intelligent tu...</span></span></span>
+A tutor with deep knowledge of a learner's strengths, weaknesses and misconceptions could potentially deliver exactly the right hint at exactly the right moment: enough to sustain progress, not enough to remove ownership of the problem. The learner still performs the retrieval, inference and error correction that build expertise, but with personalised support available whenever genuinely needed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0959475223000683" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">A sequence of learning processes in an intelligent tutoring...by J Chevalère · 2023 · Cited by 22 — Although intelligent tu...</span></span></span>
 
-That is a much more ambitious goal than homework assistance. It treats AI as a tool for expanding human capability rather than substituting for it. In the strongest versions of the AI bloom argument, educational systems that scale this kind of cognitive empowerment may matter as much as the models themselves. Abundant intelligence becomes most valuable when it helps create more capable humans, not merely more accessible answers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2026/01/oecd-digital-[education" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-title">062a7394 en</span><span class="citation-popover-snippet">OECD Digital Education Outlook 2026 (EN)This 2026 edition synthesises evidence and expert insights to show how generative AI has the...</span></span></span>
+That is a much more ambitious goal than homework assistance. It treats AI as a tool for expanding human capability rather than substituting for it. In the strongest versions of the AI bloom argument, educational systems that scale this kind of cognitive empowerment may matter as much as the models themselves. Abundant intelligence becomes most valuable when it helps create more capable humans, not merely more accessible answers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2026/01/oecd-digital-[education" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-title">062a7394 en</span><span class="citation-popover-snippet">OECD Digital Education Outlook 2026 (EN)This 2026 edition synthesises evidence and expert insights to show how generative AI has the...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How much help is too much?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How much help is too much?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oneWAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
-        </h4>
-        <p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oneWAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
+</h4>
+<p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
         
-        <p class="fr-book-desc">Supports retrieval practice, effortful learning and staged support.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports retrieval practice, effortful learning and staged support.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Learning+Happens+by+Paul+A.+Kirschner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Learning Happens on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qhQpygEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How Learning Happens" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+Learning+Happens+by+Paul+A.+Kirschner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Learning Happens">How Learning Happens</a>
-        </h4>
-        <p class="fr-book-author">By Paul A. Kirschner, Carl Hendrick</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Learning+Happens+by+Paul+A.+Kirschner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Learning Happens on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qhQpygEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How Learning Happens" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+Learning+Happens+by+Paul+A.+Kirschner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Learning Happens">How Learning Happens</a>
+</h4>
+<p class="fr-book-author">By Paul A. Kirschner, Carl Hendrick</p>
         
-        <p class="fr-book-desc">Explains why hints and scaffolding should be carefully timed.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+Learning+Happens+by+Paul+A.+Kirschner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why hints and scaffolding should be carefully timed.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+Learning+Happens+by+Paul+A.+Kirschner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why Don&#x27;t Students Like School? on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=DlMlEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why Don&#x27;t Students Like School?" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why Don&#x27;t Students Like School?">Why Don&#x27;t Students Like School?</a>
-        </h4>
-        <p class="fr-book-author">By Daniel T. Willingham</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why Don&#x27;t Students Like School? on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=DlMlEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why Don&#x27;t Students Like School?" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why Don&#x27;t Students Like School?">Why Don&#x27;t Students Like School?</a>
+</h4>
+<p class="fr-book-author">By Daniel T. Willingham</p>
         
-        <p class="fr-book-desc">Explains the role of cognitive effort in understanding.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains the role of cognitive effort in understanding.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Teach+Like+a+Champion+3.0+by+Doug+Lemov&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Teach Like a Champion 3.0 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=7cU0EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Teach Like a Champion 3.0" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Teach+Like+a+Champion+3.0+by+Doug+Lemov&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Teach Like a Champion 3.0">Teach Like a Champion 3.0</a>
-        </h4>
-        <p class="fr-book-author">By Doug Lemov</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Teach+Like+a+Champion+3.0+by+Doug+Lemov&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Teach Like a Champion 3.0 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=7cU0EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Teach Like a Champion 3.0" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Teach+Like+a+Champion+3.0+by+Doug+Lemov&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Teach Like a Champion 3.0">Teach Like a Champion 3.0</a>
+</h4>
+<p class="fr-book-author">By Doug Lemov</p>
         
-        <p class="fr-book-desc">Provides concrete techniques for questioning, scaffolding and feedback.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Teach+Like+a+Champion+3.0+by+Doug+Lemov&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides concrete techniques for questioning, scaffolding and feedback.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Teach+Like+a+Champion+3.0+by+Doug+Lemov&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Learning+Happens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Learning Happens</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why Don&#x27;t Students Like School?</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Learning+Happens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Learning Happens</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why Don&#x27;t Students Like School?</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-help-is-too-much-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="how-much-help-is-too-much-educational-robot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 10-in-1 Electric STEM Building Toy, Educational Activity Robot Toy Gift for Kids"><img src="https://i.ebayimg.com/images/g/1ZEAAeSwDe5qIqx5/s-l225.jpg" alt="Listing image for 10-in-1 Electric STEM Building Toy, Educational Activity Robot Toy Gift for Kids" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-help-is-too-much-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="how-much-help-is-too-much-educational-robot" target="_blank" rel="sponsored noopener noreferrer">10-in-1 Electric STEM Building Toy, Educational Activity Robot Toy Gift for Kids</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-help-is-too-much-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="how-much-help-is-too-much-educational-robot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational robot">Search <span data-ebay-domain-label>eBay.co.uk</span>: educational robot</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-help-is-too-much-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="how-much-help-is-too-much-educational-robot" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-help-is-too-much-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="how-much-help-is-too-much-educational-robot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 10-in-1 Electric STEM Building Toy, Educational Activity Robot Toy Gift for Kids"><img src="https://i.ebayimg.com/images/g/1ZEAAeSwDe5qIqx5/s-l225.jpg" alt="Listing image for 10-in-1 Electric STEM Building Toy, Educational Activity Robot Toy Gift for Kids" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-help-is-too-much-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="how-much-help-is-too-much-educational-robot" target="_blank" rel="sponsored noopener noreferrer">10-in-1 Electric STEM Building Toy, Educational Activity Robot Toy Gift for Kids</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-help-is-too-much-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="how-much-help-is-too-much-educational-robot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational robot">Search<span data-ebay-domain-label>eBay.co.uk</span>: educational robot</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-help-is-too-much-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="how-much-help-is-too-much-educational-robot" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-help-is-too-much-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="how-much-help-is-too-much-educational-robot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Drawing Robot For Kids With 100 Cards Automatic Painting Robot Education Toy UK"><img src="https://i.ebayimg.com/images/g/9vsAAeSwEPFqEBFl/s-l225.jpg" alt="Listing image for Drawing Robot For Kids With 100 Cards Automatic Painting Robot Education Toy UK" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-help-is-too-much-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="how-much-help-is-too-much-educational-robot" target="_blank" rel="sponsored noopener noreferrer">Drawing Robot For Kids With 100 Cards Automatic Painting Robot Education Toy UK</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-help-is-too-much-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="how-much-help-is-too-much-educational-robot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational robot">Search <span data-ebay-domain-label>eBay.co.uk</span>: educational robot</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-help-is-too-much-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="how-much-help-is-too-much-educational-robot" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-help-is-too-much-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="how-much-help-is-too-much-educational-robot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Drawing Robot For Kids With 100 Cards Automatic Painting Robot Education Toy UK"><img src="https://i.ebayimg.com/images/g/9vsAAeSwEPFqEBFl/s-l225.jpg" alt="Listing image for Drawing Robot For Kids With 100 Cards Automatic Painting Robot Education Toy UK" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-help-is-too-much-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="how-much-help-is-too-much-educational-robot" target="_blank" rel="sponsored noopener noreferrer">Drawing Robot For Kids With 100 Cards Automatic Painting Robot Education Toy UK</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-help-is-too-much-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="how-much-help-is-too-much-educational-robot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational robot">Search<span data-ebay-domain-label>eBay.co.uk</span>: educational robot</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-help-is-too-much-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="how-much-help-is-too-much-educational-robot" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-help-is-too-much-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="how-much-help-is-too-much-educational-robot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 🤖Sphero SPRK+ Educational Robot – STEM Coding &amp; Programming Toy for Kids &amp; Adul"><img src="https://i.ebayimg.com/images/g/6IoAAOSwH95nMPeS/s-l225.jpg" alt="Listing image for 🤖Sphero SPRK+ Educational Robot – STEM Coding &amp; Programming Toy for Kids &amp; Adul" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-help-is-too-much-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="how-much-help-is-too-much-educational-robot" target="_blank" rel="sponsored noopener noreferrer">🤖Sphero SPRK+ Educational Robot – STEM Coding &amp; Programming Toy for Kids &amp; Adul</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-help-is-too-much-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="how-much-help-is-too-much-educational-robot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational robot">Search <span data-ebay-domain-label>eBay.co.uk</span>: educational robot</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-help-is-too-much-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="how-much-help-is-too-much-educational-robot" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-help-is-too-much-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="how-much-help-is-too-much-educational-robot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 🤖Sphero SPRK+ Educational Robot – STEM Coding &amp; Programming Toy for Kids &amp; Adul"><img src="https://i.ebayimg.com/images/g/6IoAAOSwH95nMPeS/s-l225.jpg" alt="Listing image for 🤖Sphero SPRK+ Educational Robot – STEM Coding &amp; Programming Toy for Kids &amp; Adul" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-help-is-too-much-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="how-much-help-is-too-much-educational-robot" target="_blank" rel="sponsored noopener noreferrer">🤖Sphero SPRK+ Educational Robot – STEM Coding &amp; Programming Toy for Kids &amp; Adul</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-help-is-too-much-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="how-much-help-is-too-much-educational-robot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational robot">Search<span data-ebay-domain-label>eBay.co.uk</span>: educational robot</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-help-is-too-much-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="how-much-help-is-too-much-educational-robot" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-help-is-too-much-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="how-much-help-is-too-much-educational-robot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kids Drawing Robot – Educational Toy with 100 Cards, Voice Guidance - Pink"><img src="https://i.ebayimg.com/images/g/zBcAAeSw2jlod501/s-l225.jpg" alt="Listing image for Kids Drawing Robot – Educational Toy with 100 Cards, Voice Guidance - Pink" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-help-is-too-much-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="how-much-help-is-too-much-educational-robot" target="_blank" rel="sponsored noopener noreferrer">Kids Drawing Robot – Educational Toy with 100 Cards, Voice Guidance - Pink</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-help-is-too-much-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="how-much-help-is-too-much-educational-robot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational robot">Search <span data-ebay-domain-label>eBay.co.uk</span>: educational robot</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-help-is-too-much-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="how-much-help-is-too-much-educational-robot" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-help-is-too-much-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="how-much-help-is-too-much-educational-robot" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-help-is-too-much-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="how-much-help-is-too-much-educational-robot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kids Drawing Robot – Educational Toy with 100 Cards, Voice Guidance - Pink"><img src="https://i.ebayimg.com/images/g/zBcAAeSw2jlod501/s-l225.jpg" alt="Listing image for Kids Drawing Robot – Educational Toy with 100 Cards, Voice Guidance - Pink" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-help-is-too-much-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="how-much-help-is-too-much-educational-robot" target="_blank" rel="sponsored noopener noreferrer">Kids Drawing Robot – Educational Toy with 100 Cards, Voice Guidance - Pink</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-help-is-too-much-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="how-much-help-is-too-much-educational-robot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational robot">Search<span data-ebay-domain-label>eBay.co.uk</span>: educational robot</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-help-is-too-much-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="how-much-help-is-too-much-educational-robot" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-help-is-too-much-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="how-much-help-is-too-much-educational-robot" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -637,7 +637,7 @@ That is a much more ambitious goal than homework assistance. It treats AI as a t
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -657,7 +657,7 @@ That is a much more ambitious goal than homework assistance. It treats AI as a t
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -689,7 +689,7 @@ That is a much more ambitious goal than homework assistance. It treats AI as a t
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -741,7 +741,7 @@ That is a much more ambitious goal than homework assistance. It treats AI as a t
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -786,7 +786,7 @@ That is a much more ambitious goal than homework assistance. It treats AI as a t
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -827,177 +827,177 @@ That is a much more ambitious goal than homework assistance. It treats AI as a t
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pce.sandiego.edu  
    Title: What Is Productive Struggle?  
-   Link: <a href="https://pce.sandiego.edu/productive-struggle-in-the-classroom/" target="_blank" rel="noopener noreferrer nofollow">https://pce.sandiego.edu/productive-struggle-in-the-classroom/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>[+ Strategies for Teachers]May 31, 2023 — Productive struggle is intended to help students develop strong habits of the mind – perseveran...</p></details>
+   Link:<a href="https://pce.sandiego.edu/productive-struggle-in-the-classroom/" target="_blank" rel="noopener noreferrer nofollow">https://pce.sandiego.edu/productive-struggle-in-the-classroom/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[+ Strategies for Teachers]May 31, 2023 — Productive struggle is intended to help students develop strong habits of the mind – perseveran...</p></details>
    Published: May 31, 2023  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: edutopia.org  
    Title: AI Tutors Can Work—With the Right [Guardrails](&#123;&#123; 'guardrails/' | relative_url &#125;&#125;)  
-   Link: <a href="https://www.edutopia.org/article/ai-tutors-work-guardrails/" target="_blank" rel="noopener noreferrer nofollow">https://www.edutopia.org/article/ai-tutors-work-guardrails/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Tutors Can Work—With the Right GuardrailsMarch 27, 2025 — 27 Mar 2025 — Research suggests that unrestricted AI use can hinder...</p></details>
+   Link:<a href="https://www.edutopia.org/article/ai-tutors-work-guardrails/" target="_blank" rel="noopener noreferrer nofollow">https://www.edutopia.org/article/ai-tutors-work-guardrails/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI Tutors Can Work—With the Right GuardrailsMarch 27, 2025 — 27 Mar 2025 — Research suggests that unrestricted AI use can hinder...</p></details>
    Published: March 27, 2025  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2605.04816v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2605.04816v2</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Building AI Companions that Prioritise Learning over...15 May 2026 — Productive struggle occurs when difficulty is balanced... 6.1...</p></details>
+   Link:<a href="https://arxiv.org/html/2605.04816v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2605.04816v2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Building AI Companions that Prioritise Learning over...15 May 2026 — Productive struggle occurs when difficulty is balanced... 6.1...</p></details>
    Published: May 2026  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: researchgate.net  
    Title: Research Gate Scaffolding vs  
-   Link: <a href="https://www.researchgate.net/publication/221414156_Scaffolding_vs_Hints_in_the_Assistment_System" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/221414156_Scaffolding_vs_Hints_in_the_Assistment_System</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Hints in the Assistment SystemJune 26, 2006 — Our results show that students that were given the scaffolds performed better although the...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/221414156_Scaffolding_vs_Hints_in_the_Assistment_System" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/221414156_Scaffolding_vs_Hints_in_the_Assistment_System</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hints in the Assistment SystemJune 26, 2006 — Our results show that students that were given the scaffolds performed better although the...</p></details>
    Published: June 26, 2006  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: khanmigo.ai  
-   Link: <a href="https://www.khanmigo.ai/" target="_blank" rel="noopener noreferrer nofollow">https://www.khanmigo.ai/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>e on prep, tackle homework challenges, and get personalized tutoring...</p></details>
+   Link:<a href="https://www.khanmigo.ai/" target="_blank" rel="noopener noreferrer nofollow">https://www.khanmigo.ai/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>e on prep, tackle homework challenges, and get personalized tutoring...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: middleweb.com  
    Title: Middle Web4 Ways to Encourage Productive Struggle in Your Classroom  
-   Link: <a href="https://www.middleweb.com/53342/4-ways-to-encourage-productive-struggle/" target="_blank" rel="noopener noreferrer nofollow">https://www.middleweb.com/53342/4-ways-to-encourage-productive-struggle/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Productive struggle only is for the math classroom. 2. Students don&#x27;t need any prior knowledge for productive struggle. 3. Students should...</p></details>
+   Link:<a href="https://www.middleweb.com/53342/4-ways-to-encourage-productive-struggle/" target="_blank" rel="noopener noreferrer nofollow">https://www.middleweb.com/53342/4-ways-to-encourage-productive-struggle/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Productive struggle only is for the math classroom. 2. Students don&#x27;t need any prior knowledge for productive struggle. 3. Students should...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: edutopia.org  
    Title: helping young kids manage productive struggle  
-   Link: <a href="https://www.edutopia.org/article/helping-young-kids-manage-productive-struggle/" target="_blank" rel="noopener noreferrer nofollow">https://www.edutopia.org/article/helping-young-kids-manage-productive-struggle/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>1 Feb 2024 — Elementary school teachers can cultivate [resilience](&amp;#123;&amp;#123; &#x27;resilience/&#x27; | relative_url &amp;#125;&amp;#125;)—and academic growth—through a carefully scaffolded approach to productiv...</p></details>
+   Link:<a href="https://www.edutopia.org/article/helping-young-kids-manage-productive-struggle/" target="_blank" rel="noopener noreferrer nofollow">https://www.edutopia.org/article/helping-young-kids-manage-productive-struggle/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1 Feb 2024 — Elementary school teachers can cultivate [resilience](&amp;#123;&amp;#123; &#x27;resilience/&#x27; | relative_url &amp;#125;&amp;#125;)—and academic growth—through a carefully scaffolded approach to productiv...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: khanmigo.ai  
-   Link: <a href="https://www.khanmigo.ai/parents" target="_blank" rel="noopener noreferrer nofollow">https://www.khanmigo.ai/parents</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>You can view your child&#x27;s chats, get alerts for flagged content, and feel good...Read more...</p></details>
+   Link:<a href="https://www.khanmigo.ai/parents" target="_blank" rel="noopener noreferrer nofollow">https://www.khanmigo.ai/parents</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>You can view your child&#x27;s chats, get alerts for flagged content, and feel good...Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2605.12988v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2605.12988v1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Retrieval-Augmented Tutoring for Algorithm Tracing and...13 May 2026 — We presented KITE, a RAG-based intelligent tutoring system t...</p></details>
+   Link:<a href="https://arxiv.org/html/2605.12988v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2605.12988v1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Retrieval-Augmented Tutoring for Algorithm Tracing and...13 May 2026 — We presented KITE, a RAG-based intelligent tutoring system t...</p></details>
    Published: May 2026  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2605.12988" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2605.12988</a>  
+   Link:<a href="https://arxiv.org/abs/2605.12988" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2605.12988</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2512.03501" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2512.03501</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SocraticAI: Transforming LLMs into Guided CS Tutors Through Scaffolded InteractionDecember 3, 2025...</p></details>
+   Link:<a href="https://arxiv.org/abs/2512.03501" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2512.03501</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SocraticAI: Transforming LLMs into Guided CS Tutors Through Scaffolded InteractionDecember 3, 2025...</p></details>
    Published: December 3, 2025  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2605.17857" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2605.17857</a>  
+   Link:<a href="https://arxiv.org/abs/2605.17857" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2605.17857</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0959475223000683" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0959475223000683</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A sequence of learning processes in an intelligent tutoring...by J Chevalère · 2023 · Cited by 22 — Although intelligent tu...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0959475223000683" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0959475223000683</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A sequence of learning processes in an intelligent tutoring...by J Chevalère · 2023 · Cited by 22 — Although intelligent tu...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: oecd.org  
    Title: 062a7394 en  
-   Link: <a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2026/01/oecd-digital-[education" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2026/01/oecd-digital-[education</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>OECD Digital Education Outlook 2026 (EN)This 2026 edition synthesises evidence and expert insights to show how generative AI has the...</p></details>
+   Link:<a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2026/01/oecd-digital-[education" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2026/01/oecd-digital-[education</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OECD Digital Education Outlook 2026 (EN)This 2026 edition synthesises evidence and expert insights to show how generative AI has the...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: thirdspacelearning.com  
-   Link: <a href="https://thirdspacelearning.com/us/blog/intelligent-tutoring-systems/" target="_blank" rel="noopener noreferrer nofollow">https://thirdspacelearning.com/us/blog/intelligent-tutoring-systems/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Third Space LearningIntelligent Tutoring Systems: 7 Research-Backed PrinciplesIntelligent tutoring systems (ITS) are AI-driven programs t...</p></details>
+   Link:<a href="https://thirdspacelearning.com/us/blog/intelligent-tutoring-systems/" target="_blank" rel="noopener noreferrer nofollow">https://thirdspacelearning.com/us/blog/intelligent-tutoring-systems/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Third Space LearningIntelligent Tutoring Systems: 7 Research-Backed PrinciplesIntelligent tutoring systems (ITS) are AI-driven programs t...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: digitalcommons.memphis.edu  
-   Link: <a href="https://digitalcommons.memphis.edu/cgi/viewcontent.cgi?article=4206&amp;context=etd" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.memphis.edu/cgi/viewcontent.cgi?article=4206&amp;context=etd</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital CommonsToward Self-Explanation Based Intelligent Tutoring Systemby LJ Tamang · 2023 — In doing so, questions are used as hints to...</p></details>
+   Link:<a href="https://digitalcommons.memphis.edu/cgi/viewcontent.cgi?article=4206&amp;context=etd" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.memphis.edu/cgi/viewcontent.cgi?article=4206&amp;context=etd</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Digital CommonsToward Self-Explanation Based Intelligent Tutoring Systemby LJ Tamang · 2023 — In doing so, questions are used as hints to...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: researchschool.org.uk  
    Title: fading guidance for greater independence  
-   Link: <a href="https://researchschool.org.uk/shottonhall/news/fading-guidance-for-greater-independence" target="_blank" rel="noopener noreferrer nofollow">https://researchschool.org.uk/shottonhall/news/fading-guidance-for-greater-independence</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Research Schools NetworkFading Guidance for Greater Independence28 Nov 2024 — Known as “fading guidance,” this strategy moves students to...</p></details>
+   Link:<a href="https://researchschool.org.uk/shottonhall/news/fading-guidance-for-greater-independence" target="_blank" rel="noopener noreferrer nofollow">https://researchschool.org.uk/shottonhall/news/fading-guidance-for-greater-independence</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Research Schools NetworkFading Guidance for Greater Independence28 Nov 2024 — Known as “fading guidance,” this strategy moves students to...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: aclanthology.org  
    Title: 2025.tacl 1.25  
-   Link: <a href="https://aclanthology.org/2025.tacl-1.25/" target="_blank" rel="noopener noreferrer nofollow">https://aclanthology.org/2025.tacl-1.25/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ACL AnthologyNavigating the Landscape of Hint Generation Researchby A Jangra · 2025 · Cited by 9 — In this survey article, we present a c...</p></details>
+   Link:<a href="https://aclanthology.org/2025.tacl-1.25/" target="_blank" rel="noopener noreferrer nofollow">https://aclanthology.org/2025.tacl-1.25/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ACL AnthologyNavigating the Landscape of Hint Generation Researchby A Jangra · 2025 · Cited by 9 — In this survey article, we present a c...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: dt4si.com  
    Title: Khan Academy  
-   Link: <a href="https://dt4si.com/digital-transformation-case-studies/khan-academy" target="_blank" rel="noopener noreferrer nofollow">https://dt4si.com/digital-transformation-case-studies/khan-academy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI tutor for personalised learningHow Khan Academy uses AI tutor Khanmigo to deliver personalised learning, support teachers, and scale e...</p></details>
+   Link:<a href="https://dt4si.com/digital-transformation-case-studies/khan-academy" target="_blank" rel="noopener noreferrer nofollow">https://dt4si.com/digital-transformation-case-studies/khan-academy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI tutor for personalised learningHow Khan Academy uses AI tutor Khanmigo to deliver personalised learning, support teachers, and scale e...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: eu-jamrai.eu  
-   Link: <a href="https://eu-jamrai.eu/intelligent-tutoring-systems/" target="_blank" rel="noopener noreferrer nofollow">https://eu-jamrai.eu/intelligent-tutoring-systems/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ack, hints, and explanations provided by the system.Read more...</p></details>
+   Link:<a href="https://eu-jamrai.eu/intelligent-tutoring-systems/" target="_blank" rel="noopener noreferrer nofollow">https://eu-jamrai.eu/intelligent-tutoring-systems/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ack, hints, and explanations provided by the system.Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: ashleigh-educationjourney.com  
    Title: productive struggle  
-   Link: <a href="https://www.ashleigh-educationjourney.com/productive-struggle/" target="_blank" rel="noopener noreferrer nofollow">https://www.ashleigh-educationjourney.com/productive-struggle/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and It&#x27;s Importance -19 Aug 2017 — An effective teacher provides students with appropriate challenges, encourages perseverance in solving...</p></details>
+   Link:<a href="https://www.ashleigh-educationjourney.com/productive-struggle/" target="_blank" rel="noopener noreferrer nofollow">https://www.ashleigh-educationjourney.com/productive-struggle/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and It&#x27;s Importance -19 Aug 2017 — An effective teacher provides students with appropriate challenges, encourages perseverance in solving...</p></details>
 
 ### Additional References
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: intellimedia.ncsu.edu  
-   Link: <a href="https://intellimedia.ncsu.edu/wp-content/uploads/sites/42/Design_Recommendations_for_Intelligent_Tutoring_Systems_Volume_3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://intellimedia.ncsu.edu/wp-content/uploads/sites/42/Design_Recommendations_for_Intelligent_Tutoring_Systems_Volume_3.pdf</a>  
+   Link:<a href="https://intellimedia.ncsu.edu/wp-content/uploads/sites/42/Design_Recommendations_for_Intelligent_Tutoring_Systems_Volume_3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://intellimedia.ncsu.edu/wp-content/uploads/sites/42/Design_Recommendations_for_Intelligent_Tutoring_Systems_Volume_3.pdf</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40adnanmasood/the-quiet-math-of-edtech-can-ai-tutors-really-teach-737195005abf" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40adnanmasood/the-quiet-math-of-edtech-can-ai-tutors-really-teach-737195005abf</a>  
+   Link:<a href="https://medium.com/%40adnanmasood/the-quiet-math-of-edtech-can-ai-tutors-really-teach-737195005abf" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40adnanmasood/the-quiet-math-of-edtech-can-ai-tutors-really-teach-737195005abf</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: blog.khanacademy.org  
    Title: how khan academy is building a better ai tutor our most recent learnings  
-   Link: <a href="https://blog.khanacademy.org/how-khan-academy-is-building-a-better-ai-tutor-our-most-recent-learnings/" target="_blank" rel="noopener noreferrer nofollow">https://blog.khanacademy.org/how-khan-academy-is-building-a-better-ai-tutor-our-most-recent-learnings/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Khan Academy BlogHow Khan Academy Is Building a Better AI Tutor: Our Most...1 May 2026 — Khan Academy shares how it improved its AI tuto...</p></details>
+   Link:<a href="https://blog.khanacademy.org/how-khan-academy-is-building-a-better-ai-tutor-our-most-recent-learnings/" target="_blank" rel="noopener noreferrer nofollow">https://blog.khanacademy.org/how-khan-academy-is-building-a-better-ai-tutor-our-most-recent-learnings/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Khan Academy BlogHow Khan Academy Is Building a Better AI Tutor: Our Most...1 May 2026 — Khan Academy shares how it improved its AI tuto...</p></details>
    Published: May 2026  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/computer-science/articles/10.3389/fcomp.2026.1777749/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/computer-science/articles/10.3389/fcomp.2026.1777749/full</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>through the technologies of automatic multimodal knowledge graphs construction and...Read more...</p></details>
+   Link:<a href="https://www.frontiersin.org/journals/computer-science/articles/10.3389/fcomp.2026.1777749/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/computer-science/articles/10.3389/fcomp.2026.1777749/full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>through the technologies of automatic multimodal knowledge graphs construction and...Read more...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: structural-learning.com  
-   Link: <a href="https://www.structural-learning.com/post/productive-failure-education-teachers-need" target="_blank" rel="noopener noreferrer nofollow">https://www.structural-learning.com/post/productive-failure-education-teachers-need</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ith complex problems before instruction to improve deep learning and...</p></details>
+   Link:<a href="https://www.structural-learning.com/post/productive-failure-education-teachers-need" target="_blank" rel="noopener noreferrer nofollow">https://www.structural-learning.com/post/productive-failure-education-teachers-need</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ith complex problems before instruction to improve deep learning and...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: direct.mit.edu  
    Title: Navigating the Landscape of Hint Generation  
-   Link: <a href="https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00751/131277/Navigating-the-Landscape-of-Hint-Generation" target="_blank" rel="noopener noreferrer nofollow">https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00751/131277/Navigating-the-Landscape-of-Hint-Generation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MIT Press DirectNavigating the Landscape of Hint Generation Researchby A Jangra · 2025 · Cited by 9 — The hallmark of intelligent tutorin...</p></details>
+   Link:<a href="https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00751/131277/Navigating-the-Landscape-of-Hint-Generation" target="_blank" rel="noopener noreferrer nofollow">https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00751/131277/Navigating-the-Landscape-of-Hint-Generation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MIT Press DirectNavigating the Landscape of Hint Generation Researchby A Jangra · 2025 · Cited by 9 — The hallmark of intelligent tutorin...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: chloeburroughs.com  
    Title: productive struggle secret academic success  
-   Link: <a href="https://chloeburroughs.com/productive-struggle-secret-academic-success/" target="_blank" rel="noopener noreferrer nofollow">https://chloeburroughs.com/productive-struggle-secret-academic-success/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Productive Struggle: How to Embrace This Secret to Academic...10 Jun 2024 — 7 simple, practical strategies to help you navigate and embr...</p></details>
+   Link:<a href="https://chloeburroughs.com/productive-struggle-secret-academic-success/" target="_blank" rel="noopener noreferrer nofollow">https://chloeburroughs.com/productive-struggle-secret-academic-success/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Productive Struggle: How to Embrace This Secret to Academic...10 Jun 2024 — 7 simple, practical strategies to help you navigate and embr...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: lrdc.pitt.edu  
    Title: Bridge to Practice Productive Struggle  
-   Link: <a href="https://www.lrdc.pitt.edu/LSET/Bridge%20to%20Practice%20Productive%20Struggle.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lrdc.pitt.edu/LSET/Bridge%20to%20Practice%20Productive%20Struggle.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Struggle PrimerProductive struggle is the effortful process of grappling with problems, ideas, and concepts that resist easy resolution...</p></details>
+   Link:<a href="https://www.lrdc.pitt.edu/LSET/Bridge%20to%20Practice%20Productive%20Struggle.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lrdc.pitt.edu/LSET/Bridge%20to%20Practice%20Productive%20Struggle.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Struggle PrimerProductive struggle is the effortful process of grappling with problems, ideas, and concepts that resist easy resolution...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: pickaxe.co  
    Title: ai tools for teachers  
-   Link: <a href="https://pickaxe.co/post/ai-tools-for-teachers" target="_blank" rel="noopener noreferrer nofollow">https://pickaxe.co/post/ai-tools-for-teachers</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Top 15 AI Tools for Teachers (2026)The best AI tools for teachers in 2026 -- from MagicSchool AI and Khanmigo to Gradescope and Pickaxe...</p></details>
+   Link:<a href="https://pickaxe.co/post/ai-tools-for-teachers" target="_blank" rel="noopener noreferrer nofollow">https://pickaxe.co/post/ai-tools-for-teachers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Top 15 AI Tools for Teachers (2026)The best AI tools for teachers in 2026 -- from MagicSchool AI and Khanmigo to Gradescope and Pickaxe...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: files.eric.ed.gov  
-   Link: <a href="https://files.eric.ed.gov/fulltext/EJ1486877.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.eric.ed.gov/fulltext/EJ1486877.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Exactly is the Productive Struggle? Lessons Learned...by JR Young · 2025 — Productive struggle (PS) has emerged as a critical construct...</p></details>
+   Link:<a href="https://files.eric.ed.gov/fulltext/EJ1486877.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.eric.ed.gov/fulltext/EJ1486877.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Exactly is the Productive Struggle? Lessons Learned...by JR Young · 2025 — Productive struggle (PS) has emerged as a critical construct...</p></details>

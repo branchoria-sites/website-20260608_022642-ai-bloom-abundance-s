@@ -269,7 +269,7 @@ image: /assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_pandemic_fore_54
 
 ## Introduction
 
-Forecasting patterns of **seasonal diseases** such as influenza is now a relatively mature area of infectious disease modelling, with mathematical and AI‑augmented models routinely used to predict peak timing, intensity, and short‑term dynamics for each year’s expected outbreaks. In contrast, **predicting the emergence and early trajectory of entirely novel pathogens** — those with little or no historical data — remains substantially harder. The key difference lies not in simply how good the algorithms are, but in the nature of the signals these models try to predict and the availability of reliable training data. Seasonal diseases exhibit recurrent, structured behaviour that models can learn from, whereas novel outbreaks break the very patterns these models depend on. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13102302/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCForecastability of infectious disease time series</span><span class="citation-popover-snippet">NIHby LA White · 2026 · Cited by 2 — For infectious disease forecasting challenges, individual model performance typically varies a...</span></span></span>
+Forecasting patterns of **seasonal diseases** such as influenza is now a relatively mature area of infectious disease modelling, with mathematical and AI‑augmented models routinely used to predict peak timing, intensity, and short‑term dynamics for each year’s expected outbreaks. In contrast, **predicting the emergence and early trajectory of entirely novel pathogens** — those with little or no historical data — remains substantially harder. The key difference lies not in simply how good the algorithms are, but in the nature of the signals these models try to predict and the availability of reliable training data. Seasonal diseases exhibit recurrent, structured behaviour that models can learn from, whereas novel outbreaks break the very patterns these models depend on.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13102302/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCForecastability of infectious disease time series</span><span class="citation-popover-snippet">NIHby LA White · 2026 · Cited by 2 — For infectious disease forecasting challenges, individual model performance typically varies a...</span></span></span>
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_pandemic_fore_542374_seasonal_vs_n_3da149-Illustration-1-dark.svg" | relative_url }}" alt="Seasonal Limits illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_pandemic_fore_542374_seasonal_vs_n_3da149-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_pandemic_fore_542374_seasonal_vs_n_3da149-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Here, we explain **why seasonal disease forecasting consistently outperforms prediction of novel outbreaks** and what mechanisms underlie this gap — a crucial nuance for understanding both the practical value and limits of pandemic forecasting AI within the broader context of AI‑enabled health [resilience]({{ 'resilience/' | relative_url }}).
@@ -278,13 +278,13 @@ Here, we explain **why seasonal disease forecasting consistently outperforms pre
 
 ## Seasonal Patterns and Stable Training Data
 
-Seasonal diseases like influenza or respiratory syncytial virus follow **regular cycles** driven by environmental, behavioural and immunological factors: lower absolute humidity and more indoor contact in winter, predictable patterns of immunity, and consistent surveillance data create a time‑series with **repeating structure** year after year. Models — whether statistical time‑series methods, mechanistic compartmental frameworks, or machine learning systems — exploit this regularity to forecast future incidence based on past seasons. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Forecasting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Seasonal diseases like influenza or respiratory syncytial virus follow **regular cycles** driven by environmental, behavioural and immunological factors: lower absolute humidity and more indoor contact in winter, predictable patterns of immunity, and consistent surveillance data create a time‑series with **repeating structure** year after year. Models — whether statistical time‑series methods, mechanistic compartmental frameworks, or machine learning systems — exploit this regularity to forecast future incidence based on past seasons.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Forecasting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Empirical work in infectious disease forecasting confirms this: when disease incidence has clear periodicity and sufficient data volume, models outperform simple baselines by reliably predicting characteristics like peak timing and magnitude weeks in advance. Retrospective seasonal influenza forecasts, for example, have demonstrated meaningful skill relative to historical baselines over multiple years. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/23184969/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Forecasting seasonal outbreaks of influenza</span><span class="citation-popover-snippet">Forecasting seasonal outbreaks of influenza - PubMedDecember 11, 2012...</span><span class="citation-popover-meta">Published: December 11, 2012</span></span></span>
+Empirical work in infectious disease forecasting confirms this: when disease incidence has clear periodicity and sufficient data volume, models outperform simple baselines by reliably predicting characteristics like peak timing and magnitude weeks in advance. Retrospective seasonal influenza forecasts, for example, have demonstrated meaningful skill relative to historical baselines over multiple years.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/23184969/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Forecasting seasonal outbreaks of influenza</span><span class="citation-popover-snippet">Forecasting seasonal outbreaks of influenza - PubMedDecember 11, 2012...</span><span class="citation-popover-meta">Published: December 11, 2012</span></span></span>
 
-This relative success is not just anecdotal; quantitative research shows that **forecastability — a measure of how predictable a time series is — tends to be higher for seasonal disease signals** with strong periodic components and substantial data history. In statistical terms, such time series have lower spectral entropy and more concentrated frequency patterns, which models can learn from more effectively. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1014175&amp;rev=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">Forecastability of infectious disease time seriesHere we characterize a time series&#x27; future predictability using a forecastability me...</span></span></span>
+This relative success is not just anecdotal; quantitative research shows that **forecastability — a measure of how predictable a time series is — tends to be higher for seasonal disease signals** with strong periodic components and substantial data history. In statistical terms, such time series have lower spectral entropy and more concentrated frequency patterns, which models can learn from more effectively.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1014175&amp;rev=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">Forecastability of infectious disease time seriesHere we characterize a time series&#x27; future predictability using a forecastability me...</span></span></span>
 
-Because seasonal forecasts draw on **thousands of past weeks of structured data**, models can learn the characteristic shape and drivers of seasonal epidemics. In epidemiological practice this makes them **useful for planning hospital resources, vaccination timing and public health messaging** during predictable peak months. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3979760/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCInfluenza Forecasting in Human Populations: A Scoping Review</span><span class="citation-popover-snippet">April 8, 2014...</span><span class="citation-popover-meta">Published: April 8, 2014</span></span></span>
+Because seasonal forecasts draw on **thousands of past weeks of structured data**, models can learn the characteristic shape and drivers of seasonal epidemics. In epidemiological practice this makes them **useful for planning hospital resources, vaccination timing and public health messaging** during predictable peak months.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3979760/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCInfluenza Forecasting in Human Populations: A Scoping Review</span><span class="citation-popover-snippet">April 8, 2014...</span><span class="citation-popover-meta">Published: April 8, 2014</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/93W4f5mdoCM" title="How Short-Term Disease Forecasting Works Using Rt" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=93W4f5mdoCM" target="_blank" rel="noopener noreferrer">How Short-Term Disease Forecasting Works Using Rt</a></p><p class="youtube-embed-meta">Channel: Centers for Disease Control and Prevention (CDC) &middot; Views: 572 &middot; Uploaded: March 2024 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=93W4f5mdoCM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=93W4f5mdoCM">Open on YouTube</a></p></div></div></div>
 
@@ -292,23 +292,23 @@ Because seasonal forecasts draw on **thousands of past weeks of structured data*
 
 By contrast, novel pathogens start without any historical record: there are no past outbreaks with the same characteristics for a model to learn. This absence has several consequences:
 
-* **Lack of structured patterns**: Novel outbreaks do not follow established periodic cycles or seasonality. Their dynamics depend on unknown biological parameters — transmission rates, immune cross‑protection, incubation periods — which cannot be deduced from past seasonal disease patterns. Models trained on seasonal data are effectively predicting outside their training domain. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1005801" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">Individual versus superensemble forecasts of seasonal influenza outbreaks in the United States &#124; PLOS Computational BiologyNovember 6...</span></span></span>
-* **High uncertainty early on**: In the initial phase of a novel outbreak, surveillance data are sparse, inconsistent and potentially delayed. Machine learning methods that require volume and continuity in training data struggle when the signal is short, noisy and changing rapidly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.astho.org/49ac5a/globalassets/brief/defining-disease-forecasting-and-modeling.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astho.org">[astho.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astho.org</span><span class="citation-popover-title">Defining Disease Forecasting and Modeling</span><span class="citation-popover-snippet">September 24, 2024 — Disease forecasting is important in describing potential future outbreaks that will affect the population and demand...</span><span class="citation-popover-meta">Published: September 24, 2024</span></span></span>
+* **Lack of structured patterns**: Novel outbreaks do not follow established periodic cycles or seasonality. Their dynamics depend on unknown biological parameters — transmission rates, immune cross‑protection, incubation periods — which cannot be deduced from past seasonal disease patterns. Models trained on seasonal data are effectively predicting outside their training domain.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1005801" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">Individual versus superensemble forecasts of seasonal influenza outbreaks in the United States &#124; PLOS Computational BiologyNovember 6...</span></span></span>
+* **High uncertainty early on**: In the initial phase of a novel outbreak, surveillance data are sparse, inconsistent and potentially delayed. Machine learning methods that require volume and continuity in training data struggle when the signal is short, noisy and changing rapidly.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.astho.org/49ac5a/globalassets/brief/defining-disease-forecasting-and-modeling.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astho.org">[astho.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astho.org</span><span class="citation-popover-title">Defining Disease Forecasting and Modeling</span><span class="citation-popover-snippet">September 24, 2024 — Disease forecasting is important in describing potential future outbreaks that will affect the population and demand...</span><span class="citation-popover-meta">Published: September 24, 2024</span></span></span>
 * **Structural changes in disease dynamics**: A new pathogen might elicit behavioural changes (e.g. lockdowns, novel vaccines) that feed back into its transmission dynamics — another layer of uncertainty absent in historical seasonal behaviour.
 
-These factors mean that **models have inherently limited preview of true future dynamics in a new outbreak**, and prediction can devolve into guesswork grounded more in mechanistic assumptions than learned patterns. In some settings, mechanistic models such as Susceptible–Infectious–Recovered (SIR) frameworks can help, but even they depend on accurate estimation of new disease parameters — and such estimates are often unavailable early in a novel epidemic. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1014175" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">of infectious disease time seriesby LA White · 2026 · Cited by 2 — Forecastability increased with increasing population size of the forec...</span></span></span>
+These factors mean that **models have inherently limited preview of true future dynamics in a new outbreak**, and prediction can devolve into guesswork grounded more in mechanistic assumptions than learned patterns. In some settings, mechanistic models such as Susceptible–Infectious–Recovered (SIR) frameworks can help, but even they depend on accurate estimation of new disease parameters — and such estimates are often unavailable early in a novel epidemic.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1014175" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">of infectious disease time seriesby LA White · 2026 · Cited by 2 — Forecastability increased with increasing population size of the forec...</span></span></span>
 
 Because of this, so‑called *novel outbreak prediction* is less a forecasting problem and more an **early detection or scenario exploration task**, where identifying emerging anomalies or high‑risk conditions is possible, but making accurate numerical forecasts far into the future is not. This is a structural constraint: the very definition of forecasting presupposes some measure of regularity to exploit.
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_pandemic_fore_542374_seasonal_vs_n_3da149-Illustration-2-dark.svg" | relative_url }}" alt="Seasonal Limits illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_pandemic_fore_542374_seasonal_vs_n_3da149-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_pandemic_fore_542374_seasonal_vs_n_3da149-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Short‑Range Forecasts Still Do Well
 
-It is important to stress that **near‑term forecasts** — even for novel outbreaks — still offer value when grounded in real‑time data streams. Models can often provide useful **nowcasts** or short‑term projections (e.g. one to three weeks ahead) because very recent trajectory and case counts constrain reasonably plausible short‑term futures. However, as the forecasting horizon stretches longer, uncertainty balloons rapidly for novel pathogens. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.astho.org/49ac5a/globalassets/brief/defining-disease-forecasting-and-modeling.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astho.org">[astho.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astho.org</span><span class="citation-popover-title">Defining Disease Forecasting and Modeling</span><span class="citation-popover-snippet">September 24, 2024 — Disease forecasting is important in describing potential future outbreaks that will affect the population and demand...</span><span class="citation-popover-meta">Published: September 24, 2024</span></span></span>
+It is important to stress that **near‑term forecasts** — even for novel outbreaks — still offer value when grounded in real‑time data streams. Models can often provide useful **nowcasts** or short‑term projections (e.g. one to three weeks ahead) because very recent trajectory and case counts constrain reasonably plausible short‑term futures. However, as the forecasting horizon stretches longer, uncertainty balloons rapidly for novel pathogens.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.astho.org/49ac5a/globalassets/brief/defining-disease-forecasting-and-modeling.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astho.org">[astho.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astho.org</span><span class="citation-popover-title">Defining Disease Forecasting and Modeling</span><span class="citation-popover-snippet">September 24, 2024 — Disease forecasting is important in describing potential future outbreaks that will affect the population and demand...</span><span class="citation-popover-meta">Published: September 24, 2024</span></span></span>
 
 In contrast, **seasonal forecasts** achieve longer useful horizons precisely because the underlying signal itself behaves semi‑predictably. As a result:
 
 * **Medium‑term seasonal forecasts** (several weeks to months ahead) remain reliable as long as the season follows historically typical patterns.
-* **Adaptive ensemble methods**, which combine many forecasting models, further improve resilience by smoothing model‑specific errors and capturing a broader set of plausible futures when patterns repeat. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1014175&amp;rev=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">Forecastability of infectious disease time seriesHere we characterize a time series&#x27; future predictability using a forecastability me...</span></span></span>
+* **Adaptive ensemble methods**, which combine many forecasting models, further improve resilience by smoothing model‑specific errors and capturing a broader set of plausible futures when patterns repeat.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1014175&amp;rev=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">Forecastability of infectious disease time seriesHere we characterize a time series&#x27; future predictability using a forecastability me...</span></span></span>
 
 By leveraging historical cycles and combining diverse model perspectives, these ensembles can often beat individual models even on seasonal dynamics, reinforcing why seasonal disease forecasting is more robust than general [early warning]({{ 'early-warning/' | relative_url }}) for novel outbreaks.
 
@@ -318,199 +318,199 @@ By leveraging historical cycles and combining diverse model perspectives, these 
 
 Seasonal disease forecasting generally **outperforms novel outbreak prediction** because it builds on deep, structured historical signals rather than trying to extrapolate from an unknown start point. The regular periodicity of seasonal diseases and the rich volume of past data make them much more predictable in statistical terms. Novel pathogens, in contrast, break the core assumptions of forecasting models — they lack reliable patterns and often change in response to interventions and behavioural shifts.
 
-Understanding this distinction matters for both public health practice and broader narratives about AI’s role in pandemic preparedness: AI and models can provide substantial value for planning responses to recurring disease patterns, but expecting them to **predict the path of truly new pathogens early and with high confidence** is, given current data realities, fundamentally constrained by the available information rather than by algorithmic creativity alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13102302/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCForecastability of infectious disease time series</span><span class="citation-popover-snippet">NIHby LA White · 2026 · Cited by 2 — For infectious disease forecasting challenges, individual model performance typically varies a...</span></span></span>
+Understanding this distinction matters for both public health practice and broader narratives about AI’s role in pandemic preparedness: AI and models can provide substantial value for planning responses to recurring disease patterns, but expecting them to **predict the path of truly new pathogens early and with high confidence** is, given current data realities, fundamentally constrained by the available information rather than by algorithmic creativity alone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13102302/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCForecastability of infectious disease time series</span><span class="citation-popover-snippet">NIHby LA White · 2026 · Cited by 2 — For infectious disease forecasting challenges, individual model performance typically varies a...</span></span></span>
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_pandemic_fore_542374_seasonal_vs_n_3da149-Illustration-3-dark.svg" | relative_url }}" alt="Seasonal Limits illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_pandemic_fore_542374_seasonal_vs_n_3da149-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_pandemic_fore_542374_seasonal_vs_n_3da149-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Flu Models Work Better Than Novel Virus Warnings. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Flu Models Work Better Than Novel Virus Warnings. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Rules+of+Contagion+by+Adam+Kucharski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Rules of Contagion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=TmYtzQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Rules of Contagion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Rules+of+Contagion+by+Adam+Kucharski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Rules of Contagion">The Rules of Contagion</a>
-        </h4>
-        <p class="fr-book-author">By Adam Kucharski</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Rules+of+Contagion+by+Adam+Kucharski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Rules of Contagion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=TmYtzQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Rules of Contagion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Rules+of+Contagion+by+Adam+Kucharski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Rules of Contagion">The Rules of Contagion</a>
+</h4>
+<p class="fr-book-author">By Adam Kucharski</p>
         
-        <p class="fr-book-desc">Explains why recurring patterns are easier to model than novel outbreaks.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Rules+of+Contagion+by+Adam+Kucharski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why recurring patterns are easier to model than novel outbreaks.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Rules+of+Contagion+by+Adam+Kucharski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Spillover+by+David+Quammen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Spillover on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eNsuGQAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Spillover" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Spillover+by+David+Quammen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Spillover">Spillover</a>
-        </h4>
-        <p class="fr-book-author">By David Quammen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Spillover+by+David+Quammen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Spillover on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eNsuGQAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Spillover" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Spillover+by+David+Quammen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Spillover">Spillover</a>
+</h4>
+<p class="fr-book-author">By David Quammen</p>
         
-        <p class="fr-book-desc">Focuses on novel pathogens that challenge existing forecasting assumptions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Spillover+by+David+Quammen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on novel pathogens that challenge existing forecasting assumptions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Spillover+by+David+Quammen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Great+Influenza+by+John+M.+Barry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Great Influenza on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ceZvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Great Influenza" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Great+Influenza+by+John+M.+Barry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Great Influenza">The Great Influenza</a>
-        </h4>
-        <p class="fr-book-author">By John M. Barry</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Great+Influenza+by+John+M.+Barry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Great Influenza on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ceZvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Great Influenza" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Great+Influenza+by+John+M.+Barry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Great Influenza">The Great Influenza</a>
+</h4>
+<p class="fr-book-author">By John M. Barry</p>
         
-        <p class="fr-book-desc">Provides deep context on influenza and the predictability of recurring disease systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Great+Influenza+by+John+M.+Barry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides deep context on influenza and the predictability of recurring disease systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Great+Influenza+by+John+M.+Barry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Epidemics+and+Society+by+Frank+M.+Snowden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Epidemics and Society on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kBazDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Epidemics and Society" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Epidemics+and+Society+by+Frank+M.+Snowden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Epidemics and Society">Epidemics and Society</a>
-        </h4>
-        <p class="fr-book-author">By Frank M. Snowden</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Epidemics+and+Society+by+Frank+M.+Snowden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Epidemics and Society on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kBazDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Epidemics and Society" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Epidemics+and+Society+by+Frank+M.+Snowden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Epidemics and Society">Epidemics and Society</a>
+</h4>
+<p class="fr-book-author">By Frank M. Snowden</p>
         
-        <p class="fr-book-desc">Places seasonal and novel disease outbreaks in broader perspective.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Epidemics+and+Society+by+Frank+M.+Snowden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places seasonal and novel disease outbreaks in broader perspective.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Epidemics+and+Society+by+Frank+M.+Snowden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Rules+of+Contagion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Rules of Contagion</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Spillover&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Spillover</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Great+Influenza&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Great Influenza</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Rules+of+Contagion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Rules of Contagion</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Spillover&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Spillover</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Great+Influenza&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Great Influenza</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=virus+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=seasonal-limits-why-flu-models-work-better-than-novel-virus-warnings-ai-bloom-abundance-superint-virus-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="virus model" data-ebay-reference="seasonal-limits-why-flu-models-work-better-than-novel-virus-warnings-ai-bloom-abundance-superint-virus-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Resident Evil T-Virus LED Lamp Night light Glow in the Dark Collectible Model"><img src="{{ '/assets/images/marketplace-covers/dfdd7211d8248ab03a6a.jpg' | relative_url }}" alt="Listing image for Resident Evil T-Virus LED Lamp Night light Glow in the Dark Collectible Model" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=virus+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=seasonal-limits-why-flu-models-work-better-than-novel-virus-warnings-ai-bloom-abundance-superint-virus-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="virus model" data-ebay-reference="seasonal-limits-why-flu-models-work-better-than-novel-virus-warnings-ai-bloom-abundance-superint-virus-model" target="_blank" rel="sponsored noopener noreferrer">Resident Evil T-Virus LED Lamp Night light Glow in the Dark Collectible Model</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=virus+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=seasonal-limits-why-flu-models-work-better-than-novel-virus-warnings-ai-bloom-abundance-superint-virus-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="virus model" data-ebay-reference="seasonal-limits-why-flu-models-work-better-than-novel-virus-warnings-ai-bloom-abundance-superint-virus-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for virus model">Search <span data-ebay-domain-label>eBay.co.uk</span>: virus model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=virus+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=seasonal-limits-why-flu-models-work-better-than-novel-virus-warnings-ai-bloom-abundance-superint-virus-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="virus model" data-ebay-reference="seasonal-limits-why-flu-models-work-better-than-novel-virus-warnings-ai-bloom-abundance-superint-virus-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=virus+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=seasonal-limits-why-flu-models-work-better-than-novel-virus-warnings-ai-bloom-abundance-superint-virus-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="virus model" data-ebay-reference="seasonal-limits-why-flu-models-work-better-than-novel-virus-warnings-ai-bloom-abundance-superint-virus-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Resident Evil T-Virus LED Lamp Night light Glow in the Dark Collectible Model"><img src="{{ '/assets/images/marketplace-covers/dfdd7211d8248ab03a6a.jpg' | relative_url }}" alt="Listing image for Resident Evil T-Virus LED Lamp Night light Glow in the Dark Collectible Model" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=virus+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=seasonal-limits-why-flu-models-work-better-than-novel-virus-warnings-ai-bloom-abundance-superint-virus-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="virus model" data-ebay-reference="seasonal-limits-why-flu-models-work-better-than-novel-virus-warnings-ai-bloom-abundance-superint-virus-model" target="_blank" rel="sponsored noopener noreferrer">Resident Evil T-Virus LED Lamp Night light Glow in the Dark Collectible Model</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=virus+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=seasonal-limits-why-flu-models-work-better-than-novel-virus-warnings-ai-bloom-abundance-superint-virus-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="virus model" data-ebay-reference="seasonal-limits-why-flu-models-work-better-than-novel-virus-warnings-ai-bloom-abundance-superint-virus-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for virus model">Search<span data-ebay-domain-label>eBay.co.uk</span>: virus model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=virus+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=seasonal-limits-why-flu-models-work-better-than-novel-virus-warnings-ai-bloom-abundance-superint-virus-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="virus model" data-ebay-reference="seasonal-limits-why-flu-models-work-better-than-novel-virus-warnings-ai-bloom-abundance-superint-virus-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=virus+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=seasonal-limits-why-flu-models-work-better-than-novel-virus-warnings-ai-bloom-abundance-superint-virus-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="virus model" data-ebay-reference="seasonal-limits-why-flu-models-work-better-than-novel-virus-warnings-ai-bloom-abundance-superint-virus-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MVP Virus Disc Golf Disc Pink 172g Distance Driver Virus Model PDGA Approved"><img src="{{ '/assets/images/marketplace-covers/0e5766900d4d6133c2f8.jpg' | relative_url }}" alt="Listing image for MVP Virus Disc Golf Disc Pink 172g Distance Driver Virus Model PDGA Approved" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=virus+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=seasonal-limits-why-flu-models-work-better-than-novel-virus-warnings-ai-bloom-abundance-superint-virus-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="virus model" data-ebay-reference="seasonal-limits-why-flu-models-work-better-than-novel-virus-warnings-ai-bloom-abundance-superint-virus-model" target="_blank" rel="sponsored noopener noreferrer">MVP Virus Disc Golf Disc Pink 172g Distance Driver Virus Model PDGA Approved</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=virus+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=seasonal-limits-why-flu-models-work-better-than-novel-virus-warnings-ai-bloom-abundance-superint-virus-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="virus model" data-ebay-reference="seasonal-limits-why-flu-models-work-better-than-novel-virus-warnings-ai-bloom-abundance-superint-virus-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for virus model">Search <span data-ebay-domain-label>eBay.co.uk</span>: virus model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=virus+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=seasonal-limits-why-flu-models-work-better-than-novel-virus-warnings-ai-bloom-abundance-superint-virus-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="virus model" data-ebay-reference="seasonal-limits-why-flu-models-work-better-than-novel-virus-warnings-ai-bloom-abundance-superint-virus-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=virus+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=seasonal-limits-why-flu-models-work-better-than-novel-virus-warnings-ai-bloom-abundance-superint-virus-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="virus model" data-ebay-reference="seasonal-limits-why-flu-models-work-better-than-novel-virus-warnings-ai-bloom-abundance-superint-virus-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MVP Virus Disc Golf Disc Pink 172g Distance Driver Virus Model PDGA Approved"><img src="{{ '/assets/images/marketplace-covers/0e5766900d4d6133c2f8.jpg' | relative_url }}" alt="Listing image for MVP Virus Disc Golf Disc Pink 172g Distance Driver Virus Model PDGA Approved" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=virus+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=seasonal-limits-why-flu-models-work-better-than-novel-virus-warnings-ai-bloom-abundance-superint-virus-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="virus model" data-ebay-reference="seasonal-limits-why-flu-models-work-better-than-novel-virus-warnings-ai-bloom-abundance-superint-virus-model" target="_blank" rel="sponsored noopener noreferrer">MVP Virus Disc Golf Disc Pink 172g Distance Driver Virus Model PDGA Approved</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=virus+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=seasonal-limits-why-flu-models-work-better-than-novel-virus-warnings-ai-bloom-abundance-superint-virus-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="virus model" data-ebay-reference="seasonal-limits-why-flu-models-work-better-than-novel-virus-warnings-ai-bloom-abundance-superint-virus-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for virus model">Search<span data-ebay-domain-label>eBay.co.uk</span>: virus model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=virus+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=seasonal-limits-why-flu-models-work-better-than-novel-virus-warnings-ai-bloom-abundance-superint-virus-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="virus model" data-ebay-reference="seasonal-limits-why-flu-models-work-better-than-novel-virus-warnings-ai-bloom-abundance-superint-virus-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=virus+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=seasonal-limits-why-flu-models-work-better-than-novel-virus-warnings-ai-bloom-abundance-superint-virus-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="virus model" data-ebay-reference="seasonal-limits-why-flu-models-work-better-than-novel-virus-warnings-ai-bloom-abundance-superint-virus-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Figure Man Virus Thermometer Hazmat Crew Mask Painted Diorama 1:24 Scale Model"><img src="{{ '/assets/images/marketplace-covers/23f626484455964245a1.jpg' | relative_url }}" alt="Listing image for Figure Man Virus Thermometer Hazmat Crew Mask Painted Diorama 1:24 Scale Model" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=virus+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=seasonal-limits-why-flu-models-work-better-than-novel-virus-warnings-ai-bloom-abundance-superint-virus-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="virus model" data-ebay-reference="seasonal-limits-why-flu-models-work-better-than-novel-virus-warnings-ai-bloom-abundance-superint-virus-model" target="_blank" rel="sponsored noopener noreferrer">Figure Man Virus Thermometer Hazmat Crew Mask Painted Diorama 1:24 Scale Model</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=virus+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=seasonal-limits-why-flu-models-work-better-than-novel-virus-warnings-ai-bloom-abundance-superint-virus-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="virus model" data-ebay-reference="seasonal-limits-why-flu-models-work-better-than-novel-virus-warnings-ai-bloom-abundance-superint-virus-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for virus model">Search <span data-ebay-domain-label>eBay.co.uk</span>: virus model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=virus+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=seasonal-limits-why-flu-models-work-better-than-novel-virus-warnings-ai-bloom-abundance-superint-virus-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="virus model" data-ebay-reference="seasonal-limits-why-flu-models-work-better-than-novel-virus-warnings-ai-bloom-abundance-superint-virus-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=virus+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=seasonal-limits-why-flu-models-work-better-than-novel-virus-warnings-ai-bloom-abundance-superint-virus-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="virus model" data-ebay-reference="seasonal-limits-why-flu-models-work-better-than-novel-virus-warnings-ai-bloom-abundance-superint-virus-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Figure Man Virus Thermometer Hazmat Crew Mask Painted Diorama 1:24 Scale Model"><img src="{{ '/assets/images/marketplace-covers/23f626484455964245a1.jpg' | relative_url }}" alt="Listing image for Figure Man Virus Thermometer Hazmat Crew Mask Painted Diorama 1:24 Scale Model" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=virus+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=seasonal-limits-why-flu-models-work-better-than-novel-virus-warnings-ai-bloom-abundance-superint-virus-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="virus model" data-ebay-reference="seasonal-limits-why-flu-models-work-better-than-novel-virus-warnings-ai-bloom-abundance-superint-virus-model" target="_blank" rel="sponsored noopener noreferrer">Figure Man Virus Thermometer Hazmat Crew Mask Painted Diorama 1:24 Scale Model</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=virus+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=seasonal-limits-why-flu-models-work-better-than-novel-virus-warnings-ai-bloom-abundance-superint-virus-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="virus model" data-ebay-reference="seasonal-limits-why-flu-models-work-better-than-novel-virus-warnings-ai-bloom-abundance-superint-virus-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for virus model">Search<span data-ebay-domain-label>eBay.co.uk</span>: virus model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=virus+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=seasonal-limits-why-flu-models-work-better-than-novel-virus-warnings-ai-bloom-abundance-superint-virus-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="virus model" data-ebay-reference="seasonal-limits-why-flu-models-work-better-than-novel-virus-warnings-ai-bloom-abundance-superint-virus-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=virus+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=seasonal-limits-why-flu-models-work-better-than-novel-virus-warnings-ai-bloom-abundance-superint-virus-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="virus model" data-ebay-reference="seasonal-limits-why-flu-models-work-better-than-novel-virus-warnings-ai-bloom-abundance-superint-virus-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Coronavirus COVID Virus Model Sculpture Pandemic Pathogen - Pick Size, Color"><img src="{{ '/assets/images/marketplace-covers/1c534a3aea1094228159.jpg' | relative_url }}" alt="Listing image for Coronavirus COVID Virus Model Sculpture Pandemic Pathogen - Pick Size, Color" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=virus+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=seasonal-limits-why-flu-models-work-better-than-novel-virus-warnings-ai-bloom-abundance-superint-virus-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="virus model" data-ebay-reference="seasonal-limits-why-flu-models-work-better-than-novel-virus-warnings-ai-bloom-abundance-superint-virus-model" target="_blank" rel="sponsored noopener noreferrer">Coronavirus COVID Virus Model Sculpture Pandemic Pathogen - Pick Size, Color</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=virus+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=seasonal-limits-why-flu-models-work-better-than-novel-virus-warnings-ai-bloom-abundance-superint-virus-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="virus model" data-ebay-reference="seasonal-limits-why-flu-models-work-better-than-novel-virus-warnings-ai-bloom-abundance-superint-virus-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for virus model">Search <span data-ebay-domain-label>eBay.co.uk</span>: virus model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=virus+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=seasonal-limits-why-flu-models-work-better-than-novel-virus-warnings-ai-bloom-abundance-superint-virus-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="virus model" data-ebay-reference="seasonal-limits-why-flu-models-work-better-than-novel-virus-warnings-ai-bloom-abundance-superint-virus-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=virus+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=seasonal-limits-why-flu-models-work-better-than-novel-virus-warnings-ai-bloom-abundance-superint-virus-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="virus model" data-ebay-reference="seasonal-limits-why-flu-models-work-better-than-novel-virus-warnings-ai-bloom-abundance-superint-virus-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=virus+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=seasonal-limits-why-flu-models-work-better-than-novel-virus-warnings-ai-bloom-abundance-superint-virus-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="virus model" data-ebay-reference="seasonal-limits-why-flu-models-work-better-than-novel-virus-warnings-ai-bloom-abundance-superint-virus-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Coronavirus COVID Virus Model Sculpture Pandemic Pathogen - Pick Size, Color"><img src="{{ '/assets/images/marketplace-covers/1c534a3aea1094228159.jpg' | relative_url }}" alt="Listing image for Coronavirus COVID Virus Model Sculpture Pandemic Pathogen - Pick Size, Color" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=virus+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=seasonal-limits-why-flu-models-work-better-than-novel-virus-warnings-ai-bloom-abundance-superint-virus-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="virus model" data-ebay-reference="seasonal-limits-why-flu-models-work-better-than-novel-virus-warnings-ai-bloom-abundance-superint-virus-model" target="_blank" rel="sponsored noopener noreferrer">Coronavirus COVID Virus Model Sculpture Pandemic Pathogen - Pick Size, Color</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=virus+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=seasonal-limits-why-flu-models-work-better-than-novel-virus-warnings-ai-bloom-abundance-superint-virus-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="virus model" data-ebay-reference="seasonal-limits-why-flu-models-work-better-than-novel-virus-warnings-ai-bloom-abundance-superint-virus-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for virus model">Search<span data-ebay-domain-label>eBay.co.uk</span>: virus model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=virus+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=seasonal-limits-why-flu-models-work-better-than-novel-virus-warnings-ai-bloom-abundance-superint-virus-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="virus model" data-ebay-reference="seasonal-limits-why-flu-models-work-better-than-novel-virus-warnings-ai-bloom-abundance-superint-virus-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=virus+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=seasonal-limits-why-flu-models-work-better-than-novel-virus-warnings-ai-bloom-abundance-superint-virus-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="virus model" data-ebay-reference="seasonal-limits-why-flu-models-work-better-than-novel-virus-warnings-ai-bloom-abundance-superint-virus-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -526,7 +526,7 @@ Understanding this distinction matters for both public health practice and broad
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -546,7 +546,7 @@ Understanding this distinction matters for both public health practice and broad
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -578,7 +578,7 @@ Understanding this distinction matters for both public health practice and broad
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -630,7 +630,7 @@ Understanding this distinction matters for both public health practice and broad
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -675,7 +675,7 @@ Understanding this distinction matters for both public health practice and broad
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -716,133 +716,133 @@ Understanding this distinction matters for both public health practice and broad
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCForecastability of infectious disease time series  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13102302/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC13102302/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby LA White · 2026 · Cited by 2 — For infectious disease forecasting challenges, individual model performance typically varies a...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13102302/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC13102302/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby LA White · 2026 · Cited by 2 — For infectious disease forecasting challenges, individual model performance typically varies a...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Forecasting" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Forecasting</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Forecasting" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Forecasting</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: journals.plos.org  
-   Link: <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1014175&amp;rev=1" target="_blank" rel="noopener noreferrer nofollow">https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1014175&amp;rev=1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Forecastability of infectious disease time seriesHere we characterize a time series&#x27; future predictability using a forecastability me...</p></details>
+   Link:<a href="https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1014175&amp;rev=1" target="_blank" rel="noopener noreferrer nofollow">https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1014175&amp;rev=1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Forecastability of infectious disease time seriesHere we characterize a time series&#x27; future predictability using a forecastability me...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCInfluenza Forecasting in Human Populations: A Scoping Review  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3979760/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3979760/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>April 8, 2014...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3979760/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3979760/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>April 8, 2014...</p></details>
    Published: April 8, 2014  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: astho.org  
    Title: Defining Disease Forecasting and Modeling  
-   Link: <a href="https://www.astho.org/49ac5a/globalassets/brief/defining-disease-forecasting-and-modeling.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.astho.org/49ac5a/globalassets/brief/defining-disease-forecasting-and-modeling.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>September 24, 2024 — Disease forecasting is important in describing potential future outbreaks that will affect the population and demand...</p></details>
+   Link:<a href="https://www.astho.org/49ac5a/globalassets/brief/defining-disease-forecasting-and-modeling.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.astho.org/49ac5a/globalassets/brief/defining-disease-forecasting-and-modeling.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>September 24, 2024 — Disease forecasting is important in describing potential future outbreaks that will affect the population and demand...</p></details>
    Published: September 24, 2024  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: journals.plos.org  
-   Link: <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1005801" target="_blank" rel="noopener noreferrer nofollow">https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1005801</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Individual versus superensemble forecasts of seasonal influenza outbreaks in the United States | PLOS Computational BiologyNovember 6...</p></details>
+   Link:<a href="https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1005801" target="_blank" rel="noopener noreferrer nofollow">https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1005801</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Individual versus superensemble forecasts of seasonal influenza outbreaks in the United States | PLOS Computational BiologyNovember 6...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41467-017-01033-1" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41467-017-01033-1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>October 13, 2017 — Counteracting structural errors in ensemble forecast of influenza outbreaks Download PDF Download PDF * Article * Open...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41467-017-01033-1" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41467-017-01033-1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>October 13, 2017 — Counteracting structural errors in ensemble forecast of influenza outbreaks Download PDF Download PDF * Article * Open...</p></details>
    Published: October 13, 2017  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: journals.plos.org  
-   Link: <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1014175" target="_blank" rel="noopener noreferrer nofollow">https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1014175</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>of infectious disease time seriesby LA White · 2026 · Cited by 2 — Forecastability increased with increasing population size of the forec...</p></details>
+   Link:<a href="https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1014175" target="_blank" rel="noopener noreferrer nofollow">https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1014175</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of infectious disease time seriesby LA White · 2026 · Cited by 2 — Forecastability increased with increasing population size of the forec...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41598-024-63573-z" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-024-63573-z</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Predicting seasonal influenza outbreaks with regime shift...by M Kim · 2024 · Cited by 2 — In this study, we propose a novel approach th...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41598-024-63573-z" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-024-63573-z</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Predicting seasonal influenza outbreaks with regime shift...by M Kim · 2024 · Cited by 2 — In this study, we propose a novel approach th...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
    Title: Pub Med Forecasting seasonal outbreaks of influenza  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/23184969/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/23184969/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Forecasting seasonal outbreaks of influenza - PubMedDecember 11, 2012...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/23184969/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/23184969/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Forecasting seasonal outbreaks of influenza - PubMedDecember 11, 2012...</p></details>
    Published: December 11, 2012  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
    Title: Seasonal outbreaks of influe  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/30647115/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/30647115/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>collaborative multiyear, multimodel assessment of seasonal influenza forecasting in the United States - PubMedFebruary 19, 2019 — ABSTRAC...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/30647115/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/30647115/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>collaborative multiyear, multimodel assessment of seasonal influenza forecasting in the United States - PubMedFebruary 19, 2019 — ABSTRAC...</p></details>
    Published: February 19, 2019  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/41984926/?fc=20230823191336&amp;ff=20260416112902&amp;v=2.19.0.post6+133c1fe" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/41984926/?fc=20230823191336&amp;ff=20260416112902&amp;v=2.19.0.post6+133c1fe</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of infectious disease time series15 Apr 2026 — Forecastability increased with increasing population size of the forecasting target, and f...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/41984926/?fc=20230823191336&amp;ff=20260416112902&amp;v=2.19.0.post6+133c1fe" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/41984926/?fc=20230823191336&amp;ff=20260416112902&amp;v=2.19.0.post6+133c1fe</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of infectious disease time series15 Apr 2026 — Forecastability increased with increasing population size of the forecasting target, and f...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: documents.ncsl.org  
    Title: Disease Forecasting  
-   Link: <a href="https://documents.ncsl.org/wwwncsl/Health/Disease-Forecasting.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.ncsl.org/wwwncsl/Health/Disease-Forecasting.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Forecasting Tools Can Support Policymaking...During infectious disease outbreaks, policymakers need to make de- cisions quickly to preve...</p></details>
+   Link:<a href="https://documents.ncsl.org/wwwncsl/Health/Disease-Forecasting.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.ncsl.org/wwwncsl/Health/Disease-Forecasting.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Forecasting Tools Can Support Policymaking...During infectious disease outbreaks, policymakers need to make de- cisions quickly to preve...</p></details>
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: applications.emro.who.int  
-   Link: <a href="https://applications.emro.who.int/docs/em_RC46_8_en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://applications.emro.who.int/docs/em_RC46_8_en.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>IN COMMUNICABLE DISEASESForecasting has been used to predict epidemics to project incidence and mortality of specific diseases, to select...</p></details>
+   Link:<a href="https://applications.emro.who.int/docs/em_RC46_8_en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://applications.emro.who.int/docs/em_RC46_8_en.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>IN COMMUNICABLE DISEASESForecasting has been used to predict epidemics to project incidence and mortality of specific diseases, to select...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/391334200_Forecastability_of_infectious_disease_time_series_are_some_seasons_and_pathogens_intrinsically_more_difficult_to_forecast" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391334200_Forecastability_of_infectious_disease_time_series_are_some_seasons_and_pathogens_intrinsically_more_difficult_to_forecast</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Forecastability of infectious disease time seriesForecastability increased with increasing population size of the forecasting targe...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/391334200_Forecastability_of_infectious_disease_time_series_are_some_seasons_and_pathogens_intrinsically_more_difficult_to_forecast" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391334200_Forecastability_of_infectious_disease_time_series_are_some_seasons_and_pathogens_intrinsically_more_difficult_to_forecast</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Forecastability of infectious disease time seriesForecastability increased with increasing population size of the forecasting targe...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/383874211_Improving_Seasonal_Influenza_Forecasting_Using_Time_Series_Machine_Learning_Techniques" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/383874211_Improving_Seasonal_Influenza_Forecasting_Using_Time_Series_Machine_Learning_Techniques</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Improving Seasonal Influenza Forecasting Using Time...9 Sept 2024 — This study compares the accuracy of the XGBoost model with ARIMA and...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/383874211_Improving_Seasonal_Influenza_Forecasting_Using_Time_Series_Machine_Learning_Techniques" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/383874211_Improving_Seasonal_Influenza_Forecasting_Using_Time_Series_Machine_Learning_Techniques</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Improving Seasonal Influenza Forecasting Using Time...9 Sept 2024 — This study compares the accuracy of the XGBoost model with ARIMA and...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: sciety.org  
-   Link: <a href="https://sciety.org/articles/activity/10.1101/2025.04.29.25326677" target="_blank" rel="noopener noreferrer nofollow">https://sciety.org/articles/activity/10.1101/2025.04.29.25326677</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ScietyApril 30, 2025 — FORECASTABILITY OF INFECTIOUS DISEASE TIME SERIES: ARE SOME SEASONS AND PATHOGENS INTRINSICALLY MORE DIFFICULT T...</p></details>
+   Link:<a href="https://sciety.org/articles/activity/10.1101/2025.04.29.25326677" target="_blank" rel="noopener noreferrer nofollow">https://sciety.org/articles/activity/10.1101/2025.04.29.25326677</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ScietyApril 30, 2025 — FORECASTABILITY OF INFECTIOUS DISEASE TIME SERIES: ARE SOME SEASONS AND PATHOGENS INTRINSICALLY MORE DIFFICULT T...</p></details>
    Published: April 30, 2025  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: medrxiv.org  
-   Link: <a href="https://www.medrxiv.org/content/10.1101/2025.04.29.25326677v2" target="_blank" rel="noopener noreferrer nofollow">https://www.medrxiv.org/content/10.1101/2025.04.29.25326677v2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>medRxivSeptember 9, 2025 — FORECASTABILITY OF INFECTIOUS DISEASE TIME SERIES: ARE SOME SEASONS AND PATHOGENS INTRINSICALLY MORE DIFFICU...</p></details>
+   Link:<a href="https://www.medrxiv.org/content/10.1101/2025.04.29.25326677v2" target="_blank" rel="noopener noreferrer nofollow">https://www.medrxiv.org/content/10.1101/2025.04.29.25326677v2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>medRxivSeptember 9, 2025 — FORECASTABILITY OF INFECTIOUS DISEASE TIME SERIES: ARE SOME SEASONS AND PATHOGENS INTRINSICALLY MORE DIFFICU...</p></details>
    Published: September 9, 2025  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: medrxiv.org  
-   Link: <a href="https://www.medrxiv.org/content/10.1101/2025.07.20.25331802v1.full-text" target="_blank" rel="noopener noreferrer nofollow">https://www.medrxiv.org/content/10.1101/2025.07.20.25331802v1.full-text</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>They acquire value through their ability to influence decisions made by users of the forecasts [1].” Allan H. Murphy Infectious disease f...</p></details>
+   Link:<a href="https://www.medrxiv.org/content/10.1101/2025.07.20.25331802v1.full-text" target="_blank" rel="noopener noreferrer nofollow">https://www.medrxiv.org/content/10.1101/2025.07.20.25331802v1.full-text</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>They acquire value through their ability to influence decisions made by users of the forecasts [1].” Allan H. Murphy Infectious disease f...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: pnas.org  
-   Link: <a href="https://www.pnas.org/doi/10.1073/pnas.2508575122" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/10.1073/pnas.2508575122</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Improving outbreak forecasts through model augmentationAccurate forecasts of disease outbreaks are critical for effective public health r...</p></details>
+   Link:<a href="https://www.pnas.org/doi/10.1073/pnas.2508575122" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/10.1073/pnas.2508575122</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Improving outbreak forecasts through model augmentationAccurate forecasts of disease outbreaks are critical for effective public health r...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: medrxiv.org  
-   Link: <a href="https://www.medrxiv.org/content/10.1101/2024.06.24.24309416v2.full-text" target="_blank" rel="noopener noreferrer nofollow">https://www.medrxiv.org/content/10.1101/2024.06.24.24309416v2.full-text</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Multi-model ensembles in infectious disease and public health: Methods, interpretation, and implementation in R | medRxivMay 5, 2025 — 2...</p></details>
+   Link:<a href="https://www.medrxiv.org/content/10.1101/2024.06.24.24309416v2.full-text" target="_blank" rel="noopener noreferrer nofollow">https://www.medrxiv.org/content/10.1101/2024.06.24.24309416v2.full-text</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Multi-model ensembles in infectious disease and public health: Methods, interpretation, and implementation in R | medRxivMay 5, 2025 — 2...</p></details>
    Published: May 5, 2025  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: medrxiv.org  
-   Link: <a href="https://www.medrxiv.org/content/10.64898/2026.05.11.26352889v1.full" target="_blank" rel="noopener noreferrer nofollow">https://www.medrxiv.org/content/10.64898/2026.05.11.26352889v1.full</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>From naive to foundation: benchmarking models for epidemic forecasting | medRxivMay 13, 2026 — FROM NAIVE TO FOUNDATION: BENCHMARKING MOD...</p></details>
+   Link:<a href="https://www.medrxiv.org/content/10.64898/2026.05.11.26352889v1.full" target="_blank" rel="noopener noreferrer nofollow">https://www.medrxiv.org/content/10.64898/2026.05.11.26352889v1.full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>From naive to foundation: benchmarking models for epidemic forecasting | medRxivMay 13, 2026 — FROM NAIVE TO FOUNDATION: BENCHMARKING MOD...</p></details>
    Published: May 13, 2026  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: medrxiv.org  
-   Link: <a href="https://www.medrxiv.org/content/10.1101/2023.06.29.23291793.full" target="_blank" rel="noopener noreferrer nofollow">https://www.medrxiv.org/content/10.1101/2023.06.29.23291793.full</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Therefore, early warning of the timing and magnitude of peak activity during seasonal epidemics can provide i...</p></details>
+   Link:<a href="https://www.medrxiv.org/content/10.1101/2023.06.29.23291793.full" target="_blank" rel="noopener noreferrer nofollow">https://www.medrxiv.org/content/10.1101/2023.06.29.23291793.full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Therefore, early warning of the timing and magnitude of peak activity during seasonal epidemics can provide i...</p></details>

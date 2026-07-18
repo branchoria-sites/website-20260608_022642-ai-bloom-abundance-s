@@ -272,11 +272,11 @@ image: /assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_mattergen_inv_cb
 AI systems such as MatterGen are often presented as a glimpse of a future where new materials can be designed almost to order: batteries with higher [energy]({{ 'energy/' | relative_url }}) density, catalysts that cut industrial emissions, magnets that avoid scarce minerals, or entirely new classes of electronic materials. But there is a crucial distinction between generating a promising crystal on a computer and creating a useful material in the physical world.
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_mattergen_inv_cb7e85_ai_materials_c8b892-Illustration-1-dark.svg" | relative_url }}" alt="Lab Test illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_mattergen_inv_cb7e85_ai_materials_c8b892-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_mattergen_inv_cb7e85_ai_materials_c8b892-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The central question is not whether AI can propose novel structures. It clearly can. The harder question is whether those structures survive contact with chemistry, manufacturing constraints and experimental reality. MatterGen's importance lies partly in showing that generative AI can produce plausible candidates rather than merely screen known materials. Yet the real test remains synthesis, [validation]({{ 'validation/' | relative_url }}) and performance under laboratory conditions. For the broader AI bloom vision of scientific acceleration, this distinction matters enormously. A world transformed by AI-driven [discovery]({{ 'discovery/' | relative_url }}) depends not on attractive simulations but on discoveries that can actually be made, measured and deployed. Nature <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/39821164/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">A generative model for inorganic materials designby C Zeni · 2025 · Cited by 633 — After fine-tuning, MatterGen successfully genera...</span></span></span>
+The central question is not whether AI can propose novel structures. It clearly can. The harder question is whether those structures survive contact with chemistry, manufacturing constraints and experimental reality. MatterGen's importance lies partly in showing that generative AI can produce plausible candidates rather than merely screen known materials. Yet the real test remains synthesis, [validation]({{ 'validation/' | relative_url }}) and performance under laboratory conditions. For the broader AI bloom vision of scientific acceleration, this distinction matters enormously. A world transformed by AI-driven [discovery]({{ 'discovery/' | relative_url }}) depends not on attractive simulations but on discoveries that can actually be made, measured and deployed. Nature<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/39821164/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">A generative model for inorganic materials designby C Zeni · 2025 · Cited by 633 — After fine-tuning, MatterGen successfully genera...</span></span></span>
 
 ## Why generated crystals are only hypotheses
 
-MatterGen generates candidate crystal structures that satisfy desired constraints, such as magnetic, mechanical or electronic properties. These outputs are not products, prototypes or verified discoveries. They are hypotheses about how atoms might be arranged. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-025-08628-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">A generative model for inorganic materials designby C Zeni · 2025 · Cited by 633 — We present MatterGen, a model that generates sta...</span></span></span>
+MatterGen generates candidate crystal structures that satisfy desired constraints, such as magnetic, mechanical or electronic properties. These outputs are not products, prototypes or verified discoveries. They are hypotheses about how atoms might be arranged.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-025-08628-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">A generative model for inorganic materials designby C Zeni · 2025 · Cited by 633 — We present MatterGen, a model that generates sta...</span></span></span>
 
 Even when a generated structure appears stable in computation, several layers of uncertainty remain:
 
@@ -290,7 +290,7 @@ Even when a generated structure appears stable in computation, several layers of
 
 </div>
 
-Materials science has long relied on computational predictions. What generative systems change is the scale and novelty of the search. MatterGen can produce structures that do not appear in existing databases and that human researchers might never have proposed. That is valuable because it expands the space of possibilities. But novelty also increases uncertainty. The further researchers move from known chemical families, the less experience exists to guide synthesis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-025-08628-5_reference.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">A generative model for inorganic materials designby C Zeni · 2025 · Cited by 633 — After fine-tuning, MatterGen suc- cessfully generates...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2312.03687" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Matter Gen: a generative model for inorganic materials design</span><span class="citation-popover-snippet">arXiv Matter Gen: a generative model for inorganic materials design</span></span></span>
+Materials science has long relied on computational predictions. What generative systems change is the scale and novelty of the search. MatterGen can produce structures that do not appear in existing databases and that human researchers might never have proposed. That is valuable because it expands the space of possibilities. But novelty also increases uncertainty. The further researchers move from known chemical families, the less experience exists to guide synthesis.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-025-08628-5_reference.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">A generative model for inorganic materials designby C Zeni · 2025 · Cited by 633 — After fine-tuning, MatterGen suc- cessfully generates...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2312.03687" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Matter Gen: a generative model for inorganic materials design</span><span class="citation-popover-snippet">arXiv Matter Gen: a generative model for inorganic materials design</span></span></span>
 
 This is one reason researchers often describe AI-generated materials as candidates rather than discoveries. A generated crystal is closer to a promising lead than a finished result.
 
@@ -316,9 +316,9 @@ Researchers must determine:
 
 </div>
 
-This is often where theoretical proposals fail. A material may exist in principle while remaining impractical to manufacture reliably. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/an-ai-dreamed-up-380000-new-materials-the-next-challenge-is-making-them" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Google Deep Mind&#x27;s AI Dreamed Up 380,000 New Materials</span><span class="citation-popover-snippet">The Next Challenge Is Making ThemNovember 29, 2023 — Google DeepMind developed an AI program, GNoME, which has predicted 380,000 new stab...</span><span class="citation-popover-meta">Published: November 29, 2023</span></span></span>
+This is often where theoretical proposals fail. A material may exist in principle while remaining impractical to manufacture reliably.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/an-ai-dreamed-up-380000-new-materials-the-next-challenge-is-making-them" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Google Deep Mind&#x27;s AI Dreamed Up 380,000 New Materials</span><span class="citation-popover-snippet">The Next Challenge Is Making ThemNovember 29, 2023 — Google DeepMind developed an AI program, GNoME, which has predicted 380,000 new stab...</span><span class="citation-popover-meta">Published: November 29, 2023</span></span></span>
 
-The challenge becomes even harder for complex compounds involving many elements. As the number of interacting components rises, so does the difficulty of finding a workable synthesis recipe. Human intuition becomes less reliable, but physical experimentation remains unavoidable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/an-ai-dreamed-up-380000-new-materials-the-next-challenge-is-making-them" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Google Deep Mind&#x27;s AI Dreamed Up 380,000 New Materials</span><span class="citation-popover-snippet">The Next Challenge Is Making ThemNovember 29, 2023 — Google DeepMind developed an AI program, GNoME, which has predicted 380,000 new stab...</span><span class="citation-popover-meta">Published: November 29, 2023</span></span></span>
+The challenge becomes even harder for complex compounds involving many elements. As the number of interacting components rises, so does the difficulty of finding a workable synthesis recipe. Human intuition becomes less reliable, but physical experimentation remains unavoidable.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/an-ai-dreamed-up-380000-new-materials-the-next-challenge-is-making-them" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Google Deep Mind&#x27;s AI Dreamed Up 380,000 New Materials</span><span class="citation-popover-snippet">The Next Challenge Is Making ThemNovember 29, 2023 — Google DeepMind developed an AI program, GNoME, which has predicted 380,000 new stab...</span><span class="citation-popover-meta">Published: November 29, 2023</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/QWjzHJHh_fw" title="Can AI Create Materials That Never Existed?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=QWjzHJHh_fw" target="_blank" rel="noopener noreferrer">Can AI Create Materials That Never Existed?</a></p><p class="youtube-embed-meta">Channel: Agents of Tech &middot; Views: 207.9K &middot; Uploaded: May 2026 &middot; Length: 27 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=QWjzHJHh_fw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=QWjzHJHh_fw">Open on YouTube</a></p></div></div></div>
 
@@ -328,7 +328,7 @@ Even if synthesis succeeds, researchers must verify that the resulting crystal a
 
 Techniques such as X-ray diffraction, electron microscopy and spectroscopy are used to check whether the produced material matches the computational design. Small structural deviations can dramatically alter behaviour.
 
-A generated structure may therefore pass the synthesis test while failing the validation test. The lab-created material exists, but not in the form the model intended. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S259023852400242X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Has generative artificial intelligence solved inverse...by H Park · 2024 · Cited by 96 — We provide a perspective on progre...</span></span></span>
+A generated structure may therefore pass the synthesis test while failing the validation test. The lab-created material exists, but not in the form the model intended.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S259023852400242X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Has generative artificial intelligence solved inverse...by H Park · 2024 · Cited by 96 — We provide a perspective on progre...</span></span></span>
 
 ### Does it deliver the promised property?
 
@@ -338,18 +338,18 @@ A battery material must improve battery performance. A catalyst must accelerate 
 
 This sounds obvious, but it is where many computational predictions encounter reality. Real materials contain defects, grain boundaries, contamination and manufacturing variations that are difficult to model perfectly. Predicted performance can therefore diverge significantly from measured performance.
 
-For practical technologies, success often depends not only on a material's intrinsic properties but on how it interacts with neighbouring materials inside a larger system. A promising electrolyte, for example, may react badly with other battery components and become unusable despite excellent standalone predictions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/an-ai-dreamed-up-380000-new-materials-the-next-challenge-is-making-them" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Google Deep Mind&#x27;s AI Dreamed Up 380,000 New Materials</span><span class="citation-popover-snippet">The Next Challenge Is Making ThemNovember 29, 2023 — Google DeepMind developed an AI program, GNoME, which has predicted 380,000 new stab...</span><span class="citation-popover-meta">Published: November 29, 2023</span></span></span>
+For practical technologies, success often depends not only on a material's intrinsic properties but on how it interacts with neighbouring materials inside a larger system. A promising electrolyte, for example, may react badly with other battery components and become unusable despite excellent standalone predictions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/an-ai-dreamed-up-380000-new-materials-the-next-challenge-is-making-them" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Google Deep Mind&#x27;s AI Dreamed Up 380,000 New Materials</span><span class="citation-popover-snippet">The Next Challenge Is Making ThemNovember 29, 2023 — Google DeepMind developed an AI program, GNoME, which has predicted 380,000 new stab...</span><span class="citation-popover-meta">Published: November 29, 2023</span></span></span>
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_mattergen_inv_cb7e85_ai_materials_c8b892-Illustration-2-dark.svg" | relative_url }}" alt="Lab Test illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_mattergen_inv_cb7e85_ai_materials_c8b892-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_mattergen_inv_cb7e85_ai_materials_c8b892-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## MatterGen's proof of principle is encouraging but limited
 
 The strongest evidence that MatterGen is more than a theoretical exercise comes from experimental validation.
 
-In the Nature paper describing the system, the researchers synthesised one material generated by MatterGen and measured a target property. The measured value came within roughly 20% of the intended target. This does not prove that the model can routinely design commercially useful materials, but it does demonstrate that at least some generated candidates can survive the transition from computation to experiment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/39821164/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">A generative model for inorganic materials designby C Zeni · 2025 · Cited by 633 — After fine-tuning, MatterGen successfully genera...</span></span></span>
+In the Nature paper describing the system, the researchers synthesised one material generated by MatterGen and measured a target property. The measured value came within roughly 20% of the intended target. This does not prove that the model can routinely design commercially useful materials, but it does demonstrate that at least some generated candidates can survive the transition from computation to experiment.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/39821164/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">A generative model for inorganic materials designby C Zeni · 2025 · Cited by 633 — After fine-tuning, MatterGen successfully genera...</span></span></span>
 
 That result matters because [inverse design]({{ 'inverse-design/' | relative_url }}) systems face a tougher challenge than ordinary prediction models. They are not merely estimating the behaviour of known materials. They are proposing structures that may never have existed before.
 
-The successful synthesis therefore serves as a proof of principle that generative models can produce physically realisable candidates rather than only mathematically plausible ones. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/39821164/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">A generative model for inorganic materials designby C Zeni · 2025 · Cited by 633 — After fine-tuning, MatterGen successfully genera...</span></span></span>
+The successful synthesis therefore serves as a proof of principle that generative models can produce physically realisable candidates rather than only mathematically plausible ones.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/39821164/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">A generative model for inorganic materials designby C Zeni · 2025 · Cited by 633 — After fine-tuning, MatterGen successfully genera...</span></span></span>
 
 Yet one successful demonstration should not be confused with industrial readiness.
 
@@ -363,228 +363,228 @@ The gap between scientific possibility and widespread application remains substa
 
 One of the most important implications of systems like MatterGen is that they may move the bottleneck rather than eliminate it.
 
-Historically, discovering candidate materials was often the slow step. AI can generate candidates much faster than human researchers can evaluate them. This creates a new challenge: testing enough proposals to identify genuinely useful ones. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-025-08628-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">A generative model for inorganic materials designby C Zeni · 2025 · Cited by 633 — We present MatterGen, a model that generates sta...</span></span></span>
+Historically, discovering candidate materials was often the slow step. AI can generate candidates much faster than human researchers can evaluate them. This creates a new challenge: testing enough proposals to identify genuinely useful ones.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-025-08628-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">A generative model for inorganic materials designby C Zeni · 2025 · Cited by 633 — We present MatterGen, a model that generates sta...</span></span></span>
 
-The experience of Google's GNoME project illustrates this problem. GNoME predicted hundreds of thousands of potentially stable materials. Yet only a tiny fraction can be synthesised and characterised in laboratories. Researchers at Lawrence Berkeley National Laboratory used an autonomous experimental platform known as A-Lab to test a subset of these predictions. Out of 58 selected candidates, 41 were successfully synthesised after repeated experimentation and adjustment. That is an impressive result, but it also highlights the scale mismatch between computational generation and physical testing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/an-ai-dreamed-up-380000-new-materials-the-next-challenge-is-making-them" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Google Deep Mind&#x27;s AI Dreamed Up 380,000 New Materials</span><span class="citation-popover-snippet">The Next Challenge Is Making ThemNovember 29, 2023 — Google DeepMind developed an AI program, GNoME, which has predicted 380,000 new stab...</span><span class="citation-popover-meta">Published: November 29, 2023</span></span></span>
+The experience of Google's GNoME project illustrates this problem. GNoME predicted hundreds of thousands of potentially stable materials. Yet only a tiny fraction can be synthesised and characterised in laboratories. Researchers at Lawrence Berkeley National Laboratory used an autonomous experimental platform known as A-Lab to test a subset of these predictions. Out of 58 selected candidates, 41 were successfully synthesised after repeated experimentation and adjustment. That is an impressive result, but it also highlights the scale mismatch between computational generation and physical testing.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/an-ai-dreamed-up-380000-new-materials-the-next-challenge-is-making-them" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Google Deep Mind&#x27;s AI Dreamed Up 380,000 New Materials</span><span class="citation-popover-snippet">The Next Challenge Is Making ThemNovember 29, 2023 — Google DeepMind developed an AI program, GNoME, which has predicted 380,000 new stab...</span><span class="citation-popover-meta">Published: November 29, 2023</span></span></span>
 
 In other words, AI may soon be able to generate more promising materials than the global research system can practically investigate.
 
-This creates strong incentives for automated laboratories, [robotics]({{ 'robotics/' | relative_url }}) and AI-guided experimentation. If generative models become discovery engines, automated validation may become equally important. Scientific acceleration may depend not just on smarter models but on tighter integration between computation and physical experimentation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/an-ai-dreamed-up-380000-new-materials-the-next-challenge-is-making-them" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Google Deep Mind&#x27;s AI Dreamed Up 380,000 New Materials</span><span class="citation-popover-snippet">The Next Challenge Is Making ThemNovember 29, 2023 — Google DeepMind developed an AI program, GNoME, which has predicted 380,000 new stab...</span><span class="citation-popover-meta">Published: November 29, 2023</span></span></span>
+This creates strong incentives for automated laboratories, [robotics]({{ 'robotics/' | relative_url }}) and AI-guided experimentation. If generative models become discovery engines, automated validation may become equally important. Scientific acceleration may depend not just on smarter models but on tighter integration between computation and physical experimentation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/an-ai-dreamed-up-380000-new-materials-the-next-challenge-is-making-them" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Google Deep Mind&#x27;s AI Dreamed Up 380,000 New Materials</span><span class="citation-popover-snippet">The Next Challenge Is Making ThemNovember 29, 2023 — Google DeepMind developed an AI program, GNoME, which has predicted 380,000 new stab...</span><span class="citation-popover-meta">Published: November 29, 2023</span></span></span>
 
 ## Where the hardest uncertainties remain
 
 Several major uncertainties still stand between current demonstrations and the broader abundance vision often associated with AI-driven materials science.
 
-**Useful properties are harder than stability.** Predicting whether a crystal can exist is not the same as predicting whether it solves an important technological problem. Stability is often only the first filter. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/an-ai-dreamed-up-380000-new-materials-the-next-challenge-is-making-them" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Google Deep Mind&#x27;s AI Dreamed Up 380,000 New Materials</span><span class="citation-popover-snippet">The Next Challenge Is Making ThemNovember 29, 2023 — Google DeepMind developed an AI program, GNoME, which has predicted 380,000 new stab...</span><span class="citation-popover-meta">Published: November 29, 2023</span></span></span>
+**Useful properties are harder than stability.** Predicting whether a crystal can exist is not the same as predicting whether it solves an important technological problem. Stability is often only the first filter.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/an-ai-dreamed-up-380000-new-materials-the-next-challenge-is-making-them" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Google Deep Mind&#x27;s AI Dreamed Up 380,000 New Materials</span><span class="citation-popover-snippet">The Next Challenge Is Making ThemNovember 29, 2023 — Google DeepMind developed an AI program, GNoME, which has predicted 380,000 new stab...</span><span class="citation-popover-meta">Published: November 29, 2023</span></span></span>
 
 **Manufacturing may dominate performance.** Many technologies depend on large-scale production techniques, defect [control]({{ 'control/' | relative_url }}) and cost optimisation. A material that works in a laboratory sample may fail commercially.
 
-**Economic constraints still matter.** Some generated materials may require rare, expensive or geopolitically sensitive elements. MatterGen explicitly explores designs that reduce supply-chain risk, but balancing performance, manufacturability and cost remains difficult. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2312.03687" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Matter Gen: a generative model for inorganic materials design</span><span class="citation-popover-snippet">arXiv Matter Gen: a generative model for inorganic materials design</span></span></span>
+**Economic constraints still matter.** Some generated materials may require rare, expensive or geopolitically sensitive elements. MatterGen explicitly explores designs that reduce supply-chain risk, but balancing performance, manufacturability and cost remains difficult.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2312.03687" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Matter Gen: a generative model for inorganic materials design</span><span class="citation-popover-snippet">arXiv Matter Gen: a generative model for inorganic materials design</span></span></span>
 
-**Data limitations remain significant.** Generative models learn from existing materials databases. Although they can move beyond known examples, their capabilities are still shaped by the quality and coverage of available data. Researchers continue to debate how effectively current systems can generalise into genuinely unexplored regions of materials space. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S259023852400242X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Has generative artificial intelligence solved inverse...by H Park · 2024 · Cited by 96 — We provide a perspective on progre...</span></span></span> 2arXiv
+**Data limitations remain significant.** Generative models learn from existing materials databases. Although they can move beyond known examples, their capabilities are still shaped by the quality and coverage of available data. Researchers continue to debate how effectively current systems can generalise into genuinely unexplored regions of materials space.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S259023852400242X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Has generative artificial intelligence solved inverse...by H Park · 2024 · Cited by 96 — We provide a perspective on progre...</span></span></span> 2arXiv
 
-**Many predictions may never be practical.** Some proposed structures may require extreme synthesis conditions or involve materials that are too scarce, toxic or expensive for real-world use. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/an-ai-dreamed-up-380000-new-materials-the-next-challenge-is-making-them" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Google Deep Mind&#x27;s AI Dreamed Up 380,000 New Materials</span><span class="citation-popover-snippet">The Next Challenge Is Making ThemNovember 29, 2023 — Google DeepMind developed an AI program, GNoME, which has predicted 380,000 new stab...</span><span class="citation-popover-meta">Published: November 29, 2023</span></span></span>
+**Many predictions may never be practical.** Some proposed structures may require extreme synthesis conditions or involve materials that are too scarce, toxic or expensive for real-world use.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/an-ai-dreamed-up-380000-new-materials-the-next-challenge-is-making-them" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Google Deep Mind&#x27;s AI Dreamed Up 380,000 New Materials</span><span class="citation-popover-snippet">The Next Challenge Is Making ThemNovember 29, 2023 — Google DeepMind developed an AI program, GNoME, which has predicted 380,000 new stab...</span><span class="citation-popover-meta">Published: November 29, 2023</span></span></span>
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_mattergen_inv_cb7e85_ai_materials_c8b892-Illustration-3-dark.svg" | relative_url }}" alt="Lab Test illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_mattergen_inv_cb7e85_ai_materials_c8b892-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_mattergen_inv_cb7e85_ai_materials_c8b892-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why this still matters for the AI bloom case
 
 The importance of MatterGen is not that it has already solved materials discovery. It has not. The importance is that it offers evidence that generative AI can participate in one of the most difficult parts of scientific creativity: proposing new physical structures that satisfy human goals.
 
-If systems like MatterGen improve steadily, the long-term implication is not merely faster laboratory work. It is the possibility of compressing decades of trial-and-error discovery across energy, manufacturing, electronics, climate technology and medicine. Better batteries, more efficient catalysts, advanced computing materials and cleaner industrial processes all depend on the ability to discover useful matter, not just useful information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.microsoft.com/en-us/research/blog/mattergen-a-new-paradigm-of-materials-design-with-generative-ai/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: microsoft.com">[Microsoft]</a><span class="citation-popover" role="note"><span class="citation-popover-source">microsoft.com</span><span class="citation-popover-title">mattergen a new paradigm of materials design with generative ai</span><span class="citation-popover-snippet">MatterGen: A new paradigm of materials design with...16 Jan 2025 — MatterGen enables a new paradigm of generative AI-assisted m...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-025-08628-5_reference.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">A generative model for inorganic materials designby C Zeni · 2025 · Cited by 633 — After fine-tuning, MatterGen suc- cessfully generates...</span></span></span>
+If systems like MatterGen improve steadily, the long-term implication is not merely faster laboratory work. It is the possibility of compressing decades of trial-and-error discovery across energy, manufacturing, electronics, climate technology and medicine. Better batteries, more efficient catalysts, advanced computing materials and cleaner industrial processes all depend on the ability to discover useful matter, not just useful information.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.microsoft.com/en-us/research/blog/mattergen-a-new-paradigm-of-materials-design-with-generative-ai/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: microsoft.com">[Microsoft]</a><span class="citation-popover" role="note"><span class="citation-popover-source">microsoft.com</span><span class="citation-popover-title">mattergen a new paradigm of materials design with generative ai</span><span class="citation-popover-snippet">MatterGen: A new paradigm of materials design with...16 Jan 2025 — MatterGen enables a new paradigm of generative AI-assisted m...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-025-08628-5_reference.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">A generative model for inorganic materials designby C Zeni · 2025 · Cited by 633 — After fine-tuning, MatterGen suc- cessfully generates...</span></span></span>
 
 For advocates of an AI-enabled scientific bloom, this is the deeper significance. Materials have often been civilisation's hidden constraint. Entire technological eras are defined by what substances humans can reliably create and manipulate. If AI helps researchers navigate vastly larger regions of chemical possibility, then the ceiling on future technological progress may rise.
 
-But the laboratory remains the judge. MatterGen's generated crystals are promising ideas, not finished breakthroughs. The path from AI proposal to world-changing technology still runs through synthesis, measurement, replication and engineering. The most optimistic future depends not merely on generating possibilities, but on repeatedly proving that those possibilities can survive reality. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/39821164/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">A generative model for inorganic materials designby C Zeni · 2025 · Cited by 633 — After fine-tuning, MatterGen successfully genera...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-025-08628-5_reference.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">A generative model for inorganic materials designby C Zeni · 2025 · Cited by 633 — After fine-tuning, MatterGen suc- cessfully generates...</span></span></span>
+But the laboratory remains the judge. MatterGen's generated crystals are promising ideas, not finished breakthroughs. The path from AI proposal to world-changing technology still runs through synthesis, measurement, replication and engineering. The most optimistic future depends not merely on generating possibilities, but on repeatedly proving that those possibilities can survive reality.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/39821164/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">A generative model for inorganic materials designby C Zeni · 2025 · Cited by 633 — After fine-tuning, MatterGen successfully genera...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-025-08628-5_reference.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">A generative model for inorganic materials designby C Zeni · 2025 · Cited by 633 — After fine-tuning, MatterGen suc- cessfully generates...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can AI materials make it out of the lab?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can AI materials make it out of the lab?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human Compatible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BKVPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Human Compatible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human Compatible">Human Compatible</a>
-        </h4>
-        <p class="fr-book-author">By Stuart Russell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human Compatible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BKVPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Human Compatible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human Compatible">Human Compatible</a>
+</h4>
+<p class="fr-book-author">By Stuart Russell</p>
         
-        <p class="fr-book-desc">Explores how powerful AI could advance humanity if aligned with human values.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how powerful AI could advance humanity if aligned with human values.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Alignment Problem on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KGCNEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Alignment Problem" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Alignment Problem">The Alignment Problem</a>
-        </h4>
-        <p class="fr-book-author">By Brian Christian</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Alignment Problem on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KGCNEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Alignment Problem" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Alignment Problem">The Alignment Problem</a>
+</h4>
+<p class="fr-book-author">By Brian Christian</p>
         
-        <p class="fr-book-desc">Explores how AI systems can generate outputs that require careful validation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how AI systems can generate outputs that require careful validation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Genesis+Machine+by+Amy+Webb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Genesis Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=B1QyEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Genesis Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Genesis+Machine+by+Amy+Webb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Genesis Machine">The Genesis Machine</a>
-        </h4>
-        <p class="fr-book-author">By Amy Webb, Andrew Hessel</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Genesis+Machine+by+Amy+Webb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Genesis Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=B1QyEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Genesis Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Genesis+Machine+by+Amy+Webb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Genesis Machine">The Genesis Machine</a>
+</h4>
+<p class="fr-book-author">By Amy Webb, Andrew Hessel</p>
         
-        <p class="fr-book-desc">Explores how AI may accelerate discovery across biology and other sciences.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Genesis+Machine+by+Amy+Webb&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how AI may accelerate discovery across biology and other sciences.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Genesis+Machine+by+Amy+Webb&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Coming Wave on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b0y5zwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Coming Wave" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Coming Wave">The Coming Wave</a>
-        </h4>
-        <p class="fr-book-author">By Mustafa Suleyman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Coming Wave on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b0y5zwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Coming Wave" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Coming Wave">The Coming Wave</a>
+</h4>
+<p class="fr-book-author">By Mustafa Suleyman</p>
         
-        <p class="fr-book-desc">Directly addresses whether advanced AI can deliver broad civilisational benefits while remaining governable.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses whether advanced AI can deliver broad civilisational benefits while remaining governable.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+Compatible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human Compatible</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Alignment+Problem&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Alignment Problem</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Genesis+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Genesis Machine</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+Compatible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human Compatible</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Alignment+Problem&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Alignment Problem</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Genesis+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Genesis Machine</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=molecular+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-materials-make-it-out-of-the-lab-molecular-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="molecular model kit" data-ebay-reference="can-ai-materials-make-it-out-of-the-lab-molecular-model-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Molecular Models Set - 122 pieces for teachers and students"><img src="https://i.ebayimg.com/images/g/ffQAAeSwpB1qBcQZ/s-l225.jpg" alt="Listing image for Molecular Models Set - 122 pieces for teachers and students" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=molecular+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-materials-make-it-out-of-the-lab-molecular-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="molecular model kit" data-ebay-reference="can-ai-materials-make-it-out-of-the-lab-molecular-model-kit" target="_blank" rel="sponsored noopener noreferrer">Molecular Models Set - 122 pieces for teachers and students</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=molecular+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-materials-make-it-out-of-the-lab-molecular-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="molecular model kit" data-ebay-reference="can-ai-materials-make-it-out-of-the-lab-molecular-model-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for molecular model kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: molecular model kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=molecular+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-materials-make-it-out-of-the-lab-molecular-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="molecular model kit" data-ebay-reference="can-ai-materials-make-it-out-of-the-lab-molecular-model-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=molecular+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-materials-make-it-out-of-the-lab-molecular-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="molecular model kit" data-ebay-reference="can-ai-materials-make-it-out-of-the-lab-molecular-model-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Molecular Models Set - 122 pieces for teachers and students"><img src="https://i.ebayimg.com/images/g/ffQAAeSwpB1qBcQZ/s-l225.jpg" alt="Listing image for Molecular Models Set - 122 pieces for teachers and students" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=molecular+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-materials-make-it-out-of-the-lab-molecular-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="molecular model kit" data-ebay-reference="can-ai-materials-make-it-out-of-the-lab-molecular-model-kit" target="_blank" rel="sponsored noopener noreferrer">Molecular Models Set - 122 pieces for teachers and students</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=molecular+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-materials-make-it-out-of-the-lab-molecular-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="molecular model kit" data-ebay-reference="can-ai-materials-make-it-out-of-the-lab-molecular-model-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for molecular model kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: molecular model kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=molecular+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-materials-make-it-out-of-the-lab-molecular-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="molecular model kit" data-ebay-reference="can-ai-materials-make-it-out-of-the-lab-molecular-model-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=molecular+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-materials-make-it-out-of-the-lab-molecular-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="molecular model kit" data-ebay-reference="can-ai-materials-make-it-out-of-the-lab-molecular-model-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 444pcs Molecular Model Kit for Chemistry: Explore Organic &amp; Inorganic Structures"><img src="https://i.ebayimg.com/images/g/UKkAAeSwf6xpqwAQ/s-l225.jpg" alt="Listing image for 444pcs Molecular Model Kit for Chemistry: Explore Organic &amp; Inorganic Structures" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=molecular+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-materials-make-it-out-of-the-lab-molecular-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="molecular model kit" data-ebay-reference="can-ai-materials-make-it-out-of-the-lab-molecular-model-kit" target="_blank" rel="sponsored noopener noreferrer">444pcs Molecular Model Kit for Chemistry: Explore Organic &amp; Inorganic Structures</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=molecular+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-materials-make-it-out-of-the-lab-molecular-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="molecular model kit" data-ebay-reference="can-ai-materials-make-it-out-of-the-lab-molecular-model-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for molecular model kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: molecular model kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=molecular+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-materials-make-it-out-of-the-lab-molecular-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="molecular model kit" data-ebay-reference="can-ai-materials-make-it-out-of-the-lab-molecular-model-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=molecular+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-materials-make-it-out-of-the-lab-molecular-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="molecular model kit" data-ebay-reference="can-ai-materials-make-it-out-of-the-lab-molecular-model-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 444pcs Molecular Model Kit for Chemistry: Explore Organic &amp; Inorganic Structures"><img src="https://i.ebayimg.com/images/g/UKkAAeSwf6xpqwAQ/s-l225.jpg" alt="Listing image for 444pcs Molecular Model Kit for Chemistry: Explore Organic &amp; Inorganic Structures" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=molecular+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-materials-make-it-out-of-the-lab-molecular-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="molecular model kit" data-ebay-reference="can-ai-materials-make-it-out-of-the-lab-molecular-model-kit" target="_blank" rel="sponsored noopener noreferrer">444pcs Molecular Model Kit for Chemistry: Explore Organic &amp; Inorganic Structures</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=molecular+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-materials-make-it-out-of-the-lab-molecular-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="molecular model kit" data-ebay-reference="can-ai-materials-make-it-out-of-the-lab-molecular-model-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for molecular model kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: molecular model kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=molecular+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-materials-make-it-out-of-the-lab-molecular-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="molecular model kit" data-ebay-reference="can-ai-materials-make-it-out-of-the-lab-molecular-model-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=molecular+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-materials-make-it-out-of-the-lab-molecular-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="molecular model kit" data-ebay-reference="can-ai-materials-make-it-out-of-the-lab-molecular-model-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Molymod MMS-072 Molecular Model Kit Organic Inorganic Chemistry Set"><img src="https://i.ebayimg.com/images/g/mVsAAeSwtJZqHWSQ/s-l225.jpg" alt="Listing image for Molymod MMS-072 Molecular Model Kit Organic Inorganic Chemistry Set" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=molecular+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-materials-make-it-out-of-the-lab-molecular-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="molecular model kit" data-ebay-reference="can-ai-materials-make-it-out-of-the-lab-molecular-model-kit" target="_blank" rel="sponsored noopener noreferrer">Molymod MMS-072 Molecular Model Kit Organic Inorganic Chemistry Set</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=molecular+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-materials-make-it-out-of-the-lab-molecular-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="molecular model kit" data-ebay-reference="can-ai-materials-make-it-out-of-the-lab-molecular-model-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for molecular model kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: molecular model kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=molecular+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-materials-make-it-out-of-the-lab-molecular-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="molecular model kit" data-ebay-reference="can-ai-materials-make-it-out-of-the-lab-molecular-model-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=molecular+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-materials-make-it-out-of-the-lab-molecular-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="molecular model kit" data-ebay-reference="can-ai-materials-make-it-out-of-the-lab-molecular-model-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Molymod MMS-072 Molecular Model Kit Organic Inorganic Chemistry Set"><img src="https://i.ebayimg.com/images/g/mVsAAeSwtJZqHWSQ/s-l225.jpg" alt="Listing image for Molymod MMS-072 Molecular Model Kit Organic Inorganic Chemistry Set" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=molecular+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-materials-make-it-out-of-the-lab-molecular-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="molecular model kit" data-ebay-reference="can-ai-materials-make-it-out-of-the-lab-molecular-model-kit" target="_blank" rel="sponsored noopener noreferrer">Molymod MMS-072 Molecular Model Kit Organic Inorganic Chemistry Set</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=molecular+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-materials-make-it-out-of-the-lab-molecular-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="molecular model kit" data-ebay-reference="can-ai-materials-make-it-out-of-the-lab-molecular-model-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for molecular model kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: molecular model kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=molecular+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-materials-make-it-out-of-the-lab-molecular-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="molecular model kit" data-ebay-reference="can-ai-materials-make-it-out-of-the-lab-molecular-model-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=molecular+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-materials-make-it-out-of-the-lab-molecular-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="molecular model kit" data-ebay-reference="can-ai-materials-make-it-out-of-the-lab-molecular-model-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DALTONLABS Advanced Molecular Modeling Kit 178 pcs Organic &amp; Inorganic Chemistry"><img src="https://i.ebayimg.com/images/g/rSgAAOSw9Lpl5yUw/s-l225.jpg" alt="Listing image for DALTONLABS Advanced Molecular Modeling Kit 178 pcs Organic &amp; Inorganic Chemistry" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=molecular+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-materials-make-it-out-of-the-lab-molecular-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="molecular model kit" data-ebay-reference="can-ai-materials-make-it-out-of-the-lab-molecular-model-kit" target="_blank" rel="sponsored noopener noreferrer">DALTONLABS Advanced Molecular Modeling Kit 178 pcs Organic &amp; Inorganic Chemistry</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=molecular+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-materials-make-it-out-of-the-lab-molecular-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="molecular model kit" data-ebay-reference="can-ai-materials-make-it-out-of-the-lab-molecular-model-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for molecular model kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: molecular model kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=molecular+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-materials-make-it-out-of-the-lab-molecular-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="molecular model kit" data-ebay-reference="can-ai-materials-make-it-out-of-the-lab-molecular-model-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=molecular+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-materials-make-it-out-of-the-lab-molecular-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="molecular model kit" data-ebay-reference="can-ai-materials-make-it-out-of-the-lab-molecular-model-kit" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=molecular+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-materials-make-it-out-of-the-lab-molecular-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="molecular model kit" data-ebay-reference="can-ai-materials-make-it-out-of-the-lab-molecular-model-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DALTONLABS Advanced Molecular Modeling Kit 178 pcs Organic &amp; Inorganic Chemistry"><img src="https://i.ebayimg.com/images/g/rSgAAOSw9Lpl5yUw/s-l225.jpg" alt="Listing image for DALTONLABS Advanced Molecular Modeling Kit 178 pcs Organic &amp; Inorganic Chemistry" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=molecular+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-materials-make-it-out-of-the-lab-molecular-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="molecular model kit" data-ebay-reference="can-ai-materials-make-it-out-of-the-lab-molecular-model-kit" target="_blank" rel="sponsored noopener noreferrer">DALTONLABS Advanced Molecular Modeling Kit 178 pcs Organic &amp; Inorganic Chemistry</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=molecular+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-materials-make-it-out-of-the-lab-molecular-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="molecular model kit" data-ebay-reference="can-ai-materials-make-it-out-of-the-lab-molecular-model-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for molecular model kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: molecular model kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=molecular+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-materials-make-it-out-of-the-lab-molecular-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="molecular model kit" data-ebay-reference="can-ai-materials-make-it-out-of-the-lab-molecular-model-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=molecular+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-materials-make-it-out-of-the-lab-molecular-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="molecular model kit" data-ebay-reference="can-ai-materials-make-it-out-of-the-lab-molecular-model-kit" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -600,7 +600,7 @@ But the laboratory remains the judge. MatterGen's generated crystals are promisi
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -620,7 +620,7 @@ But the laboratory remains the judge. MatterGen's generated crystals are promisi
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -652,7 +652,7 @@ But the laboratory remains the judge. MatterGen's generated crystals are promisi
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -704,7 +704,7 @@ But the laboratory remains the judge. MatterGen's generated crystals are promisi
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -749,7 +749,7 @@ But the laboratory remains the judge. MatterGen's generated crystals are promisi
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -790,159 +790,159 @@ But the laboratory remains the judge. MatterGen's generated crystals are promisi
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41586-025-08628-5" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-025-08628-5</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A generative model for inorganic materials designby C Zeni · 2025 · Cited by 633 — We present MatterGen, a model that generates sta...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41586-025-08628-5" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-025-08628-5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A generative model for inorganic materials designby C Zeni · 2025 · Cited by 633 — We present MatterGen, a model that generates sta...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S259023852400242X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S259023852400242X</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Has generative artificial [intelligence](&amp;#123;&amp;#123; &#x27;intelligence/&#x27; | relative_url &amp;#125;&amp;#125;) solved inverse...by H Park · 2024 · Cited by 96 — We provide a perspective on progre...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S259023852400242X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S259023852400242X</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Has generative artificial [intelligence](&amp;#123;&amp;#123; &#x27;intelligence/&#x27; | relative_url &amp;#125;&amp;#125;) solved inverse...by H Park · 2024 · Cited by 96 — We provide a perspective on progre...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arxiv.org  
    Title: arXiv Matter Gen: a generative model for inorganic materials design  
-   Link: <a href="https://arxiv.org/abs/2312.03687" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2312.03687</a>  
+   Link:<a href="https://arxiv.org/abs/2312.03687" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2312.03687</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
    Title: arXiv AI-driven inverse design of materials: Past, present and future  
-   Link: <a href="https://arxiv.org/abs/2411.09429" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2411.09429</a>  
+   Link:<a href="https://arxiv.org/abs/2411.09429" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2411.09429</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: wired.com  
    Title: Google Deep Mind's AI Dreamed Up 380,000 New Materials  
-   Link: <a href="https://www.wired.com/story/an-ai-dreamed-up-380000-new-materials-the-next-challenge-is-making-them" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/an-ai-dreamed-up-380000-new-materials-the-next-challenge-is-making-them</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Next Challenge Is Making ThemNovember 29, 2023 — Google DeepMind developed an AI program, GNoME, which has predicted 380,000 new stab...</p></details>
+   Link:<a href="https://www.wired.com/story/an-ai-dreamed-up-380000-new-materials-the-next-challenge-is-making-them" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/an-ai-dreamed-up-380000-new-materials-the-next-challenge-is-making-them</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Next Challenge Is Making ThemNovember 29, 2023 — Google DeepMind developed an AI program, GNoME, which has predicted 380,000 new stab...</p></details>
    Published: November 29, 2023  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2411.09429v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2411.09429v1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AI-driven inverse design of materials: Past, present and future14 Nov 2024 — This survey provides the latest overview of AI-driven invers...</p></details>
+   Link:<a href="https://arxiv.org/html/2411.09429v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2411.09429v1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI-driven inverse design of materials: Past, present and future14 Nov 2024 — This survey provides the latest overview of AI-driven invers...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/pdf/2604.14082" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2604.14082</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Generative design of inorganic materialsby J Recatala-Gomez · 2026 — Generative design of inorganic materials can be understood as the in...</p></details>
+   Link:<a href="https://arxiv.org/pdf/2604.14082" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2604.14082</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Generative design of inorganic materialsby J Recatala-Gomez · 2026 — Generative design of inorganic materials can be understood as the in...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: arxiv.org  
    Title: arXiv Generative deep learning for the inverse design of materials  
-   Link: <a href="https://arxiv.org/abs/2409.19124" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2409.19124</a>  
+   Link:<a href="https://arxiv.org/abs/2409.19124" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2409.19124</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: microsoft.com  
    Title: mattergen a new paradigm of materials design with generative ai  
-   Link: <a href="https://www.microsoft.com/en-us/research/blog/mattergen-a-new-paradigm-of-materials-design-with-generative-ai/" target="_blank" rel="noopener noreferrer nofollow">https://www.microsoft.com/en-us/research/blog/mattergen-a-new-paradigm-of-materials-design-with-generative-ai/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MatterGen: A new paradigm of materials design with...16 Jan 2025 — MatterGen enables a new paradigm of generative AI-assisted m...</p></details>
+   Link:<a href="https://www.microsoft.com/en-us/research/blog/mattergen-a-new-paradigm-of-materials-design-with-generative-ai/" target="_blank" rel="noopener noreferrer nofollow">https://www.microsoft.com/en-us/research/blog/mattergen-a-new-paradigm-of-materials-design-with-generative-ai/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MatterGen: A new paradigm of materials design with...16 Jan 2025 — MatterGen enables a new paradigm of generative AI-assisted m...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: microsoft.com  
-   Link: <a href="https://www.microsoft.com/en-us/research/project/materials/" target="_blank" rel="noopener noreferrer nofollow">https://www.microsoft.com/en-us/research/project/materials/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Microsoft ResearchMatterGen is a diffusion model specifically designed for generating stable inorganic materials across the periodic tabl...</p></details>
+   Link:<a href="https://www.microsoft.com/en-us/research/project/materials/" target="_blank" rel="noopener noreferrer nofollow">https://www.microsoft.com/en-us/research/project/materials/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Microsoft ResearchMatterGen is a diffusion model specifically designed for generating stable inorganic materials across the periodic tabl...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41586-025-08628-5_reference.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-025-08628-5_reference.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A generative model for inorganic materials designby C Zeni · 2025 · Cited by 633 — After fine-tuning, MatterGen suc- cessfully generates...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41586-025-08628-5_reference.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-025-08628-5_reference.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A generative model for inorganic materials designby C Zeni · 2025 · Cited by 633 — After fine-tuning, MatterGen suc- cessfully generates...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2666386425006186" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2666386425006186</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Accelerated inorganic materials design with generative AI...by I Takahara · 2025 · Cited by 15 — Here, we present MatAgent, a generative...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S2666386425006186" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2666386425006186</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Accelerated inorganic materials design with generative AI...by I Takahara · 2025 · Cited by 15 — Here, we present MatAgent, a generative...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: microsoft.com  
    Title: mattergen a generative model for materials design  
-   Link: <a href="https://www.microsoft.com/en-us/research/quarterly-brief/jun-2024-brief/articles/mattergen-a-generative-model-for-materials-design/" target="_blank" rel="noopener noreferrer nofollow">https://www.microsoft.com/en-us/research/quarterly-brief/jun-2024-brief/articles/mattergen-a-generative-model-for-materials-design/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MatterGen: A Generative Model for Materials DesignJun 4, 2024 — Tian Xie introduces MatterGen, a generative model that creates new inorga...</p></details>
+   Link:<a href="https://www.microsoft.com/en-us/research/quarterly-brief/jun-2024-brief/articles/mattergen-a-generative-model-for-materials-design/" target="_blank" rel="noopener noreferrer nofollow">https://www.microsoft.com/en-us/research/quarterly-brief/jun-2024-brief/articles/mattergen-a-generative-model-for-materials-design/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MatterGen: A Generative Model for Materials DesignJun 4, 2024 — Tian Xie introduces MatterGen, a generative model that creates new inorga...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: microsoft.com  
-   Link: <a href="https://www.microsoft.com/en-us/research/wp-content/uploads/2025/01/WEF-2025_Leave-Behind_Accelerating-Materials-Design-with-AI.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.microsoft.com/en-us/research/wp-content/uploads/2025/01/WEF-2025_Leave-Behind_Accelerating-Materials-Design-with-AI.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Accelerating Materials Design with AIMatterGen is a generative AI model that operates similarly to text-to-image and text-to- video AI mo...</p></details>
+   Link:<a href="https://www.microsoft.com/en-us/research/wp-content/uploads/2025/01/WEF-2025_Leave-Behind_Accelerating-Materials-Design-with-AI.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.microsoft.com/en-us/research/wp-content/uploads/2025/01/WEF-2025_Leave-Behind_Accelerating-Materials-Design-with-AI.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Accelerating Materials Design with AIMatterGen is a generative AI model that operates similarly to text-to-image and text-to- video AI mo...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/39821164/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/39821164/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A generative model for inorganic materials designby C Zeni · 2025 · Cited by 633 — After fine-tuning, MatterGen successfully genera...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/39821164/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/39821164/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A generative model for inorganic materials designby C Zeni · 2025 · Cited by 633 — After fine-tuning, MatterGen successfully genera...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: github.com  
-   Link: <a href="https://github.com/microsoft/mattergen" target="_blank" rel="noopener noreferrer nofollow">https://github.com/microsoft/mattergen</a>  
+   Link:<a href="https://github.com/microsoft/mattergen" target="_blank" rel="noopener noreferrer nofollow">https://github.com/microsoft/mattergen</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/data-science-in-your-pocket/microsoft-mattergen-ai-model-for-material-design-and-discovery-4d1b74ba4cfe" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/data-science-in-your-pocket/microsoft-mattergen-ai-model-for-material-design-and-discovery-4d1b74ba4cfe</a>  
+   Link:<a href="https://medium.com/data-science-in-your-pocket/microsoft-mattergen-ai-model-for-material-design-and-discovery-4d1b74ba4cfe" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/data-science-in-your-pocket/microsoft-mattergen-ai-model-for-material-design-and-discovery-4d1b74ba4cfe</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: venturebeat.com  
-   Link: <a href="https://venturebeat.com/ai/microsoft-mattergen-ai-system-generates-materials-that-could-change-industries-forever" target="_blank" rel="noopener noreferrer nofollow">https://venturebeat.com/ai/microsoft-mattergen-ai-system-generates-materials-that-could-change-industries-forever</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Microsoft just built an AI that designs materials for the futureJan 16, 2025 — Microsoft researchers unveil MatterGen, which accelerates...</p></details>
+   Link:<a href="https://venturebeat.com/ai/microsoft-mattergen-ai-system-generates-materials-that-could-change-industries-forever" target="_blank" rel="noopener noreferrer nofollow">https://venturebeat.com/ai/microsoft-mattergen-ai-system-generates-materials-that-could-change-industries-forever</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Microsoft just built an AI that designs materials for the futureJan 16, 2025 — Microsoft researchers unveil MatterGen, which accelerates...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: researchmatters.in  
-   Link: <a href="https://researchmatters.in/news/microsofts-mattergen-could-be-ai-revolution-materials-discovery" target="_blank" rel="noopener noreferrer nofollow">https://researchmatters.in/news/microsofts-mattergen-could-be-ai-revolution-materials-discovery</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Microsoft&#x27;s MatterGen could be the AI Revolution in...Jan 20, 2025 — One of the materials suggested by MatterGen was synthesized by the...</p></details>
+   Link:<a href="https://researchmatters.in/news/microsofts-mattergen-could-be-ai-revolution-materials-discovery" target="_blank" rel="noopener noreferrer nofollow">https://researchmatters.in/news/microsofts-mattergen-could-be-ai-revolution-materials-discovery</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Microsoft&#x27;s MatterGen could be the AI Revolution in...Jan 20, 2025 — One of the materials suggested by MatterGen was synthesized by the...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/singularity/comments/1i2ompg/microsoft_researchers_introduce_mattergen_a_model/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/singularity/comments/1i2ompg/microsoft_researchers_introduce_mattergen_a_model/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Microsoft researchers introduce MatterGen, a model that...Microsoft researchers introduce MatterGen, a model that can discover new mater...</p></details>
+   Link:<a href="https://www.reddit.com/r/singularity/comments/1i2ompg/microsoft_researchers_introduce_mattergen_a_model/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/singularity/comments/1i2ompg/microsoft_researchers_introduce_mattergen_a_model/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Microsoft researchers introduce MatterGen, a model that...Microsoft researchers introduce MatterGen, a model that can discover new mater...</p></details>
 
 ### Additional References
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40musicalchemist/how-ai-is-revolutionizing-material-discovery-meet-mattergen-ceb7d3156128" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40musicalchemist/how-ai-is-revolutionizing-material-discovery-meet-mattergen-ceb7d3156128</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How AI is Revolutionizing Material DiscoveryOne of the standout validations is the successful synthesis of TaCr₂O₆. The material&#x27;s experi...</p></details>
+   Link:<a href="https://medium.com/%40musicalchemist/how-ai-is-revolutionizing-material-discovery-meet-mattergen-ceb7d3156128" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40musicalchemist/how-ai-is-revolutionizing-material-discovery-meet-mattergen-ceb7d3156128</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How AI is Revolutionizing Material DiscoveryOne of the standout validations is the successful synthesis of TaCr₂O₆. The material&#x27;s experi...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/txie-93_excited-to-finally-announce-the-publication-activity-7285599087683354625-43EJ" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/txie-93_excited-to-finally-announce-the-publication-activity-7285599087683354625-43EJ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tian Xie&#x27;s PostExcited to finally announce the publication of MatterGen on Nature. MatterGen represents a new paradigm of materials desig...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/txie-93_excited-to-finally-announce-the-publication-activity-7285599087683354625-43EJ" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/txie-93_excited-to-finally-announce-the-publication-activity-7285599087683354625-43EJ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tian Xie&#x27;s PostExcited to finally announce the publication of MatterGen on Nature. MatterGen represents a new paradigm of materials desig...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/satyanadella_today-in-nature-magazine-our-mattergen-model-activity-7285726218019057664-AYIl" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/satyanadella_today-in-nature-magazine-our-mattergen-model-activity-7285726218019057664-AYIl</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Today in Nature Magazine: Our MatterGen model...Our MatterGen model represents a paradigm shift in materials design, applying generative...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/satyanadella_today-in-nature-magazine-our-mattergen-model-activity-7285726218019057664-AYIl" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/satyanadella_today-in-nature-magazine-our-mattergen-model-activity-7285726218019057664-AYIl</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Today in Nature Magazine: Our MatterGen model...Our MatterGen model represents a paradigm shift in materials design, applying generative...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: dspace.ewha.ac.kr  
-   Link: <a href="https://dspace.ewha.ac.kr/bitstream/2015.oak/269226/1/1-s2.0-S259023852400242X-main.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dspace.ewha.ac.kr/bitstream/2015.oak/269226/1/1-s2.0-S259023852400242X-main.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>generative artificial intelligence solved inverse...by H Park · Cited by 96 — We provide a perspective on progress toward achieving this...</p></details>
+   Link:<a href="https://dspace.ewha.ac.kr/bitstream/2015.oak/269226/1/1-s2.0-S259023852400242X-main.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dspace.ewha.ac.kr/bitstream/2015.oak/269226/1/1-s2.0-S259023852400242X-main.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>generative artificial intelligence solved inverse...by H Park · Cited by 96 — We provide a perspective on progress toward achieving this...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=kPOfPZlugv8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kPOfPZlugv8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ideas: AI for materials discovery with Tian Xie and Ziheng LuHow do you generate and test materials that don&#x27;t exist yet? Researchers Tia...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=kPOfPZlugv8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kPOfPZlugv8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ideas: AI for materials discovery with Tian Xie and Ziheng LuHow do you generate and test materials that don&#x27;t exist yet? Researchers Tia...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=yWXPV3bsC2c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yWXPV3bsC2c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MatterGen: A Generative Model for Materials Design...Tian Xie introduces MatterGen, a generative model that creates new inorganic materi...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=yWXPV3bsC2c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yWXPV3bsC2c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MatterGen: A Generative Model for Materials Design...Tian Xie introduces MatterGen, a generative model that creates new inorganic materi...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: researchgate.net  
    Title: 388093762 A generative model for inorganic materials design  
-   Link: <a href="https://www.researchgate.net/publication/388093762_A_generative_model_for_inorganic_materials_design" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/388093762_A_generative_model_for_inorganic_materials_design</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) A generative model for inorganic materials design16 Jan 2025 — Here we present MatterGen, a model that generates stable, diverse in...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/388093762_A_generative_model_for_inorganic_materials_design" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/388093762_A_generative_model_for_inorganic_materials_design</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) A generative model for inorganic materials design16 Jan 2025 — Here we present MatterGen, a model that generates stable, diverse in...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: labmanager.com  
-   Link: <a href="https://www.labmanager.com/ai-system-redesigns-hard-to-synthesize-materials-into-lab-feasible-forms-35004" target="_blank" rel="noopener noreferrer nofollow">https://www.labmanager.com/ai-system-redesigns-hard-to-synthesize-materials-into-lab-feasible-forms-35004</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>y predicted crystal structures that are impractical for laboratory synthesis...Read more...</p></details>
+   Link:<a href="https://www.labmanager.com/ai-system-redesigns-hard-to-synthesize-materials-into-lab-feasible-forms-35004" target="_blank" rel="noopener noreferrer nofollow">https://www.labmanager.com/ai-system-redesigns-hard-to-synthesize-materials-into-lab-feasible-forms-35004</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>y predicted crystal structures that are impractical for laboratory synthesis...Read more...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: scribd.com  
    Title: Matter Gen: Inorganic Materials Design Model | PDF10)  
-   Link: <a href="https://www.scribd.com/document/865267299/A-generative-model-for-inorganic-materials-design-Peer-Review-Report" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/865267299/A-generative-model-for-inorganic-materials-design-Peer-Review-Report</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>• Experimental validation: We have experimentally synthesized and characterized a material that was conditionally sampled by MatterGen, d...</p></details>
+   Link:<a href="https://www.scribd.com/document/865267299/A-generative-model-for-inorganic-materials-design-Peer-Review-Report" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/865267299/A-generative-model-for-inorganic-materials-design-Peer-Review-Report</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>• Experimental validation: We have experimentally synthesized and characterized a material that was conditionally sampled by MatterGen, d...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: mse.stanford.edu  
    Title: mattergen generative model inorganic materials design  
-   Link: <a href="https://mse.stanford.edu/events/rising-stars-colloquium/mattergen-generative-model-inorganic-materials-design" target="_blank" rel="noopener noreferrer nofollow">https://mse.stanford.edu/events/rising-stars-colloquium/mattergen-generative-model-inorganic-materials-design</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>stanford.eduMatterGen: a generative model for inorganic materials designIn this talk, we present MatterGen, a generative model that gener...</p></details>
+   Link:<a href="https://mse.stanford.edu/events/rising-stars-colloquium/mattergen-generative-model-inorganic-materials-design" target="_blank" rel="noopener noreferrer nofollow">https://mse.stanford.edu/events/rising-stars-colloquium/mattergen-generative-model-inorganic-materials-design</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>stanford.eduMatterGen: a generative model for inorganic materials designIn this talk, we present MatterGen, a generative model that gener...</p></details>

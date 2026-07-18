@@ -269,16 +269,16 @@ image: /assets/images/AI_Bloom_Abun_98d3a6_ai_medicine_l_7c4177_ai_ageing_clo_95
 
 ## Introduction
 
-The most important promise behind [AI ageing]({{ 'ageing-clocks/' | relative_url }}) clocks is not that they can tell someone their “true age”. It is that they might reveal biological deterioration years before a disease becomes obvious. If that works, medicine could move part of its focus from treating heart disease, dementia, cancer, diabetes, and frailty after damage has accumulated to identifying people whose bodies appear to be ageing unusually fast and intervening earlier. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1471491425002576" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Predicting healthspan and disease risks through biological...by G Li · 2025 · Cited by 7 — Aging clocks offer precise measu...</span></span></span>
+The most important promise behind [AI ageing]({{ 'ageing-clocks/' | relative_url }}) clocks is not that they can tell someone their “true age”. It is that they might reveal biological deterioration years before a disease becomes obvious. If that works, medicine could move part of its focus from treating heart disease, dementia, cancer, diabetes, and frailty after damage has accumulated to identifying people whose bodies appear to be ageing unusually fast and intervening earlier.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1471491425002576" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Predicting healthspan and disease risks through biological...by G Li · 2025 · Cited by 7 — Aging clocks offer precise measu...</span></span></span>
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_medicine_l_7c4177_ai_ageing_clo_957636_ageing_clock_ea7a10-Illustration-1-dark.svg" | relative_url }}" alt="Early warning illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_medicine_l_7c4177_ai_ageing_clo_957636_ageing_clock_ea7a10-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_medicine_l_7c4177_ai_ageing_clo_957636_ageing_clock_ea7a10-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-That possibility matters well beyond [longevity]({{ 'longevity/' | relative_url }}) research. In the broader vision of AI-enabled human flourishing, earlier detection is one of the most plausible near-term pathways through which advanced data analysis could improve health at population scale. But the central question is not whether ageing clocks can predict risk in statistical studies. It is whether they can provide warnings early enough, accurately enough, and clearly enough to change medical decisions before illness appears. That is a much higher standard than producing an interesting biological-age score. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41467-025-66106-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">An unbiased comparison of 14 epigenetic clocks in relation...by C Mavrommatis · 2025 · Cited by 6 — A key question in evaluating t...</span></span></span>
+That possibility matters well beyond [longevity]({{ 'longevity/' | relative_url }}) research. In the broader vision of AI-enabled human flourishing, earlier detection is one of the most plausible near-term pathways through which advanced data analysis could improve health at population scale. But the central question is not whether ageing clocks can predict risk in statistical studies. It is whether they can provide warnings early enough, accurately enough, and clearly enough to change medical decisions before illness appears. That is a much higher standard than producing an interesting biological-age score.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41467-025-66106-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">An unbiased comparison of 14 epigenetic clocks in relation...by C Mavrommatis · 2025 · Cited by 6 — A key question in evaluating t...</span></span></span>
 
 ## What a useful early warning would need to show
 
 A biological-age signal becomes clinically valuable only if it changes what happens next.
 
-Many ageing clocks already show correlations with future disease, disability, and mortality. People whose clocks suggest accelerated ageing often experience worse health outcomes over subsequent years than people of the same chronological age whose clocks indicate slower ageing. Measures such as GrimAge, PhenoAge, proteomic ageing clocks, and DunedinPACE were specifically designed to capture risks linked to future decline rather than simply estimate calendar age. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1471491425002576" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Predicting healthspan and disease risks through biological...by G Li · 2025 · Cited by 7 — Aging clocks offer precise measu...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8853656/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">DunedinPACE, a DNA methylation biomarker of the pace of...by DW Belsky · 2022 · Cited by 1035 — DunedinPACE showed high test-retest r...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://kclpure.kcl.ac.uk/portal/en/publications/dunedinpace-a-dna-methylation-biomarker-of-the-pace-of-aging/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kclpure.kcl.ac.uk">[King&#x27;s College London]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kclpure.kcl.ac.uk</span><span class="citation-popover-title">dunedinpace a dna methylation biomarker of the pace of aging</span><span class="citation-popover-snippet">King&#x27;s College LondonDunedinPACE, a DNA methylation biomarker of the pace of...by DW Belsky · 2022 · Cited by 942 — DunedinPACE showed h...</span></span></span>
+Many ageing clocks already show correlations with future disease, disability, and mortality. People whose clocks suggest accelerated ageing often experience worse health outcomes over subsequent years than people of the same chronological age whose clocks indicate slower ageing. Measures such as GrimAge, PhenoAge, proteomic ageing clocks, and DunedinPACE were specifically designed to capture risks linked to future decline rather than simply estimate calendar age.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1471491425002576" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Predicting healthspan and disease risks through biological...by G Li · 2025 · Cited by 7 — Aging clocks offer precise measu...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8853656/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">DunedinPACE, a DNA methylation biomarker of the pace of...by DW Belsky · 2022 · Cited by 1035 — DunedinPACE showed high test-retest r...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://kclpure.kcl.ac.uk/portal/en/publications/dunedinpace-a-dna-methylation-biomarker-of-the-pace-of-aging/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kclpure.kcl.ac.uk">[King&#x27;s College London]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kclpure.kcl.ac.uk</span><span class="citation-popover-title">dunedinpace a dna methylation biomarker of the pace of aging</span><span class="citation-popover-snippet">King&#x27;s College LondonDunedinPACE, a DNA methylation biomarker of the pace of...by DW Belsky · 2022 · Cited by 942 — DunedinPACE showed h...</span></span></span>
 
 However, an early warning system must clear several additional hurdles:
 
@@ -286,9 +286,9 @@ However, an early warning system must clear several additional hurdles:
 * **The prediction must be specific enough to guide action.** A general warning that someone is at higher risk is less valuable than identifying which risks are elevated.
 * **The risk must be modifiable.** If no intervention exists, the practical benefit becomes limited.
 * **The warning must outperform existing methods.** Doctors already use blood pressure, cholesterol, imaging, family history, smoking history, and other established risk tools.
-* **Results must be reliable across populations.** A clock that works mainly in the dataset used to train it may fail in real-world clinical settings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41514-025-00312-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Do we actually need aging clocks? &#124; npj Agingby D Kriukov · 2025 — Aging clocks use machine learning to estimate biological age as...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11671503/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">review of aging clocks and factors that may influence...by M Min · 2024 · Cited by 33 — Aging clocks are computational models designed t...</span></span></span>
+* **Results must be reliable across populations.** A clock that works mainly in the dataset used to train it may fail in real-world clinical settings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41514-025-00312-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Do we actually need aging clocks? &#124; npj Agingby D Kriukov · 2025 — Aging clocks use machine learning to estimate biological age as...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11671503/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">review of aging clocks and factors that may influence...by M Min · 2024 · Cited by 33 — Aging clocks are computational models designed t...</span></span></span>
 
-This distinction is easy to miss. A model can be scientifically impressive while still having little impact on healthcare decisions. Many researchers now argue that ageing clocks should be judged less by how accurately they estimate biological age and more by whether they improve prediction, prevention, or treatment compared with existing clinical approaches. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41591-024-03164-7" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Proteomic aging clock predicts mortality and risk of...by MA Argentieri · 2024 · Cited by 327 — Of note, our study provides compre...</span></span></span>
+This distinction is easy to miss. A model can be scientifically impressive while still having little impact on healthcare decisions. Many researchers now argue that ageing clocks should be judged less by how accurately they estimate biological age and more by whether they improve prediction, prevention, or treatment compared with existing clinical approaches.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41591-024-03164-7" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Proteomic aging clock predicts mortality and risk of...by MA Argentieri · 2024 · Cited by 327 — Of note, our study provides compre...</span></span></span>
 
 ## Where earlier screening and prevention might change care
 
@@ -298,7 +298,7 @@ The strongest case for ageing clocks is not that they replace disease-specific s
 
 Heart disease develops gradually over decades. By the time symptoms appear, arteries may already contain extensive damage.
 
-Several biological-age measures are associated with future cardiovascular risk, suggesting that accelerated ageing signatures may capture cumulative physiological stress before a heart attack or stroke occurs. Researchers have found that advanced epigenetic and proteomic clocks predict mortality and multiple chronic diseases independently of chronological age. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s43587-026-01066-6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Longitudinal changes in epigenetic clocks predict survival...by PL Kuo · 2026 · Cited by 5 — Broadly termed &#x27;epigenetic clocks,&#x27; these m...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8853656/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">DunedinPACE, a DNA methylation biomarker of the pace of...by DW Belsky · 2022 · Cited by 1035 — DunedinPACE showed high test-retest r...</span></span></span>
+Several biological-age measures are associated with future cardiovascular risk, suggesting that accelerated ageing signatures may capture cumulative physiological stress before a heart attack or stroke occurs. Researchers have found that advanced epigenetic and proteomic clocks predict mortality and multiple chronic diseases independently of chronological age.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s43587-026-01066-6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Longitudinal changes in epigenetic clocks predict survival...by PL Kuo · 2026 · Cited by 5 — Broadly termed &#x27;epigenetic clocks,&#x27; these m...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8853656/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">DunedinPACE, a DNA methylation biomarker of the pace of...by DW Belsky · 2022 · Cited by 1035 — DunedinPACE showed high test-retest r...</span></span></span>
 
 In principle, a patient with apparently normal health but unusually rapid biological ageing might receive:
 
@@ -318,7 +318,7 @@ The clock itself would not diagnose disease. Instead, it would function as a sig
 
 ### Frailty and loss of physical function
 
-One reason geroscientists are interested in pace-of-ageing measures such as DunedinPACE is that they appear linked to later disability, mobility problems, and overall functional decline. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11671503/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">review of aging clocks and factors that may influence...by M Min · 2024 · Cited by 33 — Aging clocks are computational models designed t...</span></span></span>
+One reason geroscientists are interested in pace-of-ageing measures such as DunedinPACE is that they appear linked to later disability, mobility problems, and overall functional decline.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11671503/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">review of aging clocks and factors that may influence...by M Min · 2024 · Cited by 33 — Aging clocks are computational models designed t...</span></span></span>
 
 If validated further, such measures could identify people entering a trajectory towards frailty years before visible deterioration emerges. That could potentially support earlier exercise programmes, nutritional interventions, fall-prevention efforts, or monitoring for conditions that often accompany accelerated ageing.
 
@@ -328,7 +328,7 @@ For ageing societies, this may eventually matter as much as extending lifespan. 
 
 Neurodegenerative disorders often begin decades before diagnosis. By the time memory symptoms become obvious, substantial brain changes may already have occurred.
 
-Researchers are increasingly exploring whether biological-age measures can identify people whose overall ageing trajectory suggests elevated risk for later cognitive decline. Some newer clocks incorporate information linked to cognitive health, inflammation, and systemic physiological deterioration. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41591-025-04006-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">A full life cycle biological clock based on routine clinical...by K Wang · 2025 · Cited by 10 — Key aging biomarkers such as urea...</span></span></span>
+Researchers are increasingly exploring whether biological-age measures can identify people whose overall ageing trajectory suggests elevated risk for later cognitive decline. Some newer clocks incorporate information linked to cognitive health, inflammation, and systemic physiological deterioration.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41591-025-04006-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">A full life cycle biological clock based on routine clinical...by K Wang · 2025 · Cited by 10 — Key aging biomarkers such as urea...</span></span></span>
 
 The challenge is that dementia risk remains difficult to predict with high precision. Even if ageing clocks contribute useful information, they will likely need to be combined with imaging, genetics, cognitive testing, and other biomarkers before they can meaningfully alter care pathways.
 
@@ -336,7 +336,7 @@ The challenge is that dementia risk remains difficult to predict with high preci
 
 One of the more ambitious goals is identifying people whose entire biological system appears to be deteriorating unusually quickly.
 
-Unlike conventional screening programmes that focus on a single disease, ageing clocks may reveal broad vulnerability across several conditions simultaneously. Researchers increasingly view ageing itself as a common risk factor underlying cardiovascular disease, cancer, metabolic disease, frailty, and aspects of cognitive decline. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1471491425002576" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Predicting healthspan and disease risks through biological...by G Li · 2025 · Cited by 7 — Aging clocks offer precise measu...</span></span></span>
+Unlike conventional screening programmes that focus on a single disease, ageing clocks may reveal broad vulnerability across several conditions simultaneously. Researchers increasingly view ageing itself as a common risk factor underlying cardiovascular disease, cancer, metabolic disease, frailty, and aspects of cognitive decline.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1471491425002576" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Predicting healthspan and disease risks through biological...by G Li · 2025 · Cited by 7 — Aging clocks offer precise measu...</span></span></span>
 
 If that view proves correct, an ageing clock could act as a general warning signal that multiple disease processes are becoming more likely, even before any single disease reaches a diagnostic threshold.
 
@@ -359,7 +359,7 @@ This is why many researchers argue that future ageing clocks must become more ac
 * which diseases are driving the elevated risk,
 * how large the risk increase actually is,
 * what interventions are most likely to help,
-* whether the risk changes after treatment or lifestyle modification. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41467-025-66106-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">An unbiased comparison of 14 epigenetic clocks in relation...by C Mavrommatis · 2025 · Cited by 6 — A key question in evaluating t...</span></span></span>
+* whether the risk changes after treatment or lifestyle modification.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41467-025-66106-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">An unbiased comparison of 14 epigenetic clocks in relation...by C Mavrommatis · 2025 · Cited by 6 — A key question in evaluating t...</span></span></span>
 
 </div>
 
@@ -371,7 +371,7 @@ The difference is similar to the difference between hearing that a car is “age
 
 Many ageing-clock studies demonstrate prediction. Far fewer demonstrate improved outcomes.
 
-Researchers can already show that some clocks predict mortality, multimorbidity, disability, and future disease better than chronological age alone. Large comparisons increasingly support the idea that biological-age measures contain meaningful health information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41514-025-00312-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Do we actually need aging clocks? &#124; npj Agingby D Kriukov · 2025 — Aging clocks use machine learning to estimate biological age as...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41591-024-03164-7" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Proteomic aging clock predicts mortality and risk of...by MA Argentieri · 2024 · Cited by 327 — Of note, our study provides compre...</span></span></span>
+Researchers can already show that some clocks predict mortality, multimorbidity, disability, and future disease better than chronological age alone. Large comparisons increasingly support the idea that biological-age measures contain meaningful health information.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41514-025-00312-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Do we actually need aging clocks? &#124; npj Agingby D Kriukov · 2025 — Aging clocks use machine learning to estimate biological age as...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41591-024-03164-7" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Proteomic aging clock predicts mortality and risk of...by MA Argentieri · 2024 · Cited by 327 — Of note, our study provides compre...</span></span></span>
 
 The harder test is prospective clinical use.
 
@@ -387,7 +387,7 @@ A healthcare system would need evidence that:
 
 That final step remains largely unproven.
 
-This explains why enthusiasm and scepticism coexist. Supporters see ageing clocks as an emerging foundation for preventive medicine. Critics note that many existing risk scores already predict disease and that clocks must demonstrate clear advantages before becoming routine clinical tools. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s43587-026-01066-6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Longitudinal changes in epigenetic clocks predict survival...by PL Kuo · 2026 · Cited by 5 — Broadly termed &#x27;epigenetic clocks,&#x27; these m...</span></span></span>
+This explains why enthusiasm and scepticism coexist. Supporters see ageing clocks as an emerging foundation for preventive medicine. Critics note that many existing risk scores already predict disease and that clocks must demonstrate clear advantages before becoming routine clinical tools.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s43587-026-01066-6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Longitudinal changes in epigenetic clocks predict survival...by PL Kuo · 2026 · Cited by 5 — Broadly termed &#x27;epigenetic clocks,&#x27; these m...</span></span></span>
 
 The gap between prediction and intervention is where most of the real-world challenge lies.
 
@@ -401,7 +401,7 @@ Future models could combine:
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
 * blood biomarkers,
-* DNA methylation patterns, <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aginganddisease.org/EN/10.14336/AD.2024.1495" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aginganddisease.org">[aginganddisease.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aginganddisease.org</span><span class="citation-popover-snippet">emselves as powerful aging biomarkers, capable of estimating biological age and...Read more...</span></span></span>
+* DNA methylation patterns,<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aginganddisease.org/EN/10.14336/AD.2024.1495" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aginganddisease.org">[aginganddisease.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aginganddisease.org</span><span class="citation-popover-snippet">emselves as powerful aging biomarkers, capable of estimating biological age and...Read more...</span></span></span>
 * protein measurements,
 * imaging data,
 * wearable-device information,
@@ -411,7 +411,7 @@ Future models could combine:
 
 </div>
 
-Instead of producing one biological-age estimate, such systems could generate personalised forecasts of likely health trajectories. Some emerging models already attempt to combine routine clinical data with machine learning to predict disease risk and ageing-related decline across the lifespan. Nature <span class="citation-chip-wrap"><a class="citation-chip" href="https://aging.jmir.org/2025/1/e64473" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aging.jmir.org">[2aging.jmir.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aging.jmir.org</span><span class="citation-popover-snippet">Artificial Intelligence-Driven Biological Age Prediction Model...by CU Jeong · 2025 · Cited by 10 — This study aimed to develop and vali...</span></span></span>
+Instead of producing one biological-age estimate, such systems could generate personalised forecasts of likely health trajectories. Some emerging models already attempt to combine routine clinical data with machine learning to predict disease risk and ageing-related decline across the lifespan. Nature<span class="citation-chip-wrap"><a class="citation-chip" href="https://aging.jmir.org/2025/1/e64473" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aging.jmir.org">[2aging.jmir.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aging.jmir.org</span><span class="citation-popover-snippet">Artificial Intelligence-Driven Biological Age Prediction Model...by CU Jeong · 2025 · Cited by 10 — This study aimed to develop and vali...</span></span></span>
 
 In the optimistic AI-bloom scenario, this becomes part of a broader shift towards anticipatory medicine: detecting deterioration before symptoms, tailoring interventions to individuals, and reducing the burden of chronic disease across populations.
 
@@ -427,197 +427,197 @@ Most chronic diseases develop slowly. Prevention often fails because the warning
 
 If AI-driven ageing measures can reliably identify accelerated biological decline years before conventional diagnosis, they could provide a new layer of preventive [intelligence]({{ 'intelligence/' | relative_url }}) between apparent health and overt disease. Even modest success would matter. A warning delivered five or ten years earlier can create opportunities for intervention that no treatment available after diagnosis can recover.
 
-That is why the most important test for ageing clocks is not whether they estimate age accurately. It is whether they help people stay healthy for longer by revealing meaningful risk while there is still time to act. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41591-025-04006-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">A full life cycle biological clock based on routine clinical...by K Wang · 2025 · Cited by 10 — Key aging biomarkers such as urea...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S1471491425002576" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Predicting healthspan and disease risks through biological...by G Li · 2025 · Cited by 7 — Aging clocks offer precise measu...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41591-025-04006-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">A full life cycle biological clock based on routine clinical...by K Wang · 2025 · Cited by 10 — Key aging biomarkers such as urea...</span></span></span>
+That is why the most important test for ageing clocks is not whether they estimate age accurately. It is whether they help people stay healthy for longer by revealing meaningful risk while there is still time to act.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41591-025-04006-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">A full life cycle biological clock based on routine clinical...by K Wang · 2025 · Cited by 10 — Key aging biomarkers such as urea...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S1471491425002576" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Predicting healthspan and disease risks through biological...by G Li · 2025 · Cited by 7 — Aging clocks offer precise measu...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41591-025-04006-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">A full life cycle biological clock based on routine clinical...by K Wang · 2025 · Cited by 10 — Key aging biomarkers such as urea...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can ageing clocks warn early enough?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can ageing clocks warn early enough?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Lifespan+by+David+A.+Sinclair&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Lifespan on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=x--oDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Lifespan" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Lifespan+by+David+A.+Sinclair&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lifespan">Lifespan</a>
-        </h4>
-        <p class="fr-book-author">By David A. Sinclair, Matthew D. LaPlante</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Lifespan+by+David+A.+Sinclair&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Lifespan on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=x--oDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Lifespan" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Lifespan+by+David+A.+Sinclair&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lifespan">Lifespan</a>
+</h4>
+<p class="fr-book-author">By David A. Sinclair, Matthew D. LaPlante</p>
         
-        <p class="fr-book-desc">Explores biological ageing and measurable decline.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Lifespan+by+David+A.+Sinclair&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores biological ageing and measurable decline.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Lifespan+by+David+A.+Sinclair&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Outlive+by+Peter+Attia%2C+MD&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Outlive on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HYqeEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Outlive" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Outlive+by+Peter+Attia%2C+MD&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Outlive">Outlive</a>
-        </h4>
-        <p class="fr-book-author">By Peter Attia, MD</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Outlive+by+Peter+Attia%2C+MD&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Outlive on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HYqeEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Outlive" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Outlive+by+Peter+Attia%2C+MD&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Outlive">Outlive</a>
+</h4>
+<p class="fr-book-author">By Peter Attia, MD</p>
         
-        <p class="fr-book-desc">Centres on early risk detection and proactive intervention.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Outlive+by+Peter+Attia%2C+MD&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Centres on early risk detection and proactive intervention.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Outlive+by+Peter+Attia%2C+MD&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ageless+by+Andrew+Steele&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ageless on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=IRBbEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Ageless" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ageless+by+Andrew+Steele&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ageless">Ageless</a>
-        </h4>
-        <p class="fr-book-author">By Andrew Steele</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ageless+by+Andrew+Steele&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ageless on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=IRBbEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Ageless" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ageless+by+Andrew+Steele&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ageless">Ageless</a>
+</h4>
+<p class="fr-book-author">By Andrew Steele</p>
         
-        <p class="fr-book-desc">Explains what ageing measurements can and cannot reveal.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ageless+by+Andrew+Steele&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains what ageing measurements can and cannot reveal.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ageless+by+Andrew+Steele&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Age+of+Scientific+Wellness+by+Leroy+Hood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Age of Scientific Wellness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=K5GjEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Age of Scientific Wellness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Age+of+Scientific+Wellness+by+Leroy+Hood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Age of Scientific Wellness">The Age of Scientific Wellness</a>
-        </h4>
-        <p class="fr-book-author">By Leroy Hood, Nathan Price</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Age+of+Scientific+Wellness+by+Leroy+Hood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Age of Scientific Wellness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=K5GjEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Age of Scientific Wellness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Age+of+Scientific+Wellness+by+Leroy+Hood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Age of Scientific Wellness">The Age of Scientific Wellness</a>
+</h4>
+<p class="fr-book-author">By Leroy Hood, Nathan Price</p>
         
-        <p class="fr-book-desc">Discusses predictive biomarkers and preventive medicine.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Age+of+Scientific+Wellness+by+Leroy+Hood&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses predictive biomarkers and preventive medicine.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Age+of+Scientific+Wellness+by+Leroy+Hood&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Lifespan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Lifespan</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Outlive&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Outlive</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ageless&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ageless</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Lifespan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Lifespan</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Outlive&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Outlive</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Ageless&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ageless</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=DNA+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ageing-clocks-warn-early-enough-dna-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="DNA display model" data-ebay-reference="can-ageing-clocks-warn-early-enough-dna-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DNA Display Model Double Structure Molecular Model Kit✈"><img src="https://i.ebayimg.com/images/g/HK0AAeSwX2VpTR-O/s-l225.jpg" alt="Listing image for DNA Display Model Double Structure Molecular Model Kit✈" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=DNA+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ageing-clocks-warn-early-enough-dna-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="DNA display model" data-ebay-reference="can-ageing-clocks-warn-early-enough-dna-display-model" target="_blank" rel="sponsored noopener noreferrer">DNA Display Model Double Structure Molecular Model Kit✈</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=DNA+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ageing-clocks-warn-early-enough-dna-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="DNA display model" data-ebay-reference="can-ageing-clocks-warn-early-enough-dna-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for DNA display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: DNA display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=DNA+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ageing-clocks-warn-early-enough-dna-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="DNA display model" data-ebay-reference="can-ageing-clocks-warn-early-enough-dna-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=DNA+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ageing-clocks-warn-early-enough-dna-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="DNA display model" data-ebay-reference="can-ageing-clocks-warn-early-enough-dna-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DNA Display Model Double Structure Molecular Model Kit✈"><img src="https://i.ebayimg.com/images/g/HK0AAeSwX2VpTR-O/s-l225.jpg" alt="Listing image for DNA Display Model Double Structure Molecular Model Kit✈" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=DNA+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ageing-clocks-warn-early-enough-dna-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="DNA display model" data-ebay-reference="can-ageing-clocks-warn-early-enough-dna-display-model" target="_blank" rel="sponsored noopener noreferrer">DNA Display Model Double Structure Molecular Model Kit✈</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=DNA+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ageing-clocks-warn-early-enough-dna-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="DNA display model" data-ebay-reference="can-ageing-clocks-warn-early-enough-dna-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for DNA display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: DNA display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=DNA+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ageing-clocks-warn-early-enough-dna-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="DNA display model" data-ebay-reference="can-ageing-clocks-warn-early-enough-dna-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=DNA+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ageing-clocks-warn-early-enough-dna-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="DNA display model" data-ebay-reference="can-ageing-clocks-warn-early-enough-dna-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DNA Display Model Double Structure Molecular Model Kit For Biological SG"><img src="https://i.ebayimg.com/images/g/9-kAAeSweSJpFp8o/s-l225.jpg" alt="Listing image for DNA Display Model Double Structure Molecular Model Kit For Biological SG" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=DNA+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ageing-clocks-warn-early-enough-dna-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="DNA display model" data-ebay-reference="can-ageing-clocks-warn-early-enough-dna-display-model" target="_blank" rel="sponsored noopener noreferrer">DNA Display Model Double Structure Molecular Model Kit For Biological SG</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=DNA+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ageing-clocks-warn-early-enough-dna-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="DNA display model" data-ebay-reference="can-ageing-clocks-warn-early-enough-dna-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for DNA display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: DNA display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=DNA+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ageing-clocks-warn-early-enough-dna-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="DNA display model" data-ebay-reference="can-ageing-clocks-warn-early-enough-dna-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=DNA+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ageing-clocks-warn-early-enough-dna-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="DNA display model" data-ebay-reference="can-ageing-clocks-warn-early-enough-dna-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DNA Display Model Double Structure Molecular Model Kit For Biological SG"><img src="https://i.ebayimg.com/images/g/9-kAAeSweSJpFp8o/s-l225.jpg" alt="Listing image for DNA Display Model Double Structure Molecular Model Kit For Biological SG" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=DNA+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ageing-clocks-warn-early-enough-dna-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="DNA display model" data-ebay-reference="can-ageing-clocks-warn-early-enough-dna-display-model" target="_blank" rel="sponsored noopener noreferrer">DNA Display Model Double Structure Molecular Model Kit For Biological SG</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=DNA+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ageing-clocks-warn-early-enough-dna-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="DNA display model" data-ebay-reference="can-ageing-clocks-warn-early-enough-dna-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for DNA display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: DNA display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=DNA+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ageing-clocks-warn-early-enough-dna-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="DNA display model" data-ebay-reference="can-ageing-clocks-warn-early-enough-dna-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=DNA+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ageing-clocks-warn-early-enough-dna-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="DNA display model" data-ebay-reference="can-ageing-clocks-warn-early-enough-dna-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for *DNA Display Model Double Structure Model PVC Material 2PCS For Genetic"><img src="https://i.ebayimg.com/images/g/6g4AAeSwGB9pxl8p/s-l225.jpg" alt="Listing image for *DNA Display Model Double Structure Model PVC Material 2PCS For Genetic" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=DNA+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ageing-clocks-warn-early-enough-dna-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="DNA display model" data-ebay-reference="can-ageing-clocks-warn-early-enough-dna-display-model" target="_blank" rel="sponsored noopener noreferrer">*DNA Display Model Double Structure Model PVC Material 2PCS For Genetic</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=DNA+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ageing-clocks-warn-early-enough-dna-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="DNA display model" data-ebay-reference="can-ageing-clocks-warn-early-enough-dna-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for DNA display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: DNA display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=DNA+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ageing-clocks-warn-early-enough-dna-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="DNA display model" data-ebay-reference="can-ageing-clocks-warn-early-enough-dna-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=DNA+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ageing-clocks-warn-early-enough-dna-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="DNA display model" data-ebay-reference="can-ageing-clocks-warn-early-enough-dna-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for *DNA Display Model Double Structure Model PVC Material 2PCS For Genetic"><img src="https://i.ebayimg.com/images/g/6g4AAeSwGB9pxl8p/s-l225.jpg" alt="Listing image for *DNA Display Model Double Structure Model PVC Material 2PCS For Genetic" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=DNA+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ageing-clocks-warn-early-enough-dna-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="DNA display model" data-ebay-reference="can-ageing-clocks-warn-early-enough-dna-display-model" target="_blank" rel="sponsored noopener noreferrer">*DNA Display Model Double Structure Model PVC Material 2PCS For Genetic</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=DNA+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ageing-clocks-warn-early-enough-dna-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="DNA display model" data-ebay-reference="can-ageing-clocks-warn-early-enough-dna-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for DNA display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: DNA display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=DNA+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ageing-clocks-warn-early-enough-dna-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="DNA display model" data-ebay-reference="can-ageing-clocks-warn-early-enough-dna-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=DNA+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ageing-clocks-warn-early-enough-dna-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="DNA display model" data-ebay-reference="can-ageing-clocks-warn-early-enough-dna-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Science Museum Display Model Hands on Dna Kit Desktop Double Helix"><img src="https://i.ebayimg.com/images/g/v4sAAeSwOI5pgp2T/s-l225.jpg" alt="Listing image for Science Museum Display Model Hands on Dna Kit Desktop Double Helix" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=DNA+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ageing-clocks-warn-early-enough-dna-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="DNA display model" data-ebay-reference="can-ageing-clocks-warn-early-enough-dna-display-model" target="_blank" rel="sponsored noopener noreferrer">Science Museum Display Model Hands on Dna Kit Desktop Double Helix</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=DNA+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ageing-clocks-warn-early-enough-dna-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="DNA display model" data-ebay-reference="can-ageing-clocks-warn-early-enough-dna-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for DNA display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: DNA display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=DNA+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ageing-clocks-warn-early-enough-dna-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="DNA display model" data-ebay-reference="can-ageing-clocks-warn-early-enough-dna-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=DNA+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ageing-clocks-warn-early-enough-dna-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="DNA display model" data-ebay-reference="can-ageing-clocks-warn-early-enough-dna-display-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=DNA+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ageing-clocks-warn-early-enough-dna-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="DNA display model" data-ebay-reference="can-ageing-clocks-warn-early-enough-dna-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Science Museum Display Model Hands on Dna Kit Desktop Double Helix"><img src="https://i.ebayimg.com/images/g/v4sAAeSwOI5pgp2T/s-l225.jpg" alt="Listing image for Science Museum Display Model Hands on Dna Kit Desktop Double Helix" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=DNA+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ageing-clocks-warn-early-enough-dna-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="DNA display model" data-ebay-reference="can-ageing-clocks-warn-early-enough-dna-display-model" target="_blank" rel="sponsored noopener noreferrer">Science Museum Display Model Hands on Dna Kit Desktop Double Helix</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=DNA+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ageing-clocks-warn-early-enough-dna-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="DNA display model" data-ebay-reference="can-ageing-clocks-warn-early-enough-dna-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for DNA display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: DNA display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=DNA+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ageing-clocks-warn-early-enough-dna-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="DNA display model" data-ebay-reference="can-ageing-clocks-warn-early-enough-dna-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=DNA+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ageing-clocks-warn-early-enough-dna-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="DNA display model" data-ebay-reference="can-ageing-clocks-warn-early-enough-dna-display-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -633,7 +633,7 @@ That is why the most important test for ageing clocks is not whether they estima
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -653,7 +653,7 @@ That is why the most important test for ageing clocks is not whether they estima
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -685,7 +685,7 @@ That is why the most important test for ageing clocks is not whether they estima
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -737,7 +737,7 @@ That is why the most important test for ageing clocks is not whether they estima
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -782,7 +782,7 @@ That is why the most important test for ageing clocks is not whether they estima
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -823,120 +823,120 @@ That is why the most important test for ageing clocks is not whether they estima
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1471491425002576" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1471491425002576</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Predicting healthspan and disease risks through biological...by G Li · 2025 · Cited by 7 — Aging clocks offer precise measu...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S1471491425002576" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1471491425002576</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Predicting healthspan and disease risks through biological...by G Li · 2025 · Cited by 7 — Aging clocks offer precise measu...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0959440X24000046" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0959440X24000046</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The traditional linear models...Read more...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0959440X24000046" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0959440X24000046</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The traditional linear models...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41467-025-66106-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41467-025-66106-y</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>An unbiased comparison of 14 epigenetic clocks in relation...by C Mavrommatis · 2025 · Cited by 6 — A key question in evaluating t...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41467-025-66106-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41467-025-66106-y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An unbiased comparison of 14 epigenetic clocks in relation...by C Mavrommatis · 2025 · Cited by 6 — A key question in evaluating t...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41514-025-00312-2" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41514-025-00312-2</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Do we actually need aging clocks? | npj Agingby D Kriukov · 2025 — Aging clocks use machine learning to estimate biological age as...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41514-025-00312-2" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41514-025-00312-2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Do we actually need aging clocks? | npj Agingby D Kriukov · 2025 — Aging clocks use machine learning to estimate biological age as...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8853656/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8853656/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DunedinPACE, a DNA methylation biomarker of the pace of...by DW Belsky · 2022 · Cited by 1035 — DunedinPACE showed high test-retest r...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8853656/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8853656/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DunedinPACE, a DNA methylation biomarker of the pace of...by DW Belsky · 2022 · Cited by 1035 — DunedinPACE showed high test-retest r...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41591-024-03164-7" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41591-024-03164-7</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Proteomic aging clock predicts mortality and risk of...by MA Argentieri · 2024 · Cited by 327 — Of note, our study provides compre...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41591-024-03164-7" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41591-024-03164-7</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Proteomic aging clock predicts mortality and risk of...by MA Argentieri · 2024 · Cited by 327 — Of note, our study provides compre...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S1568163722001854" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S1568163722001854</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Epigenetic clock: A promising biomarker and practical tool...by R Duan · 2022 · Cited by 331 — This review provides a compr...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S1568163722001854" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S1568163722001854</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Epigenetic clock: A promising biomarker and practical tool...by R Duan · 2022 · Cited by 331 — This review provides a compr...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11671503/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11671503/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>review of aging clocks and factors that may influence...by M Min · 2024 · Cited by 33 — Aging clocks are computational models designed t...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11671503/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11671503/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>review of aging clocks and factors that may influence...by M Min · 2024 · Cited by 33 — Aging clocks are computational models designed t...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s43587-026-01066-6" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s43587-026-01066-6</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Longitudinal changes in epigenetic clocks predict survival...by PL Kuo · 2026 · Cited by 5 — Broadly termed &#x27;epigenetic clocks,&#x27; these m...</p></details>
+   Link:<a href="https://www.nature.com/articles/s43587-026-01066-6" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s43587-026-01066-6</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Longitudinal changes in epigenetic clocks predict survival...by PL Kuo · 2026 · Cited by 5 — Broadly termed &#x27;epigenetic clocks,&#x27; these m...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41591-025-04006-w" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41591-025-04006-w</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A full life cycle biological clock based on routine clinical...by K Wang · 2025 · Cited by 10 — Key aging biomarkers such as urea...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41591-025-04006-w" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41591-025-04006-w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A full life cycle biological clock based on routine clinical...by K Wang · 2025 · Cited by 10 — Key aging biomarkers such as urea...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: aging.jmir.org  
-   Link: <a href="https://aging.jmir.org/2025/1/e64473" target="_blank" rel="noopener noreferrer nofollow">https://aging.jmir.org/2025/1/e64473</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Artificial Intelligence-Driven Biological Age Prediction Model...by CU Jeong · 2025 · Cited by 10 — This study aimed to develop and vali...</p></details>
+   Link:<a href="https://aging.jmir.org/2025/1/e64473" target="_blank" rel="noopener noreferrer nofollow">https://aging.jmir.org/2025/1/e64473</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Artificial Intelligence-Driven Biological Age Prediction Model...by CU Jeong · 2025 · Cited by 10 — This study aimed to develop and vali...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: kclpure.kcl.ac.uk  
    Title: dunedinpace a dna methylation biomarker of the pace of aging  
-   Link: <a href="https://kclpure.kcl.ac.uk/portal/en/publications/dunedinpace-a-dna-methylation-biomarker-of-the-pace-of-aging/" target="_blank" rel="noopener noreferrer nofollow">https://kclpure.kcl.ac.uk/portal/en/publications/dunedinpace-a-dna-methylation-biomarker-of-the-pace-of-aging/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>King&#x27;s College LondonDunedinPACE, a DNA methylation biomarker of the pace of...by DW Belsky · 2022 · Cited by 942 — DunedinPACE showed h...</p></details>
+   Link:<a href="https://kclpure.kcl.ac.uk/portal/en/publications/dunedinpace-a-dna-methylation-biomarker-of-the-pace-of-aging/" target="_blank" rel="noopener noreferrer nofollow">https://kclpure.kcl.ac.uk/portal/en/publications/dunedinpace-a-dna-methylation-biomarker-of-the-pace-of-aging/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>King&#x27;s College LondonDunedinPACE, a DNA methylation biomarker of the pace of...by DW Belsky · 2022 · Cited by 942 — DunedinPACE showed h...</p></details>
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/garywmonk_ai-digitalhealth-activity-7280938464982818816-3QcE" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/garywmonk_ai-digitalhealth-activity-7280938464982818816-3QcE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI-Based &#x27;Aging Clocks&#x27; Predict Health, Lifespan, and...AI-based aging clocks use blood metabolite data to predict an individual&#x27;s healt...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/garywmonk_ai-digitalhealth-activity-7280938464982818816-3QcE" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/garywmonk_ai-digitalhealth-activity-7280938464982818816-3QcE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI-Based &#x27;Aging Clocks&#x27; Predict Health, Lifespan, and...AI-based aging clocks use blood metabolite data to predict an individual&#x27;s healt...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: fightaging.org  
-   Link: <a href="https://www.fightaging.org/archives/2026/03/the-dunedin-pace-of-aging-epigenetic-clock-predicts-mortality-better-than-simple-clinical-measures/" target="_blank" rel="noopener noreferrer nofollow">https://www.fightaging.org/archives/2026/03/the-dunedin-pace-of-aging-epigenetic-clock-predicts-mortality-better-than-simple-clinical-measures/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Dunedin Pace of Aging Epigenetic Clock Predicts...23 Mar 2026 — It isn&#x27;t surprising to find that epigenetic clocks predict mortality...</p></details>
+   Link:<a href="https://www.fightaging.org/archives/2026/03/the-dunedin-pace-of-aging-epigenetic-clock-predicts-mortality-better-than-simple-clinical-measures/" target="_blank" rel="noopener noreferrer nofollow">https://www.fightaging.org/archives/2026/03/the-dunedin-pace-of-aging-epigenetic-clock-predicts-mortality-better-than-simple-clinical-measures/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Dunedin Pace of Aging Epigenetic Clock Predicts...23 Mar 2026 — It isn&#x27;t surprising to find that epigenetic clocks predict mortality...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: news-medical.net  
    Title: AI powered Life Clock forecasts diseases years before symptoms appear.aspx  
-   Link: <a href="https://www.news-medical.net/news/20251028/AI-powered-LifeClock-forecasts-diseases-years-before-symptoms-appear.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.news-medical.net/news/20251028/AI-powered-LifeClock-forecasts-diseases-years-before-symptoms-appear.aspx</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI-powered LifeClock forecasts diseases years before...28 Oct 2025 — Using transformer-based AI, scientists created a full life-cycle bi...</p></details>
+   Link:<a href="https://www.news-medical.net/news/20251028/AI-powered-LifeClock-forecasts-diseases-years-before-symptoms-appear.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.news-medical.net/news/20251028/AI-powered-LifeClock-forecasts-diseases-years-before-symptoms-appear.aspx</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI-powered LifeClock forecasts diseases years before...28 Oct 2025 — Using transformer-based AI, scientists created a full life-cycle bi...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: aginganddisease.org  
-   Link: <a href="https://www.aginganddisease.org/EN/10.14336/AD.2024.1495" target="_blank" rel="noopener noreferrer nofollow">https://www.aginganddisease.org/EN/10.14336/AD.2024.1495</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>emselves as powerful aging biomarkers, capable of estimating biological age and...Read more...</p></details>
+   Link:<a href="https://www.aginganddisease.org/EN/10.14336/AD.2024.1495" target="_blank" rel="noopener noreferrer nofollow">https://www.aginganddisease.org/EN/10.14336/AD.2024.1495</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>emselves as powerful aging biomarkers, capable of estimating biological age and...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: kcl.ac.uk  
    Title: researchers ai ageing clocks predict health lifespan  
-   Link: <a href="https://www.kcl.ac.uk/news/researchers-ai-ageing-clocks-predict-health-lifespan" target="_blank" rel="noopener noreferrer nofollow">https://www.kcl.ac.uk/news/researchers-ai-ageing-clocks-predict-health-lifespan</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Researchers compare artificial intelligence &#x27;ageing clocks...19 Dec 2024 — Metabolomic ageing clocks have the potential to provide insig...</p></details>
+   Link:<a href="https://www.kcl.ac.uk/news/researchers-ai-ageing-clocks-predict-health-lifespan" target="_blank" rel="noopener noreferrer nofollow">https://www.kcl.ac.uk/news/researchers-ai-ageing-clocks-predict-health-lifespan</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Researchers compare artificial intelligence &#x27;ageing clocks...19 Dec 2024 — Metabolomic ageing clocks have the potential to provide insig...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/SNHScienceMission/posts/aging-clock-to-predict-healthspan-and-disease-risksaging-clocks-offer-precise-me/1297433335743398/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SNHScienceMission/posts/aging-clock-to-predict-healthspan-and-disease-risksaging-clocks-offer-precise-me/1297433335743398/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>in identifying individuals at high risk of chronic diseases...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/SNHScienceMission/posts/aging-clock-to-predict-healthspan-and-disease-risksaging-clocks-offer-precise-me/1297433335743398/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SNHScienceMission/posts/aging-clock-to-predict-healthspan-and-disease-risksaging-clocks-offer-precise-me/1297433335743398/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>in identifying individuals at high risk of chronic diseases...Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: aging-us.com  
-   Link: <a href="https://www.aging-us.com/article/206098/text" target="_blank" rel="noopener noreferrer nofollow">https://www.aging-us.com/article/206098/text</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Biological clocks may be categorized as phenotypic...Read more...</p></details>
+   Link:<a href="https://www.aging-us.com/article/206098/text" target="_blank" rel="noopener noreferrer nofollow">https://www.aging-us.com/article/206098/text</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Biological clocks may be categorized as phenotypic...Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: trudiagnostic.com  
    Title: Which Epigenetic Clock Should I Use?  
-   Link: <a href="https://www.trudiagnostic.com/post/the-dunedinpace-algorithm-meeting-the-criteria-for-an-epigenetic-age-related-biomarker-to-use-in-personalized-medicine" target="_blank" rel="noopener noreferrer nofollow">https://www.trudiagnostic.com/post/the-dunedinpace-algorithm-meeting-the-criteria-for-an-epigenetic-age-related-biomarker-to-use-in-personalized-medicine</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A case study on...In the case of the GrimAge clock, which was developed to predict mortality using this Framingham dataset, this analysi...</p></details>
+   Link:<a href="https://www.trudiagnostic.com/post/the-dunedinpace-algorithm-meeting-the-criteria-for-an-epigenetic-age-related-biomarker-to-use-in-personalized-medicine" target="_blank" rel="noopener noreferrer nofollow">https://www.trudiagnostic.com/post/the-dunedinpace-algorithm-meeting-the-criteria-for-an-epigenetic-age-related-biomarker-to-use-in-personalized-medicine</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A case study on...In the case of the GrimAge clock, which was developed to predict mortality using this Framingham dataset, this analysi...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: medrxiv.org  
    Title: 2026.03.23.26349074v1.full text  
-   Link: <a href="https://www.medrxiv.org/content/10.64898/2026.03.23.26349074v1.full-text" target="_blank" rel="noopener noreferrer nofollow">https://www.medrxiv.org/content/10.64898/2026.03.23.26349074v1.full-text</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Biological age acceleration measured by DunedinPACE...25 Mar 2026 — Second-generation clocks, including PhenoAge and GrimAge were design...</p></details>
+   Link:<a href="https://www.medrxiv.org/content/10.64898/2026.03.23.26349074v1.full-text" target="_blank" rel="noopener noreferrer nofollow">https://www.medrxiv.org/content/10.64898/2026.03.23.26349074v1.full-text</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Biological age acceleration measured by DunedinPACE...25 Mar 2026 — Second-generation clocks, including PhenoAge and GrimAge were design...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: biorxiv.org  
    Title: 2025.04.14.648594v1.full text  
-   Link: <a href="https://www.biorxiv.org/content/10.1101/2025.04.14.648594v1.full-text" target="_blank" rel="noopener noreferrer nofollow">https://www.biorxiv.org/content/10.1101/2025.04.14.648594v1.full-text</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Biometric aging clock for practical utility in clinical settings15 Apr 2025 — In this article, we present a cost-efficient aging clock th...</p></details>
+   Link:<a href="https://www.biorxiv.org/content/10.1101/2025.04.14.648594v1.full-text" target="_blank" rel="noopener noreferrer nofollow">https://www.biorxiv.org/content/10.1101/2025.04.14.648594v1.full-text</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Biometric aging clock for practical utility in clinical settings15 Apr 2025 — In this article, we present a cost-efficient aging clock th...</p></details>

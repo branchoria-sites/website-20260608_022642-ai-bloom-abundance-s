@@ -285,7 +285,7 @@ image: /assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_ai_distributi_a7
 An AI-enabled future could produce extraordinary gains: faster scientific [discovery]({{ 'discovery/' | relative_url }}), better healthcare, cheaper [education]({{ 'education/' | relative_url }}), more productive economies, and potentially a world where many forms of scarcity become far less binding. But one of the most important questions in the entire AI bloom debate is simple: who gets the gains?
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_ai_distributi_a75eae-Illustration-1-dark.svg" | relative_url }}" alt="AI Benefits illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_ai_distributi_a75eae-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_ai_distributi_a75eae-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-History offers a warning. Technological revolutions often increase total wealth while distributing benefits unevenly. Advanced AI could create enormous value without automatically improving life for everyone. If access to powerful systems, computing infrastructure, data, and capital remains concentrated, the benefits of AI may flow disproportionately to a small number of companies, investors, highly skilled workers, and wealthy countries. Public policy therefore becomes central to whether AI supports broad human flourishing or deepens existing inequalities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.imf.org/en/publications/staff-discussion-notes/issues/2024/06/11/broadening-the-gains-from-generative-ai-the-role-of-fiscal-policies-549639" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imf.org">[IMF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imf.org</span><span class="citation-popover-title">broadening the gains from generative ai the role of fiscal policies 549639</span><span class="citation-popover-snippet">Broadening the Gains from Generative AI: The Role of...11 Jun 2024 — This note discusses how fiscal policies can be employed to steer...</span></span></span>
+History offers a warning. Technological revolutions often increase total wealth while distributing benefits unevenly. Advanced AI could create enormous value without automatically improving life for everyone. If access to powerful systems, computing infrastructure, data, and capital remains concentrated, the benefits of AI may flow disproportionately to a small number of companies, investors, highly skilled workers, and wealthy countries. Public policy therefore becomes central to whether AI supports broad human flourishing or deepens existing inequalities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.imf.org/en/publications/staff-discussion-notes/issues/2024/06/11/broadening-the-gains-from-generative-ai-the-role-of-fiscal-policies-549639" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imf.org">[IMF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imf.org</span><span class="citation-popover-title">broadening the gains from generative ai the role of fiscal policies 549639</span><span class="citation-popover-snippet">Broadening the Gains from Generative AI: The Role of...11 Jun 2024 — This note discusses how fiscal policies can be employed to steer...</span></span></span>
 
 The question is not whether governments should [control]({{ 'control/' | relative_url }}) AI development. It is whether societies can build institutions that allow the productivity gains from increasingly capable systems to spread widely enough that AI abundance becomes a shared resource rather than a gated service.
 
@@ -293,7 +293,7 @@ The question is not whether governments should [control]({{ 'control/' | relativ
 
 Many discussions of AI assume that if productivity rises, living standards will eventually rise for everyone. That may happen, but the path is not automatic.
 
-The most powerful AI systems depend on expensive inputs: advanced chips, large data centres, electricity, specialised engineering talent, proprietary datasets, and cloud infrastructure. These resources are already concentrated among a relatively small number of firms and countries. OECD research notes that AI development relies on stacked layers of infrastructure and compute, while competition authorities increasingly examine concentration in cloud and AI infrastructure markets because control over these layers can shape who is able to build and deploy advanced systems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/publications/2024/05/oecd-digital-economy-outlook-2024-volume-1_d30a04c9/full-report/component-5.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-title">component 5</span><span class="citation-popover-snippet">OECD Digital Economy Outlook 2024 (Volume 1)May 14, 2024 — Computing infrastructure (“AI compute”) is a key component needed for AI d...</span><span class="citation-popover-meta">Published: May 14, 2024</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/publications/competition-in-artificial-intelligence-infrastructure_623d1874-en/full-report/component-6.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-title">component 6</span><span class="citation-popover-snippet">Market features in AI infrastructure: Competition in artificial...Nov 14, 2025 — In the context of AI infrastructure, such competition c...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/publications/competition-in-artificial-intelligence-infrastructure_623d1874-en/full-report/component-7.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-title">component 7</span><span class="citation-popover-snippet">Potential competition policy responses in AI infrastructureNov 14, 2025 — The competition issues in the cloud were discussed in more...</span></span></span>
+The most powerful AI systems depend on expensive inputs: advanced chips, large data centres, electricity, specialised engineering talent, proprietary datasets, and cloud infrastructure. These resources are already concentrated among a relatively small number of firms and countries. OECD research notes that AI development relies on stacked layers of infrastructure and compute, while competition authorities increasingly examine concentration in cloud and AI infrastructure markets because control over these layers can shape who is able to build and deploy advanced systems.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/publications/2024/05/oecd-digital-economy-outlook-2024-volume-1_d30a04c9/full-report/component-5.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-title">component 5</span><span class="citation-popover-snippet">OECD Digital Economy Outlook 2024 (Volume 1)May 14, 2024 — Computing infrastructure (“AI compute”) is a key component needed for AI d...</span><span class="citation-popover-meta">Published: May 14, 2024</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/publications/competition-in-artificial-intelligence-infrastructure_623d1874-en/full-report/component-6.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-title">component 6</span><span class="citation-popover-snippet">Market features in AI infrastructure: Competition in artificial...Nov 14, 2025 — In the context of AI infrastructure, such competition c...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/publications/competition-in-artificial-intelligence-infrastructure_623d1874-en/full-report/component-7.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-title">component 7</span><span class="citation-popover-snippet">Potential competition policy responses in AI infrastructureNov 14, 2025 — The competition issues in the cloud were discussed in more...</span></span></span>
 
 This matters because AI creates at least three different kinds of gains:
 
@@ -305,7 +305,7 @@ This matters because AI creates at least three different kinds of gains:
 
 </div>
 
-The distribution of benefits depends on which of these channels dominates. If AI mainly raises the value of capital ownership, wealth inequality may increase even while overall prosperity grows. IMF research has repeatedly highlighted this possibility, finding that AI could increase wealth inequality through higher returns to capital even in scenarios where wage effects are more mixed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.elibrary.imf.org/view/journals/001/2025/068/article-A001-en.xml" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elibrary.imf.org">[IMF eLibrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elibrary.imf.org</span><span class="citation-popover-snippet">IMF eLibraryAI Adoption and Inequality in - IMF eLibraryApr 4, 2025 — We find that while AI may reduce wage inequality by displacing high...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.imf.org/en/topics/artificial-intelligence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imf.org">[IMF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imf.org</span><span class="citation-popover-snippet">Artificial IntelligenceGenerative AI is already changing how economies function—from public services to labor markets. This technology ma...</span></span></span>
+The distribution of benefits depends on which of these channels dominates. If AI mainly raises the value of capital ownership, wealth inequality may increase even while overall prosperity grows. IMF research has repeatedly highlighted this possibility, finding that AI could increase wealth inequality through higher returns to capital even in scenarios where wage effects are more mixed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.elibrary.imf.org/view/journals/001/2025/068/article-A001-en.xml" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elibrary.imf.org">[IMF eLibrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elibrary.imf.org</span><span class="citation-popover-snippet">IMF eLibraryAI Adoption and Inequality in - IMF eLibraryApr 4, 2025 — We find that while AI may reduce wage inequality by displacing high...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.imf.org/en/topics/artificial-intelligence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imf.org">[IMF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imf.org</span><span class="citation-popover-snippet">Artificial IntelligenceGenerative AI is already changing how economies function—from public services to labor markets. This technology ma...</span></span></span>
 
 The result is that an AI-driven civilisation could become much richer while still leaving large groups feeling excluded from the gains.
 
@@ -335,7 +335,7 @@ Potential public-interest applications include:
 
 In these cases, the value comes not from selling AI access to the highest bidder but from increasing society-wide capabilities.
 
-The UK, European countries, and several other governments have explored public-access computing resources and national AI research infrastructure. The Ada Lovelace Institute's work on [public compute]({{ 'public-compute/' | relative_url }}) argues that access to computing resources is becoming a prerequisite for meaningful participation in advanced AI research and innovation. Without such access, universities, public-interest researchers, and smaller organisations risk becoming dependent on commercial gatekeepers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.adalovelaceinstitute.org/policy-briefing/global-public-compute/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adalovelaceinstitute.org">[Ada Lovelace Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adalovelaceinstitute.org</span><span class="citation-popover-title">global public compute</span><span class="citation-popover-snippet">Ada Lovelace InstituteMapping global approaches to public compute4 Nov 2024 — Exploration of a National AI Research Resource to provide p...</span></span></span>
+The UK, European countries, and several other governments have explored public-access computing resources and national AI research infrastructure. The Ada Lovelace Institute's work on [public compute]({{ 'public-compute/' | relative_url }}) argues that access to computing resources is becoming a prerequisite for meaningful participation in advanced AI research and innovation. Without such access, universities, public-interest researchers, and smaller organisations risk becoming dependent on commercial gatekeepers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.adalovelaceinstitute.org/policy-briefing/global-public-compute/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adalovelaceinstitute.org">[Ada Lovelace Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adalovelaceinstitute.org</span><span class="citation-popover-title">global public compute</span><span class="citation-popover-snippet">Ada Lovelace InstituteMapping global approaches to public compute4 Nov 2024 — Exploration of a National AI Research Resource to provide p...</span></span></span>
 
 Public-interest deployment is especially relevant to the broader AI bloom vision because many of the largest potential gains—scientific discovery, healthcare improvements, educational access, and long-term knowledge creation—have characteristics closer to public goods than luxury consumer products.
 
@@ -355,7 +355,7 @@ Public compute initiatives aim to provide researchers, universities, startups, a
 
 </div>
 
-The idea is not that governments should replace private AI firms. Rather, public compute attempts to ensure that access to advanced [intelligence]({{ 'intelligence/' | relative_url }}) infrastructure is not restricted solely to organisations with enormous capital budgets. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.adalovelaceinstitute.org/policy-briefing/global-public-compute/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adalovelaceinstitute.org">[Ada Lovelace Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adalovelaceinstitute.org</span><span class="citation-popover-title">global public compute</span><span class="citation-popover-snippet">Ada Lovelace InstituteMapping global approaches to public compute4 Nov 2024 — Exploration of a National AI Research Resource to provide p...</span></span></span>
+The idea is not that governments should replace private AI firms. Rather, public compute attempts to ensure that access to advanced [intelligence]({{ 'intelligence/' | relative_url }}) infrastructure is not restricted solely to organisations with enormous capital budgets.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.adalovelaceinstitute.org/policy-briefing/global-public-compute/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adalovelaceinstitute.org">[Ada Lovelace Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adalovelaceinstitute.org</span><span class="citation-popover-title">global public compute</span><span class="citation-popover-snippet">Ada Lovelace InstituteMapping global approaches to public compute4 Nov 2024 — Exploration of a National AI Research Resource to provide p...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0flRGaHdAG0" title="IMF Chief Warns AI will Affect 40% of All Jobs | Job Market Crisis | Vantage with Palki Sharma" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0flRGaHdAG0" target="_blank" rel="noopener noreferrer">IMF Chief Warns AI will Affect 40% of All Jobs | Job Market Crisis | Vantage with Palki Sharma</a></p><p class="youtube-embed-meta">Channel: Firstpost &middot; Views: 203.4K &middot; Uploaded: May 2024 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0flRGaHdAG0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0flRGaHdAG0">Open on YouTube</a></p></div></div></div>
 
@@ -365,7 +365,7 @@ The distribution question is not only about income. It is also about dependency.
 
 If a small number of companies control the most capable models, cloud infrastructure, workplace tools, and application ecosystems simultaneously, users may find themselves locked into private systems that are difficult to leave.
 
-This can occur through several mechanisms: <span class="citation-chip-wrap"><a class="citation-chip" href="https://wp.oecd.ai/app/uploads/2025/05/RAI05-Scaling-Responsible-AI-Solutions-Challenges-and-Opportunities.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wp.oecd.ai">[wp.oecd.ai]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wp.oecd.ai</span><span class="citation-popover-snippet">Responsible AI SolutionsThis has been shown to occur in predictive models, large language models, and large statistical models amongst ot...</span></span></span>
+This can occur through several mechanisms:<span class="citation-chip-wrap"><a class="citation-chip" href="https://wp.oecd.ai/app/uploads/2025/05/RAI05-Scaling-Responsible-AI-Solutions-Challenges-and-Opportunities.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wp.oecd.ai">[wp.oecd.ai]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wp.oecd.ai</span><span class="citation-popover-snippet">Responsible AI SolutionsThis has been shown to occur in predictive models, large language models, and large statistical models amongst ot...</span></span></span>
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
@@ -377,7 +377,7 @@ This can occur through several mechanisms: <span class="citation-chip-wrap"><a c
 
 </div>
 
-OECD analysis of AI infrastructure and competition has highlighted concerns around bundling, tying, ecosystem effects, and market concentration. These dynamics can reinforce the position of incumbent firms even when new competitors emerge. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/blogs/2026/03/is-ai-across-the-stack-competitive-or-concentrated.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-title">is ai across the stack competitive or concentrated</span><span class="citation-popover-snippet">?Mar 4, 2026 — The rapid pace of technological change, the concentration of key inputs like data and computing power, and the growing rol...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/publications/artificial-intelligence-and-competitive-dynamics-in-downstream-markets_ccf0624a-en/full-report/component-4.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-title">component 4</span><span class="citation-popover-snippet">Artificial intelligence and competitive dynamics in...Nov 14, 2025 — This paper examines how the adoption of artificial intelligence (AI...</span></span></span>
+OECD analysis of AI infrastructure and competition has highlighted concerns around bundling, tying, ecosystem effects, and market concentration. These dynamics can reinforce the position of incumbent firms even when new competitors emerge.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/blogs/2026/03/is-ai-across-the-stack-competitive-or-concentrated.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-title">is ai across the stack competitive or concentrated</span><span class="citation-popover-snippet">?Mar 4, 2026 — The rapid pace of technological change, the concentration of key inputs like data and computing power, and the growing rol...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/publications/artificial-intelligence-and-competitive-dynamics-in-downstream-markets_ccf0624a-en/full-report/component-4.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-title">component 4</span><span class="citation-popover-snippet">Artificial intelligence and competitive dynamics in...Nov 14, 2025 — This paper examines how the adoption of artificial intelligence (AI...</span></span></span>
 
 The long-term concern is not merely high prices. It is that a few organisations could become de facto governors of access to intelligence itself.
 
@@ -395,9 +395,9 @@ Critics worry that AI may replace tasks faster than economies create new forms o
 
 Both possibilities may occur simultaneously.
 
-IMF analysis suggests that around 40% of jobs worldwide could be affected by AI, with substantially higher exposure in advanced economies. The organisation has repeatedly warned that while some workers may experience productivity gains and higher earnings, others could face displacement, wage pressure, or reduced bargaining power. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.elibrary.imf.org/view/journals/001/2025/068/article-A001-en.xml" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elibrary.imf.org">[IMF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elibrary.imf.org</span><span class="citation-popover-snippet">IMF eLibraryAI Adoption and Inequality in - IMF eLibraryApr 4, 2025 — We find that while AI may reduce wage inequality by displacing high...</span></span></span>
+IMF analysis suggests that around 40% of jobs worldwide could be affected by AI, with substantially higher exposure in advanced economies. The organisation has repeatedly warned that while some workers may experience productivity gains and higher earnings, others could face displacement, wage pressure, or reduced bargaining power.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.elibrary.imf.org/view/journals/001/2025/068/article-A001-en.xml" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elibrary.imf.org">[IMF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elibrary.imf.org</span><span class="citation-popover-snippet">IMF eLibraryAI Adoption and Inequality in - IMF eLibraryApr 4, 2025 — We find that while AI may reduce wage inequality by displacing high...</span></span></span>
 
-Recent labour-market research suggests the adjustment process may be more complex than simple replacement. Firms appear to be reorganising work, redesigning tasks, and altering hiring patterns as AI capabilities spread. Some evidence indicates that senior roles may adapt differently from entry-level positions, raising concerns about career ladders and pathways into skilled professions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2605.23159" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Generative AI and the Reorganization of Labor Demand</span><span class="citation-popover-snippet">Generative AI and the Reorganization of Labor DemandMay 22, 2026...</span><span class="citation-popover-meta">Published: May 22, 2026</span></span></span>
+Recent labour-market research suggests the adjustment process may be more complex than simple replacement. Firms appear to be reorganising work, redesigning tasks, and altering hiring patterns as AI capabilities spread. Some evidence indicates that senior roles may adapt differently from entry-level positions, raising concerns about career ladders and pathways into skilled professions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2605.23159" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Generative AI and the Reorganization of Labor Demand</span><span class="citation-popover-snippet">Generative AI and the Reorganization of Labor DemandMay 22, 2026...</span><span class="citation-popover-meta">Published: May 22, 2026</span></span></span>
 
 For public policy, this creates a practical challenge. Even if AI eventually generates enormous prosperity, periods of disruption can still damage lives and communities. The political legitimacy of an AI-enabled future may depend less on long-run productivity statistics than on whether people experience the transition as fair.
 
@@ -414,7 +414,7 @@ The goal is not simply teaching people to use chatbots. It is helping workers ad
 
 If advanced AI makes expertise cheaper and more accessible, educational systems may need to focus more heavily on judgment, collaboration, creativity, scientific reasoning, and the ability to work alongside increasingly capable systems.
 
-However, education alone may not solve distribution problems if ownership of AI-generated value remains highly concentrated. Many economists therefore view skills policy as necessary but insufficient. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.imf.org/en/publications/wp/issues/2025/04/04/ai-adoption-and-inequality-565729" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imf.org">[IMF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imf.org</span><span class="citation-popover-title">ai adoption and inequality 565729</span><span class="citation-popover-snippet">AI Adoption and Inequality3 Apr 2025 — Some argue AI will exacerbate economic disparities, while others suggest it could reduce inequalit...</span></span></span>
+However, education alone may not solve distribution problems if ownership of AI-generated value remains highly concentrated. Many economists therefore view skills policy as necessary but insufficient.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.imf.org/en/publications/wp/issues/2025/04/04/ai-adoption-and-inequality-565729" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imf.org">[IMF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imf.org</span><span class="citation-popover-title">ai adoption and inequality 565729</span><span class="citation-popover-snippet">AI Adoption and Inequality3 Apr 2025 — Some argue AI will exacerbate economic disparities, while others suggest it could reduce inequalit...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hO_RuZusv-U" title="Building Public Interest AI: Catalytic Funding for Equitable Compute Access" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hO_RuZusv-U" target="_blank" rel="noopener noreferrer">Building Public Interest AI: Catalytic Funding for Equitable Compute Access</a></p><p class="youtube-embed-meta">Channel: IndiaAI &middot; Views: 250 &middot; Uploaded: February 2026 &middot; Length: 51 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hO_RuZusv-U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hO_RuZusv-U">Open on YouTube</a></p></div></div></div>
 
@@ -434,13 +434,13 @@ Potential approaches include:
 
 </div>
 
-These policies do not determine who wins technological competition. Instead, they aim to preserve the possibility of future competition and innovation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/publications/ai-and-the-global-productivity-divide_c315ea90-en.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-title">ai and the global productivity divide c315ea90 en</span><span class="citation-popover-snippet">AI and the global productivity divideDec 8, 2025 — This paper examines the potential of AI to foster productivity growth in Low-Incom...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/topics/sub-issues/ai-compute.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-snippet">AI computeArtificial intelligence promises tremendous benefits but also carries real risks. Some of these risks are already materialising...</span></span></span>
+These policies do not determine who wins technological competition. Instead, they aim to preserve the possibility of future competition and innovation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/publications/ai-and-the-global-productivity-divide_c315ea90-en.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-title">ai and the global productivity divide c315ea90 en</span><span class="citation-popover-snippet">AI and the global productivity divideDec 8, 2025 — This paper examines the potential of AI to foster productivity growth in Low-Incom...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/topics/sub-issues/ai-compute.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-snippet">AI computeArtificial intelligence promises tremendous benefits but also carries real risks. Some of these risks are already materialising...</span></span></span>
 
 ### Taxation and redistribution
 
 If AI significantly increases returns to capital relative to labour, governments may face pressure to redesign tax systems.
 
-Several IMF analyses argue that stronger taxation of capital income, profits, or wealth may become more important if AI-driven productivity gains concentrate ownership returns. Revenue could then support education, healthcare, transition assistance, public research, and broader access to AI-enabled services. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.imf.org/en/blogs/articles/2024/06/17/fiscal-policy-can-help-broaden-the-gains-of-ai-to-humanity" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imf.org">[IMF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imf.org</span><span class="citation-popover-snippet">Fiscal Policy Can Help Broaden the Gains of AI to Humanity17 Jun 2024 — Generative-AI, like other types of innovation, can lead to hig...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.imf.org/en/blogs/articles/2024/01/14/ai-will-transform-the-global-economy-lets-make-sure-it-benefits-humanity" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imf.org">[IMF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imf.org</span><span class="citation-popover-title">AI Will Transform the Global Economy</span><span class="citation-popover-snippet">Let&#x27;s Make Sure It...14 Jan 2024 — In a new analysis, IMF staff examine the potential impact of AI on the global labor market. Many stud...</span></span></span>
+Several IMF analyses argue that stronger taxation of capital income, profits, or wealth may become more important if AI-driven productivity gains concentrate ownership returns. Revenue could then support education, healthcare, transition assistance, public research, and broader access to AI-enabled services.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.imf.org/en/blogs/articles/2024/06/17/fiscal-policy-can-help-broaden-the-gains-of-ai-to-humanity" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imf.org">[IMF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imf.org</span><span class="citation-popover-snippet">Fiscal Policy Can Help Broaden the Gains of AI to Humanity17 Jun 2024 — Generative-AI, like other types of innovation, can lead to hig...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.imf.org/en/blogs/articles/2024/01/14/ai-will-transform-the-global-economy-lets-make-sure-it-benefits-humanity" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imf.org">[IMF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imf.org</span><span class="citation-popover-title">AI Will Transform the Global Economy</span><span class="citation-popover-snippet">Let&#x27;s Make Sure It...14 Jan 2024 — In a new analysis, IMF staff examine the potential impact of AI on the global labor market. Many stud...</span></span></span>
 
 The debate here is contentious.
 
@@ -467,7 +467,7 @@ The distribution challenge is not only domestic.
 
 Advanced AI capabilities are concentrated heavily in a small number of countries, particularly the United States and China. Many lower-income countries face constraints in computing infrastructure, electricity supply, technical talent, and research funding.
 
-If AI becomes a major driver of productivity growth, countries without access to the technology may fall further behind. OECD work on the global productivity divide highlights the possibility that AI could generate significant cross-country differences in growth depending on access and adoption. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-title">We work</span><span class="citation-popover-snippet">The Organisation for Economic Co-operation and...The OECD (Organisation for Economic Co-operation and Development) is a forum and...</span></span></span>
+If AI becomes a major driver of productivity growth, countries without access to the technology may fall further behind. OECD work on the global productivity divide highlights the possibility that AI could generate significant cross-country differences in growth depending on access and adoption.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-title">We work</span><span class="citation-popover-snippet">The Organisation for Economic Co-operation and...The OECD (Organisation for Economic Co-operation and Development) is a forum and...</span></span></span>
 
 Several mechanisms could widen international inequality:
 
@@ -477,13 +477,13 @@ Several mechanisms could widen international inequality:
 * Dependence on foreign cloud providers.
 * Lack of local-language AI systems.
 * Talent migration toward richer countries.
-* Unequal access to computing infrastructure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.adalovelaceinstitute.org/policy-briefing/global-public-compute/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adalovelaceinstitute.org">[adalovelaceinstitute.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adalovelaceinstitute.org</span><span class="citation-popover-title">global public compute</span><span class="citation-popover-snippet">Ada Lovelace InstituteMapping global approaches to public compute4 Nov 2024 — Exploration of a National AI Research Resource to provide p...</span></span></span>
+* Unequal access to computing infrastructure.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.adalovelaceinstitute.org/policy-briefing/global-public-compute/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adalovelaceinstitute.org">[adalovelaceinstitute.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adalovelaceinstitute.org</span><span class="citation-popover-title">global public compute</span><span class="citation-popover-snippet">Ada Lovelace InstituteMapping global approaches to public compute4 Nov 2024 — Exploration of a National AI Research Resource to provide p...</span></span></span>
 
 </div>
 
 At the same time, AI could also become a powerful development tool.
 
-Low-cost tutoring systems, medical assistants, agricultural advisory tools, translation systems, and scientific research platforms could help countries overcome longstanding shortages of expertise. The same technology that concentrates power could also lower barriers to knowledge and capability if access becomes sufficiently broad. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/topics/ai-compute.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-snippet">AI computeWorldwide venture capital (VC) investments in AI compute related start-ups have boomed, estimated at over USD 19 billion in 202...</span></span></span>
+Low-cost tutoring systems, medical assistants, agricultural advisory tools, translation systems, and scientific research platforms could help countries overcome longstanding shortages of expertise. The same technology that concentrates power could also lower barriers to knowledge and capability if access becomes sufficiently broad.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/topics/ai-compute.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-snippet">AI computeWorldwide venture capital (VC) investments in AI compute related start-ups have boomed, estimated at over USD 19 billion in 202...</span></span></span>
 
 The outcome depends heavily on governance choices rather than technical capability alone.
 
@@ -513,197 +513,197 @@ The history of technological progress suggests that institutions play a major ro
 
 The central public-policy challenge is therefore not simply how to build more capable AI. It is how to ensure that increasingly powerful systems expand the capabilities of entire societies rather than only the organisations that own them.
 
-For the broader AI bloom vision, this may be one of the decisive tests. If advanced AI can help create extraordinary wealth, knowledge, and productive capacity while remaining broadly accessible, it could become a foundation for long-term human flourishing on a scale far beyond present experience. If access remains narrow, the same technological success could produce a future that is richer but more divided, more dependent, and less widely empowering than its advocates hope. IMF <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.adalovelaceinstitute.org/policy-briefing/global-public-compute/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adalovelaceinstitute.org">[Ada Lovelace Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adalovelaceinstitute.org</span><span class="citation-popover-title">global public compute</span><span class="citation-popover-snippet">Ada Lovelace InstituteMapping global approaches to public compute4 Nov 2024 — Exploration of a National AI Research Resource to provide p...</span></span></span>
+For the broader AI bloom vision, this may be one of the decisive tests. If advanced AI can help create extraordinary wealth, knowledge, and productive capacity while remaining broadly accessible, it could become a foundation for long-term human flourishing on a scale far beyond present experience. If access remains narrow, the same technological success could produce a future that is richer but more divided, more dependent, and less widely empowering than its advocates hope. IMF<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.adalovelaceinstitute.org/policy-briefing/global-public-compute/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adalovelaceinstitute.org">[Ada Lovelace Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adalovelaceinstitute.org</span><span class="citation-popover-title">global public compute</span><span class="citation-popover-snippet">Ada Lovelace InstituteMapping global approaches to public compute4 Nov 2024 — Exploration of a National AI Research Resource to provide p...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Who Gets the Gains in an AI Enabled Society. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Who Gets the Gains in an AI Enabled Society. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Prediction+Machines+by+Ajay+Agrawal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Prediction Machines on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Y9LFtAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Prediction Machines" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Prediction+Machines+by+Ajay+Agrawal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Prediction Machines">Prediction Machines</a>
-        </h4>
-        <p class="fr-book-author">By Ajay Agrawal, Joshua Gans et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Prediction+Machines+by+Ajay+Agrawal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Prediction Machines on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Y9LFtAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Prediction Machines" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Prediction+Machines+by+Ajay+Agrawal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Prediction Machines">Prediction Machines</a>
+</h4>
+<p class="fr-book-author">By Ajay Agrawal, Joshua Gans et al.</p>
         
-        <p class="fr-book-desc">Explains how AI changes value creation and distribution.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Prediction+Machines+by+Ajay+Agrawal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how AI changes value creation and distribution.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Prediction+Machines+by+Ajay+Agrawal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Power+and+Progress+by+Daron+Acemoglu&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Power and Progress on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Y4Jr0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Power and Progress" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Power+and+Progress+by+Daron+Acemoglu&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Power and Progress">Power and Progress</a>
-        </h4>
-        <p class="fr-book-author">By Daron Acemoglu, Simon Johnson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Power+and+Progress+by+Daron+Acemoglu&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Power and Progress on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Y4Jr0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Power and Progress" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Power+and+Progress+by+Daron+Acemoglu&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Power and Progress">Power and Progress</a>
+</h4>
+<p class="fr-book-author">By Daron Acemoglu, Simon Johnson</p>
         
-        <p class="fr-book-desc">Directly examines who benefits from technological advances.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Power+and+Progress+by+Daron+Acemoglu&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly examines who benefits from technological advances.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Power+and+Progress+by+Daron+Acemoglu&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Coming Wave on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b0y5zwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Coming Wave" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Coming Wave">The Coming Wave</a>
-        </h4>
-        <p class="fr-book-author">By Mustafa Suleyman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Coming Wave on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b0y5zwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Coming Wave" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Coming Wave">The Coming Wave</a>
+</h4>
+<p class="fr-book-author">By Mustafa Suleyman</p>
         
-        <p class="fr-book-desc">Addresses broad access, governance and societal benefits.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses broad access, governance and societal benefits.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Age+of+A.I.%3A+And+Our+Human+Future+by+Henry+Kissinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Age of A.I.: And Our Human Future on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Age+of+A.I.%3A+And+Our+Human+Future+by+Henry+Kissinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Age of A.I.: And Our Human Future">The Age of A.I.: And Our Human Future</a>
-        </h4>
-        <p class="fr-book-author">By Henry Kissinger</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Age+of+A.I.%3A+And+Our+Human+Future+by+Henry+Kissinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Age of A.I.: And Our Human Future on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Age+of+A.I.%3A+And+Our+Human+Future+by+Henry+Kissinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Age of A.I.: And Our Human Future">The Age of A.I.: And Our Human Future</a>
+</h4>
+<p class="fr-book-author">By Henry Kissinger</p>
         
-        <p class="fr-book-desc">Discusses institutional responses to AI-driven change.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Age+of+A.I.%3A+And+Our+Human+Future+by+Henry+Kissinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses institutional responses to AI-driven change.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Age+of+A.I.%3A+And+Our+Human+Future+by+Henry+Kissinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Prediction+Machines&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Prediction Machines</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Power+and+Progress&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Power and Progress</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Coming+Wave&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Coming Wave</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Prediction+Machines&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Prediction Machines</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Power+and+Progress&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Power and Progress</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Coming+Wave&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Coming Wave</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-the-gains-in-an-ai-enabled-society-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="who-gets-the-gains-in-an-ai-enabled-society-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AI ARTIFICIAL INTELLIGENCE . 2001 ORIGINAL MOVIE POSTER vintage 24 YEARS OLD"><img src="https://i.ebayimg.com/images/g/f1kAAOSwQllkTTrV/s-l225.jpg" alt="Listing image for AI ARTIFICIAL INTELLIGENCE . 2001 ORIGINAL MOVIE POSTER vintage 24 YEARS OLD" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-the-gains-in-an-ai-enabled-society-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="who-gets-the-gains-in-an-ai-enabled-society-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer">AI ARTIFICIAL INTELLIGENCE . 2001 ORIGINAL MOVIE POSTER vintage 24 YEARS OLD</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-the-gains-in-an-ai-enabled-society-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="who-gets-the-gains-in-an-ai-enabled-society-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-the-gains-in-an-ai-enabled-society-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="who-gets-the-gains-in-an-ai-enabled-society-artificial-intelligence-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-the-gains-in-an-ai-enabled-society-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="who-gets-the-gains-in-an-ai-enabled-society-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AI ARTIFICIAL INTELLIGENCE . 2001 ORIGINAL MOVIE POSTER vintage 24 YEARS OLD"><img src="https://i.ebayimg.com/images/g/f1kAAOSwQllkTTrV/s-l225.jpg" alt="Listing image for AI ARTIFICIAL INTELLIGENCE . 2001 ORIGINAL MOVIE POSTER vintage 24 YEARS OLD" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-the-gains-in-an-ai-enabled-society-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="who-gets-the-gains-in-an-ai-enabled-society-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer">AI ARTIFICIAL INTELLIGENCE . 2001 ORIGINAL MOVIE POSTER vintage 24 YEARS OLD</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-the-gains-in-an-ai-enabled-society-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="who-gets-the-gains-in-an-ai-enabled-society-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-the-gains-in-an-ai-enabled-society-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="who-gets-the-gains-in-an-ai-enabled-society-artificial-intelligence-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-the-gains-in-an-ai-enabled-society-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="who-gets-the-gains-in-an-ai-enabled-society-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A I Artificial Intelligence 6 Movie Poster Art Print Print Classic Rare Gallery"><img src="https://i.ebayimg.com/images/g/-PcAAeSw5GNqCPEC/s-l225.jpg" alt="Listing image for A I Artificial Intelligence 6 Movie Poster Art Print Print Classic Rare Gallery" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-the-gains-in-an-ai-enabled-society-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="who-gets-the-gains-in-an-ai-enabled-society-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer">A I Artificial Intelligence 6 Movie Poster Art Print Print Classic Rare Gallery</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-the-gains-in-an-ai-enabled-society-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="who-gets-the-gains-in-an-ai-enabled-society-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-the-gains-in-an-ai-enabled-society-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="who-gets-the-gains-in-an-ai-enabled-society-artificial-intelligence-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-the-gains-in-an-ai-enabled-society-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="who-gets-the-gains-in-an-ai-enabled-society-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A I Artificial Intelligence 6 Movie Poster Art Print Print Classic Rare Gallery"><img src="https://i.ebayimg.com/images/g/-PcAAeSw5GNqCPEC/s-l225.jpg" alt="Listing image for A I Artificial Intelligence 6 Movie Poster Art Print Print Classic Rare Gallery" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-the-gains-in-an-ai-enabled-society-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="who-gets-the-gains-in-an-ai-enabled-society-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer">A I Artificial Intelligence 6 Movie Poster Art Print Print Classic Rare Gallery</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-the-gains-in-an-ai-enabled-society-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="who-gets-the-gains-in-an-ai-enabled-society-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-the-gains-in-an-ai-enabled-society-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="who-gets-the-gains-in-an-ai-enabled-society-artificial-intelligence-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-the-gains-in-an-ai-enabled-society-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="who-gets-the-gains-in-an-ai-enabled-society-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A.I. Artificial Intelligence Film Poster/Print A3/A4/A5 230gsm Framed"><img src="https://i.ebayimg.com/images/g/FxgAAeSwbvFo3ltn/s-l225.jpg" alt="Listing image for A.I. Artificial Intelligence Film Poster/Print A3/A4/A5 230gsm Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-the-gains-in-an-ai-enabled-society-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="who-gets-the-gains-in-an-ai-enabled-society-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer">A.I. Artificial Intelligence Film Poster/Print A3/A4/A5 230gsm Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-the-gains-in-an-ai-enabled-society-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="who-gets-the-gains-in-an-ai-enabled-society-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-the-gains-in-an-ai-enabled-society-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="who-gets-the-gains-in-an-ai-enabled-society-artificial-intelligence-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-the-gains-in-an-ai-enabled-society-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="who-gets-the-gains-in-an-ai-enabled-society-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A.I. Artificial Intelligence Film Poster/Print A3/A4/A5 230gsm Framed"><img src="https://i.ebayimg.com/images/g/FxgAAeSwbvFo3ltn/s-l225.jpg" alt="Listing image for A.I. Artificial Intelligence Film Poster/Print A3/A4/A5 230gsm Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-the-gains-in-an-ai-enabled-society-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="who-gets-the-gains-in-an-ai-enabled-society-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer">A.I. Artificial Intelligence Film Poster/Print A3/A4/A5 230gsm Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-the-gains-in-an-ai-enabled-society-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="who-gets-the-gains-in-an-ai-enabled-society-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-the-gains-in-an-ai-enabled-society-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="who-gets-the-gains-in-an-ai-enabled-society-artificial-intelligence-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-the-gains-in-an-ai-enabled-society-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="who-gets-the-gains-in-an-ai-enabled-society-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Artificial intelligence is no a mat Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/7q0AAeSwc-Fp2SC1/s-l225.jpg" alt="Listing image for Artificial intelligence is no a mat Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-the-gains-in-an-ai-enabled-society-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="who-gets-the-gains-in-an-ai-enabled-society-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer">Artificial intelligence is no a mat Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-the-gains-in-an-ai-enabled-society-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="who-gets-the-gains-in-an-ai-enabled-society-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-the-gains-in-an-ai-enabled-society-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="who-gets-the-gains-in-an-ai-enabled-society-artificial-intelligence-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-the-gains-in-an-ai-enabled-society-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="who-gets-the-gains-in-an-ai-enabled-society-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-the-gains-in-an-ai-enabled-society-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="who-gets-the-gains-in-an-ai-enabled-society-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Artificial intelligence is no a mat Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/7q0AAeSwc-Fp2SC1/s-l225.jpg" alt="Listing image for Artificial intelligence is no a mat Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-the-gains-in-an-ai-enabled-society-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="who-gets-the-gains-in-an-ai-enabled-society-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer">Artificial intelligence is no a mat Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-the-gains-in-an-ai-enabled-society-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="who-gets-the-gains-in-an-ai-enabled-society-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-the-gains-in-an-ai-enabled-society-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="who-gets-the-gains-in-an-ai-enabled-society-artificial-intelligence-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-the-gains-in-an-ai-enabled-society-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="who-gets-the-gains-in-an-ai-enabled-society-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -719,7 +719,7 @@ For the broader AI bloom vision, this may be one of the decisive tests. If advan
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -739,7 +739,7 @@ For the broader AI bloom vision, this may be one of the decisive tests. If advan
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -771,7 +771,7 @@ For the broader AI bloom vision, this may be one of the decisive tests. If advan
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -823,7 +823,7 @@ For the broader AI bloom vision, this may be one of the decisive tests. If advan
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -868,7 +868,7 @@ For the broader AI bloom vision, this may be one of the decisive tests. If advan
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -909,255 +909,255 @@ For the broader AI bloom vision, this may be one of the decisive tests. If advan
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: imf.org  
    Title: broadening the gains from generative ai the role of fiscal policies 549639  
-   Link: <a href="https://www.imf.org/en/publications/staff-discussion-notes/issues/2024/06/11/broadening-the-gains-from-generative-ai-the-role-of-fiscal-policies-549639" target="_blank" rel="noopener noreferrer nofollow">https://www.imf.org/en/publications/staff-discussion-notes/issues/2024/06/11/broadening-the-gains-from-generative-ai-the-role-of-fiscal-policies-549639</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Broadening the Gains from Generative AI: The Role of...11 Jun 2024 — This note discusses how fiscal policies can be employed to steer...</p></details>
+   Link:<a href="https://www.imf.org/en/publications/staff-discussion-notes/issues/2024/06/11/broadening-the-gains-from-generative-ai-the-role-of-fiscal-policies-549639" target="_blank" rel="noopener noreferrer nofollow">https://www.imf.org/en/publications/staff-discussion-notes/issues/2024/06/11/broadening-the-gains-from-generative-ai-the-role-of-fiscal-policies-549639</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Broadening the Gains from Generative AI: The Role of...11 Jun 2024 — This note discusses how fiscal policies can be employed to steer...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: imf.org  
-   Link: <a href="https://www.imf.org/en/topics/artificial-intelligence" target="_blank" rel="noopener noreferrer nofollow">https://www.imf.org/en/topics/artificial-intelligence</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Artificial IntelligenceGenerative AI is already changing how economies function—from public services to labor markets. This technology ma...</p></details>
+   Link:<a href="https://www.imf.org/en/topics/artificial-intelligence" target="_blank" rel="noopener noreferrer nofollow">https://www.imf.org/en/topics/artificial-intelligence</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Artificial IntelligenceGenerative AI is already changing how economies function—from public services to labor markets. This technology ma...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: oecd.org  
    Title: component 5  
-   Link: <a href="https://www.oecd.org/en/publications/2024/05/oecd-digital-economy-outlook-2024-volume-1_d30a04c9/full-report/component-5.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/2024/05/oecd-digital-economy-outlook-2024-volume-1_d30a04c9/full-report/component-5.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OECD Digital Economy Outlook 2024 (Volume 1)May 14, 2024 — Computing infrastructure (“AI compute”) is a key component needed for AI d...</p></details>
+   Link:<a href="https://www.oecd.org/en/publications/2024/05/oecd-digital-economy-outlook-2024-volume-1_d30a04c9/full-report/component-5.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/2024/05/oecd-digital-economy-outlook-2024-volume-1_d30a04c9/full-report/component-5.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OECD Digital Economy Outlook 2024 (Volume 1)May 14, 2024 — Computing infrastructure (“AI compute”) is a key component needed for AI d...</p></details>
    Published: May 14, 2024  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: oecd.org  
    Title: component 6  
-   Link: <a href="https://www.oecd.org/en/publications/competition-in-artificial-intelligence-infrastructure_623d1874-en/full-report/component-6.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/competition-in-artificial-intelligence-infrastructure_623d1874-en/full-report/component-6.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Market features in AI infrastructure: Competition in artificial...Nov 14, 2025 — In the context of AI infrastructure, such competition c...</p></details>
+   Link:<a href="https://www.oecd.org/en/publications/competition-in-artificial-intelligence-infrastructure_623d1874-en/full-report/component-6.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/competition-in-artificial-intelligence-infrastructure_623d1874-en/full-report/component-6.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Market features in AI infrastructure: Competition in artificial...Nov 14, 2025 — In the context of AI infrastructure, such competition c...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: oecd.org  
    Title: component 7  
-   Link: <a href="https://www.oecd.org/en/publications/competition-in-artificial-intelligence-infrastructure_623d1874-en/full-report/component-7.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/competition-in-artificial-intelligence-infrastructure_623d1874-en/full-report/component-7.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Potential competition policy responses in AI infrastructureNov 14, 2025 — The competition issues in the cloud were discussed in more...</p></details>
+   Link:<a href="https://www.oecd.org/en/publications/competition-in-artificial-intelligence-infrastructure_623d1874-en/full-report/component-7.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/competition-in-artificial-intelligence-infrastructure_623d1874-en/full-report/component-7.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Potential competition policy responses in AI infrastructureNov 14, 2025 — The competition issues in the cloud were discussed in more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: oecd.org  
    Title: is ai across the stack competitive or concentrated  
-   Link: <a href="https://www.oecd.org/en/blogs/2026/03/is-ai-across-the-stack-competitive-or-concentrated.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/blogs/2026/03/is-ai-across-the-stack-competitive-or-concentrated.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>?Mar 4, 2026 — The rapid pace of technological change, the concentration of key inputs like data and computing power, and the growing rol...</p></details>
+   Link:<a href="https://www.oecd.org/en/blogs/2026/03/is-ai-across-the-stack-competitive-or-concentrated.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/blogs/2026/03/is-ai-across-the-stack-competitive-or-concentrated.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>?Mar 4, 2026 — The rapid pace of technological change, the concentration of key inputs like data and computing power, and the growing rol...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: elibrary.imf.org  
-   Link: <a href="https://www.elibrary.imf.org/view/journals/001/2025/068/article-A001-en.xml" target="_blank" rel="noopener noreferrer nofollow">https://www.elibrary.imf.org/view/journals/001/2025/068/article-A001-en.xml</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>IMF eLibraryAI Adoption and Inequality in - IMF eLibraryApr 4, 2025 — We find that while AI may reduce wage inequality by displacing high...</p></details>
+   Link:<a href="https://www.elibrary.imf.org/view/journals/001/2025/068/article-A001-en.xml" target="_blank" rel="noopener noreferrer nofollow">https://www.elibrary.imf.org/view/journals/001/2025/068/article-A001-en.xml</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>IMF eLibraryAI Adoption and Inequality in - IMF eLibraryApr 4, 2025 — We find that while AI may reduce wage inequality by displacing high...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: imf.org  
    Title: ai adoption and inequality 565729  
-   Link: <a href="https://www.imf.org/en/publications/wp/issues/2025/04/04/ai-adoption-and-inequality-565729" target="_blank" rel="noopener noreferrer nofollow">https://www.imf.org/en/publications/wp/issues/2025/04/04/ai-adoption-and-inequality-565729</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Adoption and Inequality3 Apr 2025 — Some argue AI will exacerbate economic disparities, while others suggest it could reduce inequalit...</p></details>
+   Link:<a href="https://www.imf.org/en/publications/wp/issues/2025/04/04/ai-adoption-and-inequality-565729" target="_blank" rel="noopener noreferrer nofollow">https://www.imf.org/en/publications/wp/issues/2025/04/04/ai-adoption-and-inequality-565729</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI Adoption and Inequality3 Apr 2025 — Some argue AI will exacerbate economic disparities, while others suggest it could reduce inequalit...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: imf.org  
-   Link: <a href="https://www.imf.org/en/blogs/articles/2024/06/17/fiscal-policy-can-help-broaden-the-gains-of-ai-to-humanity" target="_blank" rel="noopener noreferrer nofollow">https://www.imf.org/en/blogs/articles/2024/06/17/fiscal-policy-can-help-broaden-the-gains-of-ai-to-humanity</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fiscal Policy Can Help Broaden the Gains of AI to Humanity17 Jun 2024 — Generative-AI, like other types of innovation, can lead to hig...</p></details>
+   Link:<a href="https://www.imf.org/en/blogs/articles/2024/06/17/fiscal-policy-can-help-broaden-the-gains-of-ai-to-humanity" target="_blank" rel="noopener noreferrer nofollow">https://www.imf.org/en/blogs/articles/2024/06/17/fiscal-policy-can-help-broaden-the-gains-of-ai-to-humanity</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fiscal Policy Can Help Broaden the Gains of AI to Humanity17 Jun 2024 — Generative-AI, like other types of innovation, can lead to hig...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: institute.global  
    Title: sovereignty security scale a uk strategy for ai infrastructure  
-   Link: <a href="https://institute.global/insights/tech-and-digitalisation/sovereignty-security-scale-a-uk-strategy-for-ai-infrastructure" target="_blank" rel="noopener noreferrer nofollow">https://institute.global/insights/tech-and-digitalisation/sovereignty-security-scale-a-uk-strategy-for-ai-infrastructure</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tony Blair InstituteSovereignty, Security, Scale: A UK Strategy for AI...29 Jul 2025 — Securing public-access compute: Growth zones can...</p></details>
+   Link:<a href="https://institute.global/insights/tech-and-digitalisation/sovereignty-security-scale-a-uk-strategy-for-ai-infrastructure" target="_blank" rel="noopener noreferrer nofollow">https://institute.global/insights/tech-and-digitalisation/sovereignty-security-scale-a-uk-strategy-for-ai-infrastructure</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tony Blair InstituteSovereignty, Security, Scale: A UK Strategy for AI...29 Jul 2025 — Securing public-access compute: Growth zones can...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: oecd.org  
    Title: component 4  
-   Link: <a href="https://www.oecd.org/en/publications/artificial-intelligence-and-competitive-dynamics-in-downstream-markets_ccf0624a-en/full-report/component-4.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/artificial-intelligence-and-competitive-dynamics-in-downstream-markets_ccf0624a-en/full-report/component-4.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Artificial intelligence and competitive dynamics in...Nov 14, 2025 — This paper examines how the adoption of artificial intelligence (AI...</p></details>
+   Link:<a href="https://www.oecd.org/en/publications/artificial-intelligence-and-competitive-dynamics-in-downstream-markets_ccf0624a-en/full-report/component-4.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/artificial-intelligence-and-competitive-dynamics-in-downstream-markets_ccf0624a-en/full-report/component-4.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Artificial intelligence and competitive dynamics in...Nov 14, 2025 — This paper examines how the adoption of artificial intelligence (AI...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: imf.org  
    Title: AI Will Transform the Global Economy  
-   Link: <a href="https://www.imf.org/en/blogs/articles/2024/01/14/ai-will-transform-the-global-economy-lets-make-sure-it-benefits-humanity" target="_blank" rel="noopener noreferrer nofollow">https://www.imf.org/en/blogs/articles/2024/01/14/ai-will-transform-the-global-economy-lets-make-sure-it-benefits-humanity</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Let&#x27;s Make Sure It...14 Jan 2024 — In a new analysis, IMF staff examine the potential impact of AI on the global labor market. Many stud...</p></details>
+   Link:<a href="https://www.imf.org/en/blogs/articles/2024/01/14/ai-will-transform-the-global-economy-lets-make-sure-it-benefits-humanity" target="_blank" rel="noopener noreferrer nofollow">https://www.imf.org/en/blogs/articles/2024/01/14/ai-will-transform-the-global-economy-lets-make-sure-it-benefits-humanity</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Let&#x27;s Make Sure It...14 Jan 2024 — In a new analysis, IMF staff examine the potential impact of AI on the global labor market. Many stud...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: imf.org  
    Title: gen ai artificial intelligence and the future of work 542379  
-   Link: <a href="https://www.imf.org/en/publications/staff-discussion-notes/issues/2024/01/14/gen-ai-artificial-intelligence-and-the-future-of-work-542379" target="_blank" rel="noopener noreferrer nofollow">https://www.imf.org/en/publications/staff-discussion-notes/issues/2024/01/14/gen-ai-artificial-intelligence-and-the-future-of-work-542379</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gen-AI: Artificial Intelligence and the Future of Work14 Jan 2024 — Artificial Intelligence (AI) has the potential to reshape the global...</p></details>
+   Link:<a href="https://www.imf.org/en/publications/staff-discussion-notes/issues/2024/01/14/gen-ai-artificial-intelligence-and-the-future-of-work-542379" target="_blank" rel="noopener noreferrer nofollow">https://www.imf.org/en/publications/staff-discussion-notes/issues/2024/01/14/gen-ai-artificial-intelligence-and-the-future-of-work-542379</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gen-AI: Artificial Intelligence and the Future of Work14 Jan 2024 — Artificial Intelligence (AI) has the potential to reshape the global...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: arxiv.org  
    Title: arXiv Generative AI and the Reorganization of Labor Demand  
-   Link: <a href="https://arxiv.org/abs/2605.23159" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2605.23159</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Generative AI and the Reorganization of Labor DemandMay 22, 2026...</p></details>
+   Link:<a href="https://arxiv.org/abs/2605.23159" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2605.23159</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Generative AI and the Reorganization of Labor DemandMay 22, 2026...</p></details>
    Published: May 22, 2026  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: oecd.org  
    Title: ai and the global productivity divide c315ea90 en  
-   Link: <a href="https://www.oecd.org/en/publications/ai-and-the-global-productivity-divide_c315ea90-en.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/ai-and-the-global-productivity-divide_c315ea90-en.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI and the global productivity divideDec 8, 2025 — This paper examines the potential of AI to foster productivity growth in Low-Incom...</p></details>
+   Link:<a href="https://www.oecd.org/en/publications/ai-and-the-global-productivity-divide_c315ea90-en.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/ai-and-the-global-productivity-divide_c315ea90-en.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI and the global productivity divideDec 8, 2025 — This paper examines the potential of AI to foster productivity growth in Low-Incom...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: oecd.org  
-   Link: <a href="https://www.oecd.org/en/topics/sub-issues/ai-compute.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/topics/sub-issues/ai-compute.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI computeArtificial intelligence promises tremendous benefits but also carries real risks. Some of these risks are already materialising...</p></details>
+   Link:<a href="https://www.oecd.org/en/topics/sub-issues/ai-compute.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/topics/sub-issues/ai-compute.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI computeArtificial intelligence promises tremendous benefits but also carries real risks. Some of these risks are already materialising...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: oecd.org  
    Title: We work  
-   Link: <a href="https://www.oecd.org/en.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Organisation for Economic Co-operation and...The OECD (Organisation for Economic Co-operation and Development) is a forum and...</p></details>
+   Link:<a href="https://www.oecd.org/en.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Organisation for Economic Co-operation and...The OECD (Organisation for Economic Co-operation and Development) is a forum and...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: oecd.org  
-   Link: <a href="https://www.oecd.org/en/topics/ai-compute.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/topics/ai-compute.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI computeWorldwide venture capital (VC) investments in AI compute related start-ups have boomed, estimated at over USD 19 billion in 202...</p></details>
+   Link:<a href="https://www.oecd.org/en/topics/ai-compute.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/topics/ai-compute.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI computeWorldwide venture capital (VC) investments in AI compute related start-ups have boomed, estimated at over USD 19 billion in 202...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: oecd.org  
    Title: artificial intelligence and wage inequality bf98a45c en  
-   Link: <a href="https://www.oecd.org/en/publications/artificial-intelligence-and-wage-inequality_bf98a45c-en.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/artificial-intelligence-and-wage-inequality_bf98a45c-en.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It uses a measure of occupational exposure to AI derived from that...</p></details>
+   Link:<a href="https://www.oecd.org/en/publications/artificial-intelligence-and-wage-inequality_bf98a45c-en.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/artificial-intelligence-and-wage-inequality_bf98a45c-en.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It uses a measure of occupational exposure to AI derived from that...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: oecd.org  
-   Link: <a href="https://www.oecd.org/en/topics/policy-issues/artificial-intelligence.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/topics/policy-issues/artificial-intelligence.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Artificial intelligenceThe largest divide is by age, with a gap of 53.6 percentage points, while differences by educational attainment an...</p></details>
+   Link:<a href="https://www.oecd.org/en/topics/policy-issues/artificial-intelligence.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/topics/policy-issues/artificial-intelligence.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Artificial intelligenceThe largest divide is by age, with a gap of 53.6 percentage points, while differences by educational attainment an...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: oecd.org  
    Title: component 5  
-   Link: <a href="https://www.oecd.org/en/publications/artificial-intelligence-and-competitive-dynamics-in-downstream-markets_ccf0624a-en/full-report/component-5.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/artificial-intelligence-and-competitive-dynamics-in-downstream-markets_ccf0624a-en/full-report/component-5.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The impact of AI adoption on market dynamicsNov 14, 2025 — This paper examines how the adoption of artificial intelligence (AI), particul...</p></details>
+   Link:<a href="https://www.oecd.org/en/publications/artificial-intelligence-and-competitive-dynamics-in-downstream-markets_ccf0624a-en/full-report/component-5.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/artificial-intelligence-and-competitive-dynamics-in-downstream-markets_ccf0624a-en/full-report/component-5.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The impact of AI adoption on market dynamicsNov 14, 2025 — This paper examines how the adoption of artificial intelligence (AI), particul...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: oecd.org  
-   Link: <a href="https://www.oecd.org/en/about/news/announcements/2026/01/ai-use-by-individuals-surges-across-the-oecd-as-adoption-by-firms-continues-to-expand.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/about/news/announcements/2026/01/ai-use-by-individuals-surges-across-the-oecd-as-adoption-by-firms-continues-to-expand.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI use by individuals surges across the OECD as adoption...Jan 28, 2026 — The largest divide is by age, with a gap of 53.6 percentage po...</p></details>
+   Link:<a href="https://www.oecd.org/en/about/news/announcements/2026/01/ai-use-by-individuals-surges-across-the-oecd-as-adoption-by-firms-continues-to-expand.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/about/news/announcements/2026/01/ai-use-by-individuals-surges-across-the-oecd-as-adoption-by-firms-continues-to-expand.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI use by individuals surges across the OECD as adoption...Jan 28, 2026 — The largest divide is by age, with a gap of 53.6 percentage po...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: oecd.org  
-   Link: <a href="https://www.oecd.org/en/publications/competition-in-artificial-intelligence-infrastructure_623d1874-en/full-report/component-5.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/competition-in-artificial-intelligence-infrastructure_623d1874-en/full-report/component-5.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Overview of the AI supply chain: Competition in artificial...Nov 14, 2025 — Training large models like LLMs requires thousands of GPUs t...</p></details>
+   Link:<a href="https://www.oecd.org/en/publications/competition-in-artificial-intelligence-infrastructure_623d1874-en/full-report/component-5.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/competition-in-artificial-intelligence-infrastructure_623d1874-en/full-report/component-5.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Overview of the AI supply chain: Competition in artificial...Nov 14, 2025 — Training large models like LLMs requires thousands of GPUs t...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: oecd.org  
    Title: full report  
-   Link: <a href="https://www.oecd.org/en/publications/venture-capital-investments-in-artificial-intelligence-through-2025_a13752f5-en/full-report.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/venture-capital-investments-in-artificial-intelligence-through-2025_a13752f5-en/full-report.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Venture capital investments in artificial intelligence through...Feb 17, 2026 — This policy brief examines recent global venture capital...</p></details>
+   Link:<a href="https://www.oecd.org/en/publications/venture-capital-investments-in-artificial-intelligence-through-2025_a13752f5-en/full-report.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/venture-capital-investments-in-artificial-intelligence-through-2025_a13752f5-en/full-report.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Venture capital investments in artificial intelligence through...Feb 17, 2026 — This policy brief examines recent global venture capital...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: oecd.org  
    Title: competition in artificial intelligence infrastructure  
-   Link: <a href="https://www.oecd.org/en/events/2025/12/competition-in-artificial-intelligence-infrastructure.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/events/2025/12/competition-in-artificial-intelligence-infrastructure.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In December 2025, the OECD held a roundtable discussion to explore potential competition issues arising from the physical infrastructure...</p></details>
+   Link:<a href="https://www.oecd.org/en/events/2025/12/competition-in-artificial-intelligence-infrastructure.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/events/2025/12/competition-in-artificial-intelligence-infrastructure.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In December 2025, the OECD held a roundtable discussion to explore potential competition issues arising from the physical infrastructure...</p></details>
    Published: December 2025  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: imf.org  
-   Link: <a href="https://www.imf.org/-/media/files/publications/sdn/2024/english/sdnea2024001.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.imf.org/-/media/files/publications/sdn/2024/english/sdnea2024001.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gen-AI: Artificial Intelligence and the Future of Workby G Melina · 2024 · Cited by 12 — Labor income inequality may increase if the comp...</p></details>
+   Link:<a href="https://www.imf.org/-/media/files/publications/sdn/2024/english/sdnea2024001.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.imf.org/-/media/files/publications/sdn/2024/english/sdnea2024001.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gen-AI: Artificial Intelligence and the Future of Workby G Melina · 2024 · Cited by 12 — Labor income inequality may increase if the comp...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: imf.org  
-   Link: <a href="https://www.imf.org/-/media/files/publications/sdn/2024/english/sdnea2024002.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.imf.org/-/media/files/publications/sdn/2024/english/sdnea2024002.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Adoption of gen AI will likely be uneven, and the size and rapid speed of transformation risk disrupting labor markets.R...</p></details>
+   Link:<a href="https://www.imf.org/-/media/files/publications/sdn/2024/english/sdnea2024002.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.imf.org/-/media/files/publications/sdn/2024/english/sdnea2024002.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Adoption of gen AI will likely be uneven, and the size and rapid speed of transformation risk disrupting labor markets.R...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: imf.org  
    Title: wpiea2025068 print pdf  
-   Link: <a href="https://www.imf.org/-/media/files/publications/wp/2025/english/wpiea2025068-print-pdf.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.imf.org/-/media/files/publications/wp/2025/english/wpiea2025068-print-pdf.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Adoption and Inequality, WP/25/68, April 2025by E Rockall · 2025 · Cited by 23 — We investigate both theoretically and empiri- cally h...</p></details>
+   Link:<a href="https://www.imf.org/-/media/files/publications/wp/2025/english/wpiea2025068-print-pdf.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.imf.org/-/media/files/publications/wp/2025/english/wpiea2025068-print-pdf.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI Adoption and Inequality, WP/25/68, April 2025by E Rockall · 2025 · Cited by 23 — We investigate both theoretically and empiri- cally h...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: imf.org  
-   Link: <a href="https://www.imf.org/en/publications/sprolls/staff-discussion-notes" target="_blank" rel="noopener noreferrer nofollow">https://www.imf.org/en/publications/sprolls/staff-discussion-notes</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Staff Discussion NotesBroadening the Gains from Generative AI: The Role of Fiscal Policies... Labor income inequality may increase if th...</p></details>
+   Link:<a href="https://www.imf.org/en/publications/sprolls/staff-discussion-notes" target="_blank" rel="noopener noreferrer nofollow">https://www.imf.org/en/publications/sprolls/staff-discussion-notes</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Staff Discussion NotesBroadening the Gains from Generative AI: The Role of Fiscal Policies... Labor income inequality may increase if th...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: imf.org  
-   Link: <a href="https://www.imf.org/-/media/files/publications/sdn/2026/english/sdnea2026001.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.imf.org/-/media/files/publications/sdn/2026/english/sdnea2026001.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>New Jobs Creation in the AI Age (SDN/2026/001)by L Li · 2026 — ABSTRACT: The demand and supply of new skills—especially in IT and AI—are...</p></details>
+   Link:<a href="https://www.imf.org/-/media/files/publications/sdn/2026/english/sdnea2026001.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.imf.org/-/media/files/publications/sdn/2026/english/sdnea2026001.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New Jobs Creation in the AI Age (SDN/2026/001)by L Li · 2026 — ABSTRACT: The demand and supply of new skills—especially in IT and AI—are...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: institute.global  
    Title: the impact of ai on the labour market  
-   Link: <a href="https://institute.global/insights/economic-prosperity/the-impact-of-ai-on-the-labour-market" target="_blank" rel="noopener noreferrer nofollow">https://institute.global/insights/economic-prosperity/the-impact-of-ai-on-the-labour-market</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>8 Nov 2024 — Around 40 per cent of global employment is expected to be affected in one way or another by generative AI according to the I...</p></details>
+   Link:<a href="https://institute.global/insights/economic-prosperity/the-impact-of-ai-on-the-labour-market" target="_blank" rel="noopener noreferrer nofollow">https://institute.global/insights/economic-prosperity/the-impact-of-ai-on-the-labour-market</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>8 Nov 2024 — Around 40 per cent of global employment is expected to be affected in one way or another by generative AI according to the I...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: wp.oecd.ai  
-   Link: <a href="https://wp.oecd.ai/app/uploads/2025/05/RAI05-Scaling-Responsible-AI-Solutions-Challenges-and-Opportunities.pdf" target="_blank" rel="noopener noreferrer nofollow">https://wp.oecd.ai/app/uploads/2025/05/RAI05-Scaling-Responsible-AI-Solutions-Challenges-and-Opportunities.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Responsible AI SolutionsThis has been shown to occur in predictive models, large language models, and large statistical models amongst ot...</p></details>
+   Link:<a href="https://wp.oecd.ai/app/uploads/2025/05/RAI05-Scaling-Responsible-AI-Solutions-Challenges-and-Opportunities.pdf" target="_blank" rel="noopener noreferrer nofollow">https://wp.oecd.ai/app/uploads/2025/05/RAI05-Scaling-Responsible-AI-Solutions-Challenges-and-Opportunities.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Responsible AI SolutionsThis has been shown to occur in predictive models, large language models, and large statistical models amongst ot...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: oecd.ai  
    Title: the geopgraphy of ai compute mapping what is available and where  
-   Link: <a href="https://oecd.ai/en/wonk/the-geopgraphy-of-ai-compute-mapping-what-is-available-and-where" target="_blank" rel="noopener noreferrer nofollow">https://oecd.ai/en/wonk/the-geopgraphy-of-ai-compute-mapping-what-is-available-and-where</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The geography of AI compute: Mapping what is available...Oct 29, 2025 — 13 OECD countries hosted public cloud compute relevant to both t...</p></details>
+   Link:<a href="https://oecd.ai/en/wonk/the-geopgraphy-of-ai-compute-mapping-what-is-available-and-where" target="_blank" rel="noopener noreferrer nofollow">https://oecd.ai/en/wonk/the-geopgraphy-of-ai-compute-mapping-what-is-available-and-where</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The geography of AI compute: Mapping what is available...Oct 29, 2025 — 13 OECD countries hosted public cloud compute relevant to both t...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: adalovelaceinstitute.org  
    Title: global public compute  
-   Link: <a href="https://www.adalovelaceinstitute.org/policy-briefing/global-public-compute/" target="_blank" rel="noopener noreferrer nofollow">https://www.adalovelaceinstitute.org/policy-briefing/global-public-compute/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ada Lovelace InstituteMapping global approaches to public compute4 Nov 2024 — Exploration of a National AI Research Resource to provide p...</p></details>
+   Link:<a href="https://www.adalovelaceinstitute.org/policy-briefing/global-public-compute/" target="_blank" rel="noopener noreferrer nofollow">https://www.adalovelaceinstitute.org/policy-briefing/global-public-compute/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ada Lovelace InstituteMapping global approaches to public compute4 Nov 2024 — Exploration of a National AI Research Resource to provide p...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: diginomica.com  
-   Link: <a href="https://diginomica.com/imf-capital-income-and-wealth-inequality-always-increase-ai-adoption" target="_blank" rel="noopener noreferrer nofollow">https://diginomica.com/imf-capital-income-and-wealth-inequality-always-increase-ai-adoption</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>IMF - &#x27;capital income and wealth inequality always increase...16 Jan 2024 — The IMF&#x27;s report offers balanced - and substantiated - insig...</p></details>
+   Link:<a href="https://diginomica.com/imf-capital-income-and-wealth-inequality-always-increase-ai-adoption" target="_blank" rel="noopener noreferrer nofollow">https://diginomica.com/imf-capital-income-and-wealth-inequality-always-increase-ai-adoption</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>IMF - &#x27;capital income and wealth inequality always increase...16 Jan 2024 — The IMF&#x27;s report offers balanced - and substantiated - insig...</p></details>
 
 ### Additional References
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: marketwatch.com  
-   Link: <a href="https://www.marketwatch.com/story/imf-sees-need-for-tax-changes-more-support-for-unemployed-as-ai-spreads-85d51fbb" target="_blank" rel="noopener noreferrer nofollow">https://www.marketwatch.com/story/imf-sees-need-for-tax-changes-more-support-for-unemployed-as-ai-spreads-85d51fbb</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The IMF highlights that generative AI could spread faster than previous technologies and has the potential to both displace and create jo...</p></details>
+   Link:<a href="https://www.marketwatch.com/story/imf-sees-need-for-tax-changes-more-support-for-unemployed-as-ai-spreads-85d51fbb" target="_blank" rel="noopener noreferrer nofollow">https://www.marketwatch.com/story/imf-sees-need-for-tax-changes-more-support-for-unemployed-as-ai-spreads-85d51fbb</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The IMF highlights that generative AI could spread faster than previous technologies and has the potential to both displace and create jo...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/technology/2026/jan/23/ai-tsunami-labour-market-youth-employment-says-head-of-imf-davos" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2026/jan/23/ai-tsunami-labour-market-youth-employment-says-head-of-imf-davos</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>According to IMF research, AI could affect 60% of jobs in advanced economies—either by enhancing, transforming, or eliminating them—and 4...</p></details>
+   Link:<a href="https://www.theguardian.com/technology/2026/jan/23/ai-tsunami-labour-market-youth-employment-says-head-of-imf-davos" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2026/jan/23/ai-tsunami-labour-market-youth-employment-says-head-of-imf-davos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>According to IMF research, AI could affect 60% of jobs in advanced economies—either by enhancing, transforming, or eliminating them—and 4...</p></details>
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: aigi.ox.ac.uk  
-   Link: <a href="https://aigi.ox.ac.uk/wp-content/uploads/2025/12/Operationalising-AI-Benefit-Sharing-Workshop-02.12.2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aigi.ox.ac.uk/wp-content/uploads/2025/12/Operationalising-AI-Benefit-Sharing-Workshop-02.12.2025.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BENEFIT-SHARING FRAMEWORK: BALANCING...To fill this gap, this paper proposes a framework for AI benefit-sharing – the fair distribution...</p></details>
+   Link:<a href="https://aigi.ox.ac.uk/wp-content/uploads/2025/12/Operationalising-AI-Benefit-Sharing-Workshop-02.12.2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aigi.ox.ac.uk/wp-content/uploads/2025/12/Operationalising-AI-Benefit-Sharing-Workshop-02.12.2025.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BENEFIT-SHARING FRAMEWORK: BALANCING...To fill this gap, this paper proposes a framework for AI benefit-sharing – the fair distribution...</p></details>
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/jean-d-anglade-5542a6242_oecd-artificial-intelligence-papers-oct-activity-7393647667618422784-JfGs" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/jean-d-anglade-5542a6242_oecd-artificial-intelligence-papers-oct-activity-7393647667618422784-JfGs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fewer than ten global firms (mainly American and Chinese) provide over 70% of the world&#x27;s AI-capable compute.Read more...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/jean-d-anglade-5542a6242_oecd-artificial-intelligence-papers-oct-activity-7393647667618422784-JfGs" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/jean-d-anglade-5542a6242_oecd-artificial-intelligence-papers-oct-activity-7393647667618422784-JfGs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fewer than ten global firms (mainly American and Chinese) provide over 70% of the world&#x27;s AI-capable compute.Read more...</p></details>
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=0flRGaHdAG0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0flRGaHdAG0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>IMF Chief Warns AI will Affect 40% of All Jobs | Job Market...IMF Chief Warns AI will Affect 40% of All Jobs | Job Market Crisis | Vanta...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=0flRGaHdAG0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0flRGaHdAG0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>IMF Chief Warns AI will Affect 40% of All Jobs | Job Market...IMF Chief Warns AI will Affect 40% of All Jobs | Job Market Crisis | Vanta...</p></details>
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: inc.com  
    Title: imf report on ai raises profound concerns about massive labor disruption  
-   Link: <a href="https://www.inc.com/brian-contreras/imf-report-on-ai-raises-profound-concerns-about-massive-labor-disruption.html" target="_blank" rel="noopener noreferrer nofollow">https://www.inc.com/brian-contreras/imf-report-on-ai-raises-profound-concerns-about-massive-labor-disruption.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>IMF Report on AI Raises &#x27;Profound Concerns About Massive...18 Jun 2024 — A report published this week by the International Monetary Fund...</p></details>
+   Link:<a href="https://www.inc.com/brian-contreras/imf-report-on-ai-raises-profound-concerns-about-massive-labor-disruption.html" target="_blank" rel="noopener noreferrer nofollow">https://www.inc.com/brian-contreras/imf-report-on-ai-raises-profound-concerns-about-massive-labor-disruption.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>IMF Report on AI Raises &#x27;Profound Concerns About Massive...18 Jun 2024 — A report published this week by the International Monetary Fund...</p></details>
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: oscarip.co.uk  
-   Link: <a href="https://www.oscarip.co.uk/news/latest-news-for-business/archive/news-article/2024/February/artificial-intelligence-will-affect-jobs-and-worsen-inequality-says-imf" target="_blank" rel="noopener noreferrer nofollow">https://www.oscarip.co.uk/news/latest-news-for-business/archive/news-article/2024/February/artificial-intelligence-will-affect-jobs-and-worsen-inequality-says-imf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the world and deepen inequality, the International Monetary Fund (IMF) has warned.Read more...</p></details>
+   Link:<a href="https://www.oscarip.co.uk/news/latest-news-for-business/archive/news-article/2024/February/artificial-intelligence-will-affect-jobs-and-worsen-inequality-says-imf" target="_blank" rel="noopener noreferrer nofollow">https://www.oscarip.co.uk/news/latest-news-for-business/archive/news-article/2024/February/artificial-intelligence-will-affect-jobs-and-worsen-inequality-says-imf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the world and deepen inequality, the International Monetary Fund (IMF) has warned.Read more...</p></details>
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: rfmiller.com  
-   Link: <a href="https://www.rfmiller.com/news/latest-news-for-business/archive/news-article/2024/February/artificial-intelligence-will-affect-jobs-and-worsen-inequality-says-imf" target="_blank" rel="noopener noreferrer nofollow">https://www.rfmiller.com/news/latest-news-for-business/archive/news-article/2024/February/artificial-intelligence-will-affect-jobs-and-worsen-inequality-says-imf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the world and deepen inequality, the International Monetary Fund (IMF) has warned.Read more...</p></details>
+   Link:<a href="https://www.rfmiller.com/news/latest-news-for-business/archive/news-article/2024/February/artificial-intelligence-will-affect-jobs-and-worsen-inequality-says-imf" target="_blank" rel="noopener noreferrer nofollow">https://www.rfmiller.com/news/latest-news-for-business/archive/news-article/2024/February/artificial-intelligence-will-affect-jobs-and-worsen-inequality-says-imf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the world and deepen inequality, the International Monetary Fund (IMF) has warned.Read more...</p></details>
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: ilo.org  
-   Link: <a href="https://www.ilo.org/meetings-and-events/economic-impacts-and-regulation-ai-review-academic-literature-and-policy" target="_blank" rel="noopener noreferrer nofollow">https://www.ilo.org/meetings-and-events/economic-impacts-and-regulation-ai-review-academic-literature-and-policy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ghlighting discrepancies between theoretical predictions and empirical data.Read more...</p></details>
+   Link:<a href="https://www.ilo.org/meetings-and-events/economic-impacts-and-regulation-ai-review-academic-literature-and-policy" target="_blank" rel="noopener noreferrer nofollow">https://www.ilo.org/meetings-and-events/economic-impacts-and-regulation-ai-review-academic-literature-and-policy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ghlighting discrepancies between theoretical predictions and empirical data.Read more...</p></details>
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: suerf.org  
    Title: artificial intelligence labour markets and inflation  
-   Link: <a href="https://www.suerf.org/publications/suerf-policy-notes-and-briefs/artificial-intelligence-labour-markets-and-inflation/" target="_blank" rel="noopener noreferrer nofollow">https://www.suerf.org/publications/suerf-policy-notes-and-briefs/artificial-intelligence-labour-markets-and-inflation/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Artificial intelligence, labour markets and inflation11 Jul 2024 — In this policy brief we lay out the key mechanisms through which AI ma...</p></details>
+   Link:<a href="https://www.suerf.org/publications/suerf-policy-notes-and-briefs/artificial-intelligence-labour-markets-and-inflation/" target="_blank" rel="noopener noreferrer nofollow">https://www.suerf.org/publications/suerf-policy-notes-and-briefs/artificial-intelligence-labour-markets-and-inflation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Artificial intelligence, labour markets and inflation11 Jul 2024 — In this policy brief we lay out the key mechanisms through which AI ma...</p></details>

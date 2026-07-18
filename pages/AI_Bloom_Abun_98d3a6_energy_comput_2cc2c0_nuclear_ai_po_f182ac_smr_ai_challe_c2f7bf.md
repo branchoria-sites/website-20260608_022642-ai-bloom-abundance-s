@@ -269,10 +269,10 @@ image: /assets/images/AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0_nuclear_ai_po_f1
 
 ## Introduction
 
-Small modular reactors (SMRs) are often presented as a neat answer to one of the biggest questions in the AI boom: where will the enormous amounts of clean, reliable electricity come from? In theory, advanced nuclear reactors could provide round-the-clock [power]({{ 'power/' | relative_url }}) for data centres without the carbon emissions of gas plants and without the intermittency challenges of wind and solar. That promise helps explain why companies such as Google, Microsoft, Amazon and Meta have explored nuclear partnerships as AI electricity demand rises. <span class="citation-chip-wrap"><a class="citation-chip" href="https://blog.google/company-news/outreach-and-initiatives/sustainability/google-kairos-power-nuclear-energy-agreement/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.google">[blog.google]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.google</span><span class="citation-popover-title">google kairos power nuclear energy agreement</span><span class="citation-popover-snippet">New nuclear clean energy agreement with Kairos PowerOct 14, 2024 — The initial phase of work is intended to bring Kairos Power&#x27;s first SM...</span></span></span>
+Small modular reactors (SMRs) are often presented as a neat answer to one of the biggest questions in the AI boom: where will the enormous amounts of clean, reliable electricity come from? In theory, advanced nuclear reactors could provide round-the-clock [power]({{ 'power/' | relative_url }}) for data centres without the carbon emissions of gas plants and without the intermittency challenges of wind and solar. That promise helps explain why companies such as Google, Microsoft, Amazon and Meta have explored nuclear partnerships as AI electricity demand rises.<span class="citation-chip-wrap"><a class="citation-chip" href="https://blog.google/company-news/outreach-and-initiatives/sustainability/google-kairos-power-nuclear-energy-agreement/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.google">[blog.google]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.google</span><span class="citation-popover-title">google kairos power nuclear energy agreement</span><span class="citation-popover-snippet">New nuclear clean energy agreement with Kairos PowerOct 14, 2024 — The initial phase of work is intended to bring Kairos Power&#x27;s first SM...</span></span></span>
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0_nuclear_ai_po_f182ac_smr_ai_challe_c2f7bf-Illustration-1-dark.svg" | relative_url }}" alt="SMR Deployment Limits illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0_nuclear_ai_po_f182ac_smr_ai_challe_c2f7bf-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0_nuclear_ai_po_f182ac_smr_ai_challe_c2f7bf-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The problem is that most advanced SMRs are still years away from large-scale commercial deployment. Many designs remain in demonstration phases, licensing systems are still adapting to new reactor technologies, supply chains are immature, and the economics remain uncertain. Even where technology firms are signing nuclear agreements, many of the projects expected to support AI workloads are targeting the early 2030s or later rather than solving today's power shortages. <span class="citation-chip-wrap"><a class="citation-chip" href="https://blog.google/company-news/outreach-and-initiatives/sustainability/google-kairos-power-nuclear-energy-agreement/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.google">[blog.google]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.google</span><span class="citation-popover-title">google kairos power nuclear energy agreement</span><span class="citation-popover-snippet">New nuclear clean energy agreement with Kairos PowerOct 14, 2024 — The initial phase of work is intended to bring Kairos Power&#x27;s first SM...</span></span></span> TechCrunch For advocates of an AI-enabled future of abundance <span class="citation-chip-wrap"><a class="citation-chip" href="https://techcrunch.com/2024/10/14/google-signed-a-deal-to-power-data-centers-with-nuclear-micro-reactors-from-kairos-but-the-2030-timeline-is-very-optimistic/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techcrunch.com">[techcrunch.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techcrunch.com</span><span class="citation-popover-title">Tim De Chant. 3</span><span class="citation-popover-snippet">Google signed a deal to power data centers with nuclear...Oct 14, 2024 — Google signed a deal to power data centers with nucle...</span></span></span>, this matters because [energy]({{ 'energy/' | relative_url }}) is one of the key physical constraints on expanding computation, scientific research, [robotics]({{ 'robotics/' | relative_url }}) and industrial automation. If advanced reactors arrive slowly, the path from AI progress to broader human flourishing may depend more heavily on existing nuclear plants, grid expansion, renewables, storage, geothermal energy and other power sources in the near term.
+The problem is that most advanced SMRs are still years away from large-scale commercial deployment. Many designs remain in demonstration phases, licensing systems are still adapting to new reactor technologies, supply chains are immature, and the economics remain uncertain. Even where technology firms are signing nuclear agreements, many of the projects expected to support AI workloads are targeting the early 2030s or later rather than solving today's power shortages.<span class="citation-chip-wrap"><a class="citation-chip" href="https://blog.google/company-news/outreach-and-initiatives/sustainability/google-kairos-power-nuclear-energy-agreement/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.google">[blog.google]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.google</span><span class="citation-popover-title">google kairos power nuclear energy agreement</span><span class="citation-popover-snippet">New nuclear clean energy agreement with Kairos PowerOct 14, 2024 — The initial phase of work is intended to bring Kairos Power&#x27;s first SM...</span></span></span> TechCrunch For advocates of an AI-enabled future of abundance<span class="citation-chip-wrap"><a class="citation-chip" href="https://techcrunch.com/2024/10/14/google-signed-a-deal-to-power-data-centers-with-nuclear-micro-reactors-from-kairos-but-the-2030-timeline-is-very-optimistic/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techcrunch.com">[techcrunch.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techcrunch.com</span><span class="citation-popover-title">Tim De Chant. 3</span><span class="citation-popover-snippet">Google signed a deal to power data centers with nuclear...Oct 14, 2024 — Google signed a deal to power data centers with nucle...</span></span></span>, this matters because [energy]({{ 'energy/' | relative_url }}) is one of the key physical constraints on expanding computation, scientific research, [robotics]({{ 'robotics/' | relative_url }}) and industrial automation. If advanced reactors arrive slowly, the path from AI progress to broader human flourishing may depend more heavily on existing nuclear plants, grid expansion, renewables, storage, geothermal energy and other power sources in the near term.
 
 ## Technical Readiness Is Further Behind Than the Hype Suggests
 
@@ -280,12 +280,12 @@ One reason SMRs attract attention is that they promise to avoid some of the prob
 
 Yet many of the reactors discussed in AI power plans do not exist as commercial products today.
 
-Google's partnership with Kairos Power illustrates both the promise and the challenge. The companies announced plans to bring the first reactor online around 2030 and expand deployments through 2035. Even supporters describe this as an ambitious timeline because the reactors still need to move through demonstration, licensing, construction and commercial operation stages. <span class="citation-chip-wrap"><a class="citation-chip" href="https://blog.google/company-news/outreach-and-initiatives/sustainability/google-kairos-power-nuclear-energy-agreement/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.google">[blog.google]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.google</span><span class="citation-popover-title">google kairos power nuclear energy agreement</span><span class="citation-popover-snippet">New nuclear clean energy agreement with Kairos PowerOct 14, 2024 — The initial phase of work is intended to bring Kairos Power&#x27;s first SM...</span></span></span> NucNet The gap between announcement and deployment is important because AI infrastructure is growing much faster than nuclear construction. Hypersca <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nucnet.org/news/google-to-commit-funding-for-three-advanced-nuclear-power-projects-5-4-2025" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nucnet.org">[nucnet.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nucnet.org</span><span class="citation-popover-title">google to commit funding for three advanced nuclear power projects 5 4 2025</span><span class="citation-popover-snippet">Google To Commit Funding For Three Advanced Nuclear...8 May 2025 — The deal at that time said the first Kairos project would come online...</span><span class="citation-popover-meta">Published: May 2025</span></span></span> le data centres can be planned and built in a few years. Advanced reactors often require a decade or more from concept to operation, especially for first-of-a-kind designs. That creates a mismatch between the speed of AI demand growth and the speed of nuclear deployment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eia.gov/todayinenergy/detail.php?id=67584" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eia.gov">[U.S. Energy Information Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eia.gov</span><span class="citation-popover-snippet">U.S. Energy Information AdministrationToday in Energy8 days ago — High capital costs and lengthy licensing and approval processes have li...</span></span></span> TechCrunch Several technical issues contribute to the delay: <span class="citation-chip-wrap"><a class="citation-chip" href="https://techcrunch.com/2024/10/14/google-signed-a-deal-to-power-data-centers-with-nuclear-micro-reactors-from-kairos-but-the-2030-timeline-is-very-optimistic/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techcrunch.com">[techcrunch.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techcrunch.com</span><span class="citation-popover-title">Tim De Chant. 3</span><span class="citation-popover-snippet">Google signed a deal to power data centers with nuclear...Oct 14, 2024 — Google signed a deal to power data centers with nucle...</span></span></span>
+Google's partnership with Kairos Power illustrates both the promise and the challenge. The companies announced plans to bring the first reactor online around 2030 and expand deployments through 2035. Even supporters describe this as an ambitious timeline because the reactors still need to move through demonstration, licensing, construction and commercial operation stages.<span class="citation-chip-wrap"><a class="citation-chip" href="https://blog.google/company-news/outreach-and-initiatives/sustainability/google-kairos-power-nuclear-energy-agreement/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.google">[blog.google]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.google</span><span class="citation-popover-title">google kairos power nuclear energy agreement</span><span class="citation-popover-snippet">New nuclear clean energy agreement with Kairos PowerOct 14, 2024 — The initial phase of work is intended to bring Kairos Power&#x27;s first SM...</span></span></span> NucNet The gap between announcement and deployment is important because AI infrastructure is growing much faster than nuclear construction. Hypersca<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nucnet.org/news/google-to-commit-funding-for-three-advanced-nuclear-power-projects" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nucnet.org">[nucnet.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nucnet.org</span><span class="citation-popover-title">google to commit funding for three advanced nuclear power projects</span><span class="citation-popover-snippet">Google To Commit Funding For Three Advanced Nuclear...8 May 2025 — The deal at that time said the first Kairos project would come online...</span><span class="citation-popover-meta">Published: May 2025</span></span></span> le data centres can be planned and built in a few years. Advanced reactors often require a decade or more from concept to operation, especially for first-of-a-kind designs. That creates a mismatch between the speed of AI demand growth and the speed of nuclear deployment.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eia.gov/todayinenergy/detail.php?id=67584" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eia.gov">[U.S. Energy Information Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eia.gov</span><span class="citation-popover-snippet">U.S. Energy Information AdministrationToday in Energy8 days ago — High capital costs and lengthy licensing and approval processes have li...</span></span></span> TechCrunch Several technical issues contribute to the delay:<span class="citation-chip-wrap"><a class="citation-chip" href="https://techcrunch.com/2024/10/14/google-signed-a-deal-to-power-data-centers-with-nuclear-micro-reactors-from-kairos-but-the-2030-timeline-is-very-optimistic/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techcrunch.com">[techcrunch.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techcrunch.com</span><span class="citation-popover-title">Tim De Chant. 3</span><span class="citation-popover-snippet">Google signed a deal to power data centers with nuclear...Oct 14, 2024 — Google signed a deal to power data centers with nucle...</span></span></span>
 
 * Many advanced reactor designs still need extensive testing under real operating conditions.
 * Manufacturers have not yet demonstrated mass production of reactor modules at the scale envisioned by advocates.
 * Nuclear-grade supply chains remain limited after decades of relatively low reactor construction activity.
-* A shortage of specialised engineers, welders, inspectors and nuclear construction workers could constrain deployment even if demand rises sharply. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.irecruit.co/insights/smr-nuclear-powered-data-center-developments" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: irecruit.co">[irecruit.co]</a><span class="citation-popover" role="note"><span class="citation-popover-source">irecruit.co</span><span class="citation-popover-snippet">SMR Data Centers Tracker: Nuclear-Powered Projects 20267 days ago — The delays in deploying SMR-powered data centers largely arise from t...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://perkinscoie.com/insights/update/nuclear-industry-kicks-2026-major-public-and-private-sector-announcements-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: perkinscoie.com">[2perkinscoie.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">perkinscoie.com</span><span class="citation-popover-title">nuclear industry kicks 2026 major public and private sector announcements 0</span><span class="citation-popover-snippet">Nuclear Industry Kicks Off 2026 With Major Public and...Jan 27, 2026 — Project developers and hyperscalers face ongoing risks related to...</span></span></span>
+* A shortage of specialised engineers, welders, inspectors and nuclear construction workers could constrain deployment even if demand rises sharply.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.irecruit.co/insights/smr-nuclear-powered-data-center-developments" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: irecruit.co">[irecruit.co]</a><span class="citation-popover" role="note"><span class="citation-popover-source">irecruit.co</span><span class="citation-popover-snippet">SMR Data Centers Tracker: Nuclear-Powered Projects 20267 days ago — The delays in deploying SMR-powered data centers largely arise from t...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://perkinscoie.com/insights/update/nuclear-industry-kicks-2026-major-public-and-private-sector-announcements-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: perkinscoie.com">[2perkinscoie.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">perkinscoie.com</span><span class="citation-popover-title">nuclear industry kicks 2026 major public and private sector announcements 0</span><span class="citation-popover-snippet">Nuclear Industry Kicks Off 2026 With Major Public and...Jan 27, 2026 — Project developers and hyperscalers face ongoing risks related to...</span></span></span>
 
 These constraints do not mean SMRs will fail. They mean that projections assuming rapid deployment across dozens of AI campuses should be treated as scenarios rather than established outcomes.
 
@@ -297,9 +297,9 @@ Advanced reactors face a challenge common to many technologies connected to the 
 
 [Nuclear power]({{ 'nuclear-power/' | relative_url }}) operates under some of the world's strictest regulatory frameworks. That caution exists for obvious reasons. Reactor accidents are rare, but the consequences can be severe, and [public trust]({{ 'public-trust/' | relative_url }}) can be difficult to rebuild once lost.
 
-Many current regulations were designed around large conventional reactors rather than novel designs using different coolants, fuels and operating principles. As a result, regulators have had to develop new frameworks while preserving safety standards. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/sustainability/climate-energy/time-go-nuclear-inside-battle-power-ai--ecmii-2025-12-17/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Time to go nuclear?</span><span class="citation-popover-snippet">Inside the battle to power AIAs AI technology rapidly expands, the demand for data centers—and consequently, electricity—is soaring. Fore...</span></span></span>
+Many current regulations were designed around large conventional reactors rather than novel designs using different coolants, fuels and operating principles. As a result, regulators have had to develop new frameworks while preserving safety standards.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/sustainability/climate-energy/time-go-nuclear-inside-battle-power-ai--ecmii-2025-12-17/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Time to go nuclear?</span><span class="citation-popover-snippet">Inside the battle to power AIAs AI technology rapidly expands, the demand for data centers—and consequently, electricity—is soaring. Fore...</span></span></span>
 
-The US Nuclear Regulatory Commission has recently introduced reforms intended to accelerate advanced reactor licensing. These include new pathways for advanced reactors and microreactors, as well as efforts to shorten review times. Even so, the need for regulatory reform itself highlights how much work remains before advanced nuclear becomes routine infrastructure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/business/energy/nrc-rolls-out-reforms-accelerate-small-reactor-licensing--reeii-2026-05-26/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">NRC rolls out reforms to accelerate small reactor licensing</span><span class="citation-popover-snippet">Nuclear Regulatory Commission (NRC) is expediting three major regulatory reforms to fast-track small modular and microreactor licensing...</span></span></span>
+The US Nuclear Regulatory Commission has recently introduced reforms intended to accelerate advanced reactor licensing. These include new pathways for advanced reactors and microreactors, as well as efforts to shorten review times. Even so, the need for regulatory reform itself highlights how much work remains before advanced nuclear becomes routine infrastructure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/business/energy/nrc-rolls-out-reforms-accelerate-small-reactor-licensing--reeii-2026-05-26/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">NRC rolls out reforms to accelerate small reactor licensing</span><span class="citation-popover-snippet">Nuclear Regulatory Commission (NRC) is expediting three major regulatory reforms to fast-track small modular and microreactor licensing...</span></span></span>
 
 For AI companies, the challenge is not merely obtaining reactor approval. Projects may also require:
 
@@ -310,7 +310,7 @@ For AI companies, the challenge is not merely obtaining reactor approval. Projec
 * Transmission approvals.
 * Fuel handling authorisations.
 * Security and emergency planning requirements.
-* Community consultation and political approval. <span class="citation-chip-wrap"><a class="citation-chip" href="https://perkinscoie.com/insights/update/nuclear-industry-kicks-2026-major-public-and-private-sector-announcements-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: perkinscoie.com">[perkinscoie.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">perkinscoie.com</span><span class="citation-popover-title">nuclear industry kicks 2026 major public and private sector announcements 0</span><span class="citation-popover-snippet">Nuclear Industry Kicks Off 2026 With Major Public and...Jan 27, 2026 — Project developers and hyperscalers face ongoing risks related to...</span></span></span>
+* Community consultation and political approval.<span class="citation-chip-wrap"><a class="citation-chip" href="https://perkinscoie.com/insights/update/nuclear-industry-kicks-2026-major-public-and-private-sector-announcements-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: perkinscoie.com">[perkinscoie.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">perkinscoie.com</span><span class="citation-popover-title">nuclear industry kicks 2026 major public and private sector announcements 0</span><span class="citation-popover-snippet">Nuclear Industry Kicks Off 2026 With Major Public and...Jan 27, 2026 — Project developers and hyperscalers face ongoing risks related to...</span></span></span>
 
 </div>
 
@@ -322,7 +322,7 @@ Each stage can introduce delays. A technology company may be accustomed to scali
 
 One assumption behind some AI-and-nuclear forecasts is that once reactors become technically viable, deployment will expand rapidly. History suggests the social and political picture may be more complicated.
 
-Public attitudes toward nuclear energy have become more favourable in some countries because of concerns about climate change and energy security. Yet opposition has not disappeared. Questions about accident risk, waste disposal, security threats and long-term environmental impacts remain politically powerful. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/business/energy/pentagon-spurs-us-microreactor-race-commercial-hurdles-remain--reeii-2026-05-27/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Department of Defense (DOD) is accelerating development of nuclear microreactors—compact reactors with capacities of 1–20 MW—through init...</span></span></span>
+Public attitudes toward nuclear energy have become more favourable in some countries because of concerns about climate change and energy security. Yet opposition has not disappeared. Questions about accident risk, waste disposal, security threats and long-term environmental impacts remain politically powerful.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/business/energy/pentagon-spurs-us-microreactor-race-commercial-hurdles-remain--reeii-2026-05-27/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Department of Defense (DOD) is accelerating development of nuclear microreactors—compact reactors with capacities of 1–20 MW—through init...</span></span></span>
 
 This matters because many proposed AI facilities are located near population centres, industrial corridors or rapidly growing regions where land, water and transmission infrastructure are already contested resources.
 
@@ -345,7 +345,7 @@ The result is that deployment challenges are not purely engineering problems. Th
 
 Many advanced reactor concepts depend on specialised fuels that are not yet available at large commercial scale.
 
-A particularly important issue is High-Assay Low-Enriched Uranium (HALEU), a fuel required by numerous next-generation reactor designs. Supply remains limited, and geopolitical concerns have intensified scrutiny of nuclear fuel chains. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/sustainability/climate-energy/time-go-nuclear-inside-battle-power-ai--ecmii-2025-12-17/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Time to go nuclear?</span><span class="citation-popover-snippet">Inside the battle to power AIAs AI technology rapidly expands, the demand for data centers—and consequently, electricity—is soaring. Fore...</span></span></span>
+A particularly important issue is High-Assay Low-Enriched Uranium (HALEU), a fuel required by numerous next-generation reactor designs. Supply remains limited, and geopolitical concerns have intensified scrutiny of nuclear fuel chains.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/sustainability/climate-energy/time-go-nuclear-inside-battle-power-ai--ecmii-2025-12-17/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Time to go nuclear?</span><span class="citation-popover-snippet">Inside the battle to power AIAs AI technology rapidly expands, the demand for data centers—and consequently, electricity—is soaring. Fore...</span></span></span>
 
 For AI firms seeking confidence that reactors will operate for decades, fuel availability matters almost as much as reactor construction. A reactor design may look attractive on paper yet struggle commercially if fuel production lags behind deployment plans.
 
@@ -355,7 +355,7 @@ This challenge highlights a broader lesson often missed in discussions of AI abu
 
 A common narrative presents SMRs as if they could simply be attached to data centres and solve energy problems. Real power systems are more complicated.
 
-Large AI facilities can create unusual electricity demand patterns. Training runs, cooling systems and clustered computing loads can generate substantial fluctuations in consumption. Researchers studying AI-focused power systems have noted that these demand characteristics can affect grid stability and create integration challenges. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2504.02599" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Large AI facilities can create unusual electricity demand patterns. Training runs, cooling systems and clustered computing loads can generate substantial fluctuations in consumption. Researchers studying AI-focused power systems have noted that these demand characteristics can affect grid stability and create integration challenges.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2504.02599" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 Even if an advanced reactor supplies constant power, operators still need systems that can respond quickly to changing conditions.
 
@@ -368,7 +368,7 @@ This is why many proposed architectures combine multiple technologies rather tha
 * Backup generators.
 * Advanced cooling systems.
 * Load management software.
-* Energy storage integrated with reactor output. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2504.02599" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+* Energy storage integrated with reactor output.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2504.02599" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 </div>
 
@@ -384,13 +384,13 @@ AI workloads do not always align perfectly with that model. Some facilities expe
 
 That does not make nuclear unsuitable. It simply means the integration challenge is harder than matching a single power plant with a single customer.
 
-The more ambitious visions of AI-enabled scientific acceleration and industrial abundance could ultimately require highly flexible energy systems that combine firm nuclear generation with storage, transmission networks and other clean sources rather than relying on one technology alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2504.02599" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The more ambitious visions of AI-enabled scientific acceleration and industrial abundance could ultimately require highly flexible energy systems that combine firm nuclear generation with storage, transmission networks and other clean sources rather than relying on one technology alone.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2504.02599" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 ## The Economics Remain Uncertain
 
 The economic case for SMRs is one of the most contested parts of the debate.
 
-Supporters argue that factory manufacturing, standardisation and serial production will eventually reduce costs. Critics note that many projected savings remain hypothetical because large-scale manufacturing has not yet been demonstrated commercially. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.iea.org/reports/the-path-to-a-new-era-for-nuclear-energy/executive-summary" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iea.org">[IEA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iea.org</span><span class="citation-popover-snippet">Open... Small modular reactor global installed capacity by scenario and case, 2025-2050.Read more...</span></span></span>
+Supporters argue that factory manufacturing, standardisation and serial production will eventually reduce costs. Critics note that many projected savings remain hypothetical because large-scale manufacturing has not yet been demonstrated commercially.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.iea.org/reports/the-path-to-a-new-era-for-nuclear-energy/executive-summary" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iea.org">[IEA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iea.org</span><span class="citation-popover-snippet">Open... Small modular reactor global installed capacity by scenario and case, 2025-2050.Read more...</span></span></span>
 
 Advanced reactors also face a classic infrastructure problem: first projects are usually the most expensive.
 
@@ -401,210 +401,210 @@ Current responses vary:
 * Some firms are supporting advanced nuclear development despite long timelines.
 * Others are signing agreements with existing nuclear plants.
 * Many continue to invest heavily in renewables, storage and [grid upgrades]({{ 'grid-costs/' | relative_url }}).
-* Geothermal energy and other forms of firm clean power are also attracting interest as complementary options. <span class="citation-chip-wrap"><a class="citation-chip" href="https://blog.google/company-news/outreach-and-initiatives/sustainability/google-kairos-power-nuclear-energy-agreement/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.google">[blog.google]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.google</span><span class="citation-popover-title">google kairos power nuclear energy agreement</span><span class="citation-popover-snippet">New nuclear clean energy agreement with Kairos PowerOct 14, 2024 — The initial phase of work is intended to bring Kairos Power&#x27;s first SM...</span></span></span> Reuters The result is that SMRs are increasingly viewed as part of a broader energy portfolio rather than a single decisive solution. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/sustainability/climate-energy/time-go-nuclear-inside-battle-power-ai--ecmii-2025-12-17/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[reuters.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Time to go nuclear?</span><span class="citation-popover-snippet">Inside the battle to power AIAs AI technology rapidly expands, the demand for data centers—and consequently, electricity—is soaring. Fore...</span></span></span>
+* Geothermal energy and other forms of firm clean power are also attracting interest as complementary options.<span class="citation-chip-wrap"><a class="citation-chip" href="https://blog.google/company-news/outreach-and-initiatives/sustainability/google-kairos-power-nuclear-energy-agreement/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.google">[blog.google]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.google</span><span class="citation-popover-title">google kairos power nuclear energy agreement</span><span class="citation-popover-snippet">New nuclear clean energy agreement with Kairos PowerOct 14, 2024 — The initial phase of work is intended to bring Kairos Power&#x27;s first SM...</span></span></span> Reuters The result is that SMRs are increasingly viewed as part of a broader energy portfolio rather than a single decisive solution.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/sustainability/climate-energy/time-go-nuclear-inside-battle-power-ai--ecmii-2025-12-17/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[reuters.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Time to go nuclear?</span><span class="citation-popover-snippet">Inside the battle to power AIAs AI technology rapidly expands, the demand for data centers—and consequently, electricity—is soaring. Fore...</span></span></span>
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0_nuclear_ai_po_f182ac_smr_ai_challe_c2f7bf-Illustration-3-dark.svg" | relative_url }}" alt="SMR Deployment Limits illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0_nuclear_ai_po_f182ac_smr_ai_challe_c2f7bf-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0_nuclear_ai_po_f182ac_smr_ai_challe_c2f7bf-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What This Means for the AI Bloom Vision
 
 The idea of AI bloom depends partly on overcoming physical bottlenecks. If advanced AI accelerates science, medicine, manufacturing and knowledge creation, civilisation will need vast amounts of reliable energy to support that growth.
 
-Advanced SMRs fit naturally into that vision because they promise scalable, low-carbon electricity without many of the land-use constraints associated with some other energy sources. In the most optimistic scenario, successful reactor deployment could help power future laboratories, automated factories, desalination systems, climate-repair technologies and large-scale AI infrastructure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1738573324005643" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The potential role of small modular reactors (SMRs) in...by S Cha · 2025 · Cited by 20 — This study investigates the necess...</span></span></span>
+Advanced SMRs fit naturally into that vision because they promise scalable, low-carbon electricity without many of the land-use constraints associated with some other energy sources. In the most optimistic scenario, successful reactor deployment could help power future laboratories, automated factories, desalination systems, climate-repair technologies and large-scale AI infrastructure.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1738573324005643" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The potential role of small modular reactors (SMRs) in...by S Cha · 2025 · Cited by 20 — This study investigates the necess...</span></span></span>
 
 The challenge is timing.
 
-Most evidence suggests advanced SMRs are more likely to be part of the medium- and long-term energy picture than an immediate answer to today's AI power crunch. Licensing reforms, demonstration projects and corporate partnerships show genuine momentum, but commercial deployment at the scale required for a civilisation-wide expansion of AI remains uncertain and unfinished. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eia.gov/todayinenergy/detail.php?id=67584" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eia.gov">[U.S. Energy Information Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eia.gov</span><span class="citation-popover-snippet">U.S. Energy Information AdministrationToday in Energy8 days ago — High capital costs and lengthy licensing and approval processes have li...</span></span></span> 3Reuters 3blog.google(#endnote-1 "Snippet: New nuclear clean energy <span class="citation-chip-wrap"><a class="citation-chip" href="https://blog.google/company-news/outreach-and-initiatives/sustainability/google-kairos-power-nuclear-energy-agreement/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.google">[blog.google]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.google</span><span class="citation-popover-title">google kairos power nuclear energy agreement</span><span class="citation-popover-snippet">New nuclear clean energy agreement with Kairos PowerOct 14, 2024 — The initial phase of work is intended to bring Kairos Power&#x27;s first SM...</span></span></span> agreement with Kairos PowerOct 14, 2024 — The initial phase of work is intended to bring Kairos Power's first SM...")
+Most evidence suggests advanced SMRs are more likely to be part of the medium- and long-term energy picture than an immediate answer to today's AI power crunch. Licensing reforms, demonstration projects and corporate partnerships show genuine momentum, but commercial deployment at the scale required for a civilisation-wide expansion of AI remains uncertain and unfinished.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eia.gov/todayinenergy/detail.php?id=67584" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eia.gov">[U.S. Energy Information Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eia.gov</span><span class="citation-popover-snippet">U.S. Energy Information AdministrationToday in Energy8 days ago — High capital costs and lengthy licensing and approval processes have li...</span></span></span> 3Reuters 3blog.google(#endnote-1 "Snippet: New nuclear clean energy<span class="citation-chip-wrap"><a class="citation-chip" href="https://blog.google/company-news/outreach-and-initiatives/sustainability/google-kairos-power-nuclear-energy-agreement/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.google">[blog.google]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.google</span><span class="citation-popover-title">google kairos power nuclear energy agreement</span><span class="citation-popover-snippet">New nuclear clean energy agreement with Kairos PowerOct 14, 2024 — The initial phase of work is intended to bring Kairos Power&#x27;s first SM...</span></span></span> agreement with Kairos PowerOct 14, 2024 — The initial phase of work is intended to bring Kairos Power's first SM...")
 
 That does not weaken the broader case that abundant clean energy could help support a flourishing long-term future. It does suggest that the path there is likely to be slower, more politically contested and more infrastructure-intensive than some early narratives implied. The future of AI power may depend not on a single breakthrough reactor design, but on whether societies can build the regulatory systems, industrial capacity, grid networks and public trust needed to turn nuclear promises into operating power plants.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Small Modular Reactors Aren&#x27;t Yet Ready for AI. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Small Modular Reactors Aren&#x27;t Yet Ready for AI. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Nuclear+Energy+by+Charles+D.+Ferguson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Nuclear Energy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xC0hjKc2mZsC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Nuclear Energy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Nuclear+Energy+by+Charles+D.+Ferguson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Nuclear Energy">Nuclear Energy</a>
-        </h4>
-        <p class="fr-book-author">By Charles D. Ferguson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Nuclear+Energy+by+Charles+D.+Ferguson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Nuclear Energy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xC0hjKc2mZsC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Nuclear Energy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Nuclear+Energy+by+Charles+D.+Ferguson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Nuclear Energy">Nuclear Energy</a>
+</h4>
+<p class="fr-book-author">By Charles D. Ferguson</p>
         
-        <p class="fr-book-desc">Explains nuclear economics, regulation and deployment barriers relevant to SMRs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Nuclear+Energy+by+Charles+D.+Ferguson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains nuclear economics, regulation and deployment barriers relevant to SMRs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Nuclear+Energy+by+Charles+D.+Ferguson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Bright+Future+by+Joshua+S.+Goldstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Bright Future on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fkBfDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for A Bright Future" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+Bright+Future+by+Joshua+S.+Goldstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Bright Future">A Bright Future</a>
-        </h4>
-        <p class="fr-book-author">By Joshua S. Goldstein, Staffan A. Qvist</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Bright+Future+by+Joshua+S.+Goldstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Bright Future on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fkBfDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for A Bright Future" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+Bright+Future+by+Joshua+S.+Goldstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Bright Future">A Bright Future</a>
+</h4>
+<p class="fr-book-author">By Joshua S. Goldstein, Staffan A. Qvist</p>
         
-        <p class="fr-book-desc">Shows why nuclear is attractive while still requiring practical deployment timelines.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+Bright+Future+by+Joshua+S.+Goldstein&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows why nuclear is attractive while still requiring practical deployment timelines.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+Bright+Future+by+Joshua+S.+Goldstein&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Avoid+a+Climate+Disaster+by+Bill+Gates&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Avoid a Climate Disaster on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=yEGNEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How to Avoid a Climate Disaster" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Avoid+a+Climate+Disaster+by+Bill+Gates&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Avoid a Climate Disaster">How to Avoid a Climate Disaster</a>
-        </h4>
-        <p class="fr-book-author">By Bill Gates</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Avoid+a+Climate+Disaster+by+Bill+Gates&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Avoid a Climate Disaster on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=yEGNEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How to Avoid a Climate Disaster" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Avoid+a+Climate+Disaster+by+Bill+Gates&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Avoid a Climate Disaster">How to Avoid a Climate Disaster</a>
+</h4>
+<p class="fr-book-author">By Bill Gates</p>
         
-        <p class="fr-book-desc">Places advanced nuclear among the broader set of clean-energy innovation challenges.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Avoid+a+Climate+Disaster+by+Bill+Gates&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places advanced nuclear among the broader set of clean-energy innovation challenges.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Avoid+a+Climate+Disaster+by+Bill+Gates&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Grid+by+Gretchen+Bakke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Grid on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=u5AyEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Grid" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Grid+by+Gretchen+Bakke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Grid">The Grid</a>
-        </h4>
-        <p class="fr-book-author">By Gretchen Bakke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Grid+by+Gretchen+Bakke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Grid on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=u5AyEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Grid" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Grid+by+Gretchen+Bakke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Grid">The Grid</a>
+</h4>
+<p class="fr-book-author">By Gretchen Bakke</p>
         
-        <p class="fr-book-desc">Shows why new generation technologies still need grid integration and delivery infrastructure.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Grid+by+Gretchen+Bakke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows why new generation technologies still need grid integration and delivery infrastructure.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Grid+by+Gretchen+Bakke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Nuclear+Energy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Nuclear Energy</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Bright+Future&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Bright Future</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Avoid+a+Climate+Disaster&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Avoid a Climate Disaster</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Nuclear+Energy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Nuclear Energy</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Bright+Future&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Bright Future</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Avoid+a+Climate+Disaster&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Avoid a Climate Disaster</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=nuclear+power+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=smr-deployment-limits-why-small-modular-reactors-aren-t-yet-ready-for-ai-ai-bloom-abundance-supe-nuclear-power-poster-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nuclear power poster -book -books" data-ebay-reference="smr-deployment-limits-why-small-modular-reactors-aren-t-yet-ready-for-ai-ai-bloom-abundance-supe-nuclear-power-poster-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Oakflat PWR Nuclear Power Plant Sim Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/5f5860358940070c756b.jpg' | relative_url }}" alt="Listing image for Oakflat PWR Nuclear Power Plant Sim Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=nuclear+power+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=smr-deployment-limits-why-small-modular-reactors-aren-t-yet-ready-for-ai-ai-bloom-abundance-supe-nuclear-power-poster-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nuclear power poster -book -books" data-ebay-reference="smr-deployment-limits-why-small-modular-reactors-aren-t-yet-ready-for-ai-ai-bloom-abundance-supe-nuclear-power-poster-bo" target="_blank" rel="sponsored noopener noreferrer">Oakflat PWR Nuclear Power Plant Sim Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=nuclear+power+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=smr-deployment-limits-why-small-modular-reactors-aren-t-yet-ready-for-ai-ai-bloom-abundance-supe-nuclear-power-poster-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nuclear power poster -book -books" data-ebay-reference="smr-deployment-limits-why-small-modular-reactors-aren-t-yet-ready-for-ai-ai-bloom-abundance-supe-nuclear-power-poster-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for nuclear power poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: nuclear power poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=nuclear+power+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=smr-deployment-limits-why-small-modular-reactors-aren-t-yet-ready-for-ai-ai-bloom-abundance-supe-nuclear-power-poster-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nuclear power poster -book -books" data-ebay-reference="smr-deployment-limits-why-small-modular-reactors-aren-t-yet-ready-for-ai-ai-bloom-abundance-supe-nuclear-power-poster-bo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=nuclear+power+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=smr-deployment-limits-why-small-modular-reactors-aren-t-yet-ready-for-ai-ai-bloom-abundance-supe-nuclear-power-poster-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nuclear power poster -book -books" data-ebay-reference="smr-deployment-limits-why-small-modular-reactors-aren-t-yet-ready-for-ai-ai-bloom-abundance-supe-nuclear-power-poster-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Oakflat PWR Nuclear Power Plant Sim Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/5f5860358940070c756b.jpg' | relative_url }}" alt="Listing image for Oakflat PWR Nuclear Power Plant Sim Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=nuclear+power+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=smr-deployment-limits-why-small-modular-reactors-aren-t-yet-ready-for-ai-ai-bloom-abundance-supe-nuclear-power-poster-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nuclear power poster -book -books" data-ebay-reference="smr-deployment-limits-why-small-modular-reactors-aren-t-yet-ready-for-ai-ai-bloom-abundance-supe-nuclear-power-poster-bo" target="_blank" rel="sponsored noopener noreferrer">Oakflat PWR Nuclear Power Plant Sim Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=nuclear+power+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=smr-deployment-limits-why-small-modular-reactors-aren-t-yet-ready-for-ai-ai-bloom-abundance-supe-nuclear-power-poster-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nuclear power poster -book -books" data-ebay-reference="smr-deployment-limits-why-small-modular-reactors-aren-t-yet-ready-for-ai-ai-bloom-abundance-supe-nuclear-power-poster-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for nuclear power poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: nuclear power poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=nuclear+power+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=smr-deployment-limits-why-small-modular-reactors-aren-t-yet-ready-for-ai-ai-bloom-abundance-supe-nuclear-power-poster-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nuclear power poster -book -books" data-ebay-reference="smr-deployment-limits-why-small-modular-reactors-aren-t-yet-ready-for-ai-ai-bloom-abundance-supe-nuclear-power-poster-bo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=nuclear+power+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=smr-deployment-limits-why-small-modular-reactors-aren-t-yet-ready-for-ai-ai-bloom-abundance-supe-nuclear-power-poster-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nuclear power poster -book -books" data-ebay-reference="smr-deployment-limits-why-small-modular-reactors-aren-t-yet-ready-for-ai-ai-bloom-abundance-supe-nuclear-power-poster-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Richard Adams ‘Nuclear Power Gives Us Everything’ ‼️ RARE VINTAGE POSTER"><img src="{{ '/assets/images/marketplace-covers/621fd5322b4e25bcfbd1.jpg' | relative_url }}" alt="Listing image for Richard Adams ‘Nuclear Power Gives Us Everything’ ‼️ RARE VINTAGE POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=nuclear+power+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=smr-deployment-limits-why-small-modular-reactors-aren-t-yet-ready-for-ai-ai-bloom-abundance-supe-nuclear-power-poster-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nuclear power poster -book -books" data-ebay-reference="smr-deployment-limits-why-small-modular-reactors-aren-t-yet-ready-for-ai-ai-bloom-abundance-supe-nuclear-power-poster-bo" target="_blank" rel="sponsored noopener noreferrer">Richard Adams ‘Nuclear Power Gives Us Everything’ ‼️ RARE VINTAGE POSTER</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=nuclear+power+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=smr-deployment-limits-why-small-modular-reactors-aren-t-yet-ready-for-ai-ai-bloom-abundance-supe-nuclear-power-poster-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nuclear power poster -book -books" data-ebay-reference="smr-deployment-limits-why-small-modular-reactors-aren-t-yet-ready-for-ai-ai-bloom-abundance-supe-nuclear-power-poster-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for nuclear power poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: nuclear power poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=nuclear+power+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=smr-deployment-limits-why-small-modular-reactors-aren-t-yet-ready-for-ai-ai-bloom-abundance-supe-nuclear-power-poster-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nuclear power poster -book -books" data-ebay-reference="smr-deployment-limits-why-small-modular-reactors-aren-t-yet-ready-for-ai-ai-bloom-abundance-supe-nuclear-power-poster-bo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=nuclear+power+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=smr-deployment-limits-why-small-modular-reactors-aren-t-yet-ready-for-ai-ai-bloom-abundance-supe-nuclear-power-poster-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nuclear power poster -book -books" data-ebay-reference="smr-deployment-limits-why-small-modular-reactors-aren-t-yet-ready-for-ai-ai-bloom-abundance-supe-nuclear-power-poster-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Richard Adams ‘Nuclear Power Gives Us Everything’ ‼️ RARE VINTAGE POSTER"><img src="{{ '/assets/images/marketplace-covers/621fd5322b4e25bcfbd1.jpg' | relative_url }}" alt="Listing image for Richard Adams ‘Nuclear Power Gives Us Everything’ ‼️ RARE VINTAGE POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=nuclear+power+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=smr-deployment-limits-why-small-modular-reactors-aren-t-yet-ready-for-ai-ai-bloom-abundance-supe-nuclear-power-poster-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nuclear power poster -book -books" data-ebay-reference="smr-deployment-limits-why-small-modular-reactors-aren-t-yet-ready-for-ai-ai-bloom-abundance-supe-nuclear-power-poster-bo" target="_blank" rel="sponsored noopener noreferrer">Richard Adams ‘Nuclear Power Gives Us Everything’ ‼️ RARE VINTAGE POSTER</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=nuclear+power+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=smr-deployment-limits-why-small-modular-reactors-aren-t-yet-ready-for-ai-ai-bloom-abundance-supe-nuclear-power-poster-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nuclear power poster -book -books" data-ebay-reference="smr-deployment-limits-why-small-modular-reactors-aren-t-yet-ready-for-ai-ai-bloom-abundance-supe-nuclear-power-poster-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for nuclear power poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: nuclear power poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=nuclear+power+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=smr-deployment-limits-why-small-modular-reactors-aren-t-yet-ready-for-ai-ai-bloom-abundance-supe-nuclear-power-poster-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nuclear power poster -book -books" data-ebay-reference="smr-deployment-limits-why-small-modular-reactors-aren-t-yet-ready-for-ai-ai-bloom-abundance-supe-nuclear-power-poster-bo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=nuclear+power+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=smr-deployment-limits-why-small-modular-reactors-aren-t-yet-ready-for-ai-ai-bloom-abundance-supe-nuclear-power-poster-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nuclear power poster -book -books" data-ebay-reference="smr-deployment-limits-why-small-modular-reactors-aren-t-yet-ready-for-ai-ai-bloom-abundance-supe-nuclear-power-poster-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Atomic Utopia - Nuclear Power Stati Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/9c0045923c5418c69a52.jpg' | relative_url }}" alt="Listing image for Atomic Utopia - Nuclear Power Stati Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=nuclear+power+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=smr-deployment-limits-why-small-modular-reactors-aren-t-yet-ready-for-ai-ai-bloom-abundance-supe-nuclear-power-poster-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nuclear power poster -book -books" data-ebay-reference="smr-deployment-limits-why-small-modular-reactors-aren-t-yet-ready-for-ai-ai-bloom-abundance-supe-nuclear-power-poster-bo" target="_blank" rel="sponsored noopener noreferrer">Atomic Utopia - Nuclear Power Stati Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=nuclear+power+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=smr-deployment-limits-why-small-modular-reactors-aren-t-yet-ready-for-ai-ai-bloom-abundance-supe-nuclear-power-poster-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nuclear power poster -book -books" data-ebay-reference="smr-deployment-limits-why-small-modular-reactors-aren-t-yet-ready-for-ai-ai-bloom-abundance-supe-nuclear-power-poster-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for nuclear power poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: nuclear power poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=nuclear+power+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=smr-deployment-limits-why-small-modular-reactors-aren-t-yet-ready-for-ai-ai-bloom-abundance-supe-nuclear-power-poster-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nuclear power poster -book -books" data-ebay-reference="smr-deployment-limits-why-small-modular-reactors-aren-t-yet-ready-for-ai-ai-bloom-abundance-supe-nuclear-power-poster-bo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=nuclear+power+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=smr-deployment-limits-why-small-modular-reactors-aren-t-yet-ready-for-ai-ai-bloom-abundance-supe-nuclear-power-poster-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nuclear power poster -book -books" data-ebay-reference="smr-deployment-limits-why-small-modular-reactors-aren-t-yet-ready-for-ai-ai-bloom-abundance-supe-nuclear-power-poster-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Atomic Utopia - Nuclear Power Stati Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/9c0045923c5418c69a52.jpg' | relative_url }}" alt="Listing image for Atomic Utopia - Nuclear Power Stati Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=nuclear+power+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=smr-deployment-limits-why-small-modular-reactors-aren-t-yet-ready-for-ai-ai-bloom-abundance-supe-nuclear-power-poster-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nuclear power poster -book -books" data-ebay-reference="smr-deployment-limits-why-small-modular-reactors-aren-t-yet-ready-for-ai-ai-bloom-abundance-supe-nuclear-power-poster-bo" target="_blank" rel="sponsored noopener noreferrer">Atomic Utopia - Nuclear Power Stati Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=nuclear+power+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=smr-deployment-limits-why-small-modular-reactors-aren-t-yet-ready-for-ai-ai-bloom-abundance-supe-nuclear-power-poster-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nuclear power poster -book -books" data-ebay-reference="smr-deployment-limits-why-small-modular-reactors-aren-t-yet-ready-for-ai-ai-bloom-abundance-supe-nuclear-power-poster-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for nuclear power poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: nuclear power poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=nuclear+power+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=smr-deployment-limits-why-small-modular-reactors-aren-t-yet-ready-for-ai-ai-bloom-abundance-supe-nuclear-power-poster-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nuclear power poster -book -books" data-ebay-reference="smr-deployment-limits-why-small-modular-reactors-aren-t-yet-ready-for-ai-ai-bloom-abundance-supe-nuclear-power-poster-bo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=nuclear+power+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=smr-deployment-limits-why-small-modular-reactors-aren-t-yet-ready-for-ai-ai-bloom-abundance-supe-nuclear-power-poster-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nuclear power poster -book -books" data-ebay-reference="smr-deployment-limits-why-small-modular-reactors-aren-t-yet-ready-for-ai-ai-bloom-abundance-supe-nuclear-power-poster-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rare 1970s Vintage Poster, Nuclear Power Is Not Healthy"><img src="{{ '/assets/images/marketplace-covers/43ffa830f1467d263e89.jpg' | relative_url }}" alt="Listing image for Rare 1970s Vintage Poster, Nuclear Power Is Not Healthy" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=nuclear+power+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=smr-deployment-limits-why-small-modular-reactors-aren-t-yet-ready-for-ai-ai-bloom-abundance-supe-nuclear-power-poster-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nuclear power poster -book -books" data-ebay-reference="smr-deployment-limits-why-small-modular-reactors-aren-t-yet-ready-for-ai-ai-bloom-abundance-supe-nuclear-power-poster-bo" target="_blank" rel="sponsored noopener noreferrer">Rare 1970s Vintage Poster, Nuclear Power Is Not Healthy</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=nuclear+power+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=smr-deployment-limits-why-small-modular-reactors-aren-t-yet-ready-for-ai-ai-bloom-abundance-supe-nuclear-power-poster-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nuclear power poster -book -books" data-ebay-reference="smr-deployment-limits-why-small-modular-reactors-aren-t-yet-ready-for-ai-ai-bloom-abundance-supe-nuclear-power-poster-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for nuclear power poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: nuclear power poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=nuclear+power+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=smr-deployment-limits-why-small-modular-reactors-aren-t-yet-ready-for-ai-ai-bloom-abundance-supe-nuclear-power-poster-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nuclear power poster -book -books" data-ebay-reference="smr-deployment-limits-why-small-modular-reactors-aren-t-yet-ready-for-ai-ai-bloom-abundance-supe-nuclear-power-poster-bo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=nuclear+power+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=smr-deployment-limits-why-small-modular-reactors-aren-t-yet-ready-for-ai-ai-bloom-abundance-supe-nuclear-power-poster-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nuclear power poster -book -books" data-ebay-reference="smr-deployment-limits-why-small-modular-reactors-aren-t-yet-ready-for-ai-ai-bloom-abundance-supe-nuclear-power-poster-bo" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=nuclear+power+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=smr-deployment-limits-why-small-modular-reactors-aren-t-yet-ready-for-ai-ai-bloom-abundance-supe-nuclear-power-poster-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nuclear power poster -book -books" data-ebay-reference="smr-deployment-limits-why-small-modular-reactors-aren-t-yet-ready-for-ai-ai-bloom-abundance-supe-nuclear-power-poster-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rare 1970s Vintage Poster, Nuclear Power Is Not Healthy"><img src="{{ '/assets/images/marketplace-covers/43ffa830f1467d263e89.jpg' | relative_url }}" alt="Listing image for Rare 1970s Vintage Poster, Nuclear Power Is Not Healthy" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=nuclear+power+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=smr-deployment-limits-why-small-modular-reactors-aren-t-yet-ready-for-ai-ai-bloom-abundance-supe-nuclear-power-poster-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nuclear power poster -book -books" data-ebay-reference="smr-deployment-limits-why-small-modular-reactors-aren-t-yet-ready-for-ai-ai-bloom-abundance-supe-nuclear-power-poster-bo" target="_blank" rel="sponsored noopener noreferrer">Rare 1970s Vintage Poster, Nuclear Power Is Not Healthy</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=nuclear+power+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=smr-deployment-limits-why-small-modular-reactors-aren-t-yet-ready-for-ai-ai-bloom-abundance-supe-nuclear-power-poster-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nuclear power poster -book -books" data-ebay-reference="smr-deployment-limits-why-small-modular-reactors-aren-t-yet-ready-for-ai-ai-bloom-abundance-supe-nuclear-power-poster-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for nuclear power poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: nuclear power poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=nuclear+power+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=smr-deployment-limits-why-small-modular-reactors-aren-t-yet-ready-for-ai-ai-bloom-abundance-supe-nuclear-power-poster-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nuclear power poster -book -books" data-ebay-reference="smr-deployment-limits-why-small-modular-reactors-aren-t-yet-ready-for-ai-ai-bloom-abundance-supe-nuclear-power-poster-bo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=nuclear+power+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=smr-deployment-limits-why-small-modular-reactors-aren-t-yet-ready-for-ai-ai-bloom-abundance-supe-nuclear-power-poster-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nuclear power poster -book -books" data-ebay-reference="smr-deployment-limits-why-small-modular-reactors-aren-t-yet-ready-for-ai-ai-bloom-abundance-supe-nuclear-power-poster-bo" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -620,7 +620,7 @@ That does not weaken the broader case that abundant clean energy could help supp
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -640,7 +640,7 @@ That does not weaken the broader case that abundant clean energy could help supp
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -672,7 +672,7 @@ That does not weaken the broader case that abundant clean energy could help supp
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -724,7 +724,7 @@ That does not weaken the broader case that abundant clean energy could help supp
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -769,7 +769,7 @@ That does not weaken the broader case that abundant clean energy could help supp
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -810,153 +810,153 @@ That does not weaken the broader case that abundant clean energy could help supp
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: blog.google  
    Title: google kairos power nuclear energy agreement  
-   Link: <a href="https://blog.google/company-news/outreach-and-initiatives/sustainability/google-kairos-power-nuclear-energy-agreement/" target="_blank" rel="noopener noreferrer nofollow">https://blog.google/company-news/outreach-and-initiatives/sustainability/google-kairos-power-nuclear-energy-agreement/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>New nuclear clean energy agreement with Kairos PowerOct 14, 2024 — The initial phase of work is intended to bring Kairos Power&#x27;s first SM...</p></details>
+   Link:<a href="https://blog.google/company-news/outreach-and-initiatives/sustainability/google-kairos-power-nuclear-energy-agreement/" target="_blank" rel="noopener noreferrer nofollow">https://blog.google/company-news/outreach-and-initiatives/sustainability/google-kairos-power-nuclear-energy-agreement/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New nuclear clean energy agreement with Kairos PowerOct 14, 2024 — The initial phase of work is intended to bring Kairos Power&#x27;s first SM...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: reuters.com  
    Title: Time to go nuclear?  
-   Link: <a href="https://www.reuters.com/sustainability/climate-energy/time-go-nuclear-inside-battle-power-ai--ecmii-2025-12-17/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/sustainability/climate-energy/time-go-nuclear-inside-battle-power-ai--ecmii-2025-12-17/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Inside the battle to power AIAs AI technology rapidly expands, the demand for data centers—and consequently, electricity—is soaring. Fore...</p></details>
+   Link:<a href="https://www.reuters.com/sustainability/climate-energy/time-go-nuclear-inside-battle-power-ai--ecmii-2025-12-17/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/sustainability/climate-energy/time-go-nuclear-inside-battle-power-ai--ecmii-2025-12-17/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Inside the battle to power AIAs AI technology rapidly expands, the demand for data centers—and consequently, electricity—is soaring. Fore...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: techcrunch.com  
    Title: Tim De Chant. 3  
-   Link: <a href="https://techcrunch.com/2024/10/14/google-signed-a-deal-to-power-data-centers-with-nuclear-micro-reactors-from-kairos-but-the-2030-timeline-is-very-optimistic/" target="_blank" rel="noopener noreferrer nofollow">https://techcrunch.com/2024/10/14/google-signed-a-deal-to-power-data-centers-with-nuclear-micro-reactors-from-kairos-but-the-2030-timeline-is-very-optimistic/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Google signed a deal to power data centers with nuclear...Oct 14, 2024 — Google signed a deal to power data centers with nucle...</p></details>
+   Link:<a href="https://techcrunch.com/2024/10/14/google-signed-a-deal-to-power-data-centers-with-nuclear-micro-reactors-from-kairos-but-the-2030-timeline-is-very-optimistic/" target="_blank" rel="noopener noreferrer nofollow">https://techcrunch.com/2024/10/14/google-signed-a-deal-to-power-data-centers-with-nuclear-micro-reactors-from-kairos-but-the-2030-timeline-is-very-optimistic/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google signed a deal to power data centers with nuclear...Oct 14, 2024 — Google signed a deal to power data centers with nucle...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nucnet.org  
    Title: google to commit funding for three advanced nuclear power projects 5 4 2025  
-   Link: <a href="https://www.nucnet.org/news/google-to-commit-funding-for-three-advanced-nuclear-power-projects-5-4-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.nucnet.org/news/google-to-commit-funding-for-three-advanced-nuclear-power-projects-5-4-2025</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Google To Commit Funding For Three Advanced Nuclear...8 May 2025 — The deal at that time said the first Kairos project would come online...</p></details>
+   Link:<a href="https://www.nucnet.org/news/google-to-commit-funding-for-three-advanced-nuclear-power-projects" target="_blank" rel="noopener noreferrer nofollow">https://www.nucnet.org/news/google-to-commit-funding-for-three-advanced-nuclear-power-projects</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google To Commit Funding For Three Advanced Nuclear...8 May 2025 — The deal at that time said the first Kairos project would come online...</p></details>
    Published: May 2025  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: irecruit.co  
-   Link: <a href="https://www.irecruit.co/insights/smr-nuclear-powered-data-center-developments" target="_blank" rel="noopener noreferrer nofollow">https://www.irecruit.co/insights/smr-nuclear-powered-data-center-developments</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SMR Data Centers Tracker: Nuclear-Powered Projects 20267 days ago — The delays in deploying SMR-powered data centers largely arise from t...</p></details>
+   Link:<a href="https://www.irecruit.co/insights/smr-nuclear-powered-data-center-developments" target="_blank" rel="noopener noreferrer nofollow">https://www.irecruit.co/insights/smr-nuclear-powered-data-center-developments</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SMR Data Centers Tracker: Nuclear-Powered Projects 20267 days ago — The delays in deploying SMR-powered data centers largely arise from t...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: perkinscoie.com  
    Title: nuclear industry kicks 2026 major public and private sector announcements 0  
-   Link: <a href="https://perkinscoie.com/insights/update/nuclear-industry-kicks-2026-major-public-and-private-sector-announcements-0" target="_blank" rel="noopener noreferrer nofollow">https://perkinscoie.com/insights/update/nuclear-industry-kicks-2026-major-public-and-private-sector-announcements-0</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Nuclear Industry Kicks Off 2026 With Major Public and...Jan 27, 2026 — Project developers and hyperscalers face ongoing risks related to...</p></details>
+   Link:<a href="https://perkinscoie.com/insights/update/nuclear-industry-kicks-2026-major-public-and-private-sector-announcements-0" target="_blank" rel="noopener noreferrer nofollow">https://perkinscoie.com/insights/update/nuclear-industry-kicks-2026-major-public-and-private-sector-announcements-0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nuclear Industry Kicks Off 2026 With Major Public and...Jan 27, 2026 — Project developers and hyperscalers face ongoing risks related to...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reuters.com  
    Title: NRC rolls out reforms to accelerate small reactor licensing  
-   Link: <a href="https://www.reuters.com/business/energy/nrc-rolls-out-reforms-accelerate-small-reactor-licensing--reeii-2026-05-26/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/energy/nrc-rolls-out-reforms-accelerate-small-reactor-licensing--reeii-2026-05-26/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Nuclear Regulatory Commission (NRC) is expediting three major regulatory reforms to fast-track small modular and microreactor licensing...</p></details>
+   Link:<a href="https://www.reuters.com/business/energy/nrc-rolls-out-reforms-accelerate-small-reactor-licensing--reeii-2026-05-26/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/energy/nrc-rolls-out-reforms-accelerate-small-reactor-licensing--reeii-2026-05-26/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nuclear Regulatory Commission (NRC) is expediting three major regulatory reforms to fast-track small modular and microreactor licensing...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2504.02599" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2504.02599</a>  
+   Link:<a href="https://arxiv.org/abs/2504.02599" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2504.02599</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/business/energy/pentagon-spurs-us-microreactor-race-commercial-hurdles-remain--reeii-2026-05-27/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/energy/pentagon-spurs-us-microreactor-race-commercial-hurdles-remain--reeii-2026-05-27/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of Defense (DOD) is accelerating development of nuclear microreactors—compact reactors with capacities of 1–20 MW—through init...</p></details>
+   Link:<a href="https://www.reuters.com/business/energy/pentagon-spurs-us-microreactor-race-commercial-hurdles-remain--reeii-2026-05-27/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/energy/pentagon-spurs-us-microreactor-race-commercial-hurdles-remain--reeii-2026-05-27/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of Defense (DOD) is accelerating development of nuclear microreactors—compact reactors with capacities of 1–20 MW—through init...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2603.00415" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2603.00415</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Grid Integration of AI Data Centers: A Critical Review of Energy Storage SolutionsFebruary 28, 2026...</p></details>
+   Link:<a href="https://arxiv.org/abs/2603.00415" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2603.00415</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Grid Integration of AI Data Centers: A Critical Review of Energy Storage SolutionsFebruary 28, 2026...</p></details>
    Published: February 28, 2026  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2603.09110" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2603.09110</a>  
+   Link:<a href="https://arxiv.org/abs/2603.09110" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2603.09110</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: iea.org  
-   Link: <a href="https://www.iea.org/reports/the-path-to-a-new-era-for-nuclear-energy/executive-summary" target="_blank" rel="noopener noreferrer nofollow">https://www.iea.org/reports/the-path-to-a-new-era-for-nuclear-energy/executive-summary</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Open... Small modular reactor global installed capacity by scenario and case, 2025-2050.Read more...</p></details>
+   Link:<a href="https://www.iea.org/reports/the-path-to-a-new-era-for-nuclear-energy/executive-summary" target="_blank" rel="noopener noreferrer nofollow">https://www.iea.org/reports/the-path-to-a-new-era-for-nuclear-energy/executive-summary</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Open... Small modular reactor global installed capacity by scenario and case, 2025-2050.Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1738573324005643" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1738573324005643</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The potential role of small modular reactors (SMRs) in...by S Cha · 2025 · Cited by 20 — This study investigates the necess...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S1738573324005643" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1738573324005643</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The potential role of small modular reactors (SMRs) in...by S Cha · 2025 · Cited by 20 — This study investigates the necess...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/write-your-world/the-great-ai-power-problem-2710cad6523d" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/write-your-world/the-great-ai-power-problem-2710cad6523d</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Great AI Power ProblemThe Great AI Power Problem How Small Modular Reactors Will Become the Only Scalable Answer to Data Center Energ...</p></details>
+   Link:<a href="https://medium.com/write-your-world/the-great-ai-power-problem-2710cad6523d" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/write-your-world/the-great-ai-power-problem-2710cad6523d</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Great AI Power ProblemThe Great AI Power Problem How Small Modular Reactors Will Become the Only Scalable Answer to Data Center Energ...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: energy.gov  
    Title: advantages and challenges nuclear powered data centers  
-   Link: <a href="https://www.energy.gov/ne/articles/advantages-and-challenges-nuclear-powered-data-centers" target="_blank" rel="noopener noreferrer nofollow">https://www.energy.gov/ne/articles/advantages-and-challenges-nuclear-powered-data-centers</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>New reactors will take time to build. · 2. First-of-a-kind reactor deployments are expensive. · 3. Metering issues could be a hurdle. · 4...</p></details>
+   Link:<a href="https://www.energy.gov/ne/articles/advantages-and-challenges-nuclear-powered-data-centers" target="_blank" rel="noopener noreferrer nofollow">https://www.energy.gov/ne/articles/advantages-and-challenges-nuclear-powered-data-centers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New reactors will take time to build. · 2. First-of-a-kind reactor deployments are expensive. · 3. Metering issues could be a hurdle. · 4...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: eia.gov  
-   Link: <a href="https://www.eia.gov/todayinenergy/detail.php?id=67584" target="_blank" rel="noopener noreferrer nofollow">https://www.eia.gov/todayinenergy/detail.php?id=67584</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Energy Information AdministrationToday in Energy8 days ago — High capital costs and lengthy licensing and approval processes have li...</p></details>
+   Link:<a href="https://www.eia.gov/todayinenergy/detail.php?id=67584" target="_blank" rel="noopener noreferrer nofollow">https://www.eia.gov/todayinenergy/detail.php?id=67584</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Energy Information AdministrationToday in Energy8 days ago — High capital costs and lengthy licensing and approval processes have li...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: Wikipedia  
    Title: Nuclear Regulatory Commission  
-   Link: <a href="https://en.wikipedia.org/wiki/Nuclear_Regulatory_Commission" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Nuclear_Regulatory_Commission</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nuclear Regulatory CommissionIts functions include overseeing reactor safety and security, administering reactor licensing and renewal...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Nuclear_Regulatory_Commission" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Nuclear_Regulatory_Commission</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nuclear Regulatory CommissionIts functions include overseeing reactor safety and security, administering reactor licensing and renewal...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: gisreportsonline.com  
-   Link: <a href="https://www.gisreportsonline.com/r/smrs/" target="_blank" rel="noopener noreferrer nofollow">https://www.gisreportsonline.com/r/smrs/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What is holding up progress on small modular reactors?25 Nov 2025 — Similarly, Google has partnered with Kairos Power to bring SMRs onlin...</p></details>
+   Link:<a href="https://www.gisreportsonline.com/r/smrs/" target="_blank" rel="noopener noreferrer nofollow">https://www.gisreportsonline.com/r/smrs/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What is holding up progress on small modular reactors?25 Nov 2025 — Similarly, Google has partnered with Kairos Power to bring SMRs onlin...</p></details>
 
 ### Additional References
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: nrc.gov  
-   Link: <a href="https://www.nrc.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.nrc.gov/</a>  
+   Link:<a href="https://www.nrc.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.nrc.gov/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/investing/comments/1p5bdlu/big_tech_going_nuclear_hype_or_real/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/investing/comments/1p5bdlu/big_tech_going_nuclear_hype_or_real/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Big tech going Nuclear Hype or Real?: r/investingMost people think Big Tech going nuclear is hype. They’re about to be very wrong. Micro...</p></details>
+   Link:<a href="https://www.reddit.com/r/investing/comments/1p5bdlu/big_tech_going_nuclear_hype_or_real/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/investing/comments/1p5bdlu/big_tech_going_nuclear_hype_or_real/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Big tech going Nuclear Hype or Real?: r/investingMost people think Big Tech going nuclear is hype. They’re about to be very wrong. Micro...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: businessinsider.com  
-   Link: <a href="https://www.businessinsider.com/small-modular-reactor-venture-capital-ai-data-centers-2025-3" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/small-modular-reactor-venture-capital-ai-data-centers-2025-3</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>These companies include X-energy, TerraPower, Newcleo, and NuScale Power. SMRs produce around 300 megawatts, compared to traditional reac...</p></details>
+   Link:<a href="https://www.businessinsider.com/small-modular-reactor-venture-capital-ai-data-centers" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/small-modular-reactor-venture-capital-ai-data-centers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>These companies include X-energy, TerraPower, Newcleo, and NuScale Power. SMRs produce around 300 megawatts, compared to traditional reac...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: nrchealth.com  
-   Link: <a href="https://nrchealth.com/" target="_blank" rel="noopener noreferrer nofollow">https://nrchealth.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NRC HealthNRC Health has built a healthcare experience management platform with next-gen AI that drives the most human healthcare experie...</p></details>
+   Link:<a href="https://nrchealth.com/" target="_blank" rel="noopener noreferrer nofollow">https://nrchealth.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NRC HealthNRC Health has built a healthcare experience management platform with next-gen AI that drives the most human healthcare experie...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/amy-roma-jd-mba_with-electricity-demand-rising-serious-capital-activity-7414429722215911424-t7QD" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/amy-roma-jd-mba_with-electricity-demand-rising-serious-capital-activity-7414429722215911424-t7QD</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NRC Activity Accelerates in 2026 with Licensing and...Under the 11th plan, data center electricity demand is projected to... (Small Mod...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/amy-roma-jd-mba_with-electricity-demand-rising-serious-capital-activity-7414429722215911424-t7QD" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/amy-roma-jd-mba_with-electricity-demand-rising-serious-capital-activity-7414429722215911424-t7QD</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NRC Activity Accelerates in 2026 with Licensing and...Under the 11th plan, data center electricity demand is projected to... (Small Mod...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: shumaker.com  
-   Link: <a href="https://www.shumaker.com/insight/nuclear-powered-artificial-[intelligence" target="_blank" rel="noopener noreferrer nofollow">https://www.shumaker.com/insight/nuclear-powered-artificial-[intelligence</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Nuclear Powered Artificial Intelligence (AI): Small Modular...12 Dec 2025 — AI is advancing at extraordinary speed due to development o...</p></details>
+   Link:<a href="https://www.shumaker.com/insight/nuclear-powered-artificial-[intelligence" target="_blank" rel="noopener noreferrer nofollow">https://www.shumaker.com/insight/nuclear-powered-artificial-[intelligence</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Nuclear Powered Artificial Intelligence (AI): Small Modular...12 Dec 2025 — AI is advancing at extraordinary speed due to development o...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/toh-wee-khiang-0145a811_google-kairos-power-plan-advanced-nuclear-activity-7363436487360598016-e9Yl" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/toh-wee-khiang-0145a811_google-kairos-power-plan-advanced-nuclear-activity-7363436487360598016-e9Yl</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Google and Kairos to build advanced SMR by 2030, first...Data centers will be co-located on the 5,200-acre site and will receive power b...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/toh-wee-khiang-0145a811_google-kairos-power-plan-advanced-nuclear-activity-7363436487360598016-e9Yl" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/toh-wee-khiang-0145a811_google-kairos-power-plan-advanced-nuclear-activity-7363436487360598016-e9Yl</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google and Kairos to build advanced SMR by 2030, first...Data centers will be co-located on the 5,200-acre site and will receive power b...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: carboncredits.com  
-   Link: <a href="https://carboncredits.com/google-kairos-and-tva-unlock-advanced-nuclear-energy-for-americas-ai-data-centers/" target="_blank" rel="noopener noreferrer nofollow">https://carboncredits.com/google-kairos-and-tva-unlock-advanced-nuclear-energy-for-americas-ai-data-centers/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Google, Kairos, and TVA Unlock Advanced Nuclear Energy...Aug 20, 2025 — Google, Kairos Power, and TVA team up to deliver 50MW of advance...</p></details>
+   Link:<a href="https://carboncredits.com/google-kairos-and-tva-unlock-advanced-nuclear-energy-for-americas-ai-data-centers/" target="_blank" rel="noopener noreferrer nofollow">https://carboncredits.com/google-kairos-and-tva-unlock-advanced-nuclear-energy-for-americas-ai-data-centers/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google, Kairos, and TVA Unlock Advanced Nuclear Energy...Aug 20, 2025 — Google, Kairos Power, and TVA team up to deliver 50MW of advance...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: kairospower.com  
    Title: google and kairos power partner to deploy 500 mw of clean electricity generation  
-   Link: <a href="https://www.kairospower.com/updates/google-and-kairos-power-partner-to-deploy-500-mw-of-clean-electricity-generation" target="_blank" rel="noopener noreferrer nofollow">https://www.kairospower.com/updates/google-and-kairos-power-partner-to-deploy-500-mw-of-clean-electricity-generation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Google and Kairos Power Partner to Deploy 500 MW...Oct 14, 2024 — Plants will be sited in relevant service territories to supply clean e...</p></details>
+   Link:<a href="https://www.kairospower.com/updates/google-and-kairos-power-partner-to-deploy-500-mw-of-clean-electricity-generation" target="_blank" rel="noopener noreferrer nofollow">https://www.kairospower.com/updates/google-and-kairos-power-partner-to-deploy-500-mw-of-clean-electricity-generation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google and Kairos Power Partner to Deploy 500 MW...Oct 14, 2024 — Plants will be sited in relevant service territories to supply clean e...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: facebook.com  
    Title: google has partnered with kairos power to build small modular nuclear reactors s  
-   Link: <a href="https://www.facebook.com/fossbytes/posts/google-has-partnered-with-kairos-power-to-build-small-modular-nuclear-reactors-s/960687726099272/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fossbytes/posts/google-has-partnered-with-kairos-power-to-build-small-modular-nuclear-reactors-s/960687726099272/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Google has partnered with Kairos Power to build small...The reactors, expected to be operational between 2030 and 2035, will produce 500...</p></details>
+   Link:<a href="https://www.facebook.com/fossbytes/posts/google-has-partnered-with-kairos-power-to-build-small-modular-nuclear-reactors-s/960687726099272/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fossbytes/posts/google-has-partnered-with-kairos-power-to-build-small-modular-nuclear-reactors-s/960687726099272/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google has partnered with Kairos Power to build small...The reactors, expected to be operational between 2030 and 2035, will produce 500...</p></details>
